@@ -14,7 +14,6 @@ from bs4 import BeautifulSoup
 companydata = pd.read_csv("G:/My Drive/Academics/HKU/Misc/Alan's Work/Company List.csv", dtype = {'SearchQ':str})
 
 BasicInfo = pd.DataFrame()
-OtherInfo = pd.DataFrame()
 
 # This loop collects basic info for all companies
 for comp in range(0,len(companydata)):
@@ -33,8 +32,6 @@ for comp in range(0,len(companydata)):
     
     # all info is available in tables
     tables = soup.find_all('table')
-    heading3s = soup.find_all('h3')
-    heading4s = soup.find_all('h4')
     
     # setup empty lists to store information
     fields = []
@@ -70,3 +67,4 @@ for comp in range(0,len(companydata)):
 
 BasicInfo = BasicInfo.reset_index(drop=True)
 BasicInfo.to_csv("G:/My Drive/Academics/HKU/Misc/Alan's Work/BasicInfo.csv", index=None)
+del comp
