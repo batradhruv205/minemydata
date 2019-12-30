@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 # This is the mac Command
 #companydata = pd.read_csv("Company List.csv", dtype = {'SearchQ':str})
 # This is the Win Command
-companydata = pd.read_csv("G:/My Drive/Academics/HKU/Misc/Alan's Work/Company List.csv", dtype = {'SearchQ':str})
+companydata = pd.read_csv("Input Files/Company List.csv", dtype = {'SearchQ':str})
 
 OtherInfo = pd.DataFrame()
 
