@@ -28,6 +28,7 @@ for comp in range(0,len(companydata)):
     url = "https://webb-site.com/dbpub/orgdata.asp?code=" + code + "&Submit=current"
     # setup the page
     page = requests.get(url)
+    page.encoding = 'utf8'
     soup = BeautifulSoup(page.text, 'lxml')
     
     # all info is available in tables
@@ -62,9 +63,6 @@ for comp in range(0,len(companydata)):
     # Apppend BasicInfoTemp to Basic Info.
     # If there are new columns, then BasicInfo should add that column and set values for other rows as NA
     BasicInfo=BasicInfo.append(BasicInfoTemp)
-    del (BasicInfoTemp, code, fields, heading3s,\
-         heading4s, j ,k, table0, tables, url, values)
 
 BasicInfo = BasicInfo.reset_index(drop=True)
 BasicInfo.to_csv("G:/My Drive/Academics/HKU/Misc/Alan's Work/BasicInfo.csv", index=None)
-del comp

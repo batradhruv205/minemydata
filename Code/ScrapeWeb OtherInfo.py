@@ -16,17 +16,12 @@ companydata = pd.read_csv("Input Files/Company List.csv", dtype = {'SearchQ':str
 OtherInfo = pd.DataFrame()
 
 for comp in range(0,len(companydata)):
-#    # These lines are controlling the parent loop
-#    if comp > 0:
-#        print (comp)
-#        del comp
-#        break
-#    comp = 3
     print (comp)
     code = companydata['SearchQ'][comp]
     url = "https://webb-site.com/dbpub/orgdata.asp?code=" + code + "&Submit=current"
     # setup the page
     page = requests.get(url)
+    page.encoding='utf8'
     soup = BeautifulSoup(page.text, 'lxml')
     tables = soup.find_all('table')
     heading3s = soup.find_all('h3')
@@ -37,7 +32,7 @@ for comp in range(0,len(companydata)):
     for tb in tables:
         fields =[]
         values=[]
-    
+            
         tbprev = tb.previous_sibling.previous_sibling
         tbprev2 = tbprev.previous_sibling.previous_sibling
         
@@ -66,9 +61,8 @@ for comp in range(0,len(companydata)):
     
 OtherInfo.columns=['Company Code','Data Type','Data Columns','Data']
 OtherInfo = OtherInfo.reset_index(drop=True)
-OtherInfo.to_csv("C:/Users/batra/Documents/GitHub/minemydata/Output Files/OtherInfo.csv", index = None)
-# Need to convert OtherInfo into more readable tables
+OtherInfo.to_csv("Output Files/OtherInfo.csv", index = None)
+
         
 
-    
     
