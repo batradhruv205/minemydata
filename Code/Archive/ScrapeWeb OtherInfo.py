@@ -15,6 +15,11 @@ companydata = pd.read_csv("Input Files/Company List.csv", dtype = {'SearchQ':str
 
 OtherInfo = pd.DataFrame()
 
+def nextsib (elem, num):
+    for i in range(0, num):
+        elem = elem.next_sibling
+    return(elem)
+
 for comp in range(0,len(companydata)):
     print (comp)
     code = companydata['SearchQ'][comp]
@@ -24,8 +29,7 @@ for comp in range(0,len(companydata)):
     page.encoding='utf8'
     soup = BeautifulSoup(page.text, 'lxml')
     tables = soup.find_all('table')
-    heading3s = soup.find_all('h3')
-    heading4s = soup.find_all('h4')
+    holdings = soup.find_all('h3', id="D0")
     
     OtherTables =[]
     
@@ -56,6 +60,25 @@ for comp in range(0,len(companydata)):
         
         else:
             continue
+    
+    for hld in holdings:
+        if nextsib(hld, 10).name == "table":
+            holdtbl = nextsib(hld, 10)
+            fields =[]
+            values=[]
+            
+            for k in holdtbl.find_all("th"):
+                fields.append(k.get_text())
+            for k in holdtbl.find_all("td"):
+                content = k.get_text()
+                if k.find("a"):
+                    content = content + " (" + k.find("a").get("href") + ")"
+                elif k.find("span"):
+                    content = content[0:2]
+                values.append(content)
+                
+        OtherTables.append([code,"Holdings",fields,values])
+
     OtherInfo = OtherInfo.append(pd.DataFrame(OtherTables))
  
     

@@ -33,12 +33,12 @@ for i in range(0,len(OtherInfo)):
 
 
 DTypes = pd.DataFrame(OtherInfo[['DType','Data Columns']])
-DTypes = DTypes.drop_duplicates()
+DTypes = DTypes.drop_duplicates(subset="DType")
 DTypes = DTypes.reset_index(drop=True)
 
 # Look for unknown table types
 TableTypes = ['Foreign registrations','Name history', 'Reorganised from', \
-              'Listed securities', 'Domicile history']
+              'Listed securities', 'Domicile history', 'Holdings']
 for i in DTypes['DType']:
     if i not in TableTypes:
         print(i)
@@ -66,11 +66,15 @@ LisSec = pd.DataFrame(columns = conv2dt2(DTypes.loc[DTypes['DType']==\
 LisSec.insert(0, 'Type',"")
 LisSec.insert(0, "CompanyCode","")
 
+Holds = pd.DataFrame(columns = conv2dt2(DTypes.loc[DTypes['DType']==\
+                                                    "Holdings"]\
+                                         ['Data Columns'][4]))
+Holds.insert(0, "CompanyCode", "")
+
 DomHist = pd.DataFrame(columns = conv2dt2(DTypes.loc[DTypes['DType']==\
                                                     "Domicile history"]\
-                                         ['Data Columns'][4]))
+                                          ['Data Columns'][5]))
 DomHist.insert(0, "CompanyCode","")
-
 
 for i in range(len(OtherInfo)):
     if OtherInfo['DType'][i] == "Foreign registrations":
@@ -111,34 +115,54 @@ for i in range(len(OtherInfo)):
         col2 = OtherInfo.loc[i][1][19:-1]
         data = conv2dt2(OtherInfo.loc[i][3])
         for i in range(0,int(len(data)/(len(LisSec.columns)-2))):
-            col3 = data[2*i+0]
-            col4 = data[2*i+1]
-            col5 = data[2*i+2]
-            col6 = data[2*i+3]
-            col7 = data[2*i+4]
-            col8 = data[2*i+5]
+            col3 = data[6*i+0]
+            col4 = data[6*i+1]
+            col5 = data[6*i+2]
+            col6 = data[6*i+3]
+            col7 = data[6*i+4]
+            col8 = data[6*i+5]
             LisSec = LisSec.append(pd.DataFrame\
                            ({"CompanyCode":[col1],"Type":[col2], \
                              "Market":[col3],"Code":[col4],"List":[col5],\
                                  "Last trade":[col6],"Delist":[col7],"Notes":[col8]}))
+
+    elif OtherInfo['DType'][i] == "Holdings":
+        col1 = OtherInfo.loc[i][0]
+        data = conv2dt2(OtherInfo.loc[i][3])
+        for i in range(0,int(len(data)/(len(Holds.columns)-1))):
+            col2 = data[7*i+0]
+            col3 = data[7*i+1]
+            col4 = data[7*i+2]
+            col5 = data[7*i+3]
+            col6 = data[7*i+4]
+            col7 = data[7*i+5]
+            col8 = data[7*i+6]
+            Holds = Holds.append(pd.DataFrame\
+                                 ({"CompanyCode":[col1],"Issuer":[col2],\
+                                   "🌐":[col3],"Formed":[col4], "Issue":[col5]\
+                                       , "Shares":[col6], "Stake":[col8],\
+                                           "Holding date":[col8]}))
         
     elif OtherInfo['DType'][i] == "Domicile history":
         col1 = OtherInfo.loc[i][0]
         data = conv2dt2(OtherInfo.loc[i][3])
         for i in range(0,int(len(data)/(len(DomHist.columns)-1))):
-            col2 = data[3*i+0]
-            col3 = data[3*i+1]
+            col2 = data[2*i+0]
+            col3 = data[2*i+1]
             DomHist = DomHist.append(pd.DataFrame\
                            ({"CompanyCode":[col1],"Old domicile":[col2], \
                              "Until":[col3]}))
+    
     ForReg = ForReg.reset_index(drop=True)
     NamHist = NamHist.reset_index(drop=True)
     DomHist = DomHist.reset_index(drop=True)
     LisSec = LisSec.reset_index(drop=True)
     ReFrom = ReFrom.reset_index(drop=True)
+    Holds = Holds.reset_index(drop=True)
     
 ForReg.to_csv("Output Files/ForReg.csv")
 NamHist.to_csv("Output Files/NamHist.csv")
 DomHist.to_csv("Output Files/DomHist.csv")
 LisSec.to_csv("Output Files/LisSec.csv")
 ReFrom.to_csv("Output Files/ReFrom.csv")
+Holds.to_csv("Output Files/Holds.csv")
