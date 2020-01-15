@@ -8,6 +8,7 @@ Created on Tue Jan 14 16:47:07 2020
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
+import re
 
 # This is the mac Command
 #companydata = pd.read_csv("Company List.csv", dtype = {'SearchQ':str})
@@ -216,6 +217,14 @@ for i in range(len(OtherInfo)):
     ReFrom = ReFrom.reset_index(drop=True)
     Holds = Holds.reset_index(drop=True)
     
+Holds.insert(2,"URL","")
+
+for i in range(0,len(Holds)):
+    url = "https://webb-site.com/dbpub/"+ re.findall("\(orgdata\.asp\?.*\)",Holds['Issuer'][i])[0][1:-1]
+    Holds['URL'][i] = url
+    Holds['Issuer'][i] = Holds['Issuer'][i][:(re.search("\(orgdata.*\)",Holds['Issuer'][i]).start(0)-1)]
+    
+
 ForReg.to_csv("Output Files/ForReg.csv", index=None)
 NamHist.to_csv("Output Files/NamHist.csv", index=None)
 DomHist.to_csv("Output Files/DomHist.csv", index=None)
