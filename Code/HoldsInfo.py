@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Nov 11 14:01:21 2019
+Created on Sun Jan 19 19:28:35 2020
 
 @author: batra
 """
@@ -8,30 +8,17 @@ Created on Mon Nov 11 14:01:21 2019
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
-# This is the mac Command
-#companydata = pd.read_csv("Company List.csv", dtype = {'SearchQ':str})
-# This is the Win Command
-companydata = pd.read_csv("Input Files/Company List.csv", dtype = {'SearchQ':str})
 
-BasicInfo = pd.DataFrame()
+Holds = pd.read_csv("Output Files/Holds.csv")
+HoldsInfo = pd.DataFrame()
 
-# This loop collects basic info for all companies
-for comp in range(0,len(companydata)):
-#    # These lines are controlling the parent loop
-#    if comp > 2:
-#        del comp
-#        break
-#    comp = 3
-    
-    code = companydata['SearchQ'][comp]
-    print(code)
-    url = "https://webb-site.com/dbpub/orgdata.asp?code=" + code + "&Submit=current"
+for i in range(0, len(Holds)):
+    print(Holds['CompanyCode'][i])
+    url = Holds['URL'][i]
     # setup the page
     page = requests.get(url)
     page.encoding = 'utf8'
     soup = BeautifulSoup(page.text, 'lxml')
-    
-    # all info is available in tables
     tables = soup.find_all('table')
     
     # setup empty lists to store information
@@ -45,8 +32,6 @@ for comp in range(0,len(companydata)):
     # Company Name
     fields.append('Company Name')
     values.append(soup.h2.get_text())
-    fields.append('Company Code')
-    values.append(code)
 
     # First Table
     table0 = tables[0].find_all('td')
@@ -62,7 +47,15 @@ for comp in range(0,len(companydata)):
     
     # Apppend BasicInfoTemp to Basic Info.
     # If there are new columns, then BasicInfo should add that column and set values for other rows as NA
-    BasicInfo=BasicInfo.append(BasicInfoTemp)
+    HoldsInfo=HoldsInfo.append(BasicInfoTemp)
+    
+HoldsInfo = HoldsInfo.reset_index(drop=True)
+HoldsInfo = HoldsInfo.rename(columns={'Company Name':'Issuer'})
 
-BasicInfo = BasicInfo.reset_index(drop=True)
-BasicInfo.to_csv("Output Files/BasicInfo.csv", index=None)
+HoldsTable = Holds.merge(HoldsInfo, left_index=True, right_index=True)
+HoldsTable = HoldsTable.drop(columns=['Issuer_x','🌐','CompanyCode_y'])
+
+HoldsTable = HoldsTable[['CompanyCode_x','Issuer_y','Domicile:','Shares','Stake','Holding date','Formed','Issue','Dissolved date:','Formed','Incorporation number:','Last check on companies registry:','PIBA ID:', 'Primary Listing:', 'SFC ID:', 'Status:', 'Type:','Web sites:', 'Year-end:','URL']]
+HoldsTable = HoldsTable.rename(columns={'CompanyCode_x':'CompanyCode','Issuer_y':'Issuer'})
+
+HoldsTable.to_csv("Output Files/HoldsInfo.csv", index = None)

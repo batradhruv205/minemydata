@@ -199,7 +199,7 @@ for i in range(len(OtherInfo)):
             Holds = Holds.append(pd.DataFrame\
                                  ({"CompanyCode":[col1],"Issuer":[col2],\
                                    "🌐":[col3],"Formed":[col4], "Issue":[col5]\
-                                       , "Shares":[col6], "Stake":[col8],\
+                                       , "Shares":[col6], "Stake":[col7],\
                                            "Holding date":[col8]}))
     elif OtherInfo['DType'][i] == "Domicile history":
         col1 = OtherInfo.loc[i][0]
