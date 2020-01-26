@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 22 00:32:19 2020
-
-@author: batra
-"""
+# This script scrapes through https://webb-site.com/dbpub/SFClicount.asp to scrape the main table and get URLs to each company's page
 
 import pandas as pd
 import requests
