@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Shuk Ping 陳淑冰",sfclicrec.asp?p=115195,,,Rep,2005-03-02,2006-06-26
-"Choy, Christy Cho Kwong 蔡祖光",sfclicrec.asp?p=31622,,M,RO,2003-10-06,2017-10-16
-"Choy, Christy Cho Kwong 蔡祖光",sfclicrec.asp?p=31622,,M,Rep,2017-10-16,
-"Kwok, Bill Chi Piu 郭志標",sfclicrec.asp?p=2485,68,M,RO,,
-"Kwok, Vivian Wing Wai 郭永蕙",sfclicrec.asp?p=98224,,F,Rep,2003-09-17,2013-08-31
-"Lau, Antonette Shuk Foon 劉淑歡",sfclicrec.asp?p=70079,,,Rep,2003-09-01,2010-04-30
-"Siu, Yuet Lun 蕭悅潾",sfclicrec.asp?p=111832,,,Rep,2004-01-06,2004-08-12
-"Tsang, Trini Chi Suen 曾熾暄",sfclicrec.asp?p=10832,67,M,Rep,2006-02-02,2012-07-30
-"Tsang, Trini Chi Suen 曾熾暄",sfclicrec.asp?p=10832,67,M,RO,2012-07-30,
-"Yuen, Garvin Ka Kui 袁嘉駒",sfclicrec.asp?p=115110,,,Rep,2005-01-31,2005-03-10
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Shuk Ping 陳淑冰",None,sfclicrec.asp?p=115195,ALQ274,http://www.sfc.hk/publicregWeb/indi/ALQ274/licenceRecord,,,Rep,2005-03-02,2006-06-26
+"Choy, Christy Cho Kwong 蔡祖光",None,sfclicrec.asp?p=31622,AAC197,http://www.sfc.hk/publicregWeb/indi/AAC197/licenceRecord,,M,RO,2003-10-06,2017-10-16
+"Choy, Christy Cho Kwong 蔡祖光",None,sfclicrec.asp?p=31622,AAC197,http://www.sfc.hk/publicregWeb/indi/AAC197/licenceRecord,,M,Rep,2017-10-16,
+"Kwok, Bill Chi Piu 郭志標",None,sfclicrec.asp?p=2485,AAC195,http://www.sfc.hk/publicregWeb/indi/AAC195/licenceRecord,68.0,M,RO,,
+"Kwok, Vivian Wing Wai 郭永蕙",None,sfclicrec.asp?p=98224,AGL163,http://www.sfc.hk/publicregWeb/indi/AGL163/licenceRecord,,F,Rep,2003-09-17,2013-08-31
+"Lau, Antonette Shuk Foon 劉淑歡",None,sfclicrec.asp?p=70079,AEI101,http://www.sfc.hk/publicregWeb/indi/AEI101/licenceRecord,,,Rep,2003-09-01,2010-04-30
+"Siu, Yuet Lun 蕭悅潾",None,sfclicrec.asp?p=111832,AIB684,http://www.sfc.hk/publicregWeb/indi/AIB684/licenceRecord,,,Rep,2004-01-06,2004-08-12
+"Tsang, Trini Chi Suen 曾熾暄",None,sfclicrec.asp?p=10832,AAC491,http://www.sfc.hk/publicregWeb/indi/AAC491/licenceRecord,67.0,M,Rep,2006-02-02,2012-07-30
+"Tsang, Trini Chi Suen 曾熾暄",None,sfclicrec.asp?p=10832,AAC491,http://www.sfc.hk/publicregWeb/indi/AAC491/licenceRecord,67.0,M,RO,2012-07-30,
+"Yuen, Garvin Ka Kui 袁嘉駒",None,sfclicrec.asp?p=115110,ALO569,http://www.sfc.hk/publicregWeb/indi/ALO569/licenceRecord,,,Rep,2005-01-31,2005-03-10

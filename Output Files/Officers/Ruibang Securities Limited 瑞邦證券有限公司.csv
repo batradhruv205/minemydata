@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, King Lam 張景霖",sfclicrec.asp?p=22076254,,,Rep,2018-08-20,
-"Chiu, Jo Jo Im Seong 趙艷嫦",sfclicrec.asp?p=91271,,,RO,2017-02-06,2018-01-16
-"Chong, Ka Fai 莊嘉輝",sfclicrec.asp?p=123406,,,Rep,2017-06-09,2018-05-04
-"Chung, Hiu Mei 鍾曉薇",sfclicrec.asp?p=2461812,,,Rep,2018-03-15,2018-10-11
-"Chung, Hiu Mei 鍾曉薇",sfclicrec.asp?p=2461812,,,RO,2018-10-11,
-"Ho, Wai Ting 何偉庭",sfclicrec.asp?p=2547844,,,Rep,2017-05-24,2018-08-01
-"Klip, Donald William ",sfclicrec.asp?p=72363,,M,RO,2017-02-06,
-"Ng, Wing Chun 吳詠臻",sfclicrec.asp?p=23086686,,,Rep,2019-04-24,
-"Tam, Shing Tak 譚聖德",sfclicrec.asp?p=94638,,,Rep,2017-08-22,2017-10-11
-"Tam, Shing Tak 譚聖德",sfclicrec.asp?p=94638,,,RO,2017-10-11,2019-02-08
-"Wan, Pui Shan (SFC:ANG183) 溫佩珊",sfclicrec.asp?p=2462449,,,Rep,2017-05-24,2018-11-16
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, King Lam 張景霖",None,sfclicrec.asp?p=22076254,BMO728,http://www.sfc.hk/publicregWeb/indi/BMO728/licenceRecord,,,Rep,2018-08-20,
+"Chiu, Jo Jo Im Seong 趙艷嫦",None,sfclicrec.asp?p=91271,AQC495,http://www.sfc.hk/publicregWeb/indi/AQC495/licenceRecord,,,RO,2017-02-06,2018-01-16
+"Chong, Ka Fai 莊嘉輝",None,sfclicrec.asp?p=123406,APY423,http://www.sfc.hk/publicregWeb/indi/APY423/licenceRecord,,,Rep,2017-06-09,2018-05-04
+"Chung, Hiu Mei 鍾曉薇",None,sfclicrec.asp?p=2461812,BGA487,http://www.sfc.hk/publicregWeb/indi/BGA487/licenceRecord,,,Rep,2018-03-15,2018-10-11
+"Chung, Hiu Mei 鍾曉薇",None,sfclicrec.asp?p=2461812,BGA487,http://www.sfc.hk/publicregWeb/indi/BGA487/licenceRecord,,,RO,2018-10-11,
+"Ho, Wai Ting 何偉庭",None,sfclicrec.asp?p=2547844,BHA300,http://www.sfc.hk/publicregWeb/indi/BHA300/licenceRecord,,,Rep,2017-05-24,2018-08-01
+"Klip, Donald William ",None,sfclicrec.asp?p=72363,ADI595,http://www.sfc.hk/publicregWeb/indi/ADI595/licenceRecord,,M,RO,2017-02-06,
+"Ng, Wing Chun 吳詠臻",None,sfclicrec.asp?p=23086686,BOF255,http://www.sfc.hk/publicregWeb/indi/BOF255/licenceRecord,,,Rep,2019-04-24,
+"Tam, Shing Tak 譚聖德",None,sfclicrec.asp?p=94638,AUI999,http://www.sfc.hk/publicregWeb/indi/AUI999/licenceRecord,,,Rep,2017-08-22,2017-10-11
+"Tam, Shing Tak 譚聖德",None,sfclicrec.asp?p=94638,AUI999,http://www.sfc.hk/publicregWeb/indi/AUI999/licenceRecord,,,RO,2017-10-11,2019-02-08
+"Wan, Pui Shan (SFC:ANG183) 溫佩珊",None,sfclicrec.asp?p=2462449,ANG183,http://www.sfc.hk/publicregWeb/indi/ANG183/licenceRecord,,,Rep,2017-05-24,2018-11-16

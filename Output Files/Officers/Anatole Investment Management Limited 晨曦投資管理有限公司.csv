@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Guo, Chenggang 郭成剛",sfclicrec.asp?p=2676104,,,Rep,2016-12-23,
-"Lee, Gary (SFC:AUP537) 李嘉瑜",sfclicrec.asp?p=93778,,M,RO,2016-05-24,
-"Luo, Wei (SFC:BBA465) 羅威",sfclicrec.asp?p=2038817,,,Rep,2016-06-17,
-"Sum, Alfred Sze Ching 沈時政",sfclicrec.asp?p=133736,,M,Rep,2017-05-12,
-"Yang, Xiaofan 楊曉帆",sfclicrec.asp?p=123767,,,RO,2016-05-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Guo, Chenggang 郭成剛",None,sfclicrec.asp?p=2676104,BIV430,http://www.sfc.hk/publicregWeb/indi/BIV430/licenceRecord,,,Rep,2016-12-23,
+"Lee, Gary (SFC:AUP537) 李嘉瑜",None,sfclicrec.asp?p=93778,AUP537,http://www.sfc.hk/publicregWeb/indi/AUP537/licenceRecord,,M,RO,2016-05-24,
+"Luo, Wei (SFC:BBA465) 羅威",None,sfclicrec.asp?p=2038817,BBA465,http://www.sfc.hk/publicregWeb/indi/BBA465/licenceRecord,,,Rep,2016-06-17,
+"Sum, Alfred Sze Ching 沈時政",None,sfclicrec.asp?p=133736,AYK663,http://www.sfc.hk/publicregWeb/indi/AYK663/licenceRecord,,M,Rep,2017-05-12,
+"Yang, Xiaofan 楊曉帆",None,sfclicrec.asp?p=123767,AQD047,http://www.sfc.hk/publicregWeb/indi/AQD047/licenceRecord,,,RO,2016-05-24,

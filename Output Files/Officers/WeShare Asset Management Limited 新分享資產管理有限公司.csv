@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chiao, Wei-Wen 焦威文",sfclicrec.asp?p=2605992,,,RO,2018-08-07,2019-11-30
-"Choy, Chun Leung 蔡駿良",sfclicrec.asp?p=22584220,,,Rep,2018-12-24,
-"Fu, Weigang (SFC:BOU458) 付偉剛",sfclicrec.asp?p=24139198,,,RO,2020-01-20,
-"Thai, Thanh Hung 蔡成雄",sfclicrec.asp?p=48876,51,M,RO,2018-08-07,
-"Wang, Jie (SFC:BOK084) ",sfclicrec.asp?p=23676744,,,Rep,2019-09-17,
-"Zhang, Fan (SFC:AWE514) 張帆",sfclicrec.asp?p=72324,,,RO,2019-03-18,2019-09-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chiao, Wei-Wen 焦威文",None,sfclicrec.asp?p=2605992,BHH369,http://www.sfc.hk/publicregWeb/indi/BHH369/licenceRecord,,,RO,2018-08-07,2019-11-30
+"Choy, Chun Leung 蔡駿良",None,sfclicrec.asp?p=22584220,BNV567,http://www.sfc.hk/publicregWeb/indi/BNV567/licenceRecord,,,Rep,2018-12-24,
+"Fu, Weigang (SFC:BOU458) 付偉剛",None,sfclicrec.asp?p=24139198,BOU458,http://www.sfc.hk/publicregWeb/indi/BOU458/licenceRecord,,,RO,2020-01-20,
+"Thai, Thanh Hung 蔡成雄",None,sfclicrec.asp?p=48876,ALB240,http://www.sfc.hk/publicregWeb/indi/ALB240/licenceRecord,51.0,M,RO,2018-08-07,
+"Wang, Jie (SFC:BOK084) ",None,sfclicrec.asp?p=23676744,BOK084,http://www.sfc.hk/publicregWeb/indi/BOK084/licenceRecord,,,Rep,2019-09-17,
+"Zhang, Fan (SFC:AWE514) 張帆",None,sfclicrec.asp?p=72324,AWE514,http://www.sfc.hk/publicregWeb/indi/AWE514/licenceRecord,,,RO,2019-03-18,2019-09-30

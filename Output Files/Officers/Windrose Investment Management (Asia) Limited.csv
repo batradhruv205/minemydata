@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Davidson, Gregory Edward ",sfclicrec.asp?p=97868,,M,RO,2018-06-14,
-"Lam, Sai Kit 林世傑",sfclicrec.asp?p=17483558,,,RO,2018-06-14,2018-12-07
-"Lin, Zuodong 林作棟",sfclicrec.asp?p=22223896,,,Rep,2018-09-26,
-"Reece, Steven Jonathan (SFC:BNG872) ",sfclicrec.asp?p=22519907,,M,RO,2018-12-06,
-"Yiu, Yi Shing 姚懿成",sfclicrec.asp?p=12045070,,,Rep,2018-11-09,2019-08-11
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Davidson, Gregory Edward ",None,sfclicrec.asp?p=97868,ATW897,http://www.sfc.hk/publicregWeb/indi/ATW897/licenceRecord,,M,RO,2018-06-14,
+"Lam, Sai Kit 林世傑",None,sfclicrec.asp?p=17483558,BMI085,http://www.sfc.hk/publicregWeb/indi/BMI085/licenceRecord,,,RO,2018-06-14,2018-12-07
+"Lin, Zuodong 林作棟",None,sfclicrec.asp?p=22223896,BNJ825,http://www.sfc.hk/publicregWeb/indi/BNJ825/licenceRecord,,,Rep,2018-09-26,
+"Reece, Steven Jonathan (SFC:BNG872) ",None,sfclicrec.asp?p=22519907,BNG872,http://www.sfc.hk/publicregWeb/indi/BNG872/licenceRecord,,M,RO,2018-12-06,
+"Yiu, Yi Shing 姚懿成",None,sfclicrec.asp?p=12045070,BKK536,http://www.sfc.hk/publicregWeb/indi/BKK536/licenceRecord,,,Rep,2018-11-09,2019-08-11

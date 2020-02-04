@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Ching To 鄭鉦陶",sfclicrec.asp?p=2529751,,,Rep,2019-07-09,
-"Hui, Hiu Sum 許曉琛",sfclicrec.asp?p=23341608,,,Rep,2019-06-24,
-"Leung, Ka Leung 梁家梁",sfclicrec.asp?p=96068,,,RO,2019-05-23,
-"Pun, Yung Yin 潘用賢",sfclicrec.asp?p=2701848,,,Rep,2019-06-25,
-"Shaw, Allan (SFC:AGI956) 蕭海洋",sfclicrec.asp?p=82304,,M,RO,2019-05-23,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Ching To 鄭鉦陶",None,sfclicrec.asp?p=2529751,BGX386,http://www.sfc.hk/publicregWeb/indi/BGX386/licenceRecord,,,Rep,2019-07-09,
+"Hui, Hiu Sum 許曉琛",None,sfclicrec.asp?p=23341608,BOM269,http://www.sfc.hk/publicregWeb/indi/BOM269/licenceRecord,,,Rep,2019-06-24,
+"Leung, Ka Leung 梁家梁",None,sfclicrec.asp?p=96068,AWJ764,http://www.sfc.hk/publicregWeb/indi/AWJ764/licenceRecord,,,RO,2019-05-23,
+"Pun, Yung Yin 潘用賢",None,sfclicrec.asp?p=2701848,BJC895,http://www.sfc.hk/publicregWeb/indi/BJC895/licenceRecord,,,Rep,2019-06-25,
+"Shaw, Allan (SFC:AGI956) 蕭海洋",None,sfclicrec.asp?p=82304,AGI956,http://www.sfc.hk/publicregWeb/indi/AGI956/licenceRecord,,M,RO,2019-05-23,

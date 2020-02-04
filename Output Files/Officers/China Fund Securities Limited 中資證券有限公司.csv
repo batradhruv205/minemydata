@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Angie (SFC:ADN450) 陳安芝",sfclicrec.asp?p=82626,,F,RO,2018-10-12,2019-04-04
-"Lee, Ha Young 李夏榮",sfclicrec.asp?p=82617,,,RO,2017-04-06,
-"Lee, Lun Cheong 李倫昌",sfclicrec.asp?p=11781183,,,Rep,2017-07-26,2019-10-09
-"Ng, Gloria Wai Yi 吳慧儀",sfclicrec.asp?p=126271,,F,Rep,2018-07-10,2019-08-27
-"Tam, Yui Fai 譚銳輝",sfclicrec.asp?p=12458077,,,Rep,2017-11-01,2018-04-19
-"Wong, Ka Ching (SFC:AGI520) 黃家正",sfclicrec.asp?p=108993,46,M,RO,2017-04-06,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Angie (SFC:ADN450) 陳安芝",None,sfclicrec.asp?p=82626,ADN450,http://www.sfc.hk/publicregWeb/indi/ADN450/licenceRecord,,F,RO,2018-10-12,2019-04-04
+"Lee, Ha Young 李夏榮",None,sfclicrec.asp?p=82617,ADI252,http://www.sfc.hk/publicregWeb/indi/ADI252/licenceRecord,,,RO,2017-04-06,
+"Lee, Lun Cheong 李倫昌",None,sfclicrec.asp?p=11781183,BKD620,http://www.sfc.hk/publicregWeb/indi/BKD620/licenceRecord,,,Rep,2017-07-26,2019-10-09
+"Ng, Gloria Wai Yi 吳慧儀",None,sfclicrec.asp?p=126271,ARK444,http://www.sfc.hk/publicregWeb/indi/ARK444/licenceRecord,,F,Rep,2018-07-10,2019-08-27
+"Tam, Yui Fai 譚銳輝",None,sfclicrec.asp?p=12458077,BLB623,http://www.sfc.hk/publicregWeb/indi/BLB623/licenceRecord,,,Rep,2017-11-01,2018-04-19
+"Wong, Ka Ching (SFC:AGI520) 黃家正",None,sfclicrec.asp?p=108993,AGI520,http://www.sfc.hk/publicregWeb/indi/AGI520/licenceRecord,46.0,M,RO,2017-04-06,

@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chong, Wan Kai 莊運啟",sfclicrec.asp?p=2327012,,,Rep,2019-04-15,2019-11-10
-"Chung, Alan Chi Bun (SFC:AXF919) 鍾智斌",sfclicrec.asp?p=131105,,M,RO,2019-04-04,
-"Lam, Ambrose Wai Hon 林懷漢",sfclicrec.asp?p=26313,67,M,Rep,2019-11-26,
-"Lau, Chun Chung 劉振中",sfclicrec.asp?p=68867,,,RO,2019-04-04,
-"Leung, Yin Fai (SFC:BML959) 梁燕煇",sfclicrec.asp?p=12834496,,,Rep,2019-12-10,
-"Li, Yu Sing 李羽成",sfclicrec.asp?p=13508988,,,Rep,2020-01-17,
-"Mak, Suet Man 麥雪雯",sfclicrec.asp?p=2623348,,,Rep,2019-07-11,
-"Ouyang, Qingtian 歐阳晴天",sfclicrec.asp?p=12691502,,,Rep,2019-06-27,
-"Sit, Kenneth Kar Kin 薛家鍵",sfclicrec.asp?p=71404,,M,Rep,2020-01-06,
-"Tsui, Alvin Chun Ming 徐浚銘",sfclicrec.asp?p=74011,,M,Rep,2020-01-08,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chong, Wan Kai 莊運啟",None,sfclicrec.asp?p=2327012,BEC600,http://www.sfc.hk/publicregWeb/indi/BEC600/licenceRecord,,,Rep,2019-04-15,2019-11-10
+"Chung, Alan Chi Bun (SFC:AXF919) 鍾智斌",None,sfclicrec.asp?p=131105,AXF919,http://www.sfc.hk/publicregWeb/indi/AXF919/licenceRecord,,M,RO,2019-04-04,
+"Lam, Ambrose Wai Hon 林懷漢",None,sfclicrec.asp?p=26313,AAN686,http://www.sfc.hk/publicregWeb/indi/AAN686/licenceRecord,67.0,M,Rep,2019-11-26,
+"Lau, Chun Chung 劉振中",None,sfclicrec.asp?p=68867,AWS123,http://www.sfc.hk/publicregWeb/indi/AWS123/licenceRecord,,,RO,2019-04-04,
+"Leung, Yin Fai (SFC:BML959) 梁燕煇",None,sfclicrec.asp?p=12834496,BML959,http://www.sfc.hk/publicregWeb/indi/BML959/licenceRecord,,,Rep,2019-12-10,
+"Li, Yu Sing 李羽成",None,sfclicrec.asp?p=13508988,BMI090,http://www.sfc.hk/publicregWeb/indi/BMI090/licenceRecord,,,Rep,2020-01-17,
+"Mak, Suet Man 麥雪雯",None,sfclicrec.asp?p=2623348,BIB910,http://www.sfc.hk/publicregWeb/indi/BIB910/licenceRecord,,,Rep,2019-07-11,
+"Ouyang, Qingtian 歐阳晴天",None,sfclicrec.asp?p=12691502,BLV152,http://www.sfc.hk/publicregWeb/indi/BLV152/licenceRecord,,,Rep,2019-06-27,
+"Sit, Kenneth Kar Kin 薛家鍵",None,sfclicrec.asp?p=71404,ADR744,http://www.sfc.hk/publicregWeb/indi/ADR744/licenceRecord,,M,Rep,2020-01-06,
+"Tsui, Alvin Chun Ming 徐浚銘",None,sfclicrec.asp?p=74011,AMS882,http://www.sfc.hk/publicregWeb/indi/AMS882/licenceRecord,,M,Rep,2020-01-08,

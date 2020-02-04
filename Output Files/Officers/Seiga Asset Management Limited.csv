@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Arisawa, Keita ",sfclicrec.asp?p=2318359,,,RO,2017-03-17,
-"Hsiao, Shen-Hung 蕭盛弘",sfclicrec.asp?p=2211166,,,Rep,2019-01-02,
-"Kim, Jung Wan ",sfclicrec.asp?p=2533999,,,RO,2017-03-17,
-"Law, Irene 羅蔚",sfclicrec.asp?p=12110175,,F,RO,2017-10-16,
-"Li, Xue (SFC:AVC681) 李雪",sfclicrec.asp?p=74849,,,Rep,2019-10-08,
-"Vaidyanathan, Sanjeev ",sfclicrec.asp?p=1951473,,M,Rep,2017-03-31,2018-10-26
-"Zhang, Heather Heqian ",sfclicrec.asp?p=2082606,,F,Rep,2017-04-06,
-"Zhang, Jiayi (SFC:BJH510) 張嘉懿",sfclicrec.asp?p=6722500,,,Rep,2017-04-06,2019-06-28
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Arisawa, Keita ",None,sfclicrec.asp?p=2318359,BDY732,http://www.sfc.hk/publicregWeb/indi/BDY732/licenceRecord,,,RO,2017-03-17,
+"Hsiao, Shen-Hung 蕭盛弘",None,sfclicrec.asp?p=2211166,BCZ164,http://www.sfc.hk/publicregWeb/indi/BCZ164/licenceRecord,,,Rep,2019-01-02,
+"Kim, Jung Wan ",None,sfclicrec.asp?p=2533999,BGT841,http://www.sfc.hk/publicregWeb/indi/BGT841/licenceRecord,,,RO,2017-03-17,
+"Law, Irene 羅蔚",None,sfclicrec.asp?p=12110175,BDO174,http://www.sfc.hk/publicregWeb/indi/BDO174/licenceRecord,,F,RO,2017-10-16,
+"Li, Xue (SFC:AVC681) 李雪",None,sfclicrec.asp?p=74849,AVC681,http://www.sfc.hk/publicregWeb/indi/AVC681/licenceRecord,,,Rep,2019-10-08,
+"Vaidyanathan, Sanjeev ",None,sfclicrec.asp?p=1951473,AZS281,http://www.sfc.hk/publicregWeb/indi/AZS281/licenceRecord,,M,Rep,2017-03-31,2018-10-26
+"Zhang, Heather Heqian ",None,sfclicrec.asp?p=2082606,BBJ209,http://www.sfc.hk/publicregWeb/indi/BBJ209/licenceRecord,,F,Rep,2017-04-06,
+"Zhang, Jiayi (SFC:BJH510) 張嘉懿",None,sfclicrec.asp?p=6722500,BJH510,http://www.sfc.hk/publicregWeb/indi/BJH510/licenceRecord,,,Rep,2017-04-06,2019-06-28

@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Wai Man Andy 陈慧民",sfclicrec.asp?p=22710814,,,Rep,2019-01-29,
-"Cheng, Chi Wah 鄭志華",sfclicrec.asp?p=73974,,,Rep,2012-11-15,2013-05-31
-"Cheng, Chi Wah 鄭志華",sfclicrec.asp?p=73974,,,Rep,2018-07-05,
-"Ge, Lijia 葛丽佳",sfclicrec.asp?p=114288,,,Rep,2013-04-26,2015-02-27
-"Ho, Christopher Ling Wui 何崚匯",sfclicrec.asp?p=2142515,,M,Rep,2013-10-07,2015-06-02
-"Huang, Chun Ting 黃鈞婷",sfclicrec.asp?p=12770330,,,Rep,2018-02-07,
-"Hui, Chun Kiu 許竣喬",sfclicrec.asp?p=2323804,,,Rep,2015-07-02,2015-08-18
-"Kuet, Andrew Shun Cheong 闕順昌",sfclicrec.asp?p=103715,,M,RO,2012-02-21,
-"Lam, Shun 林順",sfclicrec.asp?p=92472,,,Rep,2014-01-02,2015-06-30
-"Luk, Tsz Yan (SFC:ATQ940) 陸子昕",sfclicrec.asp?p=128519,,,Rep,2014-02-05,2017-11-30
-"Ma, Fung Kuen 馬鳳娟",sfclicrec.asp?p=117089,,,RO,2012-02-21,
-"Ng, Kong Yong 吳擴揚",sfclicrec.asp?p=102154,,,Rep,2017-08-22,
-"Wang, Qian (SFC:AVN420) 王潛",sfclicrec.asp?p=130068,32,M,Rep,2015-08-03,2018-09-30
-"Woo, Herman Hon Man 胡瀚文",sfclicrec.asp?p=71195,,M,Rep,2012-07-25,2012-10-05
-"Yung, Jessie Mei Chun 翁美春",sfclicrec.asp?p=70131,,F,Rep,2014-02-26,2016-01-01
-"Zheng, Juan 鄭娟",sfclicrec.asp?p=91145,,,Rep,2014-08-26,2016-03-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Wai Man Andy 陈慧民",None,sfclicrec.asp?p=22710814,BCB828,http://www.sfc.hk/publicregWeb/indi/BCB828/licenceRecord,,,Rep,2019-01-29,
+"Cheng, Chi Wah 鄭志華",None,sfclicrec.asp?p=73974,ABM629,http://www.sfc.hk/publicregWeb/indi/ABM629/licenceRecord,,,Rep,2012-11-15,2013-05-31
+"Cheng, Chi Wah 鄭志華",None,sfclicrec.asp?p=73974,ABM629,http://www.sfc.hk/publicregWeb/indi/ABM629/licenceRecord,,,Rep,2018-07-05,
+"Ge, Lijia 葛丽佳",None,sfclicrec.asp?p=114288,ALB386,http://www.sfc.hk/publicregWeb/indi/ALB386/licenceRecord,,,Rep,2013-04-26,2015-02-27
+"Ho, Christopher Ling Wui 何崚匯",None,sfclicrec.asp?p=2142515,BBY340,http://www.sfc.hk/publicregWeb/indi/BBY340/licenceRecord,,M,Rep,2013-10-07,2015-06-02
+"Huang, Chun Ting 黃鈞婷",None,sfclicrec.asp?p=12770330,BLZ054,http://www.sfc.hk/publicregWeb/indi/BLZ054/licenceRecord,,,Rep,2018-02-07,
+"Hui, Chun Kiu 許竣喬",None,sfclicrec.asp?p=2323804,BEF099,http://www.sfc.hk/publicregWeb/indi/BEF099/licenceRecord,,,Rep,2015-07-02,2015-08-18
+"Kuet, Andrew Shun Cheong 闕順昌",None,sfclicrec.asp?p=103715,ADG977,http://www.sfc.hk/publicregWeb/indi/ADG977/licenceRecord,,M,RO,2012-02-21,
+"Lam, Shun 林順",None,sfclicrec.asp?p=92472,AQL493,http://www.sfc.hk/publicregWeb/indi/AQL493/licenceRecord,,,Rep,2014-01-02,2015-06-30
+"Luk, Tsz Yan (SFC:ATQ940) 陸子昕",None,sfclicrec.asp?p=128519,ATQ940,http://www.sfc.hk/publicregWeb/indi/ATQ940/licenceRecord,,,Rep,2014-02-05,2017-11-30
+"Ma, Fung Kuen 馬鳳娟",None,sfclicrec.asp?p=117089,AMO251,http://www.sfc.hk/publicregWeb/indi/AMO251/licenceRecord,,,RO,2012-02-21,
+"Ng, Kong Yong 吳擴揚",None,sfclicrec.asp?p=102154,ABN501,http://www.sfc.hk/publicregWeb/indi/ABN501/licenceRecord,,,Rep,2017-08-22,
+"Wang, Qian (SFC:AVN420) 王潛",None,sfclicrec.asp?p=130068,AVN420,http://www.sfc.hk/publicregWeb/indi/AVN420/licenceRecord,32.0,M,Rep,2015-08-03,2018-09-30
+"Woo, Herman Hon Man 胡瀚文",None,sfclicrec.asp?p=71195,AGN338,http://www.sfc.hk/publicregWeb/indi/AGN338/licenceRecord,,M,Rep,2012-07-25,2012-10-05
+"Yung, Jessie Mei Chun 翁美春",None,sfclicrec.asp?p=70131,AEK437,http://www.sfc.hk/publicregWeb/indi/AEK437/licenceRecord,,F,Rep,2014-02-26,2016-01-01
+"Zheng, Juan 鄭娟",None,sfclicrec.asp?p=91145,AGI798,http://www.sfc.hk/publicregWeb/indi/AGI798/licenceRecord,,,Rep,2014-08-26,2016-03-31

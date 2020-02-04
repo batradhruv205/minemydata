@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Tim Tak Ming 鄭德明",sfclicrec.asp?p=100238,,M,RO,2013-07-05,2015-12-01
-"Liang, Guoqiang 梁國強",sfclicrec.asp?p=99715,,,RO,2013-07-05,2013-12-31
-"Lo, Roxane Ting Kit 羅定潔",sfclicrec.asp?p=114364,,F,RO,2014-05-19,
-"Qin, Liru 秦立儒",sfclicrec.asp?p=2095128,,,RO,2013-07-05,2016-06-21
-"Tsang, King Wa 曾勁華",sfclicrec.asp?p=2499459,,,Rep,2015-11-13,2018-12-21
-"Tsang, King Wa 曾勁華",sfclicrec.asp?p=2499459,,,RO,2018-12-21,
-"Wong, Wai Cheong (SFC:AQN694) 黃偉昌",sfclicrec.asp?p=23631611,,,RO,2019-09-06,
-"Zhu, Dale Qingpu 朱青浦",sfclicrec.asp?p=70839,,M,RO,2016-03-01,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Tim Tak Ming 鄭德明",None,sfclicrec.asp?p=100238,ALB234,http://www.sfc.hk/publicregWeb/indi/ALB234/licenceRecord,,M,RO,2013-07-05,2015-12-01
+"Liang, Guoqiang 梁國強",None,sfclicrec.asp?p=99715,ATX306,http://www.sfc.hk/publicregWeb/indi/ATX306/licenceRecord,,,RO,2013-07-05,2013-12-31
+"Lo, Roxane Ting Kit 羅定潔",None,sfclicrec.asp?p=114364,ALC465,http://www.sfc.hk/publicregWeb/indi/ALC465/licenceRecord,,F,RO,2014-05-19,
+"Qin, Liru 秦立儒",None,sfclicrec.asp?p=2095128,AEE487,http://www.sfc.hk/publicregWeb/indi/AEE487/licenceRecord,,,RO,2013-07-05,2016-06-21
+"Tsang, King Wa 曾勁華",None,sfclicrec.asp?p=2499459,BGJ115,http://www.sfc.hk/publicregWeb/indi/BGJ115/licenceRecord,,,Rep,2015-11-13,2018-12-21
+"Tsang, King Wa 曾勁華",None,sfclicrec.asp?p=2499459,BGJ115,http://www.sfc.hk/publicregWeb/indi/BGJ115/licenceRecord,,,RO,2018-12-21,
+"Wong, Wai Cheong (SFC:AQN694) 黃偉昌",None,sfclicrec.asp?p=23631611,AQN694,http://www.sfc.hk/publicregWeb/indi/AQN694/licenceRecord,,,RO,2019-09-06,
+"Zhu, Dale Qingpu 朱青浦",None,sfclicrec.asp?p=70839,AXJ833,http://www.sfc.hk/publicregWeb/indi/AXJ833/licenceRecord,,M,RO,2016-03-01,

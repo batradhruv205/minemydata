@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Che-Pin 陳哲斌",sfclicrec.asp?p=22715529,,,Rep,2019-01-30,
-"Huang, Chih-Ming 黃志鳴",sfclicrec.asp?p=11669864,,,Rep,2017-06-28,2018-11-09
-"Huang, Chih-Ming 黃志鳴",sfclicrec.asp?p=11669864,,,RO,2018-11-09,
-"McGaughy, Michael Robert 麥德安",sfclicrec.asp?p=2110628,,M,RO,2016-09-26,
-"Yen, John Jong Ling 嚴中伶",sfclicrec.asp?p=46941,59,M,RO,2016-09-26,2018-04-03
-"Zhu, Bin (SFC:APZ783) 朱斌",sfclicrec.asp?p=123528,,,RO,2018-06-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Che-Pin 陳哲斌",None,sfclicrec.asp?p=22715529,BOA076,http://www.sfc.hk/publicregWeb/indi/BOA076/licenceRecord,,,Rep,2019-01-30,
+"Huang, Chih-Ming 黃志鳴",None,sfclicrec.asp?p=11669864,BJH181,http://www.sfc.hk/publicregWeb/indi/BJH181/licenceRecord,,,Rep,2017-06-28,2018-11-09
+"Huang, Chih-Ming 黃志鳴",None,sfclicrec.asp?p=11669864,BJH181,http://www.sfc.hk/publicregWeb/indi/BJH181/licenceRecord,,,RO,2018-11-09,
+"McGaughy, Michael Robert 麥德安",None,sfclicrec.asp?p=2110628,AAK134,http://www.sfc.hk/publicregWeb/indi/AAK134/licenceRecord,,M,RO,2016-09-26,
+"Yen, John Jong Ling 嚴中伶",None,sfclicrec.asp?p=46941,ADJ570,http://www.sfc.hk/publicregWeb/indi/ADJ570/licenceRecord,59.0,M,RO,2016-09-26,2018-04-03
+"Zhu, Bin (SFC:APZ783) 朱斌",None,sfclicrec.asp?p=123528,APZ783,http://www.sfc.hk/publicregWeb/indi/APZ783/licenceRecord,,,RO,2018-06-19,

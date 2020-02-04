@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Eric Kai Wah 陳啟華",sfclicrec.asp?p=95077,,M,RO,2015-07-07,
-"Chan, Ivan Man Sum 陳文深",sfclicrec.asp?p=34400,47,M,RO,2013-04-12,2014-01-31
-"Chan, Pak Hung (SFC:AXX144) 陳栢鴻",sfclicrec.asp?p=81762,,M,Rep,2013-05-28,2014-01-02
-"Chan, Pak Hung (SFC:AXX144) 陳栢鴻",sfclicrec.asp?p=81762,,M,RO,2014-01-02,2014-01-31
-"Cheung, Ho Kong 張浩剛",sfclicrec.asp?p=81764,,,RO,2013-04-12,2014-01-31
-"Gao, Yuan (SFC:BFT182) 高遠",sfclicrec.asp?p=2443177,,,Rep,2018-07-31,
-"Hui, Tammy Tung Yin 許統妍",sfclicrec.asp?p=81766,,F,Rep,2013-05-28,2014-01-31
-"Kwan, Edmond Man Kit 關文傑",sfclicrec.asp?p=81950,49,M,Rep,2014-04-17,2014-05-14
-"Kwan, Edmond Man Kit 關文傑",sfclicrec.asp?p=81950,49,M,RO,2014-05-14,2015-06-01
-"Kwong, Wang Pok 鄺宏博",sfclicrec.asp?p=100954,,,RO,2014-05-28,2016-04-15
-"Lui, Kam Fai (SFC:AHL563) 呂金輝",sfclicrec.asp?p=100088,,,Rep,2013-07-16,2013-08-28
-"Sun, Julie Zhili 孫枝麗",sfclicrec.asp?p=50008,52,F,RO,2016-05-24,2018-01-05
-"Sze, Wai Wang 史偉宏",sfclicrec.asp?p=100092,,,Rep,2013-07-15,2014-09-15
-"Wang, Zhen (SFC:AZC796) 王鎮",sfclicrec.asp?p=1863575,,,Rep,2017-08-31,2017-12-28
-"Wang, Zhen (SFC:AZC796) 王鎮",sfclicrec.asp?p=1863575,,,RO,2017-12-28,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Eric Kai Wah 陳啟華",None,sfclicrec.asp?p=95077,AAF083,http://www.sfc.hk/publicregWeb/indi/AAF083/licenceRecord,,M,RO,2015-07-07,
+"Chan, Ivan Man Sum 陳文深",None,sfclicrec.asp?p=34400,AGS453,http://www.sfc.hk/publicregWeb/indi/AGS453/licenceRecord,47.0,M,RO,2013-04-12,2014-01-31
+"Chan, Pak Hung (SFC:AXX144) 陳栢鴻",None,sfclicrec.asp?p=81762,AXX144,http://www.sfc.hk/publicregWeb/indi/AXX144/licenceRecord,,M,Rep,2013-05-28,2014-01-02
+"Chan, Pak Hung (SFC:AXX144) 陳栢鴻",None,sfclicrec.asp?p=81762,AXX144,http://www.sfc.hk/publicregWeb/indi/AXX144/licenceRecord,,M,RO,2014-01-02,2014-01-31
+"Cheung, Ho Kong 張浩剛",None,sfclicrec.asp?p=81764,APC384,http://www.sfc.hk/publicregWeb/indi/APC384/licenceRecord,,,RO,2013-04-12,2014-01-31
+"Gao, Yuan (SFC:BFT182) 高遠",None,sfclicrec.asp?p=2443177,BFT182,http://www.sfc.hk/publicregWeb/indi/BFT182/licenceRecord,,,Rep,2018-07-31,
+"Hui, Tammy Tung Yin 許統妍",None,sfclicrec.asp?p=81766,AVI370,http://www.sfc.hk/publicregWeb/indi/AVI370/licenceRecord,,F,Rep,2013-05-28,2014-01-31
+"Kwan, Edmond Man Kit 關文傑",None,sfclicrec.asp?p=81950,AOR644,http://www.sfc.hk/publicregWeb/indi/AOR644/licenceRecord,49.0,M,Rep,2014-04-17,2014-05-14
+"Kwan, Edmond Man Kit 關文傑",None,sfclicrec.asp?p=81950,AOR644,http://www.sfc.hk/publicregWeb/indi/AOR644/licenceRecord,49.0,M,RO,2014-05-14,2015-06-01
+"Kwong, Wang Pok 鄺宏博",None,sfclicrec.asp?p=100954,AAD943,http://www.sfc.hk/publicregWeb/indi/AAD943/licenceRecord,,,RO,2014-05-28,2016-04-15
+"Lui, Kam Fai (SFC:AHL563) 呂金輝",None,sfclicrec.asp?p=100088,AHL563,http://www.sfc.hk/publicregWeb/indi/AHL563/licenceRecord,,,Rep,2013-07-16,2013-08-28
+"Sun, Julie Zhili 孫枝麗",None,sfclicrec.asp?p=50008,AED526,http://www.sfc.hk/publicregWeb/indi/AED526/licenceRecord,52.0,F,RO,2016-05-24,2018-01-05
+"Sze, Wai Wang 史偉宏",None,sfclicrec.asp?p=100092,AST293,http://www.sfc.hk/publicregWeb/indi/AST293/licenceRecord,,,Rep,2013-07-15,2014-09-15
+"Wang, Zhen (SFC:AZC796) 王鎮",None,sfclicrec.asp?p=1863575,AZC796,http://www.sfc.hk/publicregWeb/indi/AZC796/licenceRecord,,,Rep,2017-08-31,2017-12-28
+"Wang, Zhen (SFC:AZC796) 王鎮",None,sfclicrec.asp?p=1863575,AZC796,http://www.sfc.hk/publicregWeb/indi/AZC796/licenceRecord,,,RO,2017-12-28,

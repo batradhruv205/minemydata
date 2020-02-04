@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chau, Peter Chung Kai 周松堦",sfclicrec.asp?p=61846,,M,RO,2011-06-24,
-"Chong, Chi Ho 莊志豪",sfclicrec.asp?p=72937,,,Rep,2014-02-25,2014-11-21
-"Hu, Cheng 胡誠",sfclicrec.asp?p=72911,,,Rep,2011-06-24,2012-03-31
-"Kwok, Kin Pong (SFC:APC264) 郭健邦",sfclicrec.asp?p=72953,,,Rep,2013-09-30,2019-11-13
-"Kwok, Kin Pong (SFC:APC264) 郭健邦",sfclicrec.asp?p=72953,,,RO,2019-11-13,
-"Tang, Chat Tong (SFC:AMG896) 鄧澤堂",sfclicrec.asp?p=72919,,,RO,2013-10-15,
-"Ye, Haiya 葉海亞",sfclicrec.asp?p=73002,,,RO,2011-06-24,
-"Zhao, Yue (SFC:BFK717) 肇越",sfclicrec.asp?p=2422864,54,M,Rep,2015-05-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chau, Peter Chung Kai 周松堦",None,sfclicrec.asp?p=61846,AAC736,http://www.sfc.hk/publicregWeb/indi/AAC736/licenceRecord,,M,RO,2011-06-24,
+"Chong, Chi Ho 莊志豪",None,sfclicrec.asp?p=72937,ANM084,http://www.sfc.hk/publicregWeb/indi/ANM084/licenceRecord,,,Rep,2014-02-25,2014-11-21
+"Hu, Cheng 胡誠",None,sfclicrec.asp?p=72911,ALW539,http://www.sfc.hk/publicregWeb/indi/ALW539/licenceRecord,,,Rep,2011-06-24,2012-03-31
+"Kwok, Kin Pong (SFC:APC264) 郭健邦",None,sfclicrec.asp?p=72953,APC264,http://www.sfc.hk/publicregWeb/indi/APC264/licenceRecord,,,Rep,2013-09-30,2019-11-13
+"Kwok, Kin Pong (SFC:APC264) 郭健邦",None,sfclicrec.asp?p=72953,APC264,http://www.sfc.hk/publicregWeb/indi/APC264/licenceRecord,,,RO,2019-11-13,
+"Tang, Chat Tong (SFC:AMG896) 鄧澤堂",None,sfclicrec.asp?p=72919,AMG896,http://www.sfc.hk/publicregWeb/indi/AMG896/licenceRecord,,,RO,2013-10-15,
+"Ye, Haiya 葉海亞",None,sfclicrec.asp?p=73002,AJL618,http://www.sfc.hk/publicregWeb/indi/AJL618/licenceRecord,,,RO,2011-06-24,
+"Zhao, Yue (SFC:BFK717) 肇越",None,sfclicrec.asp?p=2422864,BFK717,http://www.sfc.hk/publicregWeb/indi/BFK717/licenceRecord,54.0,M,Rep,2015-05-19,

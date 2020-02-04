@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Fan, Yunlu 范云鹿",sfclicrec.asp?p=2557309,,,Rep,2016-04-08,2016-04-30
-"Feng, Qi (SFC:AZS302) 馮琪",sfclicrec.asp?p=1925098,,,Rep,2017-01-09,2017-10-31
-"Liu, Jicheng (SFC:ARG111) 劉繼成",sfclicrec.asp?p=125801,,,RO,2015-06-25,
-"Song, Haiming 宋海銘",sfclicrec.asp?p=1854951,,,Rep,2015-07-22,2018-01-31
-"Wang, Xurui 王姁睿",sfclicrec.asp?p=134088,,,RO,2015-06-25,2018-12-28
-"Zhu, Limin 朱立敏",sfclicrec.asp?p=122293,,,Rep,2017-10-30,2018-04-06
-"Zhu, Limin 朱立敏",sfclicrec.asp?p=122293,,,RO,2018-04-06,2019-09-27
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Fan, Yunlu 范云鹿",None,sfclicrec.asp?p=2557309,BGY177,http://www.sfc.hk/publicregWeb/indi/BGY177/licenceRecord,,,Rep,2016-04-08,2016-04-30
+"Feng, Qi (SFC:AZS302) 馮琪",None,sfclicrec.asp?p=1925098,AZS302,http://www.sfc.hk/publicregWeb/indi/AZS302/licenceRecord,,,Rep,2017-01-09,2017-10-31
+"Liu, Jicheng (SFC:ARG111) 劉繼成",None,sfclicrec.asp?p=125801,ARG111,http://www.sfc.hk/publicregWeb/indi/ARG111/licenceRecord,,,RO,2015-06-25,
+"Song, Haiming 宋海銘",None,sfclicrec.asp?p=1854951,AZB539,http://www.sfc.hk/publicregWeb/indi/AZB539/licenceRecord,,,Rep,2015-07-22,2018-01-31
+"Wang, Xurui 王姁睿",None,sfclicrec.asp?p=134088,AYI745,http://www.sfc.hk/publicregWeb/indi/AYI745/licenceRecord,,,RO,2015-06-25,2018-12-28
+"Zhu, Limin 朱立敏",None,sfclicrec.asp?p=122293,APH991,http://www.sfc.hk/publicregWeb/indi/APH991/licenceRecord,,,Rep,2017-10-30,2018-04-06
+"Zhu, Limin 朱立敏",None,sfclicrec.asp?p=122293,APH991,http://www.sfc.hk/publicregWeb/indi/APH991/licenceRecord,,,RO,2018-04-06,2019-09-27

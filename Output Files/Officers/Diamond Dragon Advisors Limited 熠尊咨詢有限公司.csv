@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chung, Kah Yi ",sfclicrec.asp?p=119406,,,Rep,2015-05-15,2016-10-15
-"Edwards, Alexander Thomas ",sfclicrec.asp?p=78584,,M,RO,2010-06-22,2011-07-15
-"Edwards, Alexander Thomas ",sfclicrec.asp?p=78584,,M,Rep,2011-07-15,2012-04-16
-"Greene, Edward Albert ",sfclicrec.asp?p=78582,,M,RO,2010-06-22,
-"Greene, Zachary William ",sfclicrec.asp?p=6702757,,M,Rep,2017-03-23,2018-09-15
-"Kim, Kyung Won 金京媛",sfclicrec.asp?p=134466,,,Rep,2011-12-05,2014-01-09
-"Kim, Kyung Won 金京媛",sfclicrec.asp?p=134466,,,RO,2014-01-09,
-"Law, Betty Yuen Chi 羅婉芝",sfclicrec.asp?p=78585,,F,Rep,2011-08-22,
-"Lee, Ming Dah 李明達",sfclicrec.asp?p=53667,,M,RO,2010-10-20,2010-12-03
-"Liu, Li (SFC:AVR897) 劉莉",sfclicrec.asp?p=130163,,,Rep,2010-09-10,2011-03-28
-"Montecillo, Daniel Gabriel Mata ",sfclicrec.asp?p=78583,,M,RO,2010-09-16,2014-02-01
-"Tan, Jiong (SFC:BAU387) 譚炯",sfclicrec.asp?p=2021606,,,Rep,2013-02-14,2014-10-31
-"Tsuchiya, Michiko ",sfclicrec.asp?p=78586,,,Rep,2010-10-06,2011-09-27
-"Zhou, Li (SFC:BEZ491) 周莉",sfclicrec.asp?p=2418062,,,Rep,2015-05-08,2016-10-08
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chung, Kah Yi ",None,sfclicrec.asp?p=119406,ANU763,http://www.sfc.hk/publicregWeb/indi/ANU763/licenceRecord,,,Rep,2015-05-15,2016-10-15
+"Edwards, Alexander Thomas ",None,sfclicrec.asp?p=78584,AVC867,http://www.sfc.hk/publicregWeb/indi/AVC867/licenceRecord,,M,RO,2010-06-22,2011-07-15
+"Edwards, Alexander Thomas ",None,sfclicrec.asp?p=78584,AVC867,http://www.sfc.hk/publicregWeb/indi/AVC867/licenceRecord,,M,Rep,2011-07-15,2012-04-16
+"Greene, Edward Albert ",None,sfclicrec.asp?p=78582,AVC866,http://www.sfc.hk/publicregWeb/indi/AVC866/licenceRecord,,M,RO,2010-06-22,
+"Greene, Zachary William ",None,sfclicrec.asp?p=6702757,BJC240,http://www.sfc.hk/publicregWeb/indi/BJC240/licenceRecord,,M,Rep,2017-03-23,2018-09-15
+"Kim, Kyung Won 金京媛",None,sfclicrec.asp?p=134466,ACM543,http://www.sfc.hk/publicregWeb/indi/ACM543/licenceRecord,,,Rep,2011-12-05,2014-01-09
+"Kim, Kyung Won 金京媛",None,sfclicrec.asp?p=134466,ACM543,http://www.sfc.hk/publicregWeb/indi/ACM543/licenceRecord,,,RO,2014-01-09,
+"Law, Betty Yuen Chi 羅婉芝",None,sfclicrec.asp?p=78585,AXS237,http://www.sfc.hk/publicregWeb/indi/AXS237/licenceRecord,,F,Rep,2011-08-22,
+"Lee, Ming Dah 李明達",None,sfclicrec.asp?p=53667,AJG459,http://www.sfc.hk/publicregWeb/indi/AJG459/licenceRecord,,M,RO,2010-10-20,2010-12-03
+"Liu, Li (SFC:AVR897) 劉莉",None,sfclicrec.asp?p=130163,AVR897,http://www.sfc.hk/publicregWeb/indi/AVR897/licenceRecord,,,Rep,2010-09-10,2011-03-28
+"Montecillo, Daniel Gabriel Mata ",None,sfclicrec.asp?p=78583,AEN643,http://www.sfc.hk/publicregWeb/indi/AEN643/licenceRecord,,M,RO,2010-09-16,2014-02-01
+"Tan, Jiong (SFC:BAU387) 譚炯",None,sfclicrec.asp?p=2021606,BAU387,http://www.sfc.hk/publicregWeb/indi/BAU387/licenceRecord,,,Rep,2013-02-14,2014-10-31
+"Tsuchiya, Michiko ",None,sfclicrec.asp?p=78586,AVY293,http://www.sfc.hk/publicregWeb/indi/AVY293/licenceRecord,,,Rep,2010-10-06,2011-09-27
+"Zhou, Li (SFC:BEZ491) 周莉",None,sfclicrec.asp?p=2418062,BEZ491,http://www.sfc.hk/publicregWeb/indi/BEZ491/licenceRecord,,,Rep,2015-05-08,2016-10-08

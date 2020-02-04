@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Peter Kan Sun 陳更申",sfclicrec.asp?p=93611,,M,RO,2016-07-21,2019-10-31
-"Chung, Chui Wah 鍾翠華",sfclicrec.asp?p=2609872,,,RO,2016-07-21,2018-01-05
-"Pan, Yingshi 潘英世",sfclicrec.asp?p=77495,,,Rep,2017-07-24,2018-01-04
-"Pan, Yingshi 潘英世",sfclicrec.asp?p=77495,,,RO,2018-01-04,
-"Xie, Hao (SFC:ARF815) 謝皓",sfclicrec.asp?p=77647,,M,Rep,2016-08-29,2017-03-10
-"Xie, Hao (SFC:ARF815) 謝皓",sfclicrec.asp?p=77647,,M,Rep,2018-02-07,2019-07-18
-"Xie, Hao (SFC:ARF815) 謝皓",sfclicrec.asp?p=77647,,M,RO,2019-07-18,
-"Yip, Mei Mei Mi 葉美薇",sfclicrec.asp?p=2586174,,,Rep,2017-09-07,
-"Yung, Siu Wa 翁少華",sfclicrec.asp?p=2591252,,,Rep,2016-11-28,2017-10-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Peter Kan Sun 陳更申",None,sfclicrec.asp?p=93611,AKO253,http://www.sfc.hk/publicregWeb/indi/AKO253/licenceRecord,,M,RO,2016-07-21,2019-10-31
+"Chung, Chui Wah 鍾翠華",None,sfclicrec.asp?p=2609872,BHL405,http://www.sfc.hk/publicregWeb/indi/BHL405/licenceRecord,,,RO,2016-07-21,2018-01-05
+"Pan, Yingshi 潘英世",None,sfclicrec.asp?p=77495,APL915,http://www.sfc.hk/publicregWeb/indi/APL915/licenceRecord,,,Rep,2017-07-24,2018-01-04
+"Pan, Yingshi 潘英世",None,sfclicrec.asp?p=77495,APL915,http://www.sfc.hk/publicregWeb/indi/APL915/licenceRecord,,,RO,2018-01-04,
+"Xie, Hao (SFC:ARF815) 謝皓",None,sfclicrec.asp?p=77647,ARF815,http://www.sfc.hk/publicregWeb/indi/ARF815/licenceRecord,,M,Rep,2016-08-29,2017-03-10
+"Xie, Hao (SFC:ARF815) 謝皓",None,sfclicrec.asp?p=77647,ARF815,http://www.sfc.hk/publicregWeb/indi/ARF815/licenceRecord,,M,Rep,2018-02-07,2019-07-18
+"Xie, Hao (SFC:ARF815) 謝皓",None,sfclicrec.asp?p=77647,ARF815,http://www.sfc.hk/publicregWeb/indi/ARF815/licenceRecord,,M,RO,2019-07-18,
+"Yip, Mei Mei Mi 葉美薇",None,sfclicrec.asp?p=2586174,BHM016,http://www.sfc.hk/publicregWeb/indi/BHM016/licenceRecord,,,Rep,2017-09-07,
+"Yung, Siu Wa 翁少華",None,sfclicrec.asp?p=2591252,BFR053,http://www.sfc.hk/publicregWeb/indi/BFR053/licenceRecord,,,Rep,2016-11-28,2017-10-31

@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lau, William Jing Yeung 劉正揚",sfclicrec.asp?p=119464,,M,Rep,2019-06-04,
-"Pong, Cheuk Pun 龐卓斌",sfclicrec.asp?p=2046001,,,RO,2018-11-12,
-"Shiu, King On 蕭景安",sfclicrec.asp?p=129154,,,Rep,2019-06-28,2019-08-23
-"Wan, Kin Chung (SFC:BMG887) 尹建中",sfclicrec.asp?p=22425788,,,RO,2018-11-12,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lau, William Jing Yeung 劉正揚",None,sfclicrec.asp?p=119464,ANV150,http://www.sfc.hk/publicregWeb/indi/ANV150/licenceRecord,,M,Rep,2019-06-04,
+"Pong, Cheuk Pun 龐卓斌",None,sfclicrec.asp?p=2046001,BAY306,http://www.sfc.hk/publicregWeb/indi/BAY306/licenceRecord,,,RO,2018-11-12,
+"Shiu, King On 蕭景安",None,sfclicrec.asp?p=129154,AUM146,http://www.sfc.hk/publicregWeb/indi/AUM146/licenceRecord,,,Rep,2019-06-28,2019-08-23
+"Wan, Kin Chung (SFC:BMG887) 尹建中",None,sfclicrec.asp?p=22425788,BMG887,http://www.sfc.hk/publicregWeb/indi/BMG887/licenceRecord,,,RO,2018-11-12,

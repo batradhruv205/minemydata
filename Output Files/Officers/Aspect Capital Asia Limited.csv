@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Jianwei (SFC:AQS718) ",sfclicrec.asp?p=124887,,,RO,2008-06-10,2020-01-13
-"Hendry, Cyrus Richard ",sfclicrec.asp?p=124899,,M,Rep,2008-06-10,2015-03-26
-"Hendry, Cyrus Richard ",sfclicrec.asp?p=124899,,M,RO,2015-03-26,2017-11-10
-"Ibuki, Jumpei 伊吹淳平",sfclicrec.asp?p=90944,,,Rep,2018-07-03,2018-07-11
-"Ibuki, Jumpei 伊吹淳平",sfclicrec.asp?p=90944,,,RO,2018-07-11,
-"Lueck, Martin Anthony ",sfclicrec.asp?p=2411117,,M,RO,2015-04-23,
-"Wareham, John Derek ",sfclicrec.asp?p=124888,,M,RO,2008-06-10,2015-03-10
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Jianwei (SFC:AQS718) ",None,sfclicrec.asp?p=124887,AQS718,http://www.sfc.hk/publicregWeb/indi/AQS718/licenceRecord,,,RO,2008-06-10,2020-01-13
+"Hendry, Cyrus Richard ",None,sfclicrec.asp?p=124899,AQS814,http://www.sfc.hk/publicregWeb/indi/AQS814/licenceRecord,,M,Rep,2008-06-10,2015-03-26
+"Hendry, Cyrus Richard ",None,sfclicrec.asp?p=124899,AQS814,http://www.sfc.hk/publicregWeb/indi/AQS814/licenceRecord,,M,RO,2015-03-26,2017-11-10
+"Ibuki, Jumpei 伊吹淳平",None,sfclicrec.asp?p=90944,AWO623,http://www.sfc.hk/publicregWeb/indi/AWO623/licenceRecord,,,Rep,2018-07-03,2018-07-11
+"Ibuki, Jumpei 伊吹淳平",None,sfclicrec.asp?p=90944,AWO623,http://www.sfc.hk/publicregWeb/indi/AWO623/licenceRecord,,,RO,2018-07-11,
+"Lueck, Martin Anthony ",None,sfclicrec.asp?p=2411117,AQU451,http://www.sfc.hk/publicregWeb/indi/AQU451/licenceRecord,,M,RO,2015-04-23,
+"Wareham, John Derek ",None,sfclicrec.asp?p=124888,AQS719,http://www.sfc.hk/publicregWeb/indi/AQS719/licenceRecord,,M,RO,2008-06-10,2015-03-10

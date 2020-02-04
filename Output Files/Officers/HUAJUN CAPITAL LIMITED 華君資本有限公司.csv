@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au, Hin Kwong 區顯光",sfclicrec.asp?p=1913181,,,Rep,2017-10-25,2018-02-07
-"Chan, Tsz Kin (SFC:BIY015) 陳子健",sfclicrec.asp?p=2687021,,,Rep,2017-08-28,2018-12-06
-"Lam, Stanley Chi Hin 林子軒",sfclicrec.asp?p=79536,,M,Rep,2018-10-18,2018-12-12
-"Lam, Stanley Chi Hin 林子軒",sfclicrec.asp?p=79536,,M,RO,2018-12-12,
-"Li, Ziye 李梓叶",sfclicrec.asp?p=2681777,,,Rep,2017-01-04,2019-05-08
-"Meng, Yichen 孟一辰",sfclicrec.asp?p=20387140,,,Rep,2018-07-20,
-"Wong, Keith Shing Cheung 王承鏱",sfclicrec.asp?p=2681778,,M,Rep,2017-01-04,2017-04-23
-"Zeng, Hongbo 曾紅波",sfclicrec.asp?p=2644186,44,M,RO,2016-10-13,
-"Zhang, Ye (SFC:BCH586) 張曄",sfclicrec.asp?p=2164196,45,F,RO,2016-10-13,2018-12-20
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au, Hin Kwong 區顯光",None,sfclicrec.asp?p=1913181,AZK297,http://www.sfc.hk/publicregWeb/indi/AZK297/licenceRecord,,,Rep,2017-10-25,2018-02-07
+"Chan, Tsz Kin (SFC:BIY015) 陳子健",None,sfclicrec.asp?p=2687021,BIY015,http://www.sfc.hk/publicregWeb/indi/BIY015/licenceRecord,,,Rep,2017-08-28,2018-12-06
+"Lam, Stanley Chi Hin 林子軒",None,sfclicrec.asp?p=79536,AHD635,http://www.sfc.hk/publicregWeb/indi/AHD635/licenceRecord,,M,Rep,2018-10-18,2018-12-12
+"Lam, Stanley Chi Hin 林子軒",None,sfclicrec.asp?p=79536,AHD635,http://www.sfc.hk/publicregWeb/indi/AHD635/licenceRecord,,M,RO,2018-12-12,
+"Li, Ziye 李梓叶",None,sfclicrec.asp?p=2681777,BIN824,http://www.sfc.hk/publicregWeb/indi/BIN824/licenceRecord,,,Rep,2017-01-04,2019-05-08
+"Meng, Yichen 孟一辰",None,sfclicrec.asp?p=20387140,BNB705,http://www.sfc.hk/publicregWeb/indi/BNB705/licenceRecord,,,Rep,2018-07-20,
+"Wong, Keith Shing Cheung 王承鏱",None,sfclicrec.asp?p=2681778,BIN826,http://www.sfc.hk/publicregWeb/indi/BIN826/licenceRecord,,M,Rep,2017-01-04,2017-04-23
+"Zeng, Hongbo 曾紅波",None,sfclicrec.asp?p=2644186,BHJ179,http://www.sfc.hk/publicregWeb/indi/BHJ179/licenceRecord,44.0,M,RO,2016-10-13,
+"Zhang, Ye (SFC:BCH586) 張曄",None,sfclicrec.asp?p=2164196,BCH586,http://www.sfc.hk/publicregWeb/indi/BCH586/licenceRecord,45.0,F,RO,2016-10-13,2018-12-20

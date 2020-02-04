@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chow, Kam King 周錦敬",sfclicrec.asp?p=95993,,,Rep,,2004-09-28
-"Chow, Kam King 周錦敬",sfclicrec.asp?p=95993,,,RO,2004-09-28,2010-10-23
-"Chu, Sui Wa 朱瑞華",sfclicrec.asp?p=101372,,,Rep,,2005-04-15
-"Hau, Kam Fat 侯錦發",sfclicrec.asp?p=95995,,,Rep,,2010-10-15
-"Lai, Po Hung 黎寶鴻",sfclicrec.asp?p=99478,,,RO,,
-"So, Wai Pang (SFC:AAB420) 蘇偉鵬",sfclicrec.asp?p=100672,,,Rep,,2010-10-28
-"Wong, Yuk Ming (SFC:AEY116) 王玉明",sfclicrec.asp?p=96004,,,Rep,2007-06-20,2010-10-29
-"Yu, Norman Shun Ho 余信晧",sfclicrec.asp?p=79308,,M,Rep,,2004-11-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chow, Kam King 周錦敬",None,sfclicrec.asp?p=95993,ACF173,http://www.sfc.hk/publicregWeb/indi/ACF173/licenceRecord,,,Rep,,2004-09-28
+"Chow, Kam King 周錦敬",None,sfclicrec.asp?p=95993,ACF173,http://www.sfc.hk/publicregWeb/indi/ACF173/licenceRecord,,,RO,2004-09-28,2010-10-23
+"Chu, Sui Wa 朱瑞華",None,sfclicrec.asp?p=101372,AAI134,http://www.sfc.hk/publicregWeb/indi/AAI134/licenceRecord,,,Rep,,2005-04-15
+"Hau, Kam Fat 侯錦發",None,sfclicrec.asp?p=95995,ADP192,http://www.sfc.hk/publicregWeb/indi/ADP192/licenceRecord,,,Rep,,2010-10-15
+"Lai, Po Hung 黎寶鴻",None,sfclicrec.asp?p=99478,AAB460,http://www.sfc.hk/publicregWeb/indi/AAB460/licenceRecord,,,RO,,
+"So, Wai Pang (SFC:AAB420) 蘇偉鵬",None,sfclicrec.asp?p=100672,AAB420,http://www.sfc.hk/publicregWeb/indi/AAB420/licenceRecord,,,Rep,,2010-10-28
+"Wong, Yuk Ming (SFC:AEY116) 王玉明",None,sfclicrec.asp?p=96004,AEY116,http://www.sfc.hk/publicregWeb/indi/AEY116/licenceRecord,,,Rep,2007-06-20,2010-10-29
+"Yu, Norman Shun Ho 余信晧",None,sfclicrec.asp?p=79308,AAB450,http://www.sfc.hk/publicregWeb/indi/AAB450/licenceRecord,,M,Rep,,2004-11-30

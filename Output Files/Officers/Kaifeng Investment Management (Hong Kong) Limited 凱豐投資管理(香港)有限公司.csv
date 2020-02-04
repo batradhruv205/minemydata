@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Gao, Bin (1962) 高濱",sfclicrec.asp?p=87587,58,M,RO,2016-11-04,
-"Mak, Chun Man (SFC:BAU102) 麥振文",sfclicrec.asp?p=2010236,,,Rep,2016-11-25,2018-02-01
-"Mak, Chun Man (SFC:BAU102) 麥振文",sfclicrec.asp?p=2010236,,,RO,2018-02-01,2018-06-01
-"Siu, Michael Yiu Han 蕭耀恒",sfclicrec.asp?p=104682,,M,RO,2016-11-04,
-"Wong, Ngan Fun Kelvin 王銀歡",sfclicrec.asp?p=17147602,,,Rep,2018-06-13,2019-08-15
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Gao, Bin (1962) 高濱",None,sfclicrec.asp?p=87587,AUJ829,http://www.sfc.hk/publicregWeb/indi/AUJ829/licenceRecord,58.0,M,RO,2016-11-04,
+"Mak, Chun Man (SFC:BAU102) 麥振文",None,sfclicrec.asp?p=2010236,BAU102,http://www.sfc.hk/publicregWeb/indi/BAU102/licenceRecord,,,Rep,2016-11-25,2018-02-01
+"Mak, Chun Man (SFC:BAU102) 麥振文",None,sfclicrec.asp?p=2010236,BAU102,http://www.sfc.hk/publicregWeb/indi/BAU102/licenceRecord,,,RO,2018-02-01,2018-06-01
+"Siu, Michael Yiu Han 蕭耀恒",None,sfclicrec.asp?p=104682,AEE607,http://www.sfc.hk/publicregWeb/indi/AEE607/licenceRecord,,M,RO,2016-11-04,
+"Wong, Ngan Fun Kelvin 王銀歡",None,sfclicrec.asp?p=17147602,BNB167,http://www.sfc.hk/publicregWeb/indi/BNB167/licenceRecord,,,Rep,2018-06-13,2019-08-15

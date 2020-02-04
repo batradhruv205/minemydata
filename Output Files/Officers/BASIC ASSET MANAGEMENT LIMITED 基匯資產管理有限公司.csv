@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Mei Shan 陳美珊",sfclicrec.asp?p=85727,,,Rep,2014-12-10,2014-12-15
-"Chan, Mei Shan 陳美珊",sfclicrec.asp?p=85727,,,RO,2014-12-15,2016-06-17
-"Cheng, Li (SFC:AZB216) 程莉",sfclicrec.asp?p=1865112,,,Rep,2016-07-14,2016-08-31
-"Chiu, Brian Hiu Fung 趙曉峰",sfclicrec.asp?p=115440,,M,Rep,2014-08-08,2015-02-19
-"Choi Chan, Yi Ting 蔡陳依廷",sfclicrec.asp?p=69946,,,RO,2010-08-04,2015-01-02
-"Ip, Tsz Mun 葉芷敏",sfclicrec.asp?p=97442,,,Rep,2015-10-23,2016-06-10
-"Ip, Tsz Mun 葉芷敏",sfclicrec.asp?p=97442,,,RO,2016-06-10,2019-04-01
-"Kwong, Derek Wai Him 鄺維謙",sfclicrec.asp?p=32962,,M,RO,2010-08-04,
-"Li, Ming Kwok 李銘國",sfclicrec.asp?p=70535,,,RO,2019-04-26,
-"Li, Yu Wing 李宇穎",sfclicrec.asp?p=2145722,,,Rep,2014-06-06,2015-09-05
-"Poon, To Sing 潘道成",sfclicrec.asp?p=71632,,,Rep,2013-02-22,2014-07-31
-"Sung, Chun Piu 宋震標",sfclicrec.asp?p=2542340,,,RO,2016-08-16,2017-08-31
-"Yeung, Wai Fun 楊慧芬",sfclicrec.asp?p=85976,,,Rep,2016-04-29,2017-01-01
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Mei Shan 陳美珊",None,sfclicrec.asp?p=85727,ANC021,http://www.sfc.hk/publicregWeb/indi/ANC021/licenceRecord,,,Rep,2014-12-10,2014-12-15
+"Chan, Mei Shan 陳美珊",None,sfclicrec.asp?p=85727,ANC021,http://www.sfc.hk/publicregWeb/indi/ANC021/licenceRecord,,,RO,2014-12-15,2016-06-17
+"Cheng, Li (SFC:AZB216) 程莉",None,sfclicrec.asp?p=1865112,AZB216,http://www.sfc.hk/publicregWeb/indi/AZB216/licenceRecord,,,Rep,2016-07-14,2016-08-31
+"Chiu, Brian Hiu Fung 趙曉峰",None,sfclicrec.asp?p=115440,ALT744,http://www.sfc.hk/publicregWeb/indi/ALT744/licenceRecord,,M,Rep,2014-08-08,2015-02-19
+"Choi Chan, Yi Ting 蔡陳依廷",None,sfclicrec.asp?p=69946,AVJ017,http://www.sfc.hk/publicregWeb/indi/AVJ017/licenceRecord,,,RO,2010-08-04,2015-01-02
+"Ip, Tsz Mun 葉芷敏",None,sfclicrec.asp?p=97442,APO416,http://www.sfc.hk/publicregWeb/indi/APO416/licenceRecord,,,Rep,2015-10-23,2016-06-10
+"Ip, Tsz Mun 葉芷敏",None,sfclicrec.asp?p=97442,APO416,http://www.sfc.hk/publicregWeb/indi/APO416/licenceRecord,,,RO,2016-06-10,2019-04-01
+"Kwong, Derek Wai Him 鄺維謙",None,sfclicrec.asp?p=32962,ABJ688,http://www.sfc.hk/publicregWeb/indi/ABJ688/licenceRecord,,M,RO,2010-08-04,
+"Li, Ming Kwok 李銘國",None,sfclicrec.asp?p=70535,ADS635,http://www.sfc.hk/publicregWeb/indi/ADS635/licenceRecord,,,RO,2019-04-26,
+"Li, Yu Wing 李宇穎",None,sfclicrec.asp?p=2145722,BBX327,http://www.sfc.hk/publicregWeb/indi/BBX327/licenceRecord,,,Rep,2014-06-06,2015-09-05
+"Poon, To Sing 潘道成",None,sfclicrec.asp?p=71632,AAJ268,http://www.sfc.hk/publicregWeb/indi/AAJ268/licenceRecord,,,Rep,2013-02-22,2014-07-31
+"Sung, Chun Piu 宋震標",None,sfclicrec.asp?p=2542340,AAY730,http://www.sfc.hk/publicregWeb/indi/AAY730/licenceRecord,,,RO,2016-08-16,2017-08-31
+"Yeung, Wai Fun 楊慧芬",None,sfclicrec.asp?p=85976,AMI310,http://www.sfc.hk/publicregWeb/indi/AMI310/licenceRecord,,,Rep,2016-04-29,2017-01-01

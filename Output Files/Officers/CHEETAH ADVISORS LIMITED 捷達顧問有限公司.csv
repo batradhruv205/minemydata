@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au, Stephen Cheuk Yue 區卓裕",sfclicrec.asp?p=132955,,M,Rep,2011-10-24,2015-09-11
-"Chan, Kelly Tung Mui 陳冬梅",sfclicrec.asp?p=78152,,F,Rep,2008-04-10,2009-10-13
-"Chan, Miu Yi 陳妙儀",sfclicrec.asp?p=98754,,,Rep,2010-11-15,
-"Poon, Virginia Wai Chung 潘慧中",sfclicrec.asp?p=98752,,F,RO,,
-"Yau, Frankie Wing Keung 游永強",sfclicrec.asp?p=16911,60,M,Rep,2005-03-07,2005-05-09
-"Yau, Frankie Wing Keung 游永強",sfclicrec.asp?p=16911,60,M,RO,2005-05-09,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au, Stephen Cheuk Yue 區卓裕",None,sfclicrec.asp?p=132955,AGB204,http://www.sfc.hk/publicregWeb/indi/AGB204/licenceRecord,,M,Rep,2011-10-24,2015-09-11
+"Chan, Kelly Tung Mui 陳冬梅",None,sfclicrec.asp?p=78152,ADQ100,http://www.sfc.hk/publicregWeb/indi/ADQ100/licenceRecord,,F,Rep,2008-04-10,2009-10-13
+"Chan, Miu Yi 陳妙儀",None,sfclicrec.asp?p=98754,AWC699,http://www.sfc.hk/publicregWeb/indi/AWC699/licenceRecord,,,Rep,2010-11-15,
+"Poon, Virginia Wai Chung 潘慧中",None,sfclicrec.asp?p=98752,ABY293,http://www.sfc.hk/publicregWeb/indi/ABY293/licenceRecord,,F,RO,,
+"Yau, Frankie Wing Keung 游永強",None,sfclicrec.asp?p=16911,ADW496,http://www.sfc.hk/publicregWeb/indi/ADW496/licenceRecord,60.0,M,Rep,2005-03-07,2005-05-09
+"Yau, Frankie Wing Keung 游永強",None,sfclicrec.asp?p=16911,ADW496,http://www.sfc.hk/publicregWeb/indi/ADW496/licenceRecord,60.0,M,RO,2005-05-09,

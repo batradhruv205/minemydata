@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chui, Nelson Loong Chik 徐隆稷",sfclicrec.asp?p=22158470,,M,RO,2019-05-29,
-"Da, Yang 笪洋",sfclicrec.asp?p=2143278,,,Rep,2015-12-01,2016-06-30
-"Da, Yang 笪洋",sfclicrec.asp?p=2143278,,,RO,2016-06-30,2016-11-23
-"Guo, Liang (SFC:BAZ980) 郭梁",sfclicrec.asp?p=2233430,,,Rep,2015-12-01,2017-02-14
-"Guo, Liang (SFC:BAZ980) 郭梁",sfclicrec.asp?p=2233430,,,RO,2017-02-14,
-"Hsu, Chia-Wei (SFC:AOW885) 許家偉",sfclicrec.asp?p=72038,,,RO,2015-11-10,2017-04-06
-"Lau, Yiu Bun 劉耀斌",sfclicrec.asp?p=2272035,,,Rep,2017-05-22,2018-12-20
-"Lau, Yiu Bun 劉耀斌",sfclicrec.asp?p=2272035,,,RO,2018-12-20,2019-04-11
-"Ng, Raymond Ying Wang 伍鷹宏",sfclicrec.asp?p=96127,,M,RO,2016-11-22,2019-02-08
-"Ou, Hung Chieh 歐宏杰",sfclicrec.asp?p=123897,,,RO,2015-11-10,2016-08-21
-"Szeto, Frances Wai Chun 司徒惠珍",sfclicrec.asp?p=78589,,F,RO,2016-02-11,2016-05-06
-"Wu, Jiangsuo 吳將索",sfclicrec.asp?p=2506842,,,Rep,2020-01-08,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chui, Nelson Loong Chik 徐隆稷",None,sfclicrec.asp?p=22158470,AGP035,http://www.sfc.hk/publicregWeb/indi/AGP035/licenceRecord,,M,RO,2019-05-29,
+"Da, Yang 笪洋",None,sfclicrec.asp?p=2143278,BBZ357,http://www.sfc.hk/publicregWeb/indi/BBZ357/licenceRecord,,,Rep,2015-12-01,2016-06-30
+"Da, Yang 笪洋",None,sfclicrec.asp?p=2143278,BBZ357,http://www.sfc.hk/publicregWeb/indi/BBZ357/licenceRecord,,,RO,2016-06-30,2016-11-23
+"Guo, Liang (SFC:BAZ980) 郭梁",None,sfclicrec.asp?p=2233430,BAZ980,http://www.sfc.hk/publicregWeb/indi/BAZ980/licenceRecord,,,Rep,2015-12-01,2017-02-14
+"Guo, Liang (SFC:BAZ980) 郭梁",None,sfclicrec.asp?p=2233430,BAZ980,http://www.sfc.hk/publicregWeb/indi/BAZ980/licenceRecord,,,RO,2017-02-14,
+"Hsu, Chia-Wei (SFC:AOW885) 許家偉",None,sfclicrec.asp?p=72038,AOW885,http://www.sfc.hk/publicregWeb/indi/AOW885/licenceRecord,,,RO,2015-11-10,2017-04-06
+"Lau, Yiu Bun 劉耀斌",None,sfclicrec.asp?p=2272035,BDI052,http://www.sfc.hk/publicregWeb/indi/BDI052/licenceRecord,,,Rep,2017-05-22,2018-12-20
+"Lau, Yiu Bun 劉耀斌",None,sfclicrec.asp?p=2272035,BDI052,http://www.sfc.hk/publicregWeb/indi/BDI052/licenceRecord,,,RO,2018-12-20,2019-04-11
+"Ng, Raymond Ying Wang 伍鷹宏",None,sfclicrec.asp?p=96127,AEK090,http://www.sfc.hk/publicregWeb/indi/AEK090/licenceRecord,,M,RO,2016-11-22,2019-02-08
+"Ou, Hung Chieh 歐宏杰",None,sfclicrec.asp?p=123897,AQE456,http://www.sfc.hk/publicregWeb/indi/AQE456/licenceRecord,,,RO,2015-11-10,2016-08-21
+"Szeto, Frances Wai Chun 司徒惠珍",None,sfclicrec.asp?p=78589,ACH636,http://www.sfc.hk/publicregWeb/indi/ACH636/licenceRecord,,F,RO,2016-02-11,2016-05-06
+"Wu, Jiangsuo 吳將索",None,sfclicrec.asp?p=2506842,BGO781,http://www.sfc.hk/publicregWeb/indi/BGO781/licenceRecord,,,Rep,2020-01-08,

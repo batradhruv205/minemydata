@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Tin Yan 陳天恩",sfclicrec.asp?p=2387849,,,Rep,2019-12-06,
-"Jung, Joo Ho 鄭周鎬",sfclicrec.asp?p=1959363,,,RO,2019-05-10,
-"Kim, Sung Ho (SFC:BOO310) ",sfclicrec.asp?p=23643416,,,RO,2019-09-10,
-"Lewis, David Jaye ",sfclicrec.asp?p=23167083,,M,RO,2019-05-10,2019-09-16
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Tin Yan 陳天恩",None,sfclicrec.asp?p=2387849,BFA431,http://www.sfc.hk/publicregWeb/indi/BFA431/licenceRecord,,,Rep,2019-12-06,
+"Jung, Joo Ho 鄭周鎬",None,sfclicrec.asp?p=1959363,BAF833,http://www.sfc.hk/publicregWeb/indi/BAF833/licenceRecord,,,RO,2019-05-10,
+"Kim, Sung Ho (SFC:BOO310) ",None,sfclicrec.asp?p=23643416,BOO310,http://www.sfc.hk/publicregWeb/indi/BOO310/licenceRecord,,,RO,2019-09-10,
+"Lewis, David Jaye ",None,sfclicrec.asp?p=23167083,BOB094,http://www.sfc.hk/publicregWeb/indi/BOB094/licenceRecord,,M,RO,2019-05-10,2019-09-16

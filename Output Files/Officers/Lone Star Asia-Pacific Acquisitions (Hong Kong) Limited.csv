@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lee, Benjamin Yi-Hung 李宜泓",sfclicrec.asp?p=2699224,,M,Rep,2017-02-23,
-"Madduri, Anand Balakrishna ",sfclicrec.asp?p=90956,,,RO,2016-10-04,2019-11-06
-"Matheson, Leighton Carey ",sfclicrec.asp?p=12790390,,,Rep,2018-02-15,
-"Messina, Anthony ",sfclicrec.asp?p=24088809,,M,RO,2020-01-08,
-"Newman, Mark Harrison ",sfclicrec.asp?p=22971494,,M,RO,2019-03-29,2019-11-06
-"Porter, Nicholas Anthony Robin ",sfclicrec.asp?p=23870437,,M,Rep,2019-11-05,
-"Saraf, Manav ",sfclicrec.asp?p=89946,,,RO,2016-10-04,2017-06-17
-"So, Wan 蘇耘",sfclicrec.asp?p=6707919,,,Rep,2017-03-27,2017-06-14
-"So, Wan 蘇耘",sfclicrec.asp?p=6707919,,,RO,2017-06-14,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lee, Benjamin Yi-Hung 李宜泓",None,sfclicrec.asp?p=2699224,BJC087,http://www.sfc.hk/publicregWeb/indi/BJC087/licenceRecord,,M,Rep,2017-02-23,
+"Madduri, Anand Balakrishna ",None,sfclicrec.asp?p=90956,ANH754,http://www.sfc.hk/publicregWeb/indi/ANH754/licenceRecord,,,RO,2016-10-04,2019-11-06
+"Matheson, Leighton Carey ",None,sfclicrec.asp?p=12790390,AGK143,http://www.sfc.hk/publicregWeb/indi/AGK143/licenceRecord,,,Rep,2018-02-15,
+"Messina, Anthony ",None,sfclicrec.asp?p=24088809,BPC752,http://www.sfc.hk/publicregWeb/indi/BPC752/licenceRecord,,M,RO,2020-01-08,
+"Newman, Mark Harrison ",None,sfclicrec.asp?p=22971494,BHK234,http://www.sfc.hk/publicregWeb/indi/BHK234/licenceRecord,,M,RO,2019-03-29,2019-11-06
+"Porter, Nicholas Anthony Robin ",None,sfclicrec.asp?p=23870437,BOW453,http://www.sfc.hk/publicregWeb/indi/BOW453/licenceRecord,,M,Rep,2019-11-05,
+"Saraf, Manav ",None,sfclicrec.asp?p=89946,AOJ252,http://www.sfc.hk/publicregWeb/indi/AOJ252/licenceRecord,,,RO,2016-10-04,2017-06-17
+"So, Wan 蘇耘",None,sfclicrec.asp?p=6707919,BJC101,http://www.sfc.hk/publicregWeb/indi/BJC101/licenceRecord,,,Rep,2017-03-27,2017-06-14
+"So, Wan 蘇耘",None,sfclicrec.asp?p=6707919,BJC101,http://www.sfc.hk/publicregWeb/indi/BJC101/licenceRecord,,,RO,2017-06-14,

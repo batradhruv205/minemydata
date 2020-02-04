@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Daryl 鄭堯名",sfclicrec.asp?p=22952423,,M,Rep,2019-03-28,2019-08-13
-"Cheng, James Wai Lam 鄭暐霖",sfclicrec.asp?p=67315,59,M,RO,2017-06-13,
-"Cheng, Teky 鄭嵐",sfclicrec.asp?p=12659308,,,Rep,2017-12-22,2019-05-21
-"Fan, Lester Kei Shun 范基信",sfclicrec.asp?p=73351,,M,RO,2016-08-25,2018-01-31
-"Fok, Ka Chun 霍嘉俊",sfclicrec.asp?p=2547845,,,Rep,2017-06-16,2017-10-19
-"Ho, Shek Ming 何碩洺",sfclicrec.asp?p=12807761,,,Rep,2018-02-23,
-"Ip, Hon Wah (SFC:ALN833) 葉漢華",sfclicrec.asp?p=77782,,,RO,2016-11-21,
-"Lau, Chun Wai (SFC:AFK569) 劉振威",sfclicrec.asp?p=106302,,,Rep,2019-07-11,
-"Law, Siu Cheong 羅肇昌",sfclicrec.asp?p=2620725,,,Rep,2017-08-02,
-"Lee, Hon Nam 李翰南",sfclicrec.asp?p=77806,,,Rep,2017-08-25,
-"Li, Wai Kwan (SFC:ALU154) 李偉君",sfclicrec.asp?p=2637096,,,Rep,2017-11-29,2018-11-19
-"Liu, Yan (SFC:BJO206) 劉巘",sfclicrec.asp?p=10492298,,,Rep,2017-05-17,2017-09-06
-"Loke, Wai Ming 陸偉明",sfclicrec.asp?p=77809,,,RO,2016-08-25,2017-03-15
-"Ma, Kam Chuen 馬錦全",sfclicrec.asp?p=77783,,,RO,2016-08-25,2016-12-01
-"Yu, Hiu To 余曉濤",sfclicrec.asp?p=109434,,,Rep,2016-08-25,2017-02-01
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Daryl 鄭堯名",None,sfclicrec.asp?p=22952423,BOE151,http://www.sfc.hk/publicregWeb/indi/BOE151/licenceRecord,,M,Rep,2019-03-28,2019-08-13
+"Cheng, James Wai Lam 鄭暐霖",None,sfclicrec.asp?p=67315,AGD589,http://www.sfc.hk/publicregWeb/indi/AGD589/licenceRecord,59.0,M,RO,2017-06-13,
+"Cheng, Teky 鄭嵐",None,sfclicrec.asp?p=12659308,AGZ625,http://www.sfc.hk/publicregWeb/indi/AGZ625/licenceRecord,,,Rep,2017-12-22,2019-05-21
+"Fan, Lester Kei Shun 范基信",None,sfclicrec.asp?p=73351,AGT998,http://www.sfc.hk/publicregWeb/indi/AGT998/licenceRecord,,M,RO,2016-08-25,2018-01-31
+"Fok, Ka Chun 霍嘉俊",None,sfclicrec.asp?p=2547845,BGW829,http://www.sfc.hk/publicregWeb/indi/BGW829/licenceRecord,,,Rep,2017-06-16,2017-10-19
+"Ho, Shek Ming 何碩洺",None,sfclicrec.asp?p=12807761,BMD905,http://www.sfc.hk/publicregWeb/indi/BMD905/licenceRecord,,,Rep,2018-02-23,
+"Ip, Hon Wah (SFC:ALN833) 葉漢華",None,sfclicrec.asp?p=77782,ALN833,http://www.sfc.hk/publicregWeb/indi/ALN833/licenceRecord,,,RO,2016-11-21,
+"Lau, Chun Wai (SFC:AFK569) 劉振威",None,sfclicrec.asp?p=106302,AFK569,http://www.sfc.hk/publicregWeb/indi/AFK569/licenceRecord,,,Rep,2019-07-11,
+"Law, Siu Cheong 羅肇昌",None,sfclicrec.asp?p=2620725,BHT185,http://www.sfc.hk/publicregWeb/indi/BHT185/licenceRecord,,,Rep,2017-08-02,
+"Lee, Hon Nam 李翰南",None,sfclicrec.asp?p=77806,AFU680,http://www.sfc.hk/publicregWeb/indi/AFU680/licenceRecord,,,Rep,2017-08-25,
+"Li, Wai Kwan (SFC:ALU154) 李偉君",None,sfclicrec.asp?p=2637096,ALU154,http://www.sfc.hk/publicregWeb/indi/ALU154/licenceRecord,,,Rep,2017-11-29,2018-11-19
+"Liu, Yan (SFC:BJO206) 劉巘",None,sfclicrec.asp?p=10492298,BJO206,http://www.sfc.hk/publicregWeb/indi/BJO206/licenceRecord,,,Rep,2017-05-17,2017-09-06
+"Loke, Wai Ming 陸偉明",None,sfclicrec.asp?p=77809,AIB803,http://www.sfc.hk/publicregWeb/indi/AIB803/licenceRecord,,,RO,2016-08-25,2017-03-15
+"Ma, Kam Chuen 馬錦全",None,sfclicrec.asp?p=77783,AAW418,http://www.sfc.hk/publicregWeb/indi/AAW418/licenceRecord,,,RO,2016-08-25,2016-12-01
+"Yu, Hiu To 余曉濤",None,sfclicrec.asp?p=109434,AGM902,http://www.sfc.hk/publicregWeb/indi/AGM902/licenceRecord,,,Rep,2016-08-25,2017-02-01

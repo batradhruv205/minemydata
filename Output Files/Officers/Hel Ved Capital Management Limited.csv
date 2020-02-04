@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chai, Yunmin 柴允敏",sfclicrec.asp?p=130425,,,RO,2019-09-16,
-"Lai, Annie Ting Ngai 賴庭藝",sfclicrec.asp?p=100236,,F,RO,2019-11-21,
-"Ting, Khang 陳康",sfclicrec.asp?p=82789,,,RO,2019-09-16,
-"Yee, Wai Chee Karen 余慧芝",sfclicrec.asp?p=22945500,,F,Rep,2019-11-12,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chai, Yunmin 柴允敏",None,sfclicrec.asp?p=130425,AWC185,http://www.sfc.hk/publicregWeb/indi/AWC185/licenceRecord,,,RO,2019-09-16,
+"Lai, Annie Ting Ngai 賴庭藝",None,sfclicrec.asp?p=100236,AKP262,http://www.sfc.hk/publicregWeb/indi/AKP262/licenceRecord,,F,RO,2019-11-21,
+"Ting, Khang 陳康",None,sfclicrec.asp?p=82789,AWC349,http://www.sfc.hk/publicregWeb/indi/AWC349/licenceRecord,,,RO,2019-09-16,
+"Yee, Wai Chee Karen 余慧芝",None,sfclicrec.asp?p=22945500,BOC776,http://www.sfc.hk/publicregWeb/indi/BOC776/licenceRecord,,F,Rep,2019-11-12,

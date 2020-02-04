@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Wong Kit 陳黃傑",sfclicrec.asp?p=2247379,,,Rep,2014-04-01,2019-08-09
-"Chan, Wong Kit 陳黃傑",sfclicrec.asp?p=2247379,,,RO,2019-08-09,2019-10-30
-"Cheung, Ka Ho (SFC:BAJ170) 張嘉豪",sfclicrec.asp?p=1978552,,,Rep,2012-11-09,2014-08-01
-"Ho, Cecilia Mei Yee 何美宜",sfclicrec.asp?p=100305,,F,Rep,2014-08-25,2014-10-13
-"Ho, Cecilia Mei Yee 何美宜",sfclicrec.asp?p=100305,,F,RO,2014-10-13,2014-11-03
-"Lau, Andy Chin Yung 劉展榕",sfclicrec.asp?p=93017,,,Rep,2012-12-21,2013-02-27
-"Lau, Andy Chin Yung 劉展榕",sfclicrec.asp?p=93017,,,RO,2013-02-27,2015-06-18
-"Li, Eric Ting Ho 李廷荷",sfclicrec.asp?p=107710,,M,Rep,2015-06-02,2015-06-18
-"Li, Eric Ting Ho 李廷荷",sfclicrec.asp?p=107710,,M,RO,2015-06-18,
-"Lin, Xiong Guan 林雄關",sfclicrec.asp?p=2031698,,,Rep,2013-03-08,2017-10-12
-"Lin, Xiong Guan 林雄關",sfclicrec.asp?p=2031698,,,RO,2017-10-12,
-"Tso, Wui Yuen 曹會源",sfclicrec.asp?p=59193,,,RO,2012-04-11,
-"Wong, Choi Wai 黃彩威",sfclicrec.asp?p=102725,,,Rep,2015-03-12,
-"Wong, Kwai Chiu 王貴釗",sfclicrec.asp?p=102603,,,RO,2012-04-11,2013-02-28
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Wong Kit 陳黃傑",None,sfclicrec.asp?p=2247379,BDF051,http://www.sfc.hk/publicregWeb/indi/BDF051/licenceRecord,,,Rep,2014-04-01,2019-08-09
+"Chan, Wong Kit 陳黃傑",None,sfclicrec.asp?p=2247379,BDF051,http://www.sfc.hk/publicregWeb/indi/BDF051/licenceRecord,,,RO,2019-08-09,2019-10-30
+"Cheung, Ka Ho (SFC:BAJ170) 張嘉豪",None,sfclicrec.asp?p=1978552,BAJ170,http://www.sfc.hk/publicregWeb/indi/BAJ170/licenceRecord,,,Rep,2012-11-09,2014-08-01
+"Ho, Cecilia Mei Yee 何美宜",None,sfclicrec.asp?p=100305,ABT552,http://www.sfc.hk/publicregWeb/indi/ABT552/licenceRecord,,F,Rep,2014-08-25,2014-10-13
+"Ho, Cecilia Mei Yee 何美宜",None,sfclicrec.asp?p=100305,ABT552,http://www.sfc.hk/publicregWeb/indi/ABT552/licenceRecord,,F,RO,2014-10-13,2014-11-03
+"Lau, Andy Chin Yung 劉展榕",None,sfclicrec.asp?p=93017,AGH950,http://www.sfc.hk/publicregWeb/indi/AGH950/licenceRecord,,,Rep,2012-12-21,2013-02-27
+"Lau, Andy Chin Yung 劉展榕",None,sfclicrec.asp?p=93017,AGH950,http://www.sfc.hk/publicregWeb/indi/AGH950/licenceRecord,,,RO,2013-02-27,2015-06-18
+"Li, Eric Ting Ho 李廷荷",None,sfclicrec.asp?p=107710,AFU504,http://www.sfc.hk/publicregWeb/indi/AFU504/licenceRecord,,M,Rep,2015-06-02,2015-06-18
+"Li, Eric Ting Ho 李廷荷",None,sfclicrec.asp?p=107710,AFU504,http://www.sfc.hk/publicregWeb/indi/AFU504/licenceRecord,,M,RO,2015-06-18,
+"Lin, Xiong Guan 林雄關",None,sfclicrec.asp?p=2031698,AYM027,http://www.sfc.hk/publicregWeb/indi/AYM027/licenceRecord,,,Rep,2013-03-08,2017-10-12
+"Lin, Xiong Guan 林雄關",None,sfclicrec.asp?p=2031698,AYM027,http://www.sfc.hk/publicregWeb/indi/AYM027/licenceRecord,,,RO,2017-10-12,
+"Tso, Wui Yuen 曹會源",None,sfclicrec.asp?p=59193,AAC572,http://www.sfc.hk/publicregWeb/indi/AAC572/licenceRecord,,,RO,2012-04-11,
+"Wong, Choi Wai 黃彩威",None,sfclicrec.asp?p=102725,ACF973,http://www.sfc.hk/publicregWeb/indi/ACF973/licenceRecord,,,Rep,2015-03-12,
+"Wong, Kwai Chiu 王貴釗",None,sfclicrec.asp?p=102603,ACC061,http://www.sfc.hk/publicregWeb/indi/ACC061/licenceRecord,,,RO,2012-04-11,2013-02-28

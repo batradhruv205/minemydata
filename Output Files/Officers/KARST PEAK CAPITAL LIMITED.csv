@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bhaskar, Mukund ",sfclicrec.asp?p=11663973,,,Rep,2017-06-21,2019-08-30
-"Bhaskar, Mukund ",sfclicrec.asp?p=11663973,,,RO,2019-08-30,
-"Fan, Ye 范曄",sfclicrec.asp?p=1915966,,,RO,2012-03-16,2019-01-11
-"Guo, Xiang (SFC:BFX530) 郭翔",sfclicrec.asp?p=2459562,,,Rep,2015-08-07,2017-01-10
-"Kim, Jee Yeon 金志妍",sfclicrec.asp?p=118738,,,Rep,2013-04-29,2018-01-26
-"Leitzes, Adam Gregory ",sfclicrec.asp?p=1915967,,M,RO,2012-03-16,
-"Leitzes, Kim My Phuong ",sfclicrec.asp?p=1915968,,,RO,2012-03-16,2018-02-08
-"Philippe, Matthew Aaron ",sfclicrec.asp?p=2557307,,M,Rep,2016-04-08,2019-01-14
-"Sorani, Andrea ",sfclicrec.asp?p=12681940,,F,RO,2018-01-09,
-"Yu, Huiling 俞慧玲",sfclicrec.asp?p=88174,,,Rep,2015-07-20,
-"Zhang, Jing (SFC:BHJ764) 張婧",sfclicrec.asp?p=2567383,,,Rep,2016-04-25,2019-06-28
-"Zhu, Xiaohui (SFC:ARJ511) 朱曉輝",sfclicrec.asp?p=126203,,,Rep,2012-06-25,2015-01-08
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bhaskar, Mukund ",None,sfclicrec.asp?p=11663973,BJT903,http://www.sfc.hk/publicregWeb/indi/BJT903/licenceRecord,,,Rep,2017-06-21,2019-08-30
+"Bhaskar, Mukund ",None,sfclicrec.asp?p=11663973,BJT903,http://www.sfc.hk/publicregWeb/indi/BJT903/licenceRecord,,,RO,2019-08-30,
+"Fan, Ye 范曄",None,sfclicrec.asp?p=1915966,AZB952,http://www.sfc.hk/publicregWeb/indi/AZB952/licenceRecord,,,RO,2012-03-16,2019-01-11
+"Guo, Xiang (SFC:BFX530) 郭翔",None,sfclicrec.asp?p=2459562,BFX530,http://www.sfc.hk/publicregWeb/indi/BFX530/licenceRecord,,,Rep,2015-08-07,2017-01-10
+"Kim, Jee Yeon 金志妍",None,sfclicrec.asp?p=118738,ANM620,http://www.sfc.hk/publicregWeb/indi/ANM620/licenceRecord,,,Rep,2013-04-29,2018-01-26
+"Leitzes, Adam Gregory ",None,sfclicrec.asp?p=1915967,AZB951,http://www.sfc.hk/publicregWeb/indi/AZB951/licenceRecord,,M,RO,2012-03-16,
+"Leitzes, Kim My Phuong ",None,sfclicrec.asp?p=1915968,AZB953,http://www.sfc.hk/publicregWeb/indi/AZB953/licenceRecord,,,RO,2012-03-16,2018-02-08
+"Philippe, Matthew Aaron ",None,sfclicrec.asp?p=2557307,BHH151,http://www.sfc.hk/publicregWeb/indi/BHH151/licenceRecord,,M,Rep,2016-04-08,2019-01-14
+"Sorani, Andrea ",None,sfclicrec.asp?p=12681940,BJW752,http://www.sfc.hk/publicregWeb/indi/BJW752/licenceRecord,,F,RO,2018-01-09,
+"Yu, Huiling 俞慧玲",None,sfclicrec.asp?p=88174,AVL564,http://www.sfc.hk/publicregWeb/indi/AVL564/licenceRecord,,,Rep,2015-07-20,
+"Zhang, Jing (SFC:BHJ764) 張婧",None,sfclicrec.asp?p=2567383,BHJ764,http://www.sfc.hk/publicregWeb/indi/BHJ764/licenceRecord,,,Rep,2016-04-25,2019-06-28
+"Zhu, Xiaohui (SFC:ARJ511) 朱曉輝",None,sfclicrec.asp?p=126203,ARJ511,http://www.sfc.hk/publicregWeb/indi/ARJ511/licenceRecord,,,Rep,2012-06-25,2015-01-08

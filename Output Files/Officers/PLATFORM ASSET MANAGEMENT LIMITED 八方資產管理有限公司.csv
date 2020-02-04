@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Ngai Fai 鄭毅暉",sfclicrec.asp?p=68660,,,RO,2015-06-26,
-"Cheung, Hiu Chuen 張曉川",sfclicrec.asp?p=2535726,,,Rep,2016-02-05,2017-08-30
-"Lee, Kwok Cheong (SFC:AGA695) 李國昌",sfclicrec.asp?p=72225,,,RO,2015-06-26,2017-10-31
-"Sum, Yik Po 岑亦寶",sfclicrec.asp?p=2535727,,,Rep,2016-02-05,2019-07-28
-"Weng, Wing Yee 翁永燚",sfclicrec.asp?p=2131328,,,RO,2017-10-27,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Ngai Fai 鄭毅暉",None,sfclicrec.asp?p=68660,AFP620,http://www.sfc.hk/publicregWeb/indi/AFP620/licenceRecord,,,RO,2015-06-26,
+"Cheung, Hiu Chuen 張曉川",None,sfclicrec.asp?p=2535726,BGX968,http://www.sfc.hk/publicregWeb/indi/BGX968/licenceRecord,,,Rep,2016-02-05,2017-08-30
+"Lee, Kwok Cheong (SFC:AGA695) 李國昌",None,sfclicrec.asp?p=72225,AGA695,http://www.sfc.hk/publicregWeb/indi/AGA695/licenceRecord,,,RO,2015-06-26,2017-10-31
+"Sum, Yik Po 岑亦寶",None,sfclicrec.asp?p=2535727,BGY112,http://www.sfc.hk/publicregWeb/indi/BGY112/licenceRecord,,,Rep,2016-02-05,2019-07-28
+"Weng, Wing Yee 翁永燚",None,sfclicrec.asp?p=2131328,BBT192,http://www.sfc.hk/publicregWeb/indi/BBT192/licenceRecord,,,RO,2017-10-27,

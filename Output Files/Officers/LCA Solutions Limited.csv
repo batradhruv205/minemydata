@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chau, Hei Wai 周禧煒",sfclicrec.asp?p=2384857,,,Rep,2019-12-05,
-"Cheung, Wai Yi (SFC:BCV713) 張維怡",sfclicrec.asp?p=2203938,,,Rep,2014-02-06,2014-03-21
-"Chu, Eddie Wai Ting 朱緯庭",sfclicrec.asp?p=102429,,M,Rep,2010-11-09,2018-04-06
-"Chu, Eddie Wai Ting 朱緯庭",sfclicrec.asp?p=102429,,M,RO,2018-04-06,
-"Freedman, Daniel Keith ",sfclicrec.asp?p=129759,,M,RO,2010-07-30,2011-01-30
-"Halim, Steven ",sfclicrec.asp?p=123474,,M,Rep,2012-08-13,
-"Han, Bruce Wook ",sfclicrec.asp?p=103089,,M,Rep,2017-04-10,2017-12-12
-"Kim, Young (SFC:AGL788) ",sfclicrec.asp?p=109353,,,Rep,2015-05-28,2016-04-29
-"Kong, Sum Ying 江沁凝",sfclicrec.asp?p=107434,,,Rep,2010-11-09,2013-10-20
-"Kwok, Shan Ho 郭山河",sfclicrec.asp?p=2455811,,,Rep,2015-07-30,
-"Legrand, Philippe Herve Marc ",sfclicrec.asp?p=104898,,M,RO,2010-07-30,
-"Lei, Winnie Pui Yuk 李佩玉",sfclicrec.asp?p=130518,,F,Rep,2010-11-09,2019-09-20
-"Ramchandani, Sanam Raju ",sfclicrec.asp?p=105113,,,Rep,2010-11-30,2011-01-21
-"Ramchandani, Sanam Raju ",sfclicrec.asp?p=105113,,,RO,2011-01-21,
-"Wong, Benson 王秉誠",sfclicrec.asp?p=103347,,M,Rep,2010-10-14,2019-06-11
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chau, Hei Wai 周禧煒",None,sfclicrec.asp?p=2384857,BEZ010,http://www.sfc.hk/publicregWeb/indi/BEZ010/licenceRecord,,,Rep,2019-12-05,
+"Cheung, Wai Yi (SFC:BCV713) 張維怡",None,sfclicrec.asp?p=2203938,BCV713,http://www.sfc.hk/publicregWeb/indi/BCV713/licenceRecord,,,Rep,2014-02-06,2014-03-21
+"Chu, Eddie Wai Ting 朱緯庭",None,sfclicrec.asp?p=102429,ABX990,http://www.sfc.hk/publicregWeb/indi/ABX990/licenceRecord,,M,Rep,2010-11-09,2018-04-06
+"Chu, Eddie Wai Ting 朱緯庭",None,sfclicrec.asp?p=102429,ABX990,http://www.sfc.hk/publicregWeb/indi/ABX990/licenceRecord,,M,RO,2018-04-06,
+"Freedman, Daniel Keith ",None,sfclicrec.asp?p=129759,AVD962,http://www.sfc.hk/publicregWeb/indi/AVD962/licenceRecord,,M,RO,2010-07-30,2011-01-30
+"Halim, Steven ",None,sfclicrec.asp?p=123474,APZ209,http://www.sfc.hk/publicregWeb/indi/APZ209/licenceRecord,,M,Rep,2012-08-13,
+"Han, Bruce Wook ",None,sfclicrec.asp?p=103089,ACO279,http://www.sfc.hk/publicregWeb/indi/ACO279/licenceRecord,,M,Rep,2017-04-10,2017-12-12
+"Kim, Young (SFC:AGL788) ",None,sfclicrec.asp?p=109353,AGL788,http://www.sfc.hk/publicregWeb/indi/AGL788/licenceRecord,,,Rep,2015-05-28,2016-04-29
+"Kong, Sum Ying 江沁凝",None,sfclicrec.asp?p=107434,AFS337,http://www.sfc.hk/publicregWeb/indi/AFS337/licenceRecord,,,Rep,2010-11-09,2013-10-20
+"Kwok, Shan Ho 郭山河",None,sfclicrec.asp?p=2455811,BFX654,http://www.sfc.hk/publicregWeb/indi/BFX654/licenceRecord,,,Rep,2015-07-30,
+"Legrand, Philippe Herve Marc ",None,sfclicrec.asp?p=104898,AEK110,http://www.sfc.hk/publicregWeb/indi/AEK110/licenceRecord,,M,RO,2010-07-30,
+"Lei, Winnie Pui Yuk 李佩玉",None,sfclicrec.asp?p=130518,AWF642,http://www.sfc.hk/publicregWeb/indi/AWF642/licenceRecord,,F,Rep,2010-11-09,2019-09-20
+"Ramchandani, Sanam Raju ",None,sfclicrec.asp?p=105113,AEO646,http://www.sfc.hk/publicregWeb/indi/AEO646/licenceRecord,,,Rep,2010-11-30,2011-01-21
+"Ramchandani, Sanam Raju ",None,sfclicrec.asp?p=105113,AEO646,http://www.sfc.hk/publicregWeb/indi/AEO646/licenceRecord,,,RO,2011-01-21,
+"Wong, Benson 王秉誠",None,sfclicrec.asp?p=103347,ACU389,http://www.sfc.hk/publicregWeb/indi/ACU389/licenceRecord,,M,Rep,2010-10-14,2019-06-11

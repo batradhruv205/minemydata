@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Liu, Tianren 劉天壬",sfclicrec.asp?p=2620730,,,Rep,2016-08-17,2017-10-09
-"Luo, Zhenxia (SFC:AMM420) 羅振夏",sfclicrec.asp?p=72293,,,RO,2016-02-15,
-"Ng, Ka Wing (SFC:ARB120) 吳家榮",sfclicrec.asp?p=88331,,,Rep,2016-08-30,2017-03-17
-"Tao, Sha (SFC:AYJ250) 陶莎",sfclicrec.asp?p=153500,,,Rep,2018-04-10,2018-07-04
-"Wang, Guofan 王國帆",sfclicrec.asp?p=2617035,,,Rep,2016-08-09,2017-02-28
-"Xiao, Haiping (SFC:ARW593) 肖海平",sfclicrec.asp?p=72242,,,RO,2016-02-15,
-"Yu, Xiaoxia 蔚曉霞",sfclicrec.asp?p=12595473,,,Rep,2017-11-23,2018-09-30
-"Zhang, Huachen 張華晨",sfclicrec.asp?p=2523007,,,Rep,2016-06-13,2017-10-20
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Liu, Tianren 劉天壬",None,sfclicrec.asp?p=2620730,BHZ311,http://www.sfc.hk/publicregWeb/indi/BHZ311/licenceRecord,,,Rep,2016-08-17,2017-10-09
+"Luo, Zhenxia (SFC:AMM420) 羅振夏",None,sfclicrec.asp?p=72293,AMM420,http://www.sfc.hk/publicregWeb/indi/AMM420/licenceRecord,,,RO,2016-02-15,
+"Ng, Ka Wing (SFC:ARB120) 吳家榮",None,sfclicrec.asp?p=88331,ARB120,http://www.sfc.hk/publicregWeb/indi/ARB120/licenceRecord,,,Rep,2016-08-30,2017-03-17
+"Tao, Sha (SFC:AYJ250) 陶莎",None,sfclicrec.asp?p=153500,AYJ250,http://www.sfc.hk/publicregWeb/indi/AYJ250/licenceRecord,,,Rep,2018-04-10,2018-07-04
+"Wang, Guofan 王國帆",None,sfclicrec.asp?p=2617035,BHU040,http://www.sfc.hk/publicregWeb/indi/BHU040/licenceRecord,,,Rep,2016-08-09,2017-02-28
+"Xiao, Haiping (SFC:ARW593) 肖海平",None,sfclicrec.asp?p=72242,ARW593,http://www.sfc.hk/publicregWeb/indi/ARW593/licenceRecord,,,RO,2016-02-15,
+"Yu, Xiaoxia 蔚曉霞",None,sfclicrec.asp?p=12595473,BLH691,http://www.sfc.hk/publicregWeb/indi/BLH691/licenceRecord,,,Rep,2017-11-23,2018-09-30
+"Zhang, Huachen 張華晨",None,sfclicrec.asp?p=2523007,BGU214,http://www.sfc.hk/publicregWeb/indi/BGU214/licenceRecord,,,Rep,2016-06-13,2017-10-20

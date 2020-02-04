@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chung, Ken Chin 鍾展雲",sfclicrec.asp?p=97866,,M,RO,2016-03-01,2017-11-03
-"De Weerdt, Pieter Helene E. ",sfclicrec.asp?p=2541306,,,RO,2016-03-01,
-"Vandenven, Filip Joris J. ",sfclicrec.asp?p=2668303,,M,RO,2016-12-05,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chung, Ken Chin 鍾展雲",None,sfclicrec.asp?p=97866,AME284,http://www.sfc.hk/publicregWeb/indi/AME284/licenceRecord,,M,RO,2016-03-01,2017-11-03
+"De Weerdt, Pieter Helene E. ",None,sfclicrec.asp?p=2541306,BGK383,http://www.sfc.hk/publicregWeb/indi/BGK383/licenceRecord,,,RO,2016-03-01,
+"Vandenven, Filip Joris J. ",None,sfclicrec.asp?p=2668303,BGK384,http://www.sfc.hk/publicregWeb/indi/BGK384/licenceRecord,,M,RO,2016-12-05,

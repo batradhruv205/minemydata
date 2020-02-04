@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Fang, Cao 方草",sfclicrec.asp?p=123031,,,Rep,2019-10-22,2020-01-01
-"Ge, Feng 葛豐",sfclicrec.asp?p=2298434,,,RO,2013-06-19,
-"Jiang, Tao (SFC:BBR526) 姜濤",sfclicrec.asp?p=2298436,,,Rep,2013-09-02,
-"Leung, Lok Fai 梁樂暉",sfclicrec.asp?p=90979,,,Rep,2016-08-15,
-"Li, Shujun (SFC:AWA147) 李曙軍",sfclicrec.asp?p=2298435,,,RO,2013-06-19,
-"Song, Haodong 宋浩東",sfclicrec.asp?p=2298437,,,Rep,2013-09-02,2017-11-11
-"Wang, Jun (SFC:AYS550) 汪駿",sfclicrec.asp?p=136191,,,Rep,2014-07-24,2015-11-30
-"Wong, Gladys Chi-ching 黃志貞",sfclicrec.asp?p=85974,,F,Rep,2015-10-14,
-"Zheng, Yusi 鄭雨思",sfclicrec.asp?p=1927662,,,Rep,2014-07-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Fang, Cao 方草",None,sfclicrec.asp?p=123031,APR657,http://www.sfc.hk/publicregWeb/indi/APR657/licenceRecord,,,Rep,2019-10-22,2020-01-01
+"Ge, Feng 葛豐",None,sfclicrec.asp?p=2298434,BBD875,http://www.sfc.hk/publicregWeb/indi/BBD875/licenceRecord,,,RO,2013-06-19,
+"Jiang, Tao (SFC:BBR526) 姜濤",None,sfclicrec.asp?p=2298436,BBR526,http://www.sfc.hk/publicregWeb/indi/BBR526/licenceRecord,,,Rep,2013-09-02,
+"Leung, Lok Fai 梁樂暉",None,sfclicrec.asp?p=90979,ATD022,http://www.sfc.hk/publicregWeb/indi/ATD022/licenceRecord,,,Rep,2016-08-15,
+"Li, Shujun (SFC:AWA147) 李曙軍",None,sfclicrec.asp?p=2298435,AWA147,http://www.sfc.hk/publicregWeb/indi/AWA147/licenceRecord,,,RO,2013-06-19,
+"Song, Haodong 宋浩東",None,sfclicrec.asp?p=2298437,BBR523,http://www.sfc.hk/publicregWeb/indi/BBR523/licenceRecord,,,Rep,2013-09-02,2017-11-11
+"Wang, Jun (SFC:AYS550) 汪駿",None,sfclicrec.asp?p=136191,AYS550,http://www.sfc.hk/publicregWeb/indi/AYS550/licenceRecord,,,Rep,2014-07-24,2015-11-30
+"Wong, Gladys Chi-ching 黃志貞",None,sfclicrec.asp?p=85974,APB571,http://www.sfc.hk/publicregWeb/indi/APB571/licenceRecord,,F,Rep,2015-10-14,
+"Zheng, Yusi 鄭雨思",None,sfclicrec.asp?p=1927662,AZX567,http://www.sfc.hk/publicregWeb/indi/AZX567/licenceRecord,,,Rep,2014-07-24,

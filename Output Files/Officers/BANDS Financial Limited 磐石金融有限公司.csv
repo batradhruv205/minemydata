@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Browning, John Leonard ",sfclicrec.asp?p=90088,,M,RO,2015-10-13,
-"Chen, Min (SFC:BOK369) 陳敏",sfclicrec.asp?p=23240571,,,Rep,2019-05-30,
-"Cheng, Kin Chun Kenneth 鄭健駿",sfclicrec.asp?p=11789157,,,Rep,2017-08-16,2017-09-15
-"Cheung, Ka Chung 張家聰",sfclicrec.asp?p=90094,,,RO,2015-10-13,
-"Fok, Siu Pong 霍少邦",sfclicrec.asp?p=90112,,,Rep,2015-10-23,2018-05-21
-"Goldwyn, Jeremy David (SFC:BJU244) ",sfclicrec.asp?p=23318369,,M,RO,2019-06-18,2020-01-15
-"Huang, Ping Hung 黃秉宏",sfclicrec.asp?p=22600799,,,Rep,2019-01-02,
-"Hui, Daniel Ka Chung 許家聰",sfclicrec.asp?p=90122,,M,Rep,2015-10-23,2018-11-07
-"Hui, Daniel Ka Chung 許家聰",sfclicrec.asp?p=90122,,M,RO,2018-11-07,
-"Lam, Pui Yan (SFC:BHV688) 林培人",sfclicrec.asp?p=2620204,,,Rep,2017-06-09,2018-09-30
-"Li, Junhao 李俊豪",sfclicrec.asp?p=2539179,,,Rep,2016-07-29,
-"Liu, Zhaoli 劉釗利",sfclicrec.asp?p=23795751,,,Rep,2019-10-16,
-"Shi, Tiger Chenghu 石成虎",sfclicrec.asp?p=90160,,,RO,2015-10-13,
-"Wong, Ka Wing (SFC:ATO884) 黃家榮",sfclicrec.asp?p=92611,,,Rep,2018-10-31,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Browning, John Leonard ",None,sfclicrec.asp?p=90088,AQF043,http://www.sfc.hk/publicregWeb/indi/AQF043/licenceRecord,,M,RO,2015-10-13,
+"Chen, Min (SFC:BOK369) 陳敏",None,sfclicrec.asp?p=23240571,BOK369,http://www.sfc.hk/publicregWeb/indi/BOK369/licenceRecord,,,Rep,2019-05-30,
+"Cheng, Kin Chun Kenneth 鄭健駿",None,sfclicrec.asp?p=11789157,BJY611,http://www.sfc.hk/publicregWeb/indi/BJY611/licenceRecord,,,Rep,2017-08-16,2017-09-15
+"Cheung, Ka Chung 張家聰",None,sfclicrec.asp?p=90094,ARC087,http://www.sfc.hk/publicregWeb/indi/ARC087/licenceRecord,,,RO,2015-10-13,
+"Fok, Siu Pong 霍少邦",None,sfclicrec.asp?p=90112,AME216,http://www.sfc.hk/publicregWeb/indi/AME216/licenceRecord,,,Rep,2015-10-23,2018-05-21
+"Goldwyn, Jeremy David (SFC:BJU244) ",None,sfclicrec.asp?p=23318369,BJU244,http://www.sfc.hk/publicregWeb/indi/BJU244/licenceRecord,,M,RO,2019-06-18,2020-01-15
+"Huang, Ping Hung 黃秉宏",None,sfclicrec.asp?p=22600799,BNY554,http://www.sfc.hk/publicregWeb/indi/BNY554/licenceRecord,,,Rep,2019-01-02,
+"Hui, Daniel Ka Chung 許家聰",None,sfclicrec.asp?p=90122,AUP690,http://www.sfc.hk/publicregWeb/indi/AUP690/licenceRecord,,M,Rep,2015-10-23,2018-11-07
+"Hui, Daniel Ka Chung 許家聰",None,sfclicrec.asp?p=90122,AUP690,http://www.sfc.hk/publicregWeb/indi/AUP690/licenceRecord,,M,RO,2018-11-07,
+"Lam, Pui Yan (SFC:BHV688) 林培人",None,sfclicrec.asp?p=2620204,BHV688,http://www.sfc.hk/publicregWeb/indi/BHV688/licenceRecord,,,Rep,2017-06-09,2018-09-30
+"Li, Junhao 李俊豪",None,sfclicrec.asp?p=2539179,BGY117,http://www.sfc.hk/publicregWeb/indi/BGY117/licenceRecord,,,Rep,2016-07-29,
+"Liu, Zhaoli 劉釗利",None,sfclicrec.asp?p=23795751,BOZ592,http://www.sfc.hk/publicregWeb/indi/BOZ592/licenceRecord,,,Rep,2019-10-16,
+"Shi, Tiger Chenghu 石成虎",None,sfclicrec.asp?p=90160,AOG041,http://www.sfc.hk/publicregWeb/indi/AOG041/licenceRecord,,,RO,2015-10-13,
+"Wong, Ka Wing (SFC:ATO884) 黃家榮",None,sfclicrec.asp?p=92611,ATO884,http://www.sfc.hk/publicregWeb/indi/ATO884/licenceRecord,,,Rep,2018-10-31,

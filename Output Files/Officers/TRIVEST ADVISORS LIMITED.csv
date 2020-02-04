@@ -1,18 +1,18 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bao, Xuming 鮑旭鳴",sfclicrec.asp?p=70316,,,Rep,2012-04-02,2018-02-28
-"Cao, Yang (SFC:BJY138) 曹洋",sfclicrec.asp?p=11787607,,,Rep,2017-08-10,
-"Gao, Ping (SFC:ALB387) 高平",sfclicrec.asp?p=114289,,,Rep,2011-02-07,2016-05-31
-"Ge, Nan 葛楠",sfclicrec.asp?p=2347921,,,Rep,2019-06-03,
-"Han, Pengju 韓鵬舉",sfclicrec.asp?p=132338,,,Rep,2011-09-27,2016-05-31
-"Li, Ming (SFC:BET762) 李明",sfclicrec.asp?p=2376600,,,Rep,2019-05-21,
-"Ma, Qiang (SFC:BJX750) 馬強",sfclicrec.asp?p=11787608,,,Rep,2017-08-10,
-"Mei, Jintian 梅今天",sfclicrec.asp?p=12680982,,,Rep,2018-01-08,
-"Pan, Feng (SFC:BOT967) 潘峰",sfclicrec.asp?p=23676740,,,Rep,2019-09-18,
-"Sun, Lu (SFC:AGF426) 孫璐",sfclicrec.asp?p=108757,,,RO,2010-04-08,
-"Wang, Xiaoting 王晓亭",sfclicrec.asp?p=115531,,,Rep,2011-05-04,2012-04-30
-"Wang, Zhi (SFC:ARO579) ",sfclicrec.asp?p=100316,,,Rep,2016-01-25,
-"Wu, Di (SFC:BNI721) 吳迪",sfclicrec.asp?p=22169864,,,Rep,2018-09-12,
-"Wu, Huimin (SFC:AGX447) 吳惠敏",sfclicrec.asp?p=110862,,,RO,2010-04-08,
-"Xie, Xuefeng 謝學峰",sfclicrec.asp?p=114437,,,Rep,2011-04-08,2012-02-29
-"Xue, Lan (SFC:ADG983) 薛瀾",sfclicrec.asp?p=103717,,,RO,2010-06-30,
-"Zong, Xing 宗兴",sfclicrec.asp?p=136051,,,Rep,2012-11-06,2016-08-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bao, Xuming 鮑旭鳴",None,sfclicrec.asp?p=70316,AOB304,http://www.sfc.hk/publicregWeb/indi/AOB304/licenceRecord,,,Rep,2012-04-02,2018-02-28
+"Cao, Yang (SFC:BJY138) 曹洋",None,sfclicrec.asp?p=11787607,BJY138,http://www.sfc.hk/publicregWeb/indi/BJY138/licenceRecord,,,Rep,2017-08-10,
+"Gao, Ping (SFC:ALB387) 高平",None,sfclicrec.asp?p=114289,ALB387,http://www.sfc.hk/publicregWeb/indi/ALB387/licenceRecord,,,Rep,2011-02-07,2016-05-31
+"Ge, Nan 葛楠",None,sfclicrec.asp?p=2347921,BEM810,http://www.sfc.hk/publicregWeb/indi/BEM810/licenceRecord,,,Rep,2019-06-03,
+"Han, Pengju 韓鵬舉",None,sfclicrec.asp?p=132338,AYC952,http://www.sfc.hk/publicregWeb/indi/AYC952/licenceRecord,,,Rep,2011-09-27,2016-05-31
+"Li, Ming (SFC:BET762) 李明",None,sfclicrec.asp?p=2376600,BET762,http://www.sfc.hk/publicregWeb/indi/BET762/licenceRecord,,,Rep,2019-05-21,
+"Ma, Qiang (SFC:BJX750) 馬強",None,sfclicrec.asp?p=11787608,BJX750,http://www.sfc.hk/publicregWeb/indi/BJX750/licenceRecord,,,Rep,2017-08-10,
+"Mei, Jintian 梅今天",None,sfclicrec.asp?p=12680982,BLQ901,http://www.sfc.hk/publicregWeb/indi/BLQ901/licenceRecord,,,Rep,2018-01-08,
+"Pan, Feng (SFC:BOT967) 潘峰",None,sfclicrec.asp?p=23676740,BOT967,http://www.sfc.hk/publicregWeb/indi/BOT967/licenceRecord,,,Rep,2019-09-18,
+"Sun, Lu (SFC:AGF426) 孫璐",None,sfclicrec.asp?p=108757,AGF426,http://www.sfc.hk/publicregWeb/indi/AGF426/licenceRecord,,,RO,2010-04-08,
+"Wang, Xiaoting 王晓亭",None,sfclicrec.asp?p=115531,ALU743,http://www.sfc.hk/publicregWeb/indi/ALU743/licenceRecord,,,Rep,2011-05-04,2012-04-30
+"Wang, Zhi (SFC:ARO579) ",None,sfclicrec.asp?p=100316,ARO579,http://www.sfc.hk/publicregWeb/indi/ARO579/licenceRecord,,,Rep,2016-01-25,
+"Wu, Di (SFC:BNI721) 吳迪",None,sfclicrec.asp?p=22169864,BNI721,http://www.sfc.hk/publicregWeb/indi/BNI721/licenceRecord,,,Rep,2018-09-12,
+"Wu, Huimin (SFC:AGX447) 吳惠敏",None,sfclicrec.asp?p=110862,AGX447,http://www.sfc.hk/publicregWeb/indi/AGX447/licenceRecord,,,RO,2010-04-08,
+"Xie, Xuefeng 謝學峰",None,sfclicrec.asp?p=114437,ALE981,http://www.sfc.hk/publicregWeb/indi/ALE981/licenceRecord,,,Rep,2011-04-08,2012-02-29
+"Xue, Lan (SFC:ADG983) 薛瀾",None,sfclicrec.asp?p=103717,ADG983,http://www.sfc.hk/publicregWeb/indi/ADG983/licenceRecord,,,RO,2010-06-30,
+"Zong, Xing 宗兴",None,sfclicrec.asp?p=136051,AYU389,http://www.sfc.hk/publicregWeb/indi/AYU389/licenceRecord,,,Rep,2012-11-06,2016-08-31

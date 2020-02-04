@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chow, Lin Hing 周連興",sfclicrec.asp?p=100803,,,RO,,
-"Chu, Yin Ying 朱賢英",sfclicrec.asp?p=100804,,,Rep,,2009-09-16
-"Fung, Janny Ting Lin 馮定蓮",sfclicrec.asp?p=102177,,,Rep,,2011-10-11
-"Ma, Alfred Ching Kuen 馬清權",sfclicrec.asp?p=1727,68,M,RO,,
-"Ma, Amy Ching Sau 馬清秀",sfclicrec.asp?p=1728,70,F,RO,,
-"Tam, Sau Ying 譚秀英",sfclicrec.asp?p=104343,,,Rep,,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chow, Lin Hing 周連興",None,sfclicrec.asp?p=100803,AAC536,http://www.sfc.hk/publicregWeb/indi/AAC536/licenceRecord,,,RO,,
+"Chu, Yin Ying 朱賢英",None,sfclicrec.asp?p=100804,AAC539,http://www.sfc.hk/publicregWeb/indi/AAC539/licenceRecord,,,Rep,,2009-09-16
+"Fung, Janny Ting Lin 馮定蓮",None,sfclicrec.asp?p=102177,ABN814,http://www.sfc.hk/publicregWeb/indi/ABN814/licenceRecord,,,Rep,,2011-10-11
+"Ma, Alfred Ching Kuen 馬清權",None,sfclicrec.asp?p=1727,AAC449,http://www.sfc.hk/publicregWeb/indi/AAC449/licenceRecord,68.0,M,RO,,
+"Ma, Amy Ching Sau 馬清秀",None,sfclicrec.asp?p=1728,AAA152,http://www.sfc.hk/publicregWeb/indi/AAA152/licenceRecord,70.0,F,RO,,
+"Tam, Sau Ying 譚秀英",None,sfclicrec.asp?p=104343,ADX019,http://www.sfc.hk/publicregWeb/indi/ADX019/licenceRecord,,,Rep,,

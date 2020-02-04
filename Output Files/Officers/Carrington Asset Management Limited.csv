@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Birla, Nitin 白耐恬",sfclicrec.asp?p=1943573,,,RO,2016-12-01,2019-05-02
-"Lau, Chun Sing (SFC:ANQ367) 劉振聲",sfclicrec.asp?p=118996,,,RO,2019-04-18,
-"Narayana Pillai, Arun ",sfclicrec.asp?p=15273027,,M,Rep,2018-05-21,2018-11-21
-"Taneja, Ambar ",sfclicrec.asp?p=1989980,,,RO,2016-12-01,2019-05-02
-"Tsang, Wayne Wai Yan 曾惠恩",sfclicrec.asp?p=112035,,M,Rep,2019-03-01,2019-08-19
-"Tsang, Wayne Wai Yan 曾惠恩",sfclicrec.asp?p=112035,,M,RO,2019-08-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Birla, Nitin 白耐恬",None,sfclicrec.asp?p=1943573,ACD537,http://www.sfc.hk/publicregWeb/indi/ACD537/licenceRecord,,,RO,2016-12-01,2019-05-02
+"Lau, Chun Sing (SFC:ANQ367) 劉振聲",None,sfclicrec.asp?p=118996,ANQ367,http://www.sfc.hk/publicregWeb/indi/ANQ367/licenceRecord,,,RO,2019-04-18,
+"Narayana Pillai, Arun ",None,sfclicrec.asp?p=15273027,BMQ791,http://www.sfc.hk/publicregWeb/indi/BMQ791/licenceRecord,,M,Rep,2018-05-21,2018-11-21
+"Taneja, Ambar ",None,sfclicrec.asp?p=1989980,BAO584,http://www.sfc.hk/publicregWeb/indi/BAO584/licenceRecord,,,RO,2016-12-01,2019-05-02
+"Tsang, Wayne Wai Yan 曾惠恩",None,sfclicrec.asp?p=112035,AIH007,http://www.sfc.hk/publicregWeb/indi/AIH007/licenceRecord,,M,Rep,2019-03-01,2019-08-19
+"Tsang, Wayne Wai Yan 曾惠恩",None,sfclicrec.asp?p=112035,AIH007,http://www.sfc.hk/publicregWeb/indi/AIH007/licenceRecord,,M,RO,2019-08-19,

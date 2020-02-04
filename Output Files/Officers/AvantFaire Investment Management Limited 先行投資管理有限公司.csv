@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Cong (SFC:BND653) 陳聰",sfclicrec.asp?p=19267470,,,Rep,2018-07-10,
-"Chiong, Sai Lung 張世龍",sfclicrec.asp?p=111305,,,Rep,2018-09-06,
-"Hung, Iris Mei Ha 孔美霞",sfclicrec.asp?p=75392,,F,RO,2018-05-16,2018-08-15
-"Ip, Mei Shun 葉美順",sfclicrec.asp?p=68927,46,M,Rep,2018-08-14,2018-08-24
-"Ip, Mei Shun 葉美順",sfclicrec.asp?p=68927,46,M,RO,2018-08-24,
-"Leung, Tsz Wing 梁子榮",sfclicrec.asp?p=2257546,37,M,RO,2018-05-16,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Cong (SFC:BND653) 陳聰",None,sfclicrec.asp?p=19267470,BND653,http://www.sfc.hk/publicregWeb/indi/BND653/licenceRecord,,,Rep,2018-07-10,
+"Chiong, Sai Lung 張世龍",None,sfclicrec.asp?p=111305,AHM814,http://www.sfc.hk/publicregWeb/indi/AHM814/licenceRecord,,,Rep,2018-09-06,
+"Hung, Iris Mei Ha 孔美霞",None,sfclicrec.asp?p=75392,AEC989,http://www.sfc.hk/publicregWeb/indi/AEC989/licenceRecord,,F,RO,2018-05-16,2018-08-15
+"Ip, Mei Shun 葉美順",None,sfclicrec.asp?p=68927,AVP618,http://www.sfc.hk/publicregWeb/indi/AVP618/licenceRecord,46.0,M,Rep,2018-08-14,2018-08-24
+"Ip, Mei Shun 葉美順",None,sfclicrec.asp?p=68927,AVP618,http://www.sfc.hk/publicregWeb/indi/AVP618/licenceRecord,46.0,M,RO,2018-08-24,
+"Leung, Tsz Wing 梁子榮",None,sfclicrec.asp?p=2257546,BDC611,http://www.sfc.hk/publicregWeb/indi/BDC611/licenceRecord,37.0,M,RO,2018-05-16,

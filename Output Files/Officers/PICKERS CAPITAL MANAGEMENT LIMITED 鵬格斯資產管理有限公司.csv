@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lau, Ada Hiu-Yee 劉曉儀",sfclicrec.asp?p=97697,,F,RO,2014-10-30,
-"Lee, Ho Tak 李浩德",sfclicrec.asp?p=97698,,,RO,2014-10-30,
-"Lo, Ho Shun 盧晧信",sfclicrec.asp?p=17128781,,,Rep,2018-06-11,
-"Pun, Tsz Fung 潘子峯",sfclicrec.asp?p=108829,,,Rep,2015-05-04,2019-08-13
-"Pun, Tsz Fung 潘子峯",sfclicrec.asp?p=108829,,,RO,2019-08-13,
-"Tsang, Hin Lok 曾憲樂",sfclicrec.asp?p=12678168,,,Rep,2018-01-04,2019-09-30
-"Zhao, Ying (SFC:BNR594) 趙莹",sfclicrec.asp?p=22403017,,,Rep,2018-11-07,2020-01-14
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lau, Ada Hiu-Yee 劉曉儀",None,sfclicrec.asp?p=97697,AHN631,http://www.sfc.hk/publicregWeb/indi/AHN631/licenceRecord,,F,RO,2014-10-30,
+"Lee, Ho Tak 李浩德",None,sfclicrec.asp?p=97698,AJB234,http://www.sfc.hk/publicregWeb/indi/AJB234/licenceRecord,,,RO,2014-10-30,
+"Lo, Ho Shun 盧晧信",None,sfclicrec.asp?p=17128781,BMW154,http://www.sfc.hk/publicregWeb/indi/BMW154/licenceRecord,,,Rep,2018-06-11,
+"Pun, Tsz Fung 潘子峯",None,sfclicrec.asp?p=108829,AGG915,http://www.sfc.hk/publicregWeb/indi/AGG915/licenceRecord,,,Rep,2015-05-04,2019-08-13
+"Pun, Tsz Fung 潘子峯",None,sfclicrec.asp?p=108829,AGG915,http://www.sfc.hk/publicregWeb/indi/AGG915/licenceRecord,,,RO,2019-08-13,
+"Tsang, Hin Lok 曾憲樂",None,sfclicrec.asp?p=12678168,BLO974,http://www.sfc.hk/publicregWeb/indi/BLO974/licenceRecord,,,Rep,2018-01-04,2019-09-30
+"Zhao, Ying (SFC:BNR594) 趙莹",None,sfclicrec.asp?p=22403017,BNR594,http://www.sfc.hk/publicregWeb/indi/BNR594/licenceRecord,,,Rep,2018-11-07,2020-01-14

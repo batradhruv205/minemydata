@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Hin Ni 張憲妮",sfclicrec.asp?p=115594,,,Rep,2005-04-26,2006-09-10
-"Hong, Wong 黃璜",sfclicrec.asp?p=2439895,,,Rep,2015-06-24,2019-10-17
-"Hong, Wong 黃璜",sfclicrec.asp?p=2439895,,,RO,2019-10-17,
-"Kothari, Ashok Sanatkumar ",sfclicrec.asp?p=69065,,M,RO,2004-07-28,
-"McAfee, William Gage 馬可飛",sfclicrec.asp?p=7272,77,M,RO,2004-01-02,
-"Nath, Virendra ",sfclicrec.asp?p=69067,,,RO,2007-12-17,2017-12-18
-"Tse, May Sin Mei 謝倩薇",sfclicrec.asp?p=43351,,F,RO,2004-01-02,2004-07-14
-"Zheng, Zheng 丁丁",sfclicrec.asp?p=126547,,,Rep,2015-11-03,2016-05-03
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Hin Ni 張憲妮",None,sfclicrec.asp?p=115594,ALV270,http://www.sfc.hk/publicregWeb/indi/ALV270/licenceRecord,,,Rep,2005-04-26,2006-09-10
+"Hong, Wong 黃璜",None,sfclicrec.asp?p=2439895,BFP356,http://www.sfc.hk/publicregWeb/indi/BFP356/licenceRecord,,,Rep,2015-06-24,2019-10-17
+"Hong, Wong 黃璜",None,sfclicrec.asp?p=2439895,BFP356,http://www.sfc.hk/publicregWeb/indi/BFP356/licenceRecord,,,RO,2019-10-17,
+"Kothari, Ashok Sanatkumar ",None,sfclicrec.asp?p=69065,AGN038,http://www.sfc.hk/publicregWeb/indi/AGN038/licenceRecord,,M,RO,2004-07-28,
+"McAfee, William Gage 馬可飛",None,sfclicrec.asp?p=7272,ADQ096,http://www.sfc.hk/publicregWeb/indi/ADQ096/licenceRecord,77.0,M,RO,2004-01-02,
+"Nath, Virendra ",None,sfclicrec.asp?p=69067,APZ391,http://www.sfc.hk/publicregWeb/indi/APZ391/licenceRecord,,,RO,2007-12-17,2017-12-18
+"Tse, May Sin Mei 謝倩薇",None,sfclicrec.asp?p=43351,AIZ253,http://www.sfc.hk/publicregWeb/indi/AIZ253/licenceRecord,,F,RO,2004-01-02,2004-07-14
+"Zheng, Zheng 丁丁",None,sfclicrec.asp?p=126547,ARO432,http://www.sfc.hk/publicregWeb/indi/ARO432/licenceRecord,,,Rep,2015-11-03,2016-05-03

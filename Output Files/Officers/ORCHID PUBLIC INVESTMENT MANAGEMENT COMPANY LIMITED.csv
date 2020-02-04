@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Yi (SFC:BJJ109) 陳怡",sfclicrec.asp?p=11770661,,,RO,2017-07-11,
-"Li, Gabriel 李基培",sfclicrec.asp?p=120744,52,M,RO,2008-04-22,2017-12-31
-"Liu, Xucheng 劉旭城",sfclicrec.asp?p=2499450,,,Rep,2015-11-10,2016-07-16
-"Wong, Edmond Tai Kong 黃大剛",sfclicrec.asp?p=124547,,M,RO,2008-04-22,
-"Yang, Yao Bo 楊耀波",sfclicrec.asp?p=2349832,,,Rep,2019-03-20,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Yi (SFC:BJJ109) 陳怡",None,sfclicrec.asp?p=11770661,BJJ109,http://www.sfc.hk/publicregWeb/indi/BJJ109/licenceRecord,,,RO,2017-07-11,
+"Li, Gabriel 李基培",None,sfclicrec.asp?p=120744,AOO692,http://www.sfc.hk/publicregWeb/indi/AOO692/licenceRecord,52.0,M,RO,2008-04-22,2017-12-31
+"Liu, Xucheng 劉旭城",None,sfclicrec.asp?p=2499450,BGI072,http://www.sfc.hk/publicregWeb/indi/BGI072/licenceRecord,,,Rep,2015-11-10,2016-07-16
+"Wong, Edmond Tai Kong 黃大剛",None,sfclicrec.asp?p=124547,AQO346,http://www.sfc.hk/publicregWeb/indi/AQO346/licenceRecord,,M,RO,2008-04-22,
+"Yang, Yao Bo 楊耀波",None,sfclicrec.asp?p=2349832,BEJ406,http://www.sfc.hk/publicregWeb/indi/BEJ406/licenceRecord,,,Rep,2019-03-20,

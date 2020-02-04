@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Haung, Yi Chun 黃怡珍",sfclicrec.asp?p=100509,,,Rep,2015-06-10,2019-11-06
-"Mak, Tai He 麥大禧",sfclicrec.asp?p=100837,,,Rep,2005-03-21,2012-02-20
-"Mak, Tai He 麥大禧",sfclicrec.asp?p=100837,,,Rep,2015-01-12,
-"Sun, Michael Wai Yip 辛偉業",sfclicrec.asp?p=105746,,M,Rep,2005-03-21,2006-01-09
-"Sun, Venus Wing Sze 辛穎斯",sfclicrec.asp?p=102087,,F,Rep,2005-03-21,2009-08-01
-"Sun, Venus Wing Sze 辛穎斯",sfclicrec.asp?p=102087,,F,Rep,2012-04-12,
-"Sun, Yee Yat 辛而逸",sfclicrec.asp?p=100836,,,Rep,2005-03-21,2014-01-01
-"Wan, Chai Wing 溫齊榮",sfclicrec.asp?p=100845,,,RO,2005-03-21,
-"Wan, Cham Ying 溫湛英",sfclicrec.asp?p=131346,,,Rep,2011-07-06,
-"Wan, Shuk Ying 溫淑英",sfclicrec.asp?p=101712,,,RO,2005-03-21,
-"Wan, Yuk Man 溫郁文",sfclicrec.asp?p=100835,,,RO,2005-03-21,
-"Wong, Chung Fai 黃仲輝",sfclicrec.asp?p=100834,,,Rep,2005-03-21,
-"Wong, Ka Sing Lester 黃家聲",sfclicrec.asp?p=74364,,,Rep,2012-04-02,2012-08-01
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Haung, Yi Chun 黃怡珍",None,sfclicrec.asp?p=100509,AAA191,http://www.sfc.hk/publicregWeb/indi/AAA191/licenceRecord,,,Rep,2015-06-10,2019-11-06
+"Mak, Tai He 麥大禧",None,sfclicrec.asp?p=100837,AAC863,http://www.sfc.hk/publicregWeb/indi/AAC863/licenceRecord,,,Rep,2005-03-21,2012-02-20
+"Mak, Tai He 麥大禧",None,sfclicrec.asp?p=100837,AAC863,http://www.sfc.hk/publicregWeb/indi/AAC863/licenceRecord,,,Rep,2015-01-12,
+"Sun, Michael Wai Yip 辛偉業",None,sfclicrec.asp?p=105746,AFA854,http://www.sfc.hk/publicregWeb/indi/AFA854/licenceRecord,,M,Rep,2005-03-21,2006-01-09
+"Sun, Venus Wing Sze 辛穎斯",None,sfclicrec.asp?p=102087,ABM281,http://www.sfc.hk/publicregWeb/indi/ABM281/licenceRecord,,F,Rep,2005-03-21,2009-08-01
+"Sun, Venus Wing Sze 辛穎斯",None,sfclicrec.asp?p=102087,ABM281,http://www.sfc.hk/publicregWeb/indi/ABM281/licenceRecord,,F,Rep,2012-04-12,
+"Sun, Yee Yat 辛而逸",None,sfclicrec.asp?p=100836,AAC856,http://www.sfc.hk/publicregWeb/indi/AAC856/licenceRecord,,,Rep,2005-03-21,2014-01-01
+"Wan, Chai Wing 溫齊榮",None,sfclicrec.asp?p=100845,AAC898,http://www.sfc.hk/publicregWeb/indi/AAC898/licenceRecord,,,RO,2005-03-21,
+"Wan, Cham Ying 溫湛英",None,sfclicrec.asp?p=131346,AXK792,http://www.sfc.hk/publicregWeb/indi/AXK792/licenceRecord,,,Rep,2011-07-06,
+"Wan, Shuk Ying 溫淑英",None,sfclicrec.asp?p=101712,AAW649,http://www.sfc.hk/publicregWeb/indi/AAW649/licenceRecord,,,RO,2005-03-21,
+"Wan, Yuk Man 溫郁文",None,sfclicrec.asp?p=100835,AAC851,http://www.sfc.hk/publicregWeb/indi/AAC851/licenceRecord,,,RO,2005-03-21,
+"Wong, Chung Fai 黃仲輝",None,sfclicrec.asp?p=100834,AAC837,http://www.sfc.hk/publicregWeb/indi/AAC837/licenceRecord,,,Rep,2005-03-21,
+"Wong, Ka Sing Lester 黃家聲",None,sfclicrec.asp?p=74364,AXH923,http://www.sfc.hk/publicregWeb/indi/AXH923/licenceRecord,,,Rep,2012-04-02,2012-08-01

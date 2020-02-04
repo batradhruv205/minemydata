@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Dunn, Jeffrey James ",sfclicrec.asp?p=2695595,,M,RO,2017-02-13,
-"Folan, Gregory Edward ",sfclicrec.asp?p=23298899,,M,Rep,2019-06-13,
-"Kazley, Patrick Steven ",sfclicrec.asp?p=2603621,,M,Rep,2016-07-07,2018-05-18
-"Liu, Yulin (SFC:BNP016) 劉昱麟",sfclicrec.asp?p=22455505,,,Rep,2018-11-20,
-"Lo, Boris Chun Yin 盧俊賢",sfclicrec.asp?p=2447374,,M,Rep,2017-08-22,
-"Mihalca, Matei Petru 馬德義",sfclicrec.asp?p=81155,51,M,RO,2016-07-07,
-"Monteiro De Andrade, Gregor Masini ",sfclicrec.asp?p=2603620,,M,RO,2016-07-07,2018-10-12
-"Yu, Che Kaei ",sfclicrec.asp?p=98003,,,Rep,2018-05-10,2018-09-14
-"Yu, Che Kaei ",sfclicrec.asp?p=98003,,,RO,2018-09-14,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Dunn, Jeffrey James ",None,sfclicrec.asp?p=2695595,BIS787,http://www.sfc.hk/publicregWeb/indi/BIS787/licenceRecord,,M,RO,2017-02-13,
+"Folan, Gregory Edward ",None,sfclicrec.asp?p=23298899,BOL435,http://www.sfc.hk/publicregWeb/indi/BOL435/licenceRecord,,M,Rep,2019-06-13,
+"Kazley, Patrick Steven ",None,sfclicrec.asp?p=2603621,BHG165,http://www.sfc.hk/publicregWeb/indi/BHG165/licenceRecord,,M,Rep,2016-07-07,2018-05-18
+"Liu, Yulin (SFC:BNP016) 劉昱麟",None,sfclicrec.asp?p=22455505,BNP016,http://www.sfc.hk/publicregWeb/indi/BNP016/licenceRecord,,,Rep,2018-11-20,
+"Lo, Boris Chun Yin 盧俊賢",None,sfclicrec.asp?p=2447374,BFT727,http://www.sfc.hk/publicregWeb/indi/BFT727/licenceRecord,,M,Rep,2017-08-22,
+"Mihalca, Matei Petru 馬德義",None,sfclicrec.asp?p=81155,AFD833,http://www.sfc.hk/publicregWeb/indi/AFD833/licenceRecord,51.0,M,RO,2016-07-07,
+"Monteiro De Andrade, Gregor Masini ",None,sfclicrec.asp?p=2603620,BHD771,http://www.sfc.hk/publicregWeb/indi/BHD771/licenceRecord,,M,RO,2016-07-07,2018-10-12
+"Yu, Che Kaei ",None,sfclicrec.asp?p=98003,AXL098,http://www.sfc.hk/publicregWeb/indi/AXL098/licenceRecord,,,Rep,2018-05-10,2018-09-14
+"Yu, Che Kaei ",None,sfclicrec.asp?p=98003,AXL098,http://www.sfc.hk/publicregWeb/indi/AXL098/licenceRecord,,,RO,2018-09-14,

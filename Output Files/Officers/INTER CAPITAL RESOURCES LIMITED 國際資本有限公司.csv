@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lee, Yin Tak 李賢德",sfclicrec.asp?p=107770,,,RO,2017-06-15,2017-10-20
-"Leung, Chun Chiu 梁振昭",sfclicrec.asp?p=96153,,,Rep,2018-04-11,2018-04-19
-"Leung, Chun Chiu 梁振昭",sfclicrec.asp?p=96153,,,RO,2018-04-19,
-"Leung, Koon Kiu 梁貫喬",sfclicrec.asp?p=96155,,,Rep,2019-09-05,2019-09-12
-"Leung, Koon Kiu 梁貫喬",sfclicrec.asp?p=96155,,,RO,2019-09-12,
-"Qu, Siyuan 瞿思源",sfclicrec.asp?p=2577754,,,Rep,2018-05-16,2018-08-15
-"Qu, Siyuan 瞿思源",sfclicrec.asp?p=2577754,,,RO,2018-08-15,2019-10-08
-"Suen, Pui Shan 孫佩珊",sfclicrec.asp?p=2117174,,,RO,2017-06-15,
-"Wang, Jiyu (SFC:ASH808) 王驥宇",sfclicrec.asp?p=82340,,,RO,2019-10-15,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lee, Yin Tak 李賢德",None,sfclicrec.asp?p=107770,AFU886,http://www.sfc.hk/publicregWeb/indi/AFU886/licenceRecord,,,RO,2017-06-15,2017-10-20
+"Leung, Chun Chiu 梁振昭",None,sfclicrec.asp?p=96153,AOB003,http://www.sfc.hk/publicregWeb/indi/AOB003/licenceRecord,,,Rep,2018-04-11,2018-04-19
+"Leung, Chun Chiu 梁振昭",None,sfclicrec.asp?p=96153,AOB003,http://www.sfc.hk/publicregWeb/indi/AOB003/licenceRecord,,,RO,2018-04-19,
+"Leung, Koon Kiu 梁貫喬",None,sfclicrec.asp?p=96155,AWK392,http://www.sfc.hk/publicregWeb/indi/AWK392/licenceRecord,,,Rep,2019-09-05,2019-09-12
+"Leung, Koon Kiu 梁貫喬",None,sfclicrec.asp?p=96155,AWK392,http://www.sfc.hk/publicregWeb/indi/AWK392/licenceRecord,,,RO,2019-09-12,
+"Qu, Siyuan 瞿思源",None,sfclicrec.asp?p=2577754,BHJ218,http://www.sfc.hk/publicregWeb/indi/BHJ218/licenceRecord,,,Rep,2018-05-16,2018-08-15
+"Qu, Siyuan 瞿思源",None,sfclicrec.asp?p=2577754,BHJ218,http://www.sfc.hk/publicregWeb/indi/BHJ218/licenceRecord,,,RO,2018-08-15,2019-10-08
+"Suen, Pui Shan 孫佩珊",None,sfclicrec.asp?p=2117174,BBS465,http://www.sfc.hk/publicregWeb/indi/BBS465/licenceRecord,,,RO,2017-06-15,
+"Wang, Jiyu (SFC:ASH808) 王驥宇",None,sfclicrec.asp?p=82340,ASH808,http://www.sfc.hk/publicregWeb/indi/ASH808/licenceRecord,,,RO,2019-10-15,

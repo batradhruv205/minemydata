@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Cheuk Chung 陳卓中",sfclicrec.asp?p=10129825,,,Rep,2019-10-08,
-"Choi, Zenith Cheuk Heng 蔡卓衡",sfclicrec.asp?p=2334869,,,RO,2018-02-08,
-"Harper, Matthew Robert ",sfclicrec.asp?p=23830863,,M,Rep,2019-10-25,
-"Pao, Wai Man 鮑偉文",sfclicrec.asp?p=81201,,,Rep,2019-01-14,2019-07-14
-"Pao, Wai Man 鮑偉文",sfclicrec.asp?p=81201,,,Rep,2019-10-28,
-"Song, Yu (SFC:ANU527) 宋玉",sfclicrec.asp?p=119378,,,RO,2018-02-08,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Cheuk Chung 陳卓中",None,sfclicrec.asp?p=10129825,BJD646,http://www.sfc.hk/publicregWeb/indi/BJD646/licenceRecord,,,Rep,2019-10-08,
+"Choi, Zenith Cheuk Heng 蔡卓衡",None,sfclicrec.asp?p=2334869,BEE961,http://www.sfc.hk/publicregWeb/indi/BEE961/licenceRecord,,,RO,2018-02-08,
+"Harper, Matthew Robert ",None,sfclicrec.asp?p=23830863,BOG771,http://www.sfc.hk/publicregWeb/indi/BOG771/licenceRecord,,M,Rep,2019-10-25,
+"Pao, Wai Man 鮑偉文",None,sfclicrec.asp?p=81201,ADS272,http://www.sfc.hk/publicregWeb/indi/ADS272/licenceRecord,,,Rep,2019-01-14,2019-07-14
+"Pao, Wai Man 鮑偉文",None,sfclicrec.asp?p=81201,ADS272,http://www.sfc.hk/publicregWeb/indi/ADS272/licenceRecord,,,Rep,2019-10-28,
+"Song, Yu (SFC:ANU527) 宋玉",None,sfclicrec.asp?p=119378,ANU527,http://www.sfc.hk/publicregWeb/indi/ANU527/licenceRecord,,,RO,2018-02-08,

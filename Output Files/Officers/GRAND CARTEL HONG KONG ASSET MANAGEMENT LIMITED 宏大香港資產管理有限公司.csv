@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Hong (SFC:AQX058) 陳宏",sfclicrec.asp?p=17639221,,,RO,2018-06-22,
-"Choi, Sheung Wah 蔡尚樺",sfclicrec.asp?p=2591165,,,Rep,2018-03-19,2018-04-06
-"Choi, Sheung Wah 蔡尚樺",sfclicrec.asp?p=2591165,,,RO,2018-04-06,2018-10-03
-"Duan, Jie (SFC:BNV485) 段洁",sfclicrec.asp?p=22837754,,,Rep,2019-07-18,2019-10-31
-"Fan, Lei (SFC:BFN296) 范磊",sfclicrec.asp?p=2570293,,,RO,2016-04-27,2017-10-31
-"He, Cheng (SFC:BMH301) 何誠",sfclicrec.asp?p=23058224,,,Rep,2019-04-17,
-"To, Andrew Koon Hung 杜冠雄",sfclicrec.asp?p=78907,,M,Rep,2019-01-07,2019-01-15
-"To, Andrew Koon Hung 杜冠雄",sfclicrec.asp?p=78907,,M,RO,2019-01-15,
-"Tsoi, Kwok Keung 蔡國強",sfclicrec.asp?p=100932,,,RO,2016-04-27,2017-02-28
-"Tsui, Ching Wan 徐青雲",sfclicrec.asp?p=84563,,,Rep,2017-11-03,2017-11-08
-"Tsui, Ching Wan 徐青雲",sfclicrec.asp?p=84563,,,RO,2017-11-08,2018-03-29
-"Zha, Lingrui 查凌睿",sfclicrec.asp?p=2655588,,,Rep,2016-11-08,2018-08-31
-"Zhang, Cheng (SFC:AYC302) 章程",sfclicrec.asp?p=131511,,,Rep,2018-12-18,2019-02-22
-"Zhang, Cheng (SFC:AYC302) 章程",sfclicrec.asp?p=131511,,,RO,2019-02-22,2019-12-31
-"Zhou, Yanyan (SFC:BGK776) 周燕燕",sfclicrec.asp?p=11223892,,,Rep,2017-05-29,2017-12-26
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Hong (SFC:AQX058) 陳宏",None,sfclicrec.asp?p=17639221,AQX058,http://www.sfc.hk/publicregWeb/indi/AQX058/licenceRecord,,,RO,2018-06-22,
+"Choi, Sheung Wah 蔡尚樺",None,sfclicrec.asp?p=2591165,BHF331,http://www.sfc.hk/publicregWeb/indi/BHF331/licenceRecord,,,Rep,2018-03-19,2018-04-06
+"Choi, Sheung Wah 蔡尚樺",None,sfclicrec.asp?p=2591165,BHF331,http://www.sfc.hk/publicregWeb/indi/BHF331/licenceRecord,,,RO,2018-04-06,2018-10-03
+"Duan, Jie (SFC:BNV485) 段洁",None,sfclicrec.asp?p=22837754,BNV485,http://www.sfc.hk/publicregWeb/indi/BNV485/licenceRecord,,,Rep,2019-07-18,2019-10-31
+"Fan, Lei (SFC:BFN296) 范磊",None,sfclicrec.asp?p=2570293,BFN296,http://www.sfc.hk/publicregWeb/indi/BFN296/licenceRecord,,,RO,2016-04-27,2017-10-31
+"He, Cheng (SFC:BMH301) 何誠",None,sfclicrec.asp?p=23058224,BMH301,http://www.sfc.hk/publicregWeb/indi/BMH301/licenceRecord,,,Rep,2019-04-17,
+"To, Andrew Koon Hung 杜冠雄",None,sfclicrec.asp?p=78907,AAD599,http://www.sfc.hk/publicregWeb/indi/AAD599/licenceRecord,,M,Rep,2019-01-07,2019-01-15
+"To, Andrew Koon Hung 杜冠雄",None,sfclicrec.asp?p=78907,AAD599,http://www.sfc.hk/publicregWeb/indi/AAD599/licenceRecord,,M,RO,2019-01-15,
+"Tsoi, Kwok Keung 蔡國強",None,sfclicrec.asp?p=100932,AAD694,http://www.sfc.hk/publicregWeb/indi/AAD694/licenceRecord,,,RO,2016-04-27,2017-02-28
+"Tsui, Ching Wan 徐青雲",None,sfclicrec.asp?p=84563,APG565,http://www.sfc.hk/publicregWeb/indi/APG565/licenceRecord,,,Rep,2017-11-03,2017-11-08
+"Tsui, Ching Wan 徐青雲",None,sfclicrec.asp?p=84563,APG565,http://www.sfc.hk/publicregWeb/indi/APG565/licenceRecord,,,RO,2017-11-08,2018-03-29
+"Zha, Lingrui 查凌睿",None,sfclicrec.asp?p=2655588,BEE650,http://www.sfc.hk/publicregWeb/indi/BEE650/licenceRecord,,,Rep,2016-11-08,2018-08-31
+"Zhang, Cheng (SFC:AYC302) 章程",None,sfclicrec.asp?p=131511,AYC302,http://www.sfc.hk/publicregWeb/indi/AYC302/licenceRecord,,,Rep,2018-12-18,2019-02-22
+"Zhang, Cheng (SFC:AYC302) 章程",None,sfclicrec.asp?p=131511,AYC302,http://www.sfc.hk/publicregWeb/indi/AYC302/licenceRecord,,,RO,2019-02-22,2019-12-31
+"Zhou, Yanyan (SFC:BGK776) 周燕燕",None,sfclicrec.asp?p=11223892,BGK776,http://www.sfc.hk/publicregWeb/indi/BGK776/licenceRecord,,,Rep,2017-05-29,2017-12-26

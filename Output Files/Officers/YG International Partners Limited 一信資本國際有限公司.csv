@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ma, Fai 馬徽",sfclicrec.asp?p=82663,,,RO,2018-03-13,
-"Mak, Kai Ming 麥啟明",sfclicrec.asp?p=2201316,,,Rep,2018-05-08,2019-07-19
-"Mak, Kai Ming 麥啟明",sfclicrec.asp?p=2201316,,,RO,2019-07-19,2019-12-30
-"Seto, Kin Yan Roy 司徒健欣",sfclicrec.asp?p=13909500,,,Rep,2018-11-09,2019-12-23
-"Thorpe, Simon Charles (SFC:BOJ803) ",sfclicrec.asp?p=23313102,,M,Rep,2019-06-17,
-"Wu, Chia Fen 吳佳㯣",sfclicrec.asp?p=1935369,,,RO,2018-03-13,2019-04-08
-"Wu, Chia Fen 吳佳㯣",sfclicrec.asp?p=1935369,,,Rep,2019-04-08,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ma, Fai 馬徽",None,sfclicrec.asp?p=82663,AWB641,http://www.sfc.hk/publicregWeb/indi/AWB641/licenceRecord,,,RO,2018-03-13,
+"Mak, Kai Ming 麥啟明",None,sfclicrec.asp?p=2201316,BCU738,http://www.sfc.hk/publicregWeb/indi/BCU738/licenceRecord,,,Rep,2018-05-08,2019-07-19
+"Mak, Kai Ming 麥啟明",None,sfclicrec.asp?p=2201316,BCU738,http://www.sfc.hk/publicregWeb/indi/BCU738/licenceRecord,,,RO,2019-07-19,2019-12-30
+"Seto, Kin Yan Roy 司徒健欣",None,sfclicrec.asp?p=13909500,BMO081,http://www.sfc.hk/publicregWeb/indi/BMO081/licenceRecord,,,Rep,2018-11-09,2019-12-23
+"Thorpe, Simon Charles (SFC:BOJ803) ",None,sfclicrec.asp?p=23313102,BOJ803,http://www.sfc.hk/publicregWeb/indi/BOJ803/licenceRecord,,M,Rep,2019-06-17,
+"Wu, Chia Fen 吳佳㯣",None,sfclicrec.asp?p=1935369,AZW080,http://www.sfc.hk/publicregWeb/indi/AZW080/licenceRecord,,,RO,2018-03-13,2019-04-08
+"Wu, Chia Fen 吳佳㯣",None,sfclicrec.asp?p=1935369,AZW080,http://www.sfc.hk/publicregWeb/indi/AZW080/licenceRecord,,,Rep,2019-04-08,

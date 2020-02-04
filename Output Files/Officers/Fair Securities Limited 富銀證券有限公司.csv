@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Leung, Tat Lung 梁達龍",sfclicrec.asp?p=92882,,,RO,2017-04-19,2019-07-12
-"Liang, Zhao 梁釗",sfclicrec.asp?p=23479742,,,Rep,2019-07-29,
-"Wong, Chi Hui 黃志栩",sfclicrec.asp?p=83348,,,RO,2017-04-19,
-"Wu, Kwong Chau 胡廣宙",sfclicrec.asp?p=80548,,,Rep,2019-06-13,2019-09-10
-"Wu, Kwong Chau 胡廣宙",sfclicrec.asp?p=80548,,,RO,2019-09-10,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Leung, Tat Lung 梁達龍",None,sfclicrec.asp?p=92882,AJN767,http://www.sfc.hk/publicregWeb/indi/AJN767/licenceRecord,,,RO,2017-04-19,2019-07-12
+"Liang, Zhao 梁釗",None,sfclicrec.asp?p=23479742,BOP908,http://www.sfc.hk/publicregWeb/indi/BOP908/licenceRecord,,,Rep,2019-07-29,
+"Wong, Chi Hui 黃志栩",None,sfclicrec.asp?p=83348,APD168,http://www.sfc.hk/publicregWeb/indi/APD168/licenceRecord,,,RO,2017-04-19,
+"Wu, Kwong Chau 胡廣宙",None,sfclicrec.asp?p=80548,AGH135,http://www.sfc.hk/publicregWeb/indi/AGH135/licenceRecord,,,Rep,2019-06-13,2019-09-10
+"Wu, Kwong Chau 胡廣宙",None,sfclicrec.asp?p=80548,AGH135,http://www.sfc.hk/publicregWeb/indi/AGH135/licenceRecord,,,RO,2019-09-10,

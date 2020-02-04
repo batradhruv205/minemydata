@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Choi, Matthew Chung Lee 蔡頌禮",sfclicrec.asp?p=101606,,M,RO,2015-06-02,2018-09-30
-"Lee, Sai Fan 李世璠",sfclicrec.asp?p=105774,,,Rep,2015-10-19,2018-11-07
-"Lee, Sai Fan 李世璠",sfclicrec.asp?p=105774,,,RO,2018-11-07,
-"Mok, Philip Wan Yu 莫韻餘",sfclicrec.asp?p=82502,,M,RO,2015-06-02,
-"Tse, Nissim 謝納新",sfclicrec.asp?p=94867,,,Rep,2019-01-25,2019-04-11
-"Tse, Nissim 謝納新",sfclicrec.asp?p=94867,,,RO,2019-04-11,
-"Wong, Justin Tsz Lim 王子濂",sfclicrec.asp?p=2488110,,M,Rep,2015-10-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Choi, Matthew Chung Lee 蔡頌禮",None,sfclicrec.asp?p=101606,AAQ330,http://www.sfc.hk/publicregWeb/indi/AAQ330/licenceRecord,,M,RO,2015-06-02,2018-09-30
+"Lee, Sai Fan 李世璠",None,sfclicrec.asp?p=105774,AFB313,http://www.sfc.hk/publicregWeb/indi/AFB313/licenceRecord,,,Rep,2015-10-19,2018-11-07
+"Lee, Sai Fan 李世璠",None,sfclicrec.asp?p=105774,AFB313,http://www.sfc.hk/publicregWeb/indi/AFB313/licenceRecord,,,RO,2018-11-07,
+"Mok, Philip Wan Yu 莫韻餘",None,sfclicrec.asp?p=82502,AAK403,http://www.sfc.hk/publicregWeb/indi/AAK403/licenceRecord,,M,RO,2015-06-02,
+"Tse, Nissim 謝納新",None,sfclicrec.asp?p=94867,ACT176,http://www.sfc.hk/publicregWeb/indi/ACT176/licenceRecord,,,Rep,2019-01-25,2019-04-11
+"Tse, Nissim 謝納新",None,sfclicrec.asp?p=94867,ACT176,http://www.sfc.hk/publicregWeb/indi/ACT176/licenceRecord,,,RO,2019-04-11,
+"Wong, Justin Tsz Lim 王子濂",None,sfclicrec.asp?p=2488110,BFJ958,http://www.sfc.hk/publicregWeb/indi/BFJ958/licenceRecord,,M,Rep,2015-10-19,

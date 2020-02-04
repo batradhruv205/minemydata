@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Huong, Cheong Fai 范昌輝",sfclicrec.asp?p=115524,,,RO,2017-03-31,2017-05-02
-"Lam, Sammy Cheung Ching 林祥青",sfclicrec.asp?p=122454,,,RO,2017-12-07,
-"Lim, Robert Warren 林華銓",sfclicrec.asp?p=90884,,M,Rep,2017-05-18,2017-06-02
-"Lim, Robert Warren 林華銓",sfclicrec.asp?p=90884,,M,RO,2017-06-02,
-"Tan, Yen Keng 陳衍磬",sfclicrec.asp?p=119812,48,M,RO,2017-03-31,2017-06-16
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Huong, Cheong Fai 范昌輝",None,sfclicrec.asp?p=115524,ALU603,http://www.sfc.hk/publicregWeb/indi/ALU603/licenceRecord,,,RO,2017-03-31,2017-05-02
+"Lam, Sammy Cheung Ching 林祥青",None,sfclicrec.asp?p=122454,APJ849,http://www.sfc.hk/publicregWeb/indi/APJ849/licenceRecord,,,RO,2017-12-07,
+"Lim, Robert Warren 林華銓",None,sfclicrec.asp?p=90884,ARJ311,http://www.sfc.hk/publicregWeb/indi/ARJ311/licenceRecord,,M,Rep,2017-05-18,2017-06-02
+"Lim, Robert Warren 林華銓",None,sfclicrec.asp?p=90884,ARJ311,http://www.sfc.hk/publicregWeb/indi/ARJ311/licenceRecord,,M,RO,2017-06-02,
+"Tan, Yen Keng 陳衍磬",None,sfclicrec.asp?p=119812,AOA645,http://www.sfc.hk/publicregWeb/indi/AOA645/licenceRecord,48.0,M,RO,2017-03-31,2017-06-16

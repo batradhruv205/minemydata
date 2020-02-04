@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Britt Iii, Thomas Maurice ",sfclicrec.asp?p=109216,,M,RO,,2003-12-17
-"Burlage, Matthew James ",sfclicrec.asp?p=84122,,M,RO,,
-"Chow, Juliette Lip Ming 周立明",sfclicrec.asp?p=84123,,F,RO,,
-"Fitzgerald, Matthew James ",sfclicrec.asp?p=109313,,M,Rep,,2004-08-31
-"Kim, Young Ho ",sfclicrec.asp?p=102019,,,RO,,2011-04-30
-"Lee, Pearle Yi ",sfclicrec.asp?p=109312,,,Rep,,2003-04-25
-"Parthasarathy, Ravindra ",sfclicrec.asp?p=75090,,,RO,,2010-04-23
-"Tee, David Nathaniel ",sfclicrec.asp?p=84124,,M,Rep,2006-07-03,2006-10-11
-"Tee, David Nathaniel ",sfclicrec.asp?p=84124,,M,Rep,2008-07-31,
-"Tong, Michele Pui Kwan 唐珮君",sfclicrec.asp?p=69812,,,Rep,,2003-05-19
-"Yu, Anne Po Shan 余寶珊",sfclicrec.asp?p=103980,,F,Rep,,2004-08-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Britt Iii, Thomas Maurice ",None,sfclicrec.asp?p=109216,AGK155,http://www.sfc.hk/publicregWeb/indi/AGK155/licenceRecord,,M,RO,,2003-12-17
+"Burlage, Matthew James ",None,sfclicrec.asp?p=84122,ACQ091,http://www.sfc.hk/publicregWeb/indi/ACQ091/licenceRecord,,M,RO,,
+"Chow, Juliette Lip Ming 周立明",None,sfclicrec.asp?p=84123,ADH438,http://www.sfc.hk/publicregWeb/indi/ADH438/licenceRecord,,F,RO,,
+"Fitzgerald, Matthew James ",None,sfclicrec.asp?p=109313,AGL181,http://www.sfc.hk/publicregWeb/indi/AGL181/licenceRecord,,M,Rep,,2004-08-31
+"Kim, Young Ho ",None,sfclicrec.asp?p=102019,ABH516,http://www.sfc.hk/publicregWeb/indi/ABH516/licenceRecord,,,RO,,2011-04-30
+"Lee, Pearle Yi ",None,sfclicrec.asp?p=109312,AGL180,http://www.sfc.hk/publicregWeb/indi/AGL180/licenceRecord,,,Rep,,2003-04-25
+"Parthasarathy, Ravindra ",None,sfclicrec.asp?p=75090,ADR418,http://www.sfc.hk/publicregWeb/indi/ADR418/licenceRecord,,,RO,,2010-04-23
+"Tee, David Nathaniel ",None,sfclicrec.asp?p=84124,ADV188,http://www.sfc.hk/publicregWeb/indi/ADV188/licenceRecord,,M,Rep,2006-07-03,2006-10-11
+"Tee, David Nathaniel ",None,sfclicrec.asp?p=84124,ADV188,http://www.sfc.hk/publicregWeb/indi/ADV188/licenceRecord,,M,Rep,2008-07-31,
+"Tong, Michele Pui Kwan 唐珮君",None,sfclicrec.asp?p=69812,AGL179,http://www.sfc.hk/publicregWeb/indi/AGL179/licenceRecord,,,Rep,,2003-05-19
+"Yu, Anne Po Shan 余寶珊",None,sfclicrec.asp?p=103980,ADP624,http://www.sfc.hk/publicregWeb/indi/ADP624/licenceRecord,,F,Rep,,2004-08-31

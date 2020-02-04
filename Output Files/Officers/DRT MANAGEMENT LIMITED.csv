@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Vincent (SFC:AAK419) 鄭允揚",sfclicrec.asp?p=98952,,M,RO,2005-07-27,
-"Gibbs-Harris, Michael Wyn ",sfclicrec.asp?p=98953,,M,RO,2008-05-28,
-"Heung, Lap Sun (SFC:AAT497) 香立信",sfclicrec.asp?p=101614,,,RO,2005-12-30,2006-06-30
-"Leung, Wai Man (SFC:ALZ864) 梁慧文",sfclicrec.asp?p=115981,,,RO,2005-07-27,2008-05-23
-"Wat, Joshua Ka Fai 屈家輝",sfclicrec.asp?p=81946,,M,Rep,2006-09-30,2007-03-08
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Vincent (SFC:AAK419) 鄭允揚",None,sfclicrec.asp?p=98952,AAK419,http://www.sfc.hk/publicregWeb/indi/AAK419/licenceRecord,,M,RO,2005-07-27,
+"Gibbs-Harris, Michael Wyn ",None,sfclicrec.asp?p=98953,AAW956,http://www.sfc.hk/publicregWeb/indi/AAW956/licenceRecord,,M,RO,2008-05-28,
+"Heung, Lap Sun (SFC:AAT497) 香立信",None,sfclicrec.asp?p=101614,AAT497,http://www.sfc.hk/publicregWeb/indi/AAT497/licenceRecord,,,RO,2005-12-30,2006-06-30
+"Leung, Wai Man (SFC:ALZ864) 梁慧文",None,sfclicrec.asp?p=115981,ALZ864,http://www.sfc.hk/publicregWeb/indi/ALZ864/licenceRecord,,,RO,2005-07-27,2008-05-23
+"Wat, Joshua Ka Fai 屈家輝",None,sfclicrec.asp?p=81946,AGL771,http://www.sfc.hk/publicregWeb/indi/AGL771/licenceRecord,,M,Rep,2006-09-30,2007-03-08

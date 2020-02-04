@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Tian (SFC:AQR043) 陳添",sfclicrec.asp?p=72128,,,RO,2013-10-28,
-"Kwok, Shiu Man 郭兆文",sfclicrec.asp?p=93613,,,Rep,2014-08-06,2014-09-08
-"Kwok, Shiu Man 郭兆文",sfclicrec.asp?p=93613,,,RO,2014-09-08,2015-12-31
-"Leung, Tsun Ip 梁俊業",sfclicrec.asp?p=80158,,,RO,2013-10-28,2014-07-31
-"Luo, Xi (SFC:AQO326) 羅璽",sfclicrec.asp?p=88379,,,RO,2013-10-28,2014-09-09
-"Xie, Jianying 謝劍英",sfclicrec.asp?p=71707,,,RO,2016-02-04,2016-09-30
-"Xu, Xinwei (SFC:BES891) 徐鑫煒",sfclicrec.asp?p=2377126,,,Rep,2015-01-28,2016-02-19
-"Zhang, Zhe (SFC:BBE448) 張哲",sfclicrec.asp?p=2676044,,,RO,2016-12-21,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Tian (SFC:AQR043) 陳添",None,sfclicrec.asp?p=72128,AQR043,http://www.sfc.hk/publicregWeb/indi/AQR043/licenceRecord,,,RO,2013-10-28,
+"Kwok, Shiu Man 郭兆文",None,sfclicrec.asp?p=93613,AXK358,http://www.sfc.hk/publicregWeb/indi/AXK358/licenceRecord,,,Rep,2014-08-06,2014-09-08
+"Kwok, Shiu Man 郭兆文",None,sfclicrec.asp?p=93613,AXK358,http://www.sfc.hk/publicregWeb/indi/AXK358/licenceRecord,,,RO,2014-09-08,2015-12-31
+"Leung, Tsun Ip 梁俊業",None,sfclicrec.asp?p=80158,AOD136,http://www.sfc.hk/publicregWeb/indi/AOD136/licenceRecord,,,RO,2013-10-28,2014-07-31
+"Luo, Xi (SFC:AQO326) 羅璽",None,sfclicrec.asp?p=88379,AQO326,http://www.sfc.hk/publicregWeb/indi/AQO326/licenceRecord,,,RO,2013-10-28,2014-09-09
+"Xie, Jianying 謝劍英",None,sfclicrec.asp?p=71707,AQB143,http://www.sfc.hk/publicregWeb/indi/AQB143/licenceRecord,,,RO,2016-02-04,2016-09-30
+"Xu, Xinwei (SFC:BES891) 徐鑫煒",None,sfclicrec.asp?p=2377126,BES891,http://www.sfc.hk/publicregWeb/indi/BES891/licenceRecord,,,Rep,2015-01-28,2016-02-19
+"Zhang, Zhe (SFC:BBE448) 張哲",None,sfclicrec.asp?p=2676044,BBE448,http://www.sfc.hk/publicregWeb/indi/BBE448/licenceRecord,,,RO,2016-12-21,

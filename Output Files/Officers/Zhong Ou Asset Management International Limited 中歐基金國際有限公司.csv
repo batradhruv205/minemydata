@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Song (SFC:BIE866) 陳松",sfclicrec.asp?p=2648740,,,Rep,2018-08-06,2018-10-09
-"Cheung, Ka Hin 張嘉軒",sfclicrec.asp?p=83065,,,Rep,2019-06-06,
-"Fournier-Barrand, Francois-Alexis Fabien ",sfclicrec.asp?p=12850982,,M,RO,2018-03-13,
-"He, Yiwei 何一偉",sfclicrec.asp?p=130793,,,Rep,2018-07-10,2018-08-10
-"He, Yiwei 何一偉",sfclicrec.asp?p=130793,,,RO,2018-08-10,
-"Li, Guangyu (SFC:BBE663) 李光宇",sfclicrec.asp?p=2059235,,,RO,2018-03-13,2019-03-24
-"Yip, Ying Kei 葉穎琪",sfclicrec.asp?p=97214,,,Rep,2019-12-23,
-"Zhang, Yueyang (SFC:BHW836) 張岳阳",sfclicrec.asp?p=2610511,,,Rep,2019-12-16,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Song (SFC:BIE866) 陳松",None,sfclicrec.asp?p=2648740,BIE866,http://www.sfc.hk/publicregWeb/indi/BIE866/licenceRecord,,,Rep,2018-08-06,2018-10-09
+"Cheung, Ka Hin 張嘉軒",None,sfclicrec.asp?p=83065,ARK363,http://www.sfc.hk/publicregWeb/indi/ARK363/licenceRecord,,,Rep,2019-06-06,
+"Fournier-Barrand, Francois-Alexis Fabien ",None,sfclicrec.asp?p=12850982,BLR943,http://www.sfc.hk/publicregWeb/indi/BLR943/licenceRecord,,M,RO,2018-03-13,
+"He, Yiwei 何一偉",None,sfclicrec.asp?p=130793,AWS905,http://www.sfc.hk/publicregWeb/indi/AWS905/licenceRecord,,,Rep,2018-07-10,2018-08-10
+"He, Yiwei 何一偉",None,sfclicrec.asp?p=130793,AWS905,http://www.sfc.hk/publicregWeb/indi/AWS905/licenceRecord,,,RO,2018-08-10,
+"Li, Guangyu (SFC:BBE663) 李光宇",None,sfclicrec.asp?p=2059235,BBE663,http://www.sfc.hk/publicregWeb/indi/BBE663/licenceRecord,,,RO,2018-03-13,2019-03-24
+"Yip, Ying Kei 葉穎琪",None,sfclicrec.asp?p=97214,AMM130,http://www.sfc.hk/publicregWeb/indi/AMM130/licenceRecord,,,Rep,2019-12-23,
+"Zhang, Yueyang (SFC:BHW836) 張岳阳",None,sfclicrec.asp?p=2610511,BHW836,http://www.sfc.hk/publicregWeb/indi/BHW836/licenceRecord,,,Rep,2019-12-16,

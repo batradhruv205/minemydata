@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheang, Yoon Hoong 鄭潤洪",sfclicrec.asp?p=20523,71,M,RO,2003-10-10,2004-02-04
-"Jacobsen, William Keith 葉偉其",sfclicrec.asp?p=45828,54,M,RO,2016-02-16,
-"Li, Chiu Yee 李昭儀",sfclicrec.asp?p=98375,,,RO,2019-01-15,2019-02-11
-"Ng, Kai Fung (SFC:BHW683) 吳啟峯",sfclicrec.asp?p=2629893,,,Rep,2016-09-07,2018-07-26
-"Pong, Joanne Chiu Yan 龐朝恩",sfclicrec.asp?p=115296,,F,RO,2016-02-16,
-"Poon, Raymond Pak Ho 潘柏豪",sfclicrec.asp?p=72298,,M,RO,2019-01-07,2019-10-16
-"Walton Masters, David Ralph ",sfclicrec.asp?p=104016,,M,RO,,2003-04-27
-"Wang, Yayu 王亞瑜",sfclicrec.asp?p=2205635,,,Rep,2016-09-30,2019-10-16
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheang, Yoon Hoong 鄭潤洪",None,sfclicrec.asp?p=20523,ADI755,http://www.sfc.hk/publicregWeb/indi/ADI755/licenceRecord,71.0,M,RO,2003-10-10,2004-02-04
+"Jacobsen, William Keith 葉偉其",None,sfclicrec.asp?p=45828,ABR188,http://www.sfc.hk/publicregWeb/indi/ABR188/licenceRecord,54.0,M,RO,2016-02-16,
+"Li, Chiu Yee 李昭儀",None,sfclicrec.asp?p=98375,AJY016,http://www.sfc.hk/publicregWeb/indi/AJY016/licenceRecord,,,RO,2019-01-15,2019-02-11
+"Ng, Kai Fung (SFC:BHW683) 吳啟峯",None,sfclicrec.asp?p=2629893,BHW683,http://www.sfc.hk/publicregWeb/indi/BHW683/licenceRecord,,,Rep,2016-09-07,2018-07-26
+"Pong, Joanne Chiu Yan 龐朝恩",None,sfclicrec.asp?p=115296,ALQ969,http://www.sfc.hk/publicregWeb/indi/ALQ969/licenceRecord,,F,RO,2016-02-16,
+"Poon, Raymond Pak Ho 潘柏豪",None,sfclicrec.asp?p=72298,ACO263,http://www.sfc.hk/publicregWeb/indi/ACO263/licenceRecord,,M,RO,2019-01-07,2019-10-16
+"Walton Masters, David Ralph ",None,sfclicrec.asp?p=104016,ADQ848,http://www.sfc.hk/publicregWeb/indi/ADQ848/licenceRecord,,M,RO,,2003-04-27
+"Wang, Yayu 王亞瑜",None,sfclicrec.asp?p=2205635,BCY189,http://www.sfc.hk/publicregWeb/indi/BCY189/licenceRecord,,,Rep,2016-09-30,2019-10-16

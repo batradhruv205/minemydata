@@ -1,18 +1,18 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Choi, Wing Kam 蔡詠琴",sfclicrec.asp?p=108469,,,Rep,2017-07-27,2018-02-13
-"Choi, Wing Kam 蔡詠琴",sfclicrec.asp?p=108469,,,RO,2018-02-13,2018-06-02
-"Chung, Zita Sze Dar 鍾思達",sfclicrec.asp?p=133960,,,Rep,2018-12-05,2019-05-20
-"Chung, Zita Sze Dar 鍾思達",sfclicrec.asp?p=133960,,,RO,2019-05-20,
-"Fung, Ho Tak 馮浩德",sfclicrec.asp?p=71280,,,Rep,2015-10-19,2016-07-08
-"Fung, Ho Tak 馮浩德",sfclicrec.asp?p=71280,,,RO,2016-07-08,2017-07-27
-"Heung, Man Wa 香敏華",sfclicrec.asp?p=90222,,,Rep,2019-09-27,
-"Ho, Lap Chi 何立志",sfclicrec.asp?p=96011,,,Rep,2018-05-30,2018-10-18
-"Ho, Lap Chi 何立志",sfclicrec.asp?p=96011,,,RO,2018-10-18,
-"Lau, Kai Yeung 劉棨揚",sfclicrec.asp?p=90239,,,Rep,2014-11-25,2015-06-22
-"Lau, Kai Yeung 劉棨揚",sfclicrec.asp?p=90239,,,RO,2015-06-22,2017-05-17
-"Leung, Po Chun 梁寶珍",sfclicrec.asp?p=83124,,,Rep,2018-09-13,2018-10-12
-"Lui, John Chi Hoi 雷志海",sfclicrec.asp?p=102835,,M,RO,2014-05-23,
-"Ngan, Kin Wa 顏建華",sfclicrec.asp?p=104124,,,RO,2014-05-23,
-"Ti, Vicky Hwei Chi 狄慧琪",sfclicrec.asp?p=71659,,F,Rep,2015-03-06,2018-06-30
-"Wong, Fiona Wing Yin 黃穎研",sfclicrec.asp?p=131146,,F,Rep,2018-12-12,
-"Wong, Man Hin (SFC:AMY306) 王文軒",sfclicrec.asp?p=117743,,,Rep,2014-11-25,2018-06-10
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Choi, Wing Kam 蔡詠琴",None,sfclicrec.asp?p=108469,AGC912,http://www.sfc.hk/publicregWeb/indi/AGC912/licenceRecord,,,Rep,2017-07-27,2018-02-13
+"Choi, Wing Kam 蔡詠琴",None,sfclicrec.asp?p=108469,AGC912,http://www.sfc.hk/publicregWeb/indi/AGC912/licenceRecord,,,RO,2018-02-13,2018-06-02
+"Chung, Zita Sze Dar 鍾思達",None,sfclicrec.asp?p=133960,AYJ572,http://www.sfc.hk/publicregWeb/indi/AYJ572/licenceRecord,,,Rep,2018-12-05,2019-05-20
+"Chung, Zita Sze Dar 鍾思達",None,sfclicrec.asp?p=133960,AYJ572,http://www.sfc.hk/publicregWeb/indi/AYJ572/licenceRecord,,,RO,2019-05-20,
+"Fung, Ho Tak 馮浩德",None,sfclicrec.asp?p=71280,ARR598,http://www.sfc.hk/publicregWeb/indi/ARR598/licenceRecord,,,Rep,2015-10-19,2016-07-08
+"Fung, Ho Tak 馮浩德",None,sfclicrec.asp?p=71280,ARR598,http://www.sfc.hk/publicregWeb/indi/ARR598/licenceRecord,,,RO,2016-07-08,2017-07-27
+"Heung, Man Wa 香敏華",None,sfclicrec.asp?p=90222,ARN439,http://www.sfc.hk/publicregWeb/indi/ARN439/licenceRecord,,,Rep,2019-09-27,
+"Ho, Lap Chi 何立志",None,sfclicrec.asp?p=96011,AFD240,http://www.sfc.hk/publicregWeb/indi/AFD240/licenceRecord,,,Rep,2018-05-30,2018-10-18
+"Ho, Lap Chi 何立志",None,sfclicrec.asp?p=96011,AFD240,http://www.sfc.hk/publicregWeb/indi/AFD240/licenceRecord,,,RO,2018-10-18,
+"Lau, Kai Yeung 劉棨揚",None,sfclicrec.asp?p=90239,ARA400,http://www.sfc.hk/publicregWeb/indi/ARA400/licenceRecord,,,Rep,2014-11-25,2015-06-22
+"Lau, Kai Yeung 劉棨揚",None,sfclicrec.asp?p=90239,ARA400,http://www.sfc.hk/publicregWeb/indi/ARA400/licenceRecord,,,RO,2015-06-22,2017-05-17
+"Leung, Po Chun 梁寶珍",None,sfclicrec.asp?p=83124,AEY251,http://www.sfc.hk/publicregWeb/indi/AEY251/licenceRecord,,,Rep,2018-09-13,2018-10-12
+"Lui, John Chi Hoi 雷志海",None,sfclicrec.asp?p=102835,ACJ228,http://www.sfc.hk/publicregWeb/indi/ACJ228/licenceRecord,,M,RO,2014-05-23,
+"Ngan, Kin Wa 顏建華",None,sfclicrec.asp?p=104124,ADT377,http://www.sfc.hk/publicregWeb/indi/ADT377/licenceRecord,,,RO,2014-05-23,
+"Ti, Vicky Hwei Chi 狄慧琪",None,sfclicrec.asp?p=71659,AFB596,http://www.sfc.hk/publicregWeb/indi/AFB596/licenceRecord,,F,Rep,2015-03-06,2018-06-30
+"Wong, Fiona Wing Yin 黃穎研",None,sfclicrec.asp?p=131146,AXG330,http://www.sfc.hk/publicregWeb/indi/AXG330/licenceRecord,,F,Rep,2018-12-12,
+"Wong, Man Hin (SFC:AMY306) 王文軒",None,sfclicrec.asp?p=117743,AMY306,http://www.sfc.hk/publicregWeb/indi/AMY306/licenceRecord,,,Rep,2014-11-25,2018-06-10

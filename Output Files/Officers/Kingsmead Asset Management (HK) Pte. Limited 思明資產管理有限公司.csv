@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Kwok Yuen 張國源",sfclicrec.asp?p=70423,,,RO,2016-09-20,2019-02-20
-"Foo, John Chee King 符致耿",sfclicrec.asp?p=108374,,M,RO,2016-09-20,
-"Silva, Joseph Edward (SFC:AAI904) ",sfclicrec.asp?p=101430,,M,RO,2019-11-27,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Kwok Yuen 張國源",None,sfclicrec.asp?p=70423,ABT596,http://www.sfc.hk/publicregWeb/indi/ABT596/licenceRecord,,,RO,2016-09-20,2019-02-20
+"Foo, John Chee King 符致耿",None,sfclicrec.asp?p=108374,AGC136,http://www.sfc.hk/publicregWeb/indi/AGC136/licenceRecord,,M,RO,2016-09-20,
+"Silva, Joseph Edward (SFC:AAI904) ",None,sfclicrec.asp?p=101430,AAI904,http://www.sfc.hk/publicregWeb/indi/AAI904/licenceRecord,,M,RO,2019-11-27,

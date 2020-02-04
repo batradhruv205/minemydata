@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Gunn, John William (SFC:BLJ171) ",sfclicrec.asp?p=22842960,,M,RO,2019-02-27,
-"Marcon, Stephen James Neville ",sfclicrec.asp?p=100910,,M,RO,2019-02-27,
-"So, Wai Ling (SFC:BMW393) 蘇惠玲",sfclicrec.asp?p=14914182,,,Rep,2019-07-17,
-"Van Den Wall Bake, Sander Willem ",sfclicrec.asp?p=23890923,,M,Rep,2019-11-11,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Gunn, John William (SFC:BLJ171) ",None,sfclicrec.asp?p=22842960,BLJ171,http://www.sfc.hk/publicregWeb/indi/BLJ171/licenceRecord,,M,RO,2019-02-27,
+"Marcon, Stephen James Neville ",None,sfclicrec.asp?p=100910,AAD512,http://www.sfc.hk/publicregWeb/indi/AAD512/licenceRecord,,M,RO,2019-02-27,
+"So, Wai Ling (SFC:BMW393) 蘇惠玲",None,sfclicrec.asp?p=14914182,BMW393,http://www.sfc.hk/publicregWeb/indi/BMW393/licenceRecord,,,Rep,2019-07-17,
+"Van Den Wall Bake, Sander Willem ",None,sfclicrec.asp?p=23890923,BPC726,http://www.sfc.hk/publicregWeb/indi/BPC726/licenceRecord,,M,Rep,2019-11-11,

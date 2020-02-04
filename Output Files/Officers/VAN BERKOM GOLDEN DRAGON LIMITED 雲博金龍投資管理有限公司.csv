@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Kwok Fun 鄭國勳",sfclicrec.asp?p=119707,,,Rep,2017-07-20,
-"Lai, Lawrence Chun Ming 賴震銘",sfclicrec.asp?p=2380270,,M,RO,2012-07-19,
-"Tze, Hei 紫曦",sfclicrec.asp?p=130758,,,Rep,2015-02-04,2017-01-25
-"Tze, Hei 紫曦",sfclicrec.asp?p=130758,,,RO,2017-01-25,
-"Van Berkom, Joannes Sebastian ",sfclicrec.asp?p=2380271,,M,RO,2012-07-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Kwok Fun 鄭國勳",None,sfclicrec.asp?p=119707,ANZ648,http://www.sfc.hk/publicregWeb/indi/ANZ648/licenceRecord,,,Rep,2017-07-20,
+"Lai, Lawrence Chun Ming 賴震銘",None,sfclicrec.asp?p=2380270,AZI658,http://www.sfc.hk/publicregWeb/indi/AZI658/licenceRecord,,M,RO,2012-07-19,
+"Tze, Hei 紫曦",None,sfclicrec.asp?p=130758,AWQ683,http://www.sfc.hk/publicregWeb/indi/AWQ683/licenceRecord,,,Rep,2015-02-04,2017-01-25
+"Tze, Hei 紫曦",None,sfclicrec.asp?p=130758,AWQ683,http://www.sfc.hk/publicregWeb/indi/AWQ683/licenceRecord,,,RO,2017-01-25,
+"Van Berkom, Joannes Sebastian ",None,sfclicrec.asp?p=2380271,AZI645,http://www.sfc.hk/publicregWeb/indi/AZI645/licenceRecord,,M,RO,2012-07-19,

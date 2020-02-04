@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Emily Mei-Yee 陳美儀",sfclicrec.asp?p=93455,,F,Rep,2019-07-15,
-"Chang, Melissa Pui Shan 鄭珮珊",sfclicrec.asp?p=80757,,F,Rep,2019-06-13,
-"Cordes, Patrick John (SFC:ANX474) ",sfclicrec.asp?p=22970450,,M,RO,2019-03-27,
-"Khanolkar, Rohan Kishor ",sfclicrec.asp?p=2384851,,,Rep,2019-06-11,
-"Lee, Eu Han 李耀漢",sfclicrec.asp?p=126196,,,RO,2019-03-27,
-"Park, Min Ju ",sfclicrec.asp?p=23734945,,,Rep,2019-10-02,
-"Thorn, Nicholas Michael Gordon ",sfclicrec.asp?p=132954,,M,RO,2019-03-27,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Emily Mei-Yee 陳美儀",None,sfclicrec.asp?p=93455,AHN696,http://www.sfc.hk/publicregWeb/indi/AHN696/licenceRecord,,F,Rep,2019-07-15,
+"Chang, Melissa Pui Shan 鄭珮珊",None,sfclicrec.asp?p=80757,ARN180,http://www.sfc.hk/publicregWeb/indi/ARN180/licenceRecord,,F,Rep,2019-06-13,
+"Cordes, Patrick John (SFC:ANX474) ",None,sfclicrec.asp?p=22970450,ANX474,http://www.sfc.hk/publicregWeb/indi/ANX474/licenceRecord,,M,RO,2019-03-27,
+"Khanolkar, Rohan Kishor ",None,sfclicrec.asp?p=2384851,BEY881,http://www.sfc.hk/publicregWeb/indi/BEY881/licenceRecord,,,Rep,2019-06-11,
+"Lee, Eu Han 李耀漢",None,sfclicrec.asp?p=126196,ARJ450,http://www.sfc.hk/publicregWeb/indi/ARJ450/licenceRecord,,,RO,2019-03-27,
+"Park, Min Ju ",None,sfclicrec.asp?p=23734945,BOT669,http://www.sfc.hk/publicregWeb/indi/BOT669/licenceRecord,,,Rep,2019-10-02,
+"Thorn, Nicholas Michael Gordon ",None,sfclicrec.asp?p=132954,AYD173,http://www.sfc.hk/publicregWeb/indi/AYD173/licenceRecord,,M,RO,2019-03-27,

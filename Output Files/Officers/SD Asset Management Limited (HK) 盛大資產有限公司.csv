@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Shek Chuen 陳錫泉",sfclicrec.asp?p=81786,,,RO,2020-01-03,
-"Cheung, Henry Chin Ho 張展豪",sfclicrec.asp?p=131392,,M,Rep,2017-08-21,2019-04-29
-"Cheung, Henry Chin Ho 張展豪",sfclicrec.asp?p=131392,,M,RO,2019-04-29,2020-01-04
-"Chiu, Chi Wa (SFC:BNF509) 趙志華",sfclicrec.asp?p=21979790,,,Rep,2018-08-13,2019-06-29
-"Lam, Andy Ting Fung 林霆鋒",sfclicrec.asp?p=2067232,,,Rep,2019-12-10,2019-12-24
-"Lam, Andy Ting Fung 林霆鋒",sfclicrec.asp?p=2067232,,,RO,2019-12-24,
-"Li, Shuxi 李舒習",sfclicrec.asp?p=11796690,,,Rep,2019-12-27,2020-01-03
-"Lo, Helen Pik Ha 勞碧霞",sfclicrec.asp?p=80516,,F,RO,2019-12-24,
-"Ngan, Hudson Chiu Kit 顏釗杰",sfclicrec.asp?p=110713,,,RO,2017-05-25,2018-12-31
-"Tang, Ying (SFC:AKY520) 鄧瑩",sfclicrec.asp?p=114179,,,RO,2017-05-25,2020-01-04
-"Wang, Deli (SFC:BBP491) 王得利",sfclicrec.asp?p=2103952,,,Rep,2017-08-21,2019-06-14
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Shek Chuen 陳錫泉",None,sfclicrec.asp?p=81786,ARE460,http://www.sfc.hk/publicregWeb/indi/ARE460/licenceRecord,,,RO,2020-01-03,
+"Cheung, Henry Chin Ho 張展豪",None,sfclicrec.asp?p=131392,AXO900,http://www.sfc.hk/publicregWeb/indi/AXO900/licenceRecord,,M,Rep,2017-08-21,2019-04-29
+"Cheung, Henry Chin Ho 張展豪",None,sfclicrec.asp?p=131392,AXO900,http://www.sfc.hk/publicregWeb/indi/AXO900/licenceRecord,,M,RO,2019-04-29,2020-01-04
+"Chiu, Chi Wa (SFC:BNF509) 趙志華",None,sfclicrec.asp?p=21979790,BNF509,http://www.sfc.hk/publicregWeb/indi/BNF509/licenceRecord,,,Rep,2018-08-13,2019-06-29
+"Lam, Andy Ting Fung 林霆鋒",None,sfclicrec.asp?p=2067232,BBG375,http://www.sfc.hk/publicregWeb/indi/BBG375/licenceRecord,,,Rep,2019-12-10,2019-12-24
+"Lam, Andy Ting Fung 林霆鋒",None,sfclicrec.asp?p=2067232,BBG375,http://www.sfc.hk/publicregWeb/indi/BBG375/licenceRecord,,,RO,2019-12-24,
+"Li, Shuxi 李舒習",None,sfclicrec.asp?p=11796690,BKT719,http://www.sfc.hk/publicregWeb/indi/BKT719/licenceRecord,,,Rep,2019-12-27,2020-01-03
+"Lo, Helen Pik Ha 勞碧霞",None,sfclicrec.asp?p=80516,ANA705,http://www.sfc.hk/publicregWeb/indi/ANA705/licenceRecord,,F,RO,2019-12-24,
+"Ngan, Hudson Chiu Kit 顏釗杰",None,sfclicrec.asp?p=110713,AGQ983,http://www.sfc.hk/publicregWeb/indi/AGQ983/licenceRecord,,,RO,2017-05-25,2018-12-31
+"Tang, Ying (SFC:AKY520) 鄧瑩",None,sfclicrec.asp?p=114179,AKY520,http://www.sfc.hk/publicregWeb/indi/AKY520/licenceRecord,,,RO,2017-05-25,2020-01-04
+"Wang, Deli (SFC:BBP491) 王得利",None,sfclicrec.asp?p=2103952,BBP491,http://www.sfc.hk/publicregWeb/indi/BBP491/licenceRecord,,,Rep,2017-08-21,2019-06-14

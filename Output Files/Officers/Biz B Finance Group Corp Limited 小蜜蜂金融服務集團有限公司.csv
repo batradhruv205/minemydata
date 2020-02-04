@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Chi Yung 陳智勇",sfclicrec.asp?p=84824,,,Rep,2016-09-20,2017-12-15
-"Lam, Wai Tsin 林維蕆",sfclicrec.asp?p=128618,,,RO,2016-03-30,2016-08-10
-"Romano, Andrea ",sfclicrec.asp?p=2552336,,F,RO,2016-03-30,
-"Tao, Jin 陶瑾",sfclicrec.asp?p=2267112,,,Rep,2016-05-24,2016-07-19
-"Tao, Jin 陶瑾",sfclicrec.asp?p=2267112,,,RO,2016-07-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Chi Yung 陳智勇",None,sfclicrec.asp?p=84824,APR959,http://www.sfc.hk/publicregWeb/indi/APR959/licenceRecord,,,Rep,2016-09-20,2017-12-15
+"Lam, Wai Tsin 林維蕆",None,sfclicrec.asp?p=128618,ATT180,http://www.sfc.hk/publicregWeb/indi/ATT180/licenceRecord,,,RO,2016-03-30,2016-08-10
+"Romano, Andrea ",None,sfclicrec.asp?p=2552336,BBW683,http://www.sfc.hk/publicregWeb/indi/BBW683/licenceRecord,,F,RO,2016-03-30,
+"Tao, Jin 陶瑾",None,sfclicrec.asp?p=2267112,BCN396,http://www.sfc.hk/publicregWeb/indi/BCN396/licenceRecord,,,Rep,2016-05-24,2016-07-19
+"Tao, Jin 陶瑾",None,sfclicrec.asp?p=2267112,BCN396,http://www.sfc.hk/publicregWeb/indi/BCN396/licenceRecord,,,RO,2016-07-19,

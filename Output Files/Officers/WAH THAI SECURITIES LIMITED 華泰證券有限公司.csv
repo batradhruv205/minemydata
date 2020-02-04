@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheu, Josefina 周彬娜",sfclicrec.asp?p=101623,,F,RO,,2018-02-08
-"Fung, Sing Yui 馮勝銳",sfclicrec.asp?p=78175,,,RO,2018-01-02,
-"Ko, Oi Na 高愛娜",sfclicrec.asp?p=99870,,,RO,2017-12-29,
-"Ng, Kam Shan (SFC:AAV071) 吳金山",sfclicrec.asp?p=101624,,,RO,,2018-02-08
-"Shum, Wai Cheung 沈懷翔",sfclicrec.asp?p=101368,,,Rep,,
-"Sze, Leung Kiu 施良橋",sfclicrec.asp?p=101367,,,RO,,2018-02-08
-"Tai, Makki Yin Hing 戴燕興",sfclicrec.asp?p=101037,,,Rep,,
-"Wong, Ping (SFC:AJD295) 王萍",sfclicrec.asp?p=112908,,,Rep,2014-09-16,2018-03-13
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheu, Josefina 周彬娜",None,sfclicrec.asp?p=101623,AAV069,http://www.sfc.hk/publicregWeb/indi/AAV069/licenceRecord,,F,RO,,2018-02-08
+"Fung, Sing Yui 馮勝銳",None,sfclicrec.asp?p=78175,ACB077,http://www.sfc.hk/publicregWeb/indi/ACB077/licenceRecord,,,RO,2018-01-02,
+"Ko, Oi Na 高愛娜",None,sfclicrec.asp?p=99870,ALF942,http://www.sfc.hk/publicregWeb/indi/ALF942/licenceRecord,,,RO,2017-12-29,
+"Ng, Kam Shan (SFC:AAV071) 吳金山",None,sfclicrec.asp?p=101624,AAV071,http://www.sfc.hk/publicregWeb/indi/AAV071/licenceRecord,,,RO,,2018-02-08
+"Shum, Wai Cheung 沈懷翔",None,sfclicrec.asp?p=101368,AAH982,http://www.sfc.hk/publicregWeb/indi/AAH982/licenceRecord,,,Rep,,
+"Sze, Leung Kiu 施良橋",None,sfclicrec.asp?p=101367,AAH976,http://www.sfc.hk/publicregWeb/indi/AAH976/licenceRecord,,,RO,,2018-02-08
+"Tai, Makki Yin Hing 戴燕興",None,sfclicrec.asp?p=101037,AAE595,http://www.sfc.hk/publicregWeb/indi/AAE595/licenceRecord,,,Rep,,
+"Wong, Ping (SFC:AJD295) 王萍",None,sfclicrec.asp?p=112908,AJD295,http://www.sfc.hk/publicregWeb/indi/AJD295/licenceRecord,,,Rep,2014-09-16,2018-03-13

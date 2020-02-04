@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Sunny Ho Sun 陳灝燊",sfclicrec.asp?p=50012,50,M,RO,2010-03-01,2010-07-01
-"Chan, Wai Por 陳偉波",sfclicrec.asp?p=98068,,,Rep,2010-07-19,2015-10-01
-"Chau, Yueh Jen 周日仁",sfclicrec.asp?p=51724,,,RO,2010-03-01,2010-10-31
-"Ho, Ellis Kit Man 何傑敏",sfclicrec.asp?p=30470,62,M,RO,2010-07-19,
-"Tse, Bonnie Suk Yee 謝淑怡",sfclicrec.asp?p=55342,,F,Rep,2010-08-17,2010-09-27
-"Tse, Bonnie Suk Yee 謝淑怡",sfclicrec.asp?p=55342,,F,RO,2010-09-27,
-"Wu, Chun Ho 胡俊豪",sfclicrec.asp?p=98069,,,Rep,2010-07-12,2013-09-24
-"Wu, Chun Ho 胡俊豪",sfclicrec.asp?p=98069,,,RO,2013-09-24,
-"Wu, Wing Sze (SFC:AMZ333) 胡穎詩",sfclicrec.asp?p=117818,,,Rep,2015-10-14,2018-08-21
-"Wu, Wing Sze (SFC:AMZ333) 胡穎詩",sfclicrec.asp?p=117818,,,RO,2018-08-21,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Sunny Ho Sun 陳灝燊",None,sfclicrec.asp?p=50012,ABG920,http://www.sfc.hk/publicregWeb/indi/ABG920/licenceRecord,50.0,M,RO,2010-03-01,2010-07-01
+"Chan, Wai Por 陳偉波",None,sfclicrec.asp?p=98068,AAF318,http://www.sfc.hk/publicregWeb/indi/AAF318/licenceRecord,,,Rep,2010-07-19,2015-10-01
+"Chau, Yueh Jen 周日仁",None,sfclicrec.asp?p=51724,ACE585,http://www.sfc.hk/publicregWeb/indi/ACE585/licenceRecord,,,RO,2010-03-01,2010-10-31
+"Ho, Ellis Kit Man 何傑敏",None,sfclicrec.asp?p=30470,ABU342,http://www.sfc.hk/publicregWeb/indi/ABU342/licenceRecord,62.0,M,RO,2010-07-19,
+"Tse, Bonnie Suk Yee 謝淑怡",None,sfclicrec.asp?p=55342,AHF975,http://www.sfc.hk/publicregWeb/indi/AHF975/licenceRecord,,F,Rep,2010-08-17,2010-09-27
+"Tse, Bonnie Suk Yee 謝淑怡",None,sfclicrec.asp?p=55342,AHF975,http://www.sfc.hk/publicregWeb/indi/AHF975/licenceRecord,,F,RO,2010-09-27,
+"Wu, Chun Ho 胡俊豪",None,sfclicrec.asp?p=98069,AMZ332,http://www.sfc.hk/publicregWeb/indi/AMZ332/licenceRecord,,,Rep,2010-07-12,2013-09-24
+"Wu, Chun Ho 胡俊豪",None,sfclicrec.asp?p=98069,AMZ332,http://www.sfc.hk/publicregWeb/indi/AMZ332/licenceRecord,,,RO,2013-09-24,
+"Wu, Wing Sze (SFC:AMZ333) 胡穎詩",None,sfclicrec.asp?p=117818,AMZ333,http://www.sfc.hk/publicregWeb/indi/AMZ333/licenceRecord,,,Rep,2015-10-14,2018-08-21
+"Wu, Wing Sze (SFC:AMZ333) 胡穎詩",None,sfclicrec.asp?p=117818,AMZ333,http://www.sfc.hk/publicregWeb/indi/AMZ333/licenceRecord,,,RO,2018-08-21,

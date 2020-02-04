@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Matthew (SFC:BFG309) 陳進傑",sfclicrec.asp?p=2409075,,M,Rep,2015-04-20,2017-03-31
-"Chen, June Yub 全埈燁",sfclicrec.asp?p=2409076,,F,Rep,2015-04-20,2019-12-31
-"Johnson, David Edward (SFC:BEV695) ",sfclicrec.asp?p=2401295,,M,RO,2015-04-02,2018-02-09
-"Kartha, Harish Ramachandran ",sfclicrec.asp?p=2409077,,,Rep,2015-04-20,2017-01-31
-"Pace, Linda Marie ",sfclicrec.asp?p=12773594,,F,RO,2018-02-08,
-"Park, Gregory ",sfclicrec.asp?p=104822,,M,RO,2015-04-02,2016-11-01
-"Pradinata, Kusnadi ",sfclicrec.asp?p=2542967,,,Rep,2016-03-04,2017-05-26
-"Sim, Kyu Jung 沈揆正",sfclicrec.asp?p=89568,,,Rep,2015-06-15,2019-09-15
-"Trivers, Tor Lee ",sfclicrec.asp?p=2401296,,,RO,2015-04-02,2019-12-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Matthew (SFC:BFG309) 陳進傑",None,sfclicrec.asp?p=2409075,BFG309,http://www.sfc.hk/publicregWeb/indi/BFG309/licenceRecord,,M,Rep,2015-04-20,2017-03-31
+"Chen, June Yub 全埈燁",None,sfclicrec.asp?p=2409076,BFG324,http://www.sfc.hk/publicregWeb/indi/BFG324/licenceRecord,,F,Rep,2015-04-20,2019-12-31
+"Johnson, David Edward (SFC:BEV695) ",None,sfclicrec.asp?p=2401295,BEV695,http://www.sfc.hk/publicregWeb/indi/BEV695/licenceRecord,,M,RO,2015-04-02,2018-02-09
+"Kartha, Harish Ramachandran ",None,sfclicrec.asp?p=2409077,BFG315,http://www.sfc.hk/publicregWeb/indi/BFG315/licenceRecord,,,Rep,2015-04-20,2017-01-31
+"Pace, Linda Marie ",None,sfclicrec.asp?p=12773594,BLY900,http://www.sfc.hk/publicregWeb/indi/BLY900/licenceRecord,,F,RO,2018-02-08,
+"Park, Gregory ",None,sfclicrec.asp?p=104822,AEI659,http://www.sfc.hk/publicregWeb/indi/AEI659/licenceRecord,,M,RO,2015-04-02,2016-11-01
+"Pradinata, Kusnadi ",None,sfclicrec.asp?p=2542967,BHC220,http://www.sfc.hk/publicregWeb/indi/BHC220/licenceRecord,,,Rep,2016-03-04,2017-05-26
+"Sim, Kyu Jung 沈揆正",None,sfclicrec.asp?p=89568,AOK162,http://www.sfc.hk/publicregWeb/indi/AOK162/licenceRecord,,,Rep,2015-06-15,2019-09-15
+"Trivers, Tor Lee ",None,sfclicrec.asp?p=2401296,BEV690,http://www.sfc.hk/publicregWeb/indi/BEV690/licenceRecord,,,RO,2015-04-02,2019-12-31

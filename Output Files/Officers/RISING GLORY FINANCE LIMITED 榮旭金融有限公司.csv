@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cang, Biao ",sfclicrec.asp?p=23362201,,,RO,2019-06-28,
-"Guo, Xun 郭迅",sfclicrec.asp?p=12112964,,,RO,2017-10-20,
-"Huang, Yihua 黃溢華",sfclicrec.asp?p=22133625,,,Rep,2018-09-04,
-"Lashinski, Edward William ",sfclicrec.asp?p=2690462,,M,RO,2017-01-23,2017-04-28
-"Nesbitt, David McWilliams ",sfclicrec.asp?p=69071,,M,RO,2017-01-23,2017-04-15
-"Tong, Leslie Wai-Yun 唐慧茵",sfclicrec.asp?p=12656110,,,RO,2017-12-21,
-"Wang, Mingxiong 王明雄",sfclicrec.asp?p=22408308,,,Rep,2018-11-08,2019-01-03
-"Wang, Nathan 王焱武",sfclicrec.asp?p=97858,,M,RO,2017-06-27,2019-08-15
-"Xia, Guangmin 夏廣民",sfclicrec.asp?p=22980102,,,Rep,2019-04-01,2019-05-22
-"Yip, Kin Kong (SFC:ADS751) 葉建剛",sfclicrec.asp?p=104102,,,Rep,2019-01-15,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cang, Biao ",None,sfclicrec.asp?p=23362201,BOE269,http://www.sfc.hk/publicregWeb/indi/BOE269/licenceRecord,,,RO,2019-06-28,
+"Guo, Xun 郭迅",None,sfclicrec.asp?p=12112964,BJR061,http://www.sfc.hk/publicregWeb/indi/BJR061/licenceRecord,,,RO,2017-10-20,
+"Huang, Yihua 黃溢華",None,sfclicrec.asp?p=22133625,BNI032,http://www.sfc.hk/publicregWeb/indi/BNI032/licenceRecord,,,Rep,2018-09-04,
+"Lashinski, Edward William ",None,sfclicrec.asp?p=2690462,BHZ325,http://www.sfc.hk/publicregWeb/indi/BHZ325/licenceRecord,,M,RO,2017-01-23,2017-04-28
+"Nesbitt, David McWilliams ",None,sfclicrec.asp?p=69071,AAH622,http://www.sfc.hk/publicregWeb/indi/AAH622/licenceRecord,,M,RO,2017-01-23,2017-04-15
+"Tong, Leslie Wai-Yun 唐慧茵",None,sfclicrec.asp?p=12656110,APL611,http://www.sfc.hk/publicregWeb/indi/APL611/licenceRecord,,,RO,2017-12-21,
+"Wang, Mingxiong 王明雄",None,sfclicrec.asp?p=22408308,BNP408,http://www.sfc.hk/publicregWeb/indi/BNP408/licenceRecord,,,Rep,2018-11-08,2019-01-03
+"Wang, Nathan 王焱武",None,sfclicrec.asp?p=97858,ADJ636,http://www.sfc.hk/publicregWeb/indi/ADJ636/licenceRecord,,M,RO,2017-06-27,2019-08-15
+"Xia, Guangmin 夏廣民",None,sfclicrec.asp?p=22980102,BOE427,http://www.sfc.hk/publicregWeb/indi/BOE427/licenceRecord,,,Rep,2019-04-01,2019-05-22
+"Yip, Kin Kong (SFC:ADS751) 葉建剛",None,sfclicrec.asp?p=104102,ADS751,http://www.sfc.hk/publicregWeb/indi/ADS751/licenceRecord,,,Rep,2019-01-15,

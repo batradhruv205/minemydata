@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Xin (SFC:AUF158) 陳欣",sfclicrec.asp?p=99075,,,RO,2019-05-21,
-"Wang, Yi (SFC:APH806) 汪翊",sfclicrec.asp?p=99077,,,RO,2019-05-21,
-"Zhou, Lihua 周麗華",sfclicrec.asp?p=2442472,,,RO,2019-11-18,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Xin (SFC:AUF158) 陳欣",None,sfclicrec.asp?p=99075,AUF158,http://www.sfc.hk/publicregWeb/indi/AUF158/licenceRecord,,,RO,2019-05-21,
+"Wang, Yi (SFC:APH806) 汪翊",None,sfclicrec.asp?p=99077,APH806,http://www.sfc.hk/publicregWeb/indi/APH806/licenceRecord,,,RO,2019-05-21,
+"Zhou, Lihua 周麗華",None,sfclicrec.asp?p=2442472,BFS121,http://www.sfc.hk/publicregWeb/indi/BFS121/licenceRecord,,,RO,2019-11-18,

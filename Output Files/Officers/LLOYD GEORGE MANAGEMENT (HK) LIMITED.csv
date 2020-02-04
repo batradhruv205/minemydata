@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Justin Chak-Shun 陳澤信",sfclicrec.asp?p=2447377,,M,Rep,2015-07-10,
-"Goelet, Francis Hoegh ",sfclicrec.asp?p=2485832,,M,Rep,2015-10-13,
-"Lloyd George, Robert John Daniel ",sfclicrec.asp?p=29377,68,M,RO,2015-01-16,
-"Mocatta, Frederick Edward Elkin 毛家鑫",sfclicrec.asp?p=1880151,33,M,Rep,2015-07-07,2017-10-13
-"Royds, Thomas Alexander ",sfclicrec.asp?p=98587,,M,RO,2015-04-14,
-"Sanyal, Bratindra Saran ",sfclicrec.asp?p=83868,,,RO,2019-10-22,
-"Tang, Man Fat 鄧萬發",sfclicrec.asp?p=85971,,,RO,2015-01-16,2015-04-30
-"Wang, Alice Yichen 王逸塵",sfclicrec.asp?p=2460238,,F,Rep,2015-08-10,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Justin Chak-Shun 陳澤信",None,sfclicrec.asp?p=2447377,BFU419,http://www.sfc.hk/publicregWeb/indi/BFU419/licenceRecord,,M,Rep,2015-07-10,
+"Goelet, Francis Hoegh ",None,sfclicrec.asp?p=2485832,BGI543,http://www.sfc.hk/publicregWeb/indi/BGI543/licenceRecord,,M,Rep,2015-10-13,
+"Lloyd George, Robert John Daniel ",None,sfclicrec.asp?p=29377,AAB351,http://www.sfc.hk/publicregWeb/indi/AAB351/licenceRecord,68.0,M,RO,2015-01-16,
+"Mocatta, Frederick Edward Elkin 毛家鑫",None,sfclicrec.asp?p=1880151,AZH045,http://www.sfc.hk/publicregWeb/indi/AZH045/licenceRecord,33.0,M,Rep,2015-07-07,2017-10-13
+"Royds, Thomas Alexander ",None,sfclicrec.asp?p=98587,AFY848,http://www.sfc.hk/publicregWeb/indi/AFY848/licenceRecord,,M,RO,2015-04-14,
+"Sanyal, Bratindra Saran ",None,sfclicrec.asp?p=83868,ALF293,http://www.sfc.hk/publicregWeb/indi/ALF293/licenceRecord,,,RO,2019-10-22,
+"Tang, Man Fat 鄧萬發",None,sfclicrec.asp?p=85971,ABD368,http://www.sfc.hk/publicregWeb/indi/ABD368/licenceRecord,,,RO,2015-01-16,2015-04-30
+"Wang, Alice Yichen 王逸塵",None,sfclicrec.asp?p=2460238,BFY997,http://www.sfc.hk/publicregWeb/indi/BFY997/licenceRecord,,F,Rep,2015-08-10,

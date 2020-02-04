@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Jiazi 陳嘉子",sfclicrec.asp?p=131034,,,RO,2013-12-09,
-"Kwok, Vivian Wing Wai 郭永蕙",sfclicrec.asp?p=98224,,F,RO,2013-12-09,
-"Or, Ka Yan 柯嘉茵",sfclicrec.asp?p=113420,,,RO,2013-12-09,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Jiazi 陳嘉子",None,sfclicrec.asp?p=131034,AXC287,http://www.sfc.hk/publicregWeb/indi/AXC287/licenceRecord,,,RO,2013-12-09,
+"Kwok, Vivian Wing Wai 郭永蕙",None,sfclicrec.asp?p=98224,AGL163,http://www.sfc.hk/publicregWeb/indi/AGL163/licenceRecord,,F,RO,2013-12-09,
+"Or, Ka Yan 柯嘉茵",None,sfclicrec.asp?p=113420,AJL007,http://www.sfc.hk/publicregWeb/indi/AJL007/licenceRecord,,,RO,2013-12-09,

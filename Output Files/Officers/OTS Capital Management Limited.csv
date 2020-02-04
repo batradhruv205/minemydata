@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Hsu, Tony Dan 許心達",sfclicrec.asp?p=2590958,,M,RO,2015-02-02,2019-05-17
-"Shimizu, Yuya 清水雄也",sfclicrec.asp?p=22430004,,,RO,2015-02-02,2015-12-29
-"Tam, Mo Kit (SFC:ABH719) 譚慕潔",sfclicrec.asp?p=100027,,,Rep,2020-01-14,
-"Tang, James (SFC:AJC669) 鄧民煇",sfclicrec.asp?p=112865,,M,RO,2019-08-12,
-"Ting, Xun-Yi 丁訓益",sfclicrec.asp?p=2590959,,,RO,2015-07-24,2017-04-21
-"Warfield, George Richard IV ",sfclicrec.asp?p=127473,,M,RO,2016-11-29,
-"Zakirov, Nikolay ",sfclicrec.asp?p=2695072,,M,Rep,2017-02-10,2018-03-23
-"Zakirov, Nikolay ",sfclicrec.asp?p=2695072,,M,RO,2018-03-23,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Hsu, Tony Dan 許心達",None,sfclicrec.asp?p=2590958,BEL627,http://www.sfc.hk/publicregWeb/indi/BEL627/licenceRecord,,M,RO,2015-02-02,2019-05-17
+"Shimizu, Yuya 清水雄也",None,sfclicrec.asp?p=22430004,BEL628,http://www.sfc.hk/publicregWeb/indi/BEL628/licenceRecord,,,RO,2015-02-02,2015-12-29
+"Tam, Mo Kit (SFC:ABH719) 譚慕潔",None,sfclicrec.asp?p=100027,ABH719,http://www.sfc.hk/publicregWeb/indi/ABH719/licenceRecord,,,Rep,2020-01-14,
+"Tang, James (SFC:AJC669) 鄧民煇",None,sfclicrec.asp?p=112865,AJC669,http://www.sfc.hk/publicregWeb/indi/AJC669/licenceRecord,,M,RO,2019-08-12,
+"Ting, Xun-Yi 丁訓益",None,sfclicrec.asp?p=2590959,BEL725,http://www.sfc.hk/publicregWeb/indi/BEL725/licenceRecord,,,RO,2015-07-24,2017-04-21
+"Warfield, George Richard IV ",None,sfclicrec.asp?p=127473,ASH893,http://www.sfc.hk/publicregWeb/indi/ASH893/licenceRecord,,M,RO,2016-11-29,
+"Zakirov, Nikolay ",None,sfclicrec.asp?p=2695072,BIW854,http://www.sfc.hk/publicregWeb/indi/BIW854/licenceRecord,,M,Rep,2017-02-10,2018-03-23
+"Zakirov, Nikolay ",None,sfclicrec.asp?p=2695072,BIW854,http://www.sfc.hk/publicregWeb/indi/BIW854/licenceRecord,,M,RO,2018-03-23,

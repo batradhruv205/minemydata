@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Diethelm, Oliver Richard ",sfclicrec.asp?p=22426163,,M,RO,2012-04-02,
-"Feurer, Simon Dominic ",sfclicrec.asp?p=22431302,,M,RO,2016-06-23,
-"Gassmann, Dominik Michael Maria ",sfclicrec.asp?p=23208600,,M,RO,2019-05-22,
-"Holdener, Steve ",sfclicrec.asp?p=22431303,,M,RO,2016-06-23,
-"Jen, Robert 任志剛",sfclicrec.asp?p=23531673,,M,Rep,2019-08-09,
-"Koller, Hans (SFC:AYY625) ",sfclicrec.asp?p=22426167,,M,RO,2012-08-21,
-"Linner, Florian Alexander ",sfclicrec.asp?p=22426164,,M,RO,2012-04-02,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Diethelm, Oliver Richard ",None,sfclicrec.asp?p=22426163,AYW739,http://www.sfc.hk/publicregWeb/indi/AYW739/licenceRecord,,M,RO,2012-04-02,
+"Feurer, Simon Dominic ",None,sfclicrec.asp?p=22431302,BGV756,http://www.sfc.hk/publicregWeb/indi/BGV756/licenceRecord,,M,RO,2016-06-23,
+"Gassmann, Dominik Michael Maria ",None,sfclicrec.asp?p=23208600,BOC944,http://www.sfc.hk/publicregWeb/indi/BOC944/licenceRecord,,M,RO,2019-05-22,
+"Holdener, Steve ",None,sfclicrec.asp?p=22431303,BHH536,http://www.sfc.hk/publicregWeb/indi/BHH536/licenceRecord,,M,RO,2016-06-23,
+"Jen, Robert 任志剛",None,sfclicrec.asp?p=23531673,BOG975,http://www.sfc.hk/publicregWeb/indi/BOG975/licenceRecord,,M,Rep,2019-08-09,
+"Koller, Hans (SFC:AYY625) ",None,sfclicrec.asp?p=22426167,AYY625,http://www.sfc.hk/publicregWeb/indi/AYY625/licenceRecord,,M,RO,2012-08-21,
+"Linner, Florian Alexander ",None,sfclicrec.asp?p=22426164,AYW740,http://www.sfc.hk/publicregWeb/indi/AYW740/licenceRecord,,M,RO,2012-04-02,

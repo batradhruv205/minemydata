@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chu, Betty Kar Chun 朱家珍",sfclicrec.asp?p=96608,,F,Rep,2011-06-23,2011-11-29
-"Chu, Cheung Fat 朱鏘發",sfclicrec.asp?p=96607,,,Rep,,2003-09-22
-"Chu, Cheung Fat 朱鏘發",sfclicrec.asp?p=96607,,,RO,2003-09-22,2017-12-21
-"Ng Chu, Lien Fan 吳朱蓮芬",sfclicrec.asp?p=26677,77,F,RO,,
-"Yeung, Ka Yee 楊家儀",sfclicrec.asp?p=96609,,,Rep,2005-04-29,2018-02-21
-"Yeung, Ka Yee 楊家儀",sfclicrec.asp?p=96609,,,RO,2018-02-21,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chu, Betty Kar Chun 朱家珍",None,sfclicrec.asp?p=96608,AQB147,http://www.sfc.hk/publicregWeb/indi/AQB147/licenceRecord,,F,Rep,2011-06-23,2011-11-29
+"Chu, Cheung Fat 朱鏘發",None,sfclicrec.asp?p=96607,AAB347,http://www.sfc.hk/publicregWeb/indi/AAB347/licenceRecord,,,Rep,,2003-09-22
+"Chu, Cheung Fat 朱鏘發",None,sfclicrec.asp?p=96607,AAB347,http://www.sfc.hk/publicregWeb/indi/AAB347/licenceRecord,,,RO,2003-09-22,2017-12-21
+"Ng Chu, Lien Fan 吳朱蓮芬",None,sfclicrec.asp?p=26677,AAB340,http://www.sfc.hk/publicregWeb/indi/AAB340/licenceRecord,77.0,F,RO,,
+"Yeung, Ka Yee 楊家儀",None,sfclicrec.asp?p=96609,ALW299,http://www.sfc.hk/publicregWeb/indi/ALW299/licenceRecord,,,Rep,2005-04-29,2018-02-21
+"Yeung, Ka Yee 楊家儀",None,sfclicrec.asp?p=96609,ALW299,http://www.sfc.hk/publicregWeb/indi/ALW299/licenceRecord,,,RO,2018-02-21,

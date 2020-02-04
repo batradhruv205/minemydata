@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Heath, James Edward ",sfclicrec.asp?p=2078807,,M,RO,2012-11-01,2019-02-11
-"Lau, Simon Yat Sing 劉日昇",sfclicrec.asp?p=2078808,,M,RO,2012-11-01,
-"Park, Jun Tae 朴俊泰",sfclicrec.asp?p=2445304,,,Rep,2015-07-07,
-"Pong, Jack 龐傑",sfclicrec.asp?p=20840386,,M,Rep,2018-07-25,
-"Tien, Joseph Chi 田法翰",sfclicrec.asp?p=2017854,,M,Rep,2013-06-03,2017-08-25
-"Yu, Jason Kai Hong 余啟匡",sfclicrec.asp?p=22695287,,M,RO,2019-01-25,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Heath, James Edward ",None,sfclicrec.asp?p=2078807,BAA701,http://www.sfc.hk/publicregWeb/indi/BAA701/licenceRecord,,M,RO,2012-11-01,2019-02-11
+"Lau, Simon Yat Sing 劉日昇",None,sfclicrec.asp?p=2078808,BAA702,http://www.sfc.hk/publicregWeb/indi/BAA702/licenceRecord,,M,RO,2012-11-01,
+"Park, Jun Tae 朴俊泰",None,sfclicrec.asp?p=2445304,BFS165,http://www.sfc.hk/publicregWeb/indi/BFS165/licenceRecord,,,Rep,2015-07-07,
+"Pong, Jack 龐傑",None,sfclicrec.asp?p=20840386,BMV059,http://www.sfc.hk/publicregWeb/indi/BMV059/licenceRecord,,M,Rep,2018-07-25,
+"Tien, Joseph Chi 田法翰",None,sfclicrec.asp?p=2017854,BAV205,http://www.sfc.hk/publicregWeb/indi/BAV205/licenceRecord,,M,Rep,2013-06-03,2017-08-25
+"Yu, Jason Kai Hong 余啟匡",None,sfclicrec.asp?p=22695287,BNU950,http://www.sfc.hk/publicregWeb/indi/BNU950/licenceRecord,,M,RO,2019-01-25,

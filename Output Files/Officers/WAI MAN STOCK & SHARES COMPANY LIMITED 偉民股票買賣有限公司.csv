@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Leong, Nellie Kit Fun 梁潔芬",sfclicrec.asp?p=101706,,,Rep,,2011-11-25
-"Tai, Ting Fong 戴庭芳",sfclicrec.asp?p=123922,,,Rep,2008-01-28,2010-02-28
-"Tai, Ting San 戴庭燊",sfclicrec.asp?p=101645,,,RO,,
-"Tai, Wai Man (SFC:AAA615) 戴偉民",sfclicrec.asp?p=100567,,,RO,,2017-09-05
-"Tai, Yee Wah 戴綺華",sfclicrec.asp?p=100564,,,Rep,,2017-05-29
-"Tai, Yee Wah 戴綺華",sfclicrec.asp?p=100564,,,RO,2017-05-29,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Leong, Nellie Kit Fun 梁潔芬",None,sfclicrec.asp?p=101706,AAW599,http://www.sfc.hk/publicregWeb/indi/AAW599/licenceRecord,,,Rep,,2011-11-25
+"Tai, Ting Fong 戴庭芳",None,sfclicrec.asp?p=123922,AQE808,http://www.sfc.hk/publicregWeb/indi/AQE808/licenceRecord,,,Rep,2008-01-28,2010-02-28
+"Tai, Ting San 戴庭燊",None,sfclicrec.asp?p=101645,AAV541,http://www.sfc.hk/publicregWeb/indi/AAV541/licenceRecord,,,RO,,
+"Tai, Wai Man (SFC:AAA615) 戴偉民",None,sfclicrec.asp?p=100567,AAA615,http://www.sfc.hk/publicregWeb/indi/AAA615/licenceRecord,,,RO,,2017-09-05
+"Tai, Yee Wah 戴綺華",None,sfclicrec.asp?p=100564,AAA603,http://www.sfc.hk/publicregWeb/indi/AAA603/licenceRecord,,,Rep,,2017-05-29
+"Tai, Yee Wah 戴綺華",None,sfclicrec.asp?p=100564,AAA603,http://www.sfc.hk/publicregWeb/indi/AAA603/licenceRecord,,,RO,2017-05-29,

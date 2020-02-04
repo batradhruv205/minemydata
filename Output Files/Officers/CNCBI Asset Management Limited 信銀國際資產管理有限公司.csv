@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Qi (SFC:BOB783) 陳祺",sfclicrec.asp?p=22715525,,,Rep,2019-01-30,2019-12-05
-"Chen, Qi (SFC:BOB783) 陳祺",sfclicrec.asp?p=22715525,,,RO,2019-12-05,
-"Cui, Hai 崔海",sfclicrec.asp?p=23352462,,,Rep,2019-06-26,
-"Ge, Danping 葛丹平",sfclicrec.asp?p=90441,,,Rep,2018-12-18,2019-11-15
-"Ge, Danping 葛丹平",sfclicrec.asp?p=90441,,,RO,2019-11-15,
-"Gong, Yanmei (SFC:BPG280) 宮艷梅",sfclicrec.asp?p=24032763,,,Rep,2019-12-18,
-"Lee, Wu Han 李武翰",sfclicrec.asp?p=8994895,,,Rep,2019-01-18,
-"Li, Jianqiu 李劍秋",sfclicrec.asp?p=2598525,,,Rep,2019-05-27,
-"Lu, Na (SFC:BNP594) 盧娜",sfclicrec.asp?p=22228601,,,Rep,2019-08-21,
-"Lu, Xiangrong 呂向荣",sfclicrec.asp?p=2419446,,,RO,2018-10-16,
-"Lu, Yuan (SFC:BEZ159) 陸遠",sfclicrec.asp?p=2383980,,,Rep,2019-06-11,
-"Nie, Tianyuan 聶天元",sfclicrec.asp?p=22979996,,,Rep,2019-04-01,
-"Su, Youjin 蘇友金",sfclicrec.asp?p=2018004,,,RO,2018-10-16,2018-12-18
-"Tam, Chung Him 談仲騫",sfclicrec.asp?p=90288,,,RO,2018-10-16,
-"Tian, Yu (SFC:BDX197) 田雨",sfclicrec.asp?p=2300776,,,Rep,2019-08-08,
-"Wen, Qingyuan 溫慶元",sfclicrec.asp?p=23324305,,,Rep,2019-06-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Qi (SFC:BOB783) 陳祺",None,sfclicrec.asp?p=22715525,BOB783,http://www.sfc.hk/publicregWeb/indi/BOB783/licenceRecord,,,Rep,2019-01-30,2019-12-05
+"Chen, Qi (SFC:BOB783) 陳祺",None,sfclicrec.asp?p=22715525,BOB783,http://www.sfc.hk/publicregWeb/indi/BOB783/licenceRecord,,,RO,2019-12-05,
+"Cui, Hai 崔海",None,sfclicrec.asp?p=23352462,BOL294,http://www.sfc.hk/publicregWeb/indi/BOL294/licenceRecord,,,Rep,2019-06-26,
+"Ge, Danping 葛丹平",None,sfclicrec.asp?p=90441,APJ998,http://www.sfc.hk/publicregWeb/indi/APJ998/licenceRecord,,,Rep,2018-12-18,2019-11-15
+"Ge, Danping 葛丹平",None,sfclicrec.asp?p=90441,APJ998,http://www.sfc.hk/publicregWeb/indi/APJ998/licenceRecord,,,RO,2019-11-15,
+"Gong, Yanmei (SFC:BPG280) 宮艷梅",None,sfclicrec.asp?p=24032763,BPG280,http://www.sfc.hk/publicregWeb/indi/BPG280/licenceRecord,,,Rep,2019-12-18,
+"Lee, Wu Han 李武翰",None,sfclicrec.asp?p=8994895,BJJ201,http://www.sfc.hk/publicregWeb/indi/BJJ201/licenceRecord,,,Rep,2019-01-18,
+"Li, Jianqiu 李劍秋",None,sfclicrec.asp?p=2598525,BHS005,http://www.sfc.hk/publicregWeb/indi/BHS005/licenceRecord,,,Rep,2019-05-27,
+"Lu, Na (SFC:BNP594) 盧娜",None,sfclicrec.asp?p=22228601,BNP594,http://www.sfc.hk/publicregWeb/indi/BNP594/licenceRecord,,,Rep,2019-08-21,
+"Lu, Xiangrong 呂向荣",None,sfclicrec.asp?p=2419446,BBL857,http://www.sfc.hk/publicregWeb/indi/BBL857/licenceRecord,,,RO,2018-10-16,
+"Lu, Yuan (SFC:BEZ159) 陸遠",None,sfclicrec.asp?p=2383980,BEZ159,http://www.sfc.hk/publicregWeb/indi/BEZ159/licenceRecord,,,Rep,2019-06-11,
+"Nie, Tianyuan 聶天元",None,sfclicrec.asp?p=22979996,BOG396,http://www.sfc.hk/publicregWeb/indi/BOG396/licenceRecord,,,Rep,2019-04-01,
+"Su, Youjin 蘇友金",None,sfclicrec.asp?p=2018004,BAS834,http://www.sfc.hk/publicregWeb/indi/BAS834/licenceRecord,,,RO,2018-10-16,2018-12-18
+"Tam, Chung Him 談仲騫",None,sfclicrec.asp?p=90288,AQZ882,http://www.sfc.hk/publicregWeb/indi/AQZ882/licenceRecord,,,RO,2018-10-16,
+"Tian, Yu (SFC:BDX197) 田雨",None,sfclicrec.asp?p=2300776,BDX197,http://www.sfc.hk/publicregWeb/indi/BDX197/licenceRecord,,,Rep,2019-08-08,
+"Wen, Qingyuan 溫慶元",None,sfclicrec.asp?p=23324305,BOL383,http://www.sfc.hk/publicregWeb/indi/BOL383/licenceRecord,,,Rep,2019-06-19,

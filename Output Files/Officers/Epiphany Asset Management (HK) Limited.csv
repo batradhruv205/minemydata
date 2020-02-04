@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lau, Kok Wah (SFC:AAA605) 劉國華",sfclicrec.asp?p=91464,,,RO,2015-01-09,
-"Lau, Yat Chung (SFC:ARX092) 劉逸聰",sfclicrec.asp?p=91466,,,Rep,2018-07-20,2018-09-18
-"Lau, Yat Chung (SFC:ARX092) 劉逸聰",sfclicrec.asp?p=91466,,,RO,2018-09-18,
-"Liao, Wei (SFC:AYJ548) 廖薇",sfclicrec.asp?p=133416,,,Rep,2019-03-01,
-"Ng, Sze Hon 伍思瀚",sfclicrec.asp?p=2623353,,,Rep,2019-08-12,
-"Pun, Chris Man Cheuk 潘文焯",sfclicrec.asp?p=122135,,M,Rep,2016-01-05,2017-05-01
-"Wong, Shiu Fung 王韶鋒",sfclicrec.asp?p=2482071,,,Rep,2015-10-02,
-"Wu, Ronnie Shang Yen 伍尚仁",sfclicrec.asp?p=91459,,M,RO,2015-01-09,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lau, Kok Wah (SFC:AAA605) 劉國華",None,sfclicrec.asp?p=91464,AAA605,http://www.sfc.hk/publicregWeb/indi/AAA605/licenceRecord,,,RO,2015-01-09,
+"Lau, Yat Chung (SFC:ARX092) 劉逸聰",None,sfclicrec.asp?p=91466,ARX092,http://www.sfc.hk/publicregWeb/indi/ARX092/licenceRecord,,,Rep,2018-07-20,2018-09-18
+"Lau, Yat Chung (SFC:ARX092) 劉逸聰",None,sfclicrec.asp?p=91466,ARX092,http://www.sfc.hk/publicregWeb/indi/ARX092/licenceRecord,,,RO,2018-09-18,
+"Liao, Wei (SFC:AYJ548) 廖薇",None,sfclicrec.asp?p=133416,AYJ548,http://www.sfc.hk/publicregWeb/indi/AYJ548/licenceRecord,,,Rep,2019-03-01,
+"Ng, Sze Hon 伍思瀚",None,sfclicrec.asp?p=2623353,BHX475,http://www.sfc.hk/publicregWeb/indi/BHX475/licenceRecord,,,Rep,2019-08-12,
+"Pun, Chris Man Cheuk 潘文焯",None,sfclicrec.asp?p=122135,APG898,http://www.sfc.hk/publicregWeb/indi/APG898/licenceRecord,,M,Rep,2016-01-05,2017-05-01
+"Wong, Shiu Fung 王韶鋒",None,sfclicrec.asp?p=2482071,BGH768,http://www.sfc.hk/publicregWeb/indi/BGH768/licenceRecord,,,Rep,2015-10-02,
+"Wu, Ronnie Shang Yen 伍尚仁",None,sfclicrec.asp?p=91459,AGC290,http://www.sfc.hk/publicregWeb/indi/AGC290/licenceRecord,,M,RO,2015-01-09,

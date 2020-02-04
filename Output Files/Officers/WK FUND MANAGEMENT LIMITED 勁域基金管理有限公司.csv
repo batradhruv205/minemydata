@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Kei Shu 陳紀樹",sfclicrec.asp?p=82088,,,RO,2019-01-03,
-"Cheng, Ka Ho (SFC:AQU090) 鄭嘉豪",sfclicrec.asp?p=82117,,,Rep,2019-01-07,
-"Cheung, Lik (SFC:AKM452) 張力",sfclicrec.asp?p=81986,,,RO,2018-04-11,
-"Dan, Pauline Kai Yin 但啟賢",sfclicrec.asp?p=99839,,F,RO,2019-03-22,
-"Lee, Hoi Ying 李愷瑩",sfclicrec.asp?p=82238,,,RO,2019-01-03,2019-06-12
-"Yu, Douglas Kim Ho 余劍豪",sfclicrec.asp?p=73129,,M,Rep,2019-02-25,2019-04-30
-"Yu, Douglas Kim Ho 余劍豪",sfclicrec.asp?p=73129,,M,RO,2019-04-30,
-"Yu, Ronald Patrick Lup Man 余立文",sfclicrec.asp?p=121795,49,M,RO,2018-04-11,2018-10-28
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Kei Shu 陳紀樹",None,sfclicrec.asp?p=82088,AOC991,http://www.sfc.hk/publicregWeb/indi/AOC991/licenceRecord,,,RO,2019-01-03,
+"Cheng, Ka Ho (SFC:AQU090) 鄭嘉豪",None,sfclicrec.asp?p=82117,AQU090,http://www.sfc.hk/publicregWeb/indi/AQU090/licenceRecord,,,Rep,2019-01-07,
+"Cheung, Lik (SFC:AKM452) 張力",None,sfclicrec.asp?p=81986,AKM452,http://www.sfc.hk/publicregWeb/indi/AKM452/licenceRecord,,,RO,2018-04-11,
+"Dan, Pauline Kai Yin 但啟賢",None,sfclicrec.asp?p=99839,ADC335,http://www.sfc.hk/publicregWeb/indi/ADC335/licenceRecord,,F,RO,2019-03-22,
+"Lee, Hoi Ying 李愷瑩",None,sfclicrec.asp?p=82238,AOV787,http://www.sfc.hk/publicregWeb/indi/AOV787/licenceRecord,,,RO,2019-01-03,2019-06-12
+"Yu, Douglas Kim Ho 余劍豪",None,sfclicrec.asp?p=73129,ABF198,http://www.sfc.hk/publicregWeb/indi/ABF198/licenceRecord,,M,Rep,2019-02-25,2019-04-30
+"Yu, Douglas Kim Ho 余劍豪",None,sfclicrec.asp?p=73129,ABF198,http://www.sfc.hk/publicregWeb/indi/ABF198/licenceRecord,,M,RO,2019-04-30,
+"Yu, Ronald Patrick Lup Man 余立文",None,sfclicrec.asp?p=121795,APC229,http://www.sfc.hk/publicregWeb/indi/APC229/licenceRecord,49.0,M,RO,2018-04-11,2018-10-28

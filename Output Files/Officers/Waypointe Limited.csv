@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Haley, Theodore Frank ",sfclicrec.asp?p=24063686,,M,RO,2019-12-31,
-"Ho, Yin Ki ",sfclicrec.asp?p=11796704,,,Rep,2017-09-07,
-"Johansen, Stephen Hartfield ",sfclicrec.asp?p=67620,,M,RO,2015-02-11,
-"MacKenzie, Scott David ",sfclicrec.asp?p=2510232,,M,RO,2015-12-07,2019-12-31
-"Yeung, Shu Wa 楊書華",sfclicrec.asp?p=11796705,,,Rep,2017-09-07,
-"Zhao, Jason Mao 趙暘",sfclicrec.asp?p=67621,,M,RO,2015-02-11,2016-08-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Haley, Theodore Frank ",None,sfclicrec.asp?p=24063686,BOZ540,http://www.sfc.hk/publicregWeb/indi/BOZ540/licenceRecord,,M,RO,2019-12-31,
+"Ho, Yin Ki ",None,sfclicrec.asp?p=11796704,BKT703,http://www.sfc.hk/publicregWeb/indi/BKT703/licenceRecord,,,Rep,2017-09-07,
+"Johansen, Stephen Hartfield ",None,sfclicrec.asp?p=67620,APC026,http://www.sfc.hk/publicregWeb/indi/APC026/licenceRecord,,M,RO,2015-02-11,
+"MacKenzie, Scott David ",None,sfclicrec.asp?p=2510232,BGK885,http://www.sfc.hk/publicregWeb/indi/BGK885/licenceRecord,,M,RO,2015-12-07,2019-12-31
+"Yeung, Shu Wa 楊書華",None,sfclicrec.asp?p=11796705,BKT690,http://www.sfc.hk/publicregWeb/indi/BKT690/licenceRecord,,,Rep,2017-09-07,
+"Zhao, Jason Mao 趙暘",None,sfclicrec.asp?p=67621,AUW720,http://www.sfc.hk/publicregWeb/indi/AUW720/licenceRecord,,M,RO,2015-02-11,2016-08-31

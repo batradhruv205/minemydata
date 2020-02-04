@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Ning (SFC:AQX919) 張寧",sfclicrec.asp?p=94509,41,M,RO,2018-09-10,
-"Yu, Kwan Lung 余君龍",sfclicrec.asp?p=82623,,,RO,2018-09-10,2019-11-15
-"Yu, Kwan Lung 余君龍",sfclicrec.asp?p=82623,,,RO,2020-01-16,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Ning (SFC:AQX919) 張寧",None,sfclicrec.asp?p=94509,AQX919,http://www.sfc.hk/publicregWeb/indi/AQX919/licenceRecord,41.0,M,RO,2018-09-10,
+"Yu, Kwan Lung 余君龍",None,sfclicrec.asp?p=82623,AAC706,http://www.sfc.hk/publicregWeb/indi/AAC706/licenceRecord,,,RO,2018-09-10,2019-11-15
+"Yu, Kwan Lung 余君龍",None,sfclicrec.asp?p=82623,AAC706,http://www.sfc.hk/publicregWeb/indi/AAC706/licenceRecord,,,RO,2020-01-16,

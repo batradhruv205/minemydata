@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chanezon, Alain ",sfclicrec.asp?p=126183,,M,RO,2013-07-31,
-"Chu, Cheuk Fung 朱卓風",sfclicrec.asp?p=12763150,,,Rep,2018-02-05,2019-01-31
-"Hinterkoerner, Roland ",sfclicrec.asp?p=2297876,,M,Rep,2016-12-19,
-"Robinot, Benjamin Pierre Jean ",sfclicrec.asp?p=2370780,,M,Rep,2015-01-14,2017-09-29
-"Suntay, Aylin ",sfclicrec.asp?p=12439682,,,Rep,2017-10-30,2018-05-14
-"Wallier, Geoffroy ",sfclicrec.asp?p=2109106,,M,RO,2013-07-31,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chanezon, Alain ",None,sfclicrec.asp?p=126183,ARJ298,http://www.sfc.hk/publicregWeb/indi/ARJ298/licenceRecord,,M,RO,2013-07-31,
+"Chu, Cheuk Fung 朱卓風",None,sfclicrec.asp?p=12763150,BMG556,http://www.sfc.hk/publicregWeb/indi/BMG556/licenceRecord,,,Rep,2018-02-05,2019-01-31
+"Hinterkoerner, Roland ",None,sfclicrec.asp?p=2297876,BBE977,http://www.sfc.hk/publicregWeb/indi/BBE977/licenceRecord,,M,Rep,2016-12-19,
+"Robinot, Benjamin Pierre Jean ",None,sfclicrec.asp?p=2370780,BCC824,http://www.sfc.hk/publicregWeb/indi/BCC824/licenceRecord,,M,Rep,2015-01-14,2017-09-29
+"Suntay, Aylin ",None,sfclicrec.asp?p=12439682,BLI474,http://www.sfc.hk/publicregWeb/indi/BLI474/licenceRecord,,,Rep,2017-10-30,2018-05-14
+"Wallier, Geoffroy ",None,sfclicrec.asp?p=2109106,BBK324,http://www.sfc.hk/publicregWeb/indi/BBK324/licenceRecord,,M,RO,2013-07-31,

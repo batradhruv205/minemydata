@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Jenkyn-Jones, Bruce ",sfclicrec.asp?p=129783,,M,RO,2011-08-23,
-"Li, Hok Kwan 李學群",sfclicrec.asp?p=104235,,,RO,2011-08-23,
-"Liang, Weiyuan 梁維元",sfclicrec.asp?p=22239768,,,Rep,2018-10-05,
-"Yang, Haoyu 楊鎬宇",sfclicrec.asp?p=133597,,,Rep,2011-11-09,2019-05-14
-"Yang, Haoyu 楊鎬宇",sfclicrec.asp?p=133597,,,RO,2019-05-14,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Jenkyn-Jones, Bruce ",None,sfclicrec.asp?p=129783,AVE747,http://www.sfc.hk/publicregWeb/indi/AVE747/licenceRecord,,M,RO,2011-08-23,
+"Li, Hok Kwan 李學群",None,sfclicrec.asp?p=104235,ADV103,http://www.sfc.hk/publicregWeb/indi/ADV103/licenceRecord,,,RO,2011-08-23,
+"Liang, Weiyuan 梁維元",None,sfclicrec.asp?p=22239768,BNF426,http://www.sfc.hk/publicregWeb/indi/BNF426/licenceRecord,,,Rep,2018-10-05,
+"Yang, Haoyu 楊鎬宇",None,sfclicrec.asp?p=133597,AYJ916,http://www.sfc.hk/publicregWeb/indi/AYJ916/licenceRecord,,,Rep,2011-11-09,2019-05-14
+"Yang, Haoyu 楊鎬宇",None,sfclicrec.asp?p=133597,AYJ916,http://www.sfc.hk/publicregWeb/indi/AYJ916/licenceRecord,,,RO,2019-05-14,

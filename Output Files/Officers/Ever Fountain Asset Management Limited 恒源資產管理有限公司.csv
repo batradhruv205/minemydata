@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Kwong Wa 陳光華",sfclicrec.asp?p=2121265,,,Rep,2019-05-27,2019-06-18
-"Chan, Kwong Wa 陳光華",sfclicrec.asp?p=2121265,,,RO,2019-06-18,
-"Cheng, Brian Chi Bun 鄭智斌",sfclicrec.asp?p=100232,,M,RO,2019-02-12,2019-04-01
-"Cheung, Nicholas Shiu Kwong 張紹光",sfclicrec.asp?p=2274502,,M,RO,2019-02-12,2019-06-14
-"Cheung, Wai Kit (SFC:ANY303) 張偉傑",sfclicrec.asp?p=92911,,,Rep,2019-03-07,2019-03-28
-"Cheung, Wai Kit (SFC:ANY303) 張偉傑",sfclicrec.asp?p=92911,,,RO,2019-03-28,
-"Ho, Sheung Man 何尚文",sfclicrec.asp?p=23254514,,,Rep,2019-06-03,
-"Li, Jing (SFC:AMI391) 李婧",sfclicrec.asp?p=93959,,,Rep,2019-03-19,
-"Li, Kit Lan 李潔蘭",sfclicrec.asp?p=1999710,,,Rep,2019-11-04,2019-12-17
-"Tang, Wai Lun 鄧偉倫",sfclicrec.asp?p=12477672,,,Rep,2019-04-17,
-"Wu, Tsung Hsien 吳宗憲",sfclicrec.asp?p=2589641,,,RO,2019-10-14,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Kwong Wa 陳光華",None,sfclicrec.asp?p=2121265,BBR086,http://www.sfc.hk/publicregWeb/indi/BBR086/licenceRecord,,,Rep,2019-05-27,2019-06-18
+"Chan, Kwong Wa 陳光華",None,sfclicrec.asp?p=2121265,BBR086,http://www.sfc.hk/publicregWeb/indi/BBR086/licenceRecord,,,RO,2019-06-18,
+"Cheng, Brian Chi Bun 鄭智斌",None,sfclicrec.asp?p=100232,AGN392,http://www.sfc.hk/publicregWeb/indi/AGN392/licenceRecord,,M,RO,2019-02-12,2019-04-01
+"Cheung, Nicholas Shiu Kwong 張紹光",None,sfclicrec.asp?p=2274502,BDI998,http://www.sfc.hk/publicregWeb/indi/BDI998/licenceRecord,,M,RO,2019-02-12,2019-06-14
+"Cheung, Wai Kit (SFC:ANY303) 張偉傑",None,sfclicrec.asp?p=92911,ANY303,http://www.sfc.hk/publicregWeb/indi/ANY303/licenceRecord,,,Rep,2019-03-07,2019-03-28
+"Cheung, Wai Kit (SFC:ANY303) 張偉傑",None,sfclicrec.asp?p=92911,ANY303,http://www.sfc.hk/publicregWeb/indi/ANY303/licenceRecord,,,RO,2019-03-28,
+"Ho, Sheung Man 何尚文",None,sfclicrec.asp?p=23254514,BOH547,http://www.sfc.hk/publicregWeb/indi/BOH547/licenceRecord,,,Rep,2019-06-03,
+"Li, Jing (SFC:AMI391) 李婧",None,sfclicrec.asp?p=93959,AMI391,http://www.sfc.hk/publicregWeb/indi/AMI391/licenceRecord,,,Rep,2019-03-19,
+"Li, Kit Lan 李潔蘭",None,sfclicrec.asp?p=1999710,BAN027,http://www.sfc.hk/publicregWeb/indi/BAN027/licenceRecord,,,Rep,2019-11-04,2019-12-17
+"Tang, Wai Lun 鄧偉倫",None,sfclicrec.asp?p=12477672,BLJ139,http://www.sfc.hk/publicregWeb/indi/BLJ139/licenceRecord,,,Rep,2019-04-17,
+"Wu, Tsung Hsien 吳宗憲",None,sfclicrec.asp?p=2589641,BHP400,http://www.sfc.hk/publicregWeb/indi/BHP400/licenceRecord,,,RO,2019-10-14,

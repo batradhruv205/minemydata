@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cai, Xiaoping 蔡小平",sfclicrec.asp?p=117240,,,Rep,2005-12-12,2006-06-12
-"Cheng, Jiuzhou 程九洲",sfclicrec.asp?p=2565024,49,M,RO,2016-04-19,
-"Cheng, Patrick Chi Kin 鄭子堅",sfclicrec.asp?p=2692955,52,M,Rep,2014-01-14,2017-04-30
-"Ha, Alan Hang Leung 夏恒良",sfclicrec.asp?p=98406,,M,Rep,2010-12-07,2015-10-03
-"Jiang, Yongjin 姜永進",sfclicrec.asp?p=13065042,,M,Rep,2018-03-23,
-"Kwan, Chi Fai (SFC:AHR683) 關志輝",sfclicrec.asp?p=2291647,,M,RO,2014-07-09,
-"Lau, Don Jin Tin 劉展天",sfclicrec.asp?p=117239,64,M,RO,2005-12-08,2010-02-28
-"Li, Wenzheng 李文峥",sfclicrec.asp?p=2634086,,,Rep,2016-09-19,2017-03-31
-"Liang, Ningguang 梁凝光",sfclicrec.asp?p=935,67,M,RO,2005-12-08,2014-03-07
-"Liao, Ningjun 廖寧君",sfclicrec.asp?p=99179,,M,Rep,2010-11-02,
-"Lin, Deliang 林德良",sfclicrec.asp?p=99180,51,M,Rep,2011-06-16,2012-07-20
-"Lin, Deliang 林德良",sfclicrec.asp?p=99180,51,M,RO,2012-07-20,
-"Liu, Yongjie 劉永杰",sfclicrec.asp?p=99178,63,M,RO,2005-12-08,2016-04-01
-"Ou, Haijing 區海晶",sfclicrec.asp?p=99181,,F,Rep,2005-12-12,2018-09-27
-"Ou, Haijing 區海晶",sfclicrec.asp?p=99181,,F,RO,2018-09-27,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cai, Xiaoping 蔡小平",None,sfclicrec.asp?p=117240,AMP630,http://www.sfc.hk/publicregWeb/indi/AMP630/licenceRecord,,,Rep,2005-12-12,2006-06-12
+"Cheng, Jiuzhou 程九洲",None,sfclicrec.asp?p=2565024,APO975,http://www.sfc.hk/publicregWeb/indi/APO975/licenceRecord,49.0,M,RO,2016-04-19,
+"Cheng, Patrick Chi Kin 鄭子堅",None,sfclicrec.asp?p=2692955,AZL565,http://www.sfc.hk/publicregWeb/indi/AZL565/licenceRecord,52.0,M,Rep,2014-01-14,2017-04-30
+"Ha, Alan Hang Leung 夏恒良",None,sfclicrec.asp?p=98406,AAK663,http://www.sfc.hk/publicregWeb/indi/AAK663/licenceRecord,,M,Rep,2010-12-07,2015-10-03
+"Jiang, Yongjin 姜永進",None,sfclicrec.asp?p=13065042,BLW086,http://www.sfc.hk/publicregWeb/indi/BLW086/licenceRecord,,M,Rep,2018-03-23,
+"Kwan, Chi Fai (SFC:AHR683) 關志輝",None,sfclicrec.asp?p=2291647,AHR683,http://www.sfc.hk/publicregWeb/indi/AHR683/licenceRecord,,M,RO,2014-07-09,
+"Lau, Don Jin Tin 劉展天",None,sfclicrec.asp?p=117239,AMP629,http://www.sfc.hk/publicregWeb/indi/AMP629/licenceRecord,64.0,M,RO,2005-12-08,2010-02-28
+"Li, Wenzheng 李文峥",None,sfclicrec.asp?p=2634086,BIC793,http://www.sfc.hk/publicregWeb/indi/BIC793/licenceRecord,,,Rep,2016-09-19,2017-03-31
+"Liang, Ningguang 梁凝光",None,sfclicrec.asp?p=935,AAY692,http://www.sfc.hk/publicregWeb/indi/AAY692/licenceRecord,67.0,M,RO,2005-12-08,2014-03-07
+"Liao, Ningjun 廖寧君",None,sfclicrec.asp?p=99179,AGD668,http://www.sfc.hk/publicregWeb/indi/AGD668/licenceRecord,,M,Rep,2010-11-02,
+"Lin, Deliang 林德良",None,sfclicrec.asp?p=99180,AUG692,http://www.sfc.hk/publicregWeb/indi/AUG692/licenceRecord,51.0,M,Rep,2011-06-16,2012-07-20
+"Lin, Deliang 林德良",None,sfclicrec.asp?p=99180,AUG692,http://www.sfc.hk/publicregWeb/indi/AUG692/licenceRecord,51.0,M,RO,2012-07-20,
+"Liu, Yongjie 劉永杰",None,sfclicrec.asp?p=99178,AMP628,http://www.sfc.hk/publicregWeb/indi/AMP628/licenceRecord,63.0,M,RO,2005-12-08,2016-04-01
+"Ou, Haijing 區海晶",None,sfclicrec.asp?p=99181,AJE160,http://www.sfc.hk/publicregWeb/indi/AJE160/licenceRecord,,F,Rep,2005-12-12,2018-09-27
+"Ou, Haijing 區海晶",None,sfclicrec.asp?p=99181,AJE160,http://www.sfc.hk/publicregWeb/indi/AJE160/licenceRecord,,F,RO,2018-09-27,

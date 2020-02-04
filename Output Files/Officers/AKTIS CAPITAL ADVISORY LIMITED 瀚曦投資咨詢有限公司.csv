@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chiu, Robert Yin 趙宗彥",sfclicrec.asp?p=2611083,,M,Rep,2016-07-26,2018-04-01
-"Gohil, Anand (SFC:BGK326) ",sfclicrec.asp?p=2496999,,,Rep,2015-11-09,
-"Hoe, David Wei Yen 何威遠",sfclicrec.asp?p=103243,,M,RO,2003-11-29,2010-11-15
-"Khoo, Hock Huat 邱福發",sfclicrec.asp?p=105199,,,Rep,2004-01-28,2006-12-22
-"Khoo, Hock Huat 邱福發",sfclicrec.asp?p=105199,,,RO,2006-12-22,2012-01-01
-"Kim, Moon Soo 金文洙",sfclicrec.asp?p=103676,,,Rep,2013-09-30,2016-11-17
-"Kinouchi, Tomohito ",sfclicrec.asp?p=127877,,,Rep,2010-05-18,
-"Lee, How Chih 李厚志",sfclicrec.asp?p=112673,,,Rep,2011-12-30,2012-10-04
-"Lee, How Chih 李厚志",sfclicrec.asp?p=112673,,,Rep,2013-07-30,2017-09-22
-"Li, Wai Lum 李偉霖",sfclicrec.asp?p=130112,,,RO,2011-02-07,
-"Lung, Shun-Heng Danny 龍順衡",sfclicrec.asp?p=130574,,,Rep,2011-02-08,
-"Mukaibo, Hiroyuki 向坊洋之",sfclicrec.asp?p=113455,,M,RO,2008-06-03,
-"Shima, Rikio 志摩力男",sfclicrec.asp?p=131300,,,Rep,2011-06-23,2011-10-13
-"Yao, Jiang 姚疆",sfclicrec.asp?p=128935,,,Rep,2011-02-22,2013-03-31
-"Yee, Danny Ong 鄧若舟",sfclicrec.asp?p=102389,,,RO,2003-11-29,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chiu, Robert Yin 趙宗彥",None,sfclicrec.asp?p=2611083,ACV216,http://www.sfc.hk/publicregWeb/indi/ACV216/licenceRecord,,M,Rep,2016-07-26,2018-04-01
+"Gohil, Anand (SFC:BGK326) ",None,sfclicrec.asp?p=2496999,BGK326,http://www.sfc.hk/publicregWeb/indi/BGK326/licenceRecord,,,Rep,2015-11-09,
+"Hoe, David Wei Yen 何威遠",None,sfclicrec.asp?p=103243,ACR567,http://www.sfc.hk/publicregWeb/indi/ACR567/licenceRecord,,M,RO,2003-11-29,2010-11-15
+"Khoo, Hock Huat 邱福發",None,sfclicrec.asp?p=105199,AEP796,http://www.sfc.hk/publicregWeb/indi/AEP796/licenceRecord,,,Rep,2004-01-28,2006-12-22
+"Khoo, Hock Huat 邱福發",None,sfclicrec.asp?p=105199,AEP796,http://www.sfc.hk/publicregWeb/indi/AEP796/licenceRecord,,,RO,2006-12-22,2012-01-01
+"Kim, Moon Soo 金文洙",None,sfclicrec.asp?p=103676,ADF372,http://www.sfc.hk/publicregWeb/indi/ADF372/licenceRecord,,,Rep,2013-09-30,2016-11-17
+"Kinouchi, Tomohito ",None,sfclicrec.asp?p=127877,ASU536,http://www.sfc.hk/publicregWeb/indi/ASU536/licenceRecord,,,Rep,2010-05-18,
+"Lee, How Chih 李厚志",None,sfclicrec.asp?p=112673,AIZ906,http://www.sfc.hk/publicregWeb/indi/AIZ906/licenceRecord,,,Rep,2011-12-30,2012-10-04
+"Lee, How Chih 李厚志",None,sfclicrec.asp?p=112673,AIZ906,http://www.sfc.hk/publicregWeb/indi/AIZ906/licenceRecord,,,Rep,2013-07-30,2017-09-22
+"Li, Wai Lum 李偉霖",None,sfclicrec.asp?p=130112,AVP920,http://www.sfc.hk/publicregWeb/indi/AVP920/licenceRecord,,,RO,2011-02-07,
+"Lung, Shun-Heng Danny 龍順衡",None,sfclicrec.asp?p=130574,AWI772,http://www.sfc.hk/publicregWeb/indi/AWI772/licenceRecord,,,Rep,2011-02-08,
+"Mukaibo, Hiroyuki 向坊洋之",None,sfclicrec.asp?p=113455,AJL570,http://www.sfc.hk/publicregWeb/indi/AJL570/licenceRecord,,M,RO,2008-06-03,
+"Shima, Rikio 志摩力男",None,sfclicrec.asp?p=131300,AXI362,http://www.sfc.hk/publicregWeb/indi/AXI362/licenceRecord,,,Rep,2011-06-23,2011-10-13
+"Yao, Jiang 姚疆",None,sfclicrec.asp?p=128935,AUD162,http://www.sfc.hk/publicregWeb/indi/AUD162/licenceRecord,,,Rep,2011-02-22,2013-03-31
+"Yee, Danny Ong 鄧若舟",None,sfclicrec.asp?p=102389,ABW440,http://www.sfc.hk/publicregWeb/indi/ABW440/licenceRecord,,,RO,2003-11-29,

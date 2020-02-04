@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chung, Seun Jing ",sfclicrec.asp?p=11796706,,,Rep,2017-09-07,
-"Hsieh, Jenny Yee-Sun 謝宜珊",sfclicrec.asp?p=132953,,F,RO,2015-06-26,2018-03-09
-"Hsieh, Jenny Yee-Sun 謝宜珊",sfclicrec.asp?p=132953,,F,Rep,2018-03-09,2018-09-13
-"Hu, Wentao 胡文濤",sfclicrec.asp?p=2175047,,,Rep,2015-09-25,2018-02-12
-"Tsuchida, Mariko 土田真理子",sfclicrec.asp?p=11791434,,,RO,2018-02-26,
-"Wan, Yuet Wei 尹月慧",sfclicrec.asp?p=1978554,,,RO,2015-06-26,
-"Wong, Tsz Hung 黃梓熊",sfclicrec.asp?p=2194500,,,Rep,2018-03-01,2018-10-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chung, Seun Jing ",None,sfclicrec.asp?p=11796706,BKV413,http://www.sfc.hk/publicregWeb/indi/BKV413/licenceRecord,,,Rep,2017-09-07,
+"Hsieh, Jenny Yee-Sun 謝宜珊",None,sfclicrec.asp?p=132953,ADK141,http://www.sfc.hk/publicregWeb/indi/ADK141/licenceRecord,,F,RO,2015-06-26,2018-03-09
+"Hsieh, Jenny Yee-Sun 謝宜珊",None,sfclicrec.asp?p=132953,ADK141,http://www.sfc.hk/publicregWeb/indi/ADK141/licenceRecord,,F,Rep,2018-03-09,2018-09-13
+"Hu, Wentao 胡文濤",None,sfclicrec.asp?p=2175047,BCK317,http://www.sfc.hk/publicregWeb/indi/BCK317/licenceRecord,,,Rep,2015-09-25,2018-02-12
+"Tsuchida, Mariko 土田真理子",None,sfclicrec.asp?p=11791434,BKE006,http://www.sfc.hk/publicregWeb/indi/BKE006/licenceRecord,,,RO,2018-02-26,
+"Wan, Yuet Wei 尹月慧",None,sfclicrec.asp?p=1978554,AEZ763,http://www.sfc.hk/publicregWeb/indi/AEZ763/licenceRecord,,,RO,2015-06-26,
+"Wong, Tsz Hung 黃梓熊",None,sfclicrec.asp?p=2194500,BCS712,http://www.sfc.hk/publicregWeb/indi/BCS712/licenceRecord,,,Rep,2018-03-01,2018-10-31

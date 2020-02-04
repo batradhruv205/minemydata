@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cao, Jian (SFC:AFW636) 曹劍",sfclicrec.asp?p=2360420,,,Rep,2014-12-17,2019-04-30
-"Chen, Yanqing 陳燕青",sfclicrec.asp?p=2675373,,,Rep,2018-06-22,
-"Chen, Zhilan 陳芝蘭",sfclicrec.asp?p=74021,,,RO,2014-07-17,
-"Ching, Tony Kam Fung 程錦豐",sfclicrec.asp?p=73284,,M,RO,2015-03-20,2015-11-30
-"Dong, Liang (SFC:ATS187) ",sfclicrec.asp?p=74022,,,Rep,2018-04-03,2019-12-31
-"Hui, Luk Shing 許祿成",sfclicrec.asp?p=2504123,,,Rep,2015-11-24,2016-03-31
-"Kwok, Wing Hon 郭詠詗",sfclicrec.asp?p=6722485,,,Rep,2017-04-06,2017-10-07
-"Lau, La 劉娜",sfclicrec.asp?p=2433678,,,Rep,2015-06-11,2017-04-30
-"Liu, Xinshu 劉馨書",sfclicrec.asp?p=6722486,,,Rep,2017-04-06,
-"Man, Hon Sang 文瀚生",sfclicrec.asp?p=6722487,,,Rep,2017-04-06,
-"Wang, Lai 王來",sfclicrec.asp?p=1981924,,,Rep,2015-11-24,
-"Yiu, Ming Yee 姚明義",sfclicrec.asp?p=78615,,,RO,2014-07-17,2015-03-31
-"Yiu, Ming Yee 姚明義",sfclicrec.asp?p=78615,,,RO,2015-11-06,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cao, Jian (SFC:AFW636) 曹劍",None,sfclicrec.asp?p=2360420,AFW636,http://www.sfc.hk/publicregWeb/indi/AFW636/licenceRecord,,,Rep,2014-12-17,2019-04-30
+"Chen, Yanqing 陳燕青",None,sfclicrec.asp?p=2675373,BIO886,http://www.sfc.hk/publicregWeb/indi/BIO886/licenceRecord,,,Rep,2018-06-22,
+"Chen, Zhilan 陳芝蘭",None,sfclicrec.asp?p=74021,AGN340,http://www.sfc.hk/publicregWeb/indi/AGN340/licenceRecord,,,RO,2014-07-17,
+"Ching, Tony Kam Fung 程錦豐",None,sfclicrec.asp?p=73284,ALP482,http://www.sfc.hk/publicregWeb/indi/ALP482/licenceRecord,,M,RO,2015-03-20,2015-11-30
+"Dong, Liang (SFC:ATS187) ",None,sfclicrec.asp?p=74022,ATS187,http://www.sfc.hk/publicregWeb/indi/ATS187/licenceRecord,,,Rep,2018-04-03,2019-12-31
+"Hui, Luk Shing 許祿成",None,sfclicrec.asp?p=2504123,BGL182,http://www.sfc.hk/publicregWeb/indi/BGL182/licenceRecord,,,Rep,2015-11-24,2016-03-31
+"Kwok, Wing Hon 郭詠詗",None,sfclicrec.asp?p=6722485,BJG633,http://www.sfc.hk/publicregWeb/indi/BJG633/licenceRecord,,,Rep,2017-04-06,2017-10-07
+"Lau, La 劉娜",None,sfclicrec.asp?p=2433678,BFK951,http://www.sfc.hk/publicregWeb/indi/BFK951/licenceRecord,,,Rep,2015-06-11,2017-04-30
+"Liu, Xinshu 劉馨書",None,sfclicrec.asp?p=6722486,BJG634,http://www.sfc.hk/publicregWeb/indi/BJG634/licenceRecord,,,Rep,2017-04-06,
+"Man, Hon Sang 文瀚生",None,sfclicrec.asp?p=6722487,BJG630,http://www.sfc.hk/publicregWeb/indi/BJG630/licenceRecord,,,Rep,2017-04-06,
+"Wang, Lai 王來",None,sfclicrec.asp?p=1981924,BAL857,http://www.sfc.hk/publicregWeb/indi/BAL857/licenceRecord,,,Rep,2015-11-24,
+"Yiu, Ming Yee 姚明義",None,sfclicrec.asp?p=78615,ACS672,http://www.sfc.hk/publicregWeb/indi/ACS672/licenceRecord,,,RO,2014-07-17,2015-03-31
+"Yiu, Ming Yee 姚明義",None,sfclicrec.asp?p=78615,ACS672,http://www.sfc.hk/publicregWeb/indi/ACS672/licenceRecord,,,RO,2015-11-06,

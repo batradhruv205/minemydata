@@ -1,18 +1,18 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Alex Ricardo ",sfclicrec.asp?p=2307578,,,Rep,2016-02-15,2017-01-27
-"Cheung, Anna Yi Shan 張儀珊",sfclicrec.asp?p=11669879,,F,Rep,2017-06-28,2019-07-05
-"Cheung, Nicholas Shiu Kwong 張紹光",sfclicrec.asp?p=2274502,,M,Rep,2019-08-22,2019-08-23
-"Cheung, Nicholas Shiu Kwong 張紹光",sfclicrec.asp?p=2274502,,M,RO,2019-08-23,
-"He, Chengzhang 何承璋",sfclicrec.asp?p=2335983,,,RO,2015-11-25,
-"Ho, Amanda Jean 何倩",sfclicrec.asp?p=2323795,,F,Rep,2016-03-08,2016-09-15
-"Hu, Shengsui 胡盛穗",sfclicrec.asp?p=2504771,,,RO,2015-11-25,2018-06-15
-"Hung, Wai Lun 洪偉倫",sfclicrec.asp?p=11669880,,,Rep,2017-06-28,
-"Lai, Ming Fung 黎銘豐",sfclicrec.asp?p=108485,,,Rep,2018-08-23,2018-09-04
-"Lai, Ming Fung 黎銘豐",sfclicrec.asp?p=108485,,,RO,2018-09-04,2018-11-08
-"Li, Xiaoming (SFC:BHV183) 李小明",sfclicrec.asp?p=2620210,,,Rep,2016-08-16,2018-11-30
-"Lu, Yu (SFC:BBE946) 魯宇",sfclicrec.asp?p=2070549,,,Rep,2017-11-08,2018-04-30
-"Lu, Yu (SFC:BBE946) 魯宇",sfclicrec.asp?p=2070549,,,RO,2018-04-30,2019-07-26
-"Siu, Tan Sum 蕭丹心",sfclicrec.asp?p=17014724,,,Rep,2018-06-08,2019-03-01
-"Wu, Yihuang 吳奕皝",sfclicrec.asp?p=2633440,,,Rep,2016-09-15,2017-11-27
-"Yang, Degao 楊德高",sfclicrec.asp?p=2504772,,,RO,2015-11-25,2016-03-29
-"Zheng, Bao 鄭寶",sfclicrec.asp?p=1975272,,,Rep,2016-01-14,2017-09-29
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Alex Ricardo ",None,sfclicrec.asp?p=2307578,BEA302,http://www.sfc.hk/publicregWeb/indi/BEA302/licenceRecord,,,Rep,2016-02-15,2017-01-27
+"Cheung, Anna Yi Shan 張儀珊",None,sfclicrec.asp?p=11669879,BJQ379,http://www.sfc.hk/publicregWeb/indi/BJQ379/licenceRecord,,F,Rep,2017-06-28,2019-07-05
+"Cheung, Nicholas Shiu Kwong 張紹光",None,sfclicrec.asp?p=2274502,BDI998,http://www.sfc.hk/publicregWeb/indi/BDI998/licenceRecord,,M,Rep,2019-08-22,2019-08-23
+"Cheung, Nicholas Shiu Kwong 張紹光",None,sfclicrec.asp?p=2274502,BDI998,http://www.sfc.hk/publicregWeb/indi/BDI998/licenceRecord,,M,RO,2019-08-23,
+"He, Chengzhang 何承璋",None,sfclicrec.asp?p=2335983,BDW580,http://www.sfc.hk/publicregWeb/indi/BDW580/licenceRecord,,,RO,2015-11-25,
+"Ho, Amanda Jean 何倩",None,sfclicrec.asp?p=2323795,BEE960,http://www.sfc.hk/publicregWeb/indi/BEE960/licenceRecord,,F,Rep,2016-03-08,2016-09-15
+"Hu, Shengsui 胡盛穗",None,sfclicrec.asp?p=2504771,BFX964,http://www.sfc.hk/publicregWeb/indi/BFX964/licenceRecord,,,RO,2015-11-25,2018-06-15
+"Hung, Wai Lun 洪偉倫",None,sfclicrec.asp?p=11669880,BJQ369,http://www.sfc.hk/publicregWeb/indi/BJQ369/licenceRecord,,,Rep,2017-06-28,
+"Lai, Ming Fung 黎銘豐",None,sfclicrec.asp?p=108485,AGC971,http://www.sfc.hk/publicregWeb/indi/AGC971/licenceRecord,,,Rep,2018-08-23,2018-09-04
+"Lai, Ming Fung 黎銘豐",None,sfclicrec.asp?p=108485,AGC971,http://www.sfc.hk/publicregWeb/indi/AGC971/licenceRecord,,,RO,2018-09-04,2018-11-08
+"Li, Xiaoming (SFC:BHV183) 李小明",None,sfclicrec.asp?p=2620210,BHV183,http://www.sfc.hk/publicregWeb/indi/BHV183/licenceRecord,,,Rep,2016-08-16,2018-11-30
+"Lu, Yu (SFC:BBE946) 魯宇",None,sfclicrec.asp?p=2070549,BBE946,http://www.sfc.hk/publicregWeb/indi/BBE946/licenceRecord,,,Rep,2017-11-08,2018-04-30
+"Lu, Yu (SFC:BBE946) 魯宇",None,sfclicrec.asp?p=2070549,BBE946,http://www.sfc.hk/publicregWeb/indi/BBE946/licenceRecord,,,RO,2018-04-30,2019-07-26
+"Siu, Tan Sum 蕭丹心",None,sfclicrec.asp?p=17014724,BMV843,http://www.sfc.hk/publicregWeb/indi/BMV843/licenceRecord,,,Rep,2018-06-08,2019-03-01
+"Wu, Yihuang 吳奕皝",None,sfclicrec.asp?p=2633440,BHZ696,http://www.sfc.hk/publicregWeb/indi/BHZ696/licenceRecord,,,Rep,2016-09-15,2017-11-27
+"Yang, Degao 楊德高",None,sfclicrec.asp?p=2504772,BFX963,http://www.sfc.hk/publicregWeb/indi/BFX963/licenceRecord,,,RO,2015-11-25,2016-03-29
+"Zheng, Bao 鄭寶",None,sfclicrec.asp?p=1975272,BAK873,http://www.sfc.hk/publicregWeb/indi/BAK873/licenceRecord,,,Rep,2016-01-14,2017-09-29

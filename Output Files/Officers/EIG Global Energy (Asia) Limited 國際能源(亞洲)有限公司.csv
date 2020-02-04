@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chung, Rex Richard Kyuchang ",sfclicrec.asp?p=66375,,M,Rep,2016-04-05,2016-11-04
-"Chung, Rex Richard Kyuchang ",sfclicrec.asp?p=66375,,M,RO,2016-11-04,2019-06-30
-"Lee, Hyun Woo (SFC:ANH636) ",sfclicrec.asp?p=118394,,,RO,2020-01-16,
-"Liu, Yangyang 劉揚揚",sfclicrec.asp?p=106335,,,Rep,2014-12-10,2017-02-16
-"Liu, Yangyang 劉揚揚",sfclicrec.asp?p=106335,,,RO,2017-02-16,
-"Phua, Jia Ning 潘家寧",sfclicrec.asp?p=1866273,,,Rep,2015-03-09,
-"Schultz, Tony James ",sfclicrec.asp?p=22426138,,M,RO,2012-02-08,2013-03-27
-"Suo, Suo Stephen 索索",sfclicrec.asp?p=2349846,,,RO,2012-02-08,2014-06-26
-"Thierbach, William Robert ",sfclicrec.asp?p=2350393,,M,RO,2012-02-08,
-"Thomas, Robert Blair ",sfclicrec.asp?p=2350394,,M,RO,2012-02-08,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chung, Rex Richard Kyuchang ",None,sfclicrec.asp?p=66375,AEI990,http://www.sfc.hk/publicregWeb/indi/AEI990/licenceRecord,,M,Rep,2016-04-05,2016-11-04
+"Chung, Rex Richard Kyuchang ",None,sfclicrec.asp?p=66375,AEI990,http://www.sfc.hk/publicregWeb/indi/AEI990/licenceRecord,,M,RO,2016-11-04,2019-06-30
+"Lee, Hyun Woo (SFC:ANH636) ",None,sfclicrec.asp?p=118394,ANH636,http://www.sfc.hk/publicregWeb/indi/ANH636/licenceRecord,,,RO,2020-01-16,
+"Liu, Yangyang 劉揚揚",None,sfclicrec.asp?p=106335,AFK697,http://www.sfc.hk/publicregWeb/indi/AFK697/licenceRecord,,,Rep,2014-12-10,2017-02-16
+"Liu, Yangyang 劉揚揚",None,sfclicrec.asp?p=106335,AFK697,http://www.sfc.hk/publicregWeb/indi/AFK697/licenceRecord,,,RO,2017-02-16,
+"Phua, Jia Ning 潘家寧",None,sfclicrec.asp?p=1866273,AZC814,http://www.sfc.hk/publicregWeb/indi/AZC814/licenceRecord,,,Rep,2015-03-09,
+"Schultz, Tony James ",None,sfclicrec.asp?p=22426138,AYV369,http://www.sfc.hk/publicregWeb/indi/AYV369/licenceRecord,,M,RO,2012-02-08,2013-03-27
+"Suo, Suo Stephen 索索",None,sfclicrec.asp?p=2349846,AYV371,http://www.sfc.hk/publicregWeb/indi/AYV371/licenceRecord,,,RO,2012-02-08,2014-06-26
+"Thierbach, William Robert ",None,sfclicrec.asp?p=2350393,AYV370,http://www.sfc.hk/publicregWeb/indi/AYV370/licenceRecord,,M,RO,2012-02-08,
+"Thomas, Robert Blair ",None,sfclicrec.asp?p=2350394,AYV368,http://www.sfc.hk/publicregWeb/indi/AYV368/licenceRecord,,M,RO,2012-02-08,

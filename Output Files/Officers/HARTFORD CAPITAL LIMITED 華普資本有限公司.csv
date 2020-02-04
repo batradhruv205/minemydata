@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Guoxi 陳国喜",sfclicrec.asp?p=96799,,,Rep,2019-12-19,
-"Lu, Gang (SFC:BMJ407) 盧崗",sfclicrec.asp?p=24041132,,,RO,2018-12-04,
-"Wen, Yuxiang 文宇翔",sfclicrec.asp?p=24041134,,,Rep,2019-07-02,
-"Wu, Weimin (SFC:AZK393) 吳偉敏",sfclicrec.asp?p=1888475,,,Rep,2020-01-15,
-"Zhou, Hongbo (SFC:BMK921) 周鴻博",sfclicrec.asp?p=24041133,,,RO,2018-12-04,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Guoxi 陳国喜",None,sfclicrec.asp?p=96799,ARG394,http://www.sfc.hk/publicregWeb/indi/ARG394/licenceRecord,,,Rep,2019-12-19,
+"Lu, Gang (SFC:BMJ407) 盧崗",None,sfclicrec.asp?p=24041132,BMJ407,http://www.sfc.hk/publicregWeb/indi/BMJ407/licenceRecord,,,RO,2018-12-04,
+"Wen, Yuxiang 文宇翔",None,sfclicrec.asp?p=24041134,BOF947,http://www.sfc.hk/publicregWeb/indi/BOF947/licenceRecord,,,Rep,2019-07-02,
+"Wu, Weimin (SFC:AZK393) 吳偉敏",None,sfclicrec.asp?p=1888475,AZK393,http://www.sfc.hk/publicregWeb/indi/AZK393/licenceRecord,,,Rep,2020-01-15,
+"Zhou, Hongbo (SFC:BMK921) 周鴻博",None,sfclicrec.asp?p=24041133,BMK921,http://www.sfc.hk/publicregWeb/indi/BMK921/licenceRecord,,,RO,2018-12-04,

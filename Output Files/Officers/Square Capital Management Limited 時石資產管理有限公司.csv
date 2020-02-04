@@ -1,3 +1,3 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Jun (SFC:ASN928) 陳峻",sfclicrec.asp?p=127679,,,RO,2019-07-15,
-"He, Jiayin 何佳音",sfclicrec.asp?p=23430883,,,RO,2019-07-15,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Jun (SFC:ASN928) 陳峻",None,sfclicrec.asp?p=127679,ASN928,http://www.sfc.hk/publicregWeb/indi/ASN928/licenceRecord,,,RO,2019-07-15,
+"He, Jiayin 何佳音",None,sfclicrec.asp?p=23430883,BOC652,http://www.sfc.hk/publicregWeb/indi/BOC652/licenceRecord,,,RO,2019-07-15,

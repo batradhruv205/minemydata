@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bao, Danny Q 包強",sfclicrec.asp?p=77829,,,RO,2014-01-24,
-"Li, Jixiang (SFC:APW452) 李吉祥",sfclicrec.asp?p=123320,,,Rep,2016-10-13,2018-01-24
-"Lu, Yunye 陸昀曄",sfclicrec.asp?p=77987,,,Rep,2016-06-03,2018-01-30
-"Lu, Yunye 陸昀曄",sfclicrec.asp?p=77987,,,RO,2018-01-30,2019-06-28
-"Shen, Yingbing 沈影冰",sfclicrec.asp?p=2200261,,,RO,2014-01-24,2018-09-05
-"Wu, Jianfei (SFC:BAZ794) 吳健飛",sfclicrec.asp?p=2033282,,,Rep,2016-01-26,2016-04-20
-"Wu, Jianfei (SFC:BAZ794) 吳健飛",sfclicrec.asp?p=2033282,,,RO,2016-04-20,2016-09-07
-"Zhu, Ailin 朱璦霖",sfclicrec.asp?p=14328395,,,Rep,2018-04-25,2019-07-04
-"Zhu, Ailin 朱璦霖",sfclicrec.asp?p=14328395,,,RO,2019-07-04,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bao, Danny Q 包強",None,sfclicrec.asp?p=77829,ANR606,http://www.sfc.hk/publicregWeb/indi/ANR606/licenceRecord,,,RO,2014-01-24,
+"Li, Jixiang (SFC:APW452) 李吉祥",None,sfclicrec.asp?p=123320,APW452,http://www.sfc.hk/publicregWeb/indi/APW452/licenceRecord,,,Rep,2016-10-13,2018-01-24
+"Lu, Yunye 陸昀曄",None,sfclicrec.asp?p=77987,AXE227,http://www.sfc.hk/publicregWeb/indi/AXE227/licenceRecord,,,Rep,2016-06-03,2018-01-30
+"Lu, Yunye 陸昀曄",None,sfclicrec.asp?p=77987,AXE227,http://www.sfc.hk/publicregWeb/indi/AXE227/licenceRecord,,,RO,2018-01-30,2019-06-28
+"Shen, Yingbing 沈影冰",None,sfclicrec.asp?p=2200261,BCL484,http://www.sfc.hk/publicregWeb/indi/BCL484/licenceRecord,,,RO,2014-01-24,2018-09-05
+"Wu, Jianfei (SFC:BAZ794) 吳健飛",None,sfclicrec.asp?p=2033282,BAZ794,http://www.sfc.hk/publicregWeb/indi/BAZ794/licenceRecord,,,Rep,2016-01-26,2016-04-20
+"Wu, Jianfei (SFC:BAZ794) 吳健飛",None,sfclicrec.asp?p=2033282,BAZ794,http://www.sfc.hk/publicregWeb/indi/BAZ794/licenceRecord,,,RO,2016-04-20,2016-09-07
+"Zhu, Ailin 朱璦霖",None,sfclicrec.asp?p=14328395,BMR954,http://www.sfc.hk/publicregWeb/indi/BMR954/licenceRecord,,,Rep,2018-04-25,2019-07-04
+"Zhu, Ailin 朱璦霖",None,sfclicrec.asp?p=14328395,BMR954,http://www.sfc.hk/publicregWeb/indi/BMR954/licenceRecord,,,RO,2019-07-04,

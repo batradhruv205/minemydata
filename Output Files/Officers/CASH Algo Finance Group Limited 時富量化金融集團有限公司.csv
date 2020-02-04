@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chak, Cheuk Lun 翟綽麟",sfclicrec.asp?p=22413539,,,Rep,2018-11-09,2019-03-29
-"Cheung, Anthony Wai Ching 張偉清",sfclicrec.asp?p=72116,46,M,Rep,2016-11-10,2017-06-30
-"Fung, Sin Ling 馮善寗",sfclicrec.asp?p=22252424,,,Rep,2018-10-16,2018-12-28
-"Guerrand, Julien Jacques ",sfclicrec.asp?p=2577760,,M,Rep,2017-11-23,2018-08-17
-"Law, Eugene Ka Kin 羅家健",sfclicrec.asp?p=10621,60,M,RO,2016-06-08,2018-06-29
-"Li, Shi Kit 李仕傑",sfclicrec.asp?p=23447373,,,Rep,2019-07-19,
-"Ma, Ka Chun (SFC:BFX093) 馬家俊",sfclicrec.asp?p=2459538,,,RO,2016-06-28,2019-04-30
-"Moisson, Julien Georges Louis ",sfclicrec.asp?p=2483285,,M,Rep,2017-11-14,2018-08-17
-"Ng, Hiu Mung 伍曉夢",sfclicrec.asp?p=2665041,,,Rep,2016-11-28,2019-01-04
-"So, Chun Yin 蘇晉賢",sfclicrec.asp?p=2642586,,,Rep,2016-10-11,2017-07-24
-"Tsai, Ka Man 蔡嘉民",sfclicrec.asp?p=23447374,,,Rep,2019-07-19,
-"Wong, Kam Bun 王錦斌",sfclicrec.asp?p=68990,,,Rep,2019-12-20,2020-01-08
-"Wong, Kam Bun 王錦斌",sfclicrec.asp?p=68990,,,RO,2020-01-08,
-"Wong, Sze Kai (SFC:AXF253) 黃思佳",sfclicrec.asp?p=2142500,,,RO,2016-06-08,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chak, Cheuk Lun 翟綽麟",None,sfclicrec.asp?p=22413539,BNN805,http://www.sfc.hk/publicregWeb/indi/BNN805/licenceRecord,,,Rep,2018-11-09,2019-03-29
+"Cheung, Anthony Wai Ching 張偉清",None,sfclicrec.asp?p=72116,AEC908,http://www.sfc.hk/publicregWeb/indi/AEC908/licenceRecord,46.0,M,Rep,2016-11-10,2017-06-30
+"Fung, Sin Ling 馮善寗",None,sfclicrec.asp?p=22252424,BKT266,http://www.sfc.hk/publicregWeb/indi/BKT266/licenceRecord,,,Rep,2018-10-16,2018-12-28
+"Guerrand, Julien Jacques ",None,sfclicrec.asp?p=2577760,AHX023,http://www.sfc.hk/publicregWeb/indi/AHX023/licenceRecord,,M,Rep,2017-11-23,2018-08-17
+"Law, Eugene Ka Kin 羅家健",None,sfclicrec.asp?p=10621,ABS264,http://www.sfc.hk/publicregWeb/indi/ABS264/licenceRecord,60.0,M,RO,2016-06-08,2018-06-29
+"Li, Shi Kit 李仕傑",None,sfclicrec.asp?p=23447373,BOM504,http://www.sfc.hk/publicregWeb/indi/BOM504/licenceRecord,,,Rep,2019-07-19,
+"Ma, Ka Chun (SFC:BFX093) 馬家俊",None,sfclicrec.asp?p=2459538,BFX093,http://www.sfc.hk/publicregWeb/indi/BFX093/licenceRecord,,,RO,2016-06-28,2019-04-30
+"Moisson, Julien Georges Louis ",None,sfclicrec.asp?p=2483285,BGH604,http://www.sfc.hk/publicregWeb/indi/BGH604/licenceRecord,,M,Rep,2017-11-14,2018-08-17
+"Ng, Hiu Mung 伍曉夢",None,sfclicrec.asp?p=2665041,BIL475,http://www.sfc.hk/publicregWeb/indi/BIL475/licenceRecord,,,Rep,2016-11-28,2019-01-04
+"So, Chun Yin 蘇晉賢",None,sfclicrec.asp?p=2642586,BIC661,http://www.sfc.hk/publicregWeb/indi/BIC661/licenceRecord,,,Rep,2016-10-11,2017-07-24
+"Tsai, Ka Man 蔡嘉民",None,sfclicrec.asp?p=23447374,BOM503,http://www.sfc.hk/publicregWeb/indi/BOM503/licenceRecord,,,Rep,2019-07-19,
+"Wong, Kam Bun 王錦斌",None,sfclicrec.asp?p=68990,AQQ323,http://www.sfc.hk/publicregWeb/indi/AQQ323/licenceRecord,,,Rep,2019-12-20,2020-01-08
+"Wong, Kam Bun 王錦斌",None,sfclicrec.asp?p=68990,AQQ323,http://www.sfc.hk/publicregWeb/indi/AQQ323/licenceRecord,,,RO,2020-01-08,
+"Wong, Sze Kai (SFC:AXF253) 黃思佳",None,sfclicrec.asp?p=2142500,AXF253,http://www.sfc.hk/publicregWeb/indi/AXF253/licenceRecord,,,RO,2016-06-08,

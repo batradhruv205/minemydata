@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Man (SFC:AWL487) 張敏",sfclicrec.asp?p=88809,,,RO,2016-12-15,2017-12-04
-"Chow, Leung Chi 周良智",sfclicrec.asp?p=2458389,,,RO,2017-12-04,2018-09-10
-"Lam, Hay Tak 林喜德",sfclicrec.asp?p=94938,,,Rep,2017-01-26,2018-07-10
-"Lam, Hay Tak 林喜德",sfclicrec.asp?p=94938,,,RO,2018-07-10,
-"Luk, Ka Wai (SFC:BMV708) 陸嘉慧",sfclicrec.asp?p=14736900,,,Rep,2018-05-02,
-"Wong, Peggy Mang 黃萌",sfclicrec.asp?p=112460,,F,RO,2016-12-15,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Man (SFC:AWL487) 張敏",None,sfclicrec.asp?p=88809,AWL487,http://www.sfc.hk/publicregWeb/indi/AWL487/licenceRecord,,,RO,2016-12-15,2017-12-04
+"Chow, Leung Chi 周良智",None,sfclicrec.asp?p=2458389,BFY425,http://www.sfc.hk/publicregWeb/indi/BFY425/licenceRecord,,,RO,2017-12-04,2018-09-10
+"Lam, Hay Tak 林喜德",None,sfclicrec.asp?p=94938,AXE899,http://www.sfc.hk/publicregWeb/indi/AXE899/licenceRecord,,,Rep,2017-01-26,2018-07-10
+"Lam, Hay Tak 林喜德",None,sfclicrec.asp?p=94938,AXE899,http://www.sfc.hk/publicregWeb/indi/AXE899/licenceRecord,,,RO,2018-07-10,
+"Luk, Ka Wai (SFC:BMV708) 陸嘉慧",None,sfclicrec.asp?p=14736900,BMV708,http://www.sfc.hk/publicregWeb/indi/BMV708/licenceRecord,,,Rep,2018-05-02,
+"Wong, Peggy Mang 黃萌",None,sfclicrec.asp?p=112460,AIU173,http://www.sfc.hk/publicregWeb/indi/AIU173/licenceRecord,,F,RO,2016-12-15,

@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Bruce Che Hong 陳禩框",sfclicrec.asp?p=72442,,M,RO,2019-12-17,
-"Chan, Chun Kit (SFC:AVC347) 陳振傑",sfclicrec.asp?p=82080,36,M,RO,2017-09-25,2019-08-29
-"Chan, Ka Kam 陳家淦",sfclicrec.asp?p=2272028,,,Rep,2019-05-17,
-"Lan, Qingwen 藍青文",sfclicrec.asp?p=78866,,,Rep,2019-07-02,2019-07-30
-"Lan, Qingwen 藍青文",sfclicrec.asp?p=78866,,,RO,2019-07-30,2019-08-31
-"Lee, Wai Nam 李偉南",sfclicrec.asp?p=102817,,,Rep,2019-05-06,2019-07-01
-"Luk, Sai Cheong 陸世昌",sfclicrec.asp?p=71606,,,RO,2019-12-19,
-"Ng, Ka Yan (SFC:AJI736) 吳嘉欣",sfclicrec.asp?p=113325,,,Rep,2018-11-29,
-"Shih, Yuen Chi 施婉智",sfclicrec.asp?p=127352,,,RO,2019-10-17,2019-11-15
-"Tai, Kwok Keung 戴國強",sfclicrec.asp?p=100961,,,RO,2017-09-25,2019-05-24
-"Tong, Kin Yip 湯建業",sfclicrec.asp?p=12111562,,,Rep,2017-10-18,2019-05-31
-"Wong, Justin Kai-Wei 王凱緯",sfclicrec.asp?p=2109099,,M,RO,2017-09-25,2018-10-31
-"Yu, Johnson Wai Hong 余維康",sfclicrec.asp?p=1958052,,M,RO,2017-09-25,2019-08-29
-"Yu, Ronald Patrick Lup Man 余立文",sfclicrec.asp?p=121795,49,M,Rep,2019-01-28,2019-03-14
-"Yu, Ronald Patrick Lup Man 余立文",sfclicrec.asp?p=121795,49,M,RO,2019-03-14,2019-12-31
-"Yung, Yee Mei 翁綺微",sfclicrec.asp?p=11791953,,,Rep,2020-01-07,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Bruce Che Hong 陳禩框",None,sfclicrec.asp?p=72442,AKQ590,http://www.sfc.hk/publicregWeb/indi/AKQ590/licenceRecord,,M,RO,2019-12-17,
+"Chan, Chun Kit (SFC:AVC347) 陳振傑",None,sfclicrec.asp?p=82080,AVC347,http://www.sfc.hk/publicregWeb/indi/AVC347/licenceRecord,36.0,M,RO,2017-09-25,2019-08-29
+"Chan, Ka Kam 陳家淦",None,sfclicrec.asp?p=2272028,BDM048,http://www.sfc.hk/publicregWeb/indi/BDM048/licenceRecord,,,Rep,2019-05-17,
+"Lan, Qingwen 藍青文",None,sfclicrec.asp?p=78866,AWW400,http://www.sfc.hk/publicregWeb/indi/AWW400/licenceRecord,,,Rep,2019-07-02,2019-07-30
+"Lan, Qingwen 藍青文",None,sfclicrec.asp?p=78866,AWW400,http://www.sfc.hk/publicregWeb/indi/AWW400/licenceRecord,,,RO,2019-07-30,2019-08-31
+"Lee, Wai Nam 李偉南",None,sfclicrec.asp?p=102817,ACI717,http://www.sfc.hk/publicregWeb/indi/ACI717/licenceRecord,,,Rep,2019-05-06,2019-07-01
+"Luk, Sai Cheong 陸世昌",None,sfclicrec.asp?p=71606,AHX269,http://www.sfc.hk/publicregWeb/indi/AHX269/licenceRecord,,,RO,2019-12-19,
+"Ng, Ka Yan (SFC:AJI736) 吳嘉欣",None,sfclicrec.asp?p=113325,AJI736,http://www.sfc.hk/publicregWeb/indi/AJI736/licenceRecord,,,Rep,2018-11-29,
+"Shih, Yuen Chi 施婉智",None,sfclicrec.asp?p=127352,ASE819,http://www.sfc.hk/publicregWeb/indi/ASE819/licenceRecord,,,RO,2019-10-17,2019-11-15
+"Tai, Kwok Keung 戴國強",None,sfclicrec.asp?p=100961,AAE013,http://www.sfc.hk/publicregWeb/indi/AAE013/licenceRecord,,,RO,2017-09-25,2019-05-24
+"Tong, Kin Yip 湯建業",None,sfclicrec.asp?p=12111562,BLH252,http://www.sfc.hk/publicregWeb/indi/BLH252/licenceRecord,,,Rep,2017-10-18,2019-05-31
+"Wong, Justin Kai-Wei 王凱緯",None,sfclicrec.asp?p=2109099,BBQ435,http://www.sfc.hk/publicregWeb/indi/BBQ435/licenceRecord,,M,RO,2017-09-25,2018-10-31
+"Yu, Johnson Wai Hong 余維康",None,sfclicrec.asp?p=1958052,BAD307,http://www.sfc.hk/publicregWeb/indi/BAD307/licenceRecord,,M,RO,2017-09-25,2019-08-29
+"Yu, Ronald Patrick Lup Man 余立文",None,sfclicrec.asp?p=121795,APC229,http://www.sfc.hk/publicregWeb/indi/APC229/licenceRecord,49.0,M,Rep,2019-01-28,2019-03-14
+"Yu, Ronald Patrick Lup Man 余立文",None,sfclicrec.asp?p=121795,APC229,http://www.sfc.hk/publicregWeb/indi/APC229/licenceRecord,49.0,M,RO,2019-03-14,2019-12-31
+"Yung, Yee Mei 翁綺微",None,sfclicrec.asp?p=11791953,BKA653,http://www.sfc.hk/publicregWeb/indi/BKA653/licenceRecord,,,Rep,2020-01-07,

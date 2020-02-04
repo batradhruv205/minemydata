@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bai, Xiao 白瀟",sfclicrec.asp?p=88686,,,RO,2019-03-26,2019-09-30
-"Lian, Ziqi 練子淇",sfclicrec.asp?p=2174356,,,RO,2019-03-26,
-"Liu, Gang (SFC:BME739) 劉剛",sfclicrec.asp?p=12773600,,,RO,2019-03-26,
-"Wu, Liwen (SFC:BOF361) 吳立雯",sfclicrec.asp?p=23693576,,,Rep,2019-09-23,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bai, Xiao 白瀟",None,sfclicrec.asp?p=88686,AUQ996,http://www.sfc.hk/publicregWeb/indi/AUQ996/licenceRecord,,,RO,2019-03-26,2019-09-30
+"Lian, Ziqi 練子淇",None,sfclicrec.asp?p=2174356,BCK867,http://www.sfc.hk/publicregWeb/indi/BCK867/licenceRecord,,,RO,2019-03-26,
+"Liu, Gang (SFC:BME739) 劉剛",None,sfclicrec.asp?p=12773600,BME739,http://www.sfc.hk/publicregWeb/indi/BME739/licenceRecord,,,RO,2019-03-26,
+"Wu, Liwen (SFC:BOF361) 吳立雯",None,sfclicrec.asp?p=23693576,BOF361,http://www.sfc.hk/publicregWeb/indi/BOF361/licenceRecord,,,Rep,2019-09-23,

@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheuk, Ming Sze 卓明士",sfclicrec.asp?p=130790,,,Rep,2011-02-24,2011-09-02
-"Fung, Kevin Ka Shun 馮嘉信",sfclicrec.asp?p=101736,,M,RO,2009-12-14,
-"Law, Yan Kit 羅仁杰",sfclicrec.asp?p=11782175,,,Rep,2017-07-27,2018-09-05
-"Ng, Uen Yung 吳宛蓉",sfclicrec.asp?p=1964099,,,Rep,2012-10-09,2013-08-28
-"Wu, Fan (SFC:AUW638) 吳凡",sfclicrec.asp?p=129467,,,Rep,2010-04-26,
-"Xie, Lu (SFC:BLK730) 謝璐",sfclicrec.asp?p=12620864,,,Rep,2017-12-05,2019-01-09
-"Yung, Kwai Fong 容桂芳",sfclicrec.asp?p=103869,,,RO,2009-12-14,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheuk, Ming Sze 卓明士",None,sfclicrec.asp?p=130790,AWS748,http://www.sfc.hk/publicregWeb/indi/AWS748/licenceRecord,,,Rep,2011-02-24,2011-09-02
+"Fung, Kevin Ka Shun 馮嘉信",None,sfclicrec.asp?p=101736,AAX840,http://www.sfc.hk/publicregWeb/indi/AAX840/licenceRecord,,M,RO,2009-12-14,
+"Law, Yan Kit 羅仁杰",None,sfclicrec.asp?p=11782175,BJV237,http://www.sfc.hk/publicregWeb/indi/BJV237/licenceRecord,,,Rep,2017-07-27,2018-09-05
+"Ng, Uen Yung 吳宛蓉",None,sfclicrec.asp?p=1964099,BAE423,http://www.sfc.hk/publicregWeb/indi/BAE423/licenceRecord,,,Rep,2012-10-09,2013-08-28
+"Wu, Fan (SFC:AUW638) 吳凡",None,sfclicrec.asp?p=129467,AUW638,http://www.sfc.hk/publicregWeb/indi/AUW638/licenceRecord,,,Rep,2010-04-26,
+"Xie, Lu (SFC:BLK730) 謝璐",None,sfclicrec.asp?p=12620864,BLK730,http://www.sfc.hk/publicregWeb/indi/BLK730/licenceRecord,,,Rep,2017-12-05,2019-01-09
+"Yung, Kwai Fong 容桂芳",None,sfclicrec.asp?p=103869,ADK444,http://www.sfc.hk/publicregWeb/indi/ADK444/licenceRecord,,,RO,2009-12-14,

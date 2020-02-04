@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Coatham, Samuel Martyn ",sfclicrec.asp?p=67810,,M,Rep,2015-05-04,2015-08-19
-"Coatham, Samuel Martyn ",sfclicrec.asp?p=67810,,M,RO,2015-08-19,2016-10-11
-"Favre, Robin Georges Flavien ",sfclicrec.asp?p=118871,,M,Rep,2015-09-01,2018-03-31
-"Lau, Hynn Mann Mandy 劉軒文",sfclicrec.asp?p=2617037,,,Rep,2016-08-09,2018-04-20
-"Leung, Jonathon Ching 梁靖",sfclicrec.asp?p=2406081,,,Rep,2015-04-14,
-"Lu, Yu (SFC:BBE946) 魯宇",sfclicrec.asp?p=2070549,,,Rep,2013-05-20,2013-09-30
-"Shou, Qi 寿祺",sfclicrec.asp?p=1913764,,,RO,2012-01-20,
-"Tan, Kai (SFC:BFC674) 譚開",sfclicrec.asp?p=2406082,,,Rep,2015-04-14,2017-03-17
-"Tostee, Michael Robert (SFC:AXR791) ",sfclicrec.asp?p=22442655,,M,RO,2011-10-07,2012-04-30
-"Wang, Barbara Shiuan 王瑄",sfclicrec.asp?p=103207,,F,Rep,2012-06-20,2012-07-27
-"Wang, Ruojun 王若珺",sfclicrec.asp?p=22643668,,,Rep,2019-01-14,
-"Warren, Clifford Young ",sfclicrec.asp?p=1913765,,M,RO,2011-10-07,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Coatham, Samuel Martyn ",None,sfclicrec.asp?p=67810,APU459,http://www.sfc.hk/publicregWeb/indi/APU459/licenceRecord,,M,Rep,2015-05-04,2015-08-19
+"Coatham, Samuel Martyn ",None,sfclicrec.asp?p=67810,APU459,http://www.sfc.hk/publicregWeb/indi/APU459/licenceRecord,,M,RO,2015-08-19,2016-10-11
+"Favre, Robin Georges Flavien ",None,sfclicrec.asp?p=118871,ANP295,http://www.sfc.hk/publicregWeb/indi/ANP295/licenceRecord,,M,Rep,2015-09-01,2018-03-31
+"Lau, Hynn Mann Mandy 劉軒文",None,sfclicrec.asp?p=2617037,BHY639,http://www.sfc.hk/publicregWeb/indi/BHY639/licenceRecord,,,Rep,2016-08-09,2018-04-20
+"Leung, Jonathon Ching 梁靖",None,sfclicrec.asp?p=2406081,BFC672,http://www.sfc.hk/publicregWeb/indi/BFC672/licenceRecord,,,Rep,2015-04-14,
+"Lu, Yu (SFC:BBE946) 魯宇",None,sfclicrec.asp?p=2070549,BBE946,http://www.sfc.hk/publicregWeb/indi/BBE946/licenceRecord,,,Rep,2013-05-20,2013-09-30
+"Shou, Qi 寿祺",None,sfclicrec.asp?p=1913764,AYP102,http://www.sfc.hk/publicregWeb/indi/AYP102/licenceRecord,,,RO,2012-01-20,
+"Tan, Kai (SFC:BFC674) 譚開",None,sfclicrec.asp?p=2406082,BFC674,http://www.sfc.hk/publicregWeb/indi/BFC674/licenceRecord,,,Rep,2015-04-14,2017-03-17
+"Tostee, Michael Robert (SFC:AXR791) ",None,sfclicrec.asp?p=22442655,AXR791,http://www.sfc.hk/publicregWeb/indi/AXR791/licenceRecord,,M,RO,2011-10-07,2012-04-30
+"Wang, Barbara Shiuan 王瑄",None,sfclicrec.asp?p=103207,ACQ543,http://www.sfc.hk/publicregWeb/indi/ACQ543/licenceRecord,,F,Rep,2012-06-20,2012-07-27
+"Wang, Ruojun 王若珺",None,sfclicrec.asp?p=22643668,BNU420,http://www.sfc.hk/publicregWeb/indi/BNU420/licenceRecord,,,Rep,2019-01-14,
+"Warren, Clifford Young ",None,sfclicrec.asp?p=1913765,AXR784,http://www.sfc.hk/publicregWeb/indi/AXR784/licenceRecord,,M,RO,2011-10-07,

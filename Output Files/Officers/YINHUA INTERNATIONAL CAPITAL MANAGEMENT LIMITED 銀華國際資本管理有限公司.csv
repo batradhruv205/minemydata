@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Kai Tik 陳啟廸",sfclicrec.asp?p=2508890,,,Rep,2015-12-03,
-"Chen, Yue (SFC:AOD435) 陳悅",sfclicrec.asp?p=120034,,,RO,2014-10-24,
-"Guan, Zhiyun 關志云",sfclicrec.asp?p=2531557,,,Rep,2016-01-26,
-"Le, Yutao 乐育涛",sfclicrec.asp?p=2336717,,,RO,2014-10-24,
-"Wang, Jinglin 王靜凜",sfclicrec.asp?p=108480,,,Rep,2015-07-06,2017-06-26
-"Wang, Jinglin 王靜凜",sfclicrec.asp?p=108480,,,RO,2017-06-26,
-"Wang, Yong (SFC:BHU901) 王勇",sfclicrec.asp?p=11668850,,,RO,2017-06-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Kai Tik 陳啟廸",None,sfclicrec.asp?p=2508890,BGK735,http://www.sfc.hk/publicregWeb/indi/BGK735/licenceRecord,,,Rep,2015-12-03,
+"Chen, Yue (SFC:AOD435) 陳悅",None,sfclicrec.asp?p=120034,AOD435,http://www.sfc.hk/publicregWeb/indi/AOD435/licenceRecord,,,RO,2014-10-24,
+"Guan, Zhiyun 關志云",None,sfclicrec.asp?p=2531557,BGM901,http://www.sfc.hk/publicregWeb/indi/BGM901/licenceRecord,,,Rep,2016-01-26,
+"Le, Yutao 乐育涛",None,sfclicrec.asp?p=2336717,BDO620,http://www.sfc.hk/publicregWeb/indi/BDO620/licenceRecord,,,RO,2014-10-24,
+"Wang, Jinglin 王靜凜",None,sfclicrec.asp?p=108480,AGC942,http://www.sfc.hk/publicregWeb/indi/AGC942/licenceRecord,,,Rep,2015-07-06,2017-06-26
+"Wang, Jinglin 王靜凜",None,sfclicrec.asp?p=108480,AGC942,http://www.sfc.hk/publicregWeb/indi/AGC942/licenceRecord,,,RO,2017-06-26,
+"Wang, Yong (SFC:BHU901) 王勇",None,sfclicrec.asp?p=11668850,BHU901,http://www.sfc.hk/publicregWeb/indi/BHU901/licenceRecord,,,RO,2017-06-26,

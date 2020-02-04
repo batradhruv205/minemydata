@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"An, Yang 安揚",sfclicrec.asp?p=2251214,,,RO,2018-12-20,
-"Deng, Yun 鄧云",sfclicrec.asp?p=70955,,,RO,2016-08-18,
-"Huang, Lijie 黃麗洁",sfclicrec.asp?p=23086648,,,Rep,2019-04-24,
-"Mok, Yue Pang 莫禹鵬",sfclicrec.asp?p=71107,,,Rep,2016-10-18,2017-08-01
-"Mok, Yue Pang 莫禹鵬",sfclicrec.asp?p=71107,,,RO,2017-08-01,
-"Wu, Ziyin 吳紫茵",sfclicrec.asp?p=14325909,,,Rep,2019-04-24,
-"Xia, Yang (SFC:ALN489) 夏阳",sfclicrec.asp?p=96742,,,Rep,2018-03-29,2018-05-09
-"Xia, Yang (SFC:ALN489) 夏阳",sfclicrec.asp?p=96742,,,RO,2018-05-09,
-"Xu, Yihua 許意華",sfclicrec.asp?p=71201,,,RO,2016-08-18,
-"Yu, Hengsen 于恒森",sfclicrec.asp?p=23149525,,,Rep,2019-05-08,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"An, Yang 安揚",None,sfclicrec.asp?p=2251214,BDF640,http://www.sfc.hk/publicregWeb/indi/BDF640/licenceRecord,,,RO,2018-12-20,
+"Deng, Yun 鄧云",None,sfclicrec.asp?p=70955,AOY055,http://www.sfc.hk/publicregWeb/indi/AOY055/licenceRecord,,,RO,2016-08-18,
+"Huang, Lijie 黃麗洁",None,sfclicrec.asp?p=23086648,BOG075,http://www.sfc.hk/publicregWeb/indi/BOG075/licenceRecord,,,Rep,2019-04-24,
+"Mok, Yue Pang 莫禹鵬",None,sfclicrec.asp?p=71107,APJ712,http://www.sfc.hk/publicregWeb/indi/APJ712/licenceRecord,,,Rep,2016-10-18,2017-08-01
+"Mok, Yue Pang 莫禹鵬",None,sfclicrec.asp?p=71107,APJ712,http://www.sfc.hk/publicregWeb/indi/APJ712/licenceRecord,,,RO,2017-08-01,
+"Wu, Ziyin 吳紫茵",None,sfclicrec.asp?p=14325909,BMV591,http://www.sfc.hk/publicregWeb/indi/BMV591/licenceRecord,,,Rep,2019-04-24,
+"Xia, Yang (SFC:ALN489) 夏阳",None,sfclicrec.asp?p=96742,ALN489,http://www.sfc.hk/publicregWeb/indi/ALN489/licenceRecord,,,Rep,2018-03-29,2018-05-09
+"Xia, Yang (SFC:ALN489) 夏阳",None,sfclicrec.asp?p=96742,ALN489,http://www.sfc.hk/publicregWeb/indi/ALN489/licenceRecord,,,RO,2018-05-09,
+"Xu, Yihua 許意華",None,sfclicrec.asp?p=71201,AOR654,http://www.sfc.hk/publicregWeb/indi/AOR654/licenceRecord,,,RO,2016-08-18,
+"Yu, Hengsen 于恒森",None,sfclicrec.asp?p=23149525,BOI866,http://www.sfc.hk/publicregWeb/indi/BOI866/licenceRecord,,,Rep,2019-05-08,

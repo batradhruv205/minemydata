@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Haoyang 陳昊揚",sfclicrec.asp?p=24047524,,,Rep,2019-12-23,
-"Cheung, Hung Fei 張雄飛",sfclicrec.asp?p=2541286,,,Rep,2019-10-09,
-"Lau, Siu Ming (SFC:AED874) 劉兆明",sfclicrec.asp?p=98027,,,RO,2019-08-23,
-"Ng, Wai 吳煒",sfclicrec.asp?p=99147,,,RO,2019-08-23,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Haoyang 陳昊揚",None,sfclicrec.asp?p=24047524,BPE464,http://www.sfc.hk/publicregWeb/indi/BPE464/licenceRecord,,,Rep,2019-12-23,
+"Cheung, Hung Fei 張雄飛",None,sfclicrec.asp?p=2541286,BGY944,http://www.sfc.hk/publicregWeb/indi/BGY944/licenceRecord,,,Rep,2019-10-09,
+"Lau, Siu Ming (SFC:AED874) 劉兆明",None,sfclicrec.asp?p=98027,AED874,http://www.sfc.hk/publicregWeb/indi/AED874/licenceRecord,,,RO,2019-08-23,
+"Ng, Wai 吳煒",None,sfclicrec.asp?p=99147,ANI759,http://www.sfc.hk/publicregWeb/indi/ANI759/licenceRecord,,,RO,2019-08-23,

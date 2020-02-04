@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chang, Ching-Kun 張靖坤",sfclicrec.asp?p=77852,,,Rep,2017-10-12,2018-01-19
-"Chang, Ching-Kun 張靖坤",sfclicrec.asp?p=77852,,,RO,2018-01-19,2019-12-03
-"Chang, Ching-Kun 張靖坤",sfclicrec.asp?p=77852,,,Rep,2019-12-03,
-"Chen, Shiou Wen 陳琇玟",sfclicrec.asp?p=11773285,,,Rep,2017-07-12,2019-10-25
-"Chen, Shiou Wen 陳琇玟",sfclicrec.asp?p=11773285,,,RO,2019-10-25,
-"Ho, Josephine Szu-Hsien 何思嫻",sfclicrec.asp?p=123097,,F,RO,2017-05-23,2017-09-29
-"Huang, Shin Hui 黃薰輝",sfclicrec.asp?p=82411,,,RO,2017-05-23,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chang, Ching-Kun 張靖坤",None,sfclicrec.asp?p=77852,ALJ991,http://www.sfc.hk/publicregWeb/indi/ALJ991/licenceRecord,,,Rep,2017-10-12,2018-01-19
+"Chang, Ching-Kun 張靖坤",None,sfclicrec.asp?p=77852,ALJ991,http://www.sfc.hk/publicregWeb/indi/ALJ991/licenceRecord,,,RO,2018-01-19,2019-12-03
+"Chang, Ching-Kun 張靖坤",None,sfclicrec.asp?p=77852,ALJ991,http://www.sfc.hk/publicregWeb/indi/ALJ991/licenceRecord,,,Rep,2019-12-03,
+"Chen, Shiou Wen 陳琇玟",None,sfclicrec.asp?p=11773285,BJR777,http://www.sfc.hk/publicregWeb/indi/BJR777/licenceRecord,,,Rep,2017-07-12,2019-10-25
+"Chen, Shiou Wen 陳琇玟",None,sfclicrec.asp?p=11773285,BJR777,http://www.sfc.hk/publicregWeb/indi/BJR777/licenceRecord,,,RO,2019-10-25,
+"Ho, Josephine Szu-Hsien 何思嫻",None,sfclicrec.asp?p=123097,APS312,http://www.sfc.hk/publicregWeb/indi/APS312/licenceRecord,,F,RO,2017-05-23,2017-09-29
+"Huang, Shin Hui 黃薰輝",None,sfclicrec.asp?p=82411,AQV647,http://www.sfc.hk/publicregWeb/indi/AQV647/licenceRecord,,,RO,2017-05-23,

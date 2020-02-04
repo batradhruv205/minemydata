@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chang, Yuan 常遠",sfclicrec.asp?p=77217,,,Rep,2019-07-12,2019-08-27
-"Chang, Yuan 常遠",sfclicrec.asp?p=77217,,,RO,2019-08-27,
-"Guo, Zhixi ",sfclicrec.asp?p=2191043,,,RO,2019-01-17,
-"Sun, Fengqiang 孫鳳強",sfclicrec.asp?p=81872,,,RO,2019-01-17,
-"Wei, Zhenghui 韋正輝",sfclicrec.asp?p=75242,,,Rep,2019-11-05,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chang, Yuan 常遠",None,sfclicrec.asp?p=77217,AST179,http://www.sfc.hk/publicregWeb/indi/AST179/licenceRecord,,,Rep,2019-07-12,2019-08-27
+"Chang, Yuan 常遠",None,sfclicrec.asp?p=77217,AST179,http://www.sfc.hk/publicregWeb/indi/AST179/licenceRecord,,,RO,2019-08-27,
+"Guo, Zhixi ",None,sfclicrec.asp?p=2191043,BCQ938,http://www.sfc.hk/publicregWeb/indi/BCQ938/licenceRecord,,,RO,2019-01-17,
+"Sun, Fengqiang 孫鳳強",None,sfclicrec.asp?p=81872,AVS893,http://www.sfc.hk/publicregWeb/indi/AVS893/licenceRecord,,,RO,2019-01-17,
+"Wei, Zhenghui 韋正輝",None,sfclicrec.asp?p=75242,ATY167,http://www.sfc.hk/publicregWeb/indi/ATY167/licenceRecord,,,Rep,2019-11-05,

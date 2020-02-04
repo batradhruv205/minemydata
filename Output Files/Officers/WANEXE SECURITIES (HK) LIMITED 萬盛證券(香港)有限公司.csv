@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Andy Yan Wing 陳欣永",sfclicrec.asp?p=35253,,,RO,2019-04-10,2019-07-31
-"Li, Kent Kin Man 李健文",sfclicrec.asp?p=98096,,M,RO,2018-08-07,
-"Li, Wai Sum 李煒森",sfclicrec.asp?p=92507,,,Rep,2019-05-23,2019-07-03
-"Zheng, Weida 鄭煒達",sfclicrec.asp?p=99469,,,RO,2018-08-07,2019-07-27
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Andy Yan Wing 陳欣永",None,sfclicrec.asp?p=35253,ADJ208,http://www.sfc.hk/publicregWeb/indi/ADJ208/licenceRecord,,,RO,2019-04-10,2019-07-31
+"Li, Kent Kin Man 李健文",None,sfclicrec.asp?p=98096,AOY339,http://www.sfc.hk/publicregWeb/indi/AOY339/licenceRecord,,M,RO,2018-08-07,
+"Li, Wai Sum 李煒森",None,sfclicrec.asp?p=92507,AVA618,http://www.sfc.hk/publicregWeb/indi/AVA618/licenceRecord,,,Rep,2019-05-23,2019-07-03
+"Zheng, Weida 鄭煒達",None,sfclicrec.asp?p=99469,ARI971,http://www.sfc.hk/publicregWeb/indi/ARI971/licenceRecord,,,RO,2018-08-07,2019-07-27

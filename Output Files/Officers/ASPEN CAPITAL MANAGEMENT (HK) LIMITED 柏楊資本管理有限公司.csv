@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lin, Xiao (SFC:AZR005) 林梟",sfclicrec.asp?p=1916640,,,RO,2018-02-15,
-"Yang, Dan (SFC:BFL252) 楊丹",sfclicrec.asp?p=2422203,,,RO,2018-02-15,
-"Yuan, Minfeng 袁敏峰",sfclicrec.asp?p=2484470,,,Rep,2018-04-03,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lin, Xiao (SFC:AZR005) 林梟",None,sfclicrec.asp?p=1916640,AZR005,http://www.sfc.hk/publicregWeb/indi/AZR005/licenceRecord,,,RO,2018-02-15,
+"Yang, Dan (SFC:BFL252) 楊丹",None,sfclicrec.asp?p=2422203,BFL252,http://www.sfc.hk/publicregWeb/indi/BFL252/licenceRecord,,,RO,2018-02-15,
+"Yuan, Minfeng 袁敏峰",None,sfclicrec.asp?p=2484470,BGH787,http://www.sfc.hk/publicregWeb/indi/BGH787/licenceRecord,,,Rep,2018-04-03,

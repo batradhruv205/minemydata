@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cai, Ruoxi 蔡若茜",sfclicrec.asp?p=14956925,,,Rep,2018-05-11,2018-12-31
-"Huang, Xingfeng 黃興峰",sfclicrec.asp?p=11781197,,,RO,2017-07-26,2018-02-01
-"Li, Zhifeng 李智鋒",sfclicrec.asp?p=1983280,,,RO,2017-01-16,2018-10-31
-"Liang, Fei (SFC:BIL390) 梁斐",sfclicrec.asp?p=2687050,,,RO,2017-01-16,2018-06-08
-"Luo, Haoxuan 羅皓璇",sfclicrec.asp?p=11795563,,,Rep,2017-08-31,
-"Ma, Pui Keung 馬沛強",sfclicrec.asp?p=2415323,,,Rep,2018-12-14,2019-02-20
-"Ma, Pui Keung 馬沛強",sfclicrec.asp?p=2415323,,,RO,2019-02-20,
-"Wang, Ying (SFC:BJI197) 王瀠",sfclicrec.asp?p=6710889,,,Rep,2017-03-29,2017-04-27
-"Zhang, Zhaoxi 章曌曦",sfclicrec.asp?p=2182861,,,Rep,2017-04-18,2018-12-24
-"Zhang, Zhaoxi 章曌曦",sfclicrec.asp?p=2182861,,,RO,2018-12-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cai, Ruoxi 蔡若茜",None,sfclicrec.asp?p=14956925,BLJ235,http://www.sfc.hk/publicregWeb/indi/BLJ235/licenceRecord,,,Rep,2018-05-11,2018-12-31
+"Huang, Xingfeng 黃興峰",None,sfclicrec.asp?p=11781197,BIL469,http://www.sfc.hk/publicregWeb/indi/BIL469/licenceRecord,,,RO,2017-07-26,2018-02-01
+"Li, Zhifeng 李智鋒",None,sfclicrec.asp?p=1983280,BAI763,http://www.sfc.hk/publicregWeb/indi/BAI763/licenceRecord,,,RO,2017-01-16,2018-10-31
+"Liang, Fei (SFC:BIL390) 梁斐",None,sfclicrec.asp?p=2687050,BIL390,http://www.sfc.hk/publicregWeb/indi/BIL390/licenceRecord,,,RO,2017-01-16,2018-06-08
+"Luo, Haoxuan 羅皓璇",None,sfclicrec.asp?p=11795563,BJZ439,http://www.sfc.hk/publicregWeb/indi/BJZ439/licenceRecord,,,Rep,2017-08-31,
+"Ma, Pui Keung 馬沛強",None,sfclicrec.asp?p=2415323,BFE801,http://www.sfc.hk/publicregWeb/indi/BFE801/licenceRecord,,,Rep,2018-12-14,2019-02-20
+"Ma, Pui Keung 馬沛強",None,sfclicrec.asp?p=2415323,BFE801,http://www.sfc.hk/publicregWeb/indi/BFE801/licenceRecord,,,RO,2019-02-20,
+"Wang, Ying (SFC:BJI197) 王瀠",None,sfclicrec.asp?p=6710889,BJI197,http://www.sfc.hk/publicregWeb/indi/BJI197/licenceRecord,,,Rep,2017-03-29,2017-04-27
+"Zhang, Zhaoxi 章曌曦",None,sfclicrec.asp?p=2182861,BCI871,http://www.sfc.hk/publicregWeb/indi/BCI871/licenceRecord,,,Rep,2017-04-18,2018-12-24
+"Zhang, Zhaoxi 章曌曦",None,sfclicrec.asp?p=2182861,BCI871,http://www.sfc.hk/publicregWeb/indi/BCI871/licenceRecord,,,RO,2018-12-24,

@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Li, Vivian Shuk Wa 李淑華",sfclicrec.asp?p=119626,,,RO,2019-07-08,
-"Li, Yanting (SFC:BOB078) 李燕婷",sfclicrec.asp?p=23526423,,,Rep,2019-08-08,2019-09-06
-"Li, Yanting (SFC:BOB078) 李燕婷",sfclicrec.asp?p=23526423,,,RO,2019-09-06,
-"Zhang, Weiyi 張偉毅",sfclicrec.asp?p=2497001,,,RO,2019-07-08,2019-09-12
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Li, Vivian Shuk Wa 李淑華",None,sfclicrec.asp?p=119626,ANY054,http://www.sfc.hk/publicregWeb/indi/ANY054/licenceRecord,,,RO,2019-07-08,
+"Li, Yanting (SFC:BOB078) 李燕婷",None,sfclicrec.asp?p=23526423,BOB078,http://www.sfc.hk/publicregWeb/indi/BOB078/licenceRecord,,,Rep,2019-08-08,2019-09-06
+"Li, Yanting (SFC:BOB078) 李燕婷",None,sfclicrec.asp?p=23526423,BOB078,http://www.sfc.hk/publicregWeb/indi/BOB078/licenceRecord,,,RO,2019-09-06,
+"Zhang, Weiyi 張偉毅",None,sfclicrec.asp?p=2497001,BGK395,http://www.sfc.hk/publicregWeb/indi/BGK395/licenceRecord,,,RO,2019-07-08,2019-09-12

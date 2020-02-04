@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Brown, Stuart Allan ",sfclicrec.asp?p=2362871,,M,Rep,2014-12-23,2018-04-23
-"Brown, Stuart Allan ",sfclicrec.asp?p=2362871,,M,RO,2018-04-23,
-"Halvorsen, Ole Andreas ",sfclicrec.asp?p=130116,,M,RO,2011-09-09,
-"Jin, Ning (SFC:AVQ395) ",sfclicrec.asp?p=130118,,,RO,2010-09-17,
-"Lakhani, Nawaz ",sfclicrec.asp?p=2463125,,,Rep,2015-08-17,2016-02-19
-"Lakhani, Nawaz ",sfclicrec.asp?p=2463125,,,RO,2016-02-19,
-"Liu, Yu (SFC:ANN026) 劉宇",sfclicrec.asp?p=118783,,,Rep,2011-09-21,2015-01-23
-"Parmet, Andrew Charles ",sfclicrec.asp?p=102437,,M,Rep,2010-10-11,2011-02-28
-"Parmet, Andrew Charles ",sfclicrec.asp?p=102437,,M,RO,2011-02-28,2015-11-13
-"Purcell, Thomas William ",sfclicrec.asp?p=130117,,M,RO,2010-09-17,2014-08-29
-"Sze, Hung Kit Thomas 施鴻杰",sfclicrec.asp?p=134995,,,Rep,2016-10-03,2019-06-21
-"Tsang, Sai Hong 曾世康",sfclicrec.asp?p=2542975,,,Rep,2017-05-05,
-"Wang, Zizheng (SFC:BLL351) 王子政",sfclicrec.asp?p=12500424,,,Rep,2017-11-14,
-"Wong, Jonathan Wai Tun ",sfclicrec.asp?p=1857254,,M,Rep,2012-02-24,2016-10-04
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Brown, Stuart Allan ",None,sfclicrec.asp?p=2362871,BEN876,http://www.sfc.hk/publicregWeb/indi/BEN876/licenceRecord,,M,Rep,2014-12-23,2018-04-23
+"Brown, Stuart Allan ",None,sfclicrec.asp?p=2362871,BEN876,http://www.sfc.hk/publicregWeb/indi/BEN876/licenceRecord,,M,RO,2018-04-23,
+"Halvorsen, Ole Andreas ",None,sfclicrec.asp?p=130116,AVQ356,http://www.sfc.hk/publicregWeb/indi/AVQ356/licenceRecord,,M,RO,2011-09-09,
+"Jin, Ning (SFC:AVQ395) ",None,sfclicrec.asp?p=130118,AVQ395,http://www.sfc.hk/publicregWeb/indi/AVQ395/licenceRecord,,,RO,2010-09-17,
+"Lakhani, Nawaz ",None,sfclicrec.asp?p=2463125,BFR277,http://www.sfc.hk/publicregWeb/indi/BFR277/licenceRecord,,,Rep,2015-08-17,2016-02-19
+"Lakhani, Nawaz ",None,sfclicrec.asp?p=2463125,BFR277,http://www.sfc.hk/publicregWeb/indi/BFR277/licenceRecord,,,RO,2016-02-19,
+"Liu, Yu (SFC:ANN026) 劉宇",None,sfclicrec.asp?p=118783,ANN026,http://www.sfc.hk/publicregWeb/indi/ANN026/licenceRecord,,,Rep,2011-09-21,2015-01-23
+"Parmet, Andrew Charles ",None,sfclicrec.asp?p=102437,ABY125,http://www.sfc.hk/publicregWeb/indi/ABY125/licenceRecord,,M,Rep,2010-10-11,2011-02-28
+"Parmet, Andrew Charles ",None,sfclicrec.asp?p=102437,ABY125,http://www.sfc.hk/publicregWeb/indi/ABY125/licenceRecord,,M,RO,2011-02-28,2015-11-13
+"Purcell, Thomas William ",None,sfclicrec.asp?p=130117,AVQ387,http://www.sfc.hk/publicregWeb/indi/AVQ387/licenceRecord,,M,RO,2010-09-17,2014-08-29
+"Sze, Hung Kit Thomas 施鴻杰",None,sfclicrec.asp?p=134995,AYQ839,http://www.sfc.hk/publicregWeb/indi/AYQ839/licenceRecord,,,Rep,2016-10-03,2019-06-21
+"Tsang, Sai Hong 曾世康",None,sfclicrec.asp?p=2542975,BHC363,http://www.sfc.hk/publicregWeb/indi/BHC363/licenceRecord,,,Rep,2017-05-05,
+"Wang, Zizheng (SFC:BLL351) 王子政",None,sfclicrec.asp?p=12500424,BLL351,http://www.sfc.hk/publicregWeb/indi/BLL351/licenceRecord,,,Rep,2017-11-14,
+"Wong, Jonathan Wai Tun ",None,sfclicrec.asp?p=1857254,AYY487,http://www.sfc.hk/publicregWeb/indi/AYY487/licenceRecord,,M,Rep,2012-02-24,2016-10-04

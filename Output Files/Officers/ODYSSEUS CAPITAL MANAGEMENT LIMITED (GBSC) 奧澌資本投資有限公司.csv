@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chu, Joseph Patrick Yeong Kang 徐永康",sfclicrec.asp?p=63032,53,M,RO,2018-04-20,
-"Tang, Davina Tak-wai 鄧德慧",sfclicrec.asp?p=78590,,F,RO,2018-04-20,
-"Wong, Sheila Mui Wa 王梅華",sfclicrec.asp?p=2388776,,F,Rep,2018-04-20,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chu, Joseph Patrick Yeong Kang 徐永康",None,sfclicrec.asp?p=63032,ADT125,http://www.sfc.hk/publicregWeb/indi/ADT125/licenceRecord,53.0,M,RO,2018-04-20,
+"Tang, Davina Tak-wai 鄧德慧",None,sfclicrec.asp?p=78590,ACZ857,http://www.sfc.hk/publicregWeb/indi/ACZ857/licenceRecord,,F,RO,2018-04-20,
+"Wong, Sheila Mui Wa 王梅華",None,sfclicrec.asp?p=2388776,BFA825,http://www.sfc.hk/publicregWeb/indi/BFA825/licenceRecord,,F,Rep,2018-04-20,

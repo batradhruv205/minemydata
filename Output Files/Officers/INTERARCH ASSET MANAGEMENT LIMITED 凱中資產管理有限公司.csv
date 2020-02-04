@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Ting Ting (SFC:APR549) 張婷婷",sfclicrec.asp?p=95196,,,RO,2019-10-21,
-"Lau, Ping Yau 劉炳有",sfclicrec.asp?p=82228,,,RO,2019-10-21,
-"Leung, Lok Man (SFC:BEN424) 梁樂敏",sfclicrec.asp?p=2361714,,,RO,2019-10-21,
-"Qu, Siyuan 瞿思源",sfclicrec.asp?p=2577754,,,RO,2019-10-21,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Ting Ting (SFC:APR549) 張婷婷",None,sfclicrec.asp?p=95196,APR549,http://www.sfc.hk/publicregWeb/indi/APR549/licenceRecord,,,RO,2019-10-21,
+"Lau, Ping Yau 劉炳有",None,sfclicrec.asp?p=82228,AFT494,http://www.sfc.hk/publicregWeb/indi/AFT494/licenceRecord,,,RO,2019-10-21,
+"Leung, Lok Man (SFC:BEN424) 梁樂敏",None,sfclicrec.asp?p=2361714,BEN424,http://www.sfc.hk/publicregWeb/indi/BEN424/licenceRecord,,,RO,2019-10-21,
+"Qu, Siyuan 瞿思源",None,sfclicrec.asp?p=2577754,BHJ218,http://www.sfc.hk/publicregWeb/indi/BHJ218/licenceRecord,,,RO,2019-10-21,

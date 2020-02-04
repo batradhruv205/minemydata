@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lam, Albert Ming Hing 林明興",sfclicrec.asp?p=66932,,M,Rep,,2003-10-02
-"Lam, Hoi Fung 林海峰",sfclicrec.asp?p=95052,,,Rep,,2003-08-19
-"Lau, Vincent Chi Ching 劉志楨",sfclicrec.asp?p=66934,,M,Rep,,2003-10-02
-"Lau, Wai Ming (SFC:ACD916) 劉偉明",sfclicrec.asp?p=66935,,M,Rep,,2003-10-02
-"Lau, Wai Ming (SFC:ACD916) 劉偉明",sfclicrec.asp?p=66935,,M,RO,2005-01-26,
-"Li, Man Hong (SFC:AZL821) 李民康",sfclicrec.asp?p=1895546,,,Rep,2016-02-23,2019-11-08
-"Poon, David Cheung Fung 潘長風",sfclicrec.asp?p=66937,,M,RO,,
-"Ting, Kwok Hing 丁國慶",sfclicrec.asp?p=66939,,,Rep,,2003-10-02
-"Wong, Wai Chi (SFC:ADI950) 黃偉志",sfclicrec.asp?p=71694,,,Rep,,2003-10-02
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lam, Albert Ming Hing 林明興",None,sfclicrec.asp?p=66932,AAY364,http://www.sfc.hk/publicregWeb/indi/AAY364/licenceRecord,,M,Rep,,2003-10-02
+"Lam, Hoi Fung 林海峰",None,sfclicrec.asp?p=95052,ACQ501,http://www.sfc.hk/publicregWeb/indi/ACQ501/licenceRecord,,,Rep,,2003-08-19
+"Lau, Vincent Chi Ching 劉志楨",None,sfclicrec.asp?p=66934,AAD423,http://www.sfc.hk/publicregWeb/indi/AAD423/licenceRecord,,M,Rep,,2003-10-02
+"Lau, Wai Ming (SFC:ACD916) 劉偉明",None,sfclicrec.asp?p=66935,ACD916,http://www.sfc.hk/publicregWeb/indi/ACD916/licenceRecord,,M,Rep,,2003-10-02
+"Lau, Wai Ming (SFC:ACD916) 劉偉明",None,sfclicrec.asp?p=66935,ACD916,http://www.sfc.hk/publicregWeb/indi/ACD916/licenceRecord,,M,RO,2005-01-26,
+"Li, Man Hong (SFC:AZL821) 李民康",None,sfclicrec.asp?p=1895546,AZL821,http://www.sfc.hk/publicregWeb/indi/AZL821/licenceRecord,,,Rep,2016-02-23,2019-11-08
+"Poon, David Cheung Fung 潘長風",None,sfclicrec.asp?p=66937,AAD425,http://www.sfc.hk/publicregWeb/indi/AAD425/licenceRecord,,M,RO,,
+"Ting, Kwok Hing 丁國慶",None,sfclicrec.asp?p=66939,ACB661,http://www.sfc.hk/publicregWeb/indi/ACB661/licenceRecord,,,Rep,,2003-10-02
+"Wong, Wai Chi (SFC:ADI950) 黃偉志",None,sfclicrec.asp?p=71694,ADI950,http://www.sfc.hk/publicregWeb/indi/ADI950/licenceRecord,,,Rep,,2003-10-02

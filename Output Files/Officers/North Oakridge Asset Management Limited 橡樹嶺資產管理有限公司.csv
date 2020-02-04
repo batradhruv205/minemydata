@@ -1,3 +1,3 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Hong, Yu (SFC:BIK720) 洪宇",sfclicrec.asp?p=6714333,,,RO,2017-03-23,
-"Xu, Zhe (SFC:ASU357) 徐哲",sfclicrec.asp?p=6714334,,,RO,2017-03-23,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Hong, Yu (SFC:BIK720) 洪宇",None,sfclicrec.asp?p=6714333,BIK720,http://www.sfc.hk/publicregWeb/indi/BIK720/licenceRecord,,,RO,2017-03-23,
+"Xu, Zhe (SFC:ASU357) 徐哲",None,sfclicrec.asp?p=6714334,ASU357,http://www.sfc.hk/publicregWeb/indi/ASU357/licenceRecord,,,RO,2017-03-23,

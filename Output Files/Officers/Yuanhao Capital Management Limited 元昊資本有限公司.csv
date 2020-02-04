@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Shengjie (SFC:BMV457) 陈晟杰",sfclicrec.asp?p=16706564,,,Rep,2018-06-05,2019-07-22
-"Deng, Haifeng 鄧海峰",sfclicrec.asp?p=113542,,,RO,2013-07-22,2016-09-30
-"Grove, Daryl Gavin ",sfclicrec.asp?p=2533277,,M,Rep,2016-01-29,2016-11-10
-"Grove, Daryl Gavin ",sfclicrec.asp?p=2533277,,M,RO,2016-11-10,
-"Huang, Xiaodong (SFC:BDM669) 黃晓东",sfclicrec.asp?p=2289096,,,Rep,2014-07-03,2015-03-21
-"Mu, Zhihui 穆志慧",sfclicrec.asp?p=2378457,,,Rep,2015-01-30,2015-03-24
-"Qian, Wenqiong 錢雯瓊",sfclicrec.asp?p=11778150,,,Rep,2017-07-17,
-"Zhang, Wei (SFC:BBH967) 張煒",sfclicrec.asp?p=2103962,,,RO,2013-07-22,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Shengjie (SFC:BMV457) 陈晟杰",None,sfclicrec.asp?p=16706564,BMV457,http://www.sfc.hk/publicregWeb/indi/BMV457/licenceRecord,,,Rep,2018-06-05,2019-07-22
+"Deng, Haifeng 鄧海峰",None,sfclicrec.asp?p=113542,AJN297,http://www.sfc.hk/publicregWeb/indi/AJN297/licenceRecord,,,RO,2013-07-22,2016-09-30
+"Grove, Daryl Gavin ",None,sfclicrec.asp?p=2533277,BGT769,http://www.sfc.hk/publicregWeb/indi/BGT769/licenceRecord,,M,Rep,2016-01-29,2016-11-10
+"Grove, Daryl Gavin ",None,sfclicrec.asp?p=2533277,BGT769,http://www.sfc.hk/publicregWeb/indi/BGT769/licenceRecord,,M,RO,2016-11-10,
+"Huang, Xiaodong (SFC:BDM669) 黃晓东",None,sfclicrec.asp?p=2289096,BDM669,http://www.sfc.hk/publicregWeb/indi/BDM669/licenceRecord,,,Rep,2014-07-03,2015-03-21
+"Mu, Zhihui 穆志慧",None,sfclicrec.asp?p=2378457,BEU053,http://www.sfc.hk/publicregWeb/indi/BEU053/licenceRecord,,,Rep,2015-01-30,2015-03-24
+"Qian, Wenqiong 錢雯瓊",None,sfclicrec.asp?p=11778150,BJT611,http://www.sfc.hk/publicregWeb/indi/BJT611/licenceRecord,,,Rep,2017-07-17,
+"Zhang, Wei (SFC:BBH967) 張煒",None,sfclicrec.asp?p=2103962,BBH967,http://www.sfc.hk/publicregWeb/indi/BBH967/licenceRecord,,,RO,2013-07-22,

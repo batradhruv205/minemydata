@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Mok, Lily Kam Fong 莫錦芳",sfclicrec.asp?p=101436,,F,Rep,,
-"Wong, Shau King 黃秀琼",sfclicrec.asp?p=104402,,,Rep,,
-"Woo Chang, Anissa Sau Wei 胡張秀慧",sfclicrec.asp?p=104817,,F,Rep,,2005-06-03
-"Woo Chang, Anissa Sau Wei 胡張秀慧",sfclicrec.asp?p=104817,,F,RO,2005-06-03,
-"Woo Chow, Yuen Yee 胡周婉儀",sfclicrec.asp?p=101394,,,RO,,
-"Woo, Sau Wing 胡壽榮",sfclicrec.asp?p=101395,,,RO,,
-"Woo, Woon Ping 胡煥屏",sfclicrec.asp?p=101957,,,Rep,,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Mok, Lily Kam Fong 莫錦芳",None,sfclicrec.asp?p=101436,AAI989,http://www.sfc.hk/publicregWeb/indi/AAI989/licenceRecord,,F,Rep,,
+"Wong, Shau King 黃秀琼",None,sfclicrec.asp?p=104402,ADX891,http://www.sfc.hk/publicregWeb/indi/ADX891/licenceRecord,,,Rep,,
+"Woo Chang, Anissa Sau Wei 胡張秀慧",None,sfclicrec.asp?p=104817,AEI605,http://www.sfc.hk/publicregWeb/indi/AEI605/licenceRecord,,F,Rep,,2005-06-03
+"Woo Chang, Anissa Sau Wei 胡張秀慧",None,sfclicrec.asp?p=104817,AEI605,http://www.sfc.hk/publicregWeb/indi/AEI605/licenceRecord,,F,RO,2005-06-03,
+"Woo Chow, Yuen Yee 胡周婉儀",None,sfclicrec.asp?p=101394,AAI370,http://www.sfc.hk/publicregWeb/indi/AAI370/licenceRecord,,,RO,,
+"Woo, Sau Wing 胡壽榮",None,sfclicrec.asp?p=101395,AAI371,http://www.sfc.hk/publicregWeb/indi/AAI371/licenceRecord,,,RO,,
+"Woo, Woon Ping 胡煥屏",None,sfclicrec.asp?p=101957,ABF721,http://www.sfc.hk/publicregWeb/indi/ABF721/licenceRecord,,,Rep,,

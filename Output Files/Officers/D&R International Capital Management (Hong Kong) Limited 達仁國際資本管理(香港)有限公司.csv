@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Siu Ming (SFC:AEU968) 陳兆明",sfclicrec.asp?p=91952,,,Rep,2017-11-10,2018-04-04
-"Chan, Siu Ming (SFC:AEU968) 陳兆明",sfclicrec.asp?p=91952,,,RO,2018-04-04,
-"Chen, Chen (SFC:BBF167) 陳晨",sfclicrec.asp?p=2061517,,,Rep,2015-02-11,2015-11-06
-"Choi, Yong ",sfclicrec.asp?p=2059225,,,RO,2016-04-14,2018-04-06
-"Choi, Yong ",sfclicrec.asp?p=2059225,,,Rep,2019-06-17,2019-07-16
-"Choi, Yong ",sfclicrec.asp?p=2059225,,,RO,2019-07-16,
-"Lee, Alex Yapp 李立德",sfclicrec.asp?p=2163359,,,Rep,2015-04-21,2016-05-18
-"Lee, Peter Man Kit 李文傑",sfclicrec.asp?p=1868477,,M,RO,2016-04-14,2017-02-20
-"Li, Yong (SFC:AXM324) 李勇",sfclicrec.asp?p=77970,,,Rep,2017-11-28,2018-10-16
-"Luo, John Zhan ",sfclicrec.asp?p=2480123,,M,RO,2015-09-25,2018-12-15
-"Pei, Yunbo 裴云波",sfclicrec.asp?p=22390880,,,RO,2018-11-05,
-"Siu, Shirley Wai Ching 蕭慧晶",sfclicrec.asp?p=102204,,F,Rep,2016-05-18,2017-06-22
-"Soong, Gary Yuk Lun 宋煜麟",sfclicrec.asp?p=76582,,M,RO,2018-07-31,2019-03-31
-"Tse, Wai Man (SFC:AJL009) 謝慧敏",sfclicrec.asp?p=113422,,,RO,2015-01-30,2016-04-30
-"Wong, Hong Ming 黃康銘",sfclicrec.asp?p=2680674,,,Rep,2017-01-03,
-"Zhang Brogle, Jing 張璟瑜",sfclicrec.asp?p=128549,46,F,RO,2015-01-30,2015-07-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Siu Ming (SFC:AEU968) 陳兆明",None,sfclicrec.asp?p=91952,AEU968,http://www.sfc.hk/publicregWeb/indi/AEU968/licenceRecord,,,Rep,11/10/2017,4/4/2018
+"Chan, Siu Ming (SFC:AEU968) 陳兆明",None,sfclicrec.asp?p=91952,AEU968,http://www.sfc.hk/publicregWeb/indi/AEU968/licenceRecord,,,RO,4/4/2018,
+"Chen, Chen (SFC:BBF167) 陳晨",None,sfclicrec.asp?p=2061517,BBF167,http://www.sfc.hk/publicregWeb/indi/BBF167/licenceRecord,,,Rep,2/11/2015,11/6/2015
+"Choi, Yong ",None,sfclicrec.asp?p=2059225,BBE608,http://www.sfc.hk/publicregWeb/indi/BBE608/licenceRecord,,,RO,4/14/2016,4/6/2018
+"Choi, Yong ",None,sfclicrec.asp?p=2059225,BBE608,http://www.sfc.hk/publicregWeb/indi/BBE608/licenceRecord,,,Rep,6/17/2019,7/16/2019
+"Choi, Yong ",None,sfclicrec.asp?p=2059225,BBE608,http://www.sfc.hk/publicregWeb/indi/BBE608/licenceRecord,,,RO,7/16/2019,
+"Lee, Alex Yapp 李立德",None,sfclicrec.asp?p=2163359,BCH647,http://www.sfc.hk/publicregWeb/indi/BCH647/licenceRecord,,,Rep,4/21/2015,5/18/2016
+"Lee, Peter Man Kit 李文傑",None,sfclicrec.asp?p=1868477,AYV999,http://www.sfc.hk/publicregWeb/indi/AYV999/licenceRecord,,M,RO,4/14/2016,2/20/2017
+"Li, Yong (SFC:AXM324) 李勇",None,sfclicrec.asp?p=77970,AXM324,http://www.sfc.hk/publicregWeb/indi/AXM324/licenceRecord,,,Rep,11/28/2017,10/16/2018
+"Luo, John Zhan ",None,sfclicrec.asp?p=2480123,BFX644,http://www.sfc.hk/publicregWeb/indi/BFX644/licenceRecord,,M,RO,9/25/2015,12/15/2018
+"Pei, Yunbo 裴云波",None,sfclicrec.asp?p=22390880,BNB940,http://www.sfc.hk/publicregWeb/indi/BNB940/licenceRecord,,,RO,11/5/2018,
+"Siu, Shirley Wai Ching 蕭慧晶",None,sfclicrec.asp?p=102204,ABP528,http://www.sfc.hk/publicregWeb/indi/ABP528/licenceRecord,,F,Rep,5/18/2016,6/22/2017
+"Soong, Gary Yuk Lun 宋煜麟",None,sfclicrec.asp?p=76582,ADP887,http://www.sfc.hk/publicregWeb/indi/ADP887/licenceRecord,,M,RO,7/31/2018,3/31/2019
+"Tse, Wai Man (SFC:AJL009) 謝慧敏",None,sfclicrec.asp?p=113422,AJL009,http://www.sfc.hk/publicregWeb/indi/AJL009/licenceRecord,,,RO,1/30/2015,4/30/2016
+"Wong, Hong Ming 黃康銘",None,sfclicrec.asp?p=2680674,BIN600,http://www.sfc.hk/publicregWeb/indi/BIN600/licenceRecord,,,Rep,1/3/2017,
+"Zhang Brogle, Jing 張璟瑜",None,sfclicrec.asp?p=128549,ATR489,http://www.sfc.hk/publicregWeb/indi/ATR489/licenceRecord,46.0,F,RO,1/30/2015,7/31/2015

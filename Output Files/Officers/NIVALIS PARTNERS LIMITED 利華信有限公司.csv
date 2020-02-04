@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Blin, Jean-Marie Ernest ",sfclicrec.asp?p=2272695,,M,Rep,2014-05-23,2014-11-07
-"Chou, Valerie 周曉澂",sfclicrec.asp?p=101048,,F,Rep,2016-07-04,
-"Gontier, Philippe Pierre Maurice ",sfclicrec.asp?p=2127179,,M,RO,2013-09-04,
-"Heche, Raymond Charles Louis ",sfclicrec.asp?p=2127180,,M,RO,2013-09-04,2019-11-30
-"Lam, Yin Ng 林賢伍",sfclicrec.asp?p=99970,,,Rep,2017-08-28,2019-07-31
-"Lefranc, Denis Pierre Henri ",sfclicrec.asp?p=126406,,M,Rep,2017-01-13,
-"Motiwala, Ayaz Bashir ",sfclicrec.asp?p=121606,,M,Rep,2014-10-20,
-"Reichenbach, Peter ",sfclicrec.asp?p=99971,,M,RO,2013-09-04,
-"Renard, Charles Jean Noel ",sfclicrec.asp?p=12107943,,M,Rep,2017-10-10,2019-03-31
-"Tung, Peter Tze Chung 童致中",sfclicrec.asp?p=103114,55,M,Rep,2016-11-18,
-"Woo, Wallace Chong Keung 胡壯強",sfclicrec.asp?p=17138939,,M,Rep,2018-06-12,2018-08-06
-"Woo, Wallace Chong Keung 胡壯強",sfclicrec.asp?p=17138939,,M,RO,2018-08-06,2019-07-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Blin, Jean-Marie Ernest ",None,sfclicrec.asp?p=2272695,BCG561,http://www.sfc.hk/publicregWeb/indi/BCG561/licenceRecord,,M,Rep,2014-05-23,2014-11-07
+"Chou, Valerie 周曉澂",None,sfclicrec.asp?p=101048,AAE718,http://www.sfc.hk/publicregWeb/indi/AAE718/licenceRecord,,F,Rep,2016-07-04,
+"Gontier, Philippe Pierre Maurice ",None,sfclicrec.asp?p=2127179,BBJ816,http://www.sfc.hk/publicregWeb/indi/BBJ816/licenceRecord,,M,RO,2013-09-04,
+"Heche, Raymond Charles Louis ",None,sfclicrec.asp?p=2127180,AAI942,http://www.sfc.hk/publicregWeb/indi/AAI942/licenceRecord,,M,RO,2013-09-04,2019-11-30
+"Lam, Yin Ng 林賢伍",None,sfclicrec.asp?p=99970,ALV041,http://www.sfc.hk/publicregWeb/indi/ALV041/licenceRecord,,,Rep,2017-08-28,2019-07-31
+"Lefranc, Denis Pierre Henri ",None,sfclicrec.asp?p=126406,ARN065,http://www.sfc.hk/publicregWeb/indi/ARN065/licenceRecord,,M,Rep,2017-01-13,
+"Motiwala, Ayaz Bashir ",None,sfclicrec.asp?p=121606,APA237,http://www.sfc.hk/publicregWeb/indi/APA237/licenceRecord,,M,Rep,2014-10-20,
+"Reichenbach, Peter ",None,sfclicrec.asp?p=99971,AFB791,http://www.sfc.hk/publicregWeb/indi/AFB791/licenceRecord,,M,RO,2013-09-04,
+"Renard, Charles Jean Noel ",None,sfclicrec.asp?p=12107943,BLD169,http://www.sfc.hk/publicregWeb/indi/BLD169/licenceRecord,,M,Rep,2017-10-10,2019-03-31
+"Tung, Peter Tze Chung 童致中",None,sfclicrec.asp?p=103114,ACO908,http://www.sfc.hk/publicregWeb/indi/ACO908/licenceRecord,55.0,M,Rep,2016-11-18,
+"Woo, Wallace Chong Keung 胡壯強",None,sfclicrec.asp?p=17138939,ABX326,http://www.sfc.hk/publicregWeb/indi/ABX326/licenceRecord,,M,Rep,2018-06-12,2018-08-06
+"Woo, Wallace Chong Keung 胡壯強",None,sfclicrec.asp?p=17138939,ABX326,http://www.sfc.hk/publicregWeb/indi/ABX326/licenceRecord,,M,RO,2018-08-06,2019-07-31

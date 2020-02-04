@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Hong, Jiayu 洪佳瑜",sfclicrec.asp?p=22383353,,,Rep,2018-11-02,2019-02-28
-"Tse, Tsz Kit 謝子杰",sfclicrec.asp?p=81902,,,RO,2017-10-31,2019-03-31
-"Wang, Yuan (SFC:BJU824) 王原",sfclicrec.asp?p=11780205,,,Rep,2019-05-14,2019-07-24
-"Wang, Yuan (SFC:BJU824) 王原",sfclicrec.asp?p=11780205,,,RO,2019-07-24,
-"Yang, Rui (SFC:BKE906) 楊瑞",sfclicrec.asp?p=12458080,,,RO,2017-10-31,
-"Yau, Chung Wai 丘頌偉",sfclicrec.asp?p=132843,,,RO,2017-10-31,
-"Yuan, Yining 袁一寧",sfclicrec.asp?p=12458081,,,RO,2017-10-31,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Hong, Jiayu 洪佳瑜",None,sfclicrec.asp?p=22383353,BNP563,http://www.sfc.hk/publicregWeb/indi/BNP563/licenceRecord,,,Rep,2018-11-02,2019-02-28
+"Tse, Tsz Kit 謝子杰",None,sfclicrec.asp?p=81902,AUD977,http://www.sfc.hk/publicregWeb/indi/AUD977/licenceRecord,,,RO,2017-10-31,2019-03-31
+"Wang, Yuan (SFC:BJU824) 王原",None,sfclicrec.asp?p=11780205,BJU824,http://www.sfc.hk/publicregWeb/indi/BJU824/licenceRecord,,,Rep,2019-05-14,2019-07-24
+"Wang, Yuan (SFC:BJU824) 王原",None,sfclicrec.asp?p=11780205,BJU824,http://www.sfc.hk/publicregWeb/indi/BJU824/licenceRecord,,,RO,2019-07-24,
+"Yang, Rui (SFC:BKE906) 楊瑞",None,sfclicrec.asp?p=12458080,BKE906,http://www.sfc.hk/publicregWeb/indi/BKE906/licenceRecord,,,RO,2017-10-31,
+"Yau, Chung Wai 丘頌偉",None,sfclicrec.asp?p=132843,AYF518,http://www.sfc.hk/publicregWeb/indi/AYF518/licenceRecord,,,RO,2017-10-31,
+"Yuan, Yining 袁一寧",None,sfclicrec.asp?p=12458081,BKE910,http://www.sfc.hk/publicregWeb/indi/BKE910/licenceRecord,,,RO,2017-10-31,

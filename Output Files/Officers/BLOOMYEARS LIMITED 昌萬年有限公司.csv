@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Chun Kin (SFC:AZC678) 陳振健",sfclicrec.asp?p=1862469,,,RO,2016-10-17,
-"Chan, Joyce Chun Mui 陳春梅",sfclicrec.asp?p=79949,,F,Rep,,2008-04-30
-"Cheung, Chi Hung (SFC:AEY847) 張志雄",sfclicrec.asp?p=92732,,,Rep,2017-08-02,2017-08-29
-"Cheung, Chi Hung (SFC:AEY847) 張志雄",sfclicrec.asp?p=92732,,,RO,2017-08-29,2019-02-18
-"Chiu, Sing Ho 趙星皓",sfclicrec.asp?p=1998961,,M,Rep,2012-12-21,2013-12-31
-"Kwok, Chi Hang 郭智恆",sfclicrec.asp?p=76891,,,Rep,2014-06-05,2014-08-01
-"Kwok, Chi Hang 郭智恆",sfclicrec.asp?p=76891,,,RO,2014-08-01,2014-11-03
-"Lee, Lai Shing 李禮盛",sfclicrec.asp?p=98615,,,RO,,2017-05-17
-"Leu, Shuk Ling Ann 廖淑玲",sfclicrec.asp?p=2209711,,,Rep,2017-12-22,
-"Leung, Siu Ling (SFC:ABG009) 梁小玲",sfclicrec.asp?p=98617,,,Rep,,
-"Or, Chi Hang 柯志衡",sfclicrec.asp?p=120559,,,Rep,2016-11-16,2017-01-10
-"Or, Chi Hang 柯志衡",sfclicrec.asp?p=120559,,,RO,2017-01-10,2017-04-13
-"So, Maggie Yee Mui 蘇綺梅",sfclicrec.asp?p=80060,,F,Rep,,2007-11-01
-"Tao, Wei (SFC:AFB543) 陶偉",sfclicrec.asp?p=98618,,,Rep,2005-05-11,2012-11-19
-"Tong, Kwok Choi 唐國財",sfclicrec.asp?p=98616,,,RO,,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Chun Kin (SFC:AZC678) 陳振健",None,sfclicrec.asp?p=1862469,AZC678,http://www.sfc.hk/publicregWeb/indi/AZC678/licenceRecord,,,RO,2016-10-17,
+"Chan, Joyce Chun Mui 陳春梅",None,sfclicrec.asp?p=79949,ABV576,http://www.sfc.hk/publicregWeb/indi/ABV576/licenceRecord,,F,Rep,,2008-04-30
+"Cheung, Chi Hung (SFC:AEY847) 張志雄",None,sfclicrec.asp?p=92732,AEY847,http://www.sfc.hk/publicregWeb/indi/AEY847/licenceRecord,,,Rep,2017-08-02,2017-08-29
+"Cheung, Chi Hung (SFC:AEY847) 張志雄",None,sfclicrec.asp?p=92732,AEY847,http://www.sfc.hk/publicregWeb/indi/AEY847/licenceRecord,,,RO,2017-08-29,2019-02-18
+"Chiu, Sing Ho 趙星皓",None,sfclicrec.asp?p=1998961,AWJ219,http://www.sfc.hk/publicregWeb/indi/AWJ219/licenceRecord,,M,Rep,2012-12-21,2013-12-31
+"Kwok, Chi Hang 郭智恆",None,sfclicrec.asp?p=76891,ARB688,http://www.sfc.hk/publicregWeb/indi/ARB688/licenceRecord,,,Rep,2014-06-05,2014-08-01
+"Kwok, Chi Hang 郭智恆",None,sfclicrec.asp?p=76891,ARB688,http://www.sfc.hk/publicregWeb/indi/ARB688/licenceRecord,,,RO,2014-08-01,2014-11-03
+"Lee, Lai Shing 李禮盛",None,sfclicrec.asp?p=98615,AAK880,http://www.sfc.hk/publicregWeb/indi/AAK880/licenceRecord,,,RO,,2017-05-17
+"Leu, Shuk Ling Ann 廖淑玲",None,sfclicrec.asp?p=2209711,BCY941,http://www.sfc.hk/publicregWeb/indi/BCY941/licenceRecord,,,Rep,2017-12-22,
+"Leung, Siu Ling (SFC:ABG009) 梁小玲",None,sfclicrec.asp?p=98617,ABG009,http://www.sfc.hk/publicregWeb/indi/ABG009/licenceRecord,,,Rep,,
+"Or, Chi Hang 柯志衡",None,sfclicrec.asp?p=120559,AOL351,http://www.sfc.hk/publicregWeb/indi/AOL351/licenceRecord,,,Rep,2016-11-16,2017-01-10
+"Or, Chi Hang 柯志衡",None,sfclicrec.asp?p=120559,AOL351,http://www.sfc.hk/publicregWeb/indi/AOL351/licenceRecord,,,RO,2017-01-10,2017-04-13
+"So, Maggie Yee Mui 蘇綺梅",None,sfclicrec.asp?p=80060,AAD762,http://www.sfc.hk/publicregWeb/indi/AAD762/licenceRecord,,F,Rep,,2007-11-01
+"Tao, Wei (SFC:AFB543) 陶偉",None,sfclicrec.asp?p=98618,AFB543,http://www.sfc.hk/publicregWeb/indi/AFB543/licenceRecord,,,Rep,2005-05-11,2012-11-19
+"Tong, Kwok Choi 唐國財",None,sfclicrec.asp?p=98616,AAE165,http://www.sfc.hk/publicregWeb/indi/AAE165/licenceRecord,,,RO,,

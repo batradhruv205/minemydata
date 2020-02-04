@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Freeman, Peter John (SFC:BLH628) ",sfclicrec.asp?p=12659296,71,M,RO,2017-12-21,
-"Lin, Sam Disheng 林迪生",sfclicrec.asp?p=12659297,38,,RO,2017-12-21,2018-01-31
-"So, Harris Yik Hei 蘇亦熙",sfclicrec.asp?p=15272920,,,Rep,2018-05-21,2019-04-12
-"Xu, Ke (SFC:BLH634) 徐柯",sfclicrec.asp?p=12659298,,,RO,2017-12-21,
-"Yip, Hou Yin 葉浩然",sfclicrec.asp?p=15675295,,,Rep,2019-04-17,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Freeman, Peter John (SFC:BLH628) ",None,sfclicrec.asp?p=12659296,BLH628,http://www.sfc.hk/publicregWeb/indi/BLH628/licenceRecord,71.0,M,RO,2017-12-21,
+"Lin, Sam Disheng 林迪生",None,sfclicrec.asp?p=12659297,BLH633,http://www.sfc.hk/publicregWeb/indi/BLH633/licenceRecord,38.0,,RO,2017-12-21,2018-01-31
+"So, Harris Yik Hei 蘇亦熙",None,sfclicrec.asp?p=15272920,BMU853,http://www.sfc.hk/publicregWeb/indi/BMU853/licenceRecord,,,Rep,2018-05-21,2019-04-12
+"Xu, Ke (SFC:BLH634) 徐柯",None,sfclicrec.asp?p=12659298,BLH634,http://www.sfc.hk/publicregWeb/indi/BLH634/licenceRecord,,,RO,2017-12-21,
+"Yip, Hou Yin 葉浩然",None,sfclicrec.asp?p=15675295,BMV402,http://www.sfc.hk/publicregWeb/indi/BMV402/licenceRecord,,,Rep,2019-04-17,

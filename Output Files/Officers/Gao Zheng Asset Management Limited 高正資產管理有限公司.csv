@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Gao, Liangyu (SFC:ARN192) 高良玉",sfclicrec.asp?p=13880240,,,RO,2018-04-13,
-"Gu, Mingyu 谷明羽",sfclicrec.asp?p=11778658,,,Rep,2018-05-03,2018-12-24
-"Xu, Shufu 徐樹富",sfclicrec.asp?p=1870182,,,RO,2018-04-13,2019-11-30
-"Zhu, Weiqi 朱偉奇",sfclicrec.asp?p=2457275,,,Rep,2018-05-14,2018-10-16
-"Zhu, Weiqi 朱偉奇",sfclicrec.asp?p=2457275,,,RO,2018-10-16,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Gao, Liangyu (SFC:ARN192) 高良玉",None,sfclicrec.asp?p=13880240,ARN192,http://www.sfc.hk/publicregWeb/indi/ARN192/licenceRecord,,,RO,2018-04-13,
+"Gu, Mingyu 谷明羽",None,sfclicrec.asp?p=11778658,BKB316,http://www.sfc.hk/publicregWeb/indi/BKB316/licenceRecord,,,Rep,2018-05-03,2018-12-24
+"Xu, Shufu 徐樹富",None,sfclicrec.asp?p=1870182,AZF356,http://www.sfc.hk/publicregWeb/indi/AZF356/licenceRecord,,,RO,2018-04-13,2019-11-30
+"Zhu, Weiqi 朱偉奇",None,sfclicrec.asp?p=2457275,BFX215,http://www.sfc.hk/publicregWeb/indi/BFX215/licenceRecord,,,Rep,2018-05-14,2018-10-16
+"Zhu, Weiqi 朱偉奇",None,sfclicrec.asp?p=2457275,BFX215,http://www.sfc.hk/publicregWeb/indi/BFX215/licenceRecord,,,RO,2018-10-16,

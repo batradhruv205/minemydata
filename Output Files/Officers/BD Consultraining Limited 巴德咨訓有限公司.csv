@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Li, Kecheng (SFC:AKO454) 李克誠",sfclicrec.asp?p=113810,,,RO,2017-03-21,2018-07-19
-"Ruan, Pengyu 阮鵬宇",sfclicrec.asp?p=23025886,,,Rep,2019-04-09,2019-06-21
-"Yan, Chen (SFC:BNQ534) 颜晨",sfclicrec.asp?p=22390871,,,Rep,2018-11-05,
-"Yang, Jian (SFC:AFU682) 羊健",sfclicrec.asp?p=107732,,M,RO,2017-03-21,2018-08-28
-"Ying, Hua 應華",sfclicrec.asp?p=2158795,,,RO,2018-01-31,
-"Ying, Yuming (SFC:ACI900) 應玉明",sfclicrec.asp?p=102822,,,RO,2018-07-04,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Li, Kecheng (SFC:AKO454) 李克誠",None,sfclicrec.asp?p=113810,AKO454,http://www.sfc.hk/publicregWeb/indi/AKO454/licenceRecord,,,RO,2017-03-21,2018-07-19
+"Ruan, Pengyu 阮鵬宇",None,sfclicrec.asp?p=23025886,BOE527,http://www.sfc.hk/publicregWeb/indi/BOE527/licenceRecord,,,Rep,2019-04-09,2019-06-21
+"Yan, Chen (SFC:BNQ534) 颜晨",None,sfclicrec.asp?p=22390871,BNQ534,http://www.sfc.hk/publicregWeb/indi/BNQ534/licenceRecord,,,Rep,2018-11-05,
+"Yang, Jian (SFC:AFU682) 羊健",None,sfclicrec.asp?p=107732,AFU682,http://www.sfc.hk/publicregWeb/indi/AFU682/licenceRecord,,M,RO,2017-03-21,2018-08-28
+"Ying, Hua 應華",None,sfclicrec.asp?p=2158795,BCF439,http://www.sfc.hk/publicregWeb/indi/BCF439/licenceRecord,,,RO,2018-01-31,
+"Ying, Yuming (SFC:ACI900) 應玉明",None,sfclicrec.asp?p=102822,ACI900,http://www.sfc.hk/publicregWeb/indi/ACI900/licenceRecord,,,RO,2018-07-04,

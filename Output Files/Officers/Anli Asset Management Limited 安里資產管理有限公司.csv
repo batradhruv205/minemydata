@@ -1,18 +1,18 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Hiu Bun 陳曉彬",sfclicrec.asp?p=64098,,M,Rep,2007-01-23,2013-10-25
-"Chan, Hiu Bun 陳曉彬",sfclicrec.asp?p=64098,,M,RO,2013-10-25,2014-03-28
-"Chan, Hiu Bun 陳曉彬",sfclicrec.asp?p=64098,,M,Rep,2015-12-11,2015-12-29
-"Chan, Hiu Bun 陳曉彬",sfclicrec.asp?p=64098,,M,RO,2015-12-29,
-"Chiu, Wing Hong David ",sfclicrec.asp?p=23515356,,M,Rep,2019-08-06,
-"Chung, Wai Ting 鍾慧婷",sfclicrec.asp?p=22731136,,,Rep,2019-07-30,
-"D'Souza, Felix Otto ",sfclicrec.asp?p=105076,,M,Rep,,2003-07-23
-"Dialdas, Anand ",sfclicrec.asp?p=114390,,,Rep,2004-09-17,2005-02-16
-"Kan, Alice Lai Kuen 簡麗娟",sfclicrec.asp?p=14922,65,F,RO,2005-09-28,2015-04-01
-"Lai, Lawrence Yue Cheong 黎裕昌",sfclicrec.asp?p=64096,,M,Rep,,2004-05-31
-"Lai, Lawrence Yue Cheong 黎裕昌",sfclicrec.asp?p=64096,,M,RO,2004-05-31,2005-02-25
-"Lai, Lawrence Yue Cheong 黎裕昌",sfclicrec.asp?p=64096,,M,RO,2005-03-15,2014-12-20
-"Lai, Lawrence Yue Cheong 黎裕昌",sfclicrec.asp?p=64096,,M,Rep,2016-11-22,2016-12-22
-"Lai, Lawrence Yue Cheong 黎裕昌",sfclicrec.asp?p=64096,,M,RO,2016-12-22,
-"Pearson, Andrew John (SFC:AAJ834) ",sfclicrec.asp?p=64097,,M,Rep,2007-12-18,2015-02-09
-"Pearson, Andrew John (SFC:AAJ834) ",sfclicrec.asp?p=64097,,M,RO,2015-02-09,
-"Pheby, Paul John ",sfclicrec.asp?p=64095,,M,RO,,2016-04-08
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Hiu Bun 陳曉彬",None,sfclicrec.asp?p=64098,AOG841,http://www.sfc.hk/publicregWeb/indi/AOG841/licenceRecord,,M,Rep,2007-01-23,2013-10-25
+"Chan, Hiu Bun 陳曉彬",None,sfclicrec.asp?p=64098,AOG841,http://www.sfc.hk/publicregWeb/indi/AOG841/licenceRecord,,M,RO,2013-10-25,2014-03-28
+"Chan, Hiu Bun 陳曉彬",None,sfclicrec.asp?p=64098,AOG841,http://www.sfc.hk/publicregWeb/indi/AOG841/licenceRecord,,M,Rep,2015-12-11,2015-12-29
+"Chan, Hiu Bun 陳曉彬",None,sfclicrec.asp?p=64098,AOG841,http://www.sfc.hk/publicregWeb/indi/AOG841/licenceRecord,,M,RO,2015-12-29,
+"Chiu, Wing Hong David ",None,sfclicrec.asp?p=23515356,BOQ897,http://www.sfc.hk/publicregWeb/indi/BOQ897/licenceRecord,,M,Rep,2019-08-06,
+"Chung, Wai Ting 鍾慧婷",None,sfclicrec.asp?p=22731136,BOB604,http://www.sfc.hk/publicregWeb/indi/BOB604/licenceRecord,,,Rep,2019-07-30,
+"D'Souza, Felix Otto ",None,sfclicrec.asp?p=105076,AEN822,http://www.sfc.hk/publicregWeb/indi/AEN822/licenceRecord,,M,Rep,,2003-07-23
+"Dialdas, Anand ",None,sfclicrec.asp?p=114390,ALD236,http://www.sfc.hk/publicregWeb/indi/ALD236/licenceRecord,,,Rep,2004-09-17,2005-02-16
+"Kan, Alice Lai Kuen 簡麗娟",None,sfclicrec.asp?p=14922,AAW446,http://www.sfc.hk/publicregWeb/indi/AAW446/licenceRecord,65.0,F,RO,2005-09-28,2015-04-01
+"Lai, Lawrence Yue Cheong 黎裕昌",None,sfclicrec.asp?p=64096,ADI505,http://www.sfc.hk/publicregWeb/indi/ADI505/licenceRecord,,M,Rep,,2004-05-31
+"Lai, Lawrence Yue Cheong 黎裕昌",None,sfclicrec.asp?p=64096,ADI505,http://www.sfc.hk/publicregWeb/indi/ADI505/licenceRecord,,M,RO,2004-05-31,2005-02-25
+"Lai, Lawrence Yue Cheong 黎裕昌",None,sfclicrec.asp?p=64096,ADI505,http://www.sfc.hk/publicregWeb/indi/ADI505/licenceRecord,,M,RO,2005-03-15,2014-12-20
+"Lai, Lawrence Yue Cheong 黎裕昌",None,sfclicrec.asp?p=64096,ADI505,http://www.sfc.hk/publicregWeb/indi/ADI505/licenceRecord,,M,Rep,2016-11-22,2016-12-22
+"Lai, Lawrence Yue Cheong 黎裕昌",None,sfclicrec.asp?p=64096,ADI505,http://www.sfc.hk/publicregWeb/indi/ADI505/licenceRecord,,M,RO,2016-12-22,
+"Pearson, Andrew John (SFC:AAJ834) ",None,sfclicrec.asp?p=64097,AAJ834,http://www.sfc.hk/publicregWeb/indi/AAJ834/licenceRecord,,M,Rep,2007-12-18,2015-02-09
+"Pearson, Andrew John (SFC:AAJ834) ",None,sfclicrec.asp?p=64097,AAJ834,http://www.sfc.hk/publicregWeb/indi/AAJ834/licenceRecord,,M,RO,2015-02-09,
+"Pheby, Paul John ",None,sfclicrec.asp?p=64095,AAW503,http://www.sfc.hk/publicregWeb/indi/AAW503/licenceRecord,,M,RO,,2016-04-08

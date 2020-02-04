@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Siyuan 程思遠",sfclicrec.asp?p=133282,,,Rep,2018-06-28,
-"Vacek, Karel ",sfclicrec.asp?p=98983,,,RO,2016-06-23,
-"Vacek, Tomas ",sfclicrec.asp?p=2596589,,M,RO,2016-06-23,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Siyuan 程思遠",None,sfclicrec.asp?p=133282,AYI803,http://www.sfc.hk/publicregWeb/indi/AYI803/licenceRecord,,,Rep,2018-06-28,
+"Vacek, Karel ",None,sfclicrec.asp?p=98983,ANG964,http://www.sfc.hk/publicregWeb/indi/ANG964/licenceRecord,,,RO,2016-06-23,
+"Vacek, Tomas ",None,sfclicrec.asp?p=2596589,BHG106,http://www.sfc.hk/publicregWeb/indi/BHG106/licenceRecord,,M,RO,2016-06-23,

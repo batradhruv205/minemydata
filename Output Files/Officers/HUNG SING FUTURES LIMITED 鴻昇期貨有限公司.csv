@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Chun Chung (SFC:AEQ936) 陳振聰",sfclicrec.asp?p=77840,,,Rep,,2006-04-30
-"Chan, Kitty Pui Man 陳蓓敏",sfclicrec.asp?p=92952,,F,Rep,2013-04-16,2019-12-30
-"Chan, Yip Lai 陳業禮",sfclicrec.asp?p=83417,,,Rep,2006-10-18,2016-05-31
-"Cheng, Siu Wa (SFC:ADG364) 鄭少華",sfclicrec.asp?p=83418,,,Rep,2004-06-25,2011-12-31
-"Cheung, Ho Wing (SFC:AFD476) 張浩榮",sfclicrec.asp?p=83427,,,Rep,2004-04-30,2010-11-05
-"Cheung, Wai Shan (SFC:AIK836) 張慧珊",sfclicrec.asp?p=83420,,,Rep,2009-03-31,2019-12-30
-"Cheung, Yik Cho 張益祖",sfclicrec.asp?p=83415,,,RO,,
-"Chow, Alex Wai Chi 鄒偉智",sfclicrec.asp?p=83416,,,Rep,,2004-11-23
-"Chow, Alex Wai Chi 鄒偉智",sfclicrec.asp?p=83416,,,RO,2004-11-23,
-"Chung, Tak On 鍾德安",sfclicrec.asp?p=83421,,,Rep,2009-06-15,2012-01-31
-"Lau, Carmela Yin Mei 劉燕薇",sfclicrec.asp?p=73622,,F,Rep,2005-12-05,2006-06-23
-"Shum, Alan Koon Ho 沈冠豪",sfclicrec.asp?p=2149202,,M,Rep,2017-12-06,2019-07-31
-"Tang, Wang Kit 鄧宏杰",sfclicrec.asp?p=83006,,,Rep,2008-12-29,2009-06-12
-"Yeung, Chung Lung (SFC:AQX406) 楊仲龍",sfclicrec.asp?p=97360,,,Rep,2012-12-10,2015-02-10
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Chun Chung (SFC:AEQ936) 陳振聰",None,sfclicrec.asp?p=77840,AEQ936,http://www.sfc.hk/publicregWeb/indi/AEQ936/licenceRecord,,,Rep,,2006-04-30
+"Chan, Kitty Pui Man 陳蓓敏",None,sfclicrec.asp?p=92952,ACG082,http://www.sfc.hk/publicregWeb/indi/ACG082/licenceRecord,,F,Rep,2013-04-16,2019-12-30
+"Chan, Yip Lai 陳業禮",None,sfclicrec.asp?p=83417,AML609,http://www.sfc.hk/publicregWeb/indi/AML609/licenceRecord,,,Rep,2006-10-18,2016-05-31
+"Cheng, Siu Wa (SFC:ADG364) 鄭少華",None,sfclicrec.asp?p=83418,ADG364,http://www.sfc.hk/publicregWeb/indi/ADG364/licenceRecord,,,Rep,2004-06-25,2011-12-31
+"Cheung, Ho Wing (SFC:AFD476) 張浩榮",None,sfclicrec.asp?p=83427,AFD476,http://www.sfc.hk/publicregWeb/indi/AFD476/licenceRecord,,,Rep,2004-04-30,2010-11-05
+"Cheung, Wai Shan (SFC:AIK836) 張慧珊",None,sfclicrec.asp?p=83420,AIK836,http://www.sfc.hk/publicregWeb/indi/AIK836/licenceRecord,,,Rep,2009-03-31,2019-12-30
+"Cheung, Yik Cho 張益祖",None,sfclicrec.asp?p=83415,ABZ300,http://www.sfc.hk/publicregWeb/indi/ABZ300/licenceRecord,,,RO,,
+"Chow, Alex Wai Chi 鄒偉智",None,sfclicrec.asp?p=83416,ABS168,http://www.sfc.hk/publicregWeb/indi/ABS168/licenceRecord,,,Rep,,2004-11-23
+"Chow, Alex Wai Chi 鄒偉智",None,sfclicrec.asp?p=83416,ABS168,http://www.sfc.hk/publicregWeb/indi/ABS168/licenceRecord,,,RO,2004-11-23,
+"Chung, Tak On 鍾德安",None,sfclicrec.asp?p=83421,ASE220,http://www.sfc.hk/publicregWeb/indi/ASE220/licenceRecord,,,Rep,2009-06-15,2012-01-31
+"Lau, Carmela Yin Mei 劉燕薇",None,sfclicrec.asp?p=73622,ABM705,http://www.sfc.hk/publicregWeb/indi/ABM705/licenceRecord,,F,Rep,2005-12-05,2006-06-23
+"Shum, Alan Koon Ho 沈冠豪",None,sfclicrec.asp?p=2149202,BBV882,http://www.sfc.hk/publicregWeb/indi/BBV882/licenceRecord,,M,Rep,2017-12-06,2019-07-31
+"Tang, Wang Kit 鄧宏杰",None,sfclicrec.asp?p=83006,ARP465,http://www.sfc.hk/publicregWeb/indi/ARP465/licenceRecord,,,Rep,2008-12-29,2009-06-12
+"Yeung, Chung Lung (SFC:AQX406) 楊仲龍",None,sfclicrec.asp?p=97360,AQX406,http://www.sfc.hk/publicregWeb/indi/AQX406/licenceRecord,,,Rep,2012-12-10,2015-02-10

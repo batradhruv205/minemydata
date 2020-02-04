@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Chi Kai (SFC:AAB419) 陳志佳",sfclicrec.asp?p=98181,,,RO,,
-"Lee, Matthew Yiu Wing 李耀榮",sfclicrec.asp?p=2463126,,M,Rep,2015-08-17,2017-06-16
-"Ngai, Chun Yu 魏鐥䨞",sfclicrec.asp?p=81901,,,Rep,2008-10-24,2009-07-27
-"Tse, Chi Yan (SFC:AEY373) 謝祠仁",sfclicrec.asp?p=98183,,,Rep,,
-"Wong, Chung Sze 黃仲士",sfclicrec.asp?p=98182,,,RO,,
-"Wong, Hon Chee 黃漢持",sfclicrec.asp?p=98184,,,Rep,,
-"Woo, Sai Cheung 胡世祥",sfclicrec.asp?p=67796,,M,Rep,2005-12-30,2018-05-31
-"Wu, Ernie Shuk Yee 胡淑儀",sfclicrec.asp?p=107765,,,Rep,,2006-03-31
-"Wu, Ming Yuen 胡命源",sfclicrec.asp?p=98185,,,Rep,,2019-05-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Chi Kai (SFC:AAB419) 陳志佳",None,sfclicrec.asp?p=98181,AAB419,http://www.sfc.hk/publicregWeb/indi/AAB419/licenceRecord,,,RO,,
+"Lee, Matthew Yiu Wing 李耀榮",None,sfclicrec.asp?p=2463126,BFS751,http://www.sfc.hk/publicregWeb/indi/BFS751/licenceRecord,,M,Rep,2015-08-17,2017-06-16
+"Ngai, Chun Yu 魏鐥䨞",None,sfclicrec.asp?p=81901,ARP385,http://www.sfc.hk/publicregWeb/indi/ARP385/licenceRecord,,,Rep,2008-10-24,2009-07-27
+"Tse, Chi Yan (SFC:AEY373) 謝祠仁",None,sfclicrec.asp?p=98183,AEY373,http://www.sfc.hk/publicregWeb/indi/AEY373/licenceRecord,,,Rep,,
+"Wong, Chung Sze 黃仲士",None,sfclicrec.asp?p=98182,AEW835,http://www.sfc.hk/publicregWeb/indi/AEW835/licenceRecord,,,RO,,
+"Wong, Hon Chee 黃漢持",None,sfclicrec.asp?p=98184,AAK626,http://www.sfc.hk/publicregWeb/indi/AAK626/licenceRecord,,,Rep,,
+"Woo, Sai Cheung 胡世祥",None,sfclicrec.asp?p=67796,AMS086,http://www.sfc.hk/publicregWeb/indi/AMS086/licenceRecord,,M,Rep,2005-12-30,2018-05-31
+"Wu, Ernie Shuk Yee 胡淑儀",None,sfclicrec.asp?p=107765,AFU867,http://www.sfc.hk/publicregWeb/indi/AFU867/licenceRecord,,,Rep,,2006-03-31
+"Wu, Ming Yuen 胡命源",None,sfclicrec.asp?p=98185,ABN484,http://www.sfc.hk/publicregWeb/indi/ABN484/licenceRecord,,,Rep,,2019-05-31

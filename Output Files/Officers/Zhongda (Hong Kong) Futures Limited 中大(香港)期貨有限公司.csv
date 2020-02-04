@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bai, Shaonan 伯紹楠",sfclicrec.asp?p=72840,,,RO,2017-01-13,
-"Chan, Siu Wing (SFC:AWW339) 陳兆榮",sfclicrec.asp?p=97292,,,Rep,2018-11-13,2019-08-09
-"Cheng, Kin Chun Kenneth 鄭健駿",sfclicrec.asp?p=11789157,,,Rep,2017-12-06,
-"Gu, Kaiqi 顾凯亓",sfclicrec.asp?p=23716104,,,Rep,2019-09-27,
-"Hong, Yufan 洪宇凡",sfclicrec.asp?p=22104519,,,Rep,2018-08-28,
-"Jiang, Gen 江亘",sfclicrec.asp?p=16941057,,,Rep,2018-06-07,2018-08-22
-"Lei, Ming (SFC:BII078) 雷鸣",sfclicrec.asp?p=2687019,,,RO,2017-01-13,2017-06-16
-"Lei, Ming (SFC:BII078) 雷鸣",sfclicrec.asp?p=2687019,,,Rep,2017-06-16,2018-12-18
-"Li, Ji (SFC:BCE400) 李驥",sfclicrec.asp?p=2164195,,,Rep,2017-03-24,2018-10-31
-"Lin, Chun Pan 連俊彬",sfclicrec.asp?p=22605211,,,Rep,2019-01-04,
-"Shen, Hua (SFC:BII093) 沈驊",sfclicrec.asp?p=2687020,,,RO,2017-01-13,
-"Tam, Kwok Chung (SFC:BJG479) 譚國忠",sfclicrec.asp?p=6706544,,,Rep,2017-03-24,2018-04-27
-"Wang, Xuhua 王勖驊",sfclicrec.asp?p=22246171,,,RO,2018-10-10,
-"Yang, Fan (SFC:BJG671) 楊帆",sfclicrec.asp?p=6706545,,,Rep,2017-03-24,2017-12-01
-"Zhang, Shujuan 張淑娟",sfclicrec.asp?p=11480249,,,Rep,2017-06-08,2018-02-28
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bai, Shaonan 伯紹楠",None,sfclicrec.asp?p=72840,AWV318,http://www.sfc.hk/publicregWeb/indi/AWV318/licenceRecord,,,RO,2017-01-13,
+"Chan, Siu Wing (SFC:AWW339) 陳兆榮",None,sfclicrec.asp?p=97292,AWW339,http://www.sfc.hk/publicregWeb/indi/AWW339/licenceRecord,,,Rep,2018-11-13,2019-08-09
+"Cheng, Kin Chun Kenneth 鄭健駿",None,sfclicrec.asp?p=11789157,BJY611,http://www.sfc.hk/publicregWeb/indi/BJY611/licenceRecord,,,Rep,2017-12-06,
+"Gu, Kaiqi 顾凯亓",None,sfclicrec.asp?p=23716104,BOU750,http://www.sfc.hk/publicregWeb/indi/BOU750/licenceRecord,,,Rep,2019-09-27,
+"Hong, Yufan 洪宇凡",None,sfclicrec.asp?p=22104519,BNK793,http://www.sfc.hk/publicregWeb/indi/BNK793/licenceRecord,,,Rep,2018-08-28,
+"Jiang, Gen 江亘",None,sfclicrec.asp?p=16941057,BMY667,http://www.sfc.hk/publicregWeb/indi/BMY667/licenceRecord,,,Rep,2018-06-07,2018-08-22
+"Lei, Ming (SFC:BII078) 雷鸣",None,sfclicrec.asp?p=2687019,BII078,http://www.sfc.hk/publicregWeb/indi/BII078/licenceRecord,,,RO,2017-01-13,2017-06-16
+"Lei, Ming (SFC:BII078) 雷鸣",None,sfclicrec.asp?p=2687019,BII078,http://www.sfc.hk/publicregWeb/indi/BII078/licenceRecord,,,Rep,2017-06-16,2018-12-18
+"Li, Ji (SFC:BCE400) 李驥",None,sfclicrec.asp?p=2164195,BCE400,http://www.sfc.hk/publicregWeb/indi/BCE400/licenceRecord,,,Rep,2017-03-24,2018-10-31
+"Lin, Chun Pan 連俊彬",None,sfclicrec.asp?p=22605211,AXO212,http://www.sfc.hk/publicregWeb/indi/AXO212/licenceRecord,,,Rep,2019-01-04,
+"Shen, Hua (SFC:BII093) 沈驊",None,sfclicrec.asp?p=2687020,BII093,http://www.sfc.hk/publicregWeb/indi/BII093/licenceRecord,,,RO,2017-01-13,
+"Tam, Kwok Chung (SFC:BJG479) 譚國忠",None,sfclicrec.asp?p=6706544,BJG479,http://www.sfc.hk/publicregWeb/indi/BJG479/licenceRecord,,,Rep,2017-03-24,2018-04-27
+"Wang, Xuhua 王勖驊",None,sfclicrec.asp?p=22246171,BMP523,http://www.sfc.hk/publicregWeb/indi/BMP523/licenceRecord,,,RO,2018-10-10,
+"Yang, Fan (SFC:BJG671) 楊帆",None,sfclicrec.asp?p=6706545,BJG671,http://www.sfc.hk/publicregWeb/indi/BJG671/licenceRecord,,,Rep,2017-03-24,2017-12-01
+"Zhang, Shujuan 張淑娟",None,sfclicrec.asp?p=11480249,BJQ776,http://www.sfc.hk/publicregWeb/indi/BJQ776/licenceRecord,,,Rep,2017-06-08,2018-02-28

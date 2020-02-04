@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chobtuangthong, Pongsagon 蔡鳳江",sfclicrec.asp?p=82654,,,Rep,2017-06-09,2017-12-31
-"Fan, Jiachen 范佳宸",sfclicrec.asp?p=2602659,,,Rep,2018-01-16,2019-09-30
-"Huang, Chun-Chieh (SFC:ATC043) 黃俊傑",sfclicrec.asp?p=128068,,,Rep,2016-01-25,2017-07-12
-"Jiang, Ting (SFC:BFL046) 江汀",sfclicrec.asp?p=2420089,,,Rep,2016-12-12,2019-08-30
-"Li, Weiwei (SFC:AXY460) 李維偉",sfclicrec.asp?p=153433,,,Rep,2014-08-21,2017-11-24
-"Liu, Pohong 劉珀宏",sfclicrec.asp?p=2310985,,,RO,2013-11-29,
-"Wang, Yi Peng 王亦蓬",sfclicrec.asp?p=11766046,,,Rep,2017-07-10,2018-07-03
-"Wu, Chun Tat 吳俊達",sfclicrec.asp?p=12665665,,,Rep,2017-12-29,2019-04-26
-"Wu, Tzu Kuan 吳姿觀",sfclicrec.asp?p=133607,,,Rep,2019-08-01,2019-08-30
-"Wu, Tzu Kuan 吳姿觀",sfclicrec.asp?p=133607,,,RO,2019-08-30,
-"Zhou, Nan (SFC:BBS517) 周楠",sfclicrec.asp?p=2310986,,,RO,2013-11-29,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chobtuangthong, Pongsagon 蔡鳳江",None,sfclicrec.asp?p=82654,AFQ785,http://www.sfc.hk/publicregWeb/indi/AFQ785/licenceRecord,,,Rep,2017-06-09,2017-12-31
+"Fan, Jiachen 范佳宸",None,sfclicrec.asp?p=2602659,BHP648,http://www.sfc.hk/publicregWeb/indi/BHP648/licenceRecord,,,Rep,2018-01-16,2019-09-30
+"Huang, Chun-Chieh (SFC:ATC043) 黃俊傑",None,sfclicrec.asp?p=128068,ATC043,http://www.sfc.hk/publicregWeb/indi/ATC043/licenceRecord,,,Rep,2016-01-25,2017-07-12
+"Jiang, Ting (SFC:BFL046) 江汀",None,sfclicrec.asp?p=2420089,BFL046,http://www.sfc.hk/publicregWeb/indi/BFL046/licenceRecord,,,Rep,2016-12-12,2019-08-30
+"Li, Weiwei (SFC:AXY460) 李維偉",None,sfclicrec.asp?p=153433,AXY460,http://www.sfc.hk/publicregWeb/indi/AXY460/licenceRecord,,,Rep,2014-08-21,2017-11-24
+"Liu, Pohong 劉珀宏",None,sfclicrec.asp?p=2310985,BBS515,http://www.sfc.hk/publicregWeb/indi/BBS515/licenceRecord,,,RO,2013-11-29,
+"Wang, Yi Peng 王亦蓬",None,sfclicrec.asp?p=11766046,BJR851,http://www.sfc.hk/publicregWeb/indi/BJR851/licenceRecord,,,Rep,2017-07-10,2018-07-03
+"Wu, Chun Tat 吳俊達",None,sfclicrec.asp?p=12665665,BLU043,http://www.sfc.hk/publicregWeb/indi/BLU043/licenceRecord,,,Rep,2017-12-29,2019-04-26
+"Wu, Tzu Kuan 吳姿觀",None,sfclicrec.asp?p=133607,AYK003,http://www.sfc.hk/publicregWeb/indi/AYK003/licenceRecord,,,Rep,2019-08-01,2019-08-30
+"Wu, Tzu Kuan 吳姿觀",None,sfclicrec.asp?p=133607,AYK003,http://www.sfc.hk/publicregWeb/indi/AYK003/licenceRecord,,,RO,2019-08-30,
+"Zhou, Nan (SFC:BBS517) 周楠",None,sfclicrec.asp?p=2310986,BBS517,http://www.sfc.hk/publicregWeb/indi/BBS517/licenceRecord,,,RO,2013-11-29,

@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lam, Chi Fu 林志富",sfclicrec.asp?p=91221,,,Rep,2019-03-18,2019-05-24
-"Lam, Chi Fu 林志富",sfclicrec.asp?p=91221,,,RO,2019-05-24,
-"Lam, Chun Yan 林春欣",sfclicrec.asp?p=18030174,,,Rep,2018-06-28,2018-09-07
-"Lee, Yee Tak 李以德",sfclicrec.asp?p=2233431,,,RO,2016-11-10,
-"Lew, Samson Sze Sing 廖思聖",sfclicrec.asp?p=91741,,M,RO,2016-11-10,2017-05-31
-"Lun, Shu Lam 倫樹霖",sfclicrec.asp?p=97642,,,RO,2016-11-14,2019-05-31
-"Ngok, Wing Chung 鄂穎聰",sfclicrec.asp?p=94731,,,Rep,2019-03-11,2019-10-03
-"Tang, Chak Hung 鄧澤鴻",sfclicrec.asp?p=2164205,,,Rep,2019-07-12,2019-09-04
-"Tang, Chak Hung 鄧澤鴻",sfclicrec.asp?p=2164205,,,RO,2019-09-04,
-"Zeng, Fanjie 曾繁杰",sfclicrec.asp?p=12103658,,,Rep,2018-10-03,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lam, Chi Fu 林志富",None,sfclicrec.asp?p=91221,ABS052,http://www.sfc.hk/publicregWeb/indi/ABS052/licenceRecord,,,Rep,2019-03-18,2019-05-24
+"Lam, Chi Fu 林志富",None,sfclicrec.asp?p=91221,ABS052,http://www.sfc.hk/publicregWeb/indi/ABS052/licenceRecord,,,RO,2019-05-24,
+"Lam, Chun Yan 林春欣",None,sfclicrec.asp?p=18030174,BMX698,http://www.sfc.hk/publicregWeb/indi/BMX698/licenceRecord,,,Rep,2018-06-28,2018-09-07
+"Lee, Yee Tak 李以德",None,sfclicrec.asp?p=2233431,BCZ916,http://www.sfc.hk/publicregWeb/indi/BCZ916/licenceRecord,,,RO,2016-11-10,
+"Lew, Samson Sze Sing 廖思聖",None,sfclicrec.asp?p=91741,AJI652,http://www.sfc.hk/publicregWeb/indi/AJI652/licenceRecord,,M,RO,2016-11-10,2017-05-31
+"Lun, Shu Lam 倫樹霖",None,sfclicrec.asp?p=97642,AMC981,http://www.sfc.hk/publicregWeb/indi/AMC981/licenceRecord,,,RO,2016-11-14,2019-05-31
+"Ngok, Wing Chung 鄂穎聰",None,sfclicrec.asp?p=94731,AQU618,http://www.sfc.hk/publicregWeb/indi/AQU618/licenceRecord,,,Rep,2019-03-11,2019-10-03
+"Tang, Chak Hung 鄧澤鴻",None,sfclicrec.asp?p=2164205,BCC666,http://www.sfc.hk/publicregWeb/indi/BCC666/licenceRecord,,,Rep,2019-07-12,2019-09-04
+"Tang, Chak Hung 鄧澤鴻",None,sfclicrec.asp?p=2164205,BCC666,http://www.sfc.hk/publicregWeb/indi/BCC666/licenceRecord,,,RO,2019-09-04,
+"Zeng, Fanjie 曾繁杰",None,sfclicrec.asp?p=12103658,BKU662,http://www.sfc.hk/publicregWeb/indi/BKU662/licenceRecord,,,Rep,2018-10-03,

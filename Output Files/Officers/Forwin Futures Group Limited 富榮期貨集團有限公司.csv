@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Lai Ming (SFC:AOD290) 陳麗明",sfclicrec.asp?p=97732,,,Rep,2016-08-22,2016-09-30
-"Chan, Lap Chung (SFC:AIJ099) 陳立中",sfclicrec.asp?p=99679,,,RO,2018-10-10,2019-02-17
-"Chan, Raymond Wai Man (SFC:AEI190) 陳偉民",sfclicrec.asp?p=93499,,,RO,2017-09-13,2018-09-28
-"Kee, Po Tung 紀寶東",sfclicrec.asp?p=2407468,,,Rep,2016-09-26,2016-10-28
-"Kwok, Chi Yeung 郭至洋",sfclicrec.asp?p=72950,,,RO,2019-06-06,
-"Lam, Kevin Kai Wing 林繼榮",sfclicrec.asp?p=82218,,M,RO,2016-09-22,2017-01-31
-"Ling, Colin Celan 凌思綸",sfclicrec.asp?p=90141,,M,RO,2016-06-22,2016-09-30
-"Lui, Stefan Chun Wai 呂駿暐",sfclicrec.asp?p=134563,,M,RO,2018-10-29,2019-01-07
-"Tang, Wing Hang (SFC:AUQ663) 鄧永衡",sfclicrec.asp?p=85476,,,Rep,2016-11-18,2017-11-30
-"Tse, Siu Yuen 謝少淵",sfclicrec.asp?p=72990,,,RO,2017-03-10,2017-07-31
-"Wah, Johnny Wang Ming 華宏銘",sfclicrec.asp?p=93096,,M,RO,2016-06-22,2019-06-10
-"Wong, Wing Kai (SFC:APB489) 黃永楷",sfclicrec.asp?p=71875,,,Rep,2017-05-17,2017-06-09
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Lai Ming (SFC:AOD290) 陳麗明",None,sfclicrec.asp?p=97732,AOD290,http://www.sfc.hk/publicregWeb/indi/AOD290/licenceRecord,,,Rep,2016-08-22,2016-09-30
+"Chan, Lap Chung (SFC:AIJ099) 陳立中",None,sfclicrec.asp?p=99679,AIJ099,http://www.sfc.hk/publicregWeb/indi/AIJ099/licenceRecord,,,RO,2018-10-10,2019-02-17
+"Chan, Raymond Wai Man (SFC:AEI190) 陳偉民",None,sfclicrec.asp?p=93499,AEI190,http://www.sfc.hk/publicregWeb/indi/AEI190/licenceRecord,,,RO,2017-09-13,2018-09-28
+"Kee, Po Tung 紀寶東",None,sfclicrec.asp?p=2407468,AWK157,http://www.sfc.hk/publicregWeb/indi/AWK157/licenceRecord,,,Rep,2016-09-26,2016-10-28
+"Kwok, Chi Yeung 郭至洋",None,sfclicrec.asp?p=72950,AOV745,http://www.sfc.hk/publicregWeb/indi/AOV745/licenceRecord,,,RO,2019-06-06,
+"Lam, Kevin Kai Wing 林繼榮",None,sfclicrec.asp?p=82218,ABM100,http://www.sfc.hk/publicregWeb/indi/ABM100/licenceRecord,,M,RO,2016-09-22,2017-01-31
+"Ling, Colin Celan 凌思綸",None,sfclicrec.asp?p=90141,ABU679,http://www.sfc.hk/publicregWeb/indi/ABU679/licenceRecord,,M,RO,2016-06-22,2016-09-30
+"Lui, Stefan Chun Wai 呂駿暐",None,sfclicrec.asp?p=134563,AYP090,http://www.sfc.hk/publicregWeb/indi/AYP090/licenceRecord,,M,RO,2018-10-29,2019-01-07
+"Tang, Wing Hang (SFC:AUQ663) 鄧永衡",None,sfclicrec.asp?p=85476,AUQ663,http://www.sfc.hk/publicregWeb/indi/AUQ663/licenceRecord,,,Rep,2016-11-18,2017-11-30
+"Tse, Siu Yuen 謝少淵",None,sfclicrec.asp?p=72990,AQA082,http://www.sfc.hk/publicregWeb/indi/AQA082/licenceRecord,,,RO,2017-03-10,2017-07-31
+"Wah, Johnny Wang Ming 華宏銘",None,sfclicrec.asp?p=93096,ABB624,http://www.sfc.hk/publicregWeb/indi/ABB624/licenceRecord,,M,RO,2016-06-22,2019-06-10
+"Wong, Wing Kai (SFC:APB489) 黃永楷",None,sfclicrec.asp?p=71875,APB489,http://www.sfc.hk/publicregWeb/indi/APB489/licenceRecord,,,Rep,2017-05-17,2017-06-09

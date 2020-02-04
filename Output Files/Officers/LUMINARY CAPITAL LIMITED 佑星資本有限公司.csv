@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ho, Helen Yuen Yee 何婉儀",sfclicrec.asp?p=86087,,F,RO,2010-10-21,2016-04-01
-"Leung, Francis Pak To 梁伯韜",sfclicrec.asp?p=833,65,M,RO,2007-11-14,2014-06-20
-"Leung, Francis Pak To 梁伯韜",sfclicrec.asp?p=833,65,M,RO,2017-06-07,
-"Tsang, Corina Po Shan 曾寶珊",sfclicrec.asp?p=57519,,F,RO,2007-11-14,2017-07-20
-"Wong, Phidia Oi Yan 黃藹茵",sfclicrec.asp?p=57520,,F,Rep,2008-02-05,2015-12-07
-"Wong, Phidia Oi Yan 黃藹茵",sfclicrec.asp?p=57520,,F,RO,2015-12-07,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ho, Helen Yuen Yee 何婉儀",None,sfclicrec.asp?p=86087,ABS186,http://www.sfc.hk/publicregWeb/indi/ABS186/licenceRecord,,F,RO,2010-10-21,2016-04-01
+"Leung, Francis Pak To 梁伯韜",None,sfclicrec.asp?p=833,AAG760,http://www.sfc.hk/publicregWeb/indi/AAG760/licenceRecord,65.0,M,RO,2007-11-14,2014-06-20
+"Leung, Francis Pak To 梁伯韜",None,sfclicrec.asp?p=833,AAG760,http://www.sfc.hk/publicregWeb/indi/AAG760/licenceRecord,65.0,M,RO,2017-06-07,
+"Tsang, Corina Po Shan 曾寶珊",None,sfclicrec.asp?p=57519,AFW551,http://www.sfc.hk/publicregWeb/indi/AFW551/licenceRecord,,F,RO,2007-11-14,2017-07-20
+"Wong, Phidia Oi Yan 黃藹茵",None,sfclicrec.asp?p=57520,AHK492,http://www.sfc.hk/publicregWeb/indi/AHK492/licenceRecord,,F,Rep,2008-02-05,2015-12-07
+"Wong, Phidia Oi Yan 黃藹茵",None,sfclicrec.asp?p=57520,AHK492,http://www.sfc.hk/publicregWeb/indi/AHK492/licenceRecord,,F,RO,2015-12-07,

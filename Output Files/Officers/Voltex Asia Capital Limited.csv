@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Camguilhem, Thibaut Jean-Manuel ",sfclicrec.asp?p=121301,,,RO,2012-07-24,2013-08-31
-"Dalet, Joffrey ",sfclicrec.asp?p=1965083,,M,Rep,2012-10-11,2019-11-19
-"Dalet, Joffrey ",sfclicrec.asp?p=1965083,,M,RO,2019-11-19,2019-11-30
-"Payer, Jean-Noel Maurice Marie Henri ",sfclicrec.asp?p=108460,,F,RO,2012-07-24,
-"Raillot, Franck Kim ",sfclicrec.asp?p=120426,,,Rep,2012-09-13,2019-06-30
-"Wende, Ingo Geert ",sfclicrec.asp?p=90805,,M,Rep,2013-07-31,2013-08-15
-"Wende, Ingo Geert ",sfclicrec.asp?p=90805,,M,RO,2013-08-15,2019-10-05
-"Xu, Bret Zheng Yu 許正宇",sfclicrec.asp?p=118985,,M,Rep,2012-08-17,2012-09-20
-"Xu, Bret Zheng Yu 許正宇",sfclicrec.asp?p=118985,,M,RO,2012-09-20,2019-06-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Camguilhem, Thibaut Jean-Manuel ",None,sfclicrec.asp?p=121301,AOV764,http://www.sfc.hk/publicregWeb/indi/AOV764/licenceRecord,,,RO,2012-07-24,2013-08-31
+"Dalet, Joffrey ",None,sfclicrec.asp?p=1965083,BAD880,http://www.sfc.hk/publicregWeb/indi/BAD880/licenceRecord,,M,Rep,2012-10-11,2019-11-19
+"Dalet, Joffrey ",None,sfclicrec.asp?p=1965083,BAD880,http://www.sfc.hk/publicregWeb/indi/BAD880/licenceRecord,,M,RO,2019-11-19,2019-11-30
+"Payer, Jean-Noel Maurice Marie Henri ",None,sfclicrec.asp?p=108460,AGC801,http://www.sfc.hk/publicregWeb/indi/AGC801/licenceRecord,,F,RO,2012-07-24,
+"Raillot, Franck Kim ",None,sfclicrec.asp?p=120426,AOJ295,http://www.sfc.hk/publicregWeb/indi/AOJ295/licenceRecord,,,Rep,2012-09-13,2019-06-30
+"Wende, Ingo Geert ",None,sfclicrec.asp?p=90805,AXY798,http://www.sfc.hk/publicregWeb/indi/AXY798/licenceRecord,,M,Rep,2013-07-31,2013-08-15
+"Wende, Ingo Geert ",None,sfclicrec.asp?p=90805,AXY798,http://www.sfc.hk/publicregWeb/indi/AXY798/licenceRecord,,M,RO,2013-08-15,2019-10-05
+"Xu, Bret Zheng Yu 許正宇",None,sfclicrec.asp?p=118985,ANQ295,http://www.sfc.hk/publicregWeb/indi/ANQ295/licenceRecord,,M,Rep,2012-08-17,2012-09-20
+"Xu, Bret Zheng Yu 許正宇",None,sfclicrec.asp?p=118985,ANQ295,http://www.sfc.hk/publicregWeb/indi/ANQ295/licenceRecord,,M,RO,2012-09-20,2019-06-30

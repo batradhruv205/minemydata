@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Han, Tongli 韓同利",sfclicrec.asp?p=1883183,41,M,RO,2017-01-13,
-"Kwok, Roy Shun Keung 郭舜強",sfclicrec.asp?p=124171,,M,RO,2017-01-13,
-"Pang, Yan 龐艷",sfclicrec.asp?p=122099,,,RO,2017-09-07,2019-12-22
-"Wang, Ziyun 王子贇",sfclicrec.asp?p=2176893,,,Rep,2017-03-10,2017-06-06
-"Wang, Ziyun 王子贇",sfclicrec.asp?p=2176893,,,RO,2017-06-06,2018-12-20
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Han, Tongli 韓同利",None,sfclicrec.asp?p=1883183,AZI771,http://www.sfc.hk/publicregWeb/indi/AZI771/licenceRecord,41.0,M,RO,2017-01-13,
+"Kwok, Roy Shun Keung 郭舜強",None,sfclicrec.asp?p=124171,AQI400,http://www.sfc.hk/publicregWeb/indi/AQI400/licenceRecord,,M,RO,2017-01-13,
+"Pang, Yan 龐艷",None,sfclicrec.asp?p=122099,APG361,http://www.sfc.hk/publicregWeb/indi/APG361/licenceRecord,,,RO,2017-09-07,2019-12-22
+"Wang, Ziyun 王子贇",None,sfclicrec.asp?p=2176893,BCF919,http://www.sfc.hk/publicregWeb/indi/BCF919/licenceRecord,,,Rep,2017-03-10,2017-06-06
+"Wang, Ziyun 王子贇",None,sfclicrec.asp?p=2176893,BCF919,http://www.sfc.hk/publicregWeb/indi/BCF919/licenceRecord,,,RO,2017-06-06,2018-12-20

@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chau, Ka Hang 周嘉恆",sfclicrec.asp?p=113578,,,RO,2019-01-03,
-"Chui, Wilson Wing Sun 崔穎新",sfclicrec.asp?p=2542333,,M,Rep,2019-09-27,
-"Diec, Christie Kwan Yu 易鈞儒",sfclicrec.asp?p=2105133,,F,Rep,2019-09-03,
-"Law, Franco Chi Cheong 羅志昌",sfclicrec.asp?p=78215,,M,RO,2019-01-03,
-"Li, Man Kit (SFC:ATH561) 李文傑",sfclicrec.asp?p=83068,,,Rep,2019-05-28,2019-08-09
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chau, Ka Hang 周嘉恆",None,sfclicrec.asp?p=113578,AJO080,http://www.sfc.hk/publicregWeb/indi/AJO080/licenceRecord,,,RO,2019-01-03,
+"Chui, Wilson Wing Sun 崔穎新",None,sfclicrec.asp?p=2542333,BGX941,http://www.sfc.hk/publicregWeb/indi/BGX941/licenceRecord,,M,Rep,2019-09-27,
+"Diec, Christie Kwan Yu 易鈞儒",None,sfclicrec.asp?p=2105133,BBM842,http://www.sfc.hk/publicregWeb/indi/BBM842/licenceRecord,,F,Rep,2019-09-03,
+"Law, Franco Chi Cheong 羅志昌",None,sfclicrec.asp?p=78215,AAZ238,http://www.sfc.hk/publicregWeb/indi/AAZ238/licenceRecord,,M,RO,2019-01-03,
+"Li, Man Kit (SFC:ATH561) 李文傑",None,sfclicrec.asp?p=83068,ATH561,http://www.sfc.hk/publicregWeb/indi/ATH561/licenceRecord,,,Rep,2019-05-28,2019-08-09

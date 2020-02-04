@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Keung Tak 張強德",sfclicrec.asp?p=91571,,,RO,2017-10-10,2019-04-24
-"Hamaguchi, Koichi ",sfclicrec.asp?p=2505387,,,RO,2016-10-03,2017-08-31
-"Lee, Vizor 李詠珊",sfclicrec.asp?p=78616,,,RO,2016-10-03,2017-08-13
-"Li, Bin (SFC:BGP466) 李彬",sfclicrec.asp?p=2531005,,,RO,2019-02-01,
-"Tang, Lei (SFC:BLH631) 唐蕾",sfclicrec.asp?p=20840362,,,Rep,2019-04-02,
-"Xu, Zhiheng 徐志恆",sfclicrec.asp?p=135116,,,Rep,2019-01-21,2019-01-25
-"Xu, Zhiheng 徐志恆",sfclicrec.asp?p=135116,,,RO,2019-01-25,
-"Yam, Kam Shing 任錦成",sfclicrec.asp?p=51591,,,RO,2017-09-05,2019-03-15
-"Yu, Lifeng (SFC:AYA736) 余立峰",sfclicrec.asp?p=81888,,,Rep,2019-05-03,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Keung Tak 張強德",None,sfclicrec.asp?p=91571,ANU725,http://www.sfc.hk/publicregWeb/indi/ANU725/licenceRecord,,,RO,2017-10-10,2019-04-24
+"Hamaguchi, Koichi ",None,sfclicrec.asp?p=2505387,BGL494,http://www.sfc.hk/publicregWeb/indi/BGL494/licenceRecord,,,RO,2016-10-03,2017-08-31
+"Lee, Vizor 李詠珊",None,sfclicrec.asp?p=78616,AWF319,http://www.sfc.hk/publicregWeb/indi/AWF319/licenceRecord,,,RO,2016-10-03,2017-08-13
+"Li, Bin (SFC:BGP466) 李彬",None,sfclicrec.asp?p=2531005,BGP466,http://www.sfc.hk/publicregWeb/indi/BGP466/licenceRecord,,,RO,2019-02-01,
+"Tang, Lei (SFC:BLH631) 唐蕾",None,sfclicrec.asp?p=20840362,BLH631,http://www.sfc.hk/publicregWeb/indi/BLH631/licenceRecord,,,Rep,2019-04-02,
+"Xu, Zhiheng 徐志恆",None,sfclicrec.asp?p=135116,AYK932,http://www.sfc.hk/publicregWeb/indi/AYK932/licenceRecord,,,Rep,2019-01-21,2019-01-25
+"Xu, Zhiheng 徐志恆",None,sfclicrec.asp?p=135116,AYK932,http://www.sfc.hk/publicregWeb/indi/AYK932/licenceRecord,,,RO,2019-01-25,
+"Yam, Kam Shing 任錦成",None,sfclicrec.asp?p=51591,AGE094,http://www.sfc.hk/publicregWeb/indi/AGE094/licenceRecord,,,RO,2017-09-05,2019-03-15
+"Yu, Lifeng (SFC:AYA736) 余立峰",None,sfclicrec.asp?p=81888,AYA736,http://www.sfc.hk/publicregWeb/indi/AYA736/licenceRecord,,,Rep,2019-05-03,

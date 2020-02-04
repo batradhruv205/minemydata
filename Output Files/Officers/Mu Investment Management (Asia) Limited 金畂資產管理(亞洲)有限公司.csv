@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lo, Patrick 盧培德",sfclicrec.asp?p=103923,,M,RO,2014-09-29,2018-07-20
-"Miu, Hung Lucy 苗紅",sfclicrec.asp?p=73276,,,RO,2014-09-29,
-"Tang, Christine Han Yin 鄧杏賢",sfclicrec.asp?p=102729,,F,RO,2018-07-17,2019-03-29
-"Wong, Paula Man Yee 黃雯誼",sfclicrec.asp?p=97876,,F,Rep,2014-11-13,2016-12-22
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lo, Patrick 盧培德",None,sfclicrec.asp?p=103923,ADM901,http://www.sfc.hk/publicregWeb/indi/ADM901/licenceRecord,,M,RO,2014-09-29,2018-07-20
+"Miu, Hung Lucy 苗紅",None,sfclicrec.asp?p=73276,ADQ868,http://www.sfc.hk/publicregWeb/indi/ADQ868/licenceRecord,,,RO,2014-09-29,
+"Tang, Christine Han Yin 鄧杏賢",None,sfclicrec.asp?p=102729,ACG084,http://www.sfc.hk/publicregWeb/indi/ACG084/licenceRecord,,F,RO,2018-07-17,2019-03-29
+"Wong, Paula Man Yee 黃雯誼",None,sfclicrec.asp?p=97876,AQE956,http://www.sfc.hk/publicregWeb/indi/AQE956/licenceRecord,,F,Rep,2014-11-13,2016-12-22

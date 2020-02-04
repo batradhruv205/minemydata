@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Tjoeti Foet Sen 陳慧斯",sfclicrec.asp?p=128758,,,RO,2017-08-29,
-"Chau, Ka Yue Kenneth 周家裕",sfclicrec.asp?p=2325835,,,Rep,2019-10-17,
-"Li, Yuna 李宇娜",sfclicrec.asp?p=1864643,33,F,RO,2017-08-29,
-"Meira De Morais, Pedro Filipe ",sfclicrec.asp?p=14245482,,M,Rep,2018-04-24,
-"Shi, Ruichao 施瑞超",sfclicrec.asp?p=128196,,,Rep,2018-09-18,
-"Wong, Cheuk San 黃焯燊",sfclicrec.asp?p=22369392,,,Rep,2018-10-30,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Tjoeti Foet Sen 陳慧斯",None,sfclicrec.asp?p=128758,ATY071,http://www.sfc.hk/publicregWeb/indi/ATY071/licenceRecord,,,RO,2017-08-29,
+"Chau, Ka Yue Kenneth 周家裕",None,sfclicrec.asp?p=2325835,BEG049,http://www.sfc.hk/publicregWeb/indi/BEG049/licenceRecord,,,Rep,2019-10-17,
+"Li, Yuna 李宇娜",None,sfclicrec.asp?p=1864643,AYZ338,http://www.sfc.hk/publicregWeb/indi/AYZ338/licenceRecord,33.0,F,RO,2017-08-29,
+"Meira De Morais, Pedro Filipe ",None,sfclicrec.asp?p=14245482,BKN447,http://www.sfc.hk/publicregWeb/indi/BKN447/licenceRecord,,M,Rep,2018-04-24,
+"Shi, Ruichao 施瑞超",None,sfclicrec.asp?p=128196,ATH910,http://www.sfc.hk/publicregWeb/indi/ATH910/licenceRecord,,,Rep,2018-09-18,
+"Wong, Cheuk San 黃焯燊",None,sfclicrec.asp?p=22369392,BNO179,http://www.sfc.hk/publicregWeb/indi/BNO179/licenceRecord,,,Rep,2018-10-30,

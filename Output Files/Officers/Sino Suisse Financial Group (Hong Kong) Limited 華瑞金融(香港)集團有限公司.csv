@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Fang, Lina (SFC:AQJ208) 方琳琳",sfclicrec.asp?p=72866,,F,Rep,2020-01-22,
-"Ho, David Chin Hung 何展鴻",sfclicrec.asp?p=8490,67,M,RO,2018-07-23,
-"Li, Vivian 李惟文",sfclicrec.asp?p=20756160,,,RO,2018-07-23,
-"Tong, Nam 湯嵐",sfclicrec.asp?p=22175641,,,Rep,2018-09-13,
-"Tsui Wong, Betty Dig Hong 徐黃廸航",sfclicrec.asp?p=20756161,,F,RO,2018-07-23,
-"Weng, Yanyan 翁嬿彥",sfclicrec.asp?p=11668824,,,Rep,2019-10-02,
-"Wong, Wesley Tse Kwun 黃子軍",sfclicrec.asp?p=23621462,,M,Rep,2019-09-04,
-"Xu, Yujie 許宇洁",sfclicrec.asp?p=72163,,,Rep,2019-10-03,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Fang, Lina (SFC:AQJ208) 方琳琳",None,sfclicrec.asp?p=72866,AQJ208,http://www.sfc.hk/publicregWeb/indi/AQJ208/licenceRecord,,F,Rep,2020-01-22,
+"Ho, David Chin Hung 何展鴻",None,sfclicrec.asp?p=8490,ABB452,http://www.sfc.hk/publicregWeb/indi/ABB452/licenceRecord,67.0,M,RO,2018-07-23,
+"Li, Vivian 李惟文",None,sfclicrec.asp?p=20756160,BMR902,http://www.sfc.hk/publicregWeb/indi/BMR902/licenceRecord,,,RO,2018-07-23,
+"Tong, Nam 湯嵐",None,sfclicrec.asp?p=22175641,BNL293,http://www.sfc.hk/publicregWeb/indi/BNL293/licenceRecord,,,Rep,2018-09-13,
+"Tsui Wong, Betty Dig Hong 徐黃廸航",None,sfclicrec.asp?p=20756161,AZN069,http://www.sfc.hk/publicregWeb/indi/AZN069/licenceRecord,,F,RO,2018-07-23,
+"Weng, Yanyan 翁嬿彥",None,sfclicrec.asp?p=11668824,BJM394,http://www.sfc.hk/publicregWeb/indi/BJM394/licenceRecord,,,Rep,2019-10-02,
+"Wong, Wesley Tse Kwun 黃子軍",None,sfclicrec.asp?p=23621462,BOO831,http://www.sfc.hk/publicregWeb/indi/BOO831/licenceRecord,,M,Rep,2019-09-04,
+"Xu, Yujie 許宇洁",None,sfclicrec.asp?p=72163,AHR503,http://www.sfc.hk/publicregWeb/indi/AHR503/licenceRecord,,,Rep,2019-10-03,

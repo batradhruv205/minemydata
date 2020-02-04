@@ -1,18 +1,18 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Brader, Lawrence Henry Burnell ",sfclicrec.asp?p=129900,,M,Rep,2011-12-07,2012-11-24
-"Chen, Ju (SFC:BLR539) ",sfclicrec.asp?p=23149505,,,Rep,2019-05-08,
-"Chow, Eddie Kin-Yip 周建業",sfclicrec.asp?p=2295518,,M,Rep,2014-07-16,2016-02-26
-"Coatham, Samuel Martyn ",sfclicrec.asp?p=67810,,M,Rep,2013-06-04,2015-04-20
-"Dao, David ",sfclicrec.asp?p=2071390,,M,RO,2013-05-21,
-"Evans, Joshua Webb ",sfclicrec.asp?p=88462,,M,Rep,2016-06-29,2018-11-30
-"Favre, Robin Georges Flavien ",sfclicrec.asp?p=118871,,M,Rep,2014-12-31,2015-07-07
-"Marnick, Martin Brendan ",sfclicrec.asp?p=98508,,M,RO,2007-09-24,2010-08-02
-"Offer, Richard George Michael ",sfclicrec.asp?p=100408,,M,RO,2007-09-24,2011-07-21
-"Parry, Gavin Kim ",sfclicrec.asp?p=109067,,M,RO,2013-05-21,
-"Potter, Simon James ",sfclicrec.asp?p=92922,,M,Rep,2014-02-14,2015-04-10
-"Ross, Lynne Margaret ",sfclicrec.asp?p=103457,,F,RO,2007-11-08,2009-09-30
-"Schochardt, Harry ",sfclicrec.asp?p=124539,,M,Rep,2009-03-10,2009-09-30
-"Ware, Christopher Eugene ",sfclicrec.asp?p=2598533,,M,Rep,2016-06-28,2016-12-20
-"Young, Bryan Joseph ",sfclicrec.asp?p=2533274,,M,Rep,2016-01-29,2016-12-20
-"Young, Nathan Danial ",sfclicrec.asp?p=23287894,,M,Rep,2019-06-11,
-"Zhao, Rang 趙壤",sfclicrec.asp?p=2338616,,,Rep,2015-05-11,2015-06-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Brader, Lawrence Henry Burnell ",None,sfclicrec.asp?p=129900,AVI839,http://www.sfc.hk/publicregWeb/indi/AVI839/licenceRecord,,M,Rep,2011-12-07,2012-11-24
+"Chen, Ju (SFC:BLR539) ",None,sfclicrec.asp?p=23149505,BLR539,http://www.sfc.hk/publicregWeb/indi/BLR539/licenceRecord,,,Rep,2019-05-08,
+"Chow, Eddie Kin-Yip 周建業",None,sfclicrec.asp?p=2295518,BDP820,http://www.sfc.hk/publicregWeb/indi/BDP820/licenceRecord,,M,Rep,2014-07-16,2016-02-26
+"Coatham, Samuel Martyn ",None,sfclicrec.asp?p=67810,APU459,http://www.sfc.hk/publicregWeb/indi/APU459/licenceRecord,,M,Rep,2013-06-04,2015-04-20
+"Dao, David ",None,sfclicrec.asp?p=2071390,BAQ686,http://www.sfc.hk/publicregWeb/indi/BAQ686/licenceRecord,,M,RO,2013-05-21,
+"Evans, Joshua Webb ",None,sfclicrec.asp?p=88462,AMH709,http://www.sfc.hk/publicregWeb/indi/AMH709/licenceRecord,,M,Rep,2016-06-29,2018-11-30
+"Favre, Robin Georges Flavien ",None,sfclicrec.asp?p=118871,ANP295,http://www.sfc.hk/publicregWeb/indi/ANP295/licenceRecord,,M,Rep,2014-12-31,2015-07-07
+"Marnick, Martin Brendan ",None,sfclicrec.asp?p=98508,AEF576,http://www.sfc.hk/publicregWeb/indi/AEF576/licenceRecord,,M,RO,2007-09-24,2010-08-02
+"Offer, Richard George Michael ",None,sfclicrec.asp?p=100408,AEH723,http://www.sfc.hk/publicregWeb/indi/AEH723/licenceRecord,,M,RO,2007-09-24,2011-07-21
+"Parry, Gavin Kim ",None,sfclicrec.asp?p=109067,AGJ240,http://www.sfc.hk/publicregWeb/indi/AGJ240/licenceRecord,,M,RO,2013-05-21,
+"Potter, Simon James ",None,sfclicrec.asp?p=92922,ARO318,http://www.sfc.hk/publicregWeb/indi/ARO318/licenceRecord,,M,Rep,2014-02-14,2015-04-10
+"Ross, Lynne Margaret ",None,sfclicrec.asp?p=103457,ACZ273,http://www.sfc.hk/publicregWeb/indi/ACZ273/licenceRecord,,F,RO,2007-11-08,2009-09-30
+"Schochardt, Harry ",None,sfclicrec.asp?p=124539,AQO327,http://www.sfc.hk/publicregWeb/indi/AQO327/licenceRecord,,M,Rep,2009-03-10,2009-09-30
+"Ware, Christopher Eugene ",None,sfclicrec.asp?p=2598533,BGK637,http://www.sfc.hk/publicregWeb/indi/BGK637/licenceRecord,,M,Rep,2016-06-28,2016-12-20
+"Young, Bryan Joseph ",None,sfclicrec.asp?p=2533274,BGU540,http://www.sfc.hk/publicregWeb/indi/BGU540/licenceRecord,,M,Rep,2016-01-29,2016-12-20
+"Young, Nathan Danial ",None,sfclicrec.asp?p=23287894,BEV962,http://www.sfc.hk/publicregWeb/indi/BEV962/licenceRecord,,M,Rep,2019-06-11,
+"Zhao, Rang 趙壤",None,sfclicrec.asp?p=2338616,BEJ977,http://www.sfc.hk/publicregWeb/indi/BEJ977/licenceRecord,,,Rep,2015-05-11,2015-06-30

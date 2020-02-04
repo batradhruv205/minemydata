@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Tsz Chun (SFC:AZK755) 陳子俊",sfclicrec.asp?p=1903011,,,RO,2017-07-19,2018-02-28
-"Chang, Sam Man Lung 張敏龍",sfclicrec.asp?p=95962,,,Rep,2019-12-04,
-"Fok, Wai Hung (SFC:AFN727) 霍偉雄",sfclicrec.asp?p=82160,,,Rep,2018-03-16,2018-08-06
-"Fok, Wai Hung (SFC:AFN727) 霍偉雄",sfclicrec.asp?p=82160,,,RO,2018-08-06,
-"Fong, Raymond Wai Lok 方偉諾",sfclicrec.asp?p=99882,45,M,Rep,2018-06-29,2018-10-25
-"Fong, Raymond Wai Lok 方偉諾",sfclicrec.asp?p=99882,45,M,RO,2018-10-25,
-"Fung, Yee Lin 馮綺蓮",sfclicrec.asp?p=82168,,,RO,2017-07-19,
-"Ho, Ping Kwan 何秉鈞",sfclicrec.asp?p=82178,,,Rep,2018-04-23,
-"Lau, Chun Wing 劉晉榮",sfclicrec.asp?p=23469102,,,Rep,2019-07-25,
-"Ng, Ka Yin (SFC:BOD346) 吳嘉燕",sfclicrec.asp?p=23324339,,,Rep,2019-06-19,
-"Sun, Mengqi (SFC:BLA755) 孫夢琪",sfclicrec.asp?p=12148861,,,Rep,2017-10-24,2018-04-30
-"Wong, Wai Kuen (SFC:ABP501) 王偉權",sfclicrec.asp?p=82361,,,RO,2017-07-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Tsz Chun (SFC:AZK755) 陳子俊",None,sfclicrec.asp?p=1903011,AZK755,http://www.sfc.hk/publicregWeb/indi/AZK755/licenceRecord,,,RO,2017-07-19,2018-02-28
+"Chang, Sam Man Lung 張敏龍",None,sfclicrec.asp?p=95962,ALU467,http://www.sfc.hk/publicregWeb/indi/ALU467/licenceRecord,,,Rep,2019-12-04,
+"Fok, Wai Hung (SFC:AFN727) 霍偉雄",None,sfclicrec.asp?p=82160,AFN727,http://www.sfc.hk/publicregWeb/indi/AFN727/licenceRecord,,,Rep,2018-03-16,2018-08-06
+"Fok, Wai Hung (SFC:AFN727) 霍偉雄",None,sfclicrec.asp?p=82160,AFN727,http://www.sfc.hk/publicregWeb/indi/AFN727/licenceRecord,,,RO,2018-08-06,
+"Fong, Raymond Wai Lok 方偉諾",None,sfclicrec.asp?p=99882,AFT306,http://www.sfc.hk/publicregWeb/indi/AFT306/licenceRecord,45.0,M,Rep,2018-06-29,2018-10-25
+"Fong, Raymond Wai Lok 方偉諾",None,sfclicrec.asp?p=99882,AFT306,http://www.sfc.hk/publicregWeb/indi/AFT306/licenceRecord,45.0,M,RO,2018-10-25,
+"Fung, Yee Lin 馮綺蓮",None,sfclicrec.asp?p=82168,AGA699,http://www.sfc.hk/publicregWeb/indi/AGA699/licenceRecord,,,RO,2017-07-19,
+"Ho, Ping Kwan 何秉鈞",None,sfclicrec.asp?p=82178,ALN369,http://www.sfc.hk/publicregWeb/indi/ALN369/licenceRecord,,,Rep,2018-04-23,
+"Lau, Chun Wing 劉晉榮",None,sfclicrec.asp?p=23469102,BOP085,http://www.sfc.hk/publicregWeb/indi/BOP085/licenceRecord,,,Rep,2019-07-25,
+"Ng, Ka Yin (SFC:BOD346) 吳嘉燕",None,sfclicrec.asp?p=23324339,BOD346,http://www.sfc.hk/publicregWeb/indi/BOD346/licenceRecord,,,Rep,2019-06-19,
+"Sun, Mengqi (SFC:BLA755) 孫夢琪",None,sfclicrec.asp?p=12148861,BLA755,http://www.sfc.hk/publicregWeb/indi/BLA755/licenceRecord,,,Rep,2017-10-24,2018-04-30
+"Wong, Wai Kuen (SFC:ABP501) 王偉權",None,sfclicrec.asp?p=82361,ABP501,http://www.sfc.hk/publicregWeb/indi/ABP501/licenceRecord,,,RO,2017-07-19,

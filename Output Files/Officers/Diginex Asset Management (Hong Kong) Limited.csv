@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Byworth, Richard Anthony ",sfclicrec.asp?p=90337,,M,RO,2019-06-04,
-"Chladek, Thomas Francois ",sfclicrec.asp?p=23554016,,M,Rep,2019-08-15,
-"Edwards, Matthew Scott ",sfclicrec.asp?p=2269671,,M,Rep,2019-06-28,2019-08-28
-"Jangbarwala, Mustafa ",sfclicrec.asp?p=2693676,,,Rep,2019-06-28,2019-08-28
-"Kiely, Lucas Alexander ",sfclicrec.asp?p=1950681,,M,Rep,2019-09-18,2019-12-19
-"Kiely, Lucas Alexander ",sfclicrec.asp?p=1950681,,M,RO,2019-12-19,
-"Mirochnik, Leon ",sfclicrec.asp?p=2356120,,M,Rep,2019-06-28,
-"Sheppard, Neil Murray ",sfclicrec.asp?p=90714,,M,Rep,2019-09-24,
-"Wong, Anthony Kwok Tung 黃國棟",sfclicrec.asp?p=115192,,M,RO,2019-06-04,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Byworth, Richard Anthony ",None,sfclicrec.asp?p=90337,AUF080,http://www.sfc.hk/publicregWeb/indi/AUF080/licenceRecord,,M,RO,2019-06-04,
+"Chladek, Thomas Francois ",None,sfclicrec.asp?p=23554016,BOR733,http://www.sfc.hk/publicregWeb/indi/BOR733/licenceRecord,,M,Rep,2019-08-15,
+"Edwards, Matthew Scott ",None,sfclicrec.asp?p=2269671,BCN449,http://www.sfc.hk/publicregWeb/indi/BCN449/licenceRecord,,M,Rep,2019-06-28,2019-08-28
+"Jangbarwala, Mustafa ",None,sfclicrec.asp?p=2693676,BIY990,http://www.sfc.hk/publicregWeb/indi/BIY990/licenceRecord,,,Rep,2019-06-28,2019-08-28
+"Kiely, Lucas Alexander ",None,sfclicrec.asp?p=1950681,BAD884,http://www.sfc.hk/publicregWeb/indi/BAD884/licenceRecord,,M,Rep,2019-09-18,2019-12-19
+"Kiely, Lucas Alexander ",None,sfclicrec.asp?p=1950681,BAD884,http://www.sfc.hk/publicregWeb/indi/BAD884/licenceRecord,,M,RO,2019-12-19,
+"Mirochnik, Leon ",None,sfclicrec.asp?p=2356120,BEO717,http://www.sfc.hk/publicregWeb/indi/BEO717/licenceRecord,,M,Rep,2019-06-28,
+"Sheppard, Neil Murray ",None,sfclicrec.asp?p=90714,AUC311,http://www.sfc.hk/publicregWeb/indi/AUC311/licenceRecord,,M,Rep,2019-09-24,
+"Wong, Anthony Kwok Tung 黃國棟",None,sfclicrec.asp?p=115192,ALQ261,http://www.sfc.hk/publicregWeb/indi/ALQ261/licenceRecord,,M,RO,2019-06-04,

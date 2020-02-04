@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cho, Larry Yui Kwan 曹銳焜",sfclicrec.asp?p=93376,,M,Rep,2018-07-04,
-"Chow, Julian Kee Jong 周己重",sfclicrec.asp?p=1951485,,M,Rep,2016-10-11,
-"Chung, Derek Leigh 陳方",sfclicrec.asp?p=88852,,M,Rep,2016-10-11,2018-01-15
-"Chung, Derek Leigh 陳方",sfclicrec.asp?p=88852,,M,RO,2018-01-15,
-"Chung, Hugh Wook 丁郁",sfclicrec.asp?p=119412,,M,Rep,2016-10-24,2018-03-23
-"Fukushige, Kazuki ",sfclicrec.asp?p=130123,,,Rep,2017-07-21,
-"Huang, Junwei (SFC:AVM453) 黃君煒",sfclicrec.asp?p=69616,,,Rep,2016-12-14,
-"Imoto, Masaomi ",sfclicrec.asp?p=23724392,,,Rep,2019-09-30,
-"Leung, Chi Kit (SFC:AOB360) 梁志傑",sfclicrec.asp?p=93704,,,RO,2016-09-02,
-"Lim, Ching Yee Julie ",sfclicrec.asp?p=93707,,F,RO,2016-09-02,
-"Ng, Gary Pak Yin 吳柏然",sfclicrec.asp?p=1979200,,M,Rep,2016-12-23,2019-03-31
-"Park, Jun Ho ",sfclicrec.asp?p=90671,,,Rep,2018-04-12,
-"Su, Kai Hung 蘇凱宏",sfclicrec.asp?p=87987,,,Rep,2017-03-20,
-"Wang, Shengyu (SFC:BDV081) 王聖予",sfclicrec.asp?p=2296192,,,Rep,2019-05-06,
-"Wong, Victor Long Yin 王朗然",sfclicrec.asp?p=9408492,,M,Rep,2018-05-18,
-"Wu, Jianfei (SFC:BAZ794) 吳健飛",sfclicrec.asp?p=2033282,,,Rep,2016-10-11,2016-10-11
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cho, Larry Yui Kwan 曹銳焜",None,sfclicrec.asp?p=93376,ALQ596,http://www.sfc.hk/publicregWeb/indi/ALQ596/licenceRecord,,M,Rep,2018-07-04,
+"Chow, Julian Kee Jong 周己重",None,sfclicrec.asp?p=1951485,BAC482,http://www.sfc.hk/publicregWeb/indi/BAC482/licenceRecord,,M,Rep,2016-10-11,
+"Chung, Derek Leigh 陳方",None,sfclicrec.asp?p=88852,AOD515,http://www.sfc.hk/publicregWeb/indi/AOD515/licenceRecord,,M,Rep,2016-10-11,2018-01-15
+"Chung, Derek Leigh 陳方",None,sfclicrec.asp?p=88852,AOD515,http://www.sfc.hk/publicregWeb/indi/AOD515/licenceRecord,,M,RO,2018-01-15,
+"Chung, Hugh Wook 丁郁",None,sfclicrec.asp?p=119412,ANU800,http://www.sfc.hk/publicregWeb/indi/ANU800/licenceRecord,,M,Rep,2016-10-24,2018-03-23
+"Fukushige, Kazuki ",None,sfclicrec.asp?p=130123,AVQ601,http://www.sfc.hk/publicregWeb/indi/AVQ601/licenceRecord,,,Rep,2017-07-21,
+"Huang, Junwei (SFC:AVM453) 黃君煒",None,sfclicrec.asp?p=69616,AVM453,http://www.sfc.hk/publicregWeb/indi/AVM453/licenceRecord,,,Rep,2016-12-14,
+"Imoto, Masaomi ",None,sfclicrec.asp?p=23724392,BOU139,http://www.sfc.hk/publicregWeb/indi/BOU139/licenceRecord,,,Rep,2019-09-30,
+"Leung, Chi Kit (SFC:AOB360) 梁志傑",None,sfclicrec.asp?p=93704,AOB360,http://www.sfc.hk/publicregWeb/indi/AOB360/licenceRecord,,,RO,2016-09-02,
+"Lim, Ching Yee Julie ",None,sfclicrec.asp?p=93707,ANQ655,http://www.sfc.hk/publicregWeb/indi/ANQ655/licenceRecord,,F,RO,2016-09-02,
+"Ng, Gary Pak Yin 吳柏然",None,sfclicrec.asp?p=1979200,BAI195,http://www.sfc.hk/publicregWeb/indi/BAI195/licenceRecord,,M,Rep,2016-12-23,2019-03-31
+"Park, Jun Ho ",None,sfclicrec.asp?p=90671,AXZ060,http://www.sfc.hk/publicregWeb/indi/AXZ060/licenceRecord,,,Rep,2018-04-12,
+"Su, Kai Hung 蘇凱宏",None,sfclicrec.asp?p=87987,AXT095,http://www.sfc.hk/publicregWeb/indi/AXT095/licenceRecord,,,Rep,2017-03-20,
+"Wang, Shengyu (SFC:BDV081) 王聖予",None,sfclicrec.asp?p=2296192,BDV081,http://www.sfc.hk/publicregWeb/indi/BDV081/licenceRecord,,,Rep,2019-05-06,
+"Wong, Victor Long Yin 王朗然",None,sfclicrec.asp?p=9408492,BJL686,http://www.sfc.hk/publicregWeb/indi/BJL686/licenceRecord,,M,Rep,2018-05-18,
+"Wu, Jianfei (SFC:BAZ794) 吳健飛",None,sfclicrec.asp?p=2033282,BAZ794,http://www.sfc.hk/publicregWeb/indi/BAZ794/licenceRecord,,,Rep,2016-10-11,2016-10-11

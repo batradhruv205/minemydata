@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Janice Wing Yee 陳穎怡",sfclicrec.asp?p=93640,,F,Rep,2018-09-18,2019-05-09
-"Chan, Janice Wing Yee 陳穎怡",sfclicrec.asp?p=93640,,F,RO,2019-05-09,
-"Ho, Benedict Sze Man 何仕文",sfclicrec.asp?p=87302,,M,RO,2018-08-16,
-"Ko, Seongjun 高晟準",sfclicrec.asp?p=24032773,,,Rep,2019-12-18,
-"Lim, Marco Jun Kit 林俊傑",sfclicrec.asp?p=116981,,M,Rep,2019-02-21,2019-03-18
-"Lim, Marco Jun Kit 林俊傑",sfclicrec.asp?p=116981,,M,RO,2019-03-18,
-"Poon, Sunny Pak Hin 潘柏軒",sfclicrec.asp?p=111373,,M,RO,2018-08-16,2019-01-09
-"Wong, Siu Yue Michael 黃兆瑜",sfclicrec.asp?p=22201224,,,Rep,2018-09-19,
-"Yeung, Jacky Tsz Kit 楊子傑",sfclicrec.asp?p=100154,,,Rep,2018-11-14,2018-12-20
-"Yeung, Jacky Tsz Kit 楊子傑",sfclicrec.asp?p=100154,,,RO,2018-12-20,2019-12-11
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Janice Wing Yee 陳穎怡",None,sfclicrec.asp?p=93640,APV159,http://www.sfc.hk/publicregWeb/indi/APV159/licenceRecord,,F,Rep,2018-09-18,2019-05-09
+"Chan, Janice Wing Yee 陳穎怡",None,sfclicrec.asp?p=93640,APV159,http://www.sfc.hk/publicregWeb/indi/APV159/licenceRecord,,F,RO,2019-05-09,
+"Ho, Benedict Sze Man 何仕文",None,sfclicrec.asp?p=87302,AKP070,http://www.sfc.hk/publicregWeb/indi/AKP070/licenceRecord,,M,RO,2018-08-16,
+"Ko, Seongjun 高晟準",None,sfclicrec.asp?p=24032773,BPF795,http://www.sfc.hk/publicregWeb/indi/BPF795/licenceRecord,,,Rep,2019-12-18,
+"Lim, Marco Jun Kit 林俊傑",None,sfclicrec.asp?p=116981,AMM425,http://www.sfc.hk/publicregWeb/indi/AMM425/licenceRecord,,M,Rep,2019-02-21,2019-03-18
+"Lim, Marco Jun Kit 林俊傑",None,sfclicrec.asp?p=116981,AMM425,http://www.sfc.hk/publicregWeb/indi/AMM425/licenceRecord,,M,RO,2019-03-18,
+"Poon, Sunny Pak Hin 潘柏軒",None,sfclicrec.asp?p=111373,AHN865,http://www.sfc.hk/publicregWeb/indi/AHN865/licenceRecord,,M,RO,2018-08-16,2019-01-09
+"Wong, Siu Yue Michael 黃兆瑜",None,sfclicrec.asp?p=22201224,BNO859,http://www.sfc.hk/publicregWeb/indi/BNO859/licenceRecord,,,Rep,2018-09-19,
+"Yeung, Jacky Tsz Kit 楊子傑",None,sfclicrec.asp?p=100154,ASZ509,http://www.sfc.hk/publicregWeb/indi/ASZ509/licenceRecord,,,Rep,2018-11-14,2018-12-20
+"Yeung, Jacky Tsz Kit 楊子傑",None,sfclicrec.asp?p=100154,ASZ509,http://www.sfc.hk/publicregWeb/indi/ASZ509/licenceRecord,,,RO,2018-12-20,2019-12-11

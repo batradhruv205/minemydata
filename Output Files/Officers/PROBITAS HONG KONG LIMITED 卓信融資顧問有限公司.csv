@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Edwin Kin Bong 陳建邦",sfclicrec.asp?p=118927,,M,RO,2009-06-05,
-"Chan, Mang Kiu 陳漫橋",sfclicrec.asp?p=112440,,,Rep,2012-09-14,2015-08-14
-"Chan, Mang Kiu 陳漫橋",sfclicrec.asp?p=112440,,,Rep,2019-04-24,2019-10-11
-"Chan, Mang Kiu 陳漫橋",sfclicrec.asp?p=112440,,,RO,2019-10-11,
-"Hausler, Greg William ",sfclicrec.asp?p=127814,,M,RO,2009-06-05,
-"Kim, Chul (SFC:AZG142) 金澈",sfclicrec.asp?p=1877798,,,Rep,2012-04-13,2018-12-31
-"Liu, Xiaoning (SFC:BFD449) 劉晓宁",sfclicrec.asp?p=2396307,,,Rep,2015-03-23,2016-06-01
-"Lo, Hoi Yee 盧凱怡",sfclicrec.asp?p=127358,,,Rep,2016-05-30,2017-02-16
-"Roddy, Nicole Elizabeth ",sfclicrec.asp?p=11589899,,F,Rep,2017-06-15,
-"Xie, Jing (SFC:BAU363) 謝婧",sfclicrec.asp?p=2023948,,,Rep,2013-02-22,2015-05-20
-"Xu, Wan Wan 許萬萬",sfclicrec.asp?p=12096500,,,Rep,2017-10-04,
-"Zhao, Yang (SFC:BHR796) 趙暘",sfclicrec.asp?p=2599824,,,Rep,2016-06-30,2017-08-08
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Edwin Kin Bong 陳建邦",None,sfclicrec.asp?p=118927,ANP708,http://www.sfc.hk/publicregWeb/indi/ANP708/licenceRecord,,M,RO,2009-06-05,
+"Chan, Mang Kiu 陳漫橋",None,sfclicrec.asp?p=112440,AIS524,http://www.sfc.hk/publicregWeb/indi/AIS524/licenceRecord,,,Rep,2012-09-14,2015-08-14
+"Chan, Mang Kiu 陳漫橋",None,sfclicrec.asp?p=112440,AIS524,http://www.sfc.hk/publicregWeb/indi/AIS524/licenceRecord,,,Rep,2019-04-24,2019-10-11
+"Chan, Mang Kiu 陳漫橋",None,sfclicrec.asp?p=112440,AIS524,http://www.sfc.hk/publicregWeb/indi/AIS524/licenceRecord,,,RO,2019-10-11,
+"Hausler, Greg William ",None,sfclicrec.asp?p=127814,ASS697,http://www.sfc.hk/publicregWeb/indi/ASS697/licenceRecord,,M,RO,2009-06-05,
+"Kim, Chul (SFC:AZG142) 金澈",None,sfclicrec.asp?p=1877798,AZG142,http://www.sfc.hk/publicregWeb/indi/AZG142/licenceRecord,,,Rep,2012-04-13,2018-12-31
+"Liu, Xiaoning (SFC:BFD449) 劉晓宁",None,sfclicrec.asp?p=2396307,BFD449,http://www.sfc.hk/publicregWeb/indi/BFD449/licenceRecord,,,Rep,2015-03-23,2016-06-01
+"Lo, Hoi Yee 盧凱怡",None,sfclicrec.asp?p=127358,ASE941,http://www.sfc.hk/publicregWeb/indi/ASE941/licenceRecord,,,Rep,2016-05-30,2017-02-16
+"Roddy, Nicole Elizabeth ",None,sfclicrec.asp?p=11589899,BJT517,http://www.sfc.hk/publicregWeb/indi/BJT517/licenceRecord,,F,Rep,2017-06-15,
+"Xie, Jing (SFC:BAU363) 謝婧",None,sfclicrec.asp?p=2023948,BAU363,http://www.sfc.hk/publicregWeb/indi/BAU363/licenceRecord,,,Rep,2013-02-22,2015-05-20
+"Xu, Wan Wan 許萬萬",None,sfclicrec.asp?p=12096500,BLC901,http://www.sfc.hk/publicregWeb/indi/BLC901/licenceRecord,,,Rep,2017-10-04,
+"Zhao, Yang (SFC:BHR796) 趙暘",None,sfclicrec.asp?p=2599824,BHR796,http://www.sfc.hk/publicregWeb/indi/BHR796/licenceRecord,,,Rep,2016-06-30,2017-08-08

@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bennett, Peter William ",sfclicrec.asp?p=65221,65,M,RO,2012-10-18,
-"Chan, Chung Hoi 陳鐘鎧",sfclicrec.asp?p=2319963,,,Rep,2015-12-03,2016-08-31
-"Chan, Jovia Ho Kiu 陳可翹",sfclicrec.asp?p=1868010,,,Rep,2016-03-14,2017-12-31
-"Cheung, Tak Man Amy 張德敏",sfclicrec.asp?p=19990872,,,Rep,2018-07-16,
-"Fong, William Chi Wai 方志偉",sfclicrec.asp?p=113838,,M,Rep,2013-03-22,2014-08-01
-"So, Tat Man 蘇達文",sfclicrec.asp?p=108824,,,Rep,2012-11-21,2018-02-12
-"So, Tat Man 蘇達文",sfclicrec.asp?p=108824,,,RO,2018-02-12,
-"Yip, Ka Hay 葉家曦",sfclicrec.asp?p=114561,,,RO,2012-10-18,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bennett, Peter William ",None,sfclicrec.asp?p=65221,AMJ806,http://www.sfc.hk/publicregWeb/indi/AMJ806/licenceRecord,65.0,M,RO,2012-10-18,
+"Chan, Chung Hoi 陳鐘鎧",None,sfclicrec.asp?p=2319963,BDZ088,http://www.sfc.hk/publicregWeb/indi/BDZ088/licenceRecord,,,Rep,2015-12-03,2016-08-31
+"Chan, Jovia Ho Kiu 陳可翹",None,sfclicrec.asp?p=1868010,AZB961,http://www.sfc.hk/publicregWeb/indi/AZB961/licenceRecord,,,Rep,2016-03-14,2017-12-31
+"Cheung, Tak Man Amy 張德敏",None,sfclicrec.asp?p=19990872,BNF247,http://www.sfc.hk/publicregWeb/indi/BNF247/licenceRecord,,,Rep,2018-07-16,
+"Fong, William Chi Wai 方志偉",None,sfclicrec.asp?p=113838,AKO760,http://www.sfc.hk/publicregWeb/indi/AKO760/licenceRecord,,M,Rep,2013-03-22,2014-08-01
+"So, Tat Man 蘇達文",None,sfclicrec.asp?p=108824,AGG842,http://www.sfc.hk/publicregWeb/indi/AGG842/licenceRecord,,,Rep,2012-11-21,2018-02-12
+"So, Tat Man 蘇達文",None,sfclicrec.asp?p=108824,AGG842,http://www.sfc.hk/publicregWeb/indi/AGG842/licenceRecord,,,RO,2018-02-12,
+"Yip, Ka Hay 葉家曦",None,sfclicrec.asp?p=114561,ALG208,http://www.sfc.hk/publicregWeb/indi/ALG208/licenceRecord,,,RO,2012-10-18,

@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Baverez, David Laurent ",sfclicrec.asp?p=2300829,54,M,Rep,2017-12-29,2018-02-12
-"Baverez, David Laurent ",sfclicrec.asp?p=2300829,54,M,RO,2018-02-12,
-"But, Kwun Ho 畢冠豪",sfclicrec.asp?p=12665647,,,Rep,2017-12-29,
-"Fisher, Jeffery Michael ",sfclicrec.asp?p=115585,,M,RO,2015-08-05,2018-02-28
-"Forcioli, Mathieu Jean ",sfclicrec.asp?p=1907428,,M,Rep,2017-12-01,2018-05-30
-"Forcioli, Mathieu Jean ",sfclicrec.asp?p=1907428,,M,RO,2018-05-30,2019-09-01
-"Lau, Jeffrey Chun Hung 劉鎮鴻",sfclicrec.asp?p=51254,44,M,RO,2015-08-05,
-"Pang, Howard Gar Wai 彭家威",sfclicrec.asp?p=80190,,M,Rep,2016-08-10,2017-03-03
-"Park, Henry Jooyong ",sfclicrec.asp?p=12477670,,M,Rep,2017-11-03,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Baverez, David Laurent ",None,sfclicrec.asp?p=2300829,BDM562,http://www.sfc.hk/publicregWeb/indi/BDM562/licenceRecord,54.0,M,Rep,2017-12-29,2018-02-12
+"Baverez, David Laurent ",None,sfclicrec.asp?p=2300829,BDM562,http://www.sfc.hk/publicregWeb/indi/BDM562/licenceRecord,54.0,M,RO,2018-02-12,
+"But, Kwun Ho 畢冠豪",None,sfclicrec.asp?p=12665647,BLR561,http://www.sfc.hk/publicregWeb/indi/BLR561/licenceRecord,,,Rep,2017-12-29,
+"Fisher, Jeffery Michael ",None,sfclicrec.asp?p=115585,ALV246,http://www.sfc.hk/publicregWeb/indi/ALV246/licenceRecord,,M,RO,2015-08-05,2018-02-28
+"Forcioli, Mathieu Jean ",None,sfclicrec.asp?p=1907428,AYP973,http://www.sfc.hk/publicregWeb/indi/AYP973/licenceRecord,,M,Rep,2017-12-01,2018-05-30
+"Forcioli, Mathieu Jean ",None,sfclicrec.asp?p=1907428,AYP973,http://www.sfc.hk/publicregWeb/indi/AYP973/licenceRecord,,M,RO,2018-05-30,2019-09-01
+"Lau, Jeffrey Chun Hung 劉鎮鴻",None,sfclicrec.asp?p=51254,AFC954,http://www.sfc.hk/publicregWeb/indi/AFC954/licenceRecord,44.0,M,RO,2015-08-05,
+"Pang, Howard Gar Wai 彭家威",None,sfclicrec.asp?p=80190,AMT925,http://www.sfc.hk/publicregWeb/indi/AMT925/licenceRecord,,M,Rep,2016-08-10,2017-03-03
+"Park, Henry Jooyong ",None,sfclicrec.asp?p=12477670,AEP794,http://www.sfc.hk/publicregWeb/indi/AEP794/licenceRecord,,M,Rep,2017-11-03,

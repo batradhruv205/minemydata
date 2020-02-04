@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ashbolt, Daniel Jeffrey ",sfclicrec.asp?p=23219649,,M,Rep,2019-05-24,
-"Ashton, Richard Mark Paul (SFC:BJP277) ",sfclicrec.asp?p=12109624,,M,RO,2017-10-09,
-"Hinton, Michael Austin Ian ",sfclicrec.asp?p=12109625,,M,RO,2017-10-09,
-"Lau, Chun Ho (SFC:BNO450) 劉駿浩",sfclicrec.asp?p=22425669,,,Rep,2019-04-02,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ashbolt, Daniel Jeffrey ",None,sfclicrec.asp?p=23219649,BOJ547,http://www.sfc.hk/publicregWeb/indi/BOJ547/licenceRecord,,M,Rep,2019-05-24,
+"Ashton, Richard Mark Paul (SFC:BJP277) ",None,sfclicrec.asp?p=12109624,BJP277,http://www.sfc.hk/publicregWeb/indi/BJP277/licenceRecord,,M,RO,2017-10-09,
+"Hinton, Michael Austin Ian ",None,sfclicrec.asp?p=12109625,BJP276,http://www.sfc.hk/publicregWeb/indi/BJP276/licenceRecord,,M,RO,2017-10-09,
+"Lau, Chun Ho (SFC:BNO450) 劉駿浩",None,sfclicrec.asp?p=22425669,BNO450,http://www.sfc.hk/publicregWeb/indi/BNO450/licenceRecord,,,Rep,2019-04-02,

@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Wing Lok (SFC:BOH807) 陳榮樂",sfclicrec.asp?p=23584087,,,Rep,2019-08-23,
-"Chan, Winnie (SFC:AFD453) 陳韻妮",sfclicrec.asp?p=85729,,F,RO,2017-07-07,
-"Cheng, Catherine Kar Wai 鄭嘉慧",sfclicrec.asp?p=11766045,,F,RO,2017-07-07,
-"Yeung, Ho Chun (SFC:BAR653) 楊浩進",sfclicrec.asp?p=2006931,,,Rep,2017-11-20,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Wing Lok (SFC:BOH807) 陳榮樂",None,sfclicrec.asp?p=23584087,BOH807,http://www.sfc.hk/publicregWeb/indi/BOH807/licenceRecord,,,Rep,2019-08-23,
+"Chan, Winnie (SFC:AFD453) 陳韻妮",None,sfclicrec.asp?p=85729,AFD453,http://www.sfc.hk/publicregWeb/indi/AFD453/licenceRecord,,F,RO,2017-07-07,
+"Cheng, Catherine Kar Wai 鄭嘉慧",None,sfclicrec.asp?p=11766045,AFD053,http://www.sfc.hk/publicregWeb/indi/AFD053/licenceRecord,,F,RO,2017-07-07,
+"Yeung, Ho Chun (SFC:BAR653) 楊浩進",None,sfclicrec.asp?p=2006931,BAR653,http://www.sfc.hk/publicregWeb/indi/BAR653/licenceRecord,,,Rep,2017-11-20,

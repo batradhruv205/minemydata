@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lai, Wing Hung (SFC:ANH142) 賴永雄",sfclicrec.asp?p=77718,,,RO,2017-08-31,2019-03-01
-"Lane, Graeme John ",sfclicrec.asp?p=79392,55,M,RO,2016-12-01,2017-07-03
-"Leung, Ho Fai 梁昊輝",sfclicrec.asp?p=2562176,,,Rep,2017-03-30,2017-04-12
-"Leung, Ho Fai 梁昊輝",sfclicrec.asp?p=2562176,,,RO,2017-04-12,2018-01-12
-"Leung, Pak Wah 梁柏樺",sfclicrec.asp?p=72964,,,RO,2016-12-01,2017-04-07
-"Tan, Honghong 譚虹虹",sfclicrec.asp?p=81654,,,RO,2017-10-13,
-"Thun, Lung Lung 湯融融",sfclicrec.asp?p=10627193,,,Rep,2017-05-19,
-"Yu, Chung Hang (SFC:AXF399) 余仲衡",sfclicrec.asp?p=71885,,,Rep,2019-03-04,2019-03-29
-"Yu, Chung Hang (SFC:AXF399) 余仲衡",sfclicrec.asp?p=71885,,,RO,2019-03-29,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lai, Wing Hung (SFC:ANH142) 賴永雄",None,sfclicrec.asp?p=77718,ANH142,http://www.sfc.hk/publicregWeb/indi/ANH142/licenceRecord,,,RO,2017-08-31,2019-03-01
+"Lane, Graeme John ",None,sfclicrec.asp?p=79392,AOG216,http://www.sfc.hk/publicregWeb/indi/AOG216/licenceRecord,55.0,M,RO,2016-12-01,2017-07-03
+"Leung, Ho Fai 梁昊輝",None,sfclicrec.asp?p=2562176,BHC867,http://www.sfc.hk/publicregWeb/indi/BHC867/licenceRecord,,,Rep,2017-03-30,2017-04-12
+"Leung, Ho Fai 梁昊輝",None,sfclicrec.asp?p=2562176,BHC867,http://www.sfc.hk/publicregWeb/indi/BHC867/licenceRecord,,,RO,2017-04-12,2018-01-12
+"Leung, Pak Wah 梁柏樺",None,sfclicrec.asp?p=72964,ANO983,http://www.sfc.hk/publicregWeb/indi/ANO983/licenceRecord,,,RO,2016-12-01,2017-04-07
+"Tan, Honghong 譚虹虹",None,sfclicrec.asp?p=81654,AQM615,http://www.sfc.hk/publicregWeb/indi/AQM615/licenceRecord,,,RO,2017-10-13,
+"Thun, Lung Lung 湯融融",None,sfclicrec.asp?p=10627193,BJO239,http://www.sfc.hk/publicregWeb/indi/BJO239/licenceRecord,,,Rep,2017-05-19,
+"Yu, Chung Hang (SFC:AXF399) 余仲衡",None,sfclicrec.asp?p=71885,AXF399,http://www.sfc.hk/publicregWeb/indi/AXF399/licenceRecord,,,Rep,2019-03-04,2019-03-29
+"Yu, Chung Hang (SFC:AXF399) 余仲衡",None,sfclicrec.asp?p=71885,AXF399,http://www.sfc.hk/publicregWeb/indi/AXF399/licenceRecord,,,RO,2019-03-29,

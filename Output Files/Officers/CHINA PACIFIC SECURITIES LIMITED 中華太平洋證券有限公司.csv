@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au, Fung Ping 區鳳萍",sfclicrec.asp?p=73768,,,Rep,2003-11-17,2013-03-28
-"Chu, Kit Ming 朱傑明",sfclicrec.asp?p=100710,,,Rep,,2006-12-31
-"Foo, Chi Man (SFC:AAB711) 傅子文",sfclicrec.asp?p=73770,,,Rep,,2013-04-30
-"Hui, Chiu Kwan 許朝坤",sfclicrec.asp?p=73771,,,Rep,,2013-03-11
-"Hung, Yu Lam 洪于林",sfclicrec.asp?p=102093,,,Rep,,2003-08-17
-"Lam, Ching Foon 林清寬",sfclicrec.asp?p=73772,,,Rep,,2013-03-28
-"Leung, Sak Chuen 梁錫泉",sfclicrec.asp?p=73773,,,Rep,,2013-03-28
-"Mo, Shau Wah 巫秀華",sfclicrec.asp?p=73774,,F,Rep,,2013-03-14
-"Ng, Belinda Yick Yee 吳亦瑜",sfclicrec.asp?p=73766,,F,Rep,2006-08-11,2010-06-09
-"Ng, Belinda Yick Yee 吳亦瑜",sfclicrec.asp?p=73766,,F,RO,2010-06-09,
-"Ng, Kun Kwok 吳謹國",sfclicrec.asp?p=73764,,,RO,,2013-03-28
-"Ng, Kun Man 吳謹民",sfclicrec.asp?p=73765,,,RO,,2013-03-28
-"Ng, Yick Lam 吳亦琳",sfclicrec.asp?p=73775,,,Rep,2006-08-11,2013-04-30
-"Sze, Suk Ling 施淑玲",sfclicrec.asp?p=73767,,,RO,,2013-04-30
-"Tso, Fung Yee 曹鳳儀",sfclicrec.asp?p=73776,,,Rep,,2013-03-28
-"Wong, Siu Lai (SFC:ANE659) 黃少麗",sfclicrec.asp?p=71919,,,Rep,2006-05-02,2008-01-18
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au, Fung Ping 區鳳萍",None,sfclicrec.asp?p=73768,AAW408,http://www.sfc.hk/publicregWeb/indi/AAW408/licenceRecord,,,Rep,2003-11-17,2013-03-28
+"Chu, Kit Ming 朱傑明",None,sfclicrec.asp?p=100710,AAB706,http://www.sfc.hk/publicregWeb/indi/AAB706/licenceRecord,,,Rep,,2006-12-31
+"Foo, Chi Man (SFC:AAB711) 傅子文",None,sfclicrec.asp?p=73770,AAB711,http://www.sfc.hk/publicregWeb/indi/AAB711/licenceRecord,,,Rep,,2013-04-30
+"Hui, Chiu Kwan 許朝坤",None,sfclicrec.asp?p=73771,ABN641,http://www.sfc.hk/publicregWeb/indi/ABN641/licenceRecord,,,Rep,,2013-03-11
+"Hung, Yu Lam 洪于林",None,sfclicrec.asp?p=102093,ABM455,http://www.sfc.hk/publicregWeb/indi/ABM455/licenceRecord,,,Rep,,2003-08-17
+"Lam, Ching Foon 林清寬",None,sfclicrec.asp?p=73772,ABB182,http://www.sfc.hk/publicregWeb/indi/ABB182/licenceRecord,,,Rep,,2013-03-28
+"Leung, Sak Chuen 梁錫泉",None,sfclicrec.asp?p=73773,ABB186,http://www.sfc.hk/publicregWeb/indi/ABB186/licenceRecord,,,Rep,,2013-03-28
+"Mo, Shau Wah 巫秀華",None,sfclicrec.asp?p=73774,ABB183,http://www.sfc.hk/publicregWeb/indi/ABB183/licenceRecord,,F,Rep,,2013-03-14
+"Ng, Belinda Yick Yee 吳亦瑜",None,sfclicrec.asp?p=73766,ADS024,http://www.sfc.hk/publicregWeb/indi/ADS024/licenceRecord,,F,Rep,2006-08-11,2010-06-09
+"Ng, Belinda Yick Yee 吳亦瑜",None,sfclicrec.asp?p=73766,ADS024,http://www.sfc.hk/publicregWeb/indi/ADS024/licenceRecord,,F,RO,2010-06-09,
+"Ng, Kun Kwok 吳謹國",None,sfclicrec.asp?p=73764,AAB719,http://www.sfc.hk/publicregWeb/indi/AAB719/licenceRecord,,,RO,,2013-03-28
+"Ng, Kun Man 吳謹民",None,sfclicrec.asp?p=73765,AAB723,http://www.sfc.hk/publicregWeb/indi/AAB723/licenceRecord,,,RO,,2013-03-28
+"Ng, Yick Lam 吳亦琳",None,sfclicrec.asp?p=73775,AJE189,http://www.sfc.hk/publicregWeb/indi/AJE189/licenceRecord,,,Rep,2006-08-11,2013-04-30
+"Sze, Suk Ling 施淑玲",None,sfclicrec.asp?p=73767,ABM454,http://www.sfc.hk/publicregWeb/indi/ABM454/licenceRecord,,,RO,,2013-04-30
+"Tso, Fung Yee 曹鳳儀",None,sfclicrec.asp?p=73776,AAY890,http://www.sfc.hk/publicregWeb/indi/AAY890/licenceRecord,,,Rep,,2013-03-28
+"Wong, Siu Lai (SFC:ANE659) 黃少麗",None,sfclicrec.asp?p=71919,ANE659,http://www.sfc.hk/publicregWeb/indi/ANE659/licenceRecord,,,Rep,2006-05-02,2008-01-18

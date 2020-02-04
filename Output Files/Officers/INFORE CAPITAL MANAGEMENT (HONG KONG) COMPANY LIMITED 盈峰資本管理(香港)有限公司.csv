@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chiu, Ka Chun (SFC:BGM282) 趙嘉俊",sfclicrec.asp?p=2499427,,,Rep,2019-03-18,
-"Deng, Xiaoli 鄧曉立",sfclicrec.asp?p=127765,,,RO,2015-07-10,2016-04-30
-"Guo, Muyu 郭沐雨",sfclicrec.asp?p=2634073,,,Rep,2016-09-19,
-"Huang, Qiaowen 黃巧文",sfclicrec.asp?p=2652850,,,Rep,2016-11-02,2016-12-09
-"Huang, Qiaowen 黃巧文",sfclicrec.asp?p=2652850,,,RO,2016-12-09,
-"Shi, Wei (SFC:BIA163) 施維",sfclicrec.asp?p=2642597,,,RO,2016-10-11,
-"Sun, Jianshu 孫建樹",sfclicrec.asp?p=17897067,,,Rep,2018-06-26,
-"Wan, Nga Sze Janice 溫雅詩",sfclicrec.asp?p=22237814,,,Rep,2019-02-22,
-"Wang, Yan (SFC:AWK696) 王琰",sfclicrec.asp?p=99076,,,Rep,2015-11-13,2016-04-22
-"Wong, Wing Keung (SFC:ATL879) 王永強",sfclicrec.asp?p=96029,,,Rep,2014-07-03,2017-03-23
-"Wong, Yun Sum 黃潤森",sfclicrec.asp?p=1939259,,,Rep,2017-04-24,2018-06-29
-"Zhang, Zhifeng (SFC:BCH854) 張志峰",sfclicrec.asp?p=2289098,,,RO,2014-02-28,2018-03-30
-"Zhu, Ming (SFC:BCH834) 朱明",sfclicrec.asp?p=2289099,,,RO,2014-02-28,2016-10-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chiu, Ka Chun (SFC:BGM282) 趙嘉俊",None,sfclicrec.asp?p=2499427,BGM282,http://www.sfc.hk/publicregWeb/indi/BGM282/licenceRecord,,,Rep,2019-03-18,
+"Deng, Xiaoli 鄧曉立",None,sfclicrec.asp?p=127765,ASP700,http://www.sfc.hk/publicregWeb/indi/ASP700/licenceRecord,,,RO,2015-07-10,2016-04-30
+"Guo, Muyu 郭沐雨",None,sfclicrec.asp?p=2634073,BIE674,http://www.sfc.hk/publicregWeb/indi/BIE674/licenceRecord,,,Rep,2016-09-19,
+"Huang, Qiaowen 黃巧文",None,sfclicrec.asp?p=2652850,BIJ390,http://www.sfc.hk/publicregWeb/indi/BIJ390/licenceRecord,,,Rep,2016-11-02,2016-12-09
+"Huang, Qiaowen 黃巧文",None,sfclicrec.asp?p=2652850,BIJ390,http://www.sfc.hk/publicregWeb/indi/BIJ390/licenceRecord,,,RO,2016-12-09,
+"Shi, Wei (SFC:BIA163) 施維",None,sfclicrec.asp?p=2642597,BIA163,http://www.sfc.hk/publicregWeb/indi/BIA163/licenceRecord,,,RO,2016-10-11,
+"Sun, Jianshu 孫建樹",None,sfclicrec.asp?p=17897067,BMR326,http://www.sfc.hk/publicregWeb/indi/BMR326/licenceRecord,,,Rep,2018-06-26,
+"Wan, Nga Sze Janice 溫雅詩",None,sfclicrec.asp?p=22237814,BNO895,http://www.sfc.hk/publicregWeb/indi/BNO895/licenceRecord,,,Rep,2019-02-22,
+"Wang, Yan (SFC:AWK696) 王琰",None,sfclicrec.asp?p=99076,AWK696,http://www.sfc.hk/publicregWeb/indi/AWK696/licenceRecord,,,Rep,2015-11-13,2016-04-22
+"Wong, Wing Keung (SFC:ATL879) 王永強",None,sfclicrec.asp?p=96029,ATL879,http://www.sfc.hk/publicregWeb/indi/ATL879/licenceRecord,,,Rep,2014-07-03,2017-03-23
+"Wong, Yun Sum 黃潤森",None,sfclicrec.asp?p=1939259,BAA672,http://www.sfc.hk/publicregWeb/indi/BAA672/licenceRecord,,,Rep,2017-04-24,2018-06-29
+"Zhang, Zhifeng (SFC:BCH854) 張志峰",None,sfclicrec.asp?p=2289098,BCH854,http://www.sfc.hk/publicregWeb/indi/BCH854/licenceRecord,,,RO,2014-02-28,2018-03-30
+"Zhu, Ming (SFC:BCH834) 朱明",None,sfclicrec.asp?p=2289099,BCH834,http://www.sfc.hk/publicregWeb/indi/BCH834/licenceRecord,,,RO,2014-02-28,2016-10-31

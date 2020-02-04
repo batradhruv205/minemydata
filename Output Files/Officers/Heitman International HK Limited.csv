@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Hong (SFC:ASO010) 鄭泓",sfclicrec.asp?p=69030,,,Rep,2017-02-03,
-"Choi, Yun Jung ",sfclicrec.asp?p=2591258,,,Rep,2014-08-11,
-"Chung, Scott Young ",sfclicrec.asp?p=2591256,,M,RO,2014-02-18,
-"Dooley, Daniel Joseph ",sfclicrec.asp?p=2648726,,M,Rep,2016-10-25,2018-10-31
-"Fu, Bradley 符基業",sfclicrec.asp?p=100341,35,M,Rep,2018-08-21,
-"Schwartz, Harold Alan III ",sfclicrec.asp?p=2591257,,M,RO,2014-02-18,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Hong (SFC:ASO010) 鄭泓",None,sfclicrec.asp?p=69030,ASO010,http://www.sfc.hk/publicregWeb/indi/ASO010/licenceRecord,,,Rep,2017-02-03,
+"Choi, Yun Jung ",None,sfclicrec.asp?p=2591258,BDY634,http://www.sfc.hk/publicregWeb/indi/BDY634/licenceRecord,,,Rep,2014-08-11,
+"Chung, Scott Young ",None,sfclicrec.asp?p=2591256,BCI169,http://www.sfc.hk/publicregWeb/indi/BCI169/licenceRecord,,M,RO,2014-02-18,
+"Dooley, Daniel Joseph ",None,sfclicrec.asp?p=2648726,BCI179,http://www.sfc.hk/publicregWeb/indi/BCI179/licenceRecord,,M,Rep,2016-10-25,2018-10-31
+"Fu, Bradley 符基業",None,sfclicrec.asp?p=100341,ARE340,http://www.sfc.hk/publicregWeb/indi/ARE340/licenceRecord,35.0,M,Rep,2018-08-21,
+"Schwartz, Harold Alan III ",None,sfclicrec.asp?p=2591257,BCI160,http://www.sfc.hk/publicregWeb/indi/BCI160/licenceRecord,,M,RO,2014-02-18,

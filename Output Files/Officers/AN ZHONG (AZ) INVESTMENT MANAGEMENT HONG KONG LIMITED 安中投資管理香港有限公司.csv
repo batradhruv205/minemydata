@@ -1,18 +1,18 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bhatia, Jitendra Lakhi Alias Babloo ",sfclicrec.asp?p=11669860,,M,Rep,2017-06-28,2018-01-26
-"Chainani, Harry Lal 柴海仁",sfclicrec.asp?p=12161732,,M,Rep,2017-10-26,2019-01-11
-"Ciaccio, Andrea ",sfclicrec.asp?p=131059,,F,RO,2011-08-03,
-"Demekhina, Kateryna ",sfclicrec.asp?p=96835,,,Rep,2012-03-09,2014-06-30
-"Guiati, Massimo ",sfclicrec.asp?p=131060,,,RO,2011-08-03,
-"Higashimura, Kana ",sfclicrec.asp?p=1950011,,,Rep,2012-09-06,2013-11-12
-"Higashimura, Kana ",sfclicrec.asp?p=1950011,,,Rep,2014-01-02,2014-05-09
-"Jain, Jyoti ",sfclicrec.asp?p=13879702,,,Rep,2018-04-16,
-"Lionetti, Luca ",sfclicrec.asp?p=132669,,,Rep,2011-10-13,2012-07-31
-"Lu, Fengqing 陸風清",sfclicrec.asp?p=6719251,,,Rep,2018-06-21,
-"Ng, Tin Yau 吳天祐",sfclicrec.asp?p=121232,,,Rep,2012-12-04,2018-06-29
-"Paine, Noriko 宮本倫子",sfclicrec.asp?p=2288359,,F,Rep,2014-07-02,
-"Shan, An Fu 單安芙",sfclicrec.asp?p=2460207,,,Rep,2015-08-10,2017-12-31
-"Shiu, Susan Woon Ying 邵煥英",sfclicrec.asp?p=128807,,F,Rep,2019-06-25,2019-10-31
-"Su, Alyce 粟耀瑩",sfclicrec.asp?p=109593,,,Rep,2012-03-09,
-"Tse, Raymond 謝禮文",sfclicrec.asp?p=101949,,M,RO,2011-08-03,2011-08-25
-"Yang, Hsien-Yu 楊賢佑",sfclicrec.asp?p=77745,,,Rep,2016-01-14,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bhatia, Jitendra Lakhi Alias Babloo ",None,sfclicrec.asp?p=11669860,BJT115,http://www.sfc.hk/publicregWeb/indi/BJT115/licenceRecord,,M,Rep,2017-06-28,2018-01-26
+"Chainani, Harry Lal 柴海仁",None,sfclicrec.asp?p=12161732,BLC840,http://www.sfc.hk/publicregWeb/indi/BLC840/licenceRecord,,M,Rep,2017-10-26,2019-01-11
+"Ciaccio, Andrea ",None,sfclicrec.asp?p=131059,AXC973,http://www.sfc.hk/publicregWeb/indi/AXC973/licenceRecord,,F,RO,2011-08-03,
+"Demekhina, Kateryna ",None,sfclicrec.asp?p=96835,AVF431,http://www.sfc.hk/publicregWeb/indi/AVF431/licenceRecord,,,Rep,2012-03-09,2014-06-30
+"Guiati, Massimo ",None,sfclicrec.asp?p=131060,AXC974,http://www.sfc.hk/publicregWeb/indi/AXC974/licenceRecord,,,RO,2011-08-03,
+"Higashimura, Kana ",None,sfclicrec.asp?p=1950011,BAD870,http://www.sfc.hk/publicregWeb/indi/BAD870/licenceRecord,,,Rep,2012-09-06,2013-11-12
+"Higashimura, Kana ",None,sfclicrec.asp?p=1950011,BAD870,http://www.sfc.hk/publicregWeb/indi/BAD870/licenceRecord,,,Rep,2014-01-02,2014-05-09
+"Jain, Jyoti ",None,sfclicrec.asp?p=13879702,BMS686,http://www.sfc.hk/publicregWeb/indi/BMS686/licenceRecord,,,Rep,2018-04-16,
+"Lionetti, Luca ",None,sfclicrec.asp?p=132669,AXZ868,http://www.sfc.hk/publicregWeb/indi/AXZ868/licenceRecord,,,Rep,2011-10-13,2012-07-31
+"Lu, Fengqing 陸風清",None,sfclicrec.asp?p=6719251,BJC209,http://www.sfc.hk/publicregWeb/indi/BJC209/licenceRecord,,,Rep,2018-06-21,
+"Ng, Tin Yau 吳天祐",None,sfclicrec.asp?p=121232,AOV374,http://www.sfc.hk/publicregWeb/indi/AOV374/licenceRecord,,,Rep,2012-12-04,2018-06-29
+"Paine, Noriko 宮本倫子",None,sfclicrec.asp?p=2288359,BDP814,http://www.sfc.hk/publicregWeb/indi/BDP814/licenceRecord,,F,Rep,2014-07-02,
+"Shan, An Fu 單安芙",None,sfclicrec.asp?p=2460207,BFY654,http://www.sfc.hk/publicregWeb/indi/BFY654/licenceRecord,,,Rep,2015-08-10,2017-12-31
+"Shiu, Susan Woon Ying 邵煥英",None,sfclicrec.asp?p=128807,AUA244,http://www.sfc.hk/publicregWeb/indi/AUA244/licenceRecord,,F,Rep,2019-06-25,2019-10-31
+"Su, Alyce 粟耀瑩",None,sfclicrec.asp?p=109593,AGN848,http://www.sfc.hk/publicregWeb/indi/AGN848/licenceRecord,,,Rep,2012-03-09,
+"Tse, Raymond 謝禮文",None,sfclicrec.asp?p=101949,ABF543,http://www.sfc.hk/publicregWeb/indi/ABF543/licenceRecord,,M,RO,2011-08-03,2011-08-25
+"Yang, Hsien-Yu 楊賢佑",None,sfclicrec.asp?p=77745,AUC293,http://www.sfc.hk/publicregWeb/indi/AUC293/licenceRecord,,,Rep,2016-01-14,

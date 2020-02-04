@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Ka Kit (SFC:ATS061) 陳嘉傑",sfclicrec.asp?p=96036,,,Rep,2014-08-26,2016-09-26
-"Chan, Ka Kit (SFC:ATS061) 陳嘉傑",sfclicrec.asp?p=96036,,,RO,2016-09-26,
-"Chow, Augustine Pok Yu 周博裕",sfclicrec.asp?p=2119,68,M,RO,2013-01-23,2014-10-01
-"Ho, Benny Tak Ming 何德明",sfclicrec.asp?p=74704,,M,RO,2013-01-23,2013-05-24
-"Lee, King Yu 李景愉",sfclicrec.asp?p=90277,,,RO,2013-06-20,
-"Lee, Vizor 李詠珊",sfclicrec.asp?p=78616,,,RO,2013-01-23,2016-09-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Ka Kit (SFC:ATS061) 陳嘉傑",None,sfclicrec.asp?p=96036,ATS061,http://www.sfc.hk/publicregWeb/indi/ATS061/licenceRecord,,,Rep,2014-08-26,2016-09-26
+"Chan, Ka Kit (SFC:ATS061) 陳嘉傑",None,sfclicrec.asp?p=96036,ATS061,http://www.sfc.hk/publicregWeb/indi/ATS061/licenceRecord,,,RO,2016-09-26,
+"Chow, Augustine Pok Yu 周博裕",None,sfclicrec.asp?p=2119,AAN638,http://www.sfc.hk/publicregWeb/indi/AAN638/licenceRecord,68.0,M,RO,2013-01-23,2014-10-01
+"Ho, Benny Tak Ming 何德明",None,sfclicrec.asp?p=74704,AJH567,http://www.sfc.hk/publicregWeb/indi/AJH567/licenceRecord,,M,RO,2013-01-23,2013-05-24
+"Lee, King Yu 李景愉",None,sfclicrec.asp?p=90277,ACI100,http://www.sfc.hk/publicregWeb/indi/ACI100/licenceRecord,,,RO,2013-06-20,
+"Lee, Vizor 李詠珊",None,sfclicrec.asp?p=78616,AWF319,http://www.sfc.hk/publicregWeb/indi/AWF319/licenceRecord,,,RO,2013-01-23,2016-09-30

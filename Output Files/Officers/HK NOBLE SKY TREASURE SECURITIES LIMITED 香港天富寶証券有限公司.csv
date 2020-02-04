@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Raymond Wai Man (SFC:AEI190) 陳偉民",sfclicrec.asp?p=93499,,,RO,2014-07-18,2017-09-04
-"Chan, Raymond Wai Man (SFC:AEI190) 陳偉民",sfclicrec.asp?p=93499,,,Rep,2018-10-02,2018-10-03
-"Chan, Raymond Wai Man (SFC:AEI190) 陳偉民",sfclicrec.asp?p=93499,,,RO,2018-10-03,
-"Choy, Tau Man 蔡斗民",sfclicrec.asp?p=101657,,,RO,2013-03-01,
-"Chu, Shu Kwan 褚舒鈞",sfclicrec.asp?p=2155559,,,Rep,2013-10-31,
-"Gao, Linda Hui Feng 高會風",sfclicrec.asp?p=2115269,,F,Rep,2013-08-12,2017-05-31
-"Ku, Leung Chi 顧良智",sfclicrec.asp?p=2513406,,,Rep,2015-12-14,
-"Or, Chi Hang 柯志衡",sfclicrec.asp?p=120559,,,RO,2013-02-28,2015-10-13
-"Tse, Chi Ho (SFC:APB691) 謝志豪",sfclicrec.asp?p=72989,,,RO,2014-07-18,2016-06-16
-"Wong, Wai Kwan (SFC:AWA381) 黃偉琨",sfclicrec.asp?p=83350,,,Rep,2015-09-09,2015-10-09
-"Wong, Wai Kwan (SFC:AWA381) 黃偉琨",sfclicrec.asp?p=83350,,,RO,2015-10-09,2017-07-11
-"Wong, Wai San 黃偉新",sfclicrec.asp?p=72997,,,RO,2017-08-31,2018-10-16
-"Zhang, Yiwei (SFC:AQH375) 章奕唯",sfclicrec.asp?p=89969,,,Rep,2016-06-20,2017-03-03
-"Zhang, Yiwei (SFC:AQH375) 章奕唯",sfclicrec.asp?p=89969,,,RO,2017-03-03,2020-01-22
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Raymond Wai Man (SFC:AEI190) 陳偉民",None,sfclicrec.asp?p=93499,AEI190,http://www.sfc.hk/publicregWeb/indi/AEI190/licenceRecord,,,RO,2014-07-18,2017-09-04
+"Chan, Raymond Wai Man (SFC:AEI190) 陳偉民",None,sfclicrec.asp?p=93499,AEI190,http://www.sfc.hk/publicregWeb/indi/AEI190/licenceRecord,,,Rep,2018-10-02,2018-10-03
+"Chan, Raymond Wai Man (SFC:AEI190) 陳偉民",None,sfclicrec.asp?p=93499,AEI190,http://www.sfc.hk/publicregWeb/indi/AEI190/licenceRecord,,,RO,2018-10-03,
+"Choy, Tau Man 蔡斗民",None,sfclicrec.asp?p=101657,AAV796,http://www.sfc.hk/publicregWeb/indi/AAV796/licenceRecord,,,RO,2013-03-01,
+"Chu, Shu Kwan 褚舒鈞",None,sfclicrec.asp?p=2155559,BBX967,http://www.sfc.hk/publicregWeb/indi/BBX967/licenceRecord,,,Rep,2013-10-31,
+"Gao, Linda Hui Feng 高會風",None,sfclicrec.asp?p=2115269,BBP528,http://www.sfc.hk/publicregWeb/indi/BBP528/licenceRecord,,F,Rep,2013-08-12,2017-05-31
+"Ku, Leung Chi 顧良智",None,sfclicrec.asp?p=2513406,BGO676,http://www.sfc.hk/publicregWeb/indi/BGO676/licenceRecord,,,Rep,2015-12-14,
+"Or, Chi Hang 柯志衡",None,sfclicrec.asp?p=120559,AOL351,http://www.sfc.hk/publicregWeb/indi/AOL351/licenceRecord,,,RO,2013-02-28,2015-10-13
+"Tse, Chi Ho (SFC:APB691) 謝志豪",None,sfclicrec.asp?p=72989,APB691,http://www.sfc.hk/publicregWeb/indi/APB691/licenceRecord,,,RO,2014-07-18,2016-06-16
+"Wong, Wai Kwan (SFC:AWA381) 黃偉琨",None,sfclicrec.asp?p=83350,AWA381,http://www.sfc.hk/publicregWeb/indi/AWA381/licenceRecord,,,Rep,2015-09-09,2015-10-09
+"Wong, Wai Kwan (SFC:AWA381) 黃偉琨",None,sfclicrec.asp?p=83350,AWA381,http://www.sfc.hk/publicregWeb/indi/AWA381/licenceRecord,,,RO,2015-10-09,2017-07-11
+"Wong, Wai San 黃偉新",None,sfclicrec.asp?p=72997,AHP442,http://www.sfc.hk/publicregWeb/indi/AHP442/licenceRecord,,,RO,2017-08-31,2018-10-16
+"Zhang, Yiwei (SFC:AQH375) 章奕唯",None,sfclicrec.asp?p=89969,AQH375,http://www.sfc.hk/publicregWeb/indi/AQH375/licenceRecord,,,Rep,2016-06-20,2017-03-03
+"Zhang, Yiwei (SFC:AQH375) 章奕唯",None,sfclicrec.asp?p=89969,AQH375,http://www.sfc.hk/publicregWeb/indi/AQH375/licenceRecord,,,RO,2017-03-03,2020-01-22

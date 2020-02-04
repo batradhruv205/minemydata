@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Pok Man (SFC:BCU785) 陳博文",sfclicrec.asp?p=2203976,,,RO,2019-05-24,
-"Cheng, Tsz Tsun 鄭子俊",sfclicrec.asp?p=97921,,,Rep,2017-04-19,2017-11-13
-"Cheung, Chor Yu 張礎宇",sfclicrec.asp?p=95423,,,RO,2017-12-11,2018-08-31
-"Chow, Siu Hung (SFC:ALY494) 周小雄",sfclicrec.asp?p=80484,,,Rep,2017-05-18,2018-05-06
-"Chung, Lai Yung 鍾麗容",sfclicrec.asp?p=80459,,,RO,2017-03-22,2017-10-05
-"Je, Siu Ming 余小明",sfclicrec.asp?p=2551222,,,RO,2019-04-24,
-"Leung, Michael Kam Lok 梁金樂",sfclicrec.asp?p=2547248,,M,Rep,2019-11-11,
-"Lui, Josaphat Chi Chung 呂志聰",sfclicrec.asp?p=80463,,,RO,2017-03-22,2017-10-05
-"Ma, Chi Wah 馬志華",sfclicrec.asp?p=99571,,,Rep,2018-06-29,2018-09-17
-"Ma, Chi Wah 馬志華",sfclicrec.asp?p=99571,,,RO,2018-09-17,2018-10-31
-"Ng, Ka Kin (SFC:ACF722) 吳家健",sfclicrec.asp?p=84525,,,RO,2018-02-01,2019-02-01
-"Tong, Peggy Ha Kay 唐夏琪",sfclicrec.asp?p=2526072,,F,Rep,2018-01-15,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Pok Man (SFC:BCU785) 陳博文",None,sfclicrec.asp?p=2203976,BCU785,http://www.sfc.hk/publicregWeb/indi/BCU785/licenceRecord,,,RO,2019-05-24,
+"Cheng, Tsz Tsun 鄭子俊",None,sfclicrec.asp?p=97921,APP183,http://www.sfc.hk/publicregWeb/indi/APP183/licenceRecord,,,Rep,2017-04-19,2017-11-13
+"Cheung, Chor Yu 張礎宇",None,sfclicrec.asp?p=95423,AJE761,http://www.sfc.hk/publicregWeb/indi/AJE761/licenceRecord,,,RO,2017-12-11,2018-08-31
+"Chow, Siu Hung (SFC:ALY494) 周小雄",None,sfclicrec.asp?p=80484,ALY494,http://www.sfc.hk/publicregWeb/indi/ALY494/licenceRecord,,,Rep,2017-05-18,2018-05-06
+"Chung, Lai Yung 鍾麗容",None,sfclicrec.asp?p=80459,AGM626,http://www.sfc.hk/publicregWeb/indi/AGM626/licenceRecord,,,RO,2017-03-22,2017-10-05
+"Je, Siu Ming 余小明",None,sfclicrec.asp?p=2551222,BGX730,http://www.sfc.hk/publicregWeb/indi/BGX730/licenceRecord,,,RO,2019-04-24,
+"Leung, Michael Kam Lok 梁金樂",None,sfclicrec.asp?p=2547248,BHC917,http://www.sfc.hk/publicregWeb/indi/BHC917/licenceRecord,,M,Rep,2019-11-11,
+"Lui, Josaphat Chi Chung 呂志聰",None,sfclicrec.asp?p=80463,AAD557,http://www.sfc.hk/publicregWeb/indi/AAD557/licenceRecord,,,RO,2017-03-22,2017-10-05
+"Ma, Chi Wah 馬志華",None,sfclicrec.asp?p=99571,AFF507,http://www.sfc.hk/publicregWeb/indi/AFF507/licenceRecord,,,Rep,2018-06-29,2018-09-17
+"Ma, Chi Wah 馬志華",None,sfclicrec.asp?p=99571,AFF507,http://www.sfc.hk/publicregWeb/indi/AFF507/licenceRecord,,,RO,2018-09-17,2018-10-31
+"Ng, Ka Kin (SFC:ACF722) 吳家健",None,sfclicrec.asp?p=84525,ACF722,http://www.sfc.hk/publicregWeb/indi/ACF722/licenceRecord,,,RO,2018-02-01,2019-02-01
+"Tong, Peggy Ha Kay 唐夏琪",None,sfclicrec.asp?p=2526072,BGS695,http://www.sfc.hk/publicregWeb/indi/BGS695/licenceRecord,,F,Rep,2018-01-15,

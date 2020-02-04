@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chang, Mun Shien ",sfclicrec.asp?p=12439190,,,Rep,2017-10-30,2018-09-30
-"Deng, Jun (SFC:APZ630) 鄧駿",sfclicrec.asp?p=73272,,,RO,2016-03-09,2019-04-28
-"Huang, Bin (SFC:BBM148) 黃彬",sfclicrec.asp?p=2089873,,,Rep,2017-09-29,2019-05-31
-"Jacob, Fabrice Christian ",sfclicrec.asp?p=5520,56,M,RO,,2016-03-09
-"Jia, Qin (SFC:ARI969) 賈沁",sfclicrec.asp?p=74739,,,Rep,2016-06-27,2017-08-16
-"Leung, Alex King Yue 梁景裕",sfclicrec.asp?p=12991,43,M,RO,2006-03-09,2016-03-09
-"Wang, Eric Bing 王兵",sfclicrec.asp?p=75412,,M,RO,2016-03-30,2017-03-01
-"Wang, Wenhui 王文暉",sfclicrec.asp?p=89723,,,RO,2019-06-19,
-"Yan, Shengle 嚴晟樂",sfclicrec.asp?p=22095242,,,Rep,2018-08-24,2019-05-31
-"Zheng, Jianping (SFC:AGD110) 鄭堅平",sfclicrec.asp?p=75348,57,M,RO,2016-03-09,
-"Zhu, Shaopeng (SFC:BGO816) 朱少鵬",sfclicrec.asp?p=23621436,,,Rep,2019-09-04,
-"Zhu, Yong (SFC:AJD985) 朱勇",sfclicrec.asp?p=112997,,,RO,2016-03-09,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chang, Mun Shien ",None,sfclicrec.asp?p=12439190,BLB651,http://www.sfc.hk/publicregWeb/indi/BLB651/licenceRecord,,,Rep,2017-10-30,2018-09-30
+"Deng, Jun (SFC:APZ630) 鄧駿",None,sfclicrec.asp?p=73272,APZ630,http://www.sfc.hk/publicregWeb/indi/APZ630/licenceRecord,,,RO,2016-03-09,2019-04-28
+"Huang, Bin (SFC:BBM148) 黃彬",None,sfclicrec.asp?p=2089873,BBM148,http://www.sfc.hk/publicregWeb/indi/BBM148/licenceRecord,,,Rep,2017-09-29,2019-05-31
+"Jacob, Fabrice Christian ",None,sfclicrec.asp?p=5520,ADH055,http://www.sfc.hk/publicregWeb/indi/ADH055/licenceRecord,56.0,M,RO,,2016-03-09
+"Jia, Qin (SFC:ARI969) 賈沁",None,sfclicrec.asp?p=74739,ARI969,http://www.sfc.hk/publicregWeb/indi/ARI969/licenceRecord,,,Rep,2016-06-27,2017-08-16
+"Leung, Alex King Yue 梁景裕",None,sfclicrec.asp?p=12991,AGJ776,http://www.sfc.hk/publicregWeb/indi/AGJ776/licenceRecord,43.0,M,RO,2006-03-09,2016-03-09
+"Wang, Eric Bing 王兵",None,sfclicrec.asp?p=75412,ASP107,http://www.sfc.hk/publicregWeb/indi/ASP107/licenceRecord,,M,RO,2016-03-30,2017-03-01
+"Wang, Wenhui 王文暉",None,sfclicrec.asp?p=89723,AOL182,http://www.sfc.hk/publicregWeb/indi/AOL182/licenceRecord,,,RO,2019-06-19,
+"Yan, Shengle 嚴晟樂",None,sfclicrec.asp?p=22095242,BNG383,http://www.sfc.hk/publicregWeb/indi/BNG383/licenceRecord,,,Rep,2018-08-24,2019-05-31
+"Zheng, Jianping (SFC:AGD110) 鄭堅平",None,sfclicrec.asp?p=75348,AGD110,http://www.sfc.hk/publicregWeb/indi/AGD110/licenceRecord,57.0,M,RO,2016-03-09,
+"Zhu, Shaopeng (SFC:BGO816) 朱少鵬",None,sfclicrec.asp?p=23621436,BGO816,http://www.sfc.hk/publicregWeb/indi/BGO816/licenceRecord,,,Rep,2019-09-04,
+"Zhu, Yong (SFC:AJD985) 朱勇",None,sfclicrec.asp?p=112997,AJD985,http://www.sfc.hk/publicregWeb/indi/AJD985/licenceRecord,,,RO,2016-03-09,

@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Liang, Hao (SFC:BGU786) 梁昊",sfclicrec.asp?p=2526073,,,Rep,2017-11-01,2018-04-30
-"Lindsay, Craig Blaser 林善祺",sfclicrec.asp?p=35628,66,M,Rep,2020-01-21,
-"Sun, Fei (SFC:BBK314) 孫非",sfclicrec.asp?p=2084721,,,RO,2017-05-24,
-"Yang, Chunxi 楊春溪",sfclicrec.asp?p=9409915,,,Rep,2019-05-30,
-"Yao, Wanyi 姚菀怡",sfclicrec.asp?p=2388147,,,RO,2017-05-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Liang, Hao (SFC:BGU786) 梁昊",None,sfclicrec.asp?p=2526073,BGU786,http://www.sfc.hk/publicregWeb/indi/BGU786/licenceRecord,,,Rep,2017-11-01,2018-04-30
+"Lindsay, Craig Blaser 林善祺",None,sfclicrec.asp?p=35628,AEE208,http://www.sfc.hk/publicregWeb/indi/AEE208/licenceRecord,66.0,M,Rep,2020-01-21,
+"Sun, Fei (SFC:BBK314) 孫非",None,sfclicrec.asp?p=2084721,BBK314,http://www.sfc.hk/publicregWeb/indi/BBK314/licenceRecord,,,RO,2017-05-24,
+"Yang, Chunxi 楊春溪",None,sfclicrec.asp?p=9409915,BJL681,http://www.sfc.hk/publicregWeb/indi/BJL681/licenceRecord,,,Rep,2019-05-30,
+"Yao, Wanyi 姚菀怡",None,sfclicrec.asp?p=2388147,BFA648,http://www.sfc.hk/publicregWeb/indi/BFA648/licenceRecord,,,RO,2017-05-24,

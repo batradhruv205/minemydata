@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Twice Sui Lung 陳瑞龍",sfclicrec.asp?p=92165,,,Rep,2003-11-12,2005-03-21
-"Chan, Twice Sui Lung 陳瑞龍",sfclicrec.asp?p=92165,,,RO,2005-03-21,2012-08-01
-"Cheng, Siu Wa (SFC:AOV295) 鄭少華",sfclicrec.asp?p=121224,,,Rep,2007-05-18,2010-10-15
-"Chu, Chester Wai Pang 朱維鵬",sfclicrec.asp?p=92168,62,,Rep,2012-10-09,2016-08-09
-"Ho, Boby Yiu Keung 何耀強",sfclicrec.asp?p=41531,,M,RO,2019-04-17,
-"Ho, Yiu Ming (SFC:AAI982) 何耀明",sfclicrec.asp?p=34097,,M,RO,,
-"Lau, Chun Yin (SFC:AVP120) 劉俊賢",sfclicrec.asp?p=92171,,,Rep,2017-07-20,
-"Lau, Ho Fung 劉浩峰",sfclicrec.asp?p=97883,38,M,Rep,2006-02-01,2006-10-17
-"Lee, Alex Chiu Kang 李疇賡",sfclicrec.asp?p=829,70,M,RO,,2019-12-31
-"Lee, Helmut Inn Man 李彥文",sfclicrec.asp?p=2579093,,,Rep,2017-01-24,2017-08-01
-"Liu, Tsan Pui 廖燦培",sfclicrec.asp?p=81568,,,Rep,2017-07-24,
-"Mak, Tsz Hang 麥子衡",sfclicrec.asp?p=93926,,,Rep,2007-11-28,2010-03-02
-"Yau, Yuek To 尤若濤",sfclicrec.asp?p=113499,,,Rep,2005-06-23,2007-05-03
-"Yiu, Pui Yee 姚佩怡",sfclicrec.asp?p=12511653,,,Rep,2018-03-20,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Twice Sui Lung 陳瑞龍",None,sfclicrec.asp?p=92165,ADC991,http://www.sfc.hk/publicregWeb/indi/ADC991/licenceRecord,,,Rep,2003-11-12,2005-03-21
+"Chan, Twice Sui Lung 陳瑞龍",None,sfclicrec.asp?p=92165,ADC991,http://www.sfc.hk/publicregWeb/indi/ADC991/licenceRecord,,,RO,2005-03-21,2012-08-01
+"Cheng, Siu Wa (SFC:AOV295) 鄭少華",None,sfclicrec.asp?p=121224,AOV295,http://www.sfc.hk/publicregWeb/indi/AOV295/licenceRecord,,,Rep,2007-05-18,2010-10-15
+"Chu, Chester Wai Pang 朱維鵬",None,sfclicrec.asp?p=92168,ABF141,http://www.sfc.hk/publicregWeb/indi/ABF141/licenceRecord,62.0,,Rep,2012-10-09,2016-08-09
+"Ho, Boby Yiu Keung 何耀強",None,sfclicrec.asp?p=41531,AAE294,http://www.sfc.hk/publicregWeb/indi/AAE294/licenceRecord,,M,RO,2019-04-17,
+"Ho, Yiu Ming (SFC:AAI982) 何耀明",None,sfclicrec.asp?p=34097,AAI982,http://www.sfc.hk/publicregWeb/indi/AAI982/licenceRecord,,M,RO,,
+"Lau, Chun Yin (SFC:AVP120) 劉俊賢",None,sfclicrec.asp?p=92171,AVP120,http://www.sfc.hk/publicregWeb/indi/AVP120/licenceRecord,,,Rep,2017-07-20,
+"Lau, Ho Fung 劉浩峰",None,sfclicrec.asp?p=97883,AMW835,http://www.sfc.hk/publicregWeb/indi/AMW835/licenceRecord,38.0,M,Rep,2006-02-01,2006-10-17
+"Lee, Alex Chiu Kang 李疇賡",None,sfclicrec.asp?p=829,ACY330,http://www.sfc.hk/publicregWeb/indi/ACY330/licenceRecord,70.0,M,RO,,2019-12-31
+"Lee, Helmut Inn Man 李彥文",None,sfclicrec.asp?p=2579093,BHL036,http://www.sfc.hk/publicregWeb/indi/BHL036/licenceRecord,,,Rep,2017-01-24,2017-08-01
+"Liu, Tsan Pui 廖燦培",None,sfclicrec.asp?p=81568,ATX291,http://www.sfc.hk/publicregWeb/indi/ATX291/licenceRecord,,,Rep,2017-07-24,
+"Mak, Tsz Hang 麥子衡",None,sfclicrec.asp?p=93926,APW355,http://www.sfc.hk/publicregWeb/indi/APW355/licenceRecord,,,Rep,2007-11-28,2010-03-02
+"Yau, Yuek To 尤若濤",None,sfclicrec.asp?p=113499,AJM461,http://www.sfc.hk/publicregWeb/indi/AJM461/licenceRecord,,,Rep,2005-06-23,2007-05-03
+"Yiu, Pui Yee 姚佩怡",None,sfclicrec.asp?p=12511653,ACY334,http://www.sfc.hk/publicregWeb/indi/ACY334/licenceRecord,,,Rep,2018-03-20,

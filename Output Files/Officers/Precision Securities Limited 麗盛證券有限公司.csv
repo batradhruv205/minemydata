@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Chi Hung (SFC:ALZ821) 陳志鴻",sfclicrec.asp?p=99733,,,RO,2019-01-15,
-"Chan, Kam Yau 陳金友",sfclicrec.asp?p=99732,,M,RO,2019-01-15,
-"Fu, Ting Ting 傅婷婷",sfclicrec.asp?p=99739,,,Rep,2019-01-28,2019-06-26
-"Fu, Ting Ting 傅婷婷",sfclicrec.asp?p=99739,,,RO,2019-06-26,
-"Ng, Lai Kwan (SFC:BNE831) 吳麗君",sfclicrec.asp?p=23172556,,,Rep,2019-05-14,
-"Tang, Wai Kwan (SFC:ALZ222) 鄧惠君",sfclicrec.asp?p=97141,,,Rep,2019-07-10,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Chi Hung (SFC:ALZ821) 陳志鴻",None,sfclicrec.asp?p=99733,ALZ821,http://www.sfc.hk/publicregWeb/indi/ALZ821/licenceRecord,,,RO,2019-01-15,
+"Chan, Kam Yau 陳金友",None,sfclicrec.asp?p=99732,AAA506,http://www.sfc.hk/publicregWeb/indi/AAA506/licenceRecord,,M,RO,2019-01-15,
+"Fu, Ting Ting 傅婷婷",None,sfclicrec.asp?p=99739,AAY612,http://www.sfc.hk/publicregWeb/indi/AAY612/licenceRecord,,,Rep,2019-01-28,2019-06-26
+"Fu, Ting Ting 傅婷婷",None,sfclicrec.asp?p=99739,AAY612,http://www.sfc.hk/publicregWeb/indi/AAY612/licenceRecord,,,RO,2019-06-26,
+"Ng, Lai Kwan (SFC:BNE831) 吳麗君",None,sfclicrec.asp?p=23172556,BNE831,http://www.sfc.hk/publicregWeb/indi/BNE831/licenceRecord,,,Rep,2019-05-14,
+"Tang, Wai Kwan (SFC:ALZ222) 鄧惠君",None,sfclicrec.asp?p=97141,ALZ222,http://www.sfc.hk/publicregWeb/indi/ALZ222/licenceRecord,,,Rep,2019-07-10,

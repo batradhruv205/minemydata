@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bai, Jingjing 白晶晶",sfclicrec.asp?p=1944979,,,Rep,2016-02-29,2017-01-10
-"Bai, Jingjing 白晶晶",sfclicrec.asp?p=1944979,,,RO,2017-01-10,
-"Chan, Kwok Chiu (SFC:AOY089) 陳國超",sfclicrec.asp?p=81707,,,RO,2014-11-13,2015-09-21
-"Guan, Zhouhai 管洲海",sfclicrec.asp?p=22237787,,,RO,2018-10-04,
-"Jin, Weiwei 金煒瑋",sfclicrec.asp?p=2656761,,,Rep,2016-11-10,2018-06-15
-"Li, John Xun 李迅",sfclicrec.asp?p=121812,,M,RO,2015-11-09,2017-01-11
-"Liu, Jiachuan 劉佳川",sfclicrec.asp?p=2656762,,,Rep,2016-11-10,
-"Tang, Davina Tak-wai 鄧德慧",sfclicrec.asp?p=78590,,F,RO,2014-11-13,2015-06-01
-"Yang, Fan (SFC:BAP856) 楊凡",sfclicrec.asp?p=2023953,,,RO,2014-11-13,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bai, Jingjing 白晶晶",None,sfclicrec.asp?p=1944979,AXI278,http://www.sfc.hk/publicregWeb/indi/AXI278/licenceRecord,,,Rep,2016-02-29,2017-01-10
+"Bai, Jingjing 白晶晶",None,sfclicrec.asp?p=1944979,AXI278,http://www.sfc.hk/publicregWeb/indi/AXI278/licenceRecord,,,RO,2017-01-10,
+"Chan, Kwok Chiu (SFC:AOY089) 陳國超",None,sfclicrec.asp?p=81707,AOY089,http://www.sfc.hk/publicregWeb/indi/AOY089/licenceRecord,,,RO,2014-11-13,2015-09-21
+"Guan, Zhouhai 管洲海",None,sfclicrec.asp?p=22237787,BME270,http://www.sfc.hk/publicregWeb/indi/BME270/licenceRecord,,,RO,2018-10-04,
+"Jin, Weiwei 金煒瑋",None,sfclicrec.asp?p=2656761,BIJ966,http://www.sfc.hk/publicregWeb/indi/BIJ966/licenceRecord,,,Rep,2016-11-10,2018-06-15
+"Li, John Xun 李迅",None,sfclicrec.asp?p=121812,APC368,http://www.sfc.hk/publicregWeb/indi/APC368/licenceRecord,,M,RO,2015-11-09,2017-01-11
+"Liu, Jiachuan 劉佳川",None,sfclicrec.asp?p=2656762,BIJ962,http://www.sfc.hk/publicregWeb/indi/BIJ962/licenceRecord,,,Rep,2016-11-10,
+"Tang, Davina Tak-wai 鄧德慧",None,sfclicrec.asp?p=78590,ACZ857,http://www.sfc.hk/publicregWeb/indi/ACZ857/licenceRecord,,F,RO,2014-11-13,2015-06-01
+"Yang, Fan (SFC:BAP856) 楊凡",None,sfclicrec.asp?p=2023953,BAP856,http://www.sfc.hk/publicregWeb/indi/BAP856/licenceRecord,,,RO,2014-11-13,

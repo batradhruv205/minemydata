@@ -1,3 +1,3 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Ka Pong (SFC:AHX696) 陳嘉邦",sfclicrec.asp?p=100104,,,RO,2018-04-18,
-"Sih, David Shuh-Ren 薛樹仁",sfclicrec.asp?p=104519,,M,RO,2018-04-18,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Ka Pong (SFC:AHX696) 陳嘉邦",None,sfclicrec.asp?p=100104,AHX696,http://www.sfc.hk/publicregWeb/indi/AHX696/licenceRecord,,,RO,2018-04-18,
+"Sih, David Shuh-Ren 薛樹仁",None,sfclicrec.asp?p=104519,AEA554,http://www.sfc.hk/publicregWeb/indi/AEA554/licenceRecord,,M,RO,2018-04-18,

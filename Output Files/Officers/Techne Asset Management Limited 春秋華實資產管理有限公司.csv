@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Edward Shi 陳石",sfclicrec.asp?p=94249,,M,RO,2017-11-09,
-"Guo, Lei (SFC:BJT965) 郭雷",sfclicrec.asp?p=12495605,,,RO,2017-11-09,
-"Wang, Yuanhang 王遠航",sfclicrec.asp?p=12495606,,,RO,2017-11-09,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Edward Shi 陳石",None,sfclicrec.asp?p=94249,ADR552,http://www.sfc.hk/publicregWeb/indi/ADR552/licenceRecord,,M,RO,2017-11-09,
+"Guo, Lei (SFC:BJT965) 郭雷",None,sfclicrec.asp?p=12495605,BJT965,http://www.sfc.hk/publicregWeb/indi/BJT965/licenceRecord,,,RO,2017-11-09,
+"Wang, Yuanhang 王遠航",None,sfclicrec.asp?p=12495606,BJT948,http://www.sfc.hk/publicregWeb/indi/BJT948/licenceRecord,,,RO,2017-11-09,

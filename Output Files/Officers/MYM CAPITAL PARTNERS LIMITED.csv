@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Yan Lung 陳寅龍",sfclicrec.asp?p=96132,,,RO,2017-04-28,
-"Chiu, Francis Chung Che 招頌慈",sfclicrec.asp?p=84719,,M,RO,2017-04-28,
-"Lee, Pui Lam (SFC:APK630) 李珮琳",sfclicrec.asp?p=84723,,,RO,2019-04-16,
-"Lee, Sze Wai Matthew 李思維",sfclicrec.asp?p=23539651,,M,Rep,2019-08-12,
-"Tai, Yik Fei 戴翼飛",sfclicrec.asp?p=9852596,,,Rep,2018-01-09,2018-04-27
-"Wong, Ying (SFC:AET700) 黃盈",sfclicrec.asp?p=105341,,,Rep,2017-11-22,
-"Zhang, Hexiang (SFC:BOP543) 張祥和",sfclicrec.asp?p=23539652,,,Rep,2019-08-12,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Yan Lung 陳寅龍",None,sfclicrec.asp?p=96132,AUX220,http://www.sfc.hk/publicregWeb/indi/AUX220/licenceRecord,,,RO,2017-04-28,
+"Chiu, Francis Chung Che 招頌慈",None,sfclicrec.asp?p=84719,AEO988,http://www.sfc.hk/publicregWeb/indi/AEO988/licenceRecord,,M,RO,2017-04-28,
+"Lee, Pui Lam (SFC:APK630) 李珮琳",None,sfclicrec.asp?p=84723,APK630,http://www.sfc.hk/publicregWeb/indi/APK630/licenceRecord,,,RO,2019-04-16,
+"Lee, Sze Wai Matthew 李思維",None,sfclicrec.asp?p=23539651,BOM764,http://www.sfc.hk/publicregWeb/indi/BOM764/licenceRecord,,M,Rep,2019-08-12,
+"Tai, Yik Fei 戴翼飛",None,sfclicrec.asp?p=9852596,BJN160,http://www.sfc.hk/publicregWeb/indi/BJN160/licenceRecord,,,Rep,2018-01-09,2018-04-27
+"Wong, Ying (SFC:AET700) 黃盈",None,sfclicrec.asp?p=105341,AET700,http://www.sfc.hk/publicregWeb/indi/AET700/licenceRecord,,,Rep,2017-11-22,
+"Zhang, Hexiang (SFC:BOP543) 張祥和",None,sfclicrec.asp?p=23539652,BOP543,http://www.sfc.hk/publicregWeb/indi/BOP543/licenceRecord,,,Rep,2019-08-12,

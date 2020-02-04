@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Mangkornkarn, Tanita ",sfclicrec.asp?p=129716,,F,RO,2014-10-10,
-"Medd, Alexander Robert ",sfclicrec.asp?p=48923,,M,Rep,2015-05-04,2015-10-05
-"Medd, Alexander Robert ",sfclicrec.asp?p=48923,,M,RO,2015-10-05,2016-04-14
-"Ng, Kwok Kei (SFC:BJI355) 吳國基",sfclicrec.asp?p=12107970,,,Rep,2017-10-11,2018-06-15
-"Stevenson, Nigel James ",sfclicrec.asp?p=2598593,,M,Rep,2016-06-29,
-"Tulloch, Gillem Michael ",sfclicrec.asp?p=121426,,M,RO,2014-10-10,
-"Webb, Mark Cameron Ross ",sfclicrec.asp?p=67898,,M,Rep,2016-09-15,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Mangkornkarn, Tanita ",None,sfclicrec.asp?p=129716,AVD230,http://www.sfc.hk/publicregWeb/indi/AVD230/licenceRecord,,F,RO,2014-10-10,
+"Medd, Alexander Robert ",None,sfclicrec.asp?p=48923,ADL651,http://www.sfc.hk/publicregWeb/indi/ADL651/licenceRecord,,M,Rep,2015-05-04,2015-10-05
+"Medd, Alexander Robert ",None,sfclicrec.asp?p=48923,ADL651,http://www.sfc.hk/publicregWeb/indi/ADL651/licenceRecord,,M,RO,2015-10-05,2016-04-14
+"Ng, Kwok Kei (SFC:BJI355) 吳國基",None,sfclicrec.asp?p=12107970,BJI355,http://www.sfc.hk/publicregWeb/indi/BJI355/licenceRecord,,,Rep,2017-10-11,2018-06-15
+"Stevenson, Nigel James ",None,sfclicrec.asp?p=2598593,BHS328,http://www.sfc.hk/publicregWeb/indi/BHS328/licenceRecord,,M,Rep,2016-06-29,
+"Tulloch, Gillem Michael ",None,sfclicrec.asp?p=121426,AOX454,http://www.sfc.hk/publicregWeb/indi/AOX454/licenceRecord,,M,RO,2014-10-10,
+"Webb, Mark Cameron Ross ",None,sfclicrec.asp?p=67898,AEJ064,http://www.sfc.hk/publicregWeb/indi/AEJ064/licenceRecord,,M,Rep,2016-09-15,

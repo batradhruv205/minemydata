@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Berthold, Wolf Peter 白浩德",sfclicrec.asp?p=100482,,M,Rep,2008-03-26,
-"Chan, Kenny Yan Kit 陳恩傑",sfclicrec.asp?p=121059,,M,Rep,2009-12-04,2010-01-08
-"Schoter, Johannes (SFC:AFH184) ",sfclicrec.asp?p=100366,,M,RO,,
-"Yu, Xiaoyang (SFC:AFH183) 余曉陽",sfclicrec.asp?p=100481,,,RO,,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Berthold, Wolf Peter 白浩德",None,sfclicrec.asp?p=100482,ADP049,http://www.sfc.hk/publicregWeb/indi/ADP049/licenceRecord,,M,Rep,2008-03-26,
+"Chan, Kenny Yan Kit 陳恩傑",None,sfclicrec.asp?p=121059,AOT666,http://www.sfc.hk/publicregWeb/indi/AOT666/licenceRecord,,M,Rep,2009-12-04,2010-01-08
+"Schoter, Johannes (SFC:AFH184) ",None,sfclicrec.asp?p=100366,AFH184,http://www.sfc.hk/publicregWeb/indi/AFH184/licenceRecord,,M,RO,,
+"Yu, Xiaoyang (SFC:AFH183) 余曉陽",None,sfclicrec.asp?p=100481,AFH183,http://www.sfc.hk/publicregWeb/indi/AFH183/licenceRecord,,,RO,,

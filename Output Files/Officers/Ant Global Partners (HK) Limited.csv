@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Loi 鄭來",sfclicrec.asp?p=2439282,,,RO,2015-06-23,2015-12-23
-"Cheuck, John Hin Ming 卓顯明",sfclicrec.asp?p=45756,,M,RO,2011-12-06,
-"Kurasako, Hideaki 倉迫英嘉",sfclicrec.asp?p=88520,,,RO,2013-05-27,2014-10-31
-"Yamada, Yasuo 山田泰生",sfclicrec.asp?p=134574,,,RO,2011-12-06,2013-04-30
-"Yang, Bo (SFC:AQO328) 楊波",sfclicrec.asp?p=124540,,,Rep,2014-02-27,2016-08-23
-"Yang, Bo (SFC:AQO328) 楊波",sfclicrec.asp?p=124540,,,RO,2016-08-23,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Loi 鄭來",None,sfclicrec.asp?p=2439282,AQE473,http://www.sfc.hk/publicregWeb/indi/AQE473/licenceRecord,,,RO,2015-06-23,2015-12-23
+"Cheuck, John Hin Ming 卓顯明",None,sfclicrec.asp?p=45756,AQS655,http://www.sfc.hk/publicregWeb/indi/AQS655/licenceRecord,,M,RO,2011-12-06,
+"Kurasako, Hideaki 倉迫英嘉",None,sfclicrec.asp?p=88520,APN840,http://www.sfc.hk/publicregWeb/indi/APN840/licenceRecord,,,RO,2013-05-27,2014-10-31
+"Yamada, Yasuo 山田泰生",None,sfclicrec.asp?p=134574,AXM316,http://www.sfc.hk/publicregWeb/indi/AXM316/licenceRecord,,,RO,2011-12-06,2013-04-30
+"Yang, Bo (SFC:AQO328) 楊波",None,sfclicrec.asp?p=124540,AQO328,http://www.sfc.hk/publicregWeb/indi/AQO328/licenceRecord,,,Rep,2014-02-27,2016-08-23
+"Yang, Bo (SFC:AQO328) 楊波",None,sfclicrec.asp?p=124540,AQO328,http://www.sfc.hk/publicregWeb/indi/AQO328/licenceRecord,,,RO,2016-08-23,

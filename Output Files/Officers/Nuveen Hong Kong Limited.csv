@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Ka Chun (SFC:BBK722) 張嘉俊",sfclicrec.asp?p=2085751,,,RO,2017-06-21,
-"Chung, Sin Wai (SFC:BEN580) 鍾蒨蔚",sfclicrec.asp?p=2349834,,,Rep,2019-04-12,
-"England-Brammer, Simon James ",sfclicrec.asp?p=84005,,M,RO,2017-06-21,
-"Ghuman, Jagdeep Singh (SFC:BNV380) ",sfclicrec.asp?p=23058234,,,RO,2019-04-16,
-"Kavanagh, Louise Margaret ",sfclicrec.asp?p=122455,,F,Rep,2017-11-27,2019-04-16
-"Kavanagh, Louise Margaret ",sfclicrec.asp?p=122455,,F,RO,2019-04-16,
-"Lee-Tong, Georgette Chi Wai 唐李之慧",sfclicrec.asp?p=2373435,,F,Rep,2019-12-09,
-"Ma, Jason Kit Sang 馬傑笙",sfclicrec.asp?p=2031696,,M,Rep,2018-08-31,
-"Ng, Samson Siu Fung 吳肇鋒",sfclicrec.asp?p=90651,,M,Rep,2019-10-21,
-"Wong, Wai Chung (SFC:AUM604) 王瑋中",sfclicrec.asp?p=12663978,,,Rep,2018-09-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Ka Chun (SFC:BBK722) 張嘉俊",None,sfclicrec.asp?p=2085751,BBK722,http://www.sfc.hk/publicregWeb/indi/BBK722/licenceRecord,,,RO,2017-06-21,
+"Chung, Sin Wai (SFC:BEN580) 鍾蒨蔚",None,sfclicrec.asp?p=2349834,BEN580,http://www.sfc.hk/publicregWeb/indi/BEN580/licenceRecord,,,Rep,2019-04-12,
+"England-Brammer, Simon James ",None,sfclicrec.asp?p=84005,AXZ247,http://www.sfc.hk/publicregWeb/indi/AXZ247/licenceRecord,,M,RO,2017-06-21,
+"Ghuman, Jagdeep Singh (SFC:BNV380) ",None,sfclicrec.asp?p=23058234,BNV380,http://www.sfc.hk/publicregWeb/indi/BNV380/licenceRecord,,,RO,2019-04-16,
+"Kavanagh, Louise Margaret ",None,sfclicrec.asp?p=122455,APJ851,http://www.sfc.hk/publicregWeb/indi/APJ851/licenceRecord,,F,Rep,2017-11-27,2019-04-16
+"Kavanagh, Louise Margaret ",None,sfclicrec.asp?p=122455,APJ851,http://www.sfc.hk/publicregWeb/indi/APJ851/licenceRecord,,F,RO,2019-04-16,
+"Lee-Tong, Georgette Chi Wai 唐李之慧",None,sfclicrec.asp?p=2373435,BEV745,http://www.sfc.hk/publicregWeb/indi/BEV745/licenceRecord,,F,Rep,2019-12-09,
+"Ma, Jason Kit Sang 馬傑笙",None,sfclicrec.asp?p=2031696,BAZ553,http://www.sfc.hk/publicregWeb/indi/BAZ553/licenceRecord,,M,Rep,2018-08-31,
+"Ng, Samson Siu Fung 吳肇鋒",None,sfclicrec.asp?p=90651,AXL878,http://www.sfc.hk/publicregWeb/indi/AXL878/licenceRecord,,M,Rep,2019-10-21,
+"Wong, Wai Chung (SFC:AUM604) 王瑋中",None,sfclicrec.asp?p=12663978,AUM604,http://www.sfc.hk/publicregWeb/indi/AUM604/licenceRecord,,,Rep,2018-09-26,

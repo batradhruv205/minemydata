@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Yun (SFC:BGW787) 陳韵",sfclicrec.asp?p=2529745,,,Rep,2019-10-08,
-"Joyce, Patrick Brian ",sfclicrec.asp?p=90928,,M,RO,2018-07-26,
-"Oberweis, James Walter ",sfclicrec.asp?p=90929,,M,RO,2018-07-26,
-"Wang, Ronghua (SFC:BMV544) 王荣華",sfclicrec.asp?p=20901684,,,RO,2018-07-26,
-"Yu, Xin 余欣",sfclicrec.asp?p=20901685,,,RO,2018-07-26,2018-11-29
-"Zhou, Fangwen 周芳雯",sfclicrec.asp?p=2083980,,,RO,2018-07-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Yun (SFC:BGW787) 陳韵",None,sfclicrec.asp?p=2529745,BGW787,http://www.sfc.hk/publicregWeb/indi/BGW787/licenceRecord,,,Rep,2019-10-08,
+"Joyce, Patrick Brian ",None,sfclicrec.asp?p=90928,APW675,http://www.sfc.hk/publicregWeb/indi/APW675/licenceRecord,,M,RO,2018-07-26,
+"Oberweis, James Walter ",None,sfclicrec.asp?p=90929,APW676,http://www.sfc.hk/publicregWeb/indi/APW676/licenceRecord,,M,RO,2018-07-26,
+"Wang, Ronghua (SFC:BMV544) 王荣華",None,sfclicrec.asp?p=20901684,BMV544,http://www.sfc.hk/publicregWeb/indi/BMV544/licenceRecord,,,RO,2018-07-26,
+"Yu, Xin 余欣",None,sfclicrec.asp?p=20901685,BMV558,http://www.sfc.hk/publicregWeb/indi/BMV558/licenceRecord,,,RO,2018-07-26,2018-11-29
+"Zhou, Fangwen 周芳雯",None,sfclicrec.asp?p=2083980,BBK066,http://www.sfc.hk/publicregWeb/indi/BBK066/licenceRecord,,,RO,2018-07-26,

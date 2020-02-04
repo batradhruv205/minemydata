@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Sze 陳詩",sfclicrec.asp?p=23341555,,,Rep,2019-06-24,
-"Chow Hau, Ho Ching 周侯可貞",sfclicrec.asp?p=101332,,,RO,,2016-08-31
-"Chow, Jear Hong 周謝漢",sfclicrec.asp?p=103415,,,RO,,2016-02-19
-"Chow, Sing Chou 周成就",sfclicrec.asp?p=101885,,,Rep,,2017-02-28
-"Fung, Siu Hung 馮兆鴻",sfclicrec.asp?p=97280,,,Rep,2018-12-11,2018-12-31
-"Fung, Siu Hung 馮兆鴻",sfclicrec.asp?p=97280,,,RO,2018-12-31,
-"He, Tian (SFC:BBR112) 賀添",sfclicrec.asp?p=2109867,,,Rep,2017-09-13,2018-11-20
-"He, Tian (SFC:BBR112) 賀添",sfclicrec.asp?p=2109867,,,RO,2018-11-20,2019-01-19
-"Lai, King Man (SFC:ABX825) 黎景文",sfclicrec.asp?p=84528,,,RO,2016-08-31,2017-03-03
-"Lau, On Wah 劉安樺",sfclicrec.asp?p=79388,,,RO,2017-03-08,
-"Lee Chow, Mona Shiu Wai 李周肇慧",sfclicrec.asp?p=101971,,F,Rep,,2010-04-02
-"Liu, Dan (SFC:BOZ921) 劉丹",sfclicrec.asp?p=24002649,,,Rep,2019-12-09,
-"Lu, Peilin 盧佩琳",sfclicrec.asp?p=11793168,,,Rep,2017-08-25,2019-11-23
-"Pang, Kwan 彭堃",sfclicrec.asp?p=74423,,,Rep,2018-10-25,
-"Wong, Chan Wing (SFC:ALO261) 王燦榮",sfclicrec.asp?p=99623,,,RO,2016-03-11,2019-01-12
-"Zheng, Runze 鄭潤澤",sfclicrec.asp?p=2338033,,,Rep,2018-01-12,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Sze 陳詩",None,sfclicrec.asp?p=23341555,BOK502,http://www.sfc.hk/publicregWeb/indi/BOK502/licenceRecord,,,Rep,2019-06-24,
+"Chow Hau, Ho Ching 周侯可貞",None,sfclicrec.asp?p=101332,AAH767,http://www.sfc.hk/publicregWeb/indi/AAH767/licenceRecord,,,RO,,2016-08-31
+"Chow, Jear Hong 周謝漢",None,sfclicrec.asp?p=103415,ACX580,http://www.sfc.hk/publicregWeb/indi/ACX580/licenceRecord,,,RO,,2016-02-19
+"Chow, Sing Chou 周成就",None,sfclicrec.asp?p=101885,ABE278,http://www.sfc.hk/publicregWeb/indi/ABE278/licenceRecord,,,Rep,,2017-02-28
+"Fung, Siu Hung 馮兆鴻",None,sfclicrec.asp?p=97280,AEN773,http://www.sfc.hk/publicregWeb/indi/AEN773/licenceRecord,,,Rep,2018-12-11,2018-12-31
+"Fung, Siu Hung 馮兆鴻",None,sfclicrec.asp?p=97280,AEN773,http://www.sfc.hk/publicregWeb/indi/AEN773/licenceRecord,,,RO,2018-12-31,
+"He, Tian (SFC:BBR112) 賀添",None,sfclicrec.asp?p=2109867,BBR112,http://www.sfc.hk/publicregWeb/indi/BBR112/licenceRecord,,,Rep,2017-09-13,2018-11-20
+"He, Tian (SFC:BBR112) 賀添",None,sfclicrec.asp?p=2109867,BBR112,http://www.sfc.hk/publicregWeb/indi/BBR112/licenceRecord,,,RO,2018-11-20,2019-01-19
+"Lai, King Man (SFC:ABX825) 黎景文",None,sfclicrec.asp?p=84528,ABX825,http://www.sfc.hk/publicregWeb/indi/ABX825/licenceRecord,,,RO,2016-08-31,2017-03-03
+"Lau, On Wah 劉安樺",None,sfclicrec.asp?p=79388,AAD083,http://www.sfc.hk/publicregWeb/indi/AAD083/licenceRecord,,,RO,2017-03-08,
+"Lee Chow, Mona Shiu Wai 李周肇慧",None,sfclicrec.asp?p=101971,ABF966,http://www.sfc.hk/publicregWeb/indi/ABF966/licenceRecord,,F,Rep,,2010-04-02
+"Liu, Dan (SFC:BOZ921) 劉丹",None,sfclicrec.asp?p=24002649,BOZ921,http://www.sfc.hk/publicregWeb/indi/BOZ921/licenceRecord,,,Rep,2019-12-09,
+"Lu, Peilin 盧佩琳",None,sfclicrec.asp?p=11793168,BKB946,http://www.sfc.hk/publicregWeb/indi/BKB946/licenceRecord,,,Rep,2017-08-25,2019-11-23
+"Pang, Kwan 彭堃",None,sfclicrec.asp?p=74423,AWN156,http://www.sfc.hk/publicregWeb/indi/AWN156/licenceRecord,,,Rep,2018-10-25,
+"Wong, Chan Wing (SFC:ALO261) 王燦榮",None,sfclicrec.asp?p=99623,ALO261,http://www.sfc.hk/publicregWeb/indi/ALO261/licenceRecord,,,RO,2016-03-11,2019-01-12
+"Zheng, Runze 鄭潤澤",None,sfclicrec.asp?p=2338033,BEJ782,http://www.sfc.hk/publicregWeb/indi/BEJ782/licenceRecord,,,Rep,2018-01-12,

@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Liu, Shan (SFC:BBT109) 劉杉",sfclicrec.asp?p=2591264,,,RO,2014-04-30,
-"Liu, Zhao (SFC:BEL805) 劉釗",sfclicrec.asp?p=2591265,,,RO,2015-01-14,
-"Siu, Wilson Wai Lum 蕭偉霖",sfclicrec.asp?p=66058,,M,Rep,2019-03-06,
-"Sze, Jill 施瑾",sfclicrec.asp?p=2591266,,F,Rep,2015-06-30,2015-07-16
-"Sze, Jill 施瑾",sfclicrec.asp?p=2591266,,F,RO,2015-07-16,
-"Zeng, Gao 曾高",sfclicrec.asp?p=22427712,,,RO,2014-04-30,2015-07-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Liu, Shan (SFC:BBT109) 劉杉",None,sfclicrec.asp?p=2591264,BBT109,http://www.sfc.hk/publicregWeb/indi/BBT109/licenceRecord,,,RO,2014-04-30,
+"Liu, Zhao (SFC:BEL805) 劉釗",None,sfclicrec.asp?p=2591265,BEL805,http://www.sfc.hk/publicregWeb/indi/BEL805/licenceRecord,,,RO,2015-01-14,
+"Siu, Wilson Wai Lum 蕭偉霖",None,sfclicrec.asp?p=66058,AIZ698,http://www.sfc.hk/publicregWeb/indi/AIZ698/licenceRecord,,M,Rep,2019-03-06,
+"Sze, Jill 施瑾",None,sfclicrec.asp?p=2591266,BFN825,http://www.sfc.hk/publicregWeb/indi/BFN825/licenceRecord,,F,Rep,2015-06-30,2015-07-16
+"Sze, Jill 施瑾",None,sfclicrec.asp?p=2591266,BFN825,http://www.sfc.hk/publicregWeb/indi/BFN825/licenceRecord,,F,RO,2015-07-16,
+"Zeng, Gao 曾高",None,sfclicrec.asp?p=22427712,BBT110,http://www.sfc.hk/publicregWeb/indi/BBT110/licenceRecord,,,RO,2014-04-30,2015-07-31

@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Man Chung (SFC:AFB233) 陳敏聰",sfclicrec.asp?p=98548,,,Rep,2019-05-24,
-"Cheung, Sze Yu ",sfclicrec.asp?p=22635177,,,Rep,2019-01-11,
-"Tsang, Kai Pong 曾啟邦",sfclicrec.asp?p=16081289,,,Rep,2018-05-29,2019-10-11
-"Wong, Chong Sum 黃創琛",sfclicrec.asp?p=24050052,,,Rep,2019-12-24,
-"Wong, Derek Yin Kui 黃賢駒",sfclicrec.asp?p=116063,,M,RO,2017-09-15,
-"Wu, Steven Chun Yin 胡俊彥",sfclicrec.asp?p=84120,,M,Rep,2019-02-20,2019-03-22
-"Yeung, Chun Kit Oscar 楊進傑",sfclicrec.asp?p=22202559,,,Rep,2018-09-20,
-"Yuen, Shing Kuen 袁承權",sfclicrec.asp?p=50369,,M,RO,2017-09-15,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Man Chung (SFC:AFB233) 陳敏聰",None,sfclicrec.asp?p=98548,AFB233,http://www.sfc.hk/publicregWeb/indi/AFB233/licenceRecord,,,Rep,2019-05-24,
+"Cheung, Sze Yu ",None,sfclicrec.asp?p=22635177,BNX063,http://www.sfc.hk/publicregWeb/indi/BNX063/licenceRecord,,,Rep,2019-01-11,
+"Tsang, Kai Pong 曾啟邦",None,sfclicrec.asp?p=16081289,BMW711,http://www.sfc.hk/publicregWeb/indi/BMW711/licenceRecord,,,Rep,2018-05-29,2019-10-11
+"Wong, Chong Sum 黃創琛",None,sfclicrec.asp?p=24050052,BPC397,http://www.sfc.hk/publicregWeb/indi/BPC397/licenceRecord,,,Rep,2019-12-24,
+"Wong, Derek Yin Kui 黃賢駒",None,sfclicrec.asp?p=116063,AMB370,http://www.sfc.hk/publicregWeb/indi/AMB370/licenceRecord,,M,RO,2017-09-15,
+"Wu, Steven Chun Yin 胡俊彥",None,sfclicrec.asp?p=84120,AVZ964,http://www.sfc.hk/publicregWeb/indi/AVZ964/licenceRecord,,M,Rep,2019-02-20,2019-03-22
+"Yeung, Chun Kit Oscar 楊進傑",None,sfclicrec.asp?p=22202559,BNK835,http://www.sfc.hk/publicregWeb/indi/BNK835/licenceRecord,,,Rep,2018-09-20,
+"Yuen, Shing Kuen 袁承權",None,sfclicrec.asp?p=50369,AAG766,http://www.sfc.hk/publicregWeb/indi/AAG766/licenceRecord,,M,RO,2017-09-15,

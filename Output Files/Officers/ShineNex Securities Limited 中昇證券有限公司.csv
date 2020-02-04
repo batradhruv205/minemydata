@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Ho Ping (SFC:AVI833) 陳浩平",sfclicrec.asp?p=94993,,,RO,2019-01-23,
-"Cheung, King Fai (SFC:AUH631) 張景輝",sfclicrec.asp?p=96059,,,RO,2017-07-28,
-"Ip Yuen, Katherine King Wai 葉阮琼惠",sfclicrec.asp?p=100786,,F,RO,2005-03-24,2017-08-02
-"Lee, Ching Choy 李正才",sfclicrec.asp?p=100783,,,RO,2005-03-24,2017-05-31
-"Lo, Yin Yee 盧燕儀",sfclicrec.asp?p=84536,,,Rep,2017-10-25,2018-01-31
-"Ma, Cheuk Nam 馬綽男",sfclicrec.asp?p=11732621,,,Rep,2017-07-05,
-"Ma, Wai Shun 馬瑋遜",sfclicrec.asp?p=11784991,,,Rep,2017-08-03,
-"Poon, Dixon Tit Chu 潘鐵柱",sfclicrec.asp?p=96075,,M,RO,2017-05-17,2019-01-11
-"Wong, Yuet Wah (SFC:ABL776) 黃月華",sfclicrec.asp?p=102069,,,Rep,2005-03-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Ho Ping (SFC:AVI833) 陳浩平",None,sfclicrec.asp?p=94993,AVI833,http://www.sfc.hk/publicregWeb/indi/AVI833/licenceRecord,,,RO,2019-01-23,
+"Cheung, King Fai (SFC:AUH631) 張景輝",None,sfclicrec.asp?p=96059,AUH631,http://www.sfc.hk/publicregWeb/indi/AUH631/licenceRecord,,,RO,2017-07-28,
+"Ip Yuen, Katherine King Wai 葉阮琼惠",None,sfclicrec.asp?p=100786,AAC343,http://www.sfc.hk/publicregWeb/indi/AAC343/licenceRecord,,F,RO,2005-03-24,2017-08-02
+"Lee, Ching Choy 李正才",None,sfclicrec.asp?p=100783,AAC333,http://www.sfc.hk/publicregWeb/indi/AAC333/licenceRecord,,,RO,2005-03-24,2017-05-31
+"Lo, Yin Yee 盧燕儀",None,sfclicrec.asp?p=84536,AEJ789,http://www.sfc.hk/publicregWeb/indi/AEJ789/licenceRecord,,,Rep,2017-10-25,2018-01-31
+"Ma, Cheuk Nam 馬綽男",None,sfclicrec.asp?p=11732621,BJR416,http://www.sfc.hk/publicregWeb/indi/BJR416/licenceRecord,,,Rep,2017-07-05,
+"Ma, Wai Shun 馬瑋遜",None,sfclicrec.asp?p=11784991,BID786,http://www.sfc.hk/publicregWeb/indi/BID786/licenceRecord,,,Rep,2017-08-03,
+"Poon, Dixon Tit Chu 潘鐵柱",None,sfclicrec.asp?p=96075,AEI207,http://www.sfc.hk/publicregWeb/indi/AEI207/licenceRecord,,M,RO,2017-05-17,2019-01-11
+"Wong, Yuet Wah (SFC:ABL776) 黃月華",None,sfclicrec.asp?p=102069,ABL776,http://www.sfc.hk/publicregWeb/indi/ABL776/licenceRecord,,,Rep,2005-03-24,

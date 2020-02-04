@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bai, Xiaopu 白效溥",sfclicrec.asp?p=134464,,,Rep,2015-07-27,
-"Chen, Wei Ming (SFC:ARL972) 陳蔚明",sfclicrec.asp?p=126347,,,Rep,2008-08-05,2008-12-05
-"Cross, Matthew Charles ",sfclicrec.asp?p=90410,,M,Rep,2013-02-21,2018-02-16
-"Farmer, Michael Stahel ",sfclicrec.asp?p=12790388,76,M,RO,2018-02-15,
-"He, Chen 何晨",sfclicrec.asp?p=1883188,,,Rep,2012-04-20,2012-12-13
-"Hobart, Scott Robert ",sfclicrec.asp?p=124287,,M,RO,2008-04-08,2014-03-07
-"Kuo, Anthony Chuanjie 郭傳捷",sfclicrec.asp?p=2449690,,M,Rep,2015-07-16,2016-10-13
-"Law, Wendy Ka Man 羅嘉雯",sfclicrec.asp?p=90035,,F,Rep,2016-02-04,2016-10-24
-"Li, Liangkun 李良琨",sfclicrec.asp?p=2279435,,,Rep,2014-06-10,2015-06-12
-"Lilley, David George Plumer (SFC:AQJ849) ",sfclicrec.asp?p=124288,,M,RO,2008-04-08,2018-02-22
-"Ren, Gang (SFC:ATM482) 任綱",sfclicrec.asp?p=128343,,,Rep,2009-08-31,2010-02-28
-"Sharma, Saurabh (SFC:AYO986) ",sfclicrec.asp?p=134645,,,Rep,2013-01-09,2015-07-07
-"Shen, Haihua (SFC:ARL953) 沈海華",sfclicrec.asp?p=126346,,,Rep,2008-08-05,2014-04-30
-"Shen, Haihua (SFC:ARL953) 沈海華",sfclicrec.asp?p=126346,,,RO,2014-04-30,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bai, Xiaopu 白效溥",None,sfclicrec.asp?p=134464,AYJ561,http://www.sfc.hk/publicregWeb/indi/AYJ561/licenceRecord,,,Rep,2015-07-27,
+"Chen, Wei Ming (SFC:ARL972) 陳蔚明",None,sfclicrec.asp?p=126347,ARL972,http://www.sfc.hk/publicregWeb/indi/ARL972/licenceRecord,,,Rep,2008-08-05,2008-12-05
+"Cross, Matthew Charles ",None,sfclicrec.asp?p=90410,AXY324,http://www.sfc.hk/publicregWeb/indi/AXY324/licenceRecord,,M,Rep,2013-02-21,2018-02-16
+"Farmer, Michael Stahel ",None,sfclicrec.asp?p=12790388,BLE979,http://www.sfc.hk/publicregWeb/indi/BLE979/licenceRecord,76.0,M,RO,2018-02-15,
+"He, Chen 何晨",None,sfclicrec.asp?p=1883188,AZE801,http://www.sfc.hk/publicregWeb/indi/AZE801/licenceRecord,,,Rep,2012-04-20,2012-12-13
+"Hobart, Scott Robert ",None,sfclicrec.asp?p=124287,AQJ846,http://www.sfc.hk/publicregWeb/indi/AQJ846/licenceRecord,,M,RO,2008-04-08,2014-03-07
+"Kuo, Anthony Chuanjie 郭傳捷",None,sfclicrec.asp?p=2449690,BFW602,http://www.sfc.hk/publicregWeb/indi/BFW602/licenceRecord,,M,Rep,2015-07-16,2016-10-13
+"Law, Wendy Ka Man 羅嘉雯",None,sfclicrec.asp?p=90035,AOG819,http://www.sfc.hk/publicregWeb/indi/AOG819/licenceRecord,,F,Rep,2016-02-04,2016-10-24
+"Li, Liangkun 李良琨",None,sfclicrec.asp?p=2279435,BDO025,http://www.sfc.hk/publicregWeb/indi/BDO025/licenceRecord,,,Rep,2014-06-10,2015-06-12
+"Lilley, David George Plumer (SFC:AQJ849) ",None,sfclicrec.asp?p=124288,AQJ849,http://www.sfc.hk/publicregWeb/indi/AQJ849/licenceRecord,,M,RO,2008-04-08,2018-02-22
+"Ren, Gang (SFC:ATM482) 任綱",None,sfclicrec.asp?p=128343,ATM482,http://www.sfc.hk/publicregWeb/indi/ATM482/licenceRecord,,,Rep,2009-08-31,2010-02-28
+"Sharma, Saurabh (SFC:AYO986) ",None,sfclicrec.asp?p=134645,AYO986,http://www.sfc.hk/publicregWeb/indi/AYO986/licenceRecord,,,Rep,2013-01-09,2015-07-07
+"Shen, Haihua (SFC:ARL953) 沈海華",None,sfclicrec.asp?p=126346,ARL953,http://www.sfc.hk/publicregWeb/indi/ARL953/licenceRecord,,,Rep,2008-08-05,2014-04-30
+"Shen, Haihua (SFC:ARL953) 沈海華",None,sfclicrec.asp?p=126346,ARL953,http://www.sfc.hk/publicregWeb/indi/ARL953/licenceRecord,,,RO,2014-04-30,

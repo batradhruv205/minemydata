@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cui, Haoyue 崔浩悅",sfclicrec.asp?p=131355,,,Rep,2014-01-28,2014-04-09
-"Jin, Zhenxing 金鎮星",sfclicrec.asp?p=88367,,,RO,2013-09-12,2016-09-15
-"Li, Cong (SFC:ALQ324) 李匆",sfclicrec.asp?p=88348,,,RO,2013-09-12,
-"Lin, Lan 林嵐",sfclicrec.asp?p=2169039,,,Rep,2016-04-27,2016-11-23
-"Lin, Lan 林嵐",sfclicrec.asp?p=2169039,,,RO,2016-11-23,
-"Luo, Xi (SFC:AQO326) 羅璽",sfclicrec.asp?p=88379,,,Rep,2016-05-24,2016-09-08
-"Luo, Xi (SFC:AQO326) 羅璽",sfclicrec.asp?p=88379,,,RO,2016-09-08,
-"Sun, Ao 孫奧",sfclicrec.asp?p=88390,,,Rep,2014-08-13,2014-12-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cui, Haoyue 崔浩悅",None,sfclicrec.asp?p=131355,AXL269,http://www.sfc.hk/publicregWeb/indi/AXL269/licenceRecord,,,Rep,2014-01-28,2014-04-09
+"Jin, Zhenxing 金鎮星",None,sfclicrec.asp?p=88367,ARR544,http://www.sfc.hk/publicregWeb/indi/ARR544/licenceRecord,,,RO,2013-09-12,2016-09-15
+"Li, Cong (SFC:ALQ324) 李匆",None,sfclicrec.asp?p=88348,ALQ324,http://www.sfc.hk/publicregWeb/indi/ALQ324/licenceRecord,,,RO,2013-09-12,
+"Lin, Lan 林嵐",None,sfclicrec.asp?p=2169039,BCI747,http://www.sfc.hk/publicregWeb/indi/BCI747/licenceRecord,,,Rep,2016-04-27,2016-11-23
+"Lin, Lan 林嵐",None,sfclicrec.asp?p=2169039,BCI747,http://www.sfc.hk/publicregWeb/indi/BCI747/licenceRecord,,,RO,2016-11-23,
+"Luo, Xi (SFC:AQO326) 羅璽",None,sfclicrec.asp?p=88379,AQO326,http://www.sfc.hk/publicregWeb/indi/AQO326/licenceRecord,,,Rep,2016-05-24,2016-09-08
+"Luo, Xi (SFC:AQO326) 羅璽",None,sfclicrec.asp?p=88379,AQO326,http://www.sfc.hk/publicregWeb/indi/AQO326/licenceRecord,,,RO,2016-09-08,
+"Sun, Ao 孫奧",None,sfclicrec.asp?p=88390,AVE409,http://www.sfc.hk/publicregWeb/indi/AVE409/licenceRecord,,,Rep,2014-08-13,2014-12-31

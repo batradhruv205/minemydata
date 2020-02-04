@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Anson 陳燿璋",sfclicrec.asp?p=80204,,F,RO,2005-08-30,
-"Chen, Alan Leh Chiarng 陳樂強",sfclicrec.asp?p=80209,,M,Rep,2007-05-17,2016-09-19
-"Chen, Alan Leh Chiarng 陳樂強",sfclicrec.asp?p=80209,,M,RO,2018-07-11,
-"Fung, Koon Wah 馮冠華",sfclicrec.asp?p=85378,,,RO,2019-01-14,
-"Ho, Adrian Pedro King Hong 何敬康",sfclicrec.asp?p=110143,,M,Rep,2007-05-02,2011-07-27
-"Lam, Christine Yee Kwan 林綺君",sfclicrec.asp?p=80210,,F,Rep,2007-05-17,2016-09-19
-"Leung, Kenneth Kwun Chung 梁貫聰",sfclicrec.asp?p=69681,,M,Rep,2013-07-10,2018-03-27
-"Leung, Yiu Pan 梁耀斌",sfclicrec.asp?p=69930,,,Rep,2007-05-04,2008-05-02
-"Lin, I-Chi 林逸奇",sfclicrec.asp?p=2008168,,,Rep,2013-01-14,2017-11-15
-"Ng, Kong Yong 吳擴揚",sfclicrec.asp?p=102154,,,Rep,2006-01-06,2006-11-30
-"Teo, Kea Shiang 張家祥",sfclicrec.asp?p=80211,,,Rep,2007-05-28,2016-09-19
-"Yang, James Ting Yeh 楊定曄",sfclicrec.asp?p=80206,,M,RO,2005-08-30,2019-04-01
-"Yau, Angela Shing Yam 邱聖音",sfclicrec.asp?p=117418,49,F,RO,2018-08-31,
-"Yuen, Chi Fung (SFC:ABU336) 袁志峰",sfclicrec.asp?p=81701,,,Rep,2019-03-12,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Anson 陳燿璋",None,sfclicrec.asp?p=80204,AEZ003,http://www.sfc.hk/publicregWeb/indi/AEZ003/licenceRecord,,F,RO,2005-08-30,
+"Chen, Alan Leh Chiarng 陳樂強",None,sfclicrec.asp?p=80209,AGH159,http://www.sfc.hk/publicregWeb/indi/AGH159/licenceRecord,,M,Rep,2007-05-17,2016-09-19
+"Chen, Alan Leh Chiarng 陳樂強",None,sfclicrec.asp?p=80209,AGH159,http://www.sfc.hk/publicregWeb/indi/AGH159/licenceRecord,,M,RO,2018-07-11,
+"Fung, Koon Wah 馮冠華",None,sfclicrec.asp?p=85378,AFZ881,http://www.sfc.hk/publicregWeb/indi/AFZ881/licenceRecord,,,RO,2019-01-14,
+"Ho, Adrian Pedro King Hong 何敬康",None,sfclicrec.asp?p=110143,AGP055,http://www.sfc.hk/publicregWeb/indi/AGP055/licenceRecord,,M,Rep,2007-05-02,2011-07-27
+"Lam, Christine Yee Kwan 林綺君",None,sfclicrec.asp?p=80210,AFK384,http://www.sfc.hk/publicregWeb/indi/AFK384/licenceRecord,,F,Rep,2007-05-17,2016-09-19
+"Leung, Kenneth Kwun Chung 梁貫聰",None,sfclicrec.asp?p=69681,ARN820,http://www.sfc.hk/publicregWeb/indi/ARN820/licenceRecord,,M,Rep,2013-07-10,2018-03-27
+"Leung, Yiu Pan 梁耀斌",None,sfclicrec.asp?p=69930,ANM031,http://www.sfc.hk/publicregWeb/indi/ANM031/licenceRecord,,,Rep,2007-05-04,2008-05-02
+"Lin, I-Chi 林逸奇",None,sfclicrec.asp?p=2008168,BAT265,http://www.sfc.hk/publicregWeb/indi/BAT265/licenceRecord,,,Rep,2013-01-14,2017-11-15
+"Ng, Kong Yong 吳擴揚",None,sfclicrec.asp?p=102154,ABN501,http://www.sfc.hk/publicregWeb/indi/ABN501/licenceRecord,,,Rep,2006-01-06,2006-11-30
+"Teo, Kea Shiang 張家祥",None,sfclicrec.asp?p=80211,AOV624,http://www.sfc.hk/publicregWeb/indi/AOV624/licenceRecord,,,Rep,2007-05-28,2016-09-19
+"Yang, James Ting Yeh 楊定曄",None,sfclicrec.asp?p=80206,AEX752,http://www.sfc.hk/publicregWeb/indi/AEX752/licenceRecord,,M,RO,2005-08-30,2019-04-01
+"Yau, Angela Shing Yam 邱聖音",None,sfclicrec.asp?p=117418,AMS539,http://www.sfc.hk/publicregWeb/indi/AMS539/licenceRecord,49.0,F,RO,2018-08-31,
+"Yuen, Chi Fung (SFC:ABU336) 袁志峰",None,sfclicrec.asp?p=81701,ABU336,http://www.sfc.hk/publicregWeb/indi/ABU336/licenceRecord,,,Rep,2019-03-12,

@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Eio, Jingfeng Jonathan 姚景丰",sfclicrec.asp?p=11793781,,,Rep,2017-08-28,2019-03-29
-"Hu, Michael ",sfclicrec.asp?p=11793782,,M,Rep,2017-08-28,2018-07-20
-"Hu, Michael ",sfclicrec.asp?p=11793782,,M,RO,2018-07-20,2018-12-31
-"Lam, Simon Yee-Kai 林以佳",sfclicrec.asp?p=105329,,M,RO,2012-10-31,2018-07-22
-"Leong, An Qiang Henley 梁安強",sfclicrec.asp?p=2305869,,,Rep,2019-03-01,
-"Leung, Tze Kid 梁梓傑",sfclicrec.asp?p=23196632,,,Rep,2019-05-20,
-"Liang, Collin 梁荣福",sfclicrec.asp?p=23149484,,M,Rep,2019-05-08,
-"Sloan, Stephen Coulam ",sfclicrec.asp?p=6717577,,M,RO,2017-03-31,
-"Song, Jingyi 宋婧宜",sfclicrec.asp?p=12860292,,,Rep,2018-03-16,
-"Song, Michael Y ",sfclicrec.asp?p=12053047,,M,Rep,2017-09-18,2018-12-10
-"Song, Michael Y ",sfclicrec.asp?p=12053047,,M,RO,2018-12-10,
-"Thompson, William Newton ",sfclicrec.asp?p=1973775,,M,RO,2012-10-31,2017-03-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Eio, Jingfeng Jonathan 姚景丰",None,sfclicrec.asp?p=11793781,BKR579,http://www.sfc.hk/publicregWeb/indi/BKR579/licenceRecord,,,Rep,2017-08-28,2019-03-29
+"Hu, Michael ",None,sfclicrec.asp?p=11793782,BKR588,http://www.sfc.hk/publicregWeb/indi/BKR588/licenceRecord,,M,Rep,2017-08-28,2018-07-20
+"Hu, Michael ",None,sfclicrec.asp?p=11793782,BKR588,http://www.sfc.hk/publicregWeb/indi/BKR588/licenceRecord,,M,RO,2018-07-20,2018-12-31
+"Lam, Simon Yee-Kai 林以佳",None,sfclicrec.asp?p=105329,AET081,http://www.sfc.hk/publicregWeb/indi/AET081/licenceRecord,,M,RO,2012-10-31,2018-07-22
+"Leong, An Qiang Henley 梁安強",None,sfclicrec.asp?p=2305869,BDU981,http://www.sfc.hk/publicregWeb/indi/BDU981/licenceRecord,,,Rep,2019-03-01,
+"Leung, Tze Kid 梁梓傑",None,sfclicrec.asp?p=23196632,BOJ511,http://www.sfc.hk/publicregWeb/indi/BOJ511/licenceRecord,,,Rep,2019-05-20,
+"Liang, Collin 梁荣福",None,sfclicrec.asp?p=23149484,BOI135,http://www.sfc.hk/publicregWeb/indi/BOI135/licenceRecord,,M,Rep,2019-05-08,
+"Sloan, Stephen Coulam ",None,sfclicrec.asp?p=6717577,BJC542,http://www.sfc.hk/publicregWeb/indi/BJC542/licenceRecord,,M,RO,2017-03-31,
+"Song, Jingyi 宋婧宜",None,sfclicrec.asp?p=12860292,BMP026,http://www.sfc.hk/publicregWeb/indi/BMP026/licenceRecord,,,Rep,2018-03-16,
+"Song, Michael Y ",None,sfclicrec.asp?p=12053047,BKT329,http://www.sfc.hk/publicregWeb/indi/BKT329/licenceRecord,,M,Rep,2017-09-18,2018-12-10
+"Song, Michael Y ",None,sfclicrec.asp?p=12053047,BKT329,http://www.sfc.hk/publicregWeb/indi/BKT329/licenceRecord,,M,RO,2018-12-10,
+"Thompson, William Newton ",None,sfclicrec.asp?p=1973775,AZQ624,http://www.sfc.hk/publicregWeb/indi/AZQ624/licenceRecord,,M,RO,2012-10-31,2017-03-31

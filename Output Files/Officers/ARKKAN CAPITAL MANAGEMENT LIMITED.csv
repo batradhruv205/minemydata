@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Abrat, Katherine Anna ",sfclicrec.asp?p=80678,,F,RO,2018-05-30,
-"Brown, Jason Matthew ",sfclicrec.asp?p=60971,52,M,RO,2013-12-16,
-"Capasso, Michael Howard ",sfclicrec.asp?p=103888,,M,Rep,2019-07-29,2019-09-06
-"Capasso, Michael Howard ",sfclicrec.asp?p=103888,,M,RO,2019-09-06,
-"Clarke, Richard Daniel (SFC:BNE732) ",sfclicrec.asp?p=21133632,,M,Rep,2018-07-31,
-"Gadit, Mohsin ",sfclicrec.asp?p=2591668,,,Rep,2016-06-14,
-"Lam, Jason Che Man 林齊文",sfclicrec.asp?p=69048,,M,Rep,2014-03-07,
-"Mathes, Michel ",sfclicrec.asp?p=1887889,,,Rep,2014-03-12,2019-06-06
-"Mui, Chun Wai 梅駿威",sfclicrec.asp?p=2479451,,,Rep,2019-01-02,
-"Robinson, Adam Worsley ",sfclicrec.asp?p=2180774,,M,RO,2013-12-16,2018-05-31
-"Thadani, Shabad Suresh ",sfclicrec.asp?p=2298411,,,Rep,2014-07-24,
-"Weiselfish, Nimrod 魏寧",sfclicrec.asp?p=119246,,,Rep,2014-03-07,2016-08-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Abrat, Katherine Anna ",None,sfclicrec.asp?p=80678,ANB136,http://www.sfc.hk/publicregWeb/indi/ANB136/licenceRecord,,F,RO,2018-05-30,
+"Brown, Jason Matthew ",None,sfclicrec.asp?p=60971,ACX950,http://www.sfc.hk/publicregWeb/indi/ACX950/licenceRecord,52.0,M,RO,2013-12-16,
+"Capasso, Michael Howard ",None,sfclicrec.asp?p=103888,ADL343,http://www.sfc.hk/publicregWeb/indi/ADL343/licenceRecord,,M,Rep,2019-07-29,2019-09-06
+"Capasso, Michael Howard ",None,sfclicrec.asp?p=103888,ADL343,http://www.sfc.hk/publicregWeb/indi/ADL343/licenceRecord,,M,RO,2019-09-06,
+"Clarke, Richard Daniel (SFC:BNE732) ",None,sfclicrec.asp?p=21133632,BNE732,http://www.sfc.hk/publicregWeb/indi/BNE732/licenceRecord,,M,Rep,2018-07-31,
+"Gadit, Mohsin ",None,sfclicrec.asp?p=2591668,BHL892,http://www.sfc.hk/publicregWeb/indi/BHL892/licenceRecord,,,Rep,2016-06-14,
+"Lam, Jason Che Man 林齊文",None,sfclicrec.asp?p=69048,ARN784,http://www.sfc.hk/publicregWeb/indi/ARN784/licenceRecord,,M,Rep,2014-03-07,
+"Mathes, Michel ",None,sfclicrec.asp?p=1887889,AZJ137,http://www.sfc.hk/publicregWeb/indi/AZJ137/licenceRecord,,,Rep,2014-03-12,2019-06-06
+"Mui, Chun Wai 梅駿威",None,sfclicrec.asp?p=2479451,BGD406,http://www.sfc.hk/publicregWeb/indi/BGD406/licenceRecord,,,Rep,2019-01-02,
+"Robinson, Adam Worsley ",None,sfclicrec.asp?p=2180774,BCB579,http://www.sfc.hk/publicregWeb/indi/BCB579/licenceRecord,,M,RO,2013-12-16,2018-05-31
+"Thadani, Shabad Suresh ",None,sfclicrec.asp?p=2298411,BDQ421,http://www.sfc.hk/publicregWeb/indi/BDQ421/licenceRecord,,,Rep,2014-07-24,
+"Weiselfish, Nimrod 魏寧",None,sfclicrec.asp?p=119246,ANT303,http://www.sfc.hk/publicregWeb/indi/ANT303/licenceRecord,,,Rep,2014-03-07,2016-08-31

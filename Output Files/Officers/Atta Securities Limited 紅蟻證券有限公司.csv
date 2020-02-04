@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Fu, Sin 扶茜",sfclicrec.asp?p=11789141,,,Rep,2019-11-29,
-"Lau, Pan 劉斌",sfclicrec.asp?p=2503441,,,Rep,2019-06-19,2019-07-05
-"Lau, Pan 劉斌",sfclicrec.asp?p=2503441,,,RO,2019-07-05,
-"Li, Kim Ping 李儉炳",sfclicrec.asp?p=93504,,,RO,2018-07-03,2018-10-09
-"See, Maggie Cheuk Yan 施卓蒑",sfclicrec.asp?p=71851,,F,RO,2018-07-03,
-"Song, Xin (SFC:ANA840) 宋昕",sfclicrec.asp?p=80349,,,Rep,2018-10-03,2019-01-22
-"Song, Xin (SFC:ANA840) 宋昕",sfclicrec.asp?p=80349,,,RO,2019-01-22,
-"Wang, Meng (SFC:AND162) 王萌",sfclicrec.asp?p=75236,,,Rep,2018-12-18,
-"Yau, Simon Tak Lung 游德隆",sfclicrec.asp?p=51646,,M,RO,2019-01-07,2020-01-11
-"Yu, Yang (SFC:BGB011) 于楊",sfclicrec.asp?p=2466019,,,Rep,2018-10-03,2019-01-22
-"Yu, Yang (SFC:BGB011) 于楊",sfclicrec.asp?p=2466019,,,RO,2019-01-22,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Fu, Sin 扶茜",None,sfclicrec.asp?p=11789141,BKF907,http://www.sfc.hk/publicregWeb/indi/BKF907/licenceRecord,,,Rep,2019-11-29,
+"Lau, Pan 劉斌",None,sfclicrec.asp?p=2503441,BGO489,http://www.sfc.hk/publicregWeb/indi/BGO489/licenceRecord,,,Rep,2019-06-19,2019-07-05
+"Lau, Pan 劉斌",None,sfclicrec.asp?p=2503441,BGO489,http://www.sfc.hk/publicregWeb/indi/BGO489/licenceRecord,,,RO,2019-07-05,
+"Li, Kim Ping 李儉炳",None,sfclicrec.asp?p=93504,ATS380,http://www.sfc.hk/publicregWeb/indi/ATS380/licenceRecord,,,RO,2018-07-03,2018-10-09
+"See, Maggie Cheuk Yan 施卓蒑",None,sfclicrec.asp?p=71851,AXD896,http://www.sfc.hk/publicregWeb/indi/AXD896/licenceRecord,,F,RO,2018-07-03,
+"Song, Xin (SFC:ANA840) 宋昕",None,sfclicrec.asp?p=80349,ANA840,http://www.sfc.hk/publicregWeb/indi/ANA840/licenceRecord,,,Rep,2018-10-03,2019-01-22
+"Song, Xin (SFC:ANA840) 宋昕",None,sfclicrec.asp?p=80349,ANA840,http://www.sfc.hk/publicregWeb/indi/ANA840/licenceRecord,,,RO,2019-01-22,
+"Wang, Meng (SFC:AND162) 王萌",None,sfclicrec.asp?p=75236,AND162,http://www.sfc.hk/publicregWeb/indi/AND162/licenceRecord,,,Rep,2018-12-18,
+"Yau, Simon Tak Lung 游德隆",None,sfclicrec.asp?p=51646,AQS425,http://www.sfc.hk/publicregWeb/indi/AQS425/licenceRecord,,M,RO,2019-01-07,2020-01-11
+"Yu, Yang (SFC:BGB011) 于楊",None,sfclicrec.asp?p=2466019,BGB011,http://www.sfc.hk/publicregWeb/indi/BGB011/licenceRecord,,,Rep,2018-10-03,2019-01-22
+"Yu, Yang (SFC:BGB011) 于楊",None,sfclicrec.asp?p=2466019,BGB011,http://www.sfc.hk/publicregWeb/indi/BGB011/licenceRecord,,,RO,2019-01-22,

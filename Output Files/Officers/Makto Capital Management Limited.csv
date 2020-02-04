@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Duxfield, Robin Malcolm ",sfclicrec.asp?p=98450,,M,RO,2017-02-07,2017-11-16
-"Foo, Siong Min 符祥明",sfclicrec.asp?p=2484471,,,Rep,2017-02-22,
-"Hui, Jeremiah Tsz Hon 許子瀚",sfclicrec.asp?p=8734283,,M,Rep,2017-04-24,2017-12-08
-"Jung, Christopher Lam 曾俊文",sfclicrec.asp?p=90504,,M,Rep,2017-05-23,2017-09-20
-"Jung, Christopher Lam 曾俊文",sfclicrec.asp?p=90504,,M,RO,2017-09-20,2018-02-08
-"Kwok, Felix Man Chun 郭文駿",sfclicrec.asp?p=96711,,M,RO,2018-09-18,2018-09-28
-"Lee, Wai Yin (SFC:AYW252) 李偉賢",sfclicrec.asp?p=1861283,,,Rep,2017-10-30,2018-03-09
-"Li, Lei Min 李雷民",sfclicrec.asp?p=2694295,,,RO,2017-02-07,
-"Lim, Yui Sing (SFC:BGU684) 林銳昇",sfclicrec.asp?p=2535725,,,Rep,2017-02-22,2017-12-08
-"Lo, Charmaine Shuk Man 羅淑文",sfclicrec.asp?p=89335,35,F,Rep,2017-09-07,2018-02-08
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Duxfield, Robin Malcolm ",None,sfclicrec.asp?p=98450,AQQ553,http://www.sfc.hk/publicregWeb/indi/AQQ553/licenceRecord,,M,RO,2017-02-07,2017-11-16
+"Foo, Siong Min 符祥明",None,sfclicrec.asp?p=2484471,BGH800,http://www.sfc.hk/publicregWeb/indi/BGH800/licenceRecord,,,Rep,2017-02-22,
+"Hui, Jeremiah Tsz Hon 許子瀚",None,sfclicrec.asp?p=8734283,BJH664,http://www.sfc.hk/publicregWeb/indi/BJH664/licenceRecord,,M,Rep,2017-04-24,2017-12-08
+"Jung, Christopher Lam 曾俊文",None,sfclicrec.asp?p=90504,ADX061,http://www.sfc.hk/publicregWeb/indi/ADX061/licenceRecord,,M,Rep,2017-05-23,2017-09-20
+"Jung, Christopher Lam 曾俊文",None,sfclicrec.asp?p=90504,ADX061,http://www.sfc.hk/publicregWeb/indi/ADX061/licenceRecord,,M,RO,2017-09-20,2018-02-08
+"Kwok, Felix Man Chun 郭文駿",None,sfclicrec.asp?p=96711,AWS974,http://www.sfc.hk/publicregWeb/indi/AWS974/licenceRecord,,M,RO,2018-09-18,2018-09-28
+"Lee, Wai Yin (SFC:AYW252) 李偉賢",None,sfclicrec.asp?p=1861283,AYW252,http://www.sfc.hk/publicregWeb/indi/AYW252/licenceRecord,,,Rep,2017-10-30,2018-03-09
+"Li, Lei Min 李雷民",None,sfclicrec.asp?p=2694295,AFS633,http://www.sfc.hk/publicregWeb/indi/AFS633/licenceRecord,,,RO,2017-02-07,
+"Lim, Yui Sing (SFC:BGU684) 林銳昇",None,sfclicrec.asp?p=2535725,BGU684,http://www.sfc.hk/publicregWeb/indi/BGU684/licenceRecord,,,Rep,2017-02-22,2017-12-08
+"Lo, Charmaine Shuk Man 羅淑文",None,sfclicrec.asp?p=89335,ANT856,http://www.sfc.hk/publicregWeb/indi/ANT856/licenceRecord,35.0,F,Rep,2017-09-07,2018-02-08

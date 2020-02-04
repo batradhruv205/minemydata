@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Toi Kin 陳代堅",sfclicrec.asp?p=23304807,,,Rep,2019-06-14,
-"Choi, Yong ",sfclicrec.asp?p=2059225,,,RO,2019-02-08,2019-04-11
-"Hamnaa, Philip Axel Peter ",sfclicrec.asp?p=23469091,,M,Rep,2019-07-24,2019-10-21
-"Krkalo, Hrvoje ",sfclicrec.asp?p=113592,,,RO,2019-02-08,
-"Lai, Shengnan 賴盛楠",sfclicrec.asp?p=23469092,,,Rep,2019-07-24,
-"Lin, Ni 林昵",sfclicrec.asp?p=2023541,,,RO,2019-02-08,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Toi Kin 陳代堅",None,sfclicrec.asp?p=23304807,BNL529,http://www.sfc.hk/publicregWeb/indi/BNL529/licenceRecord,,,Rep,2019-06-14,
+"Choi, Yong ",None,sfclicrec.asp?p=2059225,BBE608,http://www.sfc.hk/publicregWeb/indi/BBE608/licenceRecord,,,RO,2019-02-08,2019-04-11
+"Hamnaa, Philip Axel Peter ",None,sfclicrec.asp?p=23469091,BOL333,http://www.sfc.hk/publicregWeb/indi/BOL333/licenceRecord,,M,Rep,2019-07-24,2019-10-21
+"Krkalo, Hrvoje ",None,sfclicrec.asp?p=113592,AJO212,http://www.sfc.hk/publicregWeb/indi/AJO212/licenceRecord,,,RO,2019-02-08,
+"Lai, Shengnan 賴盛楠",None,sfclicrec.asp?p=23469092,BOL250,http://www.sfc.hk/publicregWeb/indi/BOL250/licenceRecord,,,Rep,2019-07-24,
+"Lin, Ni 林昵",None,sfclicrec.asp?p=2023541,BAL766,http://www.sfc.hk/publicregWeb/indi/BAL766/licenceRecord,,,RO,2019-02-08,

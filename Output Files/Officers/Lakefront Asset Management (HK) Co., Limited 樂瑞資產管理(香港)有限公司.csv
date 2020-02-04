@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Huang, Jining 黃冀凝",sfclicrec.asp?p=1917996,,,Rep,2017-03-29,
-"Li, Peiying (SFC:BHV047) 李佩穎",sfclicrec.asp?p=2656158,,,RO,2016-11-08,
-"Zhang, Qiang (SFC:AWZ214) 章強",sfclicrec.asp?p=130930,,,RO,2016-11-08,
-"Zhang, Yu (SFC:BHV046) 張煜",sfclicrec.asp?p=2656159,,,RO,2016-11-08,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Huang, Jining 黃冀凝",None,sfclicrec.asp?p=1917996,AZO583,http://www.sfc.hk/publicregWeb/indi/AZO583/licenceRecord,,,Rep,2017-03-29,
+"Li, Peiying (SFC:BHV047) 李佩穎",None,sfclicrec.asp?p=2656158,BHV047,http://www.sfc.hk/publicregWeb/indi/BHV047/licenceRecord,,,RO,2016-11-08,
+"Zhang, Qiang (SFC:AWZ214) 章強",None,sfclicrec.asp?p=130930,AWZ214,http://www.sfc.hk/publicregWeb/indi/AWZ214/licenceRecord,,,RO,2016-11-08,
+"Zhang, Yu (SFC:BHV046) 張煜",None,sfclicrec.asp?p=2656159,BHV046,http://www.sfc.hk/publicregWeb/indi/BHV046/licenceRecord,,,RO,2016-11-08,

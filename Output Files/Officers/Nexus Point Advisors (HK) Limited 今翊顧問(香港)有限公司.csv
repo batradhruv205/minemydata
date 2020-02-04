@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Calvin Hughes ",sfclicrec.asp?p=88778,,M,Rep,2018-06-22,
-"Chung, Sheng Yuan 鍾昇原",sfclicrec.asp?p=11779640,,,Rep,2019-11-18,
-"Cui, Yifan ",sfclicrec.asp?p=2335396,,,Rep,2018-07-30,
-"Kung, Kuo Chuan (SFC:BJB232) 龔國權",sfclicrec.asp?p=11019565,,,RO,2017-05-25,
-"Li, Min (SFC:ANI853) 李民",sfclicrec.asp?p=118456,,,Rep,2017-06-13,2018-01-16
-"Li, Min (SFC:ANI853) 李民",sfclicrec.asp?p=118456,,,RO,2018-01-16,
-"Soo, Peter Kok Beng 蘇國明",sfclicrec.asp?p=61750,,M,RO,2017-05-25,
-"Wong, Richard (SFC:AFQ365) 黃志遠",sfclicrec.asp?p=89768,,M,Rep,2017-06-12,2018-02-14
-"Wong, Richard (SFC:AFQ365) 黃志遠",sfclicrec.asp?p=89768,,M,RO,2018-02-14,2019-05-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Calvin Hughes ",None,sfclicrec.asp?p=88778,ATL788,http://www.sfc.hk/publicregWeb/indi/ATL788/licenceRecord,,M,Rep,2018-06-22,
+"Chung, Sheng Yuan 鍾昇原",None,sfclicrec.asp?p=11779640,BKA489,http://www.sfc.hk/publicregWeb/indi/BKA489/licenceRecord,,,Rep,2019-11-18,
+"Cui, Yifan ",None,sfclicrec.asp?p=2335396,BEJ198,http://www.sfc.hk/publicregWeb/indi/BEJ198/licenceRecord,,,Rep,2018-07-30,
+"Kung, Kuo Chuan (SFC:BJB232) 龔國權",None,sfclicrec.asp?p=11019565,BJB232,http://www.sfc.hk/publicregWeb/indi/BJB232/licenceRecord,,,RO,2017-05-25,
+"Li, Min (SFC:ANI853) 李民",None,sfclicrec.asp?p=118456,ANI853,http://www.sfc.hk/publicregWeb/indi/ANI853/licenceRecord,,,Rep,2017-06-13,2018-01-16
+"Li, Min (SFC:ANI853) 李民",None,sfclicrec.asp?p=118456,ANI853,http://www.sfc.hk/publicregWeb/indi/ANI853/licenceRecord,,,RO,2018-01-16,
+"Soo, Peter Kok Beng 蘇國明",None,sfclicrec.asp?p=61750,AAV789,http://www.sfc.hk/publicregWeb/indi/AAV789/licenceRecord,,M,RO,2017-05-25,
+"Wong, Richard (SFC:AFQ365) 黃志遠",None,sfclicrec.asp?p=89768,AFQ365,http://www.sfc.hk/publicregWeb/indi/AFQ365/licenceRecord,,M,Rep,2017-06-12,2018-02-14
+"Wong, Richard (SFC:AFQ365) 黃志遠",None,sfclicrec.asp?p=89768,AFQ365,http://www.sfc.hk/publicregWeb/indi/AFQ365/licenceRecord,,M,RO,2018-02-14,2019-05-31

@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Drury, Benjamin ",sfclicrec.asp?p=2636402,,M,Rep,2016-09-22,2017-08-16
-"Dunbar, Stuart ",sfclicrec.asp?p=2573358,,M,Rep,2015-12-17,
-"Henderson, David Shields ",sfclicrec.asp?p=2573356,,M,RO,2015-12-16,
-"Leong, Koon Jee Jennifer 梁君玉",sfclicrec.asp?p=1868767,,F,Rep,2016-05-03,2016-05-25
-"Leong, Koon Jee Jennifer 梁君玉",sfclicrec.asp?p=1868767,,F,RO,2016-05-25,
-"Lo, Ka Kin 盧家健",sfclicrec.asp?p=68685,,,Rep,2019-10-21,
-"Macdonald, Angus Neil George ",sfclicrec.asp?p=2573357,,M,RO,2015-12-16,
-"Smith, Alistair Campbell ",sfclicrec.asp?p=2636403,,M,Rep,2016-09-22,
-"Xiao, Wenhui 肖文慧",sfclicrec.asp?p=2573359,,,Rep,2015-12-17,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Drury, Benjamin ",None,sfclicrec.asp?p=2636402,BIE662,http://www.sfc.hk/publicregWeb/indi/BIE662/licenceRecord,,M,Rep,2016-09-22,2017-08-16
+"Dunbar, Stuart ",None,sfclicrec.asp?p=2573358,BGD489,http://www.sfc.hk/publicregWeb/indi/BGD489/licenceRecord,,M,Rep,2015-12-17,
+"Henderson, David Shields ",None,sfclicrec.asp?p=2573356,BGC836,http://www.sfc.hk/publicregWeb/indi/BGC836/licenceRecord,,M,RO,2015-12-16,
+"Leong, Koon Jee Jennifer 梁君玉",None,sfclicrec.asp?p=1868767,AZF862,http://www.sfc.hk/publicregWeb/indi/AZF862/licenceRecord,,F,Rep,2016-05-03,2016-05-25
+"Leong, Koon Jee Jennifer 梁君玉",None,sfclicrec.asp?p=1868767,AZF862,http://www.sfc.hk/publicregWeb/indi/AZF862/licenceRecord,,F,RO,2016-05-25,
+"Lo, Ka Kin 盧家健",None,sfclicrec.asp?p=68685,AON053,http://www.sfc.hk/publicregWeb/indi/AON053/licenceRecord,,,Rep,2019-10-21,
+"Macdonald, Angus Neil George ",None,sfclicrec.asp?p=2573357,BGC939,http://www.sfc.hk/publicregWeb/indi/BGC939/licenceRecord,,M,RO,2015-12-16,
+"Smith, Alistair Campbell ",None,sfclicrec.asp?p=2636403,BIE667,http://www.sfc.hk/publicregWeb/indi/BIE667/licenceRecord,,M,Rep,2016-09-22,
+"Xiao, Wenhui 肖文慧",None,sfclicrec.asp?p=2573359,BGD493,http://www.sfc.hk/publicregWeb/indi/BGD493/licenceRecord,,,Rep,2015-12-17,

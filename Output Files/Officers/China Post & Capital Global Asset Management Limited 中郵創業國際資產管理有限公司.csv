@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cai, Shuang (SFC:BGQ785) 蔡爽",sfclicrec.asp?p=2591167,,,RO,2016-04-08,
-"Chan, Hung Ping 陳鴻平",sfclicrec.asp?p=73781,,,Rep,2016-10-03,
-"Li, Jun (SFC:BJG656) 李隽",sfclicrec.asp?p=6719253,,,Rep,2017-04-03,2018-09-06
-"Satterfield, Christopher Wesley ",sfclicrec.asp?p=2591168,48,M,RO,2016-04-08,
-"Wong, Man Chiu (SFC:BOF490) 黃文釗",sfclicrec.asp?p=23048675,,,Rep,2019-04-15,2019-06-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cai, Shuang (SFC:BGQ785) 蔡爽",None,sfclicrec.asp?p=2591167,BGQ785,http://www.sfc.hk/publicregWeb/indi/BGQ785/licenceRecord,,,RO,2016-04-08,
+"Chan, Hung Ping 陳鴻平",None,sfclicrec.asp?p=73781,ATG911,http://www.sfc.hk/publicregWeb/indi/ATG911/licenceRecord,,,Rep,2016-10-03,
+"Li, Jun (SFC:BJG656) 李隽",None,sfclicrec.asp?p=6719253,BJG656,http://www.sfc.hk/publicregWeb/indi/BJG656/licenceRecord,,,Rep,2017-04-03,2018-09-06
+"Satterfield, Christopher Wesley ",None,sfclicrec.asp?p=2591168,BGQ088,http://www.sfc.hk/publicregWeb/indi/BGQ088/licenceRecord,48.0,M,RO,2016-04-08,
+"Wong, Man Chiu (SFC:BOF490) 黃文釗",None,sfclicrec.asp?p=23048675,BOF490,http://www.sfc.hk/publicregWeb/indi/BOF490/licenceRecord,,,Rep,2019-04-15,2019-06-30

@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Folsom, Richard Lee ",sfclicrec.asp?p=2591035,,M,RO,2015-11-27,
-"Komiya, Zentaro ",sfclicrec.asp?p=2591680,,,RO,2017-02-13,
-"Sasanuma, Taisuke ",sfclicrec.asp?p=2591036,,M,RO,2015-11-27,
-"Shi, Jing (SFC:BKI044) 史晶",sfclicrec.asp?p=11784970,,,Rep,2017-08-03,
-"Thomas Iii, Stanley Emmett ",sfclicrec.asp?p=2591037,,M,RO,2015-11-27,
-"Yan, Yun 嚴云",sfclicrec.asp?p=11784971,,,Rep,2017-08-03,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Folsom, Richard Lee ",None,sfclicrec.asp?p=2591035,BEW553,http://www.sfc.hk/publicregWeb/indi/BEW553/licenceRecord,,M,RO,2015-11-27,
+"Komiya, Zentaro ",None,sfclicrec.asp?p=2591680,BEW392,http://www.sfc.hk/publicregWeb/indi/BEW392/licenceRecord,,,RO,2017-02-13,
+"Sasanuma, Taisuke ",None,sfclicrec.asp?p=2591036,BEW552,http://www.sfc.hk/publicregWeb/indi/BEW552/licenceRecord,,M,RO,2015-11-27,
+"Shi, Jing (SFC:BKI044) 史晶",None,sfclicrec.asp?p=11784970,BKI044,http://www.sfc.hk/publicregWeb/indi/BKI044/licenceRecord,,,Rep,2017-08-03,
+"Thomas Iii, Stanley Emmett ",None,sfclicrec.asp?p=2591037,BEW393,http://www.sfc.hk/publicregWeb/indi/BEW393/licenceRecord,,M,RO,2015-11-27,
+"Yan, Yun 嚴云",None,sfclicrec.asp?p=11784971,BKI023,http://www.sfc.hk/publicregWeb/indi/BKI023/licenceRecord,,,Rep,2017-08-03,

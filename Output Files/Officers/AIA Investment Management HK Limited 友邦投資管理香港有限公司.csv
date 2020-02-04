@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au, Yu Ching 區裕正",sfclicrec.asp?p=102325,,,RO,2018-11-14,
-"Chan, Chun Kit (SFC:ANM375) 陳振傑",sfclicrec.asp?p=22437132,,,RO,2018-11-14,
-"Chan, Shih Huai 陳思慧",sfclicrec.asp?p=23058210,,,Rep,2019-04-16,
-"Chow, Kai Wui 周啟匯",sfclicrec.asp?p=2202234,,,Rep,2019-01-25,
-"Chow, Stephen Benny Ting Fai 周珽輝",sfclicrec.asp?p=99842,,M,Rep,2019-04-15,
-"Fung, Ho Tak 馮浩德",sfclicrec.asp?p=71280,,,Rep,2019-09-04,
-"Gupta, Pooja (SFC:BIC159) ",sfclicrec.asp?p=2626821,,,Rep,2019-04-16,
-"Konyn, Mark ",sfclicrec.asp?p=39577,,M,RO,2018-11-14,
-"Lam, Kit Yin 林潔賢",sfclicrec.asp?p=119473,,,Rep,2019-04-23,
-"Lam, Wang Chi 林宏志",sfclicrec.asp?p=98782,,,Rep,2019-04-23,2019-09-06
-"Liu, Boyong 劉博雍",sfclicrec.asp?p=84372,,,Rep,2019-06-27,
-"Ng, Ling Chi 吳凌志",sfclicrec.asp?p=112329,,,Rep,2019-06-21,
-"Tai, Winson Wing Sum 戴穎琛",sfclicrec.asp?p=121204,,,Rep,2019-04-02,2019-04-12
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au, Yu Ching 區裕正",None,sfclicrec.asp?p=102325,ABT384,http://www.sfc.hk/publicregWeb/indi/ABT384/licenceRecord,,,RO,2018-11-14,
+"Chan, Chun Kit (SFC:ANM375) 陳振傑",None,sfclicrec.asp?p=22437132,ANM375,http://www.sfc.hk/publicregWeb/indi/ANM375/licenceRecord,,,RO,2018-11-14,
+"Chan, Shih Huai 陳思慧",None,sfclicrec.asp?p=23058210,BOH184,http://www.sfc.hk/publicregWeb/indi/BOH184/licenceRecord,,,Rep,2019-04-16,
+"Chow, Kai Wui 周啟匯",None,sfclicrec.asp?p=2202234,BCO960,http://www.sfc.hk/publicregWeb/indi/BCO960/licenceRecord,,,Rep,2019-01-25,
+"Chow, Stephen Benny Ting Fai 周珽輝",None,sfclicrec.asp?p=99842,ANE749,http://www.sfc.hk/publicregWeb/indi/ANE749/licenceRecord,,M,Rep,2019-04-15,
+"Fung, Ho Tak 馮浩德",None,sfclicrec.asp?p=71280,ARR598,http://www.sfc.hk/publicregWeb/indi/ARR598/licenceRecord,,,Rep,2019-09-04,
+"Gupta, Pooja (SFC:BIC159) ",None,sfclicrec.asp?p=2626821,BIC159,http://www.sfc.hk/publicregWeb/indi/BIC159/licenceRecord,,,Rep,2019-04-16,
+"Konyn, Mark ",None,sfclicrec.asp?p=39577,AAK168,http://www.sfc.hk/publicregWeb/indi/AAK168/licenceRecord,,M,RO,2018-11-14,
+"Lam, Kit Yin 林潔賢",None,sfclicrec.asp?p=119473,ANV267,http://www.sfc.hk/publicregWeb/indi/ANV267/licenceRecord,,,Rep,2019-04-23,
+"Lam, Wang Chi 林宏志",None,sfclicrec.asp?p=98782,AKX039,http://www.sfc.hk/publicregWeb/indi/AKX039/licenceRecord,,,Rep,2019-04-23,2019-09-06
+"Liu, Boyong 劉博雍",None,sfclicrec.asp?p=84372,AWO657,http://www.sfc.hk/publicregWeb/indi/AWO657/licenceRecord,,,Rep,2019-06-27,
+"Ng, Ling Chi 吳凌志",None,sfclicrec.asp?p=112329,AIR476,http://www.sfc.hk/publicregWeb/indi/AIR476/licenceRecord,,,Rep,2019-06-21,
+"Tai, Winson Wing Sum 戴穎琛",None,sfclicrec.asp?p=121204,AOV063,http://www.sfc.hk/publicregWeb/indi/AOV063/licenceRecord,,,Rep,2019-04-02,2019-04-12

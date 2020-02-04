@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Zhao (SFC:AZT162) 陳昭",sfclicrec.asp?p=1915263,,,Rep,2015-09-29,2016-07-12
-"Cheng, Kwok Keung 鄭國強",sfclicrec.asp?p=82406,,,Rep,2016-12-05,
-"Cheung, Ka Wai (SFC:BCL053) 張家瑋",sfclicrec.asp?p=2174358,,,Rep,2013-12-04,2015-04-01
-"Cheung, Shirley 張嘉殷",sfclicrec.asp?p=2151511,,F,Rep,2013-10-24,2014-01-23
-"Cheung, Shirley 張嘉殷",sfclicrec.asp?p=2151511,,F,RO,2014-01-23,
-"Huang, Xin (SFC:BBE456) 黃昕",sfclicrec.asp?p=2145742,,,RO,2013-07-23,
-"Lai, Kevin 黎嘉運",sfclicrec.asp?p=2525520,,M,Rep,2016-01-12,2017-04-20
-"Law, Chi Yuen (SFC:BAF301) 羅志遠",sfclicrec.asp?p=1959997,,,Rep,2013-10-15,
-"Lui, Lok Sze 雷樂詩",sfclicrec.asp?p=132482,,,Rep,2017-01-05,
-"Shang, Shijun 尚世駿",sfclicrec.asp?p=2145743,,,RO,2013-07-23,
-"Wu, Tianhao (SFC:BJP085) 吴天昊",sfclicrec.asp?p=11668832,,,Rep,2017-06-26,
-"Yan, Jianhong 嚴建紅",sfclicrec.asp?p=2145744,,,RO,2013-07-23,2014-07-24
-"Yang, Xinwei 楊欣煒",sfclicrec.asp?p=2262338,,,Rep,2014-04-28,2016-11-04
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Zhao (SFC:AZT162) 陳昭",None,sfclicrec.asp?p=1915263,AZT162,http://www.sfc.hk/publicregWeb/indi/AZT162/licenceRecord,,,Rep,2015-09-29,2016-07-12
+"Cheng, Kwok Keung 鄭國強",None,sfclicrec.asp?p=82406,ATE569,http://www.sfc.hk/publicregWeb/indi/ATE569/licenceRecord,,,Rep,2016-12-05,
+"Cheung, Ka Wai (SFC:BCL053) 張家瑋",None,sfclicrec.asp?p=2174358,BCL053,http://www.sfc.hk/publicregWeb/indi/BCL053/licenceRecord,,,Rep,2013-12-04,2015-04-01
+"Cheung, Shirley 張嘉殷",None,sfclicrec.asp?p=2151511,BBB612,http://www.sfc.hk/publicregWeb/indi/BBB612/licenceRecord,,F,Rep,2013-10-24,2014-01-23
+"Cheung, Shirley 張嘉殷",None,sfclicrec.asp?p=2151511,BBB612,http://www.sfc.hk/publicregWeb/indi/BBB612/licenceRecord,,F,RO,2014-01-23,
+"Huang, Xin (SFC:BBE456) 黃昕",None,sfclicrec.asp?p=2145742,BBE456,http://www.sfc.hk/publicregWeb/indi/BBE456/licenceRecord,,,RO,2013-07-23,
+"Lai, Kevin 黎嘉運",None,sfclicrec.asp?p=2525520,BGQ548,http://www.sfc.hk/publicregWeb/indi/BGQ548/licenceRecord,,M,Rep,2016-01-12,2017-04-20
+"Law, Chi Yuen (SFC:BAF301) 羅志遠",None,sfclicrec.asp?p=1959997,BAF301,http://www.sfc.hk/publicregWeb/indi/BAF301/licenceRecord,,,Rep,2013-10-15,
+"Lui, Lok Sze 雷樂詩",None,sfclicrec.asp?p=132482,AYD006,http://www.sfc.hk/publicregWeb/indi/AYD006/licenceRecord,,,Rep,2017-01-05,
+"Shang, Shijun 尚世駿",None,sfclicrec.asp?p=2145743,APR537,http://www.sfc.hk/publicregWeb/indi/APR537/licenceRecord,,,RO,2013-07-23,
+"Wu, Tianhao (SFC:BJP085) 吴天昊",None,sfclicrec.asp?p=11668832,BJP085,http://www.sfc.hk/publicregWeb/indi/BJP085/licenceRecord,,,Rep,2017-06-26,
+"Yan, Jianhong 嚴建紅",None,sfclicrec.asp?p=2145744,BBB609,http://www.sfc.hk/publicregWeb/indi/BBB609/licenceRecord,,,RO,2013-07-23,2014-07-24
+"Yang, Xinwei 楊欣煒",None,sfclicrec.asp?p=2262338,BDF084,http://www.sfc.hk/publicregWeb/indi/BDF084/licenceRecord,,,Rep,2014-04-28,2016-11-04

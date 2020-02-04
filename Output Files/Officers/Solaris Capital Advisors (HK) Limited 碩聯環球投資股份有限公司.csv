@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Huang, Feng-Kai 黃豐凱",sfclicrec.asp?p=2406085,,,RO,2015-04-14,2015-10-14
-"Liu, Jenny Chiao-Ping ",sfclicrec.asp?p=2582679,,F,RO,2016-05-24,
-"Liu, Liang-Jung 劉良蓉",sfclicrec.asp?p=23616812,,,Rep,2019-09-03,
-"Lu, Clark Chia-Chueh 呂佳學",sfclicrec.asp?p=106020,,M,RO,2015-12-16,2017-04-12
-"Sun, Weshiang 孫尉翔",sfclicrec.asp?p=125264,,,RO,2015-04-14,
-"Wong, Kwok Wai (SFC:AOY613) 黃國威",sfclicrec.asp?p=75255,,,Rep,2015-09-24,2016-06-30
-"Wong, Kwok Wai (SFC:AOY613) 黃國威",sfclicrec.asp?p=75255,,,RO,2018-06-27,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Huang, Feng-Kai 黃豐凱",None,sfclicrec.asp?p=2406085,BES450,http://www.sfc.hk/publicregWeb/indi/BES450/licenceRecord,,,RO,2015-04-14,2015-10-14
+"Liu, Jenny Chiao-Ping ",None,sfclicrec.asp?p=2582679,AWR710,http://www.sfc.hk/publicregWeb/indi/AWR710/licenceRecord,,F,RO,2016-05-24,
+"Liu, Liang-Jung 劉良蓉",None,sfclicrec.asp?p=23616812,BOL310,http://www.sfc.hk/publicregWeb/indi/BOL310/licenceRecord,,,Rep,2019-09-03,
+"Lu, Clark Chia-Chueh 呂佳學",None,sfclicrec.asp?p=106020,AFE990,http://www.sfc.hk/publicregWeb/indi/AFE990/licenceRecord,,M,RO,2015-12-16,2017-04-12
+"Sun, Weshiang 孫尉翔",None,sfclicrec.asp?p=125264,AQY832,http://www.sfc.hk/publicregWeb/indi/AQY832/licenceRecord,,,RO,2015-04-14,
+"Wong, Kwok Wai (SFC:AOY613) 黃國威",None,sfclicrec.asp?p=75255,AOY613,http://www.sfc.hk/publicregWeb/indi/AOY613/licenceRecord,,,Rep,2015-09-24,2016-06-30
+"Wong, Kwok Wai (SFC:AOY613) 黃國威",None,sfclicrec.asp?p=75255,AOY613,http://www.sfc.hk/publicregWeb/indi/AOY613/licenceRecord,,,RO,2018-06-27,

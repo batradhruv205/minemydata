@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bao, Quan 包全",sfclicrec.asp?p=67800,,,RO,2015-06-02,
-"Cheung, Angela On Ki 張安琪",sfclicrec.asp?p=107619,,F,Rep,2019-07-17,
-"Chow, Sik Hong 周鍚康",sfclicrec.asp?p=11668827,,,Rep,2018-07-16,
-"Chu, Kar Son 朱嘉迅",sfclicrec.asp?p=129586,,,Rep,2015-08-19,2016-10-21
-"Koo, Siu Kong 顧兆光",sfclicrec.asp?p=12073050,,,Rep,2017-10-19,
-"Kwong, Henry Yuk Ho 鄺鋈豪",sfclicrec.asp?p=95735,,M,RO,2015-06-02,2018-06-09
-"Li, Ho Fung 李可鋒",sfclicrec.asp?p=1927652,,,Rep,2015-09-18,2017-07-14
-"Li, Ho Fung 李可鋒",sfclicrec.asp?p=1927652,,,Rep,2017-09-22,2018-07-16
-"Ngai, Ting Yuen 魏庭萱",sfclicrec.asp?p=67804,,,RO,2018-08-17,
-"Wei, Zhiqiang (SFC:AXN293) 魏志強",sfclicrec.asp?p=81712,,,Rep,2018-06-01,
-"Yang, Xue (SFC:BJR080) 楊雪",sfclicrec.asp?p=11679608,,,Rep,2018-07-16,2019-05-31
-"Zhang, Miao (SFC:BOX399) 張淼",sfclicrec.asp?p=23923427,,,Rep,2019-11-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bao, Quan 包全",None,sfclicrec.asp?p=67800,APX218,http://www.sfc.hk/publicregWeb/indi/APX218/licenceRecord,,,RO,6/2/2015,
+"Cheung, Angela On Ki 張安琪",None,sfclicrec.asp?p=107619,AFT714,http://www.sfc.hk/publicregWeb/indi/AFT714/licenceRecord,,F,Rep,7/17/2019,
+"Chow, Sik Hong 周鍚康",None,sfclicrec.asp?p=11668827,BJQ189,http://www.sfc.hk/publicregWeb/indi/BJQ189/licenceRecord,,,Rep,7/16/2018,
+"Chu, Kar Son 朱嘉迅",None,sfclicrec.asp?p=129586,AUZ444,http://www.sfc.hk/publicregWeb/indi/AUZ444/licenceRecord,,,Rep,8/19/2015,10/21/2016
+"Koo, Siu Kong 顧兆光",None,sfclicrec.asp?p=12073050,BJY470,http://www.sfc.hk/publicregWeb/indi/BJY470/licenceRecord,,,Rep,10/19/2017,
+"Kwong, Henry Yuk Ho 鄺鋈豪",None,sfclicrec.asp?p=95735,ABQ819,http://www.sfc.hk/publicregWeb/indi/ABQ819/licenceRecord,,M,RO,6/2/2015,6/9/2018
+"Li, Ho Fung 李可鋒",None,sfclicrec.asp?p=1927652,AZS874,http://www.sfc.hk/publicregWeb/indi/AZS874/licenceRecord,,,Rep,9/18/2015,7/14/2017
+"Li, Ho Fung 李可鋒",None,sfclicrec.asp?p=1927652,AZS874,http://www.sfc.hk/publicregWeb/indi/AZS874/licenceRecord,,,Rep,9/22/2017,7/16/2018
+"Ngai, Ting Yuen 魏庭萱",None,sfclicrec.asp?p=67804,ACI584,http://www.sfc.hk/publicregWeb/indi/ACI584/licenceRecord,,,RO,8/17/2018,
+"Wei, Zhiqiang (SFC:AXN293) 魏志強",None,sfclicrec.asp?p=81712,AXN293,http://www.sfc.hk/publicregWeb/indi/AXN293/licenceRecord,,,Rep,6/1/2018,
+"Yang, Xue (SFC:BJR080) 楊雪",None,sfclicrec.asp?p=11679608,BJR080,http://www.sfc.hk/publicregWeb/indi/BJR080/licenceRecord,,,Rep,7/16/2018,5/31/2019
+"Zhang, Miao (SFC:BOX399) 張淼",None,sfclicrec.asp?p=23923427,BOX399,http://www.sfc.hk/publicregWeb/indi/BOX399/licenceRecord,,,Rep,11/19/2019,

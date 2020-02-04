@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Kai Ming (SFC:AAF505) 鄭啟明",sfclicrec.asp?p=101124,,,Rep,,
-"Cheung, Wai (SFC:AAB543) 章惠",sfclicrec.asp?p=100689,,,Rep,,
-"Chow, Koon Yim 周冠炎",sfclicrec.asp?p=100690,,,Rep,,
-"Hung, Hing Shiu 孔慶兆",sfclicrec.asp?p=101987,,,Rep,,
-"Kam, Lai Hing 甘麗卿",sfclicrec.asp?p=101108,,,Rep,,
-"Lai, Yuen Ki 黎苑姬",sfclicrec.asp?p=102173,,,Rep,,
-"Lam, Pak Hung 林伯雄",sfclicrec.asp?p=100692,,M,Rep,,2016-08-31
-"Lau, Pui Ching 劉佩貞",sfclicrec.asp?p=100935,,,Rep,,2019-05-15
-"Law, Mimi Chen Fon 羅倩舫",sfclicrec.asp?p=101953,,F,Rep,,
-"Ng, Ping Chu 伍秉柱",sfclicrec.asp?p=100686,,M,RO,,
-"Ng, Siu Cheung (SFC:ABM323) 伍兆祥",sfclicrec.asp?p=102088,,,RO,,
-"Ng, Yvonne Wai Yi 伍慧頤",sfclicrec.asp?p=102238,,F,RO,,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Kai Ming (SFC:AAF505) 鄭啟明",None,sfclicrec.asp?p=101124,AAF505,http://www.sfc.hk/publicregWeb/indi/AAF505/licenceRecord,,,Rep,,
+"Cheung, Wai (SFC:AAB543) 章惠",None,sfclicrec.asp?p=100689,AAB543,http://www.sfc.hk/publicregWeb/indi/AAB543/licenceRecord,,,Rep,,
+"Chow, Koon Yim 周冠炎",None,sfclicrec.asp?p=100690,AAB546,http://www.sfc.hk/publicregWeb/indi/AAB546/licenceRecord,,,Rep,,
+"Hung, Hing Shiu 孔慶兆",None,sfclicrec.asp?p=101987,ABG619,http://www.sfc.hk/publicregWeb/indi/ABG619/licenceRecord,,,Rep,,
+"Kam, Lai Hing 甘麗卿",None,sfclicrec.asp?p=101108,AAF387,http://www.sfc.hk/publicregWeb/indi/AAF387/licenceRecord,,,Rep,,
+"Lai, Yuen Ki 黎苑姬",None,sfclicrec.asp?p=102173,ABN793,http://www.sfc.hk/publicregWeb/indi/ABN793/licenceRecord,,,Rep,,
+"Lam, Pak Hung 林伯雄",None,sfclicrec.asp?p=100692,AAB549,http://www.sfc.hk/publicregWeb/indi/AAB549/licenceRecord,,M,Rep,,2016-08-31
+"Lau, Pui Ching 劉佩貞",None,sfclicrec.asp?p=100935,AAD745,http://www.sfc.hk/publicregWeb/indi/AAD745/licenceRecord,,,Rep,,2019-05-15
+"Law, Mimi Chen Fon 羅倩舫",None,sfclicrec.asp?p=101953,ABF656,http://www.sfc.hk/publicregWeb/indi/ABF656/licenceRecord,,F,Rep,,
+"Ng, Ping Chu 伍秉柱",None,sfclicrec.asp?p=100686,AAB520,http://www.sfc.hk/publicregWeb/indi/AAB520/licenceRecord,,M,RO,,
+"Ng, Siu Cheung (SFC:ABM323) 伍兆祥",None,sfclicrec.asp?p=102088,ABM323,http://www.sfc.hk/publicregWeb/indi/ABM323/licenceRecord,,,RO,,
+"Ng, Yvonne Wai Yi 伍慧頤",None,sfclicrec.asp?p=102238,ABQ843,http://www.sfc.hk/publicregWeb/indi/ABQ843/licenceRecord,,F,RO,,

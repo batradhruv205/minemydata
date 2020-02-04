@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Hiu Kwong 陳曉光",sfclicrec.asp?p=11781196,,,Rep,2018-11-09,
-"Du, Haomin 杜昊旻",sfclicrec.asp?p=2707094,,,Rep,2018-12-27,2019-04-26
-"Fang, Sixin 方思鑫",sfclicrec.asp?p=10944570,,,Rep,2017-05-25,2018-05-11
-"Huang, Qian (SFC:BGZ717) 黃倩",sfclicrec.asp?p=2596595,,,RO,2016-06-23,
-"Wen, Jia 文佳",sfclicrec.asp?p=2492522,,,Rep,2016-12-01,2018-10-26
-"Wu, Peimin 吳佩珉",sfclicrec.asp?p=2596596,,,RO,2016-06-23,
-"Zhu, Dawen 朱達文",sfclicrec.asp?p=132626,,,Rep,2017-05-31,2018-08-03
-"Zhu, Dawen 朱達文",sfclicrec.asp?p=132626,,,RO,2018-08-03,2018-10-22
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Hiu Kwong 陳曉光",None,sfclicrec.asp?p=11781196,BDO422,http://www.sfc.hk/publicregWeb/indi/BDO422/licenceRecord,,,Rep,2018-11-09,
+"Du, Haomin 杜昊旻",None,sfclicrec.asp?p=2707094,BIW266,http://www.sfc.hk/publicregWeb/indi/BIW266/licenceRecord,,,Rep,2018-12-27,2019-04-26
+"Fang, Sixin 方思鑫",None,sfclicrec.asp?p=10944570,BJI163,http://www.sfc.hk/publicregWeb/indi/BJI163/licenceRecord,,,Rep,2017-05-25,2018-05-11
+"Huang, Qian (SFC:BGZ717) 黃倩",None,sfclicrec.asp?p=2596595,BGZ717,http://www.sfc.hk/publicregWeb/indi/BGZ717/licenceRecord,,,RO,2016-06-23,
+"Wen, Jia 文佳",None,sfclicrec.asp?p=2492522,BGH365,http://www.sfc.hk/publicregWeb/indi/BGH365/licenceRecord,,,Rep,2016-12-01,2018-10-26
+"Wu, Peimin 吳佩珉",None,sfclicrec.asp?p=2596596,BGZ718,http://www.sfc.hk/publicregWeb/indi/BGZ718/licenceRecord,,,RO,2016-06-23,
+"Zhu, Dawen 朱達文",None,sfclicrec.asp?p=132626,AYF494,http://www.sfc.hk/publicregWeb/indi/AYF494/licenceRecord,,,Rep,2017-05-31,2018-08-03
+"Zhu, Dawen 朱達文",None,sfclicrec.asp?p=132626,AYF494,http://www.sfc.hk/publicregWeb/indi/AYF494/licenceRecord,,,RO,2018-08-03,2018-10-22

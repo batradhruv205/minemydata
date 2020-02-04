@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Ho Kin (SFC:ANT708) 陳豪健",sfclicrec.asp?p=88229,,,Rep,2018-02-23,
-"Chau, Yau Sing 周佑旌",sfclicrec.asp?p=2180752,,,Rep,2017-02-22,2019-06-10
-"Chen, Yanfeng 陳雁丰",sfclicrec.asp?p=11669871,,,Rep,2018-02-14,2020-01-06
-"Chung, Cheuk Lam 鍾焯林",sfclicrec.asp?p=2588874,,,Rep,2018-09-06,2019-03-28
-"Fung, Hong Fai 馮康輝",sfclicrec.asp?p=23469104,,,Rep,2019-07-24,2019-08-01
-"Lam, Cheong Wing 林昌熲",sfclicrec.asp?p=12103654,,,Rep,2017-10-06,2018-06-17
-"Leung, Kong Fai 梁港輝",sfclicrec.asp?p=130019,,,Rep,2018-10-24,
-"Ng, Frederick Chee Hung 吳棋鴻",sfclicrec.asp?p=85660,65,M,RO,2018-05-04,2018-10-12
-"Tso, Kai Hong 曹啟康",sfclicrec.asp?p=1961443,,,Rep,2018-09-06,2019-06-21
-"Wong, Chi Ching (SFC:ANY418) 黃持正",sfclicrec.asp?p=119676,,,RO,2016-12-21,2019-08-01
-"Yang, Wenhuan 楊文桓",sfclicrec.asp?p=85666,,,RO,2016-12-21,
-"Yung, Yu Shing 容宇晟",sfclicrec.asp?p=79116,,,Rep,2019-10-30,
-"Zheng, Xiaorong 郑晓嵘",sfclicrec.asp?p=2712007,,,Rep,2017-03-14,2018-04-24
-"Zheng, Xiaorong 郑晓嵘",sfclicrec.asp?p=2712007,,,RO,2018-04-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Ho Kin (SFC:ANT708) 陳豪健",None,sfclicrec.asp?p=88229,ANT708,http://www.sfc.hk/publicregWeb/indi/ANT708/licenceRecord,,,Rep,2018-02-23,
+"Chau, Yau Sing 周佑旌",None,sfclicrec.asp?p=2180752,BCJ620,http://www.sfc.hk/publicregWeb/indi/BCJ620/licenceRecord,,,Rep,2017-02-22,2019-06-10
+"Chen, Yanfeng 陳雁丰",None,sfclicrec.asp?p=11669871,BJT162,http://www.sfc.hk/publicregWeb/indi/BJT162/licenceRecord,,,Rep,2018-02-14,2020-01-06
+"Chung, Cheuk Lam 鍾焯林",None,sfclicrec.asp?p=2588874,BHL816,http://www.sfc.hk/publicregWeb/indi/BHL816/licenceRecord,,,Rep,2018-09-06,2019-03-28
+"Fung, Hong Fai 馮康輝",None,sfclicrec.asp?p=23469104,BOP583,http://www.sfc.hk/publicregWeb/indi/BOP583/licenceRecord,,,Rep,2019-07-24,2019-08-01
+"Lam, Cheong Wing 林昌熲",None,sfclicrec.asp?p=12103654,BKE038,http://www.sfc.hk/publicregWeb/indi/BKE038/licenceRecord,,,Rep,2017-10-06,2018-06-17
+"Leung, Kong Fai 梁港輝",None,sfclicrec.asp?p=130019,AVM522,http://www.sfc.hk/publicregWeb/indi/AVM522/licenceRecord,,,Rep,2018-10-24,
+"Ng, Frederick Chee Hung 吳棋鴻",None,sfclicrec.asp?p=85660,AND332,http://www.sfc.hk/publicregWeb/indi/AND332/licenceRecord,65.0,M,RO,2018-05-04,2018-10-12
+"Tso, Kai Hong 曹啟康",None,sfclicrec.asp?p=1961443,BAD450,http://www.sfc.hk/publicregWeb/indi/BAD450/licenceRecord,,,Rep,2018-09-06,2019-06-21
+"Wong, Chi Ching (SFC:ANY418) 黃持正",None,sfclicrec.asp?p=119676,ANY418,http://www.sfc.hk/publicregWeb/indi/ANY418/licenceRecord,,,RO,2016-12-21,2019-08-01
+"Yang, Wenhuan 楊文桓",None,sfclicrec.asp?p=85666,ALL166,http://www.sfc.hk/publicregWeb/indi/ALL166/licenceRecord,,,RO,2016-12-21,
+"Yung, Yu Shing 容宇晟",None,sfclicrec.asp?p=79116,ATB835,http://www.sfc.hk/publicregWeb/indi/ATB835/licenceRecord,,,Rep,2019-10-30,
+"Zheng, Xiaorong 郑晓嵘",None,sfclicrec.asp?p=2712007,BJB937,http://www.sfc.hk/publicregWeb/indi/BJB937/licenceRecord,,,Rep,2017-03-14,2018-04-24
+"Zheng, Xiaorong 郑晓嵘",None,sfclicrec.asp?p=2712007,BJB937,http://www.sfc.hk/publicregWeb/indi/BJB937/licenceRecord,,,RO,2018-04-24,

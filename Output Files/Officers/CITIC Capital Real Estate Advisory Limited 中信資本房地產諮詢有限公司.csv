@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ching, Hiu Yuen 程驍遠",sfclicrec.asp?p=107956,,,RO,2010-08-04,
-"Choi, Yuk Kit (SFC:AHV026) 蔡育杰",sfclicrec.asp?p=111641,,,RO,2010-08-04,
-"Miao, Miao 繆妙",sfclicrec.asp?p=118051,,,Rep,2010-09-01,2016-03-28
-"Tam, Chiu Yung (SFC:AQN541) 譚肖容",sfclicrec.asp?p=124465,,,Rep,2010-09-01,2017-02-28
-"Wang, Xin (SFC:AVV240) 王欣",sfclicrec.asp?p=130267,,,Rep,2010-11-02,
-"Yam, Jiman Chi Man 任志民",sfclicrec.asp?p=111642,,,Rep,2010-09-01,2014-03-28
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ching, Hiu Yuen 程驍遠",None,sfclicrec.asp?p=107956,AFX056,http://www.sfc.hk/publicregWeb/indi/AFX056/licenceRecord,,,RO,2010-08-04,
+"Choi, Yuk Kit (SFC:AHV026) 蔡育杰",None,sfclicrec.asp?p=111641,AHV026,http://www.sfc.hk/publicregWeb/indi/AHV026/licenceRecord,,,RO,2010-08-04,
+"Miao, Miao 繆妙",None,sfclicrec.asp?p=118051,AND967,http://www.sfc.hk/publicregWeb/indi/AND967/licenceRecord,,,Rep,2010-09-01,2016-03-28
+"Tam, Chiu Yung (SFC:AQN541) 譚肖容",None,sfclicrec.asp?p=124465,AQN541,http://www.sfc.hk/publicregWeb/indi/AQN541/licenceRecord,,,Rep,2010-09-01,2017-02-28
+"Wang, Xin (SFC:AVV240) 王欣",None,sfclicrec.asp?p=130267,AVV240,http://www.sfc.hk/publicregWeb/indi/AVV240/licenceRecord,,,Rep,2010-11-02,
+"Yam, Jiman Chi Man 任志民",None,sfclicrec.asp?p=111642,AHV031,http://www.sfc.hk/publicregWeb/indi/AHV031/licenceRecord,,,Rep,2010-09-01,2014-03-28

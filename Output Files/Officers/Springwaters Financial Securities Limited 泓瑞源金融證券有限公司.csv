@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Man Yuen (SFC:APX122) 陳文源",sfclicrec.asp?p=83637,,,RO,2019-03-11,
-"Sam, Chi Yung 岑智勇",sfclicrec.asp?p=79659,,,RO,2019-03-11,2019-12-31
-"Sum, Poon Yun 岑本訢",sfclicrec.asp?p=104626,,M,RO,2019-03-11,2019-06-25
-"Wong, David Che Hao 黃志豪",sfclicrec.asp?p=100033,,M,RO,2019-06-28,
-"Wong, Dorothy Wai Han 黃慧嫻",sfclicrec.asp?p=107500,,F,RO,2019-03-11,2019-07-02
-"Woo, Peter Pui-Ngai 吳培毅",sfclicrec.asp?p=68881,,M,RO,2019-09-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Man Yuen (SFC:APX122) 陳文源",None,sfclicrec.asp?p=83637,APX122,http://www.sfc.hk/publicregWeb/indi/APX122/licenceRecord,,,RO,2019-03-11,
+"Sam, Chi Yung 岑智勇",None,sfclicrec.asp?p=79659,APR850,http://www.sfc.hk/publicregWeb/indi/APR850/licenceRecord,,,RO,2019-03-11,2019-12-31
+"Sum, Poon Yun 岑本訢",None,sfclicrec.asp?p=104626,AED718,http://www.sfc.hk/publicregWeb/indi/AED718/licenceRecord,,M,RO,2019-03-11,2019-06-25
+"Wong, David Che Hao 黃志豪",None,sfclicrec.asp?p=100033,AIY651,http://www.sfc.hk/publicregWeb/indi/AIY651/licenceRecord,,M,RO,2019-06-28,
+"Wong, Dorothy Wai Han 黃慧嫻",None,sfclicrec.asp?p=107500,AFS777,http://www.sfc.hk/publicregWeb/indi/AFS777/licenceRecord,,F,RO,2019-03-11,2019-07-02
+"Woo, Peter Pui-Ngai 吳培毅",None,sfclicrec.asp?p=68881,ACY383,http://www.sfc.hk/publicregWeb/indi/ACY383/licenceRecord,,M,RO,2019-09-19,

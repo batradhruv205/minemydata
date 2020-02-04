@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lau, Thomas Chi Yin 劉志賢",sfclicrec.asp?p=111417,62,M,RO,2005-03-31,
-"Lee, Maurice Wai Man (SFC:AEK543) 李偉民",sfclicrec.asp?p=104917,,M,RO,2005-03-31,
-"Shum, Kevin Chung Kiu 岑宗橋",sfclicrec.asp?p=119703,,M,Rep,2006-11-13,2007-10-31
-"Wong, Anna Wai Kwan 黃慧群",sfclicrec.asp?p=59156,,F,Rep,2013-12-03,2014-01-02
-"Wong, Anna Wai Kwan 黃慧群",sfclicrec.asp?p=59156,,F,RO,2014-01-02,2017-02-16
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lau, Thomas Chi Yin 劉志賢",None,sfclicrec.asp?p=111417,AHP755,http://www.sfc.hk/publicregWeb/indi/AHP755/licenceRecord,62.0,M,RO,2005-03-31,
+"Lee, Maurice Wai Man (SFC:AEK543) 李偉民",None,sfclicrec.asp?p=104917,AEK543,http://www.sfc.hk/publicregWeb/indi/AEK543/licenceRecord,,M,RO,2005-03-31,
+"Shum, Kevin Chung Kiu 岑宗橋",None,sfclicrec.asp?p=119703,ANZ639,http://www.sfc.hk/publicregWeb/indi/ANZ639/licenceRecord,,M,Rep,2006-11-13,2007-10-31
+"Wong, Anna Wai Kwan 黃慧群",None,sfclicrec.asp?p=59156,ATI146,http://www.sfc.hk/publicregWeb/indi/ATI146/licenceRecord,,F,Rep,2013-12-03,2014-01-02
+"Wong, Anna Wai Kwan 黃慧群",None,sfclicrec.asp?p=59156,ATI146,http://www.sfc.hk/publicregWeb/indi/ATI146/licenceRecord,,F,RO,2014-01-02,2017-02-16

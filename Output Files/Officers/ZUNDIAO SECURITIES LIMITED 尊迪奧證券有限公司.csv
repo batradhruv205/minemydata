@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chau, Kin Sun 鄒健燊",sfclicrec.asp?p=72927,,,RO,2019-05-14,
-"Chen, Kim Ching 陳錦清",sfclicrec.asp?p=82112,,,RO,2018-09-03,2019-03-01
-"Cheng, Ho Cheong 鄭顥鏘",sfclicrec.asp?p=22348612,,,Rep,2019-07-25,
-"Chung, Man Ho 鍾文浩",sfclicrec.asp?p=2351522,,,Rep,2019-02-08,
-"Kok, Sen Kan 郭慎勤",sfclicrec.asp?p=128905,,,RO,2018-09-03,2019-05-17
-"Leung, Wing Ho (SFC:BFN867) 梁穎豪",sfclicrec.asp?p=2435875,,,Rep,2019-09-10,2019-12-31
-"Mak, Cheuk Man (SFC:BKB778) 麥卓文",sfclicrec.asp?p=23441637,,,Rep,2019-07-18,
-"Yip, Chun Wai (SFC:ACP491) 葉振威",sfclicrec.asp?p=82384,,,RO,2019-03-06,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chau, Kin Sun 鄒健燊",None,sfclicrec.asp?p=72927,AQP754,http://www.sfc.hk/publicregWeb/indi/AQP754/licenceRecord,,,RO,2019-05-14,
+"Chen, Kim Ching 陳錦清",None,sfclicrec.asp?p=82112,ATC745,http://www.sfc.hk/publicregWeb/indi/ATC745/licenceRecord,,,RO,2018-09-03,2019-03-01
+"Cheng, Ho Cheong 鄭顥鏘",None,sfclicrec.asp?p=22348612,BKB947,http://www.sfc.hk/publicregWeb/indi/BKB947/licenceRecord,,,Rep,2019-07-25,
+"Chung, Man Ho 鍾文浩",None,sfclicrec.asp?p=2351522,BEM154,http://www.sfc.hk/publicregWeb/indi/BEM154/licenceRecord,,,Rep,2019-02-08,
+"Kok, Sen Kan 郭慎勤",None,sfclicrec.asp?p=128905,AUC483,http://www.sfc.hk/publicregWeb/indi/AUC483/licenceRecord,,,RO,2018-09-03,2019-05-17
+"Leung, Wing Ho (SFC:BFN867) 梁穎豪",None,sfclicrec.asp?p=2435875,BFN867,http://www.sfc.hk/publicregWeb/indi/BFN867/licenceRecord,,,Rep,2019-09-10,2019-12-31
+"Mak, Cheuk Man (SFC:BKB778) 麥卓文",None,sfclicrec.asp?p=23441637,BKB778,http://www.sfc.hk/publicregWeb/indi/BKB778/licenceRecord,,,Rep,2019-07-18,
+"Yip, Chun Wai (SFC:ACP491) 葉振威",None,sfclicrec.asp?p=82384,ACP491,http://www.sfc.hk/publicregWeb/indi/ACP491/licenceRecord,,,RO,2019-03-06,

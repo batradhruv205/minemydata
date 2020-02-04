@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, May Kit Sum 陳潔心",sfclicrec.asp?p=70904,,F,Rep,,2003-08-20
-"Chang, Johnson Francis Chu Fai 鄭鑄輝",sfclicrec.asp?p=16259,66,M,RO,,2008-12-10
-"Lo, Stephen Wing Tai 盧永泰",sfclicrec.asp?p=103017,,M,Rep,2003-05-07,2004-03-26
-"Mok, Jinny Yi Han 莫綺嫻",sfclicrec.asp?p=58034,,F,RO,2007-05-16,
-"Moy, Frank Kun Yin 梅冠賢",sfclicrec.asp?p=16262,,M,RO,,
-"Zheng, Qingfeng 鄭卿鳳",sfclicrec.asp?p=108002,,,Rep,,2003-07-01
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, May Kit Sum 陳潔心",None,sfclicrec.asp?p=70904,AHN869,http://www.sfc.hk/publicregWeb/indi/AHN869/licenceRecord,,F,Rep,,2003-08-20
+"Chang, Johnson Francis Chu Fai 鄭鑄輝",None,sfclicrec.asp?p=16259,ABG259,http://www.sfc.hk/publicregWeb/indi/ABG259/licenceRecord,66.0,M,RO,,2008-12-10
+"Lo, Stephen Wing Tai 盧永泰",None,sfclicrec.asp?p=103017,ACM835,http://www.sfc.hk/publicregWeb/indi/ACM835/licenceRecord,,M,Rep,2003-05-07,2004-03-26
+"Mok, Jinny Yi Han 莫綺嫻",None,sfclicrec.asp?p=58034,ABV647,http://www.sfc.hk/publicregWeb/indi/ABV647/licenceRecord,,F,RO,2007-05-16,
+"Moy, Frank Kun Yin 梅冠賢",None,sfclicrec.asp?p=16262,AHN883,http://www.sfc.hk/publicregWeb/indi/AHN883/licenceRecord,,M,RO,,
+"Zheng, Qingfeng 鄭卿鳳",None,sfclicrec.asp?p=108002,AFY048,http://www.sfc.hk/publicregWeb/indi/AFY048/licenceRecord,,,Rep,,2003-07-01

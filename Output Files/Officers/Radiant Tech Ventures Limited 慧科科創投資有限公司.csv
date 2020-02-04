@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chow, Ching Ning 周政寧",sfclicrec.asp?p=109517,52,M,RO,2017-07-13,
-"Yang, Yue (SFC:BFS327) ",sfclicrec.asp?p=2441778,,,Rep,2017-07-14,
-"Yen, Gordon 嚴震銘",sfclicrec.asp?p=18775,50,M,RO,2017-07-13,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chow, Ching Ning 周政寧",None,sfclicrec.asp?p=109517,AGN609,http://www.sfc.hk/publicregWeb/indi/AGN609/licenceRecord,52.0,M,RO,2017-07-13,
+"Yang, Yue (SFC:BFS327) ",None,sfclicrec.asp?p=2441778,BFS327,http://www.sfc.hk/publicregWeb/indi/BFS327/licenceRecord,,,Rep,2017-07-14,
+"Yen, Gordon 嚴震銘",None,sfclicrec.asp?p=18775,AFB837,http://www.sfc.hk/publicregWeb/indi/AFB837/licenceRecord,50.0,M,RO,2017-07-13,

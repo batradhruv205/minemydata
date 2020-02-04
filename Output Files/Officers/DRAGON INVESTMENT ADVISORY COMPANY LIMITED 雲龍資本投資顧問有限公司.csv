@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Danhua 陳丹華",sfclicrec.asp?p=133335,52,M,Rep,2017-11-28,2018-09-27
-"Chen, Sijia (SFC:BBU918) 陳思嘉",sfclicrec.asp?p=2142504,,,Rep,2017-04-21,2018-08-31
-"Han, Can 韓璨",sfclicrec.asp?p=22397300,,,Rep,2018-11-06,
-"Tsao, Thomas Shui Cheong 曹瑞昌",sfclicrec.asp?p=72236,,M,RO,2016-09-27,
-"Wu, Nelson Chi Chung 胡智聰",sfclicrec.asp?p=1922274,,M,RO,2016-09-27,2020-01-03
-"Zhai, Jun (SFC:AEW118) 翟雋",sfclicrec.asp?p=86183,,,RO,2016-09-27,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Danhua 陳丹華",None,sfclicrec.asp?p=133335,AFG448,http://www.sfc.hk/publicregWeb/indi/AFG448/licenceRecord,52.0,M,Rep,2017-11-28,2018-09-27
+"Chen, Sijia (SFC:BBU918) 陳思嘉",None,sfclicrec.asp?p=2142504,BBU918,http://www.sfc.hk/publicregWeb/indi/BBU918/licenceRecord,,,Rep,2017-04-21,2018-08-31
+"Han, Can 韓璨",None,sfclicrec.asp?p=22397300,BNO977,http://www.sfc.hk/publicregWeb/indi/BNO977/licenceRecord,,,Rep,2018-11-06,
+"Tsao, Thomas Shui Cheong 曹瑞昌",None,sfclicrec.asp?p=72236,AXD568,http://www.sfc.hk/publicregWeb/indi/AXD568/licenceRecord,,M,RO,2016-09-27,
+"Wu, Nelson Chi Chung 胡智聰",None,sfclicrec.asp?p=1922274,AZR638,http://www.sfc.hk/publicregWeb/indi/AZR638/licenceRecord,,M,RO,2016-09-27,2020-01-03
+"Zhai, Jun (SFC:AEW118) 翟雋",None,sfclicrec.asp?p=86183,AEW118,http://www.sfc.hk/publicregWeb/indi/AEW118/licenceRecord,,,RO,2016-09-27,

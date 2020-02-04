@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au-Yeung, Kin Hang (SFC:ACV027) 歐陽健恒",sfclicrec.asp?p=103361,,,RO,2018-06-06,
-"Chan, Vincent Kim Ming 陳劍明",sfclicrec.asp?p=95390,,M,Rep,2018-07-04,2018-11-28
-"Chan, Vincent Kim Ming 陳劍明",sfclicrec.asp?p=95390,,M,RO,2018-11-28,
-"Cheung, Henry Ka Wong 張家煌",sfclicrec.asp?p=105571,,M,RO,2018-06-06,
-"Wong, Ching Yi (SFC:BIE418) 王靜怡",sfclicrec.asp?p=2642489,,,Rep,2018-10-31,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au-Yeung, Kin Hang (SFC:ACV027) 歐陽健恒",None,sfclicrec.asp?p=103361,ACV027,http://www.sfc.hk/publicregWeb/indi/ACV027/licenceRecord,,,RO,2018-06-06,
+"Chan, Vincent Kim Ming 陳劍明",None,sfclicrec.asp?p=95390,ABI373,http://www.sfc.hk/publicregWeb/indi/ABI373/licenceRecord,,M,Rep,2018-07-04,2018-11-28
+"Chan, Vincent Kim Ming 陳劍明",None,sfclicrec.asp?p=95390,ABI373,http://www.sfc.hk/publicregWeb/indi/ABI373/licenceRecord,,M,RO,2018-11-28,
+"Cheung, Henry Ka Wong 張家煌",None,sfclicrec.asp?p=105571,AEX566,http://www.sfc.hk/publicregWeb/indi/AEX566/licenceRecord,,M,RO,2018-06-06,
+"Wong, Ching Yi (SFC:BIE418) 王靜怡",None,sfclicrec.asp?p=2642489,BIE418,http://www.sfc.hk/publicregWeb/indi/BIE418/licenceRecord,,,Rep,2018-10-31,

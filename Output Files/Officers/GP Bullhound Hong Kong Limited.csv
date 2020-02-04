@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Campbell, Hugh Alastair (SFC:BLU981) ",sfclicrec.asp?p=22082149,,M,RO,2018-06-01,2018-11-30
-"Chan, Lung Sang (SFC:AUA794) 陳龍生",sfclicrec.asp?p=68710,,,Rep,2019-06-21,2019-08-16
-"Chan, Lung Sang (SFC:AUA794) 陳龍生",sfclicrec.asp?p=68710,,,RO,2019-08-16,
-"Hu, Ruanjia 胡阮佳",sfclicrec.asp?p=1869795,,,Rep,2018-08-20,2018-11-30
-"Hu, Ruanjia 胡阮佳",sfclicrec.asp?p=1869795,,,RO,2018-11-30,
-"Lindtorp, Per Johan ",sfclicrec.asp?p=22082150,,M,RO,2018-06-01,2019-08-30
-"Wei, Yangkun 魏揚坤",sfclicrec.asp?p=2629317,,,Rep,2019-01-23,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Campbell, Hugh Alastair (SFC:BLU981) ",None,sfclicrec.asp?p=22082149,BLU981,http://www.sfc.hk/publicregWeb/indi/BLU981/licenceRecord,,M,RO,2018-06-01,2018-11-30
+"Chan, Lung Sang (SFC:AUA794) 陳龍生",None,sfclicrec.asp?p=68710,AUA794,http://www.sfc.hk/publicregWeb/indi/AUA794/licenceRecord,,,Rep,2019-06-21,2019-08-16
+"Chan, Lung Sang (SFC:AUA794) 陳龍生",None,sfclicrec.asp?p=68710,AUA794,http://www.sfc.hk/publicregWeb/indi/AUA794/licenceRecord,,,RO,2019-08-16,
+"Hu, Ruanjia 胡阮佳",None,sfclicrec.asp?p=1869795,AZC807,http://www.sfc.hk/publicregWeb/indi/AZC807/licenceRecord,,,Rep,2018-08-20,2018-11-30
+"Hu, Ruanjia 胡阮佳",None,sfclicrec.asp?p=1869795,AZC807,http://www.sfc.hk/publicregWeb/indi/AZC807/licenceRecord,,,RO,2018-11-30,
+"Lindtorp, Per Johan ",None,sfclicrec.asp?p=22082150,BLV184,http://www.sfc.hk/publicregWeb/indi/BLV184/licenceRecord,,M,RO,2018-06-01,2019-08-30
+"Wei, Yangkun 魏揚坤",None,sfclicrec.asp?p=2629317,BID176,http://www.sfc.hk/publicregWeb/indi/BID176/licenceRecord,,,Rep,2019-01-23,

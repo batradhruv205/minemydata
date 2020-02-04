@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Kan, Don Lap Hung 簡立雄",sfclicrec.asp?p=99072,,,RO,2018-06-21,2019-08-30
-"Shen, Zheqing 沈哲清",sfclicrec.asp?p=69782,41,M,RO,2019-07-12,
-"Wong, Sony Siu Keung 黃紹強",sfclicrec.asp?p=92593,,,RO,2018-06-21,2019-10-25
-"Yu, Andrew Chi Chiu 余志超",sfclicrec.asp?p=49368,,M,RO,2019-07-12,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Kan, Don Lap Hung 簡立雄",None,sfclicrec.asp?p=99072,AJI408,http://www.sfc.hk/publicregWeb/indi/AJI408/licenceRecord,,,RO,2018-06-21,2019-08-30
+"Shen, Zheqing 沈哲清",None,sfclicrec.asp?p=69782,ANQ750,http://www.sfc.hk/publicregWeb/indi/ANQ750/licenceRecord,41.0,M,RO,2019-07-12,
+"Wong, Sony Siu Keung 黃紹強",None,sfclicrec.asp?p=92593,ALE802,http://www.sfc.hk/publicregWeb/indi/ALE802/licenceRecord,,,RO,2018-06-21,2019-10-25
+"Yu, Andrew Chi Chiu 余志超",None,sfclicrec.asp?p=49368,AGI481,http://www.sfc.hk/publicregWeb/indi/AGI481/licenceRecord,,M,RO,2019-07-12,

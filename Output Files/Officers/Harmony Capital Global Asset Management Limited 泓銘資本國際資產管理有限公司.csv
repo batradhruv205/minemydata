@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Guo, Ying (SFC:BEW199) 郭瀅",sfclicrec.asp?p=2374523,40,F,Rep,2017-01-18,2018-02-28
-"Guo, Ying (SFC:BEW199) 郭瀅",sfclicrec.asp?p=2374523,40,F,RO,2018-02-28,
-"Li, Min (SFC:AXL019) 李敏",sfclicrec.asp?p=67591,,F,RO,2016-11-16,2018-03-29
-"Song, Mengjie 宋夢婕",sfclicrec.asp?p=98785,,,Rep,2017-05-23,2018-08-17
-"Wang, Can (SFC:BLV227) 王灿",sfclicrec.asp?p=22343378,,,RO,2018-10-23,
-"Wang, Dan (SFC:BLO228) 王丹",sfclicrec.asp?p=12601224,,,Rep,2017-11-27,
-"Wang, Shizhen (SFC:AWK324) 王士振",sfclicrec.asp?p=79690,,,Rep,2018-02-02,2019-08-12
-"Xu, Qing (SFC:BIY244) 徐青",sfclicrec.asp?p=2687041,,,Rep,2017-01-17,2018-10-31
-"Yang, Dong (SFC:APR493) 楊棟",sfclicrec.asp?p=96015,,,RO,2016-11-16,2018-07-15
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Guo, Ying (SFC:BEW199) 郭瀅",None,sfclicrec.asp?p=2374523,BEW199,http://www.sfc.hk/publicregWeb/indi/BEW199/licenceRecord,40.0,F,Rep,2017-01-18,2018-02-28
+"Guo, Ying (SFC:BEW199) 郭瀅",None,sfclicrec.asp?p=2374523,BEW199,http://www.sfc.hk/publicregWeb/indi/BEW199/licenceRecord,40.0,F,RO,2018-02-28,
+"Li, Min (SFC:AXL019) 李敏",None,sfclicrec.asp?p=67591,AXL019,http://www.sfc.hk/publicregWeb/indi/AXL019/licenceRecord,,F,RO,2016-11-16,2018-03-29
+"Song, Mengjie 宋夢婕",None,sfclicrec.asp?p=98785,AVM348,http://www.sfc.hk/publicregWeb/indi/AVM348/licenceRecord,,,Rep,2017-05-23,2018-08-17
+"Wang, Can (SFC:BLV227) 王灿",None,sfclicrec.asp?p=22343378,BLV227,http://www.sfc.hk/publicregWeb/indi/BLV227/licenceRecord,,,RO,2018-10-23,
+"Wang, Dan (SFC:BLO228) 王丹",None,sfclicrec.asp?p=12601224,BLO228,http://www.sfc.hk/publicregWeb/indi/BLO228/licenceRecord,,,Rep,2017-11-27,
+"Wang, Shizhen (SFC:AWK324) 王士振",None,sfclicrec.asp?p=79690,AWK324,http://www.sfc.hk/publicregWeb/indi/AWK324/licenceRecord,,,Rep,2018-02-02,2019-08-12
+"Xu, Qing (SFC:BIY244) 徐青",None,sfclicrec.asp?p=2687041,BIY244,http://www.sfc.hk/publicregWeb/indi/BIY244/licenceRecord,,,Rep,2017-01-17,2018-10-31
+"Yang, Dong (SFC:APR493) 楊棟",None,sfclicrec.asp?p=96015,APR493,http://www.sfc.hk/publicregWeb/indi/APR493/licenceRecord,,,RO,2016-11-16,2018-07-15

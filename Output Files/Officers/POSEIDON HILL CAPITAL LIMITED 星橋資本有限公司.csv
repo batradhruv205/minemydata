@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Chi Ho (SFC:BMB260) 陳智浩",sfclicrec.asp?p=12811185,,,Rep,2018-02-26,2019-01-31
-"Lau, Lap Kwan 劉立君",sfclicrec.asp?p=16993,69,M,RO,2017-06-27,
-"Ma, Hok Wang 馬學泓",sfclicrec.asp?p=2431855,,,RO,2018-05-10,2019-01-31
-"Tsai, Wei Ting 蔡韋葶",sfclicrec.asp?p=13696049,,,Rep,2018-04-09,2018-08-22
-"Wu, Bernard Tak Lung 吳德龍",sfclicrec.asp?p=7914,55,M,RO,2017-06-27,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Chi Ho (SFC:BMB260) 陳智浩",None,sfclicrec.asp?p=12811185,BMB260,http://www.sfc.hk/publicregWeb/indi/BMB260/licenceRecord,,,Rep,2018-02-26,2019-01-31
+"Lau, Lap Kwan 劉立君",None,sfclicrec.asp?p=16993,AEU810,http://www.sfc.hk/publicregWeb/indi/AEU810/licenceRecord,69.0,M,RO,2017-06-27,
+"Ma, Hok Wang 馬學泓",None,sfclicrec.asp?p=2431855,BFN864,http://www.sfc.hk/publicregWeb/indi/BFN864/licenceRecord,,,RO,2018-05-10,2019-01-31
+"Tsai, Wei Ting 蔡韋葶",None,sfclicrec.asp?p=13696049,BMO076,http://www.sfc.hk/publicregWeb/indi/BMO076/licenceRecord,,,Rep,2018-04-09,2018-08-22
+"Wu, Bernard Tak Lung 吳德龍",None,sfclicrec.asp?p=7914,AIR119,http://www.sfc.hk/publicregWeb/indi/AIR119/licenceRecord,55.0,M,RO,2017-06-27,

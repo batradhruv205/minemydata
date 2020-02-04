@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ahn, Changyong ",sfclicrec.asp?p=124173,,,Rep,2014-01-28,
-"Choi, Zenith Cheuk Heng 蔡卓衡",sfclicrec.asp?p=2334869,,,Rep,2014-10-21,2016-11-21
-"Choi, Zenith Cheuk Heng 蔡卓衡",sfclicrec.asp?p=2334869,,,RO,2016-11-21,2017-11-30
-"Chung, Jean Yong ",sfclicrec.asp?p=109288,,,Rep,2016-06-01,2017-05-29
-"Huang, Pei Ting 黃珮婷",sfclicrec.asp?p=63138,,,RO,2013-10-11,
-"Ng, Lawrence Man Kwan 吳萬鈞",sfclicrec.asp?p=63139,50,M,RO,2013-10-11,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ahn, Changyong ",None,sfclicrec.asp?p=124173,AQI403,http://www.sfc.hk/publicregWeb/indi/AQI403/licenceRecord,,,Rep,2014-01-28,
+"Choi, Zenith Cheuk Heng 蔡卓衡",None,sfclicrec.asp?p=2334869,BEE961,http://www.sfc.hk/publicregWeb/indi/BEE961/licenceRecord,,,Rep,2014-10-21,2016-11-21
+"Choi, Zenith Cheuk Heng 蔡卓衡",None,sfclicrec.asp?p=2334869,BEE961,http://www.sfc.hk/publicregWeb/indi/BEE961/licenceRecord,,,RO,2016-11-21,2017-11-30
+"Chung, Jean Yong ",None,sfclicrec.asp?p=109288,AGK970,http://www.sfc.hk/publicregWeb/indi/AGK970/licenceRecord,,,Rep,2016-06-01,2017-05-29
+"Huang, Pei Ting 黃珮婷",None,sfclicrec.asp?p=63138,AUB174,http://www.sfc.hk/publicregWeb/indi/AUB174/licenceRecord,,,RO,2013-10-11,
+"Ng, Lawrence Man Kwan 吳萬鈞",None,sfclicrec.asp?p=63139,AMJ867,http://www.sfc.hk/publicregWeb/indi/AMJ867/licenceRecord,50.0,M,RO,2013-10-11,

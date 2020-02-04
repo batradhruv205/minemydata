@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Gwee, Chien Suen 魏謙遜",sfclicrec.asp?p=14163360,,,Rep,2018-04-23,
-"Ho, Chun Ho 何俊昊",sfclicrec.asp?p=23631522,,,Rep,2019-09-06,
-"Kuo, Cheung 郭強",sfclicrec.asp?p=78470,,,Rep,2019-04-26,
-"Lau, Dorothy Kwok Cheung 劉幗璋",sfclicrec.asp?p=87713,,F,RO,2017-09-04,
-"Li, Kan Fung 李錦峰",sfclicrec.asp?p=87780,,,RO,2017-09-04,
-"Yao, David See Wing 姚思榮",sfclicrec.asp?p=68799,,M,RO,2017-09-04,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Gwee, Chien Suen 魏謙遜",None,sfclicrec.asp?p=14163360,ADV611,http://www.sfc.hk/publicregWeb/indi/ADV611/licenceRecord,,,Rep,2018-04-23,
+"Ho, Chun Ho 何俊昊",None,sfclicrec.asp?p=23631522,BOT522,http://www.sfc.hk/publicregWeb/indi/BOT522/licenceRecord,,,Rep,2019-09-06,
+"Kuo, Cheung 郭強",None,sfclicrec.asp?p=78470,ACZ555,http://www.sfc.hk/publicregWeb/indi/ACZ555/licenceRecord,,,Rep,2019-04-26,
+"Lau, Dorothy Kwok Cheung 劉幗璋",None,sfclicrec.asp?p=87713,AEY067,http://www.sfc.hk/publicregWeb/indi/AEY067/licenceRecord,,F,RO,2017-09-04,
+"Li, Kan Fung 李錦峰",None,sfclicrec.asp?p=87780,AMQ914,http://www.sfc.hk/publicregWeb/indi/AMQ914/licenceRecord,,,RO,2017-09-04,
+"Yao, David See Wing 姚思榮",None,sfclicrec.asp?p=68799,AOB931,http://www.sfc.hk/publicregWeb/indi/AOB931/licenceRecord,,M,RO,2017-09-04,

@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Jia, Hongrui 賈紅睿",sfclicrec.asp?p=22133631,,,RO,2019-12-19,
-"Lam, Sharon Yim 林琰",sfclicrec.asp?p=89187,,F,RO,2019-12-19,
-"Liu, Ren (SFC:AZC071) 劉韌",sfclicrec.asp?p=1888482,,,RO,2019-12-19,
-"Qiu, Zhihao 邱智豪",sfclicrec.asp?p=84526,,,RO,2019-12-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Jia, Hongrui 賈紅睿",None,sfclicrec.asp?p=22133631,BFZ382,http://www.sfc.hk/publicregWeb/indi/BFZ382/licenceRecord,,,RO,2019-12-19,
+"Lam, Sharon Yim 林琰",None,sfclicrec.asp?p=89187,AIN991,http://www.sfc.hk/publicregWeb/indi/AIN991/licenceRecord,,F,RO,2019-12-19,
+"Liu, Ren (SFC:AZC071) 劉韌",None,sfclicrec.asp?p=1888482,AZC071,http://www.sfc.hk/publicregWeb/indi/AZC071/licenceRecord,,,RO,2019-12-19,
+"Qiu, Zhihao 邱智豪",None,sfclicrec.asp?p=84526,AVB884,http://www.sfc.hk/publicregWeb/indi/AVB884/licenceRecord,,,RO,2019-12-19,

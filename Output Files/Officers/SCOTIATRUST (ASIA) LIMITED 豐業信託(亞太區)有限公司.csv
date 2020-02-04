@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Elsie Shun Yee 陳順兒",sfclicrec.asp?p=104560,,,Rep,,2004-07-07
-"Chan, Elsie Shun Yee 陳順兒",sfclicrec.asp?p=104560,,,RO,2004-07-07,2007-07-05
-"Chen, Ningning (SFC:ASQ132) 陳宁宁",sfclicrec.asp?p=90021,,,Rep,2013-05-13,2018-09-01
-"Cheng Chow, Juliana Mei Shi 周美思",sfclicrec.asp?p=111506,,F,RO,2014-06-06,2018-06-29
-"Fung, Esther Yuk Chun 馮玉珍",sfclicrec.asp?p=102171,,F,Rep,,2007-08-03
-"Gan, Jia C 干嘉琛",sfclicrec.asp?p=124457,,,Rep,2016-08-26,2018-06-29
-"Ho, Chun Yin (SFC:AXG437) 何俊彥",sfclicrec.asp?p=134372,,,Rep,2011-12-02,2013-05-08
-"John, Bruce ",sfclicrec.asp?p=131449,,M,RO,2011-08-24,2013-01-09
-"Kashyap, Sunil ",sfclicrec.asp?p=129791,,,RO,2011-09-07,2019-11-16
-"Li, Ellen Tao 李濤",sfclicrec.asp?p=124267,,F,RO,2008-08-19,2011-03-01
-"Mak, Chung Ming (SFC:ASC558) 麥頌鳴",sfclicrec.asp?p=127200,,,Rep,2008-12-23,2009-06-12
-"Martel, Yves ",sfclicrec.asp?p=126230,,,RO,2008-08-19,2014-01-08
-"Or, Wing Fai 柯永輝",sfclicrec.asp?p=2598534,,,Rep,2016-06-28,2019-10-20
-"Sato, Toshihisa 佐藤敏久",sfclicrec.asp?p=112104,,,RO,2011-09-07,
-"Song, Rong (SFC:BHX646) 宋戎",sfclicrec.asp?p=2614127,,,Rep,2016-08-02,2018-09-15
-"Tay, Chee Hung ",sfclicrec.asp?p=102099,,,RO,,2007-08-03
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Elsie Shun Yee 陳順兒",None,sfclicrec.asp?p=104560,AEC377,http://www.sfc.hk/publicregWeb/indi/AEC377/licenceRecord,,,Rep,,2004-07-07
+"Chan, Elsie Shun Yee 陳順兒",None,sfclicrec.asp?p=104560,AEC377,http://www.sfc.hk/publicregWeb/indi/AEC377/licenceRecord,,,RO,2004-07-07,2007-07-05
+"Chen, Ningning (SFC:ASQ132) 陳宁宁",None,sfclicrec.asp?p=90021,ASQ132,http://www.sfc.hk/publicregWeb/indi/ASQ132/licenceRecord,,,Rep,2013-05-13,2018-09-01
+"Cheng Chow, Juliana Mei Shi 周美思",None,sfclicrec.asp?p=111506,AHR793,http://www.sfc.hk/publicregWeb/indi/AHR793/licenceRecord,,F,RO,2014-06-06,2018-06-29
+"Fung, Esther Yuk Chun 馮玉珍",None,sfclicrec.asp?p=102171,ABN771,http://www.sfc.hk/publicregWeb/indi/ABN771/licenceRecord,,F,Rep,,2007-08-03
+"Gan, Jia C 干嘉琛",None,sfclicrec.asp?p=124457,AQN362,http://www.sfc.hk/publicregWeb/indi/AQN362/licenceRecord,,,Rep,2016-08-26,2018-06-29
+"Ho, Chun Yin (SFC:AXG437) 何俊彥",None,sfclicrec.asp?p=134372,AXG437,http://www.sfc.hk/publicregWeb/indi/AXG437/licenceRecord,,,Rep,2011-12-02,2013-05-08
+"John, Bruce ",None,sfclicrec.asp?p=131449,AXV438,http://www.sfc.hk/publicregWeb/indi/AXV438/licenceRecord,,M,RO,2011-08-24,2013-01-09
+"Kashyap, Sunil ",None,sfclicrec.asp?p=129791,AVF021,http://www.sfc.hk/publicregWeb/indi/AVF021/licenceRecord,,,RO,2011-09-07,2019-11-16
+"Li, Ellen Tao 李濤",None,sfclicrec.asp?p=124267,AQJ530,http://www.sfc.hk/publicregWeb/indi/AQJ530/licenceRecord,,F,RO,2008-08-19,2011-03-01
+"Mak, Chung Ming (SFC:ASC558) 麥頌鳴",None,sfclicrec.asp?p=127200,ASC558,http://www.sfc.hk/publicregWeb/indi/ASC558/licenceRecord,,,Rep,2008-12-23,2009-06-12
+"Martel, Yves ",None,sfclicrec.asp?p=126230,ARJ825,http://www.sfc.hk/publicregWeb/indi/ARJ825/licenceRecord,,,RO,2008-08-19,2014-01-08
+"Or, Wing Fai 柯永輝",None,sfclicrec.asp?p=2598534,BHS205,http://www.sfc.hk/publicregWeb/indi/BHS205/licenceRecord,,,Rep,2016-06-28,2019-10-20
+"Sato, Toshihisa 佐藤敏久",None,sfclicrec.asp?p=112104,AIH727,http://www.sfc.hk/publicregWeb/indi/AIH727/licenceRecord,,,RO,2011-09-07,
+"Song, Rong (SFC:BHX646) 宋戎",None,sfclicrec.asp?p=2614127,BHX646,http://www.sfc.hk/publicregWeb/indi/BHX646/licenceRecord,,,Rep,2016-08-02,2018-09-15
+"Tay, Chee Hung ",None,sfclicrec.asp?p=102099,ABM514,http://www.sfc.hk/publicregWeb/indi/ABM514/licenceRecord,,,RO,,2007-08-03

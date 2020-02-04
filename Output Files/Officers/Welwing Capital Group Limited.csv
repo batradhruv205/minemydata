@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chittleborough, Harry Michael ",sfclicrec.asp?p=24125288,,M,Rep,2020-01-16,
-"Gao, Wei (SFC:BER852) 高巍",sfclicrec.asp?p=2360422,,,RO,2019-11-07,
-"Zhang, Peng (SFC:AUP569) 張鵬",sfclicrec.asp?p=129233,,,RO,2019-11-07,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chittleborough, Harry Michael ",None,sfclicrec.asp?p=24125288,BPI262,http://www.sfc.hk/publicregWeb/indi/BPI262/licenceRecord,,M,Rep,2020-01-16,
+"Gao, Wei (SFC:BER852) 高巍",None,sfclicrec.asp?p=2360422,BER852,http://www.sfc.hk/publicregWeb/indi/BER852/licenceRecord,,,RO,2019-11-07,
+"Zhang, Peng (SFC:AUP569) 張鵬",None,sfclicrec.asp?p=129233,AUP569,http://www.sfc.hk/publicregWeb/indi/AUP569/licenceRecord,,,RO,2019-11-07,

@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ginsburg, Matthew David ",sfclicrec.asp?p=69461,,M,RO,2016-04-27,
-"Harris, Richard (SFC:AAK411) ",sfclicrec.asp?p=92918,,M,RO,2012-08-31,2015-05-08
-"Hur, Sung 許惺",sfclicrec.asp?p=2358676,,,Rep,2014-12-12,2017-08-14
-"Hur, Sung 許惺",sfclicrec.asp?p=2358676,,,RO,2017-08-14,
-"Lobo, Alfredo Paulo ",sfclicrec.asp?p=43554,58,M,RO,2012-08-31,
-"Pang, Hengsha 龐恆沙",sfclicrec.asp?p=2483855,,,Rep,2015-10-07,
-"Weill, Douglas Michael ",sfclicrec.asp?p=1947543,,M,RO,2012-08-31,2013-02-28
-"Yip, Ka 葉嘉",sfclicrec.asp?p=2089105,,,Rep,2013-06-24,2015-05-08
-"Yip, Ka 葉嘉",sfclicrec.asp?p=2089105,,,RO,2015-05-08,2016-05-10
-"Yuan, Chen 袁晨",sfclicrec.asp?p=2564900,,,Rep,2016-04-20,2019-06-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ginsburg, Matthew David ",None,sfclicrec.asp?p=69461,ADI176,http://www.sfc.hk/publicregWeb/indi/ADI176/licenceRecord,,M,RO,2016-04-27,
+"Harris, Richard (SFC:AAK411) ",None,sfclicrec.asp?p=92918,AAK411,http://www.sfc.hk/publicregWeb/indi/AAK411/licenceRecord,,M,RO,2012-08-31,2015-05-08
+"Hur, Sung 許惺",None,sfclicrec.asp?p=2358676,BEM508,http://www.sfc.hk/publicregWeb/indi/BEM508/licenceRecord,,,Rep,2014-12-12,2017-08-14
+"Hur, Sung 許惺",None,sfclicrec.asp?p=2358676,BEM508,http://www.sfc.hk/publicregWeb/indi/BEM508/licenceRecord,,,RO,2017-08-14,
+"Lobo, Alfredo Paulo ",None,sfclicrec.asp?p=43554,ACP300,http://www.sfc.hk/publicregWeb/indi/ACP300/licenceRecord,58.0,M,RO,2012-08-31,
+"Pang, Hengsha 龐恆沙",None,sfclicrec.asp?p=2483855,BGE023,http://www.sfc.hk/publicregWeb/indi/BGE023/licenceRecord,,,Rep,2015-10-07,
+"Weill, Douglas Michael ",None,sfclicrec.asp?p=1947543,AZP097,http://www.sfc.hk/publicregWeb/indi/AZP097/licenceRecord,,M,RO,2012-08-31,2013-02-28
+"Yip, Ka 葉嘉",None,sfclicrec.asp?p=2089105,BBI893,http://www.sfc.hk/publicregWeb/indi/BBI893/licenceRecord,,,Rep,2013-06-24,2015-05-08
+"Yip, Ka 葉嘉",None,sfclicrec.asp?p=2089105,BBI893,http://www.sfc.hk/publicregWeb/indi/BBI893/licenceRecord,,,RO,2015-05-08,2016-05-10
+"Yuan, Chen 袁晨",None,sfclicrec.asp?p=2564900,BHE051,http://www.sfc.hk/publicregWeb/indi/BHE051/licenceRecord,,,Rep,2016-04-20,2019-06-30

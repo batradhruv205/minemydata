@@ -1,18 +1,18 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cao, Min (SFC:BCZ312) 曹敏",sfclicrec.asp?p=2208647,,,Rep,2017-09-08,2017-09-14
-"Cao, Min (SFC:BCZ312) 曹敏",sfclicrec.asp?p=2208647,,,RO,2017-09-14,2019-04-11
-"Chau, Chun Sing 周振聲",sfclicrec.asp?p=2143846,,,Rep,2015-04-20,2016-01-19
-"Chau, Chun Sing 周振聲",sfclicrec.asp?p=2143846,,,RO,2016-01-19,2017-08-18
-"Ching, Pak To 程栢濤",sfclicrec.asp?p=113084,,,RO,2012-05-04,2012-05-23
-"Hsu, Shirley Sui-Wei 許穗煒",sfclicrec.asp?p=94284,,F,Rep,2012-06-21,2012-07-24
-"Hsu, Shirley Sui-Wei 許穗煒",sfclicrec.asp?p=94284,,F,RO,2012-07-24,2013-01-24
-"Hsu, Shirley Sui-Wei 許穗煒",sfclicrec.asp?p=94284,,F,Rep,2013-01-24,2015-01-20
-"Hsu, Shirley Sui-Wei 許穗煒",sfclicrec.asp?p=94284,,F,Rep,2017-02-20,2017-03-30
-"Ip, Hung Kei 葉鴻基",sfclicrec.asp?p=126515,,,RO,2018-11-28,2019-07-31
-"Lau, Chi Ming (SFC:AUW146) 劉智明",sfclicrec.asp?p=129437,,,RO,2016-05-04,2016-12-13
-"Liu, Zhe (SFC:BAF527) 劉喆",sfclicrec.asp?p=1969536,,,Rep,2012-10-22,2016-03-14
-"Martigny, Florian Armand Julien ",sfclicrec.asp?p=95117,,M,Rep,2019-05-17,2019-05-31
-"Martigny, Florian Armand Julien ",sfclicrec.asp?p=95117,,M,RO,2019-05-31,
-"Sze-To, Gilda May Ying 司徒美英",sfclicrec.asp?p=93619,,,Rep,2012-05-14,2012-05-28
-"Sze-To, Gilda May Ying 司徒美英",sfclicrec.asp?p=93619,,,RO,2012-05-28,2015-09-18
-"Xiang, Pinggui 向平貴",sfclicrec.asp?p=93617,,,RO,2012-05-04,2018-11-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cao, Min (SFC:BCZ312) 曹敏",None,sfclicrec.asp?p=2208647,BCZ312,http://www.sfc.hk/publicregWeb/indi/BCZ312/licenceRecord,,,Rep,2017-09-08,2017-09-14
+"Cao, Min (SFC:BCZ312) 曹敏",None,sfclicrec.asp?p=2208647,BCZ312,http://www.sfc.hk/publicregWeb/indi/BCZ312/licenceRecord,,,RO,2017-09-14,2019-04-11
+"Chau, Chun Sing 周振聲",None,sfclicrec.asp?p=2143846,BBZ774,http://www.sfc.hk/publicregWeb/indi/BBZ774/licenceRecord,,,Rep,2015-04-20,2016-01-19
+"Chau, Chun Sing 周振聲",None,sfclicrec.asp?p=2143846,BBZ774,http://www.sfc.hk/publicregWeb/indi/BBZ774/licenceRecord,,,RO,2016-01-19,2017-08-18
+"Ching, Pak To 程栢濤",None,sfclicrec.asp?p=113084,AJE763,http://www.sfc.hk/publicregWeb/indi/AJE763/licenceRecord,,,RO,2012-05-04,2012-05-23
+"Hsu, Shirley Sui-Wei 許穗煒",None,sfclicrec.asp?p=94284,AHF797,http://www.sfc.hk/publicregWeb/indi/AHF797/licenceRecord,,F,Rep,2012-06-21,2012-07-24
+"Hsu, Shirley Sui-Wei 許穗煒",None,sfclicrec.asp?p=94284,AHF797,http://www.sfc.hk/publicregWeb/indi/AHF797/licenceRecord,,F,RO,2012-07-24,2013-01-24
+"Hsu, Shirley Sui-Wei 許穗煒",None,sfclicrec.asp?p=94284,AHF797,http://www.sfc.hk/publicregWeb/indi/AHF797/licenceRecord,,F,Rep,2013-01-24,2015-01-20
+"Hsu, Shirley Sui-Wei 許穗煒",None,sfclicrec.asp?p=94284,AHF797,http://www.sfc.hk/publicregWeb/indi/AHF797/licenceRecord,,F,Rep,2017-02-20,2017-03-30
+"Ip, Hung Kei 葉鴻基",None,sfclicrec.asp?p=126515,ARO056,http://www.sfc.hk/publicregWeb/indi/ARO056/licenceRecord,,,RO,2018-11-28,2019-07-31
+"Lau, Chi Ming (SFC:AUW146) 劉智明",None,sfclicrec.asp?p=129437,AUW146,http://www.sfc.hk/publicregWeb/indi/AUW146/licenceRecord,,,RO,2016-05-04,2016-12-13
+"Liu, Zhe (SFC:BAF527) 劉喆",None,sfclicrec.asp?p=1969536,BAF527,http://www.sfc.hk/publicregWeb/indi/BAF527/licenceRecord,,,Rep,2012-10-22,2016-03-14
+"Martigny, Florian Armand Julien ",None,sfclicrec.asp?p=95117,AOB599,http://www.sfc.hk/publicregWeb/indi/AOB599/licenceRecord,,M,Rep,2019-05-17,2019-05-31
+"Martigny, Florian Armand Julien ",None,sfclicrec.asp?p=95117,AOB599,http://www.sfc.hk/publicregWeb/indi/AOB599/licenceRecord,,M,RO,2019-05-31,
+"Sze-To, Gilda May Ying 司徒美英",None,sfclicrec.asp?p=93619,ACG379,http://www.sfc.hk/publicregWeb/indi/ACG379/licenceRecord,,,Rep,2012-05-14,2012-05-28
+"Sze-To, Gilda May Ying 司徒美英",None,sfclicrec.asp?p=93619,ACG379,http://www.sfc.hk/publicregWeb/indi/ACG379/licenceRecord,,,RO,2012-05-28,2015-09-18
+"Xiang, Pinggui 向平貴",None,sfclicrec.asp?p=93617,AOJ791,http://www.sfc.hk/publicregWeb/indi/AOJ791/licenceRecord,,,RO,2012-05-04,2018-11-30

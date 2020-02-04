@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Kar Wah 陳家驊",sfclicrec.asp?p=78331,,,Rep,2020-01-09,
-"Ho, Wai Lee 何偉莉",sfclicrec.asp?p=79329,,,RO,2018-10-05,
-"Lau, Ka Yi 劉嘉怡",sfclicrec.asp?p=2659041,,,Rep,2018-11-14,2019-02-03
-"Lee, Wai Nam 李偉南",sfclicrec.asp?p=102817,,,RO,2018-10-05,2019-04-19
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Kar Wah 陳家驊",None,sfclicrec.asp?p=78331,ADS842,http://www.sfc.hk/publicregWeb/indi/ADS842/licenceRecord,,,Rep,2020-01-09,
+"Ho, Wai Lee 何偉莉",None,sfclicrec.asp?p=79329,ASK885,http://www.sfc.hk/publicregWeb/indi/ASK885/licenceRecord,,,RO,2018-10-05,
+"Lau, Ka Yi 劉嘉怡",None,sfclicrec.asp?p=2659041,BIG902,http://www.sfc.hk/publicregWeb/indi/BIG902/licenceRecord,,,Rep,2018-11-14,2019-02-03
+"Lee, Wai Nam 李偉南",None,sfclicrec.asp?p=102817,ACI717,http://www.sfc.hk/publicregWeb/indi/ACI717/licenceRecord,,,RO,2018-10-05,2019-04-19

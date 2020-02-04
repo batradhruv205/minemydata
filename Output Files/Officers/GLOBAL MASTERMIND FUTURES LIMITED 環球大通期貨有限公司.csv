@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Pang 鄭誠緯",sfclicrec.asp?p=82121,,,Rep,2019-01-02,2019-07-24
-"Dong, Zilue 董梓略",sfclicrec.asp?p=24002643,,,Rep,2019-12-09,
-"Ho, Ken Hon 何競康",sfclicrec.asp?p=82174,,M,Rep,2018-07-26,2019-04-01
-"Ho, Ken Hon 何競康",sfclicrec.asp?p=82174,,M,RO,2019-04-01,
-"Lee, Geng Rong 李耿融",sfclicrec.asp?p=84518,,,RO,2018-05-08,
-"Lee, Siu Kwan Sammy 李兆鈞",sfclicrec.asp?p=2297866,,,Rep,2018-08-21,
-"Li, Woon Chi 李煥志",sfclicrec.asp?p=101584,,,RO,2018-05-08,2019-03-31
-"Ma, Siu Kay 馬肇基",sfclicrec.asp?p=2264886,,,Rep,2018-08-21,
-"Man, Elton Kong Yui 文剛銳",sfclicrec.asp?p=11918,60,M,RO,2018-05-08,
-"Sit, Hau Yi 薛巧宜",sfclicrec.asp?p=2335412,,,Rep,2018-06-04,
-"Tam, Victor Wing Tai 譚永泰",sfclicrec.asp?p=78749,,M,Rep,2018-08-21,
-"Tse, Joseph 謝祖耀",sfclicrec.asp?p=113771,45,M,Rep,2018-06-04,
-"Wong, Raymond Wing Yin 黃永賢",sfclicrec.asp?p=93883,,M,Rep,2018-08-22,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Pang 鄭誠緯",None,sfclicrec.asp?p=82121,AWX138,http://www.sfc.hk/publicregWeb/indi/AWX138/licenceRecord,,,Rep,2019-01-02,2019-07-24
+"Dong, Zilue 董梓略",None,sfclicrec.asp?p=24002643,BPE061,http://www.sfc.hk/publicregWeb/indi/BPE061/licenceRecord,,,Rep,2019-12-09,
+"Ho, Ken Hon 何競康",None,sfclicrec.asp?p=82174,AFR777,http://www.sfc.hk/publicregWeb/indi/AFR777/licenceRecord,,M,Rep,2018-07-26,2019-04-01
+"Ho, Ken Hon 何競康",None,sfclicrec.asp?p=82174,AFR777,http://www.sfc.hk/publicregWeb/indi/AFR777/licenceRecord,,M,RO,2019-04-01,
+"Lee, Geng Rong 李耿融",None,sfclicrec.asp?p=84518,ACB022,http://www.sfc.hk/publicregWeb/indi/ACB022/licenceRecord,,,RO,2018-05-08,
+"Lee, Siu Kwan Sammy 李兆鈞",None,sfclicrec.asp?p=2297866,BDV594,http://www.sfc.hk/publicregWeb/indi/BDV594/licenceRecord,,,Rep,2018-08-21,
+"Li, Woon Chi 李煥志",None,sfclicrec.asp?p=101584,AAN717,http://www.sfc.hk/publicregWeb/indi/AAN717/licenceRecord,,,RO,2018-05-08,2019-03-31
+"Ma, Siu Kay 馬肇基",None,sfclicrec.asp?p=2264886,BDH471,http://www.sfc.hk/publicregWeb/indi/BDH471/licenceRecord,,,Rep,2018-08-21,
+"Man, Elton Kong Yui 文剛銳",None,sfclicrec.asp?p=11918,ABV019,http://www.sfc.hk/publicregWeb/indi/ABV019/licenceRecord,60.0,M,RO,2018-05-08,
+"Sit, Hau Yi 薛巧宜",None,sfclicrec.asp?p=2335412,BEE951,http://www.sfc.hk/publicregWeb/indi/BEE951/licenceRecord,,,Rep,2018-06-04,
+"Tam, Victor Wing Tai 譚永泰",None,sfclicrec.asp?p=78749,ARN041,http://www.sfc.hk/publicregWeb/indi/ARN041/licenceRecord,,M,Rep,2018-08-21,
+"Tse, Joseph 謝祖耀",None,sfclicrec.asp?p=113771,AKL709,http://www.sfc.hk/publicregWeb/indi/AKL709/licenceRecord,45.0,M,Rep,2018-06-04,
+"Wong, Raymond Wing Yin 黃永賢",None,sfclicrec.asp?p=93883,AAW773,http://www.sfc.hk/publicregWeb/indi/AAW773/licenceRecord,,M,Rep,2018-08-22,

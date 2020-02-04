@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Kwok Sum 鄭國森",sfclicrec.asp?p=94777,,,Rep,2017-01-13,2018-07-12
-"Cheung, Ying Fai 張英輝",sfclicrec.asp?p=98996,,,RO,2016-12-21,
-"Hsu, Wei-Chi 徐瑋祺",sfclicrec.asp?p=94783,,,Rep,2018-01-16,2019-06-17
-"Lau, Chi Ching 劉智菁",sfclicrec.asp?p=121991,,,Rep,2017-10-17,2017-11-06
-"Lau, Chi Ching 劉智菁",sfclicrec.asp?p=121991,,,RO,2017-11-06,2018-09-26
-"Li, Na (SFC:BIY841) 李娜",sfclicrec.asp?p=2689343,,,Rep,2017-01-20,2018-12-20
-"Li, Pei Hang 李佩杭",sfclicrec.asp?p=23938564,,,Rep,2019-11-22,
-"Liu, Tianlin (SFC:BNX606) 劉天琳",sfclicrec.asp?p=22537609,,,Rep,2018-12-11,
-"Tong, Leung Kwing 唐良炯",sfclicrec.asp?p=81753,,,RO,2016-12-21,2017-11-07
-"Wan, Dong 万冬",sfclicrec.asp?p=2570291,,,Rep,2018-09-12,
-"Wang, Zihao (SFC:BNM203) 王子豪",sfclicrec.asp?p=22138655,,,Rep,2018-09-05,
-"Wu, Binhong 鄔彬紅",sfclicrec.asp?p=77641,,,Rep,2018-09-10,2018-09-24
-"Wu, Binhong 鄔彬紅",sfclicrec.asp?p=77641,,,RO,2018-09-24,
-"Wu, Miao (SFC:BIE353) 吳苗",sfclicrec.asp?p=2632243,,,Rep,2019-01-10,
-"Xu, Renmin 許韌敏",sfclicrec.asp?p=132902,,,Rep,2019-01-11,2019-03-01
-"Xu, Renmin 許韌敏",sfclicrec.asp?p=132902,,,RO,2019-03-01,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Kwok Sum 鄭國森",None,sfclicrec.asp?p=94777,AXR842,http://www.sfc.hk/publicregWeb/indi/AXR842/licenceRecord,,,Rep,2017-01-13,2018-07-12
+"Cheung, Ying Fai 張英輝",None,sfclicrec.asp?p=98996,ACQ024,http://www.sfc.hk/publicregWeb/indi/ACQ024/licenceRecord,,,RO,2016-12-21,
+"Hsu, Wei-Chi 徐瑋祺",None,sfclicrec.asp?p=94783,AVL882,http://www.sfc.hk/publicregWeb/indi/AVL882/licenceRecord,,,Rep,2018-01-16,2019-06-17
+"Lau, Chi Ching 劉智菁",None,sfclicrec.asp?p=121991,APF062,http://www.sfc.hk/publicregWeb/indi/APF062/licenceRecord,,,Rep,2017-10-17,2017-11-06
+"Lau, Chi Ching 劉智菁",None,sfclicrec.asp?p=121991,APF062,http://www.sfc.hk/publicregWeb/indi/APF062/licenceRecord,,,RO,2017-11-06,2018-09-26
+"Li, Na (SFC:BIY841) 李娜",None,sfclicrec.asp?p=2689343,BIY841,http://www.sfc.hk/publicregWeb/indi/BIY841/licenceRecord,,,Rep,2017-01-20,2018-12-20
+"Li, Pei Hang 李佩杭",None,sfclicrec.asp?p=23938564,BPE371,http://www.sfc.hk/publicregWeb/indi/BPE371/licenceRecord,,,Rep,2019-11-22,
+"Liu, Tianlin (SFC:BNX606) 劉天琳",None,sfclicrec.asp?p=22537609,BNX606,http://www.sfc.hk/publicregWeb/indi/BNX606/licenceRecord,,,Rep,2018-12-11,
+"Tong, Leung Kwing 唐良炯",None,sfclicrec.asp?p=81753,AIL180,http://www.sfc.hk/publicregWeb/indi/AIL180/licenceRecord,,,RO,2016-12-21,2017-11-07
+"Wan, Dong 万冬",None,sfclicrec.asp?p=2570291,BHK132,http://www.sfc.hk/publicregWeb/indi/BHK132/licenceRecord,,,Rep,2018-09-12,
+"Wang, Zihao (SFC:BNM203) 王子豪",None,sfclicrec.asp?p=22138655,BNM203,http://www.sfc.hk/publicregWeb/indi/BNM203/licenceRecord,,,Rep,2018-09-05,
+"Wu, Binhong 鄔彬紅",None,sfclicrec.asp?p=77641,AQF256,http://www.sfc.hk/publicregWeb/indi/AQF256/licenceRecord,,,Rep,2018-09-10,2018-09-24
+"Wu, Binhong 鄔彬紅",None,sfclicrec.asp?p=77641,AQF256,http://www.sfc.hk/publicregWeb/indi/AQF256/licenceRecord,,,RO,2018-09-24,
+"Wu, Miao (SFC:BIE353) 吳苗",None,sfclicrec.asp?p=2632243,BIE353,http://www.sfc.hk/publicregWeb/indi/BIE353/licenceRecord,,,Rep,2019-01-10,
+"Xu, Renmin 許韌敏",None,sfclicrec.asp?p=132902,AXI479,http://www.sfc.hk/publicregWeb/indi/AXI479/licenceRecord,,,Rep,2019-01-11,2019-03-01
+"Xu, Renmin 許韌敏",None,sfclicrec.asp?p=132902,AXI479,http://www.sfc.hk/publicregWeb/indi/AXI479/licenceRecord,,,RO,2019-03-01,

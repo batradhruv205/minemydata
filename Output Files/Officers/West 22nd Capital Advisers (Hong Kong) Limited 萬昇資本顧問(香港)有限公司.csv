@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Le (SFC:ARS239) 陳樂",sfclicrec.asp?p=89931,,,Rep,2019-11-14,
-"Chen, Xiaobo (SFC:BOH826) 陳晓波",sfclicrec.asp?p=23299019,,,Rep,2019-06-13,
-"Leong, Jonathan Raymond 梁健寧",sfclicrec.asp?p=63137,,M,RO,2018-07-11,
-"Lin, Jeffrey ",sfclicrec.asp?p=129809,,M,RO,2018-07-11,
-"Mooijekind Yin, Jade Xuan 殷璇",sfclicrec.asp?p=23294027,,F,Rep,2019-06-12,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Le (SFC:ARS239) 陳樂",None,sfclicrec.asp?p=89931,ARS239,http://www.sfc.hk/publicregWeb/indi/ARS239/licenceRecord,,,Rep,2019-11-14,
+"Chen, Xiaobo (SFC:BOH826) 陳晓波",None,sfclicrec.asp?p=23299019,BOH826,http://www.sfc.hk/publicregWeb/indi/BOH826/licenceRecord,,,Rep,2019-06-13,
+"Leong, Jonathan Raymond 梁健寧",None,sfclicrec.asp?p=63137,AVM644,http://www.sfc.hk/publicregWeb/indi/AVM644/licenceRecord,,M,RO,2018-07-11,
+"Lin, Jeffrey ",None,sfclicrec.asp?p=129809,AVG380,http://www.sfc.hk/publicregWeb/indi/AVG380/licenceRecord,,M,RO,2018-07-11,
+"Mooijekind Yin, Jade Xuan 殷璇",None,sfclicrec.asp?p=23294027,BOH827,http://www.sfc.hk/publicregWeb/indi/BOH827/licenceRecord,,F,Rep,2019-06-12,

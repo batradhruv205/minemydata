@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Hon Ming (SFC:ABN595) 陳漢明",sfclicrec.asp?p=102159,,,RO,2016-06-29,
-"Chan, Lok Him 陳樂謙",sfclicrec.asp?p=2260140,,,Rep,2019-06-11,2019-07-09
-"Chan, Lok Him 陳樂謙",sfclicrec.asp?p=2260140,,,RO,2019-07-09,
-"Man, Chi Wai (SFC:BBH998) 文志偉",sfclicrec.asp?p=2093060,,,RO,2016-06-29,
-"Tam, Siu Chung Tony 譚少忠",sfclicrec.asp?p=2631691,,,Rep,2016-09-12,2017-01-23
-"Yung, Clarence Kwok Wah 翁國華",sfclicrec.asp?p=2682512,,M,Rep,2017-01-05,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Hon Ming (SFC:ABN595) 陳漢明",None,sfclicrec.asp?p=102159,ABN595,http://www.sfc.hk/publicregWeb/indi/ABN595/licenceRecord,,,RO,2016-06-29,
+"Chan, Lok Him 陳樂謙",None,sfclicrec.asp?p=2260140,BDF100,http://www.sfc.hk/publicregWeb/indi/BDF100/licenceRecord,,,Rep,2019-06-11,2019-07-09
+"Chan, Lok Him 陳樂謙",None,sfclicrec.asp?p=2260140,BDF100,http://www.sfc.hk/publicregWeb/indi/BDF100/licenceRecord,,,RO,2019-07-09,
+"Man, Chi Wai (SFC:BBH998) 文志偉",None,sfclicrec.asp?p=2093060,BBH998,http://www.sfc.hk/publicregWeb/indi/BBH998/licenceRecord,,,RO,2016-06-29,
+"Tam, Siu Chung Tony 譚少忠",None,sfclicrec.asp?p=2631691,BHZ322,http://www.sfc.hk/publicregWeb/indi/BHZ322/licenceRecord,,,Rep,2016-09-12,2017-01-23
+"Yung, Clarence Kwok Wah 翁國華",None,sfclicrec.asp?p=2682512,BIR360,http://www.sfc.hk/publicregWeb/indi/BIR360/licenceRecord,,M,Rep,2017-01-05,

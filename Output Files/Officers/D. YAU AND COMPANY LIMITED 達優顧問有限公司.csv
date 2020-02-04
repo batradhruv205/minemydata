@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Sin Yu 陳善如",sfclicrec.asp?p=1923633,,,Rep,2012-07-11,2013-06-24
-"Cheung, Miu Kuen 張妙娟",sfclicrec.asp?p=2051694,,,Rep,2013-04-15,
-"Cheung, Wah Man 張華敏",sfclicrec.asp?p=131100,,,Rep,2011-05-23,2012-07-01
-"Ho, Yin Ping (SFC:AKO491) 何燕萍",sfclicrec.asp?p=113813,,,RO,2004-08-13,2005-04-01
-"Ho, Yin Ping (SFC:AKO491) 何燕萍",sfclicrec.asp?p=113813,,,Rep,2005-04-01,2005-08-30
-"Ho, Yin Ping (SFC:AKO491) 何燕萍",sfclicrec.asp?p=113813,,,RO,2005-08-30,2009-05-30
-"Leung, Gloria Lai Ping 梁麗平",sfclicrec.asp?p=118601,,,Rep,2010-02-24,2010-09-01
-"Ma, Suk Yin 馬淑賢",sfclicrec.asp?p=128463,,,Rep,2009-09-23,2009-12-23
-"Tang, Yuk Foon 鄧玉歡",sfclicrec.asp?p=114900,,,Rep,2004-12-07,2009-03-13
-"Tang, Yuk Foon 鄧玉歡",sfclicrec.asp?p=114900,,,RO,2009-03-13,
-"Wong, Hiu Tung (SFC:ATO824) 黃曉彤",sfclicrec.asp?p=128464,,,Rep,2009-09-23,2011-02-19
-"Yau, David Tak Cheung 游德祥",sfclicrec.asp?p=101426,,M,RO,2004-08-13,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Sin Yu 陳善如",None,sfclicrec.asp?p=1923633,AZQ772,http://www.sfc.hk/publicregWeb/indi/AZQ772/licenceRecord,,,Rep,2012-07-11,2013-06-24
+"Cheung, Miu Kuen 張妙娟",None,sfclicrec.asp?p=2051694,BBA639,http://www.sfc.hk/publicregWeb/indi/BBA639/licenceRecord,,,Rep,2013-04-15,
+"Cheung, Wah Man 張華敏",None,sfclicrec.asp?p=131100,AXF704,http://www.sfc.hk/publicregWeb/indi/AXF704/licenceRecord,,,Rep,2011-05-23,2012-07-01
+"Ho, Yin Ping (SFC:AKO491) 何燕萍",None,sfclicrec.asp?p=113813,AKO491,http://www.sfc.hk/publicregWeb/indi/AKO491/licenceRecord,,,RO,2004-08-13,2005-04-01
+"Ho, Yin Ping (SFC:AKO491) 何燕萍",None,sfclicrec.asp?p=113813,AKO491,http://www.sfc.hk/publicregWeb/indi/AKO491/licenceRecord,,,Rep,2005-04-01,2005-08-30
+"Ho, Yin Ping (SFC:AKO491) 何燕萍",None,sfclicrec.asp?p=113813,AKO491,http://www.sfc.hk/publicregWeb/indi/AKO491/licenceRecord,,,RO,2005-08-30,2009-05-30
+"Leung, Gloria Lai Ping 梁麗平",None,sfclicrec.asp?p=118601,ANK512,http://www.sfc.hk/publicregWeb/indi/ANK512/licenceRecord,,,Rep,2010-02-24,2010-09-01
+"Ma, Suk Yin 馬淑賢",None,sfclicrec.asp?p=128463,ATO823,http://www.sfc.hk/publicregWeb/indi/ATO823/licenceRecord,,,Rep,2009-09-23,2009-12-23
+"Tang, Yuk Foon 鄧玉歡",None,sfclicrec.asp?p=114900,ALL305,http://www.sfc.hk/publicregWeb/indi/ALL305/licenceRecord,,,Rep,2004-12-07,2009-03-13
+"Tang, Yuk Foon 鄧玉歡",None,sfclicrec.asp?p=114900,ALL305,http://www.sfc.hk/publicregWeb/indi/ALL305/licenceRecord,,,RO,2009-03-13,
+"Wong, Hiu Tung (SFC:ATO824) 黃曉彤",None,sfclicrec.asp?p=128464,ATO824,http://www.sfc.hk/publicregWeb/indi/ATO824/licenceRecord,,,Rep,2009-09-23,2011-02-19
+"Yau, David Tak Cheung 游德祥",None,sfclicrec.asp?p=101426,AAI815,http://www.sfc.hk/publicregWeb/indi/AAI815/licenceRecord,,M,RO,2004-08-13,

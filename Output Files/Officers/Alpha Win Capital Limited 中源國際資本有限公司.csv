@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ching, Kwan Leung 程均亮",sfclicrec.asp?p=70939,,,RO,2019-03-06,
-"Chu, Tai Wai 朱大衛",sfclicrec.asp?p=91992,,,RO,2019-03-06,
-"Tang, Kin Chor 鄧建初",sfclicrec.asp?p=72109,62,M,RO,2019-03-06,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ching, Kwan Leung 程均亮",None,sfclicrec.asp?p=70939,ARF269,http://www.sfc.hk/publicregWeb/indi/ARF269/licenceRecord,,,RO,2019-03-06,
+"Chu, Tai Wai 朱大衛",None,sfclicrec.asp?p=91992,ANW529,http://www.sfc.hk/publicregWeb/indi/ANW529/licenceRecord,,,RO,2019-03-06,
+"Tang, Kin Chor 鄧建初",None,sfclicrec.asp?p=72109,ACH809,http://www.sfc.hk/publicregWeb/indi/ACH809/licenceRecord,62.0,M,RO,2019-03-06,

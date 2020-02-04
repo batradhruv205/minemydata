@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ferrier, Justin John ",sfclicrec.asp?p=99627,,M,RO,2007-11-16,2016-06-10
-"Huang, Jenny Ying 黃瑛",sfclicrec.asp?p=124601,,F,Rep,2008-04-01,2008-11-18
-"Jurianto, Julius ",sfclicrec.asp?p=126651,,M,Rep,2008-10-30,2009-10-02
-"Lee, Seng Chow 李成就",sfclicrec.asp?p=99628,,,RO,2007-11-16,2011-08-02
-"Lewchalermwong, Sumetha ",sfclicrec.asp?p=126650,,,Rep,2008-10-30,2010-10-30
-"Lovell, Peter Henry James ",sfclicrec.asp?p=2470801,,M,RO,2019-10-25,
-"McIsaac, Stephen Graeme ",sfclicrec.asp?p=113959,,M,RO,2014-01-06,2018-06-05
-"Mui, Alfred Lap Chung 梅立中",sfclicrec.asp?p=82530,,M,Rep,2008-03-05,2010-06-14
-"Rucquoi-Berger, John Timothy 伯希儒",sfclicrec.asp?p=103399,,M,RO,2012-04-03,2013-12-31
-"Welland, Tony ",sfclicrec.asp?p=1919510,,M,Rep,2012-07-03,2015-06-18
-"Welland, Tony ",sfclicrec.asp?p=1919510,,M,RO,2015-06-18,2017-02-23
-"Wong, Pak Yan 黃栢仁",sfclicrec.asp?p=97191,,,Rep,2008-04-18,2009-03-02
-"York, Philip Michael ",sfclicrec.asp?p=2628243,,M,RO,2016-09-02,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ferrier, Justin John ",None,sfclicrec.asp?p=99627,AEG690,http://www.sfc.hk/publicregWeb/indi/AEG690/licenceRecord,,M,RO,2007-11-16,2016-06-10
+"Huang, Jenny Ying 黃瑛",None,sfclicrec.asp?p=124601,AQP761,http://www.sfc.hk/publicregWeb/indi/AQP761/licenceRecord,,F,Rep,2008-04-01,2008-11-18
+"Jurianto, Julius ",None,sfclicrec.asp?p=126651,ARP051,http://www.sfc.hk/publicregWeb/indi/ARP051/licenceRecord,,M,Rep,2008-10-30,2009-10-02
+"Lee, Seng Chow 李成就",None,sfclicrec.asp?p=99628,ADK172,http://www.sfc.hk/publicregWeb/indi/ADK172/licenceRecord,,,RO,2007-11-16,2011-08-02
+"Lewchalermwong, Sumetha ",None,sfclicrec.asp?p=126650,ARP050,http://www.sfc.hk/publicregWeb/indi/ARP050/licenceRecord,,,Rep,2008-10-30,2010-10-30
+"Lovell, Peter Henry James ",None,sfclicrec.asp?p=2470801,BBV036,http://www.sfc.hk/publicregWeb/indi/BBV036/licenceRecord,,M,RO,2019-10-25,
+"McIsaac, Stephen Graeme ",None,sfclicrec.asp?p=113959,AKS929,http://www.sfc.hk/publicregWeb/indi/AKS929/licenceRecord,,M,RO,2014-01-06,2018-06-05
+"Mui, Alfred Lap Chung 梅立中",None,sfclicrec.asp?p=82530,ADS047,http://www.sfc.hk/publicregWeb/indi/ADS047/licenceRecord,,M,Rep,2008-03-05,2010-06-14
+"Rucquoi-Berger, John Timothy 伯希儒",None,sfclicrec.asp?p=103399,ACW848,http://www.sfc.hk/publicregWeb/indi/ACW848/licenceRecord,,M,RO,2012-04-03,2013-12-31
+"Welland, Tony ",None,sfclicrec.asp?p=1919510,AZQ236,http://www.sfc.hk/publicregWeb/indi/AZQ236/licenceRecord,,M,Rep,2012-07-03,2015-06-18
+"Welland, Tony ",None,sfclicrec.asp?p=1919510,AZQ236,http://www.sfc.hk/publicregWeb/indi/AZQ236/licenceRecord,,M,RO,2015-06-18,2017-02-23
+"Wong, Pak Yan 黃栢仁",None,sfclicrec.asp?p=97191,AMU238,http://www.sfc.hk/publicregWeb/indi/AMU238/licenceRecord,,,Rep,2008-04-18,2009-03-02
+"York, Philip Michael ",None,sfclicrec.asp?p=2628243,AXO808,http://www.sfc.hk/publicregWeb/indi/AXO808/licenceRecord,,M,RO,2016-09-02,

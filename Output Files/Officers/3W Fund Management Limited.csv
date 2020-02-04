@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Ziyu (SFC:AQM097) 陳子妤",sfclicrec.asp?p=70499,,,RO,2013-06-27,
-"Ming, Edward Chi Ho 明智豪",sfclicrec.asp?p=92286,,M,Rep,2015-07-22,2018-09-14
-"Ng, Kwok Lam 吳國霖",sfclicrec.asp?p=71620,,,Rep,2018-10-10,
-"Wu, Weiwei 吳微威",sfclicrec.asp?p=1981933,,,RO,2012-11-16,
-"Yao, Deyin 姚德印",sfclicrec.asp?p=2602054,,,Rep,2018-08-28,2018-09-06
-"Zhang, Yali (SFC:AOT374) 張雅麗",sfclicrec.asp?p=92287,,,RO,2012-11-16,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Ziyu (SFC:AQM097) 陳子妤",None,sfclicrec.asp?p=70499,AQM097,http://www.sfc.hk/publicregWeb/indi/AQM097/licenceRecord,,,RO,2013-06-27,
+"Ming, Edward Chi Ho 明智豪",None,sfclicrec.asp?p=92286,AUS686,http://www.sfc.hk/publicregWeb/indi/AUS686/licenceRecord,,M,Rep,2015-07-22,2018-09-14
+"Ng, Kwok Lam 吳國霖",None,sfclicrec.asp?p=71620,APM132,http://www.sfc.hk/publicregWeb/indi/APM132/licenceRecord,,,Rep,2018-10-10,
+"Wu, Weiwei 吳微威",None,sfclicrec.asp?p=1981933,BAH842,http://www.sfc.hk/publicregWeb/indi/BAH842/licenceRecord,,,RO,2012-11-16,
+"Yao, Deyin 姚德印",None,sfclicrec.asp?p=2602054,BHS756,http://www.sfc.hk/publicregWeb/indi/BHS756/licenceRecord,,,Rep,2018-08-28,2018-09-06
+"Zhang, Yali (SFC:AOT374) 張雅麗",None,sfclicrec.asp?p=92287,AOT374,http://www.sfc.hk/publicregWeb/indi/AOT374/licenceRecord,,,RO,2012-11-16,

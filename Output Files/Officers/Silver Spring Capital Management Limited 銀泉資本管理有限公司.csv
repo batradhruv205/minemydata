@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Gordon, Brett Sheradon ",sfclicrec.asp?p=99895,,,Rep,2011-06-16,2011-08-01
-"Gordon, Brett Sheradon ",sfclicrec.asp?p=99895,,,RO,2011-08-01,2012-08-02
-"Ho, Hsiang Ming 賀象民",sfclicrec.asp?p=72055,,,Rep,2014-03-20,2016-12-09
-"Ho, Mary Wai Yi 何煒儀",sfclicrec.asp?p=99897,,F,RO,2010-07-08,
-"Khanduri, Sanjay ",sfclicrec.asp?p=99898,,M,RO,2009-10-30,
-"Mi, Jia (SFC:ATX004) 米佳",sfclicrec.asp?p=75872,,,RO,2009-10-30,2010-07-15
-"Wang, Leping 王樂平",sfclicrec.asp?p=75876,,,RO,2009-10-30,2010-09-03
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Gordon, Brett Sheradon ",None,sfclicrec.asp?p=99895,ARJ345,http://www.sfc.hk/publicregWeb/indi/ARJ345/licenceRecord,,,Rep,2011-06-16,2011-08-01
+"Gordon, Brett Sheradon ",None,sfclicrec.asp?p=99895,ARJ345,http://www.sfc.hk/publicregWeb/indi/ARJ345/licenceRecord,,,RO,2011-08-01,2012-08-02
+"Ho, Hsiang Ming 賀象民",None,sfclicrec.asp?p=72055,ACD346,http://www.sfc.hk/publicregWeb/indi/ACD346/licenceRecord,,,Rep,2014-03-20,2016-12-09
+"Ho, Mary Wai Yi 何煒儀",None,sfclicrec.asp?p=99897,AVA359,http://www.sfc.hk/publicregWeb/indi/AVA359/licenceRecord,,F,RO,2010-07-08,
+"Khanduri, Sanjay ",None,sfclicrec.asp?p=99898,ATX001,http://www.sfc.hk/publicregWeb/indi/ATX001/licenceRecord,,M,RO,2009-10-30,
+"Mi, Jia (SFC:ATX004) 米佳",None,sfclicrec.asp?p=75872,ATX004,http://www.sfc.hk/publicregWeb/indi/ATX004/licenceRecord,,,RO,2009-10-30,2010-07-15
+"Wang, Leping 王樂平",None,sfclicrec.asp?p=75876,APB500,http://www.sfc.hk/publicregWeb/indi/APB500/licenceRecord,,,RO,2009-10-30,2010-09-03

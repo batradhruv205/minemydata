@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Ka Kit (SFC:BAY064) 陳家傑",sfclicrec.asp?p=2026855,,,RO,2017-08-04,
-"Chen, Chih-ching 陳志清",sfclicrec.asp?p=85304,,,RO,2017-08-04,2018-05-17
-"Cheung, Yee 張怡",sfclicrec.asp?p=2307466,,,Rep,2019-10-18,
-"Gao, Wei (SFC:BNH459) 高薇",sfclicrec.asp?p=22251006,,,RO,2018-10-15,
-"Leung, Steven Yip Hang 梁業恒",sfclicrec.asp?p=76918,,M,Rep,2019-09-16,2019-11-15
-"Shen, Yanjie 沈燕婕",sfclicrec.asp?p=22251007,,,RO,2018-10-15,
-"Wong, Wing Hang (SFC:BDW769) 黃永恒",sfclicrec.asp?p=2315420,,,Rep,2018-09-28,
-"Yau, Ka Ho (SFC:AUI151) 邱嘉豪",sfclicrec.asp?p=97613,,,RO,2017-08-04,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Ka Kit (SFC:BAY064) 陳家傑",None,sfclicrec.asp?p=2026855,BAY064,http://www.sfc.hk/publicregWeb/indi/BAY064/licenceRecord,,,RO,2017-08-04,
+"Chen, Chih-ching 陳志清",None,sfclicrec.asp?p=85304,AQD360,http://www.sfc.hk/publicregWeb/indi/AQD360/licenceRecord,,,RO,2017-08-04,2018-05-17
+"Cheung, Yee 張怡",None,sfclicrec.asp?p=2307466,BEA239,http://www.sfc.hk/publicregWeb/indi/BEA239/licenceRecord,,,Rep,2019-10-18,
+"Gao, Wei (SFC:BNH459) 高薇",None,sfclicrec.asp?p=22251006,BNH459,http://www.sfc.hk/publicregWeb/indi/BNH459/licenceRecord,,,RO,2018-10-15,
+"Leung, Steven Yip Hang 梁業恒",None,sfclicrec.asp?p=76918,ALW765,http://www.sfc.hk/publicregWeb/indi/ALW765/licenceRecord,,M,Rep,2019-09-16,2019-11-15
+"Shen, Yanjie 沈燕婕",None,sfclicrec.asp?p=22251007,BNF270,http://www.sfc.hk/publicregWeb/indi/BNF270/licenceRecord,,,RO,2018-10-15,
+"Wong, Wing Hang (SFC:BDW769) 黃永恒",None,sfclicrec.asp?p=2315420,BDW769,http://www.sfc.hk/publicregWeb/indi/BDW769/licenceRecord,,,Rep,2018-09-28,
+"Yau, Ka Ho (SFC:AUI151) 邱嘉豪",None,sfclicrec.asp?p=97613,AUI151,http://www.sfc.hk/publicregWeb/indi/AUI151/licenceRecord,,,RO,2017-08-04,

@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Hung Fat 張洪發",sfclicrec.asp?p=87488,,,RO,2017-01-27,2017-04-12
-"Ching, Wallace Sick Lun 程識麟",sfclicrec.asp?p=88822,,M,RO,2016-08-16,2017-07-06
-"Fong, Maggie Yuen Chi 方苑芝",sfclicrec.asp?p=87301,,F,RO,2016-08-16,2017-05-21
-"Ko, Tha Fung 高沓峯",sfclicrec.asp?p=133035,,,RO,2018-06-07,2018-12-21
-"Lam, Jonathan Chi Kwong 林志廣",sfclicrec.asp?p=102648,,M,Rep,2017-05-11,2017-05-18
-"Lam, Jonathan Chi Kwong 林志廣",sfclicrec.asp?p=102648,,M,RO,2017-05-18,2019-09-04
-"Lu, Mo 呂默",sfclicrec.asp?p=12141422,,,RO,2019-04-03,2020-01-15
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Hung Fat 張洪發",None,sfclicrec.asp?p=87488,AAA157,http://www.sfc.hk/publicregWeb/indi/AAA157/licenceRecord,,,RO,2017-01-27,2017-04-12
+"Ching, Wallace Sick Lun 程識麟",None,sfclicrec.asp?p=88822,ABR628,http://www.sfc.hk/publicregWeb/indi/ABR628/licenceRecord,,M,RO,2016-08-16,2017-07-06
+"Fong, Maggie Yuen Chi 方苑芝",None,sfclicrec.asp?p=87301,AML434,http://www.sfc.hk/publicregWeb/indi/AML434/licenceRecord,,F,RO,2016-08-16,2017-05-21
+"Ko, Tha Fung 高沓峯",None,sfclicrec.asp?p=133035,AXX482,http://www.sfc.hk/publicregWeb/indi/AXX482/licenceRecord,,,RO,2018-06-07,2018-12-21
+"Lam, Jonathan Chi Kwong 林志廣",None,sfclicrec.asp?p=102648,ACD659,http://www.sfc.hk/publicregWeb/indi/ACD659/licenceRecord,,M,Rep,2017-05-11,2017-05-18
+"Lam, Jonathan Chi Kwong 林志廣",None,sfclicrec.asp?p=102648,ACD659,http://www.sfc.hk/publicregWeb/indi/ACD659/licenceRecord,,M,RO,2017-05-18,2019-09-04
+"Lu, Mo 呂默",None,sfclicrec.asp?p=12141422,BJE004,http://www.sfc.hk/publicregWeb/indi/BJE004/licenceRecord,,,RO,2019-04-03,2020-01-15

@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Gu, Erdong 顧爾東",sfclicrec.asp?p=1916641,,,Rep,2016-07-27,2017-08-10
-"Gu, Erdong 顧爾東",sfclicrec.asp?p=1916641,,,RO,2017-08-10,2018-03-29
-"Lin, Chengdong (SFC:BHF592) 林成楝",sfclicrec.asp?p=2603629,,,RO,2016-07-07,2019-05-02
-"Ni, Jinjing 倪金晶",sfclicrec.asp?p=2603630,,,RO,2016-07-07,
-"Ren, Dongyang 任東阳",sfclicrec.asp?p=2599826,,,Rep,2017-03-15,2018-02-09
-"Shi, Qi (SFC:BMN445) 石琦",sfclicrec.asp?p=12847784,,,Rep,2018-03-13,
-"Tang, Wei Ye ",sfclicrec.asp?p=2573390,,,RO,2016-07-07,2017-09-26
-"Wu, Jing (SFC:BOA536) 吴晶",sfclicrec.asp?p=23107769,,,Rep,2019-04-29,2019-05-02
-"Wu, Jing (SFC:BOA536) 吴晶",sfclicrec.asp?p=23107769,,,RO,2019-05-02,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Gu, Erdong 顧爾東",None,sfclicrec.asp?p=1916641,AZT025,http://www.sfc.hk/publicregWeb/indi/AZT025/licenceRecord,,,Rep,2016-07-27,2017-08-10
+"Gu, Erdong 顧爾東",None,sfclicrec.asp?p=1916641,AZT025,http://www.sfc.hk/publicregWeb/indi/AZT025/licenceRecord,,,RO,2017-08-10,2018-03-29
+"Lin, Chengdong (SFC:BHF592) 林成楝",None,sfclicrec.asp?p=2603629,BHF592,http://www.sfc.hk/publicregWeb/indi/BHF592/licenceRecord,,,RO,2016-07-07,2019-05-02
+"Ni, Jinjing 倪金晶",None,sfclicrec.asp?p=2603630,BHF588,http://www.sfc.hk/publicregWeb/indi/BHF588/licenceRecord,,,RO,2016-07-07,
+"Ren, Dongyang 任東阳",None,sfclicrec.asp?p=2599826,BHS243,http://www.sfc.hk/publicregWeb/indi/BHS243/licenceRecord,,,Rep,2017-03-15,2018-02-09
+"Shi, Qi (SFC:BMN445) 石琦",None,sfclicrec.asp?p=12847784,BMN445,http://www.sfc.hk/publicregWeb/indi/BMN445/licenceRecord,,,Rep,2018-03-13,
+"Tang, Wei Ye ",None,sfclicrec.asp?p=2573390,AZL843,http://www.sfc.hk/publicregWeb/indi/AZL843/licenceRecord,,,RO,2016-07-07,2017-09-26
+"Wu, Jing (SFC:BOA536) 吴晶",None,sfclicrec.asp?p=23107769,BOA536,http://www.sfc.hk/publicregWeb/indi/BOA536/licenceRecord,,,Rep,2019-04-29,2019-05-02
+"Wu, Jing (SFC:BOA536) 吴晶",None,sfclicrec.asp?p=23107769,BOA536,http://www.sfc.hk/publicregWeb/indi/BOA536/licenceRecord,,,RO,2019-05-02,

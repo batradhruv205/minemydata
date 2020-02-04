@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Nelson 張俊揚",sfclicrec.asp?p=2489283,,M,Rep,2015-10-22,2016-08-08
-"Cheung, Nelson 張俊揚",sfclicrec.asp?p=2489283,,M,RO,2016-08-08,
-"Fan, Zhenchuan 范臻川",sfclicrec.asp?p=11789175,,,Rep,2017-08-16,
-"Guarnieri, Giampaolo Gino Ferdinando ",sfclicrec.asp?p=59403,,M,RO,2010-07-12,
-"Khan, Carina ",sfclicrec.asp?p=92175,,F,Rep,2010-07-19,2013-09-19
-"Leung, Sophie Kit Man 梁潔雯",sfclicrec.asp?p=91079,,F,Rep,2011-10-19,2012-09-24
-"Liu, Shuang (SFC:AHO649) 劉爽",sfclicrec.asp?p=91081,,,Rep,2011-10-19,2012-01-31
-"Markosov, Suren Gueorgui ",sfclicrec.asp?p=90612,,,Rep,2013-06-25,2015-02-13
-"Mironov, Leonid ",sfclicrec.asp?p=1875855,,,Rep,2012-04-10,2013-03-18
-"Soutar, James Alexander 蘇德城",sfclicrec.asp?p=28690,55,M,RO,2010-07-12,
-"Wong, Raymond Po Hoi 王報凱",sfclicrec.asp?p=92176,,M,Rep,2011-01-28,2013-03-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Nelson 張俊揚",None,sfclicrec.asp?p=2489283,BGJ248,http://www.sfc.hk/publicregWeb/indi/BGJ248/licenceRecord,,M,Rep,2015-10-22,2016-08-08
+"Cheung, Nelson 張俊揚",None,sfclicrec.asp?p=2489283,BGJ248,http://www.sfc.hk/publicregWeb/indi/BGJ248/licenceRecord,,M,RO,2016-08-08,
+"Fan, Zhenchuan 范臻川",None,sfclicrec.asp?p=11789175,BKM357,http://www.sfc.hk/publicregWeb/indi/BKM357/licenceRecord,,,Rep,2017-08-16,
+"Guarnieri, Giampaolo Gino Ferdinando ",None,sfclicrec.asp?p=59403,AAQ068,http://www.sfc.hk/publicregWeb/indi/AAQ068/licenceRecord,,M,RO,2010-07-12,
+"Khan, Carina ",None,sfclicrec.asp?p=92175,ACE320,http://www.sfc.hk/publicregWeb/indi/ACE320/licenceRecord,,F,Rep,2010-07-19,2013-09-19
+"Leung, Sophie Kit Man 梁潔雯",None,sfclicrec.asp?p=91079,ATW521,http://www.sfc.hk/publicregWeb/indi/ATW521/licenceRecord,,F,Rep,2011-10-19,2012-09-24
+"Liu, Shuang (SFC:AHO649) 劉爽",None,sfclicrec.asp?p=91081,AHO649,http://www.sfc.hk/publicregWeb/indi/AHO649/licenceRecord,,,Rep,2011-10-19,2012-01-31
+"Markosov, Suren Gueorgui ",None,sfclicrec.asp?p=90612,AMI359,http://www.sfc.hk/publicregWeb/indi/AMI359/licenceRecord,,,Rep,2013-06-25,2015-02-13
+"Mironov, Leonid ",None,sfclicrec.asp?p=1875855,AZD218,http://www.sfc.hk/publicregWeb/indi/AZD218/licenceRecord,,,Rep,2012-04-10,2013-03-18
+"Soutar, James Alexander 蘇德城",None,sfclicrec.asp?p=28690,ACS345,http://www.sfc.hk/publicregWeb/indi/ACS345/licenceRecord,55.0,M,RO,2010-07-12,
+"Wong, Raymond Po Hoi 王報凱",None,sfclicrec.asp?p=92176,AGN457,http://www.sfc.hk/publicregWeb/indi/AGN457/licenceRecord,,M,Rep,2011-01-28,2013-03-31

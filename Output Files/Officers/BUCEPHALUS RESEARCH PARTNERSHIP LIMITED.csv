@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chung, James Man Him 鍾文謙",sfclicrec.asp?p=100275,,M,RO,2019-05-16,
-"Fisher, Jocelyn Howard ",sfclicrec.asp?p=77145,,M,RO,2017-03-24,2019-05-31
-"Lawrence, Andrew John ",sfclicrec.asp?p=69664,,M,Rep,2017-05-29,2019-12-31
-"Medd, Alexander Robert ",sfclicrec.asp?p=48923,,M,RO,2017-03-24,
-"Morgan, Joseph Henry 穆冠名",sfclicrec.asp?p=11796650,,M,Rep,2017-09-06,2018-09-03
-"Wood, Robert Michael ",sfclicrec.asp?p=96631,,M,Rep,2018-08-02,2019-02-13
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chung, James Man Him 鍾文謙",None,sfclicrec.asp?p=100275,ANK917,http://www.sfc.hk/publicregWeb/indi/ANK917/licenceRecord,,M,RO,2019-05-16,
+"Fisher, Jocelyn Howard ",None,sfclicrec.asp?p=77145,AFB130,http://www.sfc.hk/publicregWeb/indi/AFB130/licenceRecord,,M,RO,2017-03-24,2019-05-31
+"Lawrence, Andrew John ",None,sfclicrec.asp?p=69664,AEC577,http://www.sfc.hk/publicregWeb/indi/AEC577/licenceRecord,,M,Rep,2017-05-29,2019-12-31
+"Medd, Alexander Robert ",None,sfclicrec.asp?p=48923,ADL651,http://www.sfc.hk/publicregWeb/indi/ADL651/licenceRecord,,M,RO,2017-03-24,
+"Morgan, Joseph Henry 穆冠名",None,sfclicrec.asp?p=11796650,BJT439,http://www.sfc.hk/publicregWeb/indi/BJT439/licenceRecord,,M,Rep,2017-09-06,2018-09-03
+"Wood, Robert Michael ",None,sfclicrec.asp?p=96631,AVS462,http://www.sfc.hk/publicregWeb/indi/AVS462/licenceRecord,,M,Rep,2018-08-02,2019-02-13

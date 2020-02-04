@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au, Andrew 歐子健",sfclicrec.asp?p=108273,,M,Rep,2014-11-28,
-"Dudgeon, Alexander Stewart ",sfclicrec.asp?p=2341188,,M,RO,2013-04-05,
-"Emmerson, Dominic Peter Corti (SFC:BAS659) ",sfclicrec.asp?p=2341189,,M,RO,2013-04-05,2018-03-21
-"Huang, Chao-Sheng 黃晁晟",sfclicrec.asp?p=105164,,,Rep,2018-10-09,2020-01-15
-"Kattevilder, Jelmer Maarten ",sfclicrec.asp?p=11667744,,,Rep,2018-05-17,
-"Pang, Ka Kin 彭家健",sfclicrec.asp?p=2133577,,,Rep,2014-11-04,2018-04-13
-"Ridland, Robert James ",sfclicrec.asp?p=2341190,,M,Rep,2013-04-29,2015-12-21
-"Ridland, Robert James ",sfclicrec.asp?p=2341190,,M,RO,2015-12-21,
-"Teo, Hui Ying Geraldine ",sfclicrec.asp?p=23976387,,F,Rep,2019-12-02,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au, Andrew 歐子健",None,sfclicrec.asp?p=108273,AGA691,http://www.sfc.hk/publicregWeb/indi/AGA691/licenceRecord,,M,Rep,2014-11-28,
+"Dudgeon, Alexander Stewart ",None,sfclicrec.asp?p=2341188,BAS658,http://www.sfc.hk/publicregWeb/indi/BAS658/licenceRecord,,M,RO,2013-04-05,
+"Emmerson, Dominic Peter Corti (SFC:BAS659) ",None,sfclicrec.asp?p=2341189,BAS659,http://www.sfc.hk/publicregWeb/indi/BAS659/licenceRecord,,M,RO,2013-04-05,2018-03-21
+"Huang, Chao-Sheng 黃晁晟",None,sfclicrec.asp?p=105164,AEP568,http://www.sfc.hk/publicregWeb/indi/AEP568/licenceRecord,,,Rep,2018-10-09,2020-01-15
+"Kattevilder, Jelmer Maarten ",None,sfclicrec.asp?p=11667744,BJU618,http://www.sfc.hk/publicregWeb/indi/BJU618/licenceRecord,,,Rep,2018-05-17,
+"Pang, Ka Kin 彭家健",None,sfclicrec.asp?p=2133577,BBW419,http://www.sfc.hk/publicregWeb/indi/BBW419/licenceRecord,,,Rep,2014-11-04,2018-04-13
+"Ridland, Robert James ",None,sfclicrec.asp?p=2341190,BAS793,http://www.sfc.hk/publicregWeb/indi/BAS793/licenceRecord,,M,Rep,2013-04-29,2015-12-21
+"Ridland, Robert James ",None,sfclicrec.asp?p=2341190,BAS793,http://www.sfc.hk/publicregWeb/indi/BAS793/licenceRecord,,M,RO,2015-12-21,
+"Teo, Hui Ying Geraldine ",None,sfclicrec.asp?p=23976387,BOX324,http://www.sfc.hk/publicregWeb/indi/BOX324/licenceRecord,,F,Rep,2019-12-02,

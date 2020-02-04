@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Bosco Hon Fai 張漢輝",sfclicrec.asp?p=57410,70,M,RO,2017-11-21,
-"Lo, Barry Wai Kong 羅煒剛",sfclicrec.asp?p=95024,,M,RO,2017-11-21,
-"Tong, Jack Shing Kit 湯承傑",sfclicrec.asp?p=104075,,M,Rep,2018-04-04,
-"Yam, Tsz Man 任子文",sfclicrec.asp?p=89958,,,RO,2017-11-21,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Bosco Hon Fai 張漢輝",None,sfclicrec.asp?p=57410,AAD782,http://www.sfc.hk/publicregWeb/indi/AAD782/licenceRecord,70.0,M,RO,2017-11-21,
+"Lo, Barry Wai Kong 羅煒剛",None,sfclicrec.asp?p=95024,ABC563,http://www.sfc.hk/publicregWeb/indi/ABC563/licenceRecord,,M,RO,2017-11-21,
+"Tong, Jack Shing Kit 湯承傑",None,sfclicrec.asp?p=104075,ADS004,http://www.sfc.hk/publicregWeb/indi/ADS004/licenceRecord,,M,Rep,2018-04-04,
+"Yam, Tsz Man 任子文",None,sfclicrec.asp?p=89958,AIC212,http://www.sfc.hk/publicregWeb/indi/AIC212/licenceRecord,,,RO,2017-11-21,

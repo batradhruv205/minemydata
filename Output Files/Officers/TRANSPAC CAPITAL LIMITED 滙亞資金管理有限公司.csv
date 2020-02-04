@@ -1,18 +1,18 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Hai, Yangguangyi 海楊广益",sfclicrec.asp?p=23587796,,,Rep,2019-08-26,
-"Ho, Ka Yu Eric 何家裕",sfclicrec.asp?p=129896,,,Rep,2010-07-21,2018-04-03
-"Lau, Dorothy Wan Hang 劉蘊珩",sfclicrec.asp?p=110031,,F,Rep,,2005-12-16
-"Leong, Christopher Ka Cheong 梁家鏘",sfclicrec.asp?p=29809,77,M,RO,2006-08-15,
-"Liu, Chung-Kuang 劉中光",sfclicrec.asp?p=88377,,,Rep,2019-11-11,
-"Mak, Chi Ho (SFC:ATN700) 麥志豪",sfclicrec.asp?p=128396,,,Rep,2019-10-09,2019-12-06
-"Mak, Chi Ho (SFC:ATN700) 麥志豪",sfclicrec.asp?p=128396,,,RO,2019-12-06,
-"Tsang, Tony Wing Ming 曾永明",sfclicrec.asp?p=15515,49,M,Rep,,2005-12-04
-"Wong, Simon Kwong Chi 王幹芝",sfclicrec.asp?p=3429,69,M,RO,,2005-09-01
-"Woo, Adrian Chin Pang 胡展鵬",sfclicrec.asp?p=15708,61,M,Rep,,2003-10-02
-"Woo, Adrian Chin Pang 胡展鵬",sfclicrec.asp?p=15708,61,M,RO,2003-10-02,
-"Yang, Dong (SFC:BBP096) 楊東",sfclicrec.asp?p=2136531,,,Rep,2018-03-14,2018-04-26
-"Yang, Dong (SFC:BBP096) 楊東",sfclicrec.asp?p=2136531,,,RO,2018-04-26,2019-08-01
-"Yeung, Man Wai (SFC:BLR318) 楊文偉",sfclicrec.asp?p=12741764,,,Rep,2018-01-26,
-"Yu, Yong Ying 俞永瑩",sfclicrec.asp?p=23962833,,,Rep,2019-11-28,2020-01-15
-"Zee, Patrick 徐可剛",sfclicrec.asp?p=24280,48,M,Rep,,2006-02-28
-"Zee, Patrick 徐可剛",sfclicrec.asp?p=24280,48,M,RO,2006-02-28,2008-07-11
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Hai, Yangguangyi 海楊广益",None,sfclicrec.asp?p=23587796,BOP825,http://www.sfc.hk/publicregWeb/indi/BOP825/licenceRecord,,,Rep,2019-08-26,
+"Ho, Ka Yu Eric 何家裕",None,sfclicrec.asp?p=129896,AVI795,http://www.sfc.hk/publicregWeb/indi/AVI795/licenceRecord,,,Rep,2010-07-21,2018-04-03
+"Lau, Dorothy Wan Hang 劉蘊珩",None,sfclicrec.asp?p=110031,AGO765,http://www.sfc.hk/publicregWeb/indi/AGO765/licenceRecord,,F,Rep,,2005-12-16
+"Leong, Christopher Ka Cheong 梁家鏘",None,sfclicrec.asp?p=29809,ABA754,http://www.sfc.hk/publicregWeb/indi/ABA754/licenceRecord,77.0,M,RO,2006-08-15,
+"Liu, Chung-Kuang 劉中光",None,sfclicrec.asp?p=88377,ANG127,http://www.sfc.hk/publicregWeb/indi/ANG127/licenceRecord,,,Rep,2019-11-11,
+"Mak, Chi Ho (SFC:ATN700) 麥志豪",None,sfclicrec.asp?p=128396,ATN700,http://www.sfc.hk/publicregWeb/indi/ATN700/licenceRecord,,,Rep,2019-10-09,2019-12-06
+"Mak, Chi Ho (SFC:ATN700) 麥志豪",None,sfclicrec.asp?p=128396,ATN700,http://www.sfc.hk/publicregWeb/indi/ATN700/licenceRecord,,,RO,2019-12-06,
+"Tsang, Tony Wing Ming 曾永明",None,sfclicrec.asp?p=15515,ADQ064,http://www.sfc.hk/publicregWeb/indi/ADQ064/licenceRecord,49.0,M,Rep,,2005-12-04
+"Wong, Simon Kwong Chi 王幹芝",None,sfclicrec.asp?p=3429,ABY050,http://www.sfc.hk/publicregWeb/indi/ABY050/licenceRecord,69.0,M,RO,,2005-09-01
+"Woo, Adrian Chin Pang 胡展鵬",None,sfclicrec.asp?p=15708,ACS160,http://www.sfc.hk/publicregWeb/indi/ACS160/licenceRecord,61.0,M,Rep,,2003-10-02
+"Woo, Adrian Chin Pang 胡展鵬",None,sfclicrec.asp?p=15708,ACS160,http://www.sfc.hk/publicregWeb/indi/ACS160/licenceRecord,61.0,M,RO,2003-10-02,
+"Yang, Dong (SFC:BBP096) 楊東",None,sfclicrec.asp?p=2136531,BBP096,http://www.sfc.hk/publicregWeb/indi/BBP096/licenceRecord,,,Rep,2018-03-14,2018-04-26
+"Yang, Dong (SFC:BBP096) 楊東",None,sfclicrec.asp?p=2136531,BBP096,http://www.sfc.hk/publicregWeb/indi/BBP096/licenceRecord,,,RO,2018-04-26,2019-08-01
+"Yeung, Man Wai (SFC:BLR318) 楊文偉",None,sfclicrec.asp?p=12741764,BLR318,http://www.sfc.hk/publicregWeb/indi/BLR318/licenceRecord,,,Rep,2018-01-26,
+"Yu, Yong Ying 俞永瑩",None,sfclicrec.asp?p=23962833,BNO982,http://www.sfc.hk/publicregWeb/indi/BNO982/licenceRecord,,,Rep,2019-11-28,2020-01-15
+"Zee, Patrick 徐可剛",None,sfclicrec.asp?p=24280,ADA339,http://www.sfc.hk/publicregWeb/indi/ADA339/licenceRecord,48.0,M,Rep,,2006-02-28
+"Zee, Patrick 徐可剛",None,sfclicrec.asp?p=24280,ADA339,http://www.sfc.hk/publicregWeb/indi/ADA339/licenceRecord,48.0,M,RO,2006-02-28,2008-07-11

@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Li, Wanli 李万里",sfclicrec.asp?p=127089,,,RO,2019-04-09,
-"Liu, Louis Feng 柳峰",sfclicrec.asp?p=23026715,,M,RO,2019-04-09,
-"Wang, Jing (SFC:AUQ482) 王靖",sfclicrec.asp?p=84271,,,RO,2019-04-09,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Li, Wanli 李万里",None,sfclicrec.asp?p=127089,ARV790,http://www.sfc.hk/publicregWeb/indi/ARV790/licenceRecord,,,RO,2019-04-09,
+"Liu, Louis Feng 柳峰",None,sfclicrec.asp?p=23026715,BNC928,http://www.sfc.hk/publicregWeb/indi/BNC928/licenceRecord,,M,RO,2019-04-09,
+"Wang, Jing (SFC:AUQ482) 王靖",None,sfclicrec.asp?p=84271,AUQ482,http://www.sfc.hk/publicregWeb/indi/AUQ482/licenceRecord,,,RO,2019-04-09,

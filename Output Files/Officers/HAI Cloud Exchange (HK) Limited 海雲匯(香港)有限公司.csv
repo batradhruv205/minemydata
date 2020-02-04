@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chang, Xueshan 常雪杉",sfclicrec.asp?p=124979,,,Rep,2018-11-26,2019-07-16
-"Gao, Qifan 高綺繁",sfclicrec.asp?p=2549056,,,Rep,2019-07-31,
-"Kwok, Man Yu (SFC:ALY348) 郭敏瑜",sfclicrec.asp?p=115798,,,RO,2018-08-16,
-"Liu, Feng (SFC:BBE981) 劉峰",sfclicrec.asp?p=2075534,,,RO,2019-07-10,2019-10-21
-"Zhang, Yanbai 章硯柏",sfclicrec.asp?p=121978,,,RO,2018-08-16,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chang, Xueshan 常雪杉",None,sfclicrec.asp?p=124979,AQU414,http://www.sfc.hk/publicregWeb/indi/AQU414/licenceRecord,,,Rep,2018-11-26,2019-07-16
+"Gao, Qifan 高綺繁",None,sfclicrec.asp?p=2549056,BHE173,http://www.sfc.hk/publicregWeb/indi/BHE173/licenceRecord,,,Rep,2019-07-31,
+"Kwok, Man Yu (SFC:ALY348) 郭敏瑜",None,sfclicrec.asp?p=115798,ALY348,http://www.sfc.hk/publicregWeb/indi/ALY348/licenceRecord,,,RO,2018-08-16,
+"Liu, Feng (SFC:BBE981) 劉峰",None,sfclicrec.asp?p=2075534,BBE981,http://www.sfc.hk/publicregWeb/indi/BBE981/licenceRecord,,,RO,2019-07-10,2019-10-21
+"Zhang, Yanbai 章硯柏",None,sfclicrec.asp?p=121978,APF034,http://www.sfc.hk/publicregWeb/indi/APF034/licenceRecord,,,RO,2018-08-16,

@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chanda, Asheesh ",sfclicrec.asp?p=2659633,,,RO,2016-11-15,
-"Lee, Ka Ho (SFC:BMO616) 利家豪",sfclicrec.asp?p=13777515,,,Rep,2018-04-12,2019-01-31
-"Leung, Chi Yung 梁棋咏",sfclicrec.asp?p=2475881,,,Rep,2018-07-24,2019-05-31
-"Mohindra, Vivek ",sfclicrec.asp?p=117882,,M,RO,2016-11-15,
-"Narasimhan, Vineeth ",sfclicrec.asp?p=17612122,,,RO,2018-06-19,
-"Pai, Arun Madhavaraya ",sfclicrec.asp?p=122510,,M,Rep,2017-02-20,
-"Patravali, Ashwin ",sfclicrec.asp?p=12604708,,M,Rep,2017-11-28,
-"Wat, Tsun Tao 屈駿韜",sfclicrec.asp?p=22228489,,,Rep,2019-07-17,2019-08-07
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chanda, Asheesh ",None,sfclicrec.asp?p=2659633,BHZ138,http://www.sfc.hk/publicregWeb/indi/BHZ138/licenceRecord,,,RO,2016-11-15,
+"Lee, Ka Ho (SFC:BMO616) 利家豪",None,sfclicrec.asp?p=13777515,BMO616,http://www.sfc.hk/publicregWeb/indi/BMO616/licenceRecord,,,Rep,2018-04-12,2019-01-31
+"Leung, Chi Yung 梁棋咏",None,sfclicrec.asp?p=2475881,BGE648,http://www.sfc.hk/publicregWeb/indi/BGE648/licenceRecord,,,Rep,2018-07-24,2019-05-31
+"Mohindra, Vivek ",None,sfclicrec.asp?p=117882,ANA721,http://www.sfc.hk/publicregWeb/indi/ANA721/licenceRecord,,M,RO,2016-11-15,
+"Narasimhan, Vineeth ",None,sfclicrec.asp?p=17612122,BJQ798,http://www.sfc.hk/publicregWeb/indi/BJQ798/licenceRecord,,,RO,2018-06-19,
+"Pai, Arun Madhavaraya ",None,sfclicrec.asp?p=122510,APK590,http://www.sfc.hk/publicregWeb/indi/APK590/licenceRecord,,M,Rep,2017-02-20,
+"Patravali, Ashwin ",None,sfclicrec.asp?p=12604708,BLL838,http://www.sfc.hk/publicregWeb/indi/BLL838/licenceRecord,,M,Rep,2017-11-28,
+"Wat, Tsun Tao 屈駿韜",None,sfclicrec.asp?p=22228489,BNO906,http://www.sfc.hk/publicregWeb/indi/BNO906/licenceRecord,,,Rep,2019-07-17,2019-08-07

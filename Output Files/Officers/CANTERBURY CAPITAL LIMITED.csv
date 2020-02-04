@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, David Tsz Wing 陳子榮",sfclicrec.asp?p=102520,,M,RO,,
-"Young, Mai San ",sfclicrec.asp?p=34373,49,F,Rep,2004-08-17,2005-03-30
-"Young, Mai San ",sfclicrec.asp?p=34373,49,F,RO,2005-03-30,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, David Tsz Wing 陳子榮",None,sfclicrec.asp?p=102520,ACA315,http://www.sfc.hk/publicregWeb/indi/ACA315/licenceRecord,,M,RO,,
+"Young, Mai San ",None,sfclicrec.asp?p=34373,AFC441,http://www.sfc.hk/publicregWeb/indi/AFC441/licenceRecord,49.0,F,Rep,2004-08-17,2005-03-30
+"Young, Mai San ",None,sfclicrec.asp?p=34373,AFC441,http://www.sfc.hk/publicregWeb/indi/AFC441/licenceRecord,49.0,F,RO,2005-03-30,

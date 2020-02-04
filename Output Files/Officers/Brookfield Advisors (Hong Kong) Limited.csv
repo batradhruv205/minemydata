@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Boocock, Patrick Matthew (SFC:BOA912) ",sfclicrec.asp?p=22798710,,M,Rep,2019-02-19,
-"Chan, Alex King Fai 陳敬輝",sfclicrec.asp?p=2330794,,,RO,2018-12-10,2019-11-29
-"Gabbai, Maurizio Mose 瑋奇",sfclicrec.asp?p=22695215,,,Rep,2019-01-25,
-"Hall, Jeremy George ",sfclicrec.asp?p=78374,,M,Rep,2017-01-27,2017-05-15
-"Hall, Jeremy George ",sfclicrec.asp?p=78374,,M,RO,2017-05-15,
-"Lam, Ching Man (SFC:BDR322) 林靜雯",sfclicrec.asp?p=2291637,,,Rep,2017-02-08,2018-08-10
-"Loh, Elizabeth J. 樂家寧",sfclicrec.asp?p=102622,,F,Rep,2017-02-14,2018-09-14
-"Mercier, Stuart ",sfclicrec.asp?p=2260088,,M,Rep,2017-03-06,2017-05-22
-"Mercier, Stuart ",sfclicrec.asp?p=2260088,,M,RO,2017-05-22,
-"Nicholls, Paul Stewart ",sfclicrec.asp?p=125612,,M,RO,2017-01-04,2018-11-30
-"Suh, Won Bin 徐源斌",sfclicrec.asp?p=2260089,,,Rep,2018-02-05,
-"Thassim, Niel ",sfclicrec.asp?p=39979,47,M,RO,2017-01-04,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Boocock, Patrick Matthew (SFC:BOA912) ",None,sfclicrec.asp?p=22798710,BOA912,http://www.sfc.hk/publicregWeb/indi/BOA912/licenceRecord,,M,Rep,2019-02-19,
+"Chan, Alex King Fai 陳敬輝",None,sfclicrec.asp?p=2330794,BDY278,http://www.sfc.hk/publicregWeb/indi/BDY278/licenceRecord,,,RO,2018-12-10,2019-11-29
+"Gabbai, Maurizio Mose 瑋奇",None,sfclicrec.asp?p=22695215,BIC486,http://www.sfc.hk/publicregWeb/indi/BIC486/licenceRecord,,,Rep,2019-01-25,
+"Hall, Jeremy George ",None,sfclicrec.asp?p=78374,ATD521,http://www.sfc.hk/publicregWeb/indi/ATD521/licenceRecord,,M,Rep,2017-01-27,2017-05-15
+"Hall, Jeremy George ",None,sfclicrec.asp?p=78374,ATD521,http://www.sfc.hk/publicregWeb/indi/ATD521/licenceRecord,,M,RO,2017-05-15,
+"Lam, Ching Man (SFC:BDR322) 林靜雯",None,sfclicrec.asp?p=2291637,BDR322,http://www.sfc.hk/publicregWeb/indi/BDR322/licenceRecord,,,Rep,2017-02-08,2018-08-10
+"Loh, Elizabeth J. 樂家寧",None,sfclicrec.asp?p=102622,ACC527,http://www.sfc.hk/publicregWeb/indi/ACC527/licenceRecord,,F,Rep,2017-02-14,2018-09-14
+"Mercier, Stuart ",None,sfclicrec.asp?p=2260088,BDH940,http://www.sfc.hk/publicregWeb/indi/BDH940/licenceRecord,,M,Rep,2017-03-06,2017-05-22
+"Mercier, Stuart ",None,sfclicrec.asp?p=2260088,BDH940,http://www.sfc.hk/publicregWeb/indi/BDH940/licenceRecord,,M,RO,2017-05-22,
+"Nicholls, Paul Stewart ",None,sfclicrec.asp?p=125612,ARD920,http://www.sfc.hk/publicregWeb/indi/ARD920/licenceRecord,,M,RO,2017-01-04,2018-11-30
+"Suh, Won Bin 徐源斌",None,sfclicrec.asp?p=2260089,BDH938,http://www.sfc.hk/publicregWeb/indi/BDH938/licenceRecord,,,Rep,2018-02-05,
+"Thassim, Niel ",None,sfclicrec.asp?p=39979,AOG997,http://www.sfc.hk/publicregWeb/indi/AOG997/licenceRecord,47.0,M,RO,2017-01-04,

@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Jonathan Hiong Sing 陳香生",sfclicrec.asp?p=101181,,M,RO,2005-03-31,
-"Kwok, Wah Lam 郭華霖",sfclicrec.asp?p=102048,,,RO,2005-03-31,
-"Lau, Man Tat (SFC:AAF968) 劉文達",sfclicrec.asp?p=101179,,,RO,2005-03-31,
-"Tsang, Mei Mui 曾美妹",sfclicrec.asp?p=107033,,,Rep,2005-03-31,2010-03-16
-"Tse, Kei Yi 謝紀儀",sfclicrec.asp?p=107906,,,Rep,2005-03-31,2010-03-16
-"Wu, Tin Hung 胡天熊",sfclicrec.asp?p=102049,,,Rep,2005-03-31,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Jonathan Hiong Sing 陳香生",None,sfclicrec.asp?p=101181,AAF988,http://www.sfc.hk/publicregWeb/indi/AAF988/licenceRecord,,M,RO,2005-03-31,
+"Kwok, Wah Lam 郭華霖",None,sfclicrec.asp?p=102048,ABJ826,http://www.sfc.hk/publicregWeb/indi/ABJ826/licenceRecord,,,RO,2005-03-31,
+"Lau, Man Tat (SFC:AAF968) 劉文達",None,sfclicrec.asp?p=101179,AAF968,http://www.sfc.hk/publicregWeb/indi/AAF968/licenceRecord,,,RO,2005-03-31,
+"Tsang, Mei Mui 曾美妹",None,sfclicrec.asp?p=107033,AFP222,http://www.sfc.hk/publicregWeb/indi/AFP222/licenceRecord,,,Rep,2005-03-31,2010-03-16
+"Tse, Kei Yi 謝紀儀",None,sfclicrec.asp?p=107906,AFW199,http://www.sfc.hk/publicregWeb/indi/AFW199/licenceRecord,,,Rep,2005-03-31,2010-03-16
+"Wu, Tin Hung 胡天熊",None,sfclicrec.asp?p=102049,ABJ828,http://www.sfc.hk/publicregWeb/indi/ABJ828/licenceRecord,,,Rep,2005-03-31,

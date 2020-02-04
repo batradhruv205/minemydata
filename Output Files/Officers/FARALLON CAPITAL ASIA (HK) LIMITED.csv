@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Caldwell, Paul Andrew ",sfclicrec.asp?p=23223492,,M,RO,2019-05-08,
-"Hung, Andrew (SFC:BOB264) ",sfclicrec.asp?p=23223493,,M,RO,2019-05-08,
-"Teo, Ngee Kuan ",sfclicrec.asp?p=119828,,,Rep,2019-06-19,2020-01-01
-"Wong, Andy Ka Ho 王嘉豪",sfclicrec.asp?p=93589,,,Rep,2019-05-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Caldwell, Paul Andrew ",None,sfclicrec.asp?p=23223492,BOB262,http://www.sfc.hk/publicregWeb/indi/BOB262/licenceRecord,,M,RO,2019-05-08,
+"Hung, Andrew (SFC:BOB264) ",None,sfclicrec.asp?p=23223493,BOB264,http://www.sfc.hk/publicregWeb/indi/BOB264/licenceRecord,,M,RO,2019-05-08,
+"Teo, Ngee Kuan ",None,sfclicrec.asp?p=119828,AOA888,http://www.sfc.hk/publicregWeb/indi/AOA888/licenceRecord,,,Rep,2019-06-19,2020-01-01
+"Wong, Andy Ka Ho 王嘉豪",None,sfclicrec.asp?p=93589,AQS311,http://www.sfc.hk/publicregWeb/indi/AQS311/licenceRecord,,,Rep,2019-05-24,

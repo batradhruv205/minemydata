@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Conrad Kam Wah 鄭錦華",sfclicrec.asp?p=99528,,M,Rep,2016-08-26,2016-09-28
-"Cheng, Conrad Kam Wah 鄭錦華",sfclicrec.asp?p=99528,,M,RO,2016-09-28,2017-07-01
-"Cui, Xiaofeng 崔曉峰",sfclicrec.asp?p=133471,,,RO,2012-07-11,2016-09-20
-"Cui, Xiaofeng 崔曉峰",sfclicrec.asp?p=133471,,,RO,2017-09-28,
-"Hou, Dawei 侯大為",sfclicrec.asp?p=13696078,,,Rep,2018-04-09,2018-06-25
-"Hou, Dawei 侯大為",sfclicrec.asp?p=13696078,,,RO,2018-06-25,
-"Kot, Chun Ho 葛鎮浩",sfclicrec.asp?p=11639285,,,Rep,2017-06-19,2019-06-14
-"Lee, Ellen Sze Man 李思敏",sfclicrec.asp?p=95545,,F,Rep,2013-02-20,2016-01-31
-"Macfarlane, Henry William ",sfclicrec.asp?p=12598147,,M,RO,2017-11-24,
-"Tsui, Annie Sze Kwan 崔士坤",sfclicrec.asp?p=89680,,F,Rep,2016-03-22,
-"Yam, Tung 任東",sfclicrec.asp?p=85705,,,RO,2012-07-11,2018-03-14
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Conrad Kam Wah 鄭錦華",None,sfclicrec.asp?p=99528,ACT428,http://www.sfc.hk/publicregWeb/indi/ACT428/licenceRecord,,M,Rep,2016-08-26,2016-09-28
+"Cheng, Conrad Kam Wah 鄭錦華",None,sfclicrec.asp?p=99528,ACT428,http://www.sfc.hk/publicregWeb/indi/ACT428/licenceRecord,,M,RO,2016-09-28,2017-07-01
+"Cui, Xiaofeng 崔曉峰",None,sfclicrec.asp?p=133471,AYE509,http://www.sfc.hk/publicregWeb/indi/AYE509/licenceRecord,,,RO,2012-07-11,2016-09-20
+"Cui, Xiaofeng 崔曉峰",None,sfclicrec.asp?p=133471,AYE509,http://www.sfc.hk/publicregWeb/indi/AYE509/licenceRecord,,,RO,2017-09-28,
+"Hou, Dawei 侯大為",None,sfclicrec.asp?p=13696078,BLH316,http://www.sfc.hk/publicregWeb/indi/BLH316/licenceRecord,,,Rep,2018-04-09,2018-06-25
+"Hou, Dawei 侯大為",None,sfclicrec.asp?p=13696078,BLH316,http://www.sfc.hk/publicregWeb/indi/BLH316/licenceRecord,,,RO,2018-06-25,
+"Kot, Chun Ho 葛鎮浩",None,sfclicrec.asp?p=11639285,BJO764,http://www.sfc.hk/publicregWeb/indi/BJO764/licenceRecord,,,Rep,2017-06-19,2019-06-14
+"Lee, Ellen Sze Man 李思敏",None,sfclicrec.asp?p=95545,APH709,http://www.sfc.hk/publicregWeb/indi/APH709/licenceRecord,,F,Rep,2013-02-20,2016-01-31
+"Macfarlane, Henry William ",None,sfclicrec.asp?p=12598147,BJV940,http://www.sfc.hk/publicregWeb/indi/BJV940/licenceRecord,,M,RO,2017-11-24,
+"Tsui, Annie Sze Kwan 崔士坤",None,sfclicrec.asp?p=89680,AAD238,http://www.sfc.hk/publicregWeb/indi/AAD238/licenceRecord,,F,Rep,2016-03-22,
+"Yam, Tung 任東",None,sfclicrec.asp?p=85705,ADK807,http://www.sfc.hk/publicregWeb/indi/ADK807/licenceRecord,,,RO,2012-07-11,2018-03-14

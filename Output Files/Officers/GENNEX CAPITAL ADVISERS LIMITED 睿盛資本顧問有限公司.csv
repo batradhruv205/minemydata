@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Oswald Tsang Tao 陳錚濤",sfclicrec.asp?p=75801,,M,Rep,2019-05-23,
-"Chan, Tsang (SFC:AOR054) 陳琤",sfclicrec.asp?p=1869799,,,RO,2019-04-03,
-"Wong, Kai Kok 黃開豁",sfclicrec.asp?p=72334,,,RO,2019-04-03,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Oswald Tsang Tao 陳錚濤",None,sfclicrec.asp?p=75801,AQS492,http://www.sfc.hk/publicregWeb/indi/AQS492/licenceRecord,,M,Rep,2019-05-23,
+"Chan, Tsang (SFC:AOR054) 陳琤",None,sfclicrec.asp?p=1869799,AOR054,http://www.sfc.hk/publicregWeb/indi/AOR054/licenceRecord,,,RO,2019-04-03,
+"Wong, Kai Kok 黃開豁",None,sfclicrec.asp?p=72334,ACT922,http://www.sfc.hk/publicregWeb/indi/ACT922/licenceRecord,,,RO,2019-04-03,

@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bentley, Nicolas Bryan ",sfclicrec.asp?p=101463,79,M,RO,,
-"Bunker, Robert Edward John 彭家樂",sfclicrec.asp?p=7540,75,M,RO,,2017-03-17
-"Chiu, Hau Chu 趙巧珠",sfclicrec.asp?p=117886,,,Rep,2006-04-07,2009-03-17
-"Chiu, Hau Chu 趙巧珠",sfclicrec.asp?p=117886,,,RO,2009-03-17,
-"Crinion, Philip ",sfclicrec.asp?p=1954808,,M,Rep,2012-09-17,2017-01-03
-"Crinion, Philip ",sfclicrec.asp?p=1954808,,M,RO,2017-01-03,
-"Rooke, Melody Ann ",sfclicrec.asp?p=101944,,F,RO,,2015-03-31
-"Sit, Yin Ping 薛燕平",sfclicrec.asp?p=22842792,,,Rep,2019-03-01,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bentley, Nicolas Bryan ",None,sfclicrec.asp?p=101463,AAJ338,http://www.sfc.hk/publicregWeb/indi/AAJ338/licenceRecord,79.0,M,RO,,
+"Bunker, Robert Edward John 彭家樂",None,sfclicrec.asp?p=7540,AAF342,http://www.sfc.hk/publicregWeb/indi/AAF342/licenceRecord,75.0,M,RO,,2017-03-17
+"Chiu, Hau Chu 趙巧珠",None,sfclicrec.asp?p=117886,ANA776,http://www.sfc.hk/publicregWeb/indi/ANA776/licenceRecord,,,Rep,2006-04-07,2009-03-17
+"Chiu, Hau Chu 趙巧珠",None,sfclicrec.asp?p=117886,ANA776,http://www.sfc.hk/publicregWeb/indi/ANA776/licenceRecord,,,RO,2009-03-17,
+"Crinion, Philip ",None,sfclicrec.asp?p=1954808,BAB849,http://www.sfc.hk/publicregWeb/indi/BAB849/licenceRecord,,M,Rep,2012-09-17,2017-01-03
+"Crinion, Philip ",None,sfclicrec.asp?p=1954808,BAB849,http://www.sfc.hk/publicregWeb/indi/BAB849/licenceRecord,,M,RO,2017-01-03,
+"Rooke, Melody Ann ",None,sfclicrec.asp?p=101944,ABF485,http://www.sfc.hk/publicregWeb/indi/ABF485/licenceRecord,,F,RO,,2015-03-31
+"Sit, Yin Ping 薛燕平",None,sfclicrec.asp?p=22842792,BND610,http://www.sfc.hk/publicregWeb/indi/BND610/licenceRecord,,,Rep,2019-03-01,

@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Arosti, Marco ",sfclicrec.asp?p=77827,,M,RO,2014-08-27,2015-02-22
-"Kwek, Kon Chao 郭公超",sfclicrec.asp?p=89154,,,Rep,2014-09-30,2014-11-29
-"Li, Qinshu 李沁姝",sfclicrec.asp?p=2649871,,,Rep,2016-10-27,
-"Mandel, Jonathan Scott ",sfclicrec.asp?p=123903,,M,RO,2014-08-27,
-"McCullough, Brian Francis ",sfclicrec.asp?p=74904,,M,RO,2016-05-06,
-"Wang, Xi (SFC:BEC502) 王熙",sfclicrec.asp?p=2332831,,,Rep,2014-10-16,2018-02-12
-"Wang, Xi (SFC:BEC502) 王熙",sfclicrec.asp?p=2332831,,,RO,2018-02-12,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Arosti, Marco ",None,sfclicrec.asp?p=77827,APZ595,http://www.sfc.hk/publicregWeb/indi/APZ595/licenceRecord,,M,RO,2014-08-27,2015-02-22
+"Kwek, Kon Chao 郭公超",None,sfclicrec.asp?p=89154,AWQ621,http://www.sfc.hk/publicregWeb/indi/AWQ621/licenceRecord,,,Rep,2014-09-30,2014-11-29
+"Li, Qinshu 李沁姝",None,sfclicrec.asp?p=2649871,BIG097,http://www.sfc.hk/publicregWeb/indi/BIG097/licenceRecord,,,Rep,2016-10-27,
+"Mandel, Jonathan Scott ",None,sfclicrec.asp?p=123903,AQE596,http://www.sfc.hk/publicregWeb/indi/AQE596/licenceRecord,,M,RO,2014-08-27,
+"McCullough, Brian Francis ",None,sfclicrec.asp?p=74904,ALG323,http://www.sfc.hk/publicregWeb/indi/ALG323/licenceRecord,,M,RO,2016-05-06,
+"Wang, Xi (SFC:BEC502) 王熙",None,sfclicrec.asp?p=2332831,BEC502,http://www.sfc.hk/publicregWeb/indi/BEC502/licenceRecord,,,Rep,2014-10-16,2018-02-12
+"Wang, Xi (SFC:BEC502) 王熙",None,sfclicrec.asp?p=2332831,BEC502,http://www.sfc.hk/publicregWeb/indi/BEC502/licenceRecord,,,RO,2018-02-12,

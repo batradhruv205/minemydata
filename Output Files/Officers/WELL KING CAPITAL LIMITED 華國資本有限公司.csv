@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chu, Chun Ming (SFC:AHR391) 朱振明",sfclicrec.asp?p=99134,,,Rep,2019-11-07,2019-11-21
-"Chu, Chun Ming (SFC:AHR391) 朱振明",sfclicrec.asp?p=99134,,,RO,2019-11-21,
-"Wai, Chung 韋聰",sfclicrec.asp?p=12613754,,,RO,2019-07-09,2019-10-31
-"Yang, Ning (SFC:AVM735) 楊寧",sfclicrec.asp?p=72245,,,RO,2019-07-09,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chu, Chun Ming (SFC:AHR391) 朱振明",None,sfclicrec.asp?p=99134,AHR391,http://www.sfc.hk/publicregWeb/indi/AHR391/licenceRecord,,,Rep,2019-11-07,2019-11-21
+"Chu, Chun Ming (SFC:AHR391) 朱振明",None,sfclicrec.asp?p=99134,AHR391,http://www.sfc.hk/publicregWeb/indi/AHR391/licenceRecord,,,RO,2019-11-21,
+"Wai, Chung 韋聰",None,sfclicrec.asp?p=12613754,BJR215,http://www.sfc.hk/publicregWeb/indi/BJR215/licenceRecord,,,RO,2019-07-09,2019-10-31
+"Yang, Ning (SFC:AVM735) 楊寧",None,sfclicrec.asp?p=72245,AVM735,http://www.sfc.hk/publicregWeb/indi/AVM735/licenceRecord,,,RO,2019-07-09,

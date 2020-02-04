@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chang, Kin Leung 章堅良",sfclicrec.asp?p=2584813,,,Rep,2018-06-21,2018-08-09
-"Chang, Kin Leung 章堅良",sfclicrec.asp?p=2584813,,,RO,2018-08-09,
-"Cheng, Xiyang 程希揚",sfclicrec.asp?p=2552749,,,Rep,2019-10-25,
-"Hong, Ruixiang 洪瑞祥",sfclicrec.asp?p=2323085,,,Rep,2018-08-01,
-"Liu, Wing Yi 廖詠怡",sfclicrec.asp?p=98445,,,Rep,2018-06-13,
-"Qiu, Zhongghao 裘中昦",sfclicrec.asp?p=2500075,,,Rep,2018-11-12,
-"Shi, Fan 石凡",sfclicrec.asp?p=96320,,,RO,2018-04-24,
-"Xu, Ouliang 徐鷗亮",sfclicrec.asp?p=89952,,,RO,2018-04-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chang, Kin Leung 章堅良",None,sfclicrec.asp?p=2584813,BCA058,http://www.sfc.hk/publicregWeb/indi/BCA058/licenceRecord,,,Rep,2018-06-21,2018-08-09
+"Chang, Kin Leung 章堅良",None,sfclicrec.asp?p=2584813,BCA058,http://www.sfc.hk/publicregWeb/indi/BCA058/licenceRecord,,,RO,2018-08-09,
+"Cheng, Xiyang 程希揚",None,sfclicrec.asp?p=2552749,BHC248,http://www.sfc.hk/publicregWeb/indi/BHC248/licenceRecord,,,Rep,2019-10-25,
+"Hong, Ruixiang 洪瑞祥",None,sfclicrec.asp?p=2323085,BEE810,http://www.sfc.hk/publicregWeb/indi/BEE810/licenceRecord,,,Rep,2018-08-01,
+"Liu, Wing Yi 廖詠怡",None,sfclicrec.asp?p=98445,ARC090,http://www.sfc.hk/publicregWeb/indi/ARC090/licenceRecord,,,Rep,2018-06-13,
+"Qiu, Zhongghao 裘中昦",None,sfclicrec.asp?p=2500075,BGM487,http://www.sfc.hk/publicregWeb/indi/BGM487/licenceRecord,,,Rep,2018-11-12,
+"Shi, Fan 石凡",None,sfclicrec.asp?p=96320,APV976,http://www.sfc.hk/publicregWeb/indi/APV976/licenceRecord,,,RO,2018-04-24,
+"Xu, Ouliang 徐鷗亮",None,sfclicrec.asp?p=89952,ARJ818,http://www.sfc.hk/publicregWeb/indi/ARJ818/licenceRecord,,,RO,2018-04-24,

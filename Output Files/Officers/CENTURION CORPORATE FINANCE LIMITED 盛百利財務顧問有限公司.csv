@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lee, Baldwin Kiu Sang 李僑生",sfclicrec.asp?p=15864,65,M,RO,,
-"Lee, Kenneth Kiu Wing 李僑榮",sfclicrec.asp?p=9015,59,M,Rep,2005-12-22,2006-02-06
-"Lee, Kenneth Kiu Wing 李僑榮",sfclicrec.asp?p=9015,59,M,RO,2006-02-06,2016-04-15
-"Sae Shee, Sheila 許國蔭",sfclicrec.asp?p=64092,,F,RO,2005-05-24,
-"Yau, Ho Sum 游浩森",sfclicrec.asp?p=109094,,,Rep,,2004-01-27
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lee, Baldwin Kiu Sang 李僑生",None,sfclicrec.asp?p=15864,AAZ328,http://www.sfc.hk/publicregWeb/indi/AAZ328/licenceRecord,65.0,M,RO,,
+"Lee, Kenneth Kiu Wing 李僑榮",None,sfclicrec.asp?p=9015,ACD408,http://www.sfc.hk/publicregWeb/indi/ACD408/licenceRecord,59.0,M,Rep,2005-12-22,2006-02-06
+"Lee, Kenneth Kiu Wing 李僑榮",None,sfclicrec.asp?p=9015,ACD408,http://www.sfc.hk/publicregWeb/indi/ACD408/licenceRecord,59.0,M,RO,2006-02-06,2016-04-15
+"Sae Shee, Sheila 許國蔭",None,sfclicrec.asp?p=64092,ALV355,http://www.sfc.hk/publicregWeb/indi/ALV355/licenceRecord,,F,RO,2005-05-24,
+"Yau, Ho Sum 游浩森",None,sfclicrec.asp?p=109094,AGJ503,http://www.sfc.hk/publicregWeb/indi/AGJ503/licenceRecord,,,Rep,,2004-01-27

@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"He, Wanjun 何婉君",sfclicrec.asp?p=14506448,,,Rep,2018-04-27,2019-05-31
-"Li, Brian Yuk Keung 李旭強",sfclicrec.asp?p=96200,,M,RO,2017-11-13,
-"Lin, Jiusong 林久淞",sfclicrec.asp?p=2508876,,,Rep,2017-12-11,
-"Tao, Yue (SFC:BOU044) 陶越",sfclicrec.asp?p=23760874,,,Rep,2019-10-08,2019-11-30
-"Tsui, Kee Chow 徐琦洲",sfclicrec.asp?p=67370,,,RO,2017-11-13,
-"Xiao, Miaozhen 肖妙珍",sfclicrec.asp?p=22774928,,,Rep,2019-02-13,2019-08-11
-"Zhang, Zhiliu 張枝柳",sfclicrec.asp?p=23870436,,,Rep,2019-11-05,
-"Zhou, Huan (SFC:BNL587) 周嬛",sfclicrec.asp?p=22223790,,,Rep,2018-09-26,2019-05-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"He, Wanjun 何婉君",None,sfclicrec.asp?p=14506448,BMQ083,http://www.sfc.hk/publicregWeb/indi/BMQ083/licenceRecord,,,Rep,2018-04-27,2019-05-31
+"Li, Brian Yuk Keung 李旭強",None,sfclicrec.asp?p=96200,AEC983,http://www.sfc.hk/publicregWeb/indi/AEC983/licenceRecord,,M,RO,2017-11-13,
+"Lin, Jiusong 林久淞",None,sfclicrec.asp?p=2508876,BGK401,http://www.sfc.hk/publicregWeb/indi/BGK401/licenceRecord,,,Rep,2017-12-11,
+"Tao, Yue (SFC:BOU044) 陶越",None,sfclicrec.asp?p=23760874,BOU044,http://www.sfc.hk/publicregWeb/indi/BOU044/licenceRecord,,,Rep,2019-10-08,2019-11-30
+"Tsui, Kee Chow 徐琦洲",None,sfclicrec.asp?p=67370,AAE212,http://www.sfc.hk/publicregWeb/indi/AAE212/licenceRecord,,,RO,2017-11-13,
+"Xiao, Miaozhen 肖妙珍",None,sfclicrec.asp?p=22774928,BOA217,http://www.sfc.hk/publicregWeb/indi/BOA217/licenceRecord,,,Rep,2019-02-13,2019-08-11
+"Zhang, Zhiliu 張枝柳",None,sfclicrec.asp?p=23870436,BOW611,http://www.sfc.hk/publicregWeb/indi/BOW611/licenceRecord,,,Rep,2019-11-05,
+"Zhou, Huan (SFC:BNL587) 周嬛",None,sfclicrec.asp?p=22223790,BNL587,http://www.sfc.hk/publicregWeb/indi/BNL587/licenceRecord,,,Rep,2018-09-26,2019-05-31

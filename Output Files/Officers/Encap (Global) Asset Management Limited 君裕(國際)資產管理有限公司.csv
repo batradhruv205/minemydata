@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chang, Yu-Yu ",sfclicrec.asp?p=99510,,,RO,2009-11-13,2014-08-14
-"Cheung, Siu Ki 張肇岐",sfclicrec.asp?p=99512,,,Rep,2009-06-03,2012-07-31
-"Chiu, Hsin-Hsun 邱信勳",sfclicrec.asp?p=126658,,,RO,2009-03-30,2009-09-30
-"Chiu, Pak Shun Leon 趙柏舜",sfclicrec.asp?p=11782762,,,RO,2017-07-28,2018-08-17
-"Chung, Siu Lai (SFC:AVT357) 鍾小麗",sfclicrec.asp?p=99513,,,Rep,2011-05-06,2012-07-31
-"Guo, Xiaoxuan 郭筱璇",sfclicrec.asp?p=84954,,,Rep,2011-01-06,2011-05-31
-"Lin, Wen Pin 林文彬",sfclicrec.asp?p=68162,60,M,RO,2012-05-03,
-"Lu, Yi-Hsien 呂宜姍",sfclicrec.asp?p=133689,,,Rep,2011-11-14,2014-03-16
-"Tseng, Huan-Chi 曾煥琪",sfclicrec.asp?p=126657,,,RO,2009-03-30,2009-06-26
-"Wang, Yan (SFC:BNR283) ",sfclicrec.asp?p=22836935,,,RO,2019-02-26,
-"Wu, Chi Ting 吳其定",sfclicrec.asp?p=99511,,,RO,2009-03-30,2016-12-31
-"Yang, Yen-Ju 楊燕如",sfclicrec.asp?p=99514,,,Rep,2010-05-18,2017-04-10
-"Yeung, Lap Fai 楊立輝",sfclicrec.asp?p=2626231,,,Rep,2016-08-30,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chang, Yu-Yu ",None,sfclicrec.asp?p=99510,ANL939,http://www.sfc.hk/publicregWeb/indi/ANL939/licenceRecord,,,RO,2009-11-13,2014-08-14
+"Cheung, Siu Ki 張肇岐",None,sfclicrec.asp?p=99512,ASX246,http://www.sfc.hk/publicregWeb/indi/ASX246/licenceRecord,,,Rep,2009-06-03,2012-07-31
+"Chiu, Hsin-Hsun 邱信勳",None,sfclicrec.asp?p=126658,ARP100,http://www.sfc.hk/publicregWeb/indi/ARP100/licenceRecord,,,RO,2009-03-30,2009-09-30
+"Chiu, Pak Shun Leon 趙柏舜",None,sfclicrec.asp?p=11782762,BJK220,http://www.sfc.hk/publicregWeb/indi/BJK220/licenceRecord,,,RO,2017-07-28,2018-08-17
+"Chung, Siu Lai (SFC:AVT357) 鍾小麗",None,sfclicrec.asp?p=99513,AVT357,http://www.sfc.hk/publicregWeb/indi/AVT357/licenceRecord,,,Rep,2011-05-06,2012-07-31
+"Guo, Xiaoxuan 郭筱璇",None,sfclicrec.asp?p=84954,AWK906,http://www.sfc.hk/publicregWeb/indi/AWK906/licenceRecord,,,Rep,2011-01-06,2011-05-31
+"Lin, Wen Pin 林文彬",None,sfclicrec.asp?p=68162,ALI163,http://www.sfc.hk/publicregWeb/indi/ALI163/licenceRecord,60.0,M,RO,2012-05-03,
+"Lu, Yi-Hsien 呂宜姍",None,sfclicrec.asp?p=133689,AYG476,http://www.sfc.hk/publicregWeb/indi/AYG476/licenceRecord,,,Rep,2011-11-14,2014-03-16
+"Tseng, Huan-Chi 曾煥琪",None,sfclicrec.asp?p=126657,ARP098,http://www.sfc.hk/publicregWeb/indi/ARP098/licenceRecord,,,RO,2009-03-30,2009-06-26
+"Wang, Yan (SFC:BNR283) ",None,sfclicrec.asp?p=22836935,BNR283,http://www.sfc.hk/publicregWeb/indi/BNR283/licenceRecord,,,RO,2019-02-26,
+"Wu, Chi Ting 吳其定",None,sfclicrec.asp?p=99511,ALG477,http://www.sfc.hk/publicregWeb/indi/ALG477/licenceRecord,,,RO,2009-03-30,2016-12-31
+"Yang, Yen-Ju 楊燕如",None,sfclicrec.asp?p=99514,ARV136,http://www.sfc.hk/publicregWeb/indi/ARV136/licenceRecord,,,Rep,2010-05-18,2017-04-10
+"Yeung, Lap Fai 楊立輝",None,sfclicrec.asp?p=2626231,BHY409,http://www.sfc.hk/publicregWeb/indi/BHY409/licenceRecord,,,Rep,2016-08-30,

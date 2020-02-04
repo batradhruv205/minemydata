@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Kwok Hay 陳國禧",sfclicrec.asp?p=99550,,,RO,2018-03-02,2018-04-25
-"Cheung, Ka Chun (SFC:BJF078) 張家俊",sfclicrec.asp?p=2711287,,,Rep,2017-03-13,2018-12-08
-"Ho, Ting Fung (SFC:BHS033) 何霆鋒",sfclicrec.asp?p=2598586,,,Rep,2017-04-20,2018-10-11
-"Kwok, Ying Cheuk 郭英卓",sfclicrec.asp?p=99551,,,RO,2017-04-18,
-"Lam, Wai Tsin 林維蕆",sfclicrec.asp?p=128618,,,RO,2016-11-18,
-"Lau, Kam Pong 劉錦邦",sfclicrec.asp?p=94734,,,RO,2016-11-18,2017-04-19
-"Lee, Chun Wai (SFC:AMK024) 李俊葦",sfclicrec.asp?p=78874,,,Rep,2018-07-26,2018-11-23
-"Lee, Chun Wai (SFC:AMK024) 李俊葦",sfclicrec.asp?p=78874,,,RO,2018-11-23,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Kwok Hay 陳國禧",None,sfclicrec.asp?p=99550,ACA610,http://www.sfc.hk/publicregWeb/indi/ACA610/licenceRecord,,,RO,2018-03-02,2018-04-25
+"Cheung, Ka Chun (SFC:BJF078) 張家俊",None,sfclicrec.asp?p=2711287,BJF078,http://www.sfc.hk/publicregWeb/indi/BJF078/licenceRecord,,,Rep,2017-03-13,2018-12-08
+"Ho, Ting Fung (SFC:BHS033) 何霆鋒",None,sfclicrec.asp?p=2598586,BHS033,http://www.sfc.hk/publicregWeb/indi/BHS033/licenceRecord,,,Rep,2017-04-20,2018-10-11
+"Kwok, Ying Cheuk 郭英卓",None,sfclicrec.asp?p=99551,AKU150,http://www.sfc.hk/publicregWeb/indi/AKU150/licenceRecord,,,RO,2017-04-18,
+"Lam, Wai Tsin 林維蕆",None,sfclicrec.asp?p=128618,ATT180,http://www.sfc.hk/publicregWeb/indi/ATT180/licenceRecord,,,RO,2016-11-18,
+"Lau, Kam Pong 劉錦邦",None,sfclicrec.asp?p=94734,ACA472,http://www.sfc.hk/publicregWeb/indi/ACA472/licenceRecord,,,RO,2016-11-18,2017-04-19
+"Lee, Chun Wai (SFC:AMK024) 李俊葦",None,sfclicrec.asp?p=78874,AMK024,http://www.sfc.hk/publicregWeb/indi/AMK024/licenceRecord,,,Rep,2018-07-26,2018-11-23
+"Lee, Chun Wai (SFC:AMK024) 李俊葦",None,sfclicrec.asp?p=78874,AMK024,http://www.sfc.hk/publicregWeb/indi/AMK024/licenceRecord,,,RO,2018-11-23,

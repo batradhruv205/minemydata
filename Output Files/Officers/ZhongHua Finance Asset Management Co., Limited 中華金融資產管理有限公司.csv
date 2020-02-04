@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chu, Sau Ming 朱秀明",sfclicrec.asp?p=70371,,,RO,2017-11-29,2019-11-02
-"Dao, Chinh Hung ",sfclicrec.asp?p=130461,,,RO,2011-01-06,2017-12-15
-"Ho, Hoe Kay 何浩基",sfclicrec.asp?p=1925090,,,Rep,2019-05-15,
-"Hui, Daniel Hoi Chun 許志傑",sfclicrec.asp?p=91628,,M,Rep,2019-12-04,2019-12-09
-"Hui, Daniel Hoi Chun 許志傑",sfclicrec.asp?p=91628,,M,RO,2019-12-09,
-"Kwan, Chi Hang 關智恆",sfclicrec.asp?p=70999,,,RO,2018-08-08,2019-04-25
-"Kwan, Chi Hang 關智恆",sfclicrec.asp?p=70999,,,RO,2019-11-19,
-"Lam, Dennis Che Chung 林志聰",sfclicrec.asp?p=96033,,M,RO,2018-04-11,2020-01-07
-"Lau, Pui Kit 劉佩傑",sfclicrec.asp?p=117015,,,RO,2017-01-17,2017-10-12
-"Law, Cheuk Nam 羅卓楠",sfclicrec.asp?p=1917351,,,Rep,2017-09-29,2018-09-01
-"Law, Kwok Chi 羅國智",sfclicrec.asp?p=81621,,,RO,2019-08-07,2019-10-07
-"Tan, Meng Lee 陳名禮",sfclicrec.asp?p=130460,,,RO,2011-01-06,2019-02-19
-"Yip, Pui King 葉佩琼",sfclicrec.asp?p=2639562,,,Rep,2019-12-05,
-"Yue, Siu Chun ",sfclicrec.asp?p=22995568,,,Rep,2019-04-03,2019-11-22
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chu, Sau Ming 朱秀明",None,sfclicrec.asp?p=70371,AEJ665,http://www.sfc.hk/publicregWeb/indi/AEJ665/licenceRecord,,,RO,2017-11-29,2019-11-02
+"Dao, Chinh Hung ",None,sfclicrec.asp?p=130461,AWD981,http://www.sfc.hk/publicregWeb/indi/AWD981/licenceRecord,,,RO,2011-01-06,2017-12-15
+"Ho, Hoe Kay 何浩基",None,sfclicrec.asp?p=1925090,AZR704,http://www.sfc.hk/publicregWeb/indi/AZR704/licenceRecord,,,Rep,2019-05-15,
+"Hui, Daniel Hoi Chun 許志傑",None,sfclicrec.asp?p=91628,ADB712,http://www.sfc.hk/publicregWeb/indi/ADB712/licenceRecord,,M,Rep,2019-12-04,2019-12-09
+"Hui, Daniel Hoi Chun 許志傑",None,sfclicrec.asp?p=91628,ADB712,http://www.sfc.hk/publicregWeb/indi/ADB712/licenceRecord,,M,RO,2019-12-09,
+"Kwan, Chi Hang 關智恆",None,sfclicrec.asp?p=70999,AGL438,http://www.sfc.hk/publicregWeb/indi/AGL438/licenceRecord,,,RO,2018-08-08,2019-04-25
+"Kwan, Chi Hang 關智恆",None,sfclicrec.asp?p=70999,AGL438,http://www.sfc.hk/publicregWeb/indi/AGL438/licenceRecord,,,RO,2019-11-19,
+"Lam, Dennis Che Chung 林志聰",None,sfclicrec.asp?p=96033,ALG475,http://www.sfc.hk/publicregWeb/indi/ALG475/licenceRecord,,M,RO,2018-04-11,2020-01-07
+"Lau, Pui Kit 劉佩傑",None,sfclicrec.asp?p=117015,AMN578,http://www.sfc.hk/publicregWeb/indi/AMN578/licenceRecord,,,RO,2017-01-17,2017-10-12
+"Law, Cheuk Nam 羅卓楠",None,sfclicrec.asp?p=1917351,AZU755,http://www.sfc.hk/publicregWeb/indi/AZU755/licenceRecord,,,Rep,2017-09-29,2018-09-01
+"Law, Kwok Chi 羅國智",None,sfclicrec.asp?p=81621,AWF466,http://www.sfc.hk/publicregWeb/indi/AWF466/licenceRecord,,,RO,2019-08-07,2019-10-07
+"Tan, Meng Lee 陳名禮",None,sfclicrec.asp?p=130460,AWD977,http://www.sfc.hk/publicregWeb/indi/AWD977/licenceRecord,,,RO,2011-01-06,2019-02-19
+"Yip, Pui King 葉佩琼",None,sfclicrec.asp?p=2639562,BHZ318,http://www.sfc.hk/publicregWeb/indi/BHZ318/licenceRecord,,,Rep,2019-12-05,
+"Yue, Siu Chun ",None,sfclicrec.asp?p=22995568,BKB839,http://www.sfc.hk/publicregWeb/indi/BKB839/licenceRecord,,,Rep,2019-04-03,2019-11-22

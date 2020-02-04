@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Tsz Lung 陳子龍",sfclicrec.asp?p=1907410,,,Rep,2015-05-19,2017-09-30
-"Cheng, Jonathan Chung Shing 鄭中誠",sfclicrec.asp?p=77237,,M,Rep,2012-06-19,2017-09-18
-"Cheng, Jonathan Chung Shing 鄭中誠",sfclicrec.asp?p=77237,,M,RO,2017-09-18,2018-02-07
-"Correa, Anthony Francis ",sfclicrec.asp?p=105586,,M,RO,2012-06-18,2018-03-31
-"Delong, Christopher Lord ",sfclicrec.asp?p=2315960,52,M,RO,2014-09-03,
-"Fung, Jenny Lan ",sfclicrec.asp?p=1912524,,F,Rep,2012-06-18,
-"Kavanagh, Kevin Patrick ",sfclicrec.asp?p=2315961,,M,RO,2014-09-03,
-"Pan, Dengzhao 潘登釗",sfclicrec.asp?p=89471,,,Rep,2013-03-07,2018-03-05
-"Pan, Dengzhao 潘登釗",sfclicrec.asp?p=89471,,,RO,2018-03-05,
-"Schwartz, Michael Ian ",sfclicrec.asp?p=1912523,,M,RO,2012-06-18,2014-09-04
-"Zhang, Yue Yang (SFC:BII279) 張越洋",sfclicrec.asp?p=2643431,,,Rep,2019-03-05,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Tsz Lung 陳子龍",None,sfclicrec.asp?p=1907410,AYR507,http://www.sfc.hk/publicregWeb/indi/AYR507/licenceRecord,,,Rep,2015-05-19,2017-09-30
+"Cheng, Jonathan Chung Shing 鄭中誠",None,sfclicrec.asp?p=77237,AON408,http://www.sfc.hk/publicregWeb/indi/AON408/licenceRecord,,M,Rep,2012-06-19,2017-09-18
+"Cheng, Jonathan Chung Shing 鄭中誠",None,sfclicrec.asp?p=77237,AON408,http://www.sfc.hk/publicregWeb/indi/AON408/licenceRecord,,M,RO,2017-09-18,2018-02-07
+"Correa, Anthony Francis ",None,sfclicrec.asp?p=105586,AEX948,http://www.sfc.hk/publicregWeb/indi/AEX948/licenceRecord,,M,RO,2012-06-18,2018-03-31
+"Delong, Christopher Lord ",None,sfclicrec.asp?p=2315960,BDT080,http://www.sfc.hk/publicregWeb/indi/BDT080/licenceRecord,52.0,M,RO,2014-09-03,
+"Fung, Jenny Lan ",None,sfclicrec.asp?p=1912524,AZD161,http://www.sfc.hk/publicregWeb/indi/AZD161/licenceRecord,,F,Rep,2012-06-18,
+"Kavanagh, Kevin Patrick ",None,sfclicrec.asp?p=2315961,BDT090,http://www.sfc.hk/publicregWeb/indi/BDT090/licenceRecord,,M,RO,2014-09-03,
+"Pan, Dengzhao 潘登釗",None,sfclicrec.asp?p=89471,AWE392,http://www.sfc.hk/publicregWeb/indi/AWE392/licenceRecord,,,Rep,2013-03-07,2018-03-05
+"Pan, Dengzhao 潘登釗",None,sfclicrec.asp?p=89471,AWE392,http://www.sfc.hk/publicregWeb/indi/AWE392/licenceRecord,,,RO,2018-03-05,
+"Schwartz, Michael Ian ",None,sfclicrec.asp?p=1912523,AZD155,http://www.sfc.hk/publicregWeb/indi/AZD155/licenceRecord,,M,RO,2012-06-18,2014-09-04
+"Zhang, Yue Yang (SFC:BII279) 張越洋",None,sfclicrec.asp?p=2643431,BII279,http://www.sfc.hk/publicregWeb/indi/BII279/licenceRecord,,,Rep,2019-03-05,

@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Ngok Ming 陳岳明",sfclicrec.asp?p=50770,,M,RO,,2004-09-05
-"Chan, Pinco Wai Yin 陳慧賢",sfclicrec.asp?p=72850,,,Rep,2006-04-19,
-"Chan, Wing Hang (SFC:ALB794) 陳永恆",sfclicrec.asp?p=114308,,,Rep,2004-09-01,2007-10-09
-"Chan, Wing Keung (SFC:AAB558) 陳永強",sfclicrec.asp?p=100693,,,RO,,2005-04-01
-"Chan, Wing Wang 陳永宏",sfclicrec.asp?p=72849,,,RO,,
-"Chan, Winnie Wai Yee 陳慧薏",sfclicrec.asp?p=72848,,F,Rep,,2005-03-08
-"Chan, Winnie Wai Yee 陳慧薏",sfclicrec.asp?p=72848,,F,RO,2005-03-08,
-"Chan, Yin Kan 陳應根",sfclicrec.asp?p=72851,,,Rep,,
-"Lui, Kit Yee 雷潔儀",sfclicrec.asp?p=72852,,,Rep,2005-03-01,
-"Siu, Siu Ling 蕭小玲",sfclicrec.asp?p=96179,,,Rep,,2005-04-14
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Ngok Ming 陳岳明",None,sfclicrec.asp?p=50770,AAB553,http://www.sfc.hk/publicregWeb/indi/AAB553/licenceRecord,,M,RO,,2004-09-05
+"Chan, Pinco Wai Yin 陳慧賢",None,sfclicrec.asp?p=72850,ANB851,http://www.sfc.hk/publicregWeb/indi/ANB851/licenceRecord,,,Rep,2006-04-19,
+"Chan, Wing Hang (SFC:ALB794) 陳永恆",None,sfclicrec.asp?p=114308,ALB794,http://www.sfc.hk/publicregWeb/indi/ALB794/licenceRecord,,,Rep,2004-09-01,2007-10-09
+"Chan, Wing Keung (SFC:AAB558) 陳永強",None,sfclicrec.asp?p=100693,AAB558,http://www.sfc.hk/publicregWeb/indi/AAB558/licenceRecord,,,RO,,2005-04-01
+"Chan, Wing Wang 陳永宏",None,sfclicrec.asp?p=72849,ABE592,http://www.sfc.hk/publicregWeb/indi/ABE592/licenceRecord,,,RO,,
+"Chan, Winnie Wai Yee 陳慧薏",None,sfclicrec.asp?p=72848,ABY889,http://www.sfc.hk/publicregWeb/indi/ABY889/licenceRecord,,F,Rep,,2005-03-08
+"Chan, Winnie Wai Yee 陳慧薏",None,sfclicrec.asp?p=72848,ABY889,http://www.sfc.hk/publicregWeb/indi/ABY889/licenceRecord,,F,RO,2005-03-08,
+"Chan, Yin Kan 陳應根",None,sfclicrec.asp?p=72851,AAD681,http://www.sfc.hk/publicregWeb/indi/AAD681/licenceRecord,,,Rep,,
+"Lui, Kit Yee 雷潔儀",None,sfclicrec.asp?p=72852,ABM341,http://www.sfc.hk/publicregWeb/indi/ABM341/licenceRecord,,,Rep,2005-03-01,
+"Siu, Siu Ling 蕭小玲",None,sfclicrec.asp?p=96179,AAB564,http://www.sfc.hk/publicregWeb/indi/AAB564/licenceRecord,,,Rep,,2005-04-14

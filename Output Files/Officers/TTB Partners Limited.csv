@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Beer, Sebastian ",sfclicrec.asp?p=20880640,,M,Rep,2018-07-26,
-"Bond, Jonathan Simon (SFC:BJF053) ",sfclicrec.asp?p=11296846,,M,RO,2017-05-31,
-"Johnson, Maximilian Edward ",sfclicrec.asp?p=2013629,,M,RO,2017-05-31,2018-02-27
-"Lee, Yu Yen 李豫彥",sfclicrec.asp?p=23676741,,,Rep,2019-09-17,
-"Ng, Tsz Wing (SFC:BOI100) 吳梓穎",sfclicrec.asp?p=23113737,,,Rep,2019-04-30,
-"Pan, Yuzhang 潘玉章",sfclicrec.asp?p=11559667,,,Rep,2017-06-13,2018-05-14
-"Scoular, Christopher ",sfclicrec.asp?p=12624341,,M,RO,2017-12-06,
-"Teague, Teresa Anne ",sfclicrec.asp?p=81309,,F,RO,2017-05-31,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Beer, Sebastian ",None,sfclicrec.asp?p=20880640,BNG805,http://www.sfc.hk/publicregWeb/indi/BNG805/licenceRecord,,M,Rep,2018-07-26,
+"Bond, Jonathan Simon (SFC:BJF053) ",None,sfclicrec.asp?p=11296846,BJF053,http://www.sfc.hk/publicregWeb/indi/BJF053/licenceRecord,,M,RO,2017-05-31,
+"Johnson, Maximilian Edward ",None,sfclicrec.asp?p=2013629,BAT994,http://www.sfc.hk/publicregWeb/indi/BAT994/licenceRecord,,M,RO,2017-05-31,2018-02-27
+"Lee, Yu Yen 李豫彥",None,sfclicrec.asp?p=23676741,BOU339,http://www.sfc.hk/publicregWeb/indi/BOU339/licenceRecord,,,Rep,2019-09-17,
+"Ng, Tsz Wing (SFC:BOI100) 吳梓穎",None,sfclicrec.asp?p=23113737,BOI100,http://www.sfc.hk/publicregWeb/indi/BOI100/licenceRecord,,,Rep,2019-04-30,
+"Pan, Yuzhang 潘玉章",None,sfclicrec.asp?p=11559667,BJT264,http://www.sfc.hk/publicregWeb/indi/BJT264/licenceRecord,,,Rep,2017-06-13,2018-05-14
+"Scoular, Christopher ",None,sfclicrec.asp?p=12624341,BJH133,http://www.sfc.hk/publicregWeb/indi/BJH133/licenceRecord,,M,RO,2017-12-06,
+"Teague, Teresa Anne ",None,sfclicrec.asp?p=81309,ARH062,http://www.sfc.hk/publicregWeb/indi/ARH062/licenceRecord,,F,RO,2017-05-31,

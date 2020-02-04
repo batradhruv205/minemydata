@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Blackburn, Andrew James ",sfclicrec.asp?p=77194,,M,RO,2013-06-13,2019-08-21
-"Blackburn, Andrew James ",sfclicrec.asp?p=77194,,M,Rep,2019-08-21,2019-09-30
-"Chiu, Lin Ling 邱琳玲",sfclicrec.asp?p=82856,,,Rep,2013-07-31,2016-03-08
-"Chiu, Lin Ling 邱琳玲",sfclicrec.asp?p=82856,,,RO,2016-03-08,
-"Jablonski, Sylvia M ",sfclicrec.asp?p=2083995,,F,RO,2013-06-13,2015-08-05
-"Lam, Cheung Ching 林長青",sfclicrec.asp?p=82737,,,Rep,2019-06-10,2019-07-09
-"Lam, Cheung Ching 林長青",sfclicrec.asp?p=82737,,,RO,2019-07-09,
-"Ng, Tony Chi-Ping ",sfclicrec.asp?p=22890630,,M,Rep,2019-03-12,2019-03-18
-"Ng, Tony Chi-Ping ",sfclicrec.asp?p=22890630,,M,RO,2019-03-18,
-"O'Neill, Daniel Dillon ",sfclicrec.asp?p=2162596,,M,RO,2013-11-13,2019-02-01
-"Oh, Geeseok 吳起錫",sfclicrec.asp?p=88383,,,Rep,2014-02-27,2016-03-08
-"Oh, Geeseok 吳起錫",sfclicrec.asp?p=88383,,,RO,2016-03-08,2019-03-12
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Blackburn, Andrew James ",None,sfclicrec.asp?p=77194,AJE473,http://www.sfc.hk/publicregWeb/indi/AJE473/licenceRecord,,M,RO,2013-06-13,2019-08-21
+"Blackburn, Andrew James ",None,sfclicrec.asp?p=77194,AJE473,http://www.sfc.hk/publicregWeb/indi/AJE473/licenceRecord,,M,Rep,2019-08-21,2019-09-30
+"Chiu, Lin Ling 邱琳玲",None,sfclicrec.asp?p=82856,AXK210,http://www.sfc.hk/publicregWeb/indi/AXK210/licenceRecord,,,Rep,2013-07-31,2016-03-08
+"Chiu, Lin Ling 邱琳玲",None,sfclicrec.asp?p=82856,AXK210,http://www.sfc.hk/publicregWeb/indi/AXK210/licenceRecord,,,RO,2016-03-08,
+"Jablonski, Sylvia M ",None,sfclicrec.asp?p=2083995,BAZ387,http://www.sfc.hk/publicregWeb/indi/BAZ387/licenceRecord,,F,RO,2013-06-13,2015-08-05
+"Lam, Cheung Ching 林長青",None,sfclicrec.asp?p=82737,AEJ389,http://www.sfc.hk/publicregWeb/indi/AEJ389/licenceRecord,,,Rep,2019-06-10,2019-07-09
+"Lam, Cheung Ching 林長青",None,sfclicrec.asp?p=82737,AEJ389,http://www.sfc.hk/publicregWeb/indi/AEJ389/licenceRecord,,,RO,2019-07-09,
+"Ng, Tony Chi-Ping ",None,sfclicrec.asp?p=22890630,BNY249,http://www.sfc.hk/publicregWeb/indi/BNY249/licenceRecord,,M,Rep,2019-03-12,2019-03-18
+"Ng, Tony Chi-Ping ",None,sfclicrec.asp?p=22890630,BNY249,http://www.sfc.hk/publicregWeb/indi/BNY249/licenceRecord,,M,RO,2019-03-18,
+"O'Neill, Daniel Dillon ",None,sfclicrec.asp?p=2162596,BAZ557,http://www.sfc.hk/publicregWeb/indi/BAZ557/licenceRecord,,M,RO,2013-11-13,2019-02-01
+"Oh, Geeseok 吳起錫",None,sfclicrec.asp?p=88383,AXZ900,http://www.sfc.hk/publicregWeb/indi/AXZ900/licenceRecord,,,Rep,2014-02-27,2016-03-08
+"Oh, Geeseok 吳起錫",None,sfclicrec.asp?p=88383,AXZ900,http://www.sfc.hk/publicregWeb/indi/AXZ900/licenceRecord,,,RO,2016-03-08,2019-03-12

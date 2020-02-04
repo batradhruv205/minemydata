@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chiu, Francis 趙伯琛",sfclicrec.asp?p=56593,58,M,RO,2015-05-27,2016-12-14
-"Choi, Raymond Yat Hong 蔡一航",sfclicrec.asp?p=99494,,M,Rep,2017-07-17,2018-05-04
-"Edwards, David Wyndham ",sfclicrec.asp?p=99491,51,M,RO,2013-11-08,2015-05-31
-"Ma, Patrick Wai Shun 馬偉信",sfclicrec.asp?p=99495,,M,RO,2016-10-27,
-"Pang, Kai Chun 彭啟晉",sfclicrec.asp?p=89474,,,Rep,2013-11-08,2014-09-01
-"Tsang, Kenneth Ky Sung 曾紀崇",sfclicrec.asp?p=1880156,,M,Rep,2014-04-30,2014-12-12
-"Wong, Nelson Chi Fai 黃志輝",sfclicrec.asp?p=114420,,M,RO,2019-07-18,2019-12-23
-"Yeung, Victor Shu Kin 楊書健",sfclicrec.asp?p=99492,,M,RO,2013-11-08,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chiu, Francis 趙伯琛",None,sfclicrec.asp?p=56593,AUV238,http://www.sfc.hk/publicregWeb/indi/AUV238/licenceRecord,58.0,M,RO,2015-05-27,2016-12-14
+"Choi, Raymond Yat Hong 蔡一航",None,sfclicrec.asp?p=99494,AVY109,http://www.sfc.hk/publicregWeb/indi/AVY109/licenceRecord,,M,Rep,2017-07-17,2018-05-04
+"Edwards, David Wyndham ",None,sfclicrec.asp?p=99491,AOX190,http://www.sfc.hk/publicregWeb/indi/AOX190/licenceRecord,51.0,M,RO,2013-11-08,2015-05-31
+"Ma, Patrick Wai Shun 馬偉信",None,sfclicrec.asp?p=99495,ABF913,http://www.sfc.hk/publicregWeb/indi/ABF913/licenceRecord,,M,RO,2016-10-27,
+"Pang, Kai Chun 彭啟晉",None,sfclicrec.asp?p=89474,AOJ337,http://www.sfc.hk/publicregWeb/indi/AOJ337/licenceRecord,,,Rep,2013-11-08,2014-09-01
+"Tsang, Kenneth Ky Sung 曾紀崇",None,sfclicrec.asp?p=1880156,AZH816,http://www.sfc.hk/publicregWeb/indi/AZH816/licenceRecord,,M,Rep,2014-04-30,2014-12-12
+"Wong, Nelson Chi Fai 黃志輝",None,sfclicrec.asp?p=114420,ALD664,http://www.sfc.hk/publicregWeb/indi/ALD664/licenceRecord,,M,RO,2019-07-18,2019-12-23
+"Yeung, Victor Shu Kin 楊書健",None,sfclicrec.asp?p=99492,AOX045,http://www.sfc.hk/publicregWeb/indi/AOX045/licenceRecord,,M,RO,2013-11-08,

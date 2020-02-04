@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Mei Yan 陳美欣",sfclicrec.asp?p=109063,44,F,RO,2016-09-19,
-"Chow, Man Lung (SFC:AYA769) 周民隆",sfclicrec.asp?p=132657,,,RO,2016-09-19,2018-04-25
-"Leong, Sio Choi 梁小翠",sfclicrec.asp?p=78226,,,Rep,2017-03-27,2017-11-06
-"Liu, Wai Kuen 廖偉權",sfclicrec.asp?p=72089,,,RO,2016-09-19,2017-02-20
-"Yau, Shuk Han 游淑嫻",sfclicrec.asp?p=1065792,,,RO,2018-12-06,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Mei Yan 陳美欣",None,sfclicrec.asp?p=109063,AGJ221,http://www.sfc.hk/publicregWeb/indi/AGJ221/licenceRecord,44.0,F,RO,2016-09-19,
+"Chow, Man Lung (SFC:AYA769) 周民隆",None,sfclicrec.asp?p=132657,AYA769,http://www.sfc.hk/publicregWeb/indi/AYA769/licenceRecord,,,RO,2016-09-19,2018-04-25
+"Leong, Sio Choi 梁小翠",None,sfclicrec.asp?p=78226,AFU673,http://www.sfc.hk/publicregWeb/indi/AFU673/licenceRecord,,,Rep,2017-03-27,2017-11-06
+"Liu, Wai Kuen 廖偉權",None,sfclicrec.asp?p=72089,AAC325,http://www.sfc.hk/publicregWeb/indi/AAC325/licenceRecord,,,RO,2016-09-19,2017-02-20
+"Yau, Shuk Han 游淑嫻",None,sfclicrec.asp?p=1065792,ACZ998,http://www.sfc.hk/publicregWeb/indi/ACZ998/licenceRecord,,,RO,2018-12-06,

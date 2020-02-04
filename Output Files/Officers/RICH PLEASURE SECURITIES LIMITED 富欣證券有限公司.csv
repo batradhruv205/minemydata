@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chau, Wing Kwong 周永光",sfclicrec.asp?p=100563,,,Rep,,2005-03-31
-"Chau, Wing Kwong 周永光",sfclicrec.asp?p=100563,,,Rep,2005-04-18,2011-05-01
-"Fung, Man Tak 馮文德",sfclicrec.asp?p=129085,,,Rep,2011-04-21,2017-12-31
-"Leung, Ka Shing (SFC:AQE351) 梁嘉誠",sfclicrec.asp?p=123891,,,Rep,2008-01-22,2017-02-28
-"Li, Kai Yin (SFC:AAA183) 李啟賢",sfclicrec.asp?p=73405,,,Rep,2017-03-02,2018-02-01
-"Ng, Kwok Wai (SFC:AOO657) 吳國維",sfclicrec.asp?p=120742,,,Rep,2007-05-07,2012-07-23
-"Ng, Kwok Wai (SFC:AOO657) 吳國維",sfclicrec.asp?p=120742,,,RO,2012-07-23,
-"Shum, Katherine Mei Yee 岑美儀",sfclicrec.asp?p=101819,,F,RO,,2018-03-29
-"Shum, Mei Ching 岑美菁",sfclicrec.asp?p=103322,,,Rep,,2018-02-01
-"Shum, Mei Ling 岑美玲",sfclicrec.asp?p=103323,,,Rep,,2018-02-01
-"Shum, Ngar On 岑雅安",sfclicrec.asp?p=101817,,,RO,,2017-07-28
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chau, Wing Kwong 周永光",None,sfclicrec.asp?p=100563,AAA583,http://www.sfc.hk/publicregWeb/indi/AAA583/licenceRecord,,,Rep,,2005-03-31
+"Chau, Wing Kwong 周永光",None,sfclicrec.asp?p=100563,AAA583,http://www.sfc.hk/publicregWeb/indi/AAA583/licenceRecord,,,Rep,2005-04-18,2011-05-01
+"Fung, Man Tak 馮文德",None,sfclicrec.asp?p=129085,AUJ066,http://www.sfc.hk/publicregWeb/indi/AUJ066/licenceRecord,,,Rep,2011-04-21,2017-12-31
+"Leung, Ka Shing (SFC:AQE351) 梁嘉誠",None,sfclicrec.asp?p=123891,AQE351,http://www.sfc.hk/publicregWeb/indi/AQE351/licenceRecord,,,Rep,2008-01-22,2017-02-28
+"Li, Kai Yin (SFC:AAA183) 李啟賢",None,sfclicrec.asp?p=73405,AAA183,http://www.sfc.hk/publicregWeb/indi/AAA183/licenceRecord,,,Rep,2017-03-02,2018-02-01
+"Ng, Kwok Wai (SFC:AOO657) 吳國維",None,sfclicrec.asp?p=120742,AOO657,http://www.sfc.hk/publicregWeb/indi/AOO657/licenceRecord,,,Rep,2007-05-07,2012-07-23
+"Ng, Kwok Wai (SFC:AOO657) 吳國維",None,sfclicrec.asp?p=120742,AOO657,http://www.sfc.hk/publicregWeb/indi/AOO657/licenceRecord,,,RO,2012-07-23,
+"Shum, Katherine Mei Yee 岑美儀",None,sfclicrec.asp?p=101819,ABA027,http://www.sfc.hk/publicregWeb/indi/ABA027/licenceRecord,,F,RO,,2018-03-29
+"Shum, Mei Ching 岑美菁",None,sfclicrec.asp?p=103322,ACT490,http://www.sfc.hk/publicregWeb/indi/ACT490/licenceRecord,,,Rep,,2018-02-01
+"Shum, Mei Ling 岑美玲",None,sfclicrec.asp?p=103323,ACT493,http://www.sfc.hk/publicregWeb/indi/ACT493/licenceRecord,,,Rep,,2018-02-01
+"Shum, Ngar On 岑雅安",None,sfclicrec.asp?p=101817,ABA008,http://www.sfc.hk/publicregWeb/indi/ABA008/licenceRecord,,,RO,,2017-07-28

@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"De Geus, Jan Willem Adriaan ",sfclicrec.asp?p=122206,,M,RO,2013-12-23,
-"Feng, Wen Lu 馮文路",sfclicrec.asp?p=2359944,,,Rep,2015-08-18,
-"Morris, John Timothy ",sfclicrec.asp?p=89411,,M,RO,2013-12-23,
-"Shu, Zhi 舒之",sfclicrec.asp?p=2376029,,,Rep,2016-05-26,2019-01-30
-"Shu, Zhi 舒之",sfclicrec.asp?p=2376029,,,RO,2019-01-30,2019-04-04
-"Wong, Thomas Chun Kwan 黃進鈞",sfclicrec.asp?p=89777,,M,RO,2013-12-23,
-"Zhang, Lu (SFC:BCS767) 張璐",sfclicrec.asp?p=2195994,,,Rep,2014-01-16,2015-04-29
-"Zhao, Ruochuan 趙若川",sfclicrec.asp?p=89900,,,Rep,2014-01-24,2016-03-02
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"De Geus, Jan Willem Adriaan ",None,sfclicrec.asp?p=122206,APH358,http://www.sfc.hk/publicregWeb/indi/APH358/licenceRecord,,M,RO,2013-12-23,
+"Feng, Wen Lu 馮文路",None,sfclicrec.asp?p=2359944,BER409,http://www.sfc.hk/publicregWeb/indi/BER409/licenceRecord,,,Rep,2015-08-18,
+"Morris, John Timothy ",None,sfclicrec.asp?p=89411,AAV675,http://www.sfc.hk/publicregWeb/indi/AAV675/licenceRecord,,M,RO,2013-12-23,
+"Shu, Zhi 舒之",None,sfclicrec.asp?p=2376029,BEW399,http://www.sfc.hk/publicregWeb/indi/BEW399/licenceRecord,,,Rep,2016-05-26,2019-01-30
+"Shu, Zhi 舒之",None,sfclicrec.asp?p=2376029,BEW399,http://www.sfc.hk/publicregWeb/indi/BEW399/licenceRecord,,,RO,2019-01-30,2019-04-04
+"Wong, Thomas Chun Kwan 黃進鈞",None,sfclicrec.asp?p=89777,AGW285,http://www.sfc.hk/publicregWeb/indi/AGW285/licenceRecord,,M,RO,2013-12-23,
+"Zhang, Lu (SFC:BCS767) 張璐",None,sfclicrec.asp?p=2195994,BCS767,http://www.sfc.hk/publicregWeb/indi/BCS767/licenceRecord,,,Rep,2014-01-16,2015-04-29
+"Zhao, Ruochuan 趙若川",None,sfclicrec.asp?p=89900,AWR979,http://www.sfc.hk/publicregWeb/indi/AWR979/licenceRecord,,,Rep,2014-01-24,2016-03-02

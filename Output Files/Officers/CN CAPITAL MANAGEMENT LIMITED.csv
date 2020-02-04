@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, George Yee Lee 陳義理",sfclicrec.asp?p=8829,63,M,RO,2010-06-01,
-"Chow, Wang (SFC:AIV279) 周泓",sfclicrec.asp?p=112542,,,Rep,2014-07-17,2017-01-09
-"Fok, Cho Kit 霍祖傑",sfclicrec.asp?p=109043,,,Rep,2010-06-01,2017-06-17
-"Ng, Stephen Wing Leung 吳永亮",sfclicrec.asp?p=107181,,M,RO,2010-06-01,
-"Yip, Christopher Chi Yan 葉志恩",sfclicrec.asp?p=100023,,M,Rep,2016-06-22,2017-01-09
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, George Yee Lee 陳義理",,sfclicrec.asp?p=8829,ALG050,http://www.sfc.hk/publicregWeb/indi/ALG050/licenceRecord,63.0,M,RO,2010-06-01,
+"Chow, Wang (SFC:AIV279) 周泓",None,sfclicrec.asp?p=112542,AIV279,http://www.sfc.hk/publicregWeb/indi/AIV279/licenceRecord,,,Rep,2014-07-17,2017-01-09
+"Fok, Cho Kit 霍祖傑",None,sfclicrec.asp?p=109043,AGJ003,http://www.sfc.hk/publicregWeb/indi/AGJ003/licenceRecord,,,Rep,2010-06-01,2017-06-17
+"Ng, Stephen Wing Leung 吳永亮",,sfclicrec.asp?p=107181,AFQ411,http://www.sfc.hk/publicregWeb/indi/AFQ411/licenceRecord,,M,RO,2010-06-01,
+"Yip, Christopher Chi Yan 葉志恩",None,sfclicrec.asp?p=100023,ALF219,http://www.sfc.hk/publicregWeb/indi/ALF219/licenceRecord,,M,Rep,2016-06-22,2017-01-09

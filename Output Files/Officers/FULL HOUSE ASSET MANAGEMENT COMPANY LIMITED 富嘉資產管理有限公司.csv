@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Hang, Hugh Hai Tho 韓海疇",sfclicrec.asp?p=83648,,M,RO,2017-07-17,
-"Ho, Jeffrey Chi Hang 何知衡",sfclicrec.asp?p=84961,,M,Rep,2017-04-21,2017-08-03
-"Ho, Jeffrey Chi Hang 何知衡",sfclicrec.asp?p=84961,,M,RO,2017-08-03,
-"Leung, Roger Sung Yeung 梁崇讓",sfclicrec.asp?p=94665,,M,Rep,2017-01-19,2017-02-15
-"Leung, Roger Sung Yeung 梁崇讓",sfclicrec.asp?p=94665,,M,RO,2017-02-15,2017-08-08
-"Martigny, Florian Armand Julien ",sfclicrec.asp?p=95117,,M,RO,2016-08-24,2017-06-30
-"Pan, Qi 潘琦",sfclicrec.asp?p=2131333,,,Rep,2017-04-21,2020-01-11
-"Pang, Pik Shan 彭碧珊",sfclicrec.asp?p=84549,,,RO,2016-08-24,2017-06-05
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Hang, Hugh Hai Tho 韓海疇",None,sfclicrec.asp?p=83648,ALF543,http://www.sfc.hk/publicregWeb/indi/ALF543/licenceRecord,,M,RO,2017-07-17,
+"Ho, Jeffrey Chi Hang 何知衡",None,sfclicrec.asp?p=84961,AUZ020,http://www.sfc.hk/publicregWeb/indi/AUZ020/licenceRecord,,M,Rep,2017-04-21,2017-08-03
+"Ho, Jeffrey Chi Hang 何知衡",None,sfclicrec.asp?p=84961,AUZ020,http://www.sfc.hk/publicregWeb/indi/AUZ020/licenceRecord,,M,RO,2017-08-03,
+"Leung, Roger Sung Yeung 梁崇讓",None,sfclicrec.asp?p=94665,AAH546,http://www.sfc.hk/publicregWeb/indi/AAH546/licenceRecord,,M,Rep,2017-01-19,2017-02-15
+"Leung, Roger Sung Yeung 梁崇讓",None,sfclicrec.asp?p=94665,AAH546,http://www.sfc.hk/publicregWeb/indi/AAH546/licenceRecord,,M,RO,2017-02-15,2017-08-08
+"Martigny, Florian Armand Julien ",None,sfclicrec.asp?p=95117,AOB599,http://www.sfc.hk/publicregWeb/indi/AOB599/licenceRecord,,M,RO,2016-08-24,2017-06-30
+"Pan, Qi 潘琦",None,sfclicrec.asp?p=2131333,BBV884,http://www.sfc.hk/publicregWeb/indi/BBV884/licenceRecord,,,Rep,2017-04-21,2020-01-11
+"Pang, Pik Shan 彭碧珊",None,sfclicrec.asp?p=84549,AGL148,http://www.sfc.hk/publicregWeb/indi/AGL148/licenceRecord,,,RO,2016-08-24,2017-06-05

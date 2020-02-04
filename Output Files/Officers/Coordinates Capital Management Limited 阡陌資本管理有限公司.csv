@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Christy 陳可兒",sfclicrec.asp?p=2606006,,F,Rep,2018-03-01,2018-04-13
-"Ching, Hiu Fai 程曉輝",sfclicrec.asp?p=134211,,,Rep,2017-11-01,
-"Fukushima, Takeki ",sfclicrec.asp?p=2343632,,M,RO,2016-08-19,
-"Gao, Shan (SFC:BHL812) 高珊",sfclicrec.asp?p=2622680,,,RO,2016-08-19,2016-12-14
-"Lau, Pak Hong (SFC:AOT502) 劉柏康",sfclicrec.asp?p=67857,53,M,RO,2016-11-24,
-"Lau, Timothy Kin Ting 劉建廷",sfclicrec.asp?p=2497174,,M,Rep,2019-03-20,
-"Li, Lingfeng 李凌峰",sfclicrec.asp?p=2125801,,,RO,2016-09-07,
-"Liew, Wei Cheng 廖偉勝",sfclicrec.asp?p=11788174,,,Rep,2017-08-11,
-"Liu, Feifei 劉斐菲",sfclicrec.asp?p=2500091,,,Rep,2019-12-05,
-"Pan, Jiahao 潘加豪",sfclicrec.asp?p=22144298,,,Rep,2018-09-06,
-"Poon, Chi Hoi Donald 潘志開",sfclicrec.asp?p=13748523,,,Rep,2018-04-11,
-"Zhang, Fan (SFC:AZE638) 張帆",sfclicrec.asp?p=1867085,,,Rep,2016-11-15,2017-01-24
-"Zhang, Ying (SFC:BFC741) 張莹",sfclicrec.asp?p=2394050,,,Rep,2016-10-04,2018-12-14
-"Zhao, Qing (SFC:BEJ851) 趙青",sfclicrec.asp?p=2339228,,,Rep,2018-10-05,2019-10-11
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Christy 陳可兒",None,sfclicrec.asp?p=2606006,BHQ079,http://www.sfc.hk/publicregWeb/indi/BHQ079/licenceRecord,,F,Rep,3/1/2018,4/13/2018
+"Ching, Hiu Fai 程曉輝",None,sfclicrec.asp?p=134211,AYK156,http://www.sfc.hk/publicregWeb/indi/AYK156/licenceRecord,,,Rep,11/1/2017,
+"Fukushima, Takeki ",None,sfclicrec.asp?p=2343632,BEK858,http://www.sfc.hk/publicregWeb/indi/BEK858/licenceRecord,,M,RO,8/19/2016,
+"Gao, Shan (SFC:BHL812) 高珊",None,sfclicrec.asp?p=2622680,BHL812,http://www.sfc.hk/publicregWeb/indi/BHL812/licenceRecord,,,RO,8/19/2016,12/14/2016
+"Lau, Pak Hong (SFC:AOT502) 劉柏康",None,sfclicrec.asp?p=67857,AOT502,http://www.sfc.hk/publicregWeb/indi/AOT502/licenceRecord,53.0,M,RO,11/24/2016,
+"Lau, Timothy Kin Ting 劉建廷",None,sfclicrec.asp?p=2497174,BGL559,http://www.sfc.hk/publicregWeb/indi/BGL559/licenceRecord,,M,Rep,3/20/2019,
+"Li, Lingfeng 李凌峰",None,sfclicrec.asp?p=2125801,BBS821,http://www.sfc.hk/publicregWeb/indi/BBS821/licenceRecord,,,RO,9/7/2016,
+"Liew, Wei Cheng 廖偉勝",None,sfclicrec.asp?p=11788174,BJX686,http://www.sfc.hk/publicregWeb/indi/BJX686/licenceRecord,,,Rep,8/11/2017,
+"Liu, Feifei 劉斐菲",None,sfclicrec.asp?p=2500091,BGM914,http://www.sfc.hk/publicregWeb/indi/BGM914/licenceRecord,,,Rep,12/5/2019,
+"Pan, Jiahao 潘加豪",None,sfclicrec.asp?p=22144298,BNF786,http://www.sfc.hk/publicregWeb/indi/BNF786/licenceRecord,,,Rep,9/6/2018,
+"Poon, Chi Hoi Donald 潘志開",None,sfclicrec.asp?p=13748523,BMS599,http://www.sfc.hk/publicregWeb/indi/BMS599/licenceRecord,,,Rep,4/11/2018,
+"Zhang, Fan (SFC:AZE638) 張帆",None,sfclicrec.asp?p=1867085,AZE638,http://www.sfc.hk/publicregWeb/indi/AZE638/licenceRecord,,,Rep,11/15/2016,1/24/2017
+"Zhang, Ying (SFC:BFC741) 張莹",None,sfclicrec.asp?p=2394050,BFC741,http://www.sfc.hk/publicregWeb/indi/BFC741/licenceRecord,,,Rep,10/4/2016,12/14/2018
+"Zhao, Qing (SFC:BEJ851) 趙青",None,sfclicrec.asp?p=2339228,BEJ851,http://www.sfc.hk/publicregWeb/indi/BEJ851/licenceRecord,,,Rep,10/5/2018,10/11/2019

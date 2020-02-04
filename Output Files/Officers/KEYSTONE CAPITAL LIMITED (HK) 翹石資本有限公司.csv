@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Ka Ming (SFC:BAK267) 陳嘉銘",sfclicrec.asp?p=1973763,,,RO,2016-06-17,2017-12-07
-"Chan, Tak Chiu 陳德翹",sfclicrec.asp?p=70912,,,RO,2016-06-17,2016-10-14
-"Fong, William (SFC:AVM672) 方偉濂",sfclicrec.asp?p=23531650,,M,Rep,2019-08-09,
-"Ho, Stan Ho Ming 何昊洺",sfclicrec.asp?p=104657,48,M,Rep,2016-07-07,2017-09-04
-"Kwong, Kitty Kit Ying 鄺潔瑩",sfclicrec.asp?p=2287790,,F,Rep,2016-10-24,2017-06-01
-"Kwong, Kitty Kit Ying 鄺潔瑩",sfclicrec.asp?p=2287790,,F,RO,2017-06-01,2019-10-09
-"Kwong, Kitty Kit Ying 鄺潔瑩",sfclicrec.asp?p=2287790,,F,Rep,2019-10-09,
-"Kwong, Peter Yun Kai 鄺潤楷",sfclicrec.asp?p=2618256,,M,RO,2016-08-11,2017-11-03
-"Li, Weiyang (SFC:AQR108) 李維揚",sfclicrec.asp?p=95021,,,Rep,2019-04-10,
-"Lin, Wai Yi (SFC:BHA453) 練慧儀",sfclicrec.asp?p=2547247,,,Rep,2017-05-16,
-"Liu, Guofei 劉國飛",sfclicrec.asp?p=2676074,,,Rep,2016-12-22,2018-02-20
-"Ng, Yee Ki Aiki 吳綺琪",sfclicrec.asp?p=2615872,,,Rep,2016-08-05,2019-09-16
-"Ng, Yee Ki Aiki 吳綺琪",sfclicrec.asp?p=2615872,,,RO,2019-09-16,
-"Siu, Wing Kin (SFC:BBF653) 蕭榮堅",sfclicrec.asp?p=2062537,,,RO,2017-06-01,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Ka Ming (SFC:BAK267) 陳嘉銘",None,sfclicrec.asp?p=1973763,BAK267,http://www.sfc.hk/publicregWeb/indi/BAK267/licenceRecord,,,RO,2016-06-17,2017-12-07
+"Chan, Tak Chiu 陳德翹",None,sfclicrec.asp?p=70912,AWV321,http://www.sfc.hk/publicregWeb/indi/AWV321/licenceRecord,,,RO,2016-06-17,2016-10-14
+"Fong, William (SFC:AVM672) 方偉濂",None,sfclicrec.asp?p=23531650,AVM672,http://www.sfc.hk/publicregWeb/indi/AVM672/licenceRecord,,M,Rep,2019-08-09,
+"Ho, Stan Ho Ming 何昊洺",None,sfclicrec.asp?p=104657,AEE198,http://www.sfc.hk/publicregWeb/indi/AEE198/licenceRecord,48.0,M,Rep,2016-07-07,2017-09-04
+"Kwong, Kitty Kit Ying 鄺潔瑩",None,sfclicrec.asp?p=2287790,BDQ940,http://www.sfc.hk/publicregWeb/indi/BDQ940/licenceRecord,,F,Rep,2016-10-24,2017-06-01
+"Kwong, Kitty Kit Ying 鄺潔瑩",None,sfclicrec.asp?p=2287790,BDQ940,http://www.sfc.hk/publicregWeb/indi/BDQ940/licenceRecord,,F,RO,2017-06-01,2019-10-09
+"Kwong, Kitty Kit Ying 鄺潔瑩",None,sfclicrec.asp?p=2287790,BDQ940,http://www.sfc.hk/publicregWeb/indi/BDQ940/licenceRecord,,F,Rep,2019-10-09,
+"Kwong, Peter Yun Kai 鄺潤楷",None,sfclicrec.asp?p=2618256,BHB485,http://www.sfc.hk/publicregWeb/indi/BHB485/licenceRecord,,M,RO,2016-08-11,2017-11-03
+"Li, Weiyang (SFC:AQR108) 李維揚",None,sfclicrec.asp?p=95021,AQR108,http://www.sfc.hk/publicregWeb/indi/AQR108/licenceRecord,,,Rep,2019-04-10,
+"Lin, Wai Yi (SFC:BHA453) 練慧儀",None,sfclicrec.asp?p=2547247,BHA453,http://www.sfc.hk/publicregWeb/indi/BHA453/licenceRecord,,,Rep,2017-05-16,
+"Liu, Guofei 劉國飛",None,sfclicrec.asp?p=2676074,BIS744,http://www.sfc.hk/publicregWeb/indi/BIS744/licenceRecord,,,Rep,2016-12-22,2018-02-20
+"Ng, Yee Ki Aiki 吳綺琪",None,sfclicrec.asp?p=2615872,BHU614,http://www.sfc.hk/publicregWeb/indi/BHU614/licenceRecord,,,Rep,2016-08-05,2019-09-16
+"Ng, Yee Ki Aiki 吳綺琪",None,sfclicrec.asp?p=2615872,BHU614,http://www.sfc.hk/publicregWeb/indi/BHU614/licenceRecord,,,RO,2019-09-16,
+"Siu, Wing Kin (SFC:BBF653) 蕭榮堅",None,sfclicrec.asp?p=2062537,BBF653,http://www.sfc.hk/publicregWeb/indi/BBF653/licenceRecord,,,RO,2017-06-01,

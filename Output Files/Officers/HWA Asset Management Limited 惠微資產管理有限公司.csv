@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Biesmeijer, Jimme ",sfclicrec.asp?p=123494,,,RO,2013-12-02,2017-01-06
-"Chung, Siu Pang 鍾紹鵬",sfclicrec.asp?p=83720,,,Rep,2014-11-25,2015-09-07
-"Chung, Siu Pang 鍾紹鵬",sfclicrec.asp?p=83720,,,Rep,2016-11-07,2018-03-20
-"Haas, Daniel ",sfclicrec.asp?p=2172860,,M,RO,2013-12-02,2017-11-14
-"Haas, Daniel ",sfclicrec.asp?p=2172860,,M,Rep,2017-11-14,2019-02-15
-"Hu, Xiaobing 胡小冰",sfclicrec.asp?p=122922,,,Rep,2017-05-12,2017-11-30
-"Li, Kit Lun 李杰倫",sfclicrec.asp?p=23436542,,,Rep,2019-07-17,
-"Liou, Wei Jei 劉緯婕",sfclicrec.asp?p=97871,,,Rep,2016-01-14,2016-10-25
-"Liou, Wei Jei 劉緯婕",sfclicrec.asp?p=97871,,,RO,2016-10-25,
-"Waddington, Richard Edward Henry ",sfclicrec.asp?p=11792522,,M,RO,2017-08-24,2019-06-24
-"Wang, Dayong (SFC:BDN294) 王大勇",sfclicrec.asp?p=23298966,,,RO,2019-06-13,
-"Wong, Clayton Chun Yiu 王俊堯",sfclicrec.asp?p=11670452,,,Rep,2019-07-17,2019-09-17
-"Yang, Fan (SFC:BPA505) 楊帆",sfclicrec.asp?p=23938624,,,Rep,2019-11-22,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Biesmeijer, Jimme ",None,sfclicrec.asp?p=123494,APZ522,http://www.sfc.hk/publicregWeb/indi/APZ522/licenceRecord,,,RO,2013-12-02,2017-01-06
+"Chung, Siu Pang 鍾紹鵬",None,sfclicrec.asp?p=83720,AQE690,http://www.sfc.hk/publicregWeb/indi/AQE690/licenceRecord,,,Rep,2014-11-25,2015-09-07
+"Chung, Siu Pang 鍾紹鵬",None,sfclicrec.asp?p=83720,AQE690,http://www.sfc.hk/publicregWeb/indi/AQE690/licenceRecord,,,Rep,2016-11-07,2018-03-20
+"Haas, Daniel ",None,sfclicrec.asp?p=2172860,BBQ447,http://www.sfc.hk/publicregWeb/indi/BBQ447/licenceRecord,,M,RO,2013-12-02,2017-11-14
+"Haas, Daniel ",None,sfclicrec.asp?p=2172860,BBQ447,http://www.sfc.hk/publicregWeb/indi/BBQ447/licenceRecord,,M,Rep,2017-11-14,2019-02-15
+"Hu, Xiaobing 胡小冰",None,sfclicrec.asp?p=122922,APQ500,http://www.sfc.hk/publicregWeb/indi/APQ500/licenceRecord,,,Rep,2017-05-12,2017-11-30
+"Li, Kit Lun 李杰倫",None,sfclicrec.asp?p=23436542,BOL398,http://www.sfc.hk/publicregWeb/indi/BOL398/licenceRecord,,,Rep,2019-07-17,
+"Liou, Wei Jei 劉緯婕",None,sfclicrec.asp?p=97871,ATO438,http://www.sfc.hk/publicregWeb/indi/ATO438/licenceRecord,,,Rep,2016-01-14,2016-10-25
+"Liou, Wei Jei 劉緯婕",None,sfclicrec.asp?p=97871,ATO438,http://www.sfc.hk/publicregWeb/indi/ATO438/licenceRecord,,,RO,2016-10-25,
+"Waddington, Richard Edward Henry ",None,sfclicrec.asp?p=11792522,BJS782,http://www.sfc.hk/publicregWeb/indi/BJS782/licenceRecord,,M,RO,2017-08-24,2019-06-24
+"Wang, Dayong (SFC:BDN294) 王大勇",None,sfclicrec.asp?p=23298966,BDN294,http://www.sfc.hk/publicregWeb/indi/BDN294/licenceRecord,,,RO,2019-06-13,
+"Wong, Clayton Chun Yiu 王俊堯",None,sfclicrec.asp?p=11670452,BJP845,http://www.sfc.hk/publicregWeb/indi/BJP845/licenceRecord,,,Rep,2019-07-17,2019-09-17
+"Yang, Fan (SFC:BPA505) 楊帆",None,sfclicrec.asp?p=23938624,BPA505,http://www.sfc.hk/publicregWeb/indi/BPA505/licenceRecord,,,Rep,2019-11-22,

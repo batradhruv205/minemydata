@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Fu, Yiu Hang 傅耀衡",sfclicrec.asp?p=108912,,,RO,2018-02-14,
-"Ng, Raymond Jun Hing 吳駿興",sfclicrec.asp?p=105228,,M,RO,2004-10-08,2016-10-01
-"Tao, Clement Kwok Lau 杜國鎏",sfclicrec.asp?p=25921,71,M,RO,,
-"Tsang, Ka Kit 曾嘉傑",sfclicrec.asp?p=71865,,,RO,2019-09-23,2019-12-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Fu, Yiu Hang 傅耀衡",None,sfclicrec.asp?p=108912,AGH815,http://www.sfc.hk/publicregWeb/indi/AGH815/licenceRecord,,,RO,2018-02-14,
+"Ng, Raymond Jun Hing 吳駿興",None,sfclicrec.asp?p=105228,AEQ988,http://www.sfc.hk/publicregWeb/indi/AEQ988/licenceRecord,,M,RO,2004-10-08,2016-10-01
+"Tao, Clement Kwok Lau 杜國鎏",None,sfclicrec.asp?p=25921,AAK078,http://www.sfc.hk/publicregWeb/indi/AAK078/licenceRecord,71.0,M,RO,,
+"Tsang, Ka Kit 曾嘉傑",None,sfclicrec.asp?p=71865,AXD389,http://www.sfc.hk/publicregWeb/indi/AXD389/licenceRecord,,,RO,2019-09-23,2019-12-31

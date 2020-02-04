@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Nerrisa Lai Yin 陳麗然",sfclicrec.asp?p=101770,,F,Rep,,
-"Chan, Yik Kim 陳翊儉",sfclicrec.asp?p=108166,,,Rep,,2019-06-04
-"Chan, Yik Kim 陳翊儉",sfclicrec.asp?p=108166,,,RO,2019-06-04,
-"Fung, Lai Hon 馮迺漢",sfclicrec.asp?p=101318,,,RO,,
-"Fung, Pak Fai 馮柏輝",sfclicrec.asp?p=101319,,,Rep,,2005-02-25
-"Fung, Pak Fai 馮柏輝",sfclicrec.asp?p=101319,,,RO,2005-02-25,2017-10-23
-"Fung, Peggy Yen Ping 馮艷萍",sfclicrec.asp?p=100640,,F,Rep,,
-"Fung, Ronald Che Yuen 馮知遠",sfclicrec.asp?p=104277,,M,RO,,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Nerrisa Lai Yin 陳麗然",None,sfclicrec.asp?p=101770,AAY598,http://www.sfc.hk/publicregWeb/indi/AAY598/licenceRecord,,F,Rep,,
+"Chan, Yik Kim 陳翊儉",None,sfclicrec.asp?p=108166,AFZ378,http://www.sfc.hk/publicregWeb/indi/AFZ378/licenceRecord,,,Rep,,2019-06-04
+"Chan, Yik Kim 陳翊儉",None,sfclicrec.asp?p=108166,AFZ378,http://www.sfc.hk/publicregWeb/indi/AFZ378/licenceRecord,,,RO,2019-06-04,
+"Fung, Lai Hon 馮迺漢",None,sfclicrec.asp?p=101318,AAH634,http://www.sfc.hk/publicregWeb/indi/AAH634/licenceRecord,,,RO,,
+"Fung, Pak Fai 馮柏輝",None,sfclicrec.asp?p=101319,AAH638,http://www.sfc.hk/publicregWeb/indi/AAH638/licenceRecord,,,Rep,,2005-02-25
+"Fung, Pak Fai 馮柏輝",None,sfclicrec.asp?p=101319,AAH638,http://www.sfc.hk/publicregWeb/indi/AAH638/licenceRecord,,,RO,2005-02-25,2017-10-23
+"Fung, Peggy Yen Ping 馮艷萍",None,sfclicrec.asp?p=100640,AAB170,http://www.sfc.hk/publicregWeb/indi/AAB170/licenceRecord,,F,Rep,,
+"Fung, Ronald Che Yuen 馮知遠",None,sfclicrec.asp?p=104277,ADV648,http://www.sfc.hk/publicregWeb/indi/ADV648/licenceRecord,,M,RO,,

@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Sin Hang (SFC:AQU095) 陳倩姮",sfclicrec.asp?p=124938,,,RO,2014-09-11,2015-07-31
-"Cheng, Andrew Wai Lun 鄭偉倫",sfclicrec.asp?p=11829,47,M,RO,2018-06-29,
-"Cheng, Annie Wai Ling 鄭偉玲",sfclicrec.asp?p=11830,41,F,Rep,2004-11-26,2008-01-04
-"Cheng, Annie Wai Ling 鄭偉玲",sfclicrec.asp?p=11830,41,F,RO,2008-01-04,
-"Cheng, Charles Kai Ming (SFC:AAD226) 鄭啟明",sfclicrec.asp?p=9863,73,M,RO,,2010-03-05
-"Cheng, Hoi Lok 鄭開樂",sfclicrec.asp?p=11838,65,M,RO,2006-07-24,2014-05-23
-"Chim, Mei Hing 詹美卿",sfclicrec.asp?p=9864,68,F,RO,,
-"Leong, Joe Sai Cheong 梁世昌",sfclicrec.asp?p=101855,,M,Rep,2004-03-17,2010-11-15
-"Suen, Stephen Man Tak 孫文德",sfclicrec.asp?p=38885,62,M,RO,2007-05-29,2012-06-01
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Sin Hang (SFC:AQU095) 陳倩姮",None,sfclicrec.asp?p=124938,AQU095,http://www.sfc.hk/publicregWeb/indi/AQU095/licenceRecord,,,RO,2014-09-11,2015-07-31
+"Cheng, Andrew Wai Lun 鄭偉倫",None,sfclicrec.asp?p=11829,AED731,http://www.sfc.hk/publicregWeb/indi/AED731/licenceRecord,47.0,M,RO,2018-06-29,
+"Cheng, Annie Wai Ling 鄭偉玲",None,sfclicrec.asp?p=11830,ALI160,http://www.sfc.hk/publicregWeb/indi/ALI160/licenceRecord,41.0,F,Rep,2004-11-26,2008-01-04
+"Cheng, Annie Wai Ling 鄭偉玲",None,sfclicrec.asp?p=11830,ALI160,http://www.sfc.hk/publicregWeb/indi/ALI160/licenceRecord,41.0,F,RO,2008-01-04,
+"Cheng, Charles Kai Ming (SFC:AAD226) 鄭啟明",None,sfclicrec.asp?p=9863,AAD226,http://www.sfc.hk/publicregWeb/indi/AAD226/licenceRecord,73.0,M,RO,,2010-03-05
+"Cheng, Hoi Lok 鄭開樂",None,sfclicrec.asp?p=11838,AAD231,http://www.sfc.hk/publicregWeb/indi/AAD231/licenceRecord,65.0,M,RO,2006-07-24,2014-05-23
+"Chim, Mei Hing 詹美卿",None,sfclicrec.asp?p=9864,ABQ071,http://www.sfc.hk/publicregWeb/indi/ABQ071/licenceRecord,68.0,F,RO,,
+"Leong, Joe Sai Cheong 梁世昌",None,sfclicrec.asp?p=101855,ABB205,http://www.sfc.hk/publicregWeb/indi/ABB205/licenceRecord,,M,Rep,2004-03-17,2010-11-15
+"Suen, Stephen Man Tak 孫文德",None,sfclicrec.asp?p=38885,ADJ744,http://www.sfc.hk/publicregWeb/indi/ADJ744/licenceRecord,62.0,M,RO,2007-05-29,2012-06-01

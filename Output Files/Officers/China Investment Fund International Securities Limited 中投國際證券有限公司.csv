@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Wai Leung (SFC:ASK745) 陳韋良",sfclicrec.asp?p=71455,,,RO,2018-07-10,2019-04-29
-"Kam, Boris Kwun Kwan 金冠群",sfclicrec.asp?p=99686,,M,Rep,2019-07-23,2019-08-19
-"Kam, Boris Kwun Kwan 金冠群",sfclicrec.asp?p=99686,,M,RO,2019-08-19,2020-01-10
-"Lam, Sau Chu 林秀珠",sfclicrec.asp?p=124541,,,RO,2018-07-10,2019-02-04
-"Ng, Ka Wai (SFC:APO972) 伍家慧",sfclicrec.asp?p=71617,,,Rep,2018-08-22,2018-10-22
-"Ng, Ka Wai (SFC:APO972) 伍家慧",sfclicrec.asp?p=71617,,,RO,2018-10-22,2019-06-14
-"Ng, Wai Kit (SFC:AVT524) 吳偉傑",sfclicrec.asp?p=82290,,,Rep,2019-01-23,2019-03-28
-"Wang, Wai Keung 王偉強",sfclicrec.asp?p=19379613,,,RO,2018-07-10,
-"Wong, Ching (SFC:AXN060) 王靜",sfclicrec.asp?p=71679,,,Rep,2019-03-22,2019-03-28
-"Ye, Lin 叶琳",sfclicrec.asp?p=22144286,,,Rep,2018-09-06,2019-02-06
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Wai Leung (SFC:ASK745) 陳韋良",None,sfclicrec.asp?p=71455,ASK745,http://www.sfc.hk/publicregWeb/indi/ASK745/licenceRecord,,,RO,2018-07-10,2019-04-29
+"Kam, Boris Kwun Kwan 金冠群",None,sfclicrec.asp?p=99686,ANA539,http://www.sfc.hk/publicregWeb/indi/ANA539/licenceRecord,,M,Rep,2019-07-23,2019-08-19
+"Kam, Boris Kwun Kwan 金冠群",None,sfclicrec.asp?p=99686,ANA539,http://www.sfc.hk/publicregWeb/indi/ANA539/licenceRecord,,M,RO,2019-08-19,2020-01-10
+"Lam, Sau Chu 林秀珠",None,sfclicrec.asp?p=124541,AQO332,http://www.sfc.hk/publicregWeb/indi/AQO332/licenceRecord,,,RO,2018-07-10,2019-02-04
+"Ng, Ka Wai (SFC:APO972) 伍家慧",None,sfclicrec.asp?p=71617,APO972,http://www.sfc.hk/publicregWeb/indi/APO972/licenceRecord,,,Rep,2018-08-22,2018-10-22
+"Ng, Ka Wai (SFC:APO972) 伍家慧",None,sfclicrec.asp?p=71617,APO972,http://www.sfc.hk/publicregWeb/indi/APO972/licenceRecord,,,RO,2018-10-22,2019-06-14
+"Ng, Wai Kit (SFC:AVT524) 吳偉傑",None,sfclicrec.asp?p=82290,AVT524,http://www.sfc.hk/publicregWeb/indi/AVT524/licenceRecord,,,Rep,2019-01-23,2019-03-28
+"Wang, Wai Keung 王偉強",None,sfclicrec.asp?p=19379613,BLC066,http://www.sfc.hk/publicregWeb/indi/BLC066/licenceRecord,,,RO,2018-07-10,
+"Wong, Ching (SFC:AXN060) 王靜",None,sfclicrec.asp?p=71679,AXN060,http://www.sfc.hk/publicregWeb/indi/AXN060/licenceRecord,,,Rep,2019-03-22,2019-03-28
+"Ye, Lin 叶琳",None,sfclicrec.asp?p=22144286,BNN692,http://www.sfc.hk/publicregWeb/indi/BNN692/licenceRecord,,,Rep,2018-09-06,2019-02-06

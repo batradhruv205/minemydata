@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chang, Li Hao 張立顥",sfclicrec.asp?p=22363981,,,Rep,2018-10-29,
-"Cheng, Li (SFC:AZB216) 程莉",sfclicrec.asp?p=1865112,,,Rep,2018-12-19,
-"Loo, Kwok Wing 盧國榮",sfclicrec.asp?p=101668,,,RO,2018-08-07,
-"Sung, Chun Piu 宋震標",sfclicrec.asp?p=2542340,,,RO,2018-08-07,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chang, Li Hao 張立顥",None,sfclicrec.asp?p=22363981,BNQ978,http://www.sfc.hk/publicregWeb/indi/BNQ978/licenceRecord,,,Rep,2018-10-29,
+"Cheng, Li (SFC:AZB216) 程莉",None,sfclicrec.asp?p=1865112,AZB216,http://www.sfc.hk/publicregWeb/indi/AZB216/licenceRecord,,,Rep,2018-12-19,
+"Loo, Kwok Wing 盧國榮",None,sfclicrec.asp?p=101668,AAV946,http://www.sfc.hk/publicregWeb/indi/AAV946/licenceRecord,,,RO,2018-08-07,
+"Sung, Chun Piu 宋震標",None,sfclicrec.asp?p=2542340,AAY730,http://www.sfc.hk/publicregWeb/indi/AAY730/licenceRecord,,,RO,2018-08-07,

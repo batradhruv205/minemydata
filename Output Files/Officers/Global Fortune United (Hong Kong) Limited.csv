@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Li, Chunwang 李春旺",sfclicrec.asp?p=2361017,,,RO,2019-06-14,
-"Wang, Da Qing 王大慶",sfclicrec.asp?p=1939248,,,RO,2018-09-21,2019-07-05
-"Yang, Guang (SFC:AMI593) 楊光",sfclicrec.asp?p=116565,,,RO,2018-09-21,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Li, Chunwang 李春旺",None,sfclicrec.asp?p=2361017,BES126,http://www.sfc.hk/publicregWeb/indi/BES126/licenceRecord,,,RO,2019-06-14,
+"Wang, Da Qing 王大慶",None,sfclicrec.asp?p=1939248,BAB056,http://www.sfc.hk/publicregWeb/indi/BAB056/licenceRecord,,,RO,2018-09-21,2019-07-05
+"Yang, Guang (SFC:AMI593) 楊光",None,sfclicrec.asp?p=116565,AMI593,http://www.sfc.hk/publicregWeb/indi/AMI593/licenceRecord,,,RO,2018-09-21,

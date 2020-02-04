@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chai, Shan Shan 柴珊珊",sfclicrec.asp?p=72204,,,Rep,2016-09-30,2017-05-12
-"Chan, Tsz Kin (SFC:BIY015) 陳子健",sfclicrec.asp?p=2687021,,,Rep,2017-01-16,2017-04-21
-"Cui, Xiaojun 崔曉軍",sfclicrec.asp?p=2449277,,,RO,2015-07-15,2016-11-21
-"Guo, Congyang (SFC:BOR908) 郭聰陽",sfclicrec.asp?p=23760917,,,RO,2019-10-08,
-"Hu, Meng 胡猛",sfclicrec.asp?p=2432153,,,RO,2015-05-22,2015-11-02
-"Huang, Jing (SFC:BEO408) 黃晶",sfclicrec.asp?p=2359951,,,Rep,2016-03-31,
-"Huen, Kit Yee 禤潔儀",sfclicrec.asp?p=111208,,,RO,2015-05-22,2019-11-30
-"Qian, Yifei (SFC:BBD017) 錢燚飛",sfclicrec.asp?p=2049310,,,Rep,2017-08-17,2018-11-16
-"Qian, Yifei (SFC:BBD017) 錢燚飛",sfclicrec.asp?p=2049310,,,RO,2018-11-16,
-"Song, Chenxing 宋辰興",sfclicrec.asp?p=1939173,,,Rep,2016-06-23,2017-06-23
-"Takeda, Shinichi ",sfclicrec.asp?p=104042,,,RO,2016-09-09,2019-01-12
-"Teng, Shengchun 滕胜春",sfclicrec.asp?p=6707925,,,Rep,2017-03-27,2017-09-30
-"Wang, Li (SFC:BJW576) 王理",sfclicrec.asp?p=11766065,,,Rep,2017-07-10,2019-12-06
-"Yuan, Lin (SFC:BCJ572) 袁林",sfclicrec.asp?p=2169784,,,Rep,2016-05-06,2017-01-09
-"Zheng, Yang (SFC:BAA900) 鄭陽",sfclicrec.asp?p=1939182,,,Rep,2016-07-04,2017-05-12
-"Zou, Hao 鄒昊",sfclicrec.asp?p=83628,40,M,Rep,2016-03-16,2016-12-23
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chai, Shan Shan 柴珊珊",None,sfclicrec.asp?p=72204,AVD684,http://www.sfc.hk/publicregWeb/indi/AVD684/licenceRecord,,,Rep,2016-09-30,2017-05-12
+"Chan, Tsz Kin (SFC:BIY015) 陳子健",None,sfclicrec.asp?p=2687021,BIY015,http://www.sfc.hk/publicregWeb/indi/BIY015/licenceRecord,,,Rep,2017-01-16,2017-04-21
+"Cui, Xiaojun 崔曉軍",None,sfclicrec.asp?p=2449277,BEJ196,http://www.sfc.hk/publicregWeb/indi/BEJ196/licenceRecord,,,RO,2015-07-15,2016-11-21
+"Guo, Congyang (SFC:BOR908) 郭聰陽",None,sfclicrec.asp?p=23760917,BOR908,http://www.sfc.hk/publicregWeb/indi/BOR908/licenceRecord,,,RO,2019-10-08,
+"Hu, Meng 胡猛",None,sfclicrec.asp?p=2432153,BEN787,http://www.sfc.hk/publicregWeb/indi/BEN787/licenceRecord,,,RO,2015-05-22,2015-11-02
+"Huang, Jing (SFC:BEO408) 黃晶",None,sfclicrec.asp?p=2359951,BEO408,http://www.sfc.hk/publicregWeb/indi/BEO408/licenceRecord,,,Rep,2016-03-31,
+"Huen, Kit Yee 禤潔儀",None,sfclicrec.asp?p=111208,AHJ779,http://www.sfc.hk/publicregWeb/indi/AHJ779/licenceRecord,,,RO,2015-05-22,2019-11-30
+"Qian, Yifei (SFC:BBD017) 錢燚飛",None,sfclicrec.asp?p=2049310,BBD017,http://www.sfc.hk/publicregWeb/indi/BBD017/licenceRecord,,,Rep,2017-08-17,2018-11-16
+"Qian, Yifei (SFC:BBD017) 錢燚飛",None,sfclicrec.asp?p=2049310,BBD017,http://www.sfc.hk/publicregWeb/indi/BBD017/licenceRecord,,,RO,2018-11-16,
+"Song, Chenxing 宋辰興",None,sfclicrec.asp?p=1939173,BAB155,http://www.sfc.hk/publicregWeb/indi/BAB155/licenceRecord,,,Rep,2016-06-23,2017-06-23
+"Takeda, Shinichi ",None,sfclicrec.asp?p=104042,ADR470,http://www.sfc.hk/publicregWeb/indi/ADR470/licenceRecord,,,RO,2016-09-09,2019-01-12
+"Teng, Shengchun 滕胜春",None,sfclicrec.asp?p=6707925,BJG482,http://www.sfc.hk/publicregWeb/indi/BJG482/licenceRecord,,,Rep,2017-03-27,2017-09-30
+"Wang, Li (SFC:BJW576) 王理",None,sfclicrec.asp?p=11766065,BJW576,http://www.sfc.hk/publicregWeb/indi/BJW576/licenceRecord,,,Rep,2017-07-10,2019-12-06
+"Yuan, Lin (SFC:BCJ572) 袁林",None,sfclicrec.asp?p=2169784,BCJ572,http://www.sfc.hk/publicregWeb/indi/BCJ572/licenceRecord,,,Rep,2016-05-06,2017-01-09
+"Zheng, Yang (SFC:BAA900) 鄭陽",None,sfclicrec.asp?p=1939182,BAA900,http://www.sfc.hk/publicregWeb/indi/BAA900/licenceRecord,,,Rep,2016-07-04,2017-05-12
+"Zou, Hao 鄒昊",None,sfclicrec.asp?p=83628,ASM068,http://www.sfc.hk/publicregWeb/indi/ASM068/licenceRecord,40.0,M,Rep,2016-03-16,2016-12-23

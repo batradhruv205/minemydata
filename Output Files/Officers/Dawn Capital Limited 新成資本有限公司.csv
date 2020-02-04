@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Hu, Ouya 胡歐亞",sfclicrec.asp?p=2531008,,,Rep,2017-09-06,2017-10-06
-"Hui, Pak Chi 許柏芝",sfclicrec.asp?p=125258,,,RO,2016-03-07,2016-05-31
-"Shao, Wei (SFC:BCI337) 邵尉",sfclicrec.asp?p=2167154,,,Rep,2016-10-24,2016-11-01
-"Wang, Guanzhu 王冠珠",sfclicrec.asp?p=24139118,,,Rep,2020-01-20,
-"Wang, Wenhui 王文暉",sfclicrec.asp?p=89723,,,RO,2016-09-07,2019-05-14
-"Yan, Lin (SFC:BHT623) 嚴霖",sfclicrec.asp?p=2675363,,,Rep,2016-12-19,2019-07-11
-"Yan, Lin (SFC:BHT623) 嚴霖",sfclicrec.asp?p=2675363,,,RO,2019-07-11,
-"Zhu, Xiaohui (SFC:ARJ511) 朱曉輝",sfclicrec.asp?p=126203,,,RO,2016-03-07,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Hu, Ouya 胡歐亞",None,sfclicrec.asp?p=2531008,BGX256,http://www.sfc.hk/publicregWeb/indi/BGX256/licenceRecord,,,Rep,2017-09-06,2017-10-06
+"Hui, Pak Chi 許柏芝",None,sfclicrec.asp?p=125258,AQY763,http://www.sfc.hk/publicregWeb/indi/AQY763/licenceRecord,,,RO,2016-03-07,2016-05-31
+"Shao, Wei (SFC:BCI337) 邵尉",None,sfclicrec.asp?p=2167154,BCI337,http://www.sfc.hk/publicregWeb/indi/BCI337/licenceRecord,,,Rep,2016-10-24,2016-11-01
+"Wang, Guanzhu 王冠珠",None,sfclicrec.asp?p=24139118,BPH472,http://www.sfc.hk/publicregWeb/indi/BPH472/licenceRecord,,,Rep,2020-01-20,
+"Wang, Wenhui 王文暉",None,sfclicrec.asp?p=89723,AOL182,http://www.sfc.hk/publicregWeb/indi/AOL182/licenceRecord,,,RO,2016-09-07,2019-05-14
+"Yan, Lin (SFC:BHT623) 嚴霖",None,sfclicrec.asp?p=2675363,BHT623,http://www.sfc.hk/publicregWeb/indi/BHT623/licenceRecord,,,Rep,2016-12-19,2019-07-11
+"Yan, Lin (SFC:BHT623) 嚴霖",None,sfclicrec.asp?p=2675363,BHT623,http://www.sfc.hk/publicregWeb/indi/BHT623/licenceRecord,,,RO,2019-07-11,
+"Zhu, Xiaohui (SFC:ARJ511) 朱曉輝",None,sfclicrec.asp?p=126203,ARJ511,http://www.sfc.hk/publicregWeb/indi/ARJ511/licenceRecord,,,RO,2016-03-07,

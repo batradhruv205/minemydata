@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Siu Fun 張笑芬",sfclicrec.asp?p=98194,,,Rep,2017-03-28,2018-10-05
-"Fu, Sin 扶茜",sfclicrec.asp?p=11789141,,,Rep,2018-12-12,2019-10-11
-"Geng, Yanjun 耿彥軍",sfclicrec.asp?p=8996361,,,Rep,2017-04-27,2018-08-10
-"Ho, Sin Cheung 何善翔",sfclicrec.asp?p=79185,,,RO,2017-02-21,2018-08-20
-"Lam, Elsa Yuk Ying 林玉英",sfclicrec.asp?p=64451,60,F,RO,2017-02-21,2017-12-01
-"Lam, Lai Heung 林麗香",sfclicrec.asp?p=98280,,,RO,2018-11-13,
-"Leung, Ka Sin 梁嘉倩",sfclicrec.asp?p=22236156,,,Rep,2018-10-03,
-"Leung, Michael Kam Lok 梁金樂",sfclicrec.asp?p=2547248,,M,Rep,2019-07-15,2019-10-08
-"Li, Ling Sun 李寧新",sfclicrec.asp?p=95199,,,Rep,2019-07-15,
-"Lung, Ka Min 龍家綿",sfclicrec.asp?p=95200,,,Rep,2019-07-16,
-"Tsoi, Kenneth Sze Ming 蔡思明",sfclicrec.asp?p=93095,,M,RO,2018-08-20,
-"Wong, Albert Kin Hing 黃健興",sfclicrec.asp?p=41703,45,M,Rep,2020-01-03,
-"Wong, Howard Lok Him 王諾謙",sfclicrec.asp?p=80607,,M,RO,2017-02-21,2018-07-27
-"Wong, Wai San 黃偉新",sfclicrec.asp?p=72997,,,Rep,2018-11-12,2019-01-26
-"Woo, Chi Wai 胡志偉",sfclicrec.asp?p=74124,,,RO,2018-08-16,
-"Yu, Man Ho (SFC:BKX282) 余文浩",sfclicrec.asp?p=12107984,,,Rep,2018-03-27,2018-06-12
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Siu Fun 張笑芬",None,sfclicrec.asp?p=98194,AED137,http://www.sfc.hk/publicregWeb/indi/AED137/licenceRecord,,,Rep,2017-03-28,2018-10-05
+"Fu, Sin 扶茜",None,sfclicrec.asp?p=11789141,BKF907,http://www.sfc.hk/publicregWeb/indi/BKF907/licenceRecord,,,Rep,2018-12-12,2019-10-11
+"Geng, Yanjun 耿彥軍",None,sfclicrec.asp?p=8996361,BJL658,http://www.sfc.hk/publicregWeb/indi/BJL658/licenceRecord,,,Rep,2017-04-27,2018-08-10
+"Ho, Sin Cheung 何善翔",None,sfclicrec.asp?p=79185,ABP225,http://www.sfc.hk/publicregWeb/indi/ABP225/licenceRecord,,,RO,2017-02-21,2018-08-20
+"Lam, Elsa Yuk Ying 林玉英",None,sfclicrec.asp?p=64451,AFU002,http://www.sfc.hk/publicregWeb/indi/AFU002/licenceRecord,60.0,F,RO,2017-02-21,2017-12-01
+"Lam, Lai Heung 林麗香",None,sfclicrec.asp?p=98280,AEP936,http://www.sfc.hk/publicregWeb/indi/AEP936/licenceRecord,,,RO,2018-11-13,
+"Leung, Ka Sin 梁嘉倩",None,sfclicrec.asp?p=22236156,BNI693,http://www.sfc.hk/publicregWeb/indi/BNI693/licenceRecord,,,Rep,2018-10-03,
+"Leung, Michael Kam Lok 梁金樂",None,sfclicrec.asp?p=2547248,BHC917,http://www.sfc.hk/publicregWeb/indi/BHC917/licenceRecord,,M,Rep,2019-07-15,2019-10-08
+"Li, Ling Sun 李寧新",None,sfclicrec.asp?p=95199,AGI751,http://www.sfc.hk/publicregWeb/indi/AGI751/licenceRecord,,,Rep,2019-07-15,
+"Lung, Ka Min 龍家綿",None,sfclicrec.asp?p=95200,AFB725,http://www.sfc.hk/publicregWeb/indi/AFB725/licenceRecord,,,Rep,2019-07-16,
+"Tsoi, Kenneth Sze Ming 蔡思明",None,sfclicrec.asp?p=93095,ABP464,http://www.sfc.hk/publicregWeb/indi/ABP464/licenceRecord,,M,RO,2018-08-20,
+"Wong, Albert Kin Hing 黃健興",None,sfclicrec.asp?p=41703,AJJ716,http://www.sfc.hk/publicregWeb/indi/AJJ716/licenceRecord,45.0,M,Rep,2020-01-03,
+"Wong, Howard Lok Him 王諾謙",None,sfclicrec.asp?p=80607,AMX945,http://www.sfc.hk/publicregWeb/indi/AMX945/licenceRecord,,M,RO,2017-02-21,2018-07-27
+"Wong, Wai San 黃偉新",None,sfclicrec.asp?p=72997,AHP442,http://www.sfc.hk/publicregWeb/indi/AHP442/licenceRecord,,,Rep,2018-11-12,2019-01-26
+"Woo, Chi Wai 胡志偉",None,sfclicrec.asp?p=74124,AFC530,http://www.sfc.hk/publicregWeb/indi/AFC530/licenceRecord,,,RO,2018-08-16,
+"Yu, Man Ho (SFC:BKX282) 余文浩",None,sfclicrec.asp?p=12107984,BKX282,http://www.sfc.hk/publicregWeb/indi/BKX282/licenceRecord,,,Rep,2018-03-27,2018-06-12

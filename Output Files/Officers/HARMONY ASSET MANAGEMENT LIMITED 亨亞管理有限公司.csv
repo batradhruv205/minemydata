@@ -1,18 +1,18 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Fung Cheung 陳鳳翔",sfclicrec.asp?p=127780,,,Rep,2011-10-04,2011-11-28
-"Chan, Fung Cheung 陳鳳翔",sfclicrec.asp?p=127780,,,RO,2011-11-28,2012-09-17
-"Chan, Yin Ming 陳彥鳴",sfclicrec.asp?p=126538,,,Rep,2013-03-04,2014-08-11
-"Cheng, Tai Pui 鄭棣培",sfclicrec.asp?p=93903,,,Rep,2014-10-17,2015-09-21
-"Chow, Augustine Pok Yu 周博裕",sfclicrec.asp?p=2119,68,M,RO,,
-"Ho, Benny Tak Ming 何德明",sfclicrec.asp?p=74704,,M,Rep,2012-07-09,2012-11-26
-"Ho, Benny Tak Ming 何德明",sfclicrec.asp?p=74704,,M,RO,2012-11-26,2013-05-24
-"Ho, Benny Tak Ming 何德明",sfclicrec.asp?p=74704,,M,Rep,2013-05-24,2014-04-14
-"Lee, David Fong Lit 利芳烈",sfclicrec.asp?p=5515,74,M,RO,,2020-01-01
-"Lee, King Yu 李景愉",sfclicrec.asp?p=90277,,,RO,2013-06-20,2014-10-01
-"Lee, Vizor 李詠珊",sfclicrec.asp?p=78616,,,Rep,2012-10-11,2012-11-06
-"Lee, Vizor 李詠珊",sfclicrec.asp?p=78616,,,RO,2012-11-06,2014-10-01
-"Sung, Hilda 宋玲鋆",sfclicrec.asp?p=23107,55,F,Rep,2010-03-03,2010-10-22
-"Sung, Hilda 宋玲鋆",sfclicrec.asp?p=23107,55,F,RO,2010-10-22,2011-05-16
-"Sung, Hilda 宋玲鋆",sfclicrec.asp?p=23107,55,F,Rep,2011-05-16,
-"Yan, Vivian 甄慧淙",sfclicrec.asp?p=131457,39,F,Rep,2011-09-06,2015-01-12
-"Yan, Vivian 甄慧淙",sfclicrec.asp?p=131457,39,F,RO,2015-01-12,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Fung Cheung 陳鳳翔",None,sfclicrec.asp?p=127780,ASQ171,http://www.sfc.hk/publicregWeb/indi/ASQ171/licenceRecord,,,Rep,2011-10-04,2011-11-28
+"Chan, Fung Cheung 陳鳳翔",None,sfclicrec.asp?p=127780,ASQ171,http://www.sfc.hk/publicregWeb/indi/ASQ171/licenceRecord,,,RO,2011-11-28,2012-09-17
+"Chan, Yin Ming 陳彥鳴",None,sfclicrec.asp?p=126538,ARO378,http://www.sfc.hk/publicregWeb/indi/ARO378/licenceRecord,,,Rep,2013-03-04,2014-08-11
+"Cheng, Tai Pui 鄭棣培",None,sfclicrec.asp?p=93903,AAH278,http://www.sfc.hk/publicregWeb/indi/AAH278/licenceRecord,,,Rep,2014-10-17,2015-09-21
+"Chow, Augustine Pok Yu 周博裕",None,sfclicrec.asp?p=2119,AAN638,http://www.sfc.hk/publicregWeb/indi/AAN638/licenceRecord,68.0,M,RO,,
+"Ho, Benny Tak Ming 何德明",None,sfclicrec.asp?p=74704,AJH567,http://www.sfc.hk/publicregWeb/indi/AJH567/licenceRecord,,M,Rep,2012-07-09,2012-11-26
+"Ho, Benny Tak Ming 何德明",None,sfclicrec.asp?p=74704,AJH567,http://www.sfc.hk/publicregWeb/indi/AJH567/licenceRecord,,M,RO,2012-11-26,2013-05-24
+"Ho, Benny Tak Ming 何德明",None,sfclicrec.asp?p=74704,AJH567,http://www.sfc.hk/publicregWeb/indi/AJH567/licenceRecord,,M,Rep,2013-05-24,2014-04-14
+"Lee, David Fong Lit 利芳烈",None,sfclicrec.asp?p=5515,AEM889,http://www.sfc.hk/publicregWeb/indi/AEM889/licenceRecord,74.0,M,RO,,2020-01-01
+"Lee, King Yu 李景愉",None,sfclicrec.asp?p=90277,ACI100,http://www.sfc.hk/publicregWeb/indi/ACI100/licenceRecord,,,RO,2013-06-20,2014-10-01
+"Lee, Vizor 李詠珊",None,sfclicrec.asp?p=78616,AWF319,http://www.sfc.hk/publicregWeb/indi/AWF319/licenceRecord,,,Rep,2012-10-11,2012-11-06
+"Lee, Vizor 李詠珊",None,sfclicrec.asp?p=78616,AWF319,http://www.sfc.hk/publicregWeb/indi/AWF319/licenceRecord,,,RO,2012-11-06,2014-10-01
+"Sung, Hilda 宋玲鋆",None,sfclicrec.asp?p=23107,ABN455,http://www.sfc.hk/publicregWeb/indi/ABN455/licenceRecord,55.0,F,Rep,2010-03-03,2010-10-22
+"Sung, Hilda 宋玲鋆",None,sfclicrec.asp?p=23107,ABN455,http://www.sfc.hk/publicregWeb/indi/ABN455/licenceRecord,55.0,F,RO,2010-10-22,2011-05-16
+"Sung, Hilda 宋玲鋆",None,sfclicrec.asp?p=23107,ABN455,http://www.sfc.hk/publicregWeb/indi/ABN455/licenceRecord,55.0,F,Rep,2011-05-16,
+"Yan, Vivian 甄慧淙",None,sfclicrec.asp?p=131457,AXW605,http://www.sfc.hk/publicregWeb/indi/AXW605/licenceRecord,39.0,F,Rep,2011-09-06,2015-01-12
+"Yan, Vivian 甄慧淙",None,sfclicrec.asp?p=131457,AXW605,http://www.sfc.hk/publicregWeb/indi/AXW605/licenceRecord,39.0,F,RO,2015-01-12,

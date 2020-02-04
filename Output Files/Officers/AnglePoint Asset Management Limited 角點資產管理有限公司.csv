@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Jiang, Bo (SFC:AWD081) 姜博",sfclicrec.asp?p=93400,,,Rep,2019-12-18,
-"Li, Luk 李鹿",sfclicrec.asp?p=2582664,,,RO,2019-10-10,
-"Liu, Jie (SFC:BHL385) 劉杰",sfclicrec.asp?p=2579084,,,RO,2019-10-10,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Jiang, Bo (SFC:AWD081) 姜博",None,sfclicrec.asp?p=93400,AWD081,http://www.sfc.hk/publicregWeb/indi/AWD081/licenceRecord,,,Rep,2019-12-18,
+"Li, Luk 李鹿",None,sfclicrec.asp?p=2582664,BHM860,http://www.sfc.hk/publicregWeb/indi/BHM860/licenceRecord,,,RO,2019-10-10,
+"Liu, Jie (SFC:BHL385) 劉杰",None,sfclicrec.asp?p=2579084,BHL385,http://www.sfc.hk/publicregWeb/indi/BHL385/licenceRecord,,,RO,2019-10-10,

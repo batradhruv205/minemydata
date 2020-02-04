@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chu, Yin Yin 朱燕燕",sfclicrec.asp?p=22674973,,,Rep,2019-01-22,
-"Coatham, Samuel Martyn ",sfclicrec.asp?p=67810,,M,RO,2016-10-20,
-"Hau, Terence Ging Wah 侯健華",sfclicrec.asp?p=2106923,,M,Rep,2019-10-30,
-"Klein Tank, Alexander Henricus Antonius ",sfclicrec.asp?p=22181881,,M,Rep,2018-09-14,
-"Potter, Simon James ",sfclicrec.asp?p=92922,,M,RO,2016-10-20,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chu, Yin Yin 朱燕燕",None,sfclicrec.asp?p=22674973,BJX010,http://www.sfc.hk/publicregWeb/indi/BJX010/licenceRecord,,,Rep,2019-01-22,
+"Coatham, Samuel Martyn ",None,sfclicrec.asp?p=67810,APU459,http://www.sfc.hk/publicregWeb/indi/APU459/licenceRecord,,M,RO,2016-10-20,
+"Hau, Terence Ging Wah 侯健華",None,sfclicrec.asp?p=2106923,BBQ445,http://www.sfc.hk/publicregWeb/indi/BBQ445/licenceRecord,,M,Rep,2019-10-30,
+"Klein Tank, Alexander Henricus Antonius ",None,sfclicrec.asp?p=22181881,BNN177,http://www.sfc.hk/publicregWeb/indi/BNN177/licenceRecord,,M,Rep,2018-09-14,
+"Potter, Simon James ",None,sfclicrec.asp?p=92922,ARO318,http://www.sfc.hk/publicregWeb/indi/ARO318/licenceRecord,,M,RO,2016-10-20,

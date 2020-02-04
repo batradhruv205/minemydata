@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Wai Yin (SFC:AMS298) 陳偉賢",sfclicrec.asp?p=84869,,,RO,2017-04-19,2018-02-22
-"Chi, Rui 遲睿",sfclicrec.asp?p=88817,,,Rep,2018-12-21,2019-02-15
-"Chi, Rui 遲睿",sfclicrec.asp?p=88817,,,RO,2019-02-15,2019-06-25
-"Ding, Liqi 丁李奇",sfclicrec.asp?p=1915956,,,RO,2017-04-19,2019-03-31
-"Ho, Angela Ying Hsin 何穎欣",sfclicrec.asp?p=89024,,F,Rep,2019-03-08,
-"Li, Baohong 李宝弘",sfclicrec.asp?p=11783858,,,Rep,2019-07-23,
-"Li, Jingrui 李京瑞",sfclicrec.asp?p=23374128,,,Rep,2019-07-02,
-"Li, Ran (SFC:AOX844) 厲冉",sfclicrec.asp?p=121466,,,Rep,2017-11-08,2018-01-19
-"Li, Ran (SFC:AOX844) 厲冉",sfclicrec.asp?p=121466,,,RO,2018-01-19,
-"Wang, Shuhua (SFC:BJC950) 汪樹華",sfclicrec.asp?p=2699093,,,Rep,2019-03-13,2019-03-25
-"Yu, Jin (SFC:AQP649) 于進",sfclicrec.asp?p=124581,,,Rep,2019-08-09,2019-08-29
-"Yu, Jin (SFC:AQP649) 于進",sfclicrec.asp?p=124581,,,RO,2019-08-29,
-"Zhang, Jing (SFC:BMX110) 张菁",sfclicrec.asp?p=15196543,,,Rep,2018-05-16,
-"Zhou, Hongyu (SFC:BOS249) 周宏宇",sfclicrec.asp?p=23772275,,,Rep,2019-10-10,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Wai Yin (SFC:AMS298) 陳偉賢",None,sfclicrec.asp?p=84869,AMS298,http://www.sfc.hk/publicregWeb/indi/AMS298/licenceRecord,,,RO,2017-04-19,2018-02-22
+"Chi, Rui 遲睿",None,sfclicrec.asp?p=88817,AJE393,http://www.sfc.hk/publicregWeb/indi/AJE393/licenceRecord,,,Rep,2018-12-21,2019-02-15
+"Chi, Rui 遲睿",None,sfclicrec.asp?p=88817,AJE393,http://www.sfc.hk/publicregWeb/indi/AJE393/licenceRecord,,,RO,2019-02-15,2019-06-25
+"Ding, Liqi 丁李奇",None,sfclicrec.asp?p=1915956,AYJ941,http://www.sfc.hk/publicregWeb/indi/AYJ941/licenceRecord,,,RO,2017-04-19,2019-03-31
+"Ho, Angela Ying Hsin 何穎欣",None,sfclicrec.asp?p=89024,AKT416,http://www.sfc.hk/publicregWeb/indi/AKT416/licenceRecord,,F,Rep,2019-03-08,
+"Li, Baohong 李宝弘",None,sfclicrec.asp?p=11783858,BKG877,http://www.sfc.hk/publicregWeb/indi/BKG877/licenceRecord,,,Rep,2019-07-23,
+"Li, Jingrui 李京瑞",None,sfclicrec.asp?p=23374128,BOI501,http://www.sfc.hk/publicregWeb/indi/BOI501/licenceRecord,,,Rep,2019-07-02,
+"Li, Ran (SFC:AOX844) 厲冉",None,sfclicrec.asp?p=121466,AOX844,http://www.sfc.hk/publicregWeb/indi/AOX844/licenceRecord,,,Rep,2017-11-08,2018-01-19
+"Li, Ran (SFC:AOX844) 厲冉",None,sfclicrec.asp?p=121466,AOX844,http://www.sfc.hk/publicregWeb/indi/AOX844/licenceRecord,,,RO,2018-01-19,
+"Wang, Shuhua (SFC:BJC950) 汪樹華",None,sfclicrec.asp?p=2699093,BJC950,http://www.sfc.hk/publicregWeb/indi/BJC950/licenceRecord,,,Rep,2019-03-13,2019-03-25
+"Yu, Jin (SFC:AQP649) 于進",None,sfclicrec.asp?p=124581,AQP649,http://www.sfc.hk/publicregWeb/indi/AQP649/licenceRecord,,,Rep,2019-08-09,2019-08-29
+"Yu, Jin (SFC:AQP649) 于進",None,sfclicrec.asp?p=124581,AQP649,http://www.sfc.hk/publicregWeb/indi/AQP649/licenceRecord,,,RO,2019-08-29,
+"Zhang, Jing (SFC:BMX110) 张菁",None,sfclicrec.asp?p=15196543,BMX110,http://www.sfc.hk/publicregWeb/indi/BMX110/licenceRecord,,,Rep,2018-05-16,
+"Zhou, Hongyu (SFC:BOS249) 周宏宇",None,sfclicrec.asp?p=23772275,BOS249,http://www.sfc.hk/publicregWeb/indi/BOS249/licenceRecord,,,Rep,2019-10-10,

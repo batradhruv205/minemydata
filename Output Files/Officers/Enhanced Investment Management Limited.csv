@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Kai Tai (SFC:ANP988) 陳啟泰",sfclicrec.asp?p=97924,,,RO,2014-01-08,2015-01-23
-"Chau, Chun Sing 周振聲",sfclicrec.asp?p=2143846,,,RO,2017-08-21,
-"Kwan, Ka Chung 關加聰",sfclicrec.asp?p=71287,,,RO,2015-05-21,2017-06-30
-"Lau, Brian Yue Wah 劉愉樺",sfclicrec.asp?p=79187,,M,Rep,2017-06-16,2019-11-28
-"Lau, Brian Yue Wah 劉愉樺",sfclicrec.asp?p=79187,,M,RO,2019-11-28,
-"Liu, Manly Man Lai 廖文禮",sfclicrec.asp?p=89324,,,Rep,2014-08-19,2015-01-09
-"Lo, Christopher Tak Hung 勞德鴻",sfclicrec.asp?p=2455329,,,Rep,2015-07-29,
-"Nguyen, Patrick Gia Vinh 阮家榮",sfclicrec.asp?p=77703,,M,RO,2014-01-08,
-"Or, Victor 柯百達",sfclicrec.asp?p=133853,,M,Rep,2017-06-16,
-"Tang, Chi Ho (SFC:AQS223) 鄧志豪",sfclicrec.asp?p=124801,,,Rep,2019-01-21,2019-09-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Kai Tai (SFC:ANP988) 陳啟泰",None,sfclicrec.asp?p=97924,ANP988,http://www.sfc.hk/publicregWeb/indi/ANP988/licenceRecord,,,RO,2014-01-08,2015-01-23
+"Chau, Chun Sing 周振聲",None,sfclicrec.asp?p=2143846,BBZ774,http://www.sfc.hk/publicregWeb/indi/BBZ774/licenceRecord,,,RO,2017-08-21,
+"Kwan, Ka Chung 關加聰",None,sfclicrec.asp?p=71287,AEE606,http://www.sfc.hk/publicregWeb/indi/AEE606/licenceRecord,,,RO,2015-05-21,2017-06-30
+"Lau, Brian Yue Wah 劉愉樺",None,sfclicrec.asp?p=79187,AFS902,http://www.sfc.hk/publicregWeb/indi/AFS902/licenceRecord,,M,Rep,2017-06-16,2019-11-28
+"Lau, Brian Yue Wah 劉愉樺",None,sfclicrec.asp?p=79187,AFS902,http://www.sfc.hk/publicregWeb/indi/AFS902/licenceRecord,,M,RO,2019-11-28,
+"Liu, Manly Man Lai 廖文禮",None,sfclicrec.asp?p=89324,ADI698,http://www.sfc.hk/publicregWeb/indi/ADI698/licenceRecord,,,Rep,2014-08-19,2015-01-09
+"Lo, Christopher Tak Hung 勞德鴻",None,sfclicrec.asp?p=2455329,BFV924,http://www.sfc.hk/publicregWeb/indi/BFV924/licenceRecord,,,Rep,2015-07-29,
+"Nguyen, Patrick Gia Vinh 阮家榮",None,sfclicrec.asp?p=77703,ALI719,http://www.sfc.hk/publicregWeb/indi/ALI719/licenceRecord,,M,RO,2014-01-08,
+"Or, Victor 柯百達",None,sfclicrec.asp?p=133853,AWN871,http://www.sfc.hk/publicregWeb/indi/AWN871/licenceRecord,,M,Rep,2017-06-16,
+"Tang, Chi Ho (SFC:AQS223) 鄧志豪",None,sfclicrec.asp?p=124801,AQS223,http://www.sfc.hk/publicregWeb/indi/AQS223/licenceRecord,,,Rep,2019-01-21,2019-09-30

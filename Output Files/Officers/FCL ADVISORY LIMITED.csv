@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Frederick Kwok Man 陳國敏",sfclicrec.asp?p=130407,,M,Rep,2010-11-04,2012-02-29
-"Cheng, Kai Ki 鄭佳琪",sfclicrec.asp?p=116246,,,Rep,2005-07-27,2005-11-07
-"Chow, Man Hang 周文行",sfclicrec.asp?p=102696,,,RO,2005-03-01,
-"Ford, Ryan (SFC:AJN625) ",sfclicrec.asp?p=113557,,M,Rep,2007-06-18,2007-06-28
-"Ford, Ryan (SFC:AJN625) ",sfclicrec.asp?p=113557,,M,RO,2007-06-28,2009-11-30
-"Jones, Robert Franklin Jr. 鍾尚錞",sfclicrec.asp?p=105160,,M,RO,2005-03-01,
-"Lee, Bennett Eugene 李宇軒",sfclicrec.asp?p=121016,,,Rep,2007-03-28,2012-04-30
-"Trunzo, David Anthony ",sfclicrec.asp?p=125515,,M,Rep,2008-05-26,2008-12-19
-"Tse, Wai Ming (SFC:AMZ184) 謝慧明",sfclicrec.asp?p=117810,,,Rep,2006-02-01,2012-02-29
-"Wat, Hiu Ching 屈曉晴",sfclicrec.asp?p=117812,,,Rep,2006-02-01,2014-03-28
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Frederick Kwok Man 陳國敏",None,sfclicrec.asp?p=130407,AWA392,http://www.sfc.hk/publicregWeb/indi/AWA392/licenceRecord,,M,Rep,2010-11-04,2012-02-29
+"Cheng, Kai Ki 鄭佳琪",None,sfclicrec.asp?p=116246,AME526,http://www.sfc.hk/publicregWeb/indi/AME526/licenceRecord,,,Rep,2005-07-27,2005-11-07
+"Chow, Man Hang 周文行",None,sfclicrec.asp?p=102696,ACE549,http://www.sfc.hk/publicregWeb/indi/ACE549/licenceRecord,,,RO,2005-03-01,
+"Ford, Ryan (SFC:AJN625) ",None,sfclicrec.asp?p=113557,AJN625,http://www.sfc.hk/publicregWeb/indi/AJN625/licenceRecord,,M,Rep,2007-06-18,2007-06-28
+"Ford, Ryan (SFC:AJN625) ",None,sfclicrec.asp?p=113557,AJN625,http://www.sfc.hk/publicregWeb/indi/AJN625/licenceRecord,,M,RO,2007-06-28,2009-11-30
+"Jones, Robert Franklin Jr. 鍾尚錞",None,sfclicrec.asp?p=105160,AEP483,http://www.sfc.hk/publicregWeb/indi/AEP483/licenceRecord,,M,RO,2005-03-01,
+"Lee, Bennett Eugene 李宇軒",None,sfclicrec.asp?p=121016,AOS671,http://www.sfc.hk/publicregWeb/indi/AOS671/licenceRecord,,,Rep,2007-03-28,2012-04-30
+"Trunzo, David Anthony ",None,sfclicrec.asp?p=125515,ARD239,http://www.sfc.hk/publicregWeb/indi/ARD239/licenceRecord,,M,Rep,2008-05-26,2008-12-19
+"Tse, Wai Ming (SFC:AMZ184) 謝慧明",None,sfclicrec.asp?p=117810,AMZ184,http://www.sfc.hk/publicregWeb/indi/AMZ184/licenceRecord,,,Rep,2006-02-01,2012-02-29
+"Wat, Hiu Ching 屈曉晴",None,sfclicrec.asp?p=117812,AMZ188,http://www.sfc.hk/publicregWeb/indi/AMZ188/licenceRecord,,,Rep,2006-02-01,2014-03-28

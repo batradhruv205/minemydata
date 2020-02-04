@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Lisha (SFC:BOT474) 程麗莎",sfclicrec.asp?p=24068591,,,Rep,2020-01-02,
-"Cheng, Yin Lai 鄭賢麗",sfclicrec.asp?p=72713,,,Rep,2017-06-30,2019-02-18
-"Cheung, Yiu Kei Philip 張耀其",sfclicrec.asp?p=153498,,,RO,2019-05-07,
-"Chow, Tobee Chui Shan 周翠珊",sfclicrec.asp?p=72096,,,RO,2017-01-23,2019-03-31
-"Lao, Susan Woon Yu 劉媛瑜",sfclicrec.asp?p=91449,,F,RO,2019-05-07,
-"Shi, Jinyu 石金玉",sfclicrec.asp?p=24068592,,,Rep,2020-01-02,
-"Wong, Cindy Yeuk Wing 王若頴",sfclicrec.asp?p=72185,,F,RO,2017-01-23,2019-03-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Lisha (SFC:BOT474) 程麗莎",None,sfclicrec.asp?p=24068591,BOT474,http://www.sfc.hk/publicregWeb/indi/BOT474/licenceRecord,,,Rep,2020-01-02,
+"Cheng, Yin Lai 鄭賢麗",None,sfclicrec.asp?p=72713,AOR820,http://www.sfc.hk/publicregWeb/indi/AOR820/licenceRecord,,,Rep,2017-06-30,2019-02-18
+"Cheung, Yiu Kei Philip 張耀其",None,sfclicrec.asp?p=153498,AFB068,http://www.sfc.hk/publicregWeb/indi/AFB068/licenceRecord,,,RO,2019-05-07,
+"Chow, Tobee Chui Shan 周翠珊",None,sfclicrec.asp?p=72096,AGJ362,http://www.sfc.hk/publicregWeb/indi/AGJ362/licenceRecord,,,RO,2017-01-23,2019-03-31
+"Lao, Susan Woon Yu 劉媛瑜",None,sfclicrec.asp?p=91449,ADF381,http://www.sfc.hk/publicregWeb/indi/ADF381/licenceRecord,,F,RO,2019-05-07,
+"Shi, Jinyu 石金玉",None,sfclicrec.asp?p=24068592,BPF431,http://www.sfc.hk/publicregWeb/indi/BPF431/licenceRecord,,,Rep,2020-01-02,
+"Wong, Cindy Yeuk Wing 王若頴",None,sfclicrec.asp?p=72185,AMU318,http://www.sfc.hk/publicregWeb/indi/AMU318/licenceRecord,,F,RO,2017-01-23,2019-03-31

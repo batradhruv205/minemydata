@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Catalano, Angelo ",sfclicrec.asp?p=100350,,,RO,2010-06-24,2018-06-15
-"Chang, Jack P ",sfclicrec.asp?p=100351,,M,RO,2009-09-10,2011-10-31
-"Douma, John ",sfclicrec.asp?p=99395,,M,RO,,2009-09-11
-"Hui, Wai Man (SFC:AIU457) 許偉民",sfclicrec.asp?p=100352,,,Rep,2009-08-07,2009-09-10
-"Hui, Wai Man (SFC:AIU457) 許偉民",sfclicrec.asp?p=100352,,,RO,2009-09-10,2015-10-09
-"Kemp, Andrew John (SFC:APQ856) ",sfclicrec.asp?p=100354,,M,RO,2010-03-15,
-"Kingcott, Jacqueline ",sfclicrec.asp?p=22985173,,F,RO,2019-04-02,
-"Singh, Manbir (SFC:ABP322) ",sfclicrec.asp?p=99399,,,RO,,2009-09-11
-"Smith, Ross Allen ",sfclicrec.asp?p=106089,,M,Rep,,2004-03-05
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Catalano, Angelo ",None,sfclicrec.asp?p=100350,AUB322,http://www.sfc.hk/publicregWeb/indi/AUB322/licenceRecord,,,RO,2010-06-24,2018-06-15
+"Chang, Jack P ",None,sfclicrec.asp?p=100351,AKR038,http://www.sfc.hk/publicregWeb/indi/AKR038/licenceRecord,,M,RO,2009-09-10,2011-10-31
+"Douma, John ",None,sfclicrec.asp?p=99395,AAY038,http://www.sfc.hk/publicregWeb/indi/AAY038/licenceRecord,,M,RO,,2009-09-11
+"Hui, Wai Man (SFC:AIU457) 許偉民",None,sfclicrec.asp?p=100352,AIU457,http://www.sfc.hk/publicregWeb/indi/AIU457/licenceRecord,,,Rep,2009-08-07,2009-09-10
+"Hui, Wai Man (SFC:AIU457) 許偉民",None,sfclicrec.asp?p=100352,AIU457,http://www.sfc.hk/publicregWeb/indi/AIU457/licenceRecord,,,RO,2009-09-10,2015-10-09
+"Kemp, Andrew John (SFC:APQ856) ",None,sfclicrec.asp?p=100354,APQ856,http://www.sfc.hk/publicregWeb/indi/APQ856/licenceRecord,,M,RO,2010-03-15,
+"Kingcott, Jacqueline ",None,sfclicrec.asp?p=22985173,BNU910,http://www.sfc.hk/publicregWeb/indi/BNU910/licenceRecord,,F,RO,2019-04-02,
+"Singh, Manbir (SFC:ABP322) ",None,sfclicrec.asp?p=99399,ABP322,http://www.sfc.hk/publicregWeb/indi/ABP322/licenceRecord,,,RO,,2009-09-11
+"Smith, Ross Allen ",None,sfclicrec.asp?p=106089,AFG626,http://www.sfc.hk/publicregWeb/indi/AFG626/licenceRecord,,M,Rep,,2004-03-05

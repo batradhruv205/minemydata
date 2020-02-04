@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bouzouba, Rachid ",sfclicrec.asp?p=129920,,M,RO,2017-11-16,
-"Lance, Robert Waldo ",sfclicrec.asp?p=47300,,M,Rep,2018-05-09,2018-07-03
-"Lance, Robert Waldo ",sfclicrec.asp?p=47300,,M,RO,2018-07-03,2019-12-31
-"Law, Ka Fai (SFC:APH953) 羅家輝",sfclicrec.asp?p=96657,,,RO,2017-11-16,
-"Lister, Cassandra ",sfclicrec.asp?p=22490484,,F,Rep,2018-11-29,2019-01-21
-"Mumford, Robert Vyvyan ",sfclicrec.asp?p=77128,50,M,RO,2017-11-16,2018-09-05
-"Sun, Xiaodong (SFC:ATY657) 孫曉冬",sfclicrec.asp?p=82688,,,RO,2020-01-21,
-"Valenzuela Castro, Adrian ",sfclicrec.asp?p=69478,,M,RO,2017-11-16,
-"Wu, Ying Kit 胡英傑",sfclicrec.asp?p=22791701,,,Rep,2019-02-18,2020-01-03
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bouzouba, Rachid ",None,sfclicrec.asp?p=129920,AVJ283,http://www.sfc.hk/publicregWeb/indi/AVJ283/licenceRecord,,M,RO,2017-11-16,
+"Lance, Robert Waldo ",None,sfclicrec.asp?p=47300,AEL830,http://www.sfc.hk/publicregWeb/indi/AEL830/licenceRecord,,M,Rep,2018-05-09,2018-07-03
+"Lance, Robert Waldo ",None,sfclicrec.asp?p=47300,AEL830,http://www.sfc.hk/publicregWeb/indi/AEL830/licenceRecord,,M,RO,2018-07-03,2019-12-31
+"Law, Ka Fai (SFC:APH953) 羅家輝",None,sfclicrec.asp?p=96657,APH953,http://www.sfc.hk/publicregWeb/indi/APH953/licenceRecord,,,RO,2017-11-16,
+"Lister, Cassandra ",None,sfclicrec.asp?p=22490484,BNO036,http://www.sfc.hk/publicregWeb/indi/BNO036/licenceRecord,,F,Rep,2018-11-29,2019-01-21
+"Mumford, Robert Vyvyan ",None,sfclicrec.asp?p=77128,AAW514,http://www.sfc.hk/publicregWeb/indi/AAW514/licenceRecord,50.0,M,RO,2017-11-16,2018-09-05
+"Sun, Xiaodong (SFC:ATY657) 孫曉冬",None,sfclicrec.asp?p=82688,ATY657,http://www.sfc.hk/publicregWeb/indi/ATY657/licenceRecord,,,RO,2020-01-21,
+"Valenzuela Castro, Adrian ",None,sfclicrec.asp?p=69478,AXB599,http://www.sfc.hk/publicregWeb/indi/AXB599/licenceRecord,,M,RO,2017-11-16,
+"Wu, Ying Kit 胡英傑",None,sfclicrec.asp?p=22791701,BOD098,http://www.sfc.hk/publicregWeb/indi/BOD098/licenceRecord,,,Rep,2019-02-18,2020-01-03

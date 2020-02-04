@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Capasso, Michael Howard ",sfclicrec.asp?p=103888,,M,RO,2010-08-23,2019-07-19
-"Fuqua, Joseph Ben ",sfclicrec.asp?p=23026097,,M,Rep,2019-04-10,
-"Guitard, Sarah Katherine ",sfclicrec.asp?p=2531000,,F,Rep,2016-07-25,2019-07-31
-"Gupta, Amit (SFC:AEM782) ",sfclicrec.asp?p=105015,,,RO,2010-08-23,
-"Ing, Melody Joan 吳文頌",sfclicrec.asp?p=2067188,,,Rep,2013-05-13,2013-07-19
-"Liu, Xiaoning (SFC:BFD449) 劉晓宁",sfclicrec.asp?p=2396307,,,Rep,2019-01-17,
-"Marquardt, William Laurent ",sfclicrec.asp?p=131373,,M,Rep,2011-07-04,2012-01-25
-"Petty, Robert Dean ",sfclicrec.asp?p=125586,,M,RO,2010-08-23,
-"Suen, Hsiao-Yun 孫筱雲",sfclicrec.asp?p=2067189,,,Rep,2013-05-13,
-"Suor, Jehanne 林崢",sfclicrec.asp?p=128690,,,Rep,2015-10-02,2019-07-12
-"Tse, Shing Hin 謝承軒",sfclicrec.asp?p=2024819,,,Rep,2019-06-24,
-"Yeung, Pauline 楊寶蓮",sfclicrec.asp?p=89840,34,F,Rep,2015-08-18,2016-03-17
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Capasso, Michael Howard ",None,sfclicrec.asp?p=103888,ADL343,http://www.sfc.hk/publicregWeb/indi/ADL343/licenceRecord,,M,RO,2010-08-23,2019-07-19
+"Fuqua, Joseph Ben ",None,sfclicrec.asp?p=23026097,BOF969,http://www.sfc.hk/publicregWeb/indi/BOF969/licenceRecord,,M,Rep,2019-04-10,
+"Guitard, Sarah Katherine ",None,sfclicrec.asp?p=2531000,BGX199,http://www.sfc.hk/publicregWeb/indi/BGX199/licenceRecord,,F,Rep,2016-07-25,2019-07-31
+"Gupta, Amit (SFC:AEM782) ",None,sfclicrec.asp?p=105015,AEM782,http://www.sfc.hk/publicregWeb/indi/AEM782/licenceRecord,,,RO,2010-08-23,
+"Ing, Melody Joan 吳文頌",None,sfclicrec.asp?p=2067188,BBG545,http://www.sfc.hk/publicregWeb/indi/BBG545/licenceRecord,,,Rep,2013-05-13,2013-07-19
+"Liu, Xiaoning (SFC:BFD449) 劉晓宁",None,sfclicrec.asp?p=2396307,BFD449,http://www.sfc.hk/publicregWeb/indi/BFD449/licenceRecord,,,Rep,2019-01-17,
+"Marquardt, William Laurent ",None,sfclicrec.asp?p=131373,AXM469,http://www.sfc.hk/publicregWeb/indi/AXM469/licenceRecord,,M,Rep,2011-07-04,2012-01-25
+"Petty, Robert Dean ",None,sfclicrec.asp?p=125586,ARD755,http://www.sfc.hk/publicregWeb/indi/ARD755/licenceRecord,,M,RO,2010-08-23,
+"Suen, Hsiao-Yun 孫筱雲",None,sfclicrec.asp?p=2067189,BBG544,http://www.sfc.hk/publicregWeb/indi/BBG544/licenceRecord,,,Rep,2013-05-13,
+"Suor, Jehanne 林崢",None,sfclicrec.asp?p=128690,ATW753,http://www.sfc.hk/publicregWeb/indi/ATW753/licenceRecord,,,Rep,2015-10-02,2019-07-12
+"Tse, Shing Hin 謝承軒",None,sfclicrec.asp?p=2024819,BAV391,http://www.sfc.hk/publicregWeb/indi/BAV391/licenceRecord,,,Rep,2019-06-24,
+"Yeung, Pauline 楊寶蓮",None,sfclicrec.asp?p=89840,ATR855,http://www.sfc.hk/publicregWeb/indi/ATR855/licenceRecord,34.0,F,Rep,2015-08-18,2016-03-17

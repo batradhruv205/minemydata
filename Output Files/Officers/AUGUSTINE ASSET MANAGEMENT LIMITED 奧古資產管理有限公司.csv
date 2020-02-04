@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au, Kin Yu 區健余",sfclicrec.asp?p=2073929,,,RO,2018-01-22,
-"Chu, Kar Son 朱嘉迅",sfclicrec.asp?p=129586,,,RO,2018-01-22,
-"Lee, Patrick Maung ",sfclicrec.asp?p=77958,,M,Rep,2019-01-11,
-"Lee, Wai Yee (SFC:APH361) 李慧儀",sfclicrec.asp?p=99921,,,Rep,2018-02-26,
-"Wong, Chui Lan 黃翠蘭",sfclicrec.asp?p=17147405,,,Rep,2018-06-13,
-"Zhu, Ming (SFC:BMX629) 朱明",sfclicrec.asp?p=15495949,,,Rep,2018-05-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au, Kin Yu 區健余",None,sfclicrec.asp?p=2073929,BBF288,http://www.sfc.hk/publicregWeb/indi/BBF288/licenceRecord,,,RO,2018-01-22,
+"Chu, Kar Son 朱嘉迅",None,sfclicrec.asp?p=129586,AUZ444,http://www.sfc.hk/publicregWeb/indi/AUZ444/licenceRecord,,,RO,2018-01-22,
+"Lee, Patrick Maung ",None,sfclicrec.asp?p=77958,AMY547,http://www.sfc.hk/publicregWeb/indi/AMY547/licenceRecord,,M,Rep,2019-01-11,
+"Lee, Wai Yee (SFC:APH361) 李慧儀",None,sfclicrec.asp?p=99921,APH361,http://www.sfc.hk/publicregWeb/indi/APH361/licenceRecord,,,Rep,2018-02-26,
+"Wong, Chui Lan 黃翠蘭",None,sfclicrec.asp?p=17147405,BMX826,http://www.sfc.hk/publicregWeb/indi/BMX826/licenceRecord,,,Rep,2018-06-13,
+"Zhu, Ming (SFC:BMX629) 朱明",None,sfclicrec.asp?p=15495949,BMX629,http://www.sfc.hk/publicregWeb/indi/BMX629/licenceRecord,,,Rep,2018-05-24,

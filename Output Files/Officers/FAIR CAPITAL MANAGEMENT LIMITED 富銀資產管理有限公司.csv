@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ho, Wang Wai 何泓慧",sfclicrec.asp?p=23002947,,,Rep,2019-06-24,2019-07-16
-"Ho, Wang Wai 何泓慧",sfclicrec.asp?p=23002947,,,RO,2019-07-16,
-"Hung, Elky Wun Pik 洪煥碧",sfclicrec.asp?p=125597,,,Rep,2008-07-03,2008-11-14
-"Koh, Choy (SFC:ACF185) 郭才",sfclicrec.asp?p=102713,,,RO,2007-06-27,2008-09-16
-"Kwan, Michael Cheuk Kin 關卓堅",sfclicrec.asp?p=1947488,,M,Rep,2012-08-28,2014-06-19
-"Lau, Airy Tak Chuen 劉德泉",sfclicrec.asp?p=99011,,,RO,2007-06-27,2020-01-15
-"Lau, Tak Yan (SFC:APF933) 劉德欣",sfclicrec.asp?p=99012,,,Rep,2007-07-06,2010-02-04
-"Lau, Tak Yan (SFC:APF933) 劉德欣",sfclicrec.asp?p=99012,,,RO,2010-02-04,2017-12-01
-"Shen, Nan (SFC:ARL161) 沈楠",sfclicrec.asp?p=99013,,,Rep,2010-05-20,2012-05-12
-"Tang, Wing Wa 鄧永華",sfclicrec.asp?p=13805579,,,Rep,2018-04-13,2019-12-27
-"Wong, Sony Siu Keung 黃紹強",sfclicrec.asp?p=92593,,,Rep,2007-09-20,2008-02-19
-"Wong, Sony Siu Keung 黃紹強",sfclicrec.asp?p=92593,,,RO,2008-02-19,2010-02-21
-"Woo, Peter King Wah 胡經華",sfclicrec.asp?p=45211,,M,RO,2017-10-10,2019-07-15
-"Yip, Tai Yuen 葉泰源",sfclicrec.asp?p=91348,,,Rep,2013-05-15,2013-06-14
-"Yip, Tai Yuen 葉泰源",sfclicrec.asp?p=91348,,,RO,2013-06-14,2014-03-24
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ho, Wang Wai 何泓慧",None,sfclicrec.asp?p=23002947,BNZ088,http://www.sfc.hk/publicregWeb/indi/BNZ088/licenceRecord,,,Rep,2019-06-24,2019-07-16
+"Ho, Wang Wai 何泓慧",None,sfclicrec.asp?p=23002947,BNZ088,http://www.sfc.hk/publicregWeb/indi/BNZ088/licenceRecord,,,RO,2019-07-16,
+"Hung, Elky Wun Pik 洪煥碧",None,sfclicrec.asp?p=125597,ARD800,http://www.sfc.hk/publicregWeb/indi/ARD800/licenceRecord,,,Rep,2008-07-03,2008-11-14
+"Koh, Choy (SFC:ACF185) 郭才",None,sfclicrec.asp?p=102713,ACF185,http://www.sfc.hk/publicregWeb/indi/ACF185/licenceRecord,,,RO,2007-06-27,2008-09-16
+"Kwan, Michael Cheuk Kin 關卓堅",None,sfclicrec.asp?p=1947488,BAC515,http://www.sfc.hk/publicregWeb/indi/BAC515/licenceRecord,,M,Rep,2012-08-28,2014-06-19
+"Lau, Airy Tak Chuen 劉德泉",None,sfclicrec.asp?p=99011,AAI487,http://www.sfc.hk/publicregWeb/indi/AAI487/licenceRecord,,,RO,2007-06-27,2020-01-15
+"Lau, Tak Yan (SFC:APF933) 劉德欣",None,sfclicrec.asp?p=99012,APF933,http://www.sfc.hk/publicregWeb/indi/APF933/licenceRecord,,,Rep,2007-07-06,2010-02-04
+"Lau, Tak Yan (SFC:APF933) 劉德欣",None,sfclicrec.asp?p=99012,APF933,http://www.sfc.hk/publicregWeb/indi/APF933/licenceRecord,,,RO,2010-02-04,2017-12-01
+"Shen, Nan (SFC:ARL161) 沈楠",None,sfclicrec.asp?p=99013,ARL161,http://www.sfc.hk/publicregWeb/indi/ARL161/licenceRecord,,,Rep,2010-05-20,2012-05-12
+"Tang, Wing Wa 鄧永華",None,sfclicrec.asp?p=13805579,BMI294,http://www.sfc.hk/publicregWeb/indi/BMI294/licenceRecord,,,Rep,2018-04-13,2019-12-27
+"Wong, Sony Siu Keung 黃紹強",None,sfclicrec.asp?p=92593,ALE802,http://www.sfc.hk/publicregWeb/indi/ALE802/licenceRecord,,,Rep,2007-09-20,2008-02-19
+"Wong, Sony Siu Keung 黃紹強",None,sfclicrec.asp?p=92593,ALE802,http://www.sfc.hk/publicregWeb/indi/ALE802/licenceRecord,,,RO,2008-02-19,2010-02-21
+"Woo, Peter King Wah 胡經華",None,sfclicrec.asp?p=45211,AAB404,http://www.sfc.hk/publicregWeb/indi/AAB404/licenceRecord,,M,RO,2017-10-10,2019-07-15
+"Yip, Tai Yuen 葉泰源",None,sfclicrec.asp?p=91348,AAG994,http://www.sfc.hk/publicregWeb/indi/AAG994/licenceRecord,,,Rep,2013-05-15,2013-06-14
+"Yip, Tai Yuen 葉泰源",None,sfclicrec.asp?p=91348,AAG994,http://www.sfc.hk/publicregWeb/indi/AAG994/licenceRecord,,,RO,2013-06-14,2014-03-24

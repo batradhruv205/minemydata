@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lee, Aaron Yun Wing 李恩榮",sfclicrec.asp?p=97281,,M,RO,2018-08-10,2018-10-31
-"Lee, Ming Tak (SFC:ANT235) 李明德",sfclicrec.asp?p=119229,,,RO,2018-08-10,
-"Zhang, Zhibin (SFC:BBT483) 張志濱",sfclicrec.asp?p=2119058,,,RO,2019-02-04,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lee, Aaron Yun Wing 李恩榮",None,sfclicrec.asp?p=97281,AJC168,http://www.sfc.hk/publicregWeb/indi/AJC168/licenceRecord,,M,RO,2018-08-10,2018-10-31
+"Lee, Ming Tak (SFC:ANT235) 李明德",None,sfclicrec.asp?p=119229,ANT235,http://www.sfc.hk/publicregWeb/indi/ANT235/licenceRecord,,,RO,2018-08-10,
+"Zhang, Zhibin (SFC:BBT483) 張志濱",None,sfclicrec.asp?p=2119058,BBT483,http://www.sfc.hk/publicregWeb/indi/BBT483/licenceRecord,,,RO,2019-02-04,

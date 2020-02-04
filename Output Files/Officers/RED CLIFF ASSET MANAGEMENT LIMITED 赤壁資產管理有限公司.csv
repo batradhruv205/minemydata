@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Hui, Dik 許迪",sfclicrec.asp?p=130997,,,Rep,2015-03-17,2018-01-25
-"Hui, Dik 許迪",sfclicrec.asp?p=130997,,,RO,2018-01-25,
-"Ju, Min Chul 朱珉徹",sfclicrec.asp?p=84224,,,RO,2012-08-15,
-"Lee, Jean (SFC:BCA442) ",sfclicrec.asp?p=2145736,,,Rep,2016-01-05,
-"Lee, William Kei Leung 李基樑",sfclicrec.asp?p=68335,,M,RO,2012-08-15,
-"Peh, Chek Leng 白澤龍",sfclicrec.asp?p=69747,,,Rep,2020-01-07,
-"Shingai, Ema 新海惠麻",sfclicrec.asp?p=2296795,,F,Rep,2018-06-04,
-"Tsang, Cheuk Ho (SFC:BNB635) 曾卓豪",sfclicrec.asp?p=17128784,,,Rep,2018-06-11,
-"Xie, Jinhui 謝錦慧",sfclicrec.asp?p=75283,,,Rep,2016-11-10,2018-04-03
-"Yang, Huanhuan (SFC:BOH430) 楊歡歡",sfclicrec.asp?p=23219696,,,Rep,2019-05-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Hui, Dik 許迪",None,sfclicrec.asp?p=130997,AXB218,http://www.sfc.hk/publicregWeb/indi/AXB218/licenceRecord,,,Rep,2015-03-17,2018-01-25
+"Hui, Dik 許迪",None,sfclicrec.asp?p=130997,AXB218,http://www.sfc.hk/publicregWeb/indi/AXB218/licenceRecord,,,RO,2018-01-25,
+"Ju, Min Chul 朱珉徹",None,sfclicrec.asp?p=84224,ARV278,http://www.sfc.hk/publicregWeb/indi/ARV278/licenceRecord,,,RO,2012-08-15,
+"Lee, Jean (SFC:BCA442) ",None,sfclicrec.asp?p=2145736,BCA442,http://www.sfc.hk/publicregWeb/indi/BCA442/licenceRecord,,,Rep,2016-01-05,
+"Lee, William Kei Leung 李基樑",None,sfclicrec.asp?p=68335,AHP766,http://www.sfc.hk/publicregWeb/indi/AHP766/licenceRecord,,M,RO,2012-08-15,
+"Peh, Chek Leng 白澤龍",None,sfclicrec.asp?p=69747,APB335,http://www.sfc.hk/publicregWeb/indi/APB335/licenceRecord,,,Rep,2020-01-07,
+"Shingai, Ema 新海惠麻",None,sfclicrec.asp?p=2296795,BDQ211,http://www.sfc.hk/publicregWeb/indi/BDQ211/licenceRecord,,F,Rep,2018-06-04,
+"Tsang, Cheuk Ho (SFC:BNB635) 曾卓豪",None,sfclicrec.asp?p=17128784,BNB635,http://www.sfc.hk/publicregWeb/indi/BNB635/licenceRecord,,,Rep,2018-06-11,
+"Xie, Jinhui 謝錦慧",None,sfclicrec.asp?p=75283,AQO522,http://www.sfc.hk/publicregWeb/indi/AQO522/licenceRecord,,,Rep,2016-11-10,2018-04-03
+"Yang, Huanhuan (SFC:BOH430) 楊歡歡",None,sfclicrec.asp?p=23219696,BOH430,http://www.sfc.hk/publicregWeb/indi/BOH430/licenceRecord,,,Rep,2019-05-24,

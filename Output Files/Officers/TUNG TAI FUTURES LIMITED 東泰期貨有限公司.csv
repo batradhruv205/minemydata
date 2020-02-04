@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Kam Kay (SFC:AAJ482) 陳金祺",sfclicrec.asp?p=91392,,,Rep,2013-07-25,
-"Chee, Wendy Weng Yan 朱穎茵",sfclicrec.asp?p=1909,52,F,RO,,
-"Chin, Ching Yue 錢澄宇",sfclicrec.asp?p=96606,,,Rep,2005-10-10,2006-11-13
-"Chiu, Lap Fai 趙立輝",sfclicrec.asp?p=104862,,,Rep,,2005-09-12
-"Lam, Oi Ching 林愛清",sfclicrec.asp?p=99205,,,Rep,2018-07-17,
-"Lau, Kar Yee 劉嘉儀",sfclicrec.asp?p=72512,,,Rep,2013-09-13,2019-12-31
-"Lee, Loretta Si Kar 李斯嘉",sfclicrec.asp?p=35683,,F,Rep,,2019-01-02
-"Lee, Loretta Si Kar 李斯嘉",sfclicrec.asp?p=35683,,F,RO,2019-01-02,
-"Lee, Vincent Marshall Kwan Ho 李君豪",sfclicrec.asp?p=10814,65,M,RO,,
-"Pang, Joyce Shui Man 彭瑞敏",sfclicrec.asp?p=104758,,F,Rep,2003-08-11,2003-12-22
-"Tsang, Kar Cheung 曾家祥",sfclicrec.asp?p=96602,,,Rep,2006-01-06,
-"Wong, Nicholas Cho Fai (SFC:ABS091) 黃祖輝",sfclicrec.asp?p=102270,,M,Rep,2004-04-27,2004-12-10
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Kam Kay (SFC:AAJ482) 陳金祺",None,sfclicrec.asp?p=91392,AAJ482,http://www.sfc.hk/publicregWeb/indi/AAJ482/licenceRecord,,,Rep,2013-07-25,
+"Chee, Wendy Weng Yan 朱穎茵",None,sfclicrec.asp?p=1909,ABZ889,http://www.sfc.hk/publicregWeb/indi/ABZ889/licenceRecord,52.0,F,RO,,
+"Chin, Ching Yue 錢澄宇",None,sfclicrec.asp?p=96606,AAJ214,http://www.sfc.hk/publicregWeb/indi/AAJ214/licenceRecord,,,Rep,2005-10-10,2006-11-13
+"Chiu, Lap Fai 趙立輝",None,sfclicrec.asp?p=104862,AEJ526,http://www.sfc.hk/publicregWeb/indi/AEJ526/licenceRecord,,,Rep,,2005-09-12
+"Lam, Oi Ching 林愛清",None,sfclicrec.asp?p=99205,AGA422,http://www.sfc.hk/publicregWeb/indi/AGA422/licenceRecord,,,Rep,2018-07-17,
+"Lau, Kar Yee 劉嘉儀",None,sfclicrec.asp?p=72512,AAV467,http://www.sfc.hk/publicregWeb/indi/AAV467/licenceRecord,,,Rep,2013-09-13,2019-12-31
+"Lee, Loretta Si Kar 李斯嘉",None,sfclicrec.asp?p=35683,AAG212,http://www.sfc.hk/publicregWeb/indi/AAG212/licenceRecord,,F,Rep,,2019-01-02
+"Lee, Loretta Si Kar 李斯嘉",None,sfclicrec.asp?p=35683,AAG212,http://www.sfc.hk/publicregWeb/indi/AAG212/licenceRecord,,F,RO,2019-01-02,
+"Lee, Vincent Marshall Kwan Ho 李君豪",None,sfclicrec.asp?p=10814,AAK213,http://www.sfc.hk/publicregWeb/indi/AAK213/licenceRecord,65.0,M,RO,,
+"Pang, Joyce Shui Man 彭瑞敏",None,sfclicrec.asp?p=104758,AEH257,http://www.sfc.hk/publicregWeb/indi/AEH257/licenceRecord,,F,Rep,2003-08-11,2003-12-22
+"Tsang, Kar Cheung 曾家祥",None,sfclicrec.asp?p=96602,AAC174,http://www.sfc.hk/publicregWeb/indi/AAC174/licenceRecord,,,Rep,2006-01-06,
+"Wong, Nicholas Cho Fai (SFC:ABS091) 黃祖輝",None,sfclicrec.asp?p=102270,ABS091,http://www.sfc.hk/publicregWeb/indi/ABS091/licenceRecord,,M,Rep,2004-04-27,2004-12-10

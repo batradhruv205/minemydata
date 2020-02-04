@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Philip Kar Kuen 鄭嘉權",sfclicrec.asp?p=82549,,M,RO,2014-08-29,2017-09-18
-"Chidambaram, Ganesh ",sfclicrec.asp?p=132574,,,RO,2018-08-23,2019-09-30
-"Chiou, How Teng ",sfclicrec.asp?p=2203932,,,RO,2018-01-10,2018-06-21
-"Jiang, Weijia 江唯佳",sfclicrec.asp?p=96618,,,Rep,2014-11-24,2014-12-29
-"Jiang, Weijia 江唯佳",sfclicrec.asp?p=96618,,,RO,2014-12-29,2015-10-21
-"Pang, Athena Yu Bing 彭語冰",sfclicrec.asp?p=11794395,,F,Rep,2017-08-29,
-"Wu, Na (SFC:ANT430) 吳娜",sfclicrec.asp?p=96615,,,RO,2014-08-29,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Philip Kar Kuen 鄭嘉權",None,sfclicrec.asp?p=82549,AON588,http://www.sfc.hk/publicregWeb/indi/AON588/licenceRecord,,M,RO,2014-08-29,2017-09-18
+"Chidambaram, Ganesh ",None,sfclicrec.asp?p=132574,AYE599,http://www.sfc.hk/publicregWeb/indi/AYE599/licenceRecord,,,RO,2018-08-23,2019-09-30
+"Chiou, How Teng ",None,sfclicrec.asp?p=2203932,BCR036,http://www.sfc.hk/publicregWeb/indi/BCR036/licenceRecord,,,RO,2018-01-10,2018-06-21
+"Jiang, Weijia 江唯佳",None,sfclicrec.asp?p=96618,AQQ338,http://www.sfc.hk/publicregWeb/indi/AQQ338/licenceRecord,,,Rep,2014-11-24,2014-12-29
+"Jiang, Weijia 江唯佳",None,sfclicrec.asp?p=96618,AQQ338,http://www.sfc.hk/publicregWeb/indi/AQQ338/licenceRecord,,,RO,2014-12-29,2015-10-21
+"Pang, Athena Yu Bing 彭語冰",None,sfclicrec.asp?p=11794395,BKP942,http://www.sfc.hk/publicregWeb/indi/BKP942/licenceRecord,,F,Rep,2017-08-29,
+"Wu, Na (SFC:ANT430) 吳娜",None,sfclicrec.asp?p=96615,ANT430,http://www.sfc.hk/publicregWeb/indi/ANT430/licenceRecord,,,RO,2014-08-29,

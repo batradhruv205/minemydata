@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Fan, Chung Yin 樊仲然",sfclicrec.asp?p=130405,,,Rep,2010-12-01,2011-03-23
-"Hon, Chung Che 韓仲芝",sfclicrec.asp?p=2009374,,,Rep,2013-01-16,2017-08-08
-"Hon, Chung Che 韓仲芝",sfclicrec.asp?p=2009374,,,RO,2017-08-08,
-"Lai, Kwok Cheung 黎國璋",sfclicrec.asp?p=100455,,,RO,2009-12-31,
-"Leung, Men Ching 梁文菁",sfclicrec.asp?p=129406,,,Rep,2010-03-19,2010-10-04
-"Ng, Chung Wai (SFC:ADQ486) 吳仲偉",sfclicrec.asp?p=99289,,,RO,2009-12-31,
-"Wong, Joanna Chung Yan 黃頌恩",sfclicrec.asp?p=130299,,F,Rep,2010-10-04,2011-09-01
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Fan, Chung Yin 樊仲然",None,sfclicrec.asp?p=130405,AWA347,http://www.sfc.hk/publicregWeb/indi/AWA347/licenceRecord,,,Rep,2010-12-01,2011-03-23
+"Hon, Chung Che 韓仲芝",None,sfclicrec.asp?p=2009374,ATI011,http://www.sfc.hk/publicregWeb/indi/ATI011/licenceRecord,,,Rep,2013-01-16,2017-08-08
+"Hon, Chung Che 韓仲芝",None,sfclicrec.asp?p=2009374,ATI011,http://www.sfc.hk/publicregWeb/indi/ATI011/licenceRecord,,,RO,2017-08-08,
+"Lai, Kwok Cheung 黎國璋",None,sfclicrec.asp?p=100455,AFV352,http://www.sfc.hk/publicregWeb/indi/AFV352/licenceRecord,,,RO,2009-12-31,
+"Leung, Men Ching 梁文菁",None,sfclicrec.asp?p=129406,AUV725,http://www.sfc.hk/publicregWeb/indi/AUV725/licenceRecord,,,Rep,2010-03-19,2010-10-04
+"Ng, Chung Wai (SFC:ADQ486) 吳仲偉",None,sfclicrec.asp?p=99289,ADQ486,http://www.sfc.hk/publicregWeb/indi/ADQ486/licenceRecord,,,RO,2009-12-31,
+"Wong, Joanna Chung Yan 黃頌恩",None,sfclicrec.asp?p=130299,AVW322,http://www.sfc.hk/publicregWeb/indi/AVW322/licenceRecord,,F,Rep,2010-10-04,2011-09-01

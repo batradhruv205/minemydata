@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Ellen Shui Yung 陳瑞容",sfclicrec.asp?p=101738,,F,Rep,,2019-11-29
-"Hong, Hung Cheong 康雄昌",sfclicrec.asp?p=100698,,,Rep,,2004-10-08
-"Hsu, Chin Lu 許進祿",sfclicrec.asp?p=104116,,,Rep,,2019-11-29
-"Lai, Chui Lai 黎翠麗",sfclicrec.asp?p=104202,,,Rep,,
-"Lau, Yiu Sun 劉耀新",sfclicrec.asp?p=102378,,,RO,,
-"Liu, Doris Shun Ha 廖順霞",sfclicrec.asp?p=2597826,,F,Rep,2016-06-27,
-"Tsui, Eric Hok Tao 徐學道",sfclicrec.asp?p=100682,,M,RO,,2019-12-31
-"Yip, Chi Keung 葉志強",sfclicrec.asp?p=101125,,,Rep,,2019-11-29
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Ellen Shui Yung 陳瑞容",None,sfclicrec.asp?p=101738,AAY072,http://www.sfc.hk/publicregWeb/indi/AAY072/licenceRecord,,F,Rep,,2019-11-29
+"Hong, Hung Cheong 康雄昌",None,sfclicrec.asp?p=100698,AAB606,http://www.sfc.hk/publicregWeb/indi/AAB606/licenceRecord,,,Rep,,2004-10-08
+"Hsu, Chin Lu 許進祿",None,sfclicrec.asp?p=104116,ADT183,http://www.sfc.hk/publicregWeb/indi/ADT183/licenceRecord,,,Rep,,2019-11-29
+"Lai, Chui Lai 黎翠麗",None,sfclicrec.asp?p=104202,ADU462,http://www.sfc.hk/publicregWeb/indi/ADU462/licenceRecord,,,Rep,,
+"Lau, Yiu Sun 劉耀新",None,sfclicrec.asp?p=102378,ABW047,http://www.sfc.hk/publicregWeb/indi/ABW047/licenceRecord,,,RO,,
+"Liu, Doris Shun Ha 廖順霞",None,sfclicrec.asp?p=2597826,BHP072,http://www.sfc.hk/publicregWeb/indi/BHP072/licenceRecord,,F,Rep,2016-06-27,
+"Tsui, Eric Hok Tao 徐學道",None,sfclicrec.asp?p=100682,AAB477,http://www.sfc.hk/publicregWeb/indi/AAB477/licenceRecord,,M,RO,,2019-12-31
+"Yip, Chi Keung 葉志強",None,sfclicrec.asp?p=101125,AAF512,http://www.sfc.hk/publicregWeb/indi/AAF512/licenceRecord,,,Rep,,2019-11-29

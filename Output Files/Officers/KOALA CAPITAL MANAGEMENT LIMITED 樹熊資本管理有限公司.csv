@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bo, Shuk Chee 布淑芝",sfclicrec.asp?p=99644,,,Rep,2018-11-01,2018-12-19
-"Bo, Shuk Chee 布淑芝",sfclicrec.asp?p=99644,,,RO,2018-12-19,
-"Chow, Wai Kit Tony 周偉傑",sfclicrec.asp?p=22108811,,,Rep,2018-11-30,2019-08-02
-"Hu, Chao (SFC:BGX227) 胡超",sfclicrec.asp?p=2536139,,,Rep,2017-12-20,2019-10-03
-"Kwan, Kar Ching (SFC:BFE813) 關加晴",sfclicrec.asp?p=12107939,,,Rep,2017-12-20,2018-12-19
-"Kwan, Kar Ching (SFC:BFE813) 關加晴",sfclicrec.asp?p=12107939,,,RO,2018-12-19,
-"Lan, Qingwen 藍青文",sfclicrec.asp?p=78866,,,Rep,2018-01-26,2018-10-18
-"Lan, Qingwen 藍青文",sfclicrec.asp?p=78866,,,RO,2018-10-18,2019-01-31
-"Lo, Pok Man 盧博文",sfclicrec.asp?p=12741760,,,Rep,2018-01-26,2018-06-01
-"Wong, Kam Wing (SFC:APC770) 黃錦榮",sfclicrec.asp?p=95679,,,RO,2017-10-03,2018-08-31
-"Wong, Tak Shing (SFC:BJD728) 黄德成",sfclicrec.asp?p=7773951,,,Rep,2017-12-20,2019-09-30
-"Yung, Yee Mei 翁綺微",sfclicrec.asp?p=11791953,,,Rep,2019-07-02,2020-01-03
-"Yung, Yu Ming 翁耀明",sfclicrec.asp?p=96692,,,RO,2017-10-03,2019-01-11
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bo, Shuk Chee 布淑芝",None,sfclicrec.asp?p=99644,ACN969,http://www.sfc.hk/publicregWeb/indi/ACN969/licenceRecord,,,Rep,2018-11-01,2018-12-19
+"Bo, Shuk Chee 布淑芝",None,sfclicrec.asp?p=99644,ACN969,http://www.sfc.hk/publicregWeb/indi/ACN969/licenceRecord,,,RO,2018-12-19,
+"Chow, Wai Kit Tony 周偉傑",None,sfclicrec.asp?p=22108811,BNG186,http://www.sfc.hk/publicregWeb/indi/BNG186/licenceRecord,,,Rep,2018-11-30,2019-08-02
+"Hu, Chao (SFC:BGX227) 胡超",None,sfclicrec.asp?p=2536139,BGX227,http://www.sfc.hk/publicregWeb/indi/BGX227/licenceRecord,,,Rep,2017-12-20,2019-10-03
+"Kwan, Kar Ching (SFC:BFE813) 關加晴",None,sfclicrec.asp?p=12107939,BFE813,http://www.sfc.hk/publicregWeb/indi/BFE813/licenceRecord,,,Rep,2017-12-20,2018-12-19
+"Kwan, Kar Ching (SFC:BFE813) 關加晴",None,sfclicrec.asp?p=12107939,BFE813,http://www.sfc.hk/publicregWeb/indi/BFE813/licenceRecord,,,RO,2018-12-19,
+"Lan, Qingwen 藍青文",None,sfclicrec.asp?p=78866,AWW400,http://www.sfc.hk/publicregWeb/indi/AWW400/licenceRecord,,,Rep,2018-01-26,2018-10-18
+"Lan, Qingwen 藍青文",None,sfclicrec.asp?p=78866,AWW400,http://www.sfc.hk/publicregWeb/indi/AWW400/licenceRecord,,,RO,2018-10-18,2019-01-31
+"Lo, Pok Man 盧博文",None,sfclicrec.asp?p=12741760,BLW918,http://www.sfc.hk/publicregWeb/indi/BLW918/licenceRecord,,,Rep,2018-01-26,2018-06-01
+"Wong, Kam Wing (SFC:APC770) 黃錦榮",None,sfclicrec.asp?p=95679,APC770,http://www.sfc.hk/publicregWeb/indi/APC770/licenceRecord,,,RO,2017-10-03,2018-08-31
+"Wong, Tak Shing (SFC:BJD728) 黄德成",None,sfclicrec.asp?p=7773951,BJD728,http://www.sfc.hk/publicregWeb/indi/BJD728/licenceRecord,,,Rep,2017-12-20,2019-09-30
+"Yung, Yee Mei 翁綺微",None,sfclicrec.asp?p=11791953,BKA653,http://www.sfc.hk/publicregWeb/indi/BKA653/licenceRecord,,,Rep,2019-07-02,2020-01-03
+"Yung, Yu Ming 翁耀明",None,sfclicrec.asp?p=96692,AMU880,http://www.sfc.hk/publicregWeb/indi/AMU880/licenceRecord,,,RO,2017-10-03,2019-01-11

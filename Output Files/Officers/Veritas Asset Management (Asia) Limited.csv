@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bae, Jaewon (SFC:AXP742) ",sfclicrec.asp?p=2590684,,,RO,2011-12-29,
-"Chu, Victor Hoi Wing 朱凱榮",sfclicrec.asp?p=2590687,42,M,Rep,2013-12-12,
-"Grant, Richard John (SFC:AXP744) ",sfclicrec.asp?p=2590685,,M,RO,2011-12-29,
-"Sun, Xuejun (SFC:AXP739) ",sfclicrec.asp?p=2590686,,,RO,2011-12-29,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bae, Jaewon (SFC:AXP742) ",None,sfclicrec.asp?p=2590684,AXP742,http://www.sfc.hk/publicregWeb/indi/AXP742/licenceRecord,,,RO,2011-12-29,
+"Chu, Victor Hoi Wing 朱凱榮",None,sfclicrec.asp?p=2590687,BCH564,http://www.sfc.hk/publicregWeb/indi/BCH564/licenceRecord,42.0,M,Rep,2013-12-12,
+"Grant, Richard John (SFC:AXP744) ",None,sfclicrec.asp?p=2590685,AXP744,http://www.sfc.hk/publicregWeb/indi/AXP744/licenceRecord,,M,RO,2011-12-29,
+"Sun, Xuejun (SFC:AXP739) ",None,sfclicrec.asp?p=2590686,AXP739,http://www.sfc.hk/publicregWeb/indi/AXP739/licenceRecord,,,RO,2011-12-29,

@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chui, Shu Kit 徐樹傑",sfclicrec.asp?p=104278,,,Rep,,
-"Chun, Wing Ling 秦穎玲",sfclicrec.asp?p=101851,,,Rep,,2005-03-31
-"Chun, Wing Ling 秦穎玲",sfclicrec.asp?p=101851,,,Rep,2005-04-18,
-"Leung, Wai Ming (SFC:ACC582) 梁偉明",sfclicrec.asp?p=68585,,,RO,2018-10-08,
-"Liu, Evelyn Kit Shan 廖潔珊",sfclicrec.asp?p=102011,,,RO,,
-"Liu, Yen Pui 廖潤培",sfclicrec.asp?p=100559,,,RO,,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chui, Shu Kit 徐樹傑",None,sfclicrec.asp?p=104278,ADV649,http://www.sfc.hk/publicregWeb/indi/ADV649/licenceRecord,,,Rep,,
+"Chun, Wing Ling 秦穎玲",None,sfclicrec.asp?p=101851,ABB015,http://www.sfc.hk/publicregWeb/indi/ABB015/licenceRecord,,,Rep,,2005-03-31
+"Chun, Wing Ling 秦穎玲",None,sfclicrec.asp?p=101851,ABB015,http://www.sfc.hk/publicregWeb/indi/ABB015/licenceRecord,,,Rep,2005-04-18,
+"Leung, Wai Ming (SFC:ACC582) 梁偉明",None,sfclicrec.asp?p=68585,ACC582,http://www.sfc.hk/publicregWeb/indi/ACC582/licenceRecord,,,RO,2018-10-08,
+"Liu, Evelyn Kit Shan 廖潔珊",None,sfclicrec.asp?p=102011,ABH322,http://www.sfc.hk/publicregWeb/indi/ABH322/licenceRecord,,,RO,,
+"Liu, Yen Pui 廖潤培",None,sfclicrec.asp?p=100559,AAA569,http://www.sfc.hk/publicregWeb/indi/AAA569/licenceRecord,,,RO,,

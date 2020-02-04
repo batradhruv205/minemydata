@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chim, Chun Kwan 詹振坤",sfclicrec.asp?p=99826,,,Rep,,
-"Leong, Ka Chai 梁家齊",sfclicrec.asp?p=1091,71,M,RO,,
-"Leung, Ting Yuk (SFC:AIR432) 梁庭毓",sfclicrec.asp?p=112320,,,Rep,,2006-06-01
-"Sze, Man Hon 施文漢",sfclicrec.asp?p=16068,,M,RO,2005-09-16,
-"Wong, Chun Kwong 王俊光",sfclicrec.asp?p=96458,,,Rep,,2007-02-01
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chim, Chun Kwan 詹振坤",None,sfclicrec.asp?p=99826,AAA970,http://www.sfc.hk/publicregWeb/indi/AAA970/licenceRecord,,,Rep,,
+"Leong, Ka Chai 梁家齊",None,sfclicrec.asp?p=1091,AAF034,http://www.sfc.hk/publicregWeb/indi/AAF034/licenceRecord,71.0,M,RO,,
+"Leung, Ting Yuk (SFC:AIR432) 梁庭毓",None,sfclicrec.asp?p=112320,AIR432,http://www.sfc.hk/publicregWeb/indi/AIR432/licenceRecord,,,Rep,,2006-06-01
+"Sze, Man Hon 施文漢",None,sfclicrec.asp?p=16068,AAF051,http://www.sfc.hk/publicregWeb/indi/AAF051/licenceRecord,,M,RO,2005-09-16,
+"Wong, Chun Kwong 王俊光",None,sfclicrec.asp?p=96458,ACP183,http://www.sfc.hk/publicregWeb/indi/ACP183/licenceRecord,,,Rep,,2007-02-01

@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chiu, Shek 趙錫",sfclicrec.asp?p=100511,,,Rep,,2004-04-01
-"Chuck, Kwok Tung 卓國棟",sfclicrec.asp?p=98593,,,RO,,
-"Go, Ai Hwa 吳媛華",sfclicrec.asp?p=100488,,,Rep,,2005-09-06
-"Lai, Hon 黎漢",sfclicrec.asp?p=98597,,,Rep,,2017-06-16
-"Lam, Yuk Mo 林玉武",sfclicrec.asp?p=94838,,,Rep,2018-03-15,
-"Lee, Yee Hing Susan 李頤馨",sfclicrec.asp?p=98598,,,Rep,2006-03-24,2018-05-01
-"Mak, Tai He 麥大禧",sfclicrec.asp?p=100837,,,Rep,2012-03-02,2015-01-01
-"Ong, Ban Chye 王萬材",sfclicrec.asp?p=98594,,,RO,,
-"Ong, Kwok Wah 王國華",sfclicrec.asp?p=98595,,,RO,,
-"Ong, Pui Fan 王佩芬",sfclicrec.asp?p=105045,,,Rep,,2005-08-22
-"Too, Nap Har 陶立霞",sfclicrec.asp?p=79761,,,Rep,,2007-10-31
-"Wong, Kwok Ping (SFC:AAA214) 王國平",sfclicrec.asp?p=98596,,,RO,,
-"Wu, Chiu Kin 胡超建",sfclicrec.asp?p=98599,,,Rep,2004-10-06,2019-11-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chiu, Shek 趙錫",None,sfclicrec.asp?p=100511,AAA198,http://www.sfc.hk/publicregWeb/indi/AAA198/licenceRecord,,,Rep,,2004-04-01
+"Chuck, Kwok Tung 卓國棟",None,sfclicrec.asp?p=98593,ABV776,http://www.sfc.hk/publicregWeb/indi/ABV776/licenceRecord,,,RO,,
+"Go, Ai Hwa 吳媛華",None,sfclicrec.asp?p=100488,AAA027,http://www.sfc.hk/publicregWeb/indi/AAA027/licenceRecord,,,Rep,,2005-09-06
+"Lai, Hon 黎漢",None,sfclicrec.asp?p=98597,AAA199,http://www.sfc.hk/publicregWeb/indi/AAA199/licenceRecord,,,Rep,,2017-06-16
+"Lam, Yuk Mo 林玉武",None,sfclicrec.asp?p=94838,AAD476,http://www.sfc.hk/publicregWeb/indi/AAD476/licenceRecord,,,Rep,2018-03-15,
+"Lee, Yee Hing Susan 李頤馨",None,sfclicrec.asp?p=98598,ANA390,http://www.sfc.hk/publicregWeb/indi/ANA390/licenceRecord,,,Rep,2006-03-24,2018-05-01
+"Mak, Tai He 麥大禧",None,sfclicrec.asp?p=100837,AAC863,http://www.sfc.hk/publicregWeb/indi/AAC863/licenceRecord,,,Rep,2012-03-02,2015-01-01
+"Ong, Ban Chye 王萬材",None,sfclicrec.asp?p=98594,AAA221,http://www.sfc.hk/publicregWeb/indi/AAA221/licenceRecord,,,RO,,
+"Ong, Kwok Wah 王國華",None,sfclicrec.asp?p=98595,ADP129,http://www.sfc.hk/publicregWeb/indi/ADP129/licenceRecord,,,RO,,
+"Ong, Pui Fan 王佩芬",None,sfclicrec.asp?p=105045,AEN036,http://www.sfc.hk/publicregWeb/indi/AEN036/licenceRecord,,,Rep,,2005-08-22
+"Too, Nap Har 陶立霞",None,sfclicrec.asp?p=79761,AAW727,http://www.sfc.hk/publicregWeb/indi/AAW727/licenceRecord,,,Rep,,2007-10-31
+"Wong, Kwok Ping (SFC:AAA214) 王國平",None,sfclicrec.asp?p=98596,AAA214,http://www.sfc.hk/publicregWeb/indi/AAA214/licenceRecord,,,RO,,
+"Wu, Chiu Kin 胡超建",None,sfclicrec.asp?p=98599,AAC157,http://www.sfc.hk/publicregWeb/indi/AAC157/licenceRecord,,,Rep,2004-10-06,2019-11-30

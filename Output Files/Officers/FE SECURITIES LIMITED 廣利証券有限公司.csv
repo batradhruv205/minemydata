@@ -1,18 +1,18 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Hung Ming (SFC:AAC466) 陳鴻明",sfclicrec.asp?p=92713,,,Rep,,2009-04-01
-"Chan, Yat Yuen (SFC:ABJ735) 陳日源",sfclicrec.asp?p=92723,,,Rep,,2005-04-07
-"Chiu, Andrew Chi Kin 趙熾堅",sfclicrec.asp?p=24759,,M,RO,2019-08-07,
-"Chu Lin, Amy York May 諸林若梅",sfclicrec.asp?p=100789,93,F,RO,,2005-10-12
-"Chu, Victor Lap Lik 諸立力",sfclicrec.asp?p=2412,63,M,RO,2005-06-15,
-"Fung, Veronica Wai Yee 馮偉儀",sfclicrec.asp?p=51592,,F,Rep,,
-"Ho, Danny Sai Chung 何世忠",sfclicrec.asp?p=51593,,,Rep,,2018-12-31
-"Kan, Elizabeth Ka Yee 簡家宜",sfclicrec.asp?p=21195,63,F,RO,,
-"Lau, Yuk Chuen 劉旭全",sfclicrec.asp?p=79406,,,Rep,,
-"Lo, Wun Man 盧允文",sfclicrec.asp?p=100799,,,RO,,2009-01-01
-"Mak, Christopher Kar Lung 麥嘉穠",sfclicrec.asp?p=105315,,M,Rep,,2004-07-17
-"Ng, Mo Chung 吳懋中",sfclicrec.asp?p=91059,,,Rep,,2005-10-03
-"Tsui, Sau Heung 徐秀香",sfclicrec.asp?p=79407,,,Rep,,
-"Yam, Kam Shing 任錦成",sfclicrec.asp?p=51591,,,Rep,,2005-06-17
-"Yam, Kam Shing 任錦成",sfclicrec.asp?p=51591,,,RO,2005-06-17,2010-11-22
-"Yau, Sui Ha 邱垂霞",sfclicrec.asp?p=92861,,,Rep,,2009-04-01
-"Yiu, Doge Woon Kuen 姚煥娟",sfclicrec.asp?p=92867,,,Rep,,2005-04-07
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Hung Ming (SFC:AAC466) 陳鴻明",None,sfclicrec.asp?p=92713,AAC466,http://www.sfc.hk/publicregWeb/indi/AAC466/licenceRecord,,,Rep,,2009-04-01
+"Chan, Yat Yuen (SFC:ABJ735) 陳日源",None,sfclicrec.asp?p=92723,ABJ735,http://www.sfc.hk/publicregWeb/indi/ABJ735/licenceRecord,,,Rep,,2005-04-07
+"Chiu, Andrew Chi Kin 趙熾堅",None,sfclicrec.asp?p=24759,AEI648,http://www.sfc.hk/publicregWeb/indi/AEI648/licenceRecord,,M,RO,2019-08-07,
+"Chu Lin, Amy York May 諸林若梅",None,sfclicrec.asp?p=100789,AAC387,http://www.sfc.hk/publicregWeb/indi/AAC387/licenceRecord,93.0,F,RO,,2005-10-12
+"Chu, Victor Lap Lik 諸立力",None,sfclicrec.asp?p=2412,AAC382,http://www.sfc.hk/publicregWeb/indi/AAC382/licenceRecord,63.0,M,RO,2005-06-15,
+"Fung, Veronica Wai Yee 馮偉儀",None,sfclicrec.asp?p=51592,ADG739,http://www.sfc.hk/publicregWeb/indi/ADG739/licenceRecord,,F,Rep,,
+"Ho, Danny Sai Chung 何世忠",None,sfclicrec.asp?p=51593,AAC481,http://www.sfc.hk/publicregWeb/indi/AAC481/licenceRecord,,,Rep,,2018-12-31
+"Kan, Elizabeth Ka Yee 簡家宜",None,sfclicrec.asp?p=21195,ABP976,http://www.sfc.hk/publicregWeb/indi/ABP976/licenceRecord,63.0,F,RO,,
+"Lau, Yuk Chuen 劉旭全",None,sfclicrec.asp?p=79406,AAC492,http://www.sfc.hk/publicregWeb/indi/AAC492/licenceRecord,,,Rep,,
+"Lo, Wun Man 盧允文",None,sfclicrec.asp?p=100799,AAC498,http://www.sfc.hk/publicregWeb/indi/AAC498/licenceRecord,,,RO,,2009-01-01
+"Mak, Christopher Kar Lung 麥嘉穠",None,sfclicrec.asp?p=105315,AES266,http://www.sfc.hk/publicregWeb/indi/AES266/licenceRecord,,M,Rep,,2004-07-17
+"Ng, Mo Chung 吳懋中",None,sfclicrec.asp?p=91059,AAC502,http://www.sfc.hk/publicregWeb/indi/AAC502/licenceRecord,,,Rep,,2005-10-03
+"Tsui, Sau Heung 徐秀香",None,sfclicrec.asp?p=79407,AAC519,http://www.sfc.hk/publicregWeb/indi/AAC519/licenceRecord,,,Rep,,
+"Yam, Kam Shing 任錦成",None,sfclicrec.asp?p=51591,AGE094,http://www.sfc.hk/publicregWeb/indi/AGE094/licenceRecord,,,Rep,,2005-06-17
+"Yam, Kam Shing 任錦成",None,sfclicrec.asp?p=51591,AGE094,http://www.sfc.hk/publicregWeb/indi/AGE094/licenceRecord,,,RO,2005-06-17,2010-11-22
+"Yau, Sui Ha 邱垂霞",None,sfclicrec.asp?p=92861,ADG150,http://www.sfc.hk/publicregWeb/indi/ADG150/licenceRecord,,,Rep,,2009-04-01
+"Yiu, Doge Woon Kuen 姚煥娟",None,sfclicrec.asp?p=92867,ACN829,http://www.sfc.hk/publicregWeb/indi/ACN829/licenceRecord,,,Rep,,2005-04-07

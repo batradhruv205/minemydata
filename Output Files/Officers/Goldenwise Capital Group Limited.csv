@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ding, Huakun 丁華昆",sfclicrec.asp?p=12617603,,,RO,2017-11-29,
-"Liu, Zishu 劉子庶",sfclicrec.asp?p=12617604,,,RO,2017-11-29,2019-08-31
-"Sun, Ge 孫戈",sfclicrec.asp?p=22108775,,,Rep,2019-08-06,2019-08-27
-"Sun, Ge 孫戈",sfclicrec.asp?p=22108775,,,RO,2019-08-27,2020-01-03
-"Zou, Qiao (SFC:BOF590) 鄒橋",sfclicrec.asp?p=23676705,,,RO,2019-09-18,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ding, Huakun 丁華昆",None,sfclicrec.asp?p=12617603,BJT908,http://www.sfc.hk/publicregWeb/indi/BJT908/licenceRecord,,,RO,2017-11-29,
+"Liu, Zishu 劉子庶",None,sfclicrec.asp?p=12617604,BJT906,http://www.sfc.hk/publicregWeb/indi/BJT906/licenceRecord,,,RO,2017-11-29,2019-08-31
+"Sun, Ge 孫戈",None,sfclicrec.asp?p=22108775,BNH009,http://www.sfc.hk/publicregWeb/indi/BNH009/licenceRecord,,,Rep,2019-08-06,2019-08-27
+"Sun, Ge 孫戈",None,sfclicrec.asp?p=22108775,BNH009,http://www.sfc.hk/publicregWeb/indi/BNH009/licenceRecord,,,RO,2019-08-27,2020-01-03
+"Zou, Qiao (SFC:BOF590) 鄒橋",None,sfclicrec.asp?p=23676705,BOF590,http://www.sfc.hk/publicregWeb/indi/BOF590/licenceRecord,,,RO,2019-09-18,

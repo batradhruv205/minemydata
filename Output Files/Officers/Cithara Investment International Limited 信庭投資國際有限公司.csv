@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Capelvenere, Phyllis Alison Crystal ",sfclicrec.asp?p=22815457,,F,Rep,2019-02-25,
-"Chang, John Moon Suk ",sfclicrec.asp?p=70102,,M,Rep,2018-06-13,2018-08-10
-"Chang, John Moon Suk ",sfclicrec.asp?p=70102,,M,RO,2018-08-10,
-"He, Tian 賀天",sfclicrec.asp?p=22348519,,,Rep,2018-10-24,
-"Huang, Jiamin 黃嘉敏",sfclicrec.asp?p=6722491,,,Rep,2017-04-06,
-"Ip, Sin Ying Amy 葉蒨瑩",sfclicrec.asp?p=23281207,,F,Rep,2019-06-10,2019-07-09
-"Lin, Haishan 林海珊",sfclicrec.asp?p=80159,,,RO,2016-07-18,2019-03-05
-"Lu, Rui (SFC:BEB344) 呂睿",sfclicrec.asp?p=8347936,,,Rep,2017-04-20,
-"Ma, Chun Yiu Ronald 馬瑨耀",sfclicrec.asp?p=22348520,,,Rep,2018-10-24,
-"Masurkar, Adwait Manohar ",sfclicrec.asp?p=74135,,M,Rep,2019-05-29,2019-07-09
-"Masurkar, Adwait Manohar ",sfclicrec.asp?p=74135,,M,RO,2019-07-09,
-"Ngan, Alfee Chi Chun 顏之雋",sfclicrec.asp?p=17480431,,,Rep,2018-06-15,
-"Zhang, Jun (SFC:AYQ322) 張俊",sfclicrec.asp?p=134697,,,RO,2016-07-18,
-"Zhu, Guoji 朱国基",sfclicrec.asp?p=2159456,,,Rep,2018-06-14,
-"Zhu, Wei (SFC:BFK558) 朱維",sfclicrec.asp?p=2421403,,,Rep,2018-10-02,2019-09-13
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Capelvenere, Phyllis Alison Crystal ",None,sfclicrec.asp?p=22815457,BNM933,http://www.sfc.hk/publicregWeb/indi/BNM933/licenceRecord,,F,Rep,2019-02-25,
+"Chang, John Moon Suk ",None,sfclicrec.asp?p=70102,AMI423,http://www.sfc.hk/publicregWeb/indi/AMI423/licenceRecord,,M,Rep,2018-06-13,2018-08-10
+"Chang, John Moon Suk ",None,sfclicrec.asp?p=70102,AMI423,http://www.sfc.hk/publicregWeb/indi/AMI423/licenceRecord,,M,RO,2018-08-10,
+"He, Tian 賀天",None,sfclicrec.asp?p=22348519,BNO861,http://www.sfc.hk/publicregWeb/indi/BNO861/licenceRecord,,,Rep,2018-10-24,
+"Huang, Jiamin 黃嘉敏",None,sfclicrec.asp?p=6722491,BJG182,http://www.sfc.hk/publicregWeb/indi/BJG182/licenceRecord,,,Rep,2017-04-06,
+"Ip, Sin Ying Amy 葉蒨瑩",None,sfclicrec.asp?p=23281207,BOH696,http://www.sfc.hk/publicregWeb/indi/BOH696/licenceRecord,,F,Rep,2019-06-10,2019-07-09
+"Lin, Haishan 林海珊",None,sfclicrec.asp?p=80159,AUZ541,http://www.sfc.hk/publicregWeb/indi/AUZ541/licenceRecord,,,RO,2016-07-18,2019-03-05
+"Lu, Rui (SFC:BEB344) 呂睿",None,sfclicrec.asp?p=8347936,BEB344,http://www.sfc.hk/publicregWeb/indi/BEB344/licenceRecord,,,Rep,2017-04-20,
+"Ma, Chun Yiu Ronald 馬瑨耀",None,sfclicrec.asp?p=22348520,BNO839,http://www.sfc.hk/publicregWeb/indi/BNO839/licenceRecord,,,Rep,2018-10-24,
+"Masurkar, Adwait Manohar ",None,sfclicrec.asp?p=74135,ARG204,http://www.sfc.hk/publicregWeb/indi/ARG204/licenceRecord,,M,Rep,2019-05-29,2019-07-09
+"Masurkar, Adwait Manohar ",None,sfclicrec.asp?p=74135,ARG204,http://www.sfc.hk/publicregWeb/indi/ARG204/licenceRecord,,M,RO,2019-07-09,
+"Ngan, Alfee Chi Chun 顏之雋",None,sfclicrec.asp?p=17480431,BLV188,http://www.sfc.hk/publicregWeb/indi/BLV188/licenceRecord,,,Rep,2018-06-15,
+"Zhang, Jun (SFC:AYQ322) 張俊",None,sfclicrec.asp?p=134697,AYQ322,http://www.sfc.hk/publicregWeb/indi/AYQ322/licenceRecord,,,RO,2016-07-18,
+"Zhu, Guoji 朱国基",None,sfclicrec.asp?p=2159456,BCG002,http://www.sfc.hk/publicregWeb/indi/BCG002/licenceRecord,,,Rep,2018-06-14,
+"Zhu, Wei (SFC:BFK558) 朱維",None,sfclicrec.asp?p=2421403,BFK558,http://www.sfc.hk/publicregWeb/indi/BFK558/licenceRecord,,,Rep,2018-10-02,2019-09-13

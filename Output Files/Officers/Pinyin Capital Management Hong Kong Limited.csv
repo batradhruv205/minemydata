@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bandarupalli, Laxmi Deepak ",sfclicrec.asp?p=2510225,,,Rep,2015-12-07,2016-11-30
-"Bazarian, Andrew Avedis ",sfclicrec.asp?p=93689,,M,RO,2015-11-02,
-"Bhattacharya, Indradeb ",sfclicrec.asp?p=2076207,,,Rep,2015-12-03,2016-08-31
-"Dhir, Sachin (SFC:ARF792) ",sfclicrec.asp?p=67624,,,RO,2015-11-02,2016-11-30
-"Fu, Jia (SFC:BCX902) 傅佳",sfclicrec.asp?p=2205297,,,Rep,2016-02-19,2016-08-31
-"Keys, Malcolm James ",sfclicrec.asp?p=90032,,M,Rep,2017-08-21,2017-08-31
-"Keys, Malcolm James ",sfclicrec.asp?p=90032,,M,RO,2017-08-31,2019-11-06
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bandarupalli, Laxmi Deepak ",None,sfclicrec.asp?p=2510225,BGP937,http://www.sfc.hk/publicregWeb/indi/BGP937/licenceRecord,,,Rep,2015-12-07,2016-11-30
+"Bazarian, Andrew Avedis ",None,sfclicrec.asp?p=93689,ARB933,http://www.sfc.hk/publicregWeb/indi/ARB933/licenceRecord,,M,RO,2015-11-02,
+"Bhattacharya, Indradeb ",None,sfclicrec.asp?p=2076207,BBI769,http://www.sfc.hk/publicregWeb/indi/BBI769/licenceRecord,,,Rep,2015-12-03,2016-08-31
+"Dhir, Sachin (SFC:ARF792) ",None,sfclicrec.asp?p=67624,ARF792,http://www.sfc.hk/publicregWeb/indi/ARF792/licenceRecord,,,RO,2015-11-02,2016-11-30
+"Fu, Jia (SFC:BCX902) 傅佳",None,sfclicrec.asp?p=2205297,BCX902,http://www.sfc.hk/publicregWeb/indi/BCX902/licenceRecord,,,Rep,2016-02-19,2016-08-31
+"Keys, Malcolm James ",None,sfclicrec.asp?p=90032,AVF631,http://www.sfc.hk/publicregWeb/indi/AVF631/licenceRecord,,M,Rep,2017-08-21,2017-08-31
+"Keys, Malcolm James ",None,sfclicrec.asp?p=90032,AVF631,http://www.sfc.hk/publicregWeb/indi/AVF631/licenceRecord,,M,RO,2017-08-31,2019-11-06

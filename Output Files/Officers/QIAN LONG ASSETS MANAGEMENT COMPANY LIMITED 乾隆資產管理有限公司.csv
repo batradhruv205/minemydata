@@ -1,18 +1,18 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chow, Kitty Man Yee 周敏儀",sfclicrec.asp?p=117830,,F,Rep,2017-02-01,2017-02-17
-"Chu, Siu Ling 朱小玲",sfclicrec.asp?p=93910,,,RO,2018-10-31,2019-04-15
-"Dong, Haitao (SFC:AZZ298) 董海韜",sfclicrec.asp?p=1934077,,,Rep,2016-09-23,2016-10-06
-"Dong, Haitao (SFC:AZZ298) 董海韜",sfclicrec.asp?p=1934077,,,RO,2016-10-06,2018-06-30
-"Fan, Jiachen 范佳宸",sfclicrec.asp?p=2602659,,,Rep,2016-07-07,2017-11-30
-"Kan, Don Lap Hung 簡立雄",sfclicrec.asp?p=99072,,,RO,2016-05-11,2016-09-20
-"Mak, Wing Yee 麥泳儀",sfclicrec.asp?p=2467641,,,Rep,2016-07-22,2016-11-18
-"Shang, Quanxi 尚泉汐",sfclicrec.asp?p=2676038,,,Rep,2018-10-15,
-"Tsang, Chi Fai (SFC:BNG370) 曾志煇",sfclicrec.asp?p=22019511,,,Rep,2018-08-16,2019-06-21
-"Tsui, Cheuk Chi 徐卓志",sfclicrec.asp?p=99545,,,RO,2016-05-11,2016-10-14
-"Tsui, Yan Tung 徐欣彤",sfclicrec.asp?p=72400,,,Rep,2016-08-01,2016-08-31
-"Tsui, Yan Tung 徐欣彤",sfclicrec.asp?p=72400,,,RO,2016-08-31,
-"Wong, Anson King Lung 黃勁龍",sfclicrec.asp?p=87353,,,Rep,2019-06-24,2019-08-20
-"Wong, Anson King Lung 黃勁龍",sfclicrec.asp?p=87353,,,RO,2019-08-20,2019-11-03
-"Yeung, Jacky Tsz Kit 楊子傑",sfclicrec.asp?p=100154,,,Rep,2020-01-22,
-"Yip, Hoi Lung 葉海龍",sfclicrec.asp?p=12112963,,,Rep,2017-10-20,2019-08-16
-"Zhao, Xiaoyu (SFC:BNY603) 趙曉宇",sfclicrec.asp?p=22715557,,,Rep,2019-01-30,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chow, Kitty Man Yee 周敏儀",None,sfclicrec.asp?p=117830,AMZ977,http://www.sfc.hk/publicregWeb/indi/AMZ977/licenceRecord,,F,Rep,2017-02-01,2017-02-17
+"Chu, Siu Ling 朱小玲",None,sfclicrec.asp?p=93910,ARG250,http://www.sfc.hk/publicregWeb/indi/ARG250/licenceRecord,,,RO,2018-10-31,2019-04-15
+"Dong, Haitao (SFC:AZZ298) 董海韜",None,sfclicrec.asp?p=1934077,AZZ298,http://www.sfc.hk/publicregWeb/indi/AZZ298/licenceRecord,,,Rep,2016-09-23,2016-10-06
+"Dong, Haitao (SFC:AZZ298) 董海韜",None,sfclicrec.asp?p=1934077,AZZ298,http://www.sfc.hk/publicregWeb/indi/AZZ298/licenceRecord,,,RO,2016-10-06,2018-06-30
+"Fan, Jiachen 范佳宸",None,sfclicrec.asp?p=2602659,BHP648,http://www.sfc.hk/publicregWeb/indi/BHP648/licenceRecord,,,Rep,2016-07-07,2017-11-30
+"Kan, Don Lap Hung 簡立雄",None,sfclicrec.asp?p=99072,AJI408,http://www.sfc.hk/publicregWeb/indi/AJI408/licenceRecord,,,RO,2016-05-11,2016-09-20
+"Mak, Wing Yee 麥泳儀",None,sfclicrec.asp?p=2467641,BGA799,http://www.sfc.hk/publicregWeb/indi/BGA799/licenceRecord,,,Rep,2016-07-22,2016-11-18
+"Shang, Quanxi 尚泉汐",None,sfclicrec.asp?p=2676038,BIQ844,http://www.sfc.hk/publicregWeb/indi/BIQ844/licenceRecord,,,Rep,2018-10-15,
+"Tsang, Chi Fai (SFC:BNG370) 曾志煇",None,sfclicrec.asp?p=22019511,BNG370,http://www.sfc.hk/publicregWeb/indi/BNG370/licenceRecord,,,Rep,2018-08-16,2019-06-21
+"Tsui, Cheuk Chi 徐卓志",None,sfclicrec.asp?p=99545,ARV914,http://www.sfc.hk/publicregWeb/indi/ARV914/licenceRecord,,,RO,2016-05-11,2016-10-14
+"Tsui, Yan Tung 徐欣彤",None,sfclicrec.asp?p=72400,ATM650,http://www.sfc.hk/publicregWeb/indi/ATM650/licenceRecord,,,Rep,2016-08-01,2016-08-31
+"Tsui, Yan Tung 徐欣彤",None,sfclicrec.asp?p=72400,ATM650,http://www.sfc.hk/publicregWeb/indi/ATM650/licenceRecord,,,RO,2016-08-31,
+"Wong, Anson King Lung 黃勁龍",None,sfclicrec.asp?p=87353,AXO985,http://www.sfc.hk/publicregWeb/indi/AXO985/licenceRecord,,,Rep,2019-06-24,2019-08-20
+"Wong, Anson King Lung 黃勁龍",None,sfclicrec.asp?p=87353,AXO985,http://www.sfc.hk/publicregWeb/indi/AXO985/licenceRecord,,,RO,2019-08-20,2019-11-03
+"Yeung, Jacky Tsz Kit 楊子傑",None,sfclicrec.asp?p=100154,ASZ509,http://www.sfc.hk/publicregWeb/indi/ASZ509/licenceRecord,,,Rep,2020-01-22,
+"Yip, Hoi Lung 葉海龍",None,sfclicrec.asp?p=12112963,BKZ255,http://www.sfc.hk/publicregWeb/indi/BKZ255/licenceRecord,,,Rep,2017-10-20,2019-08-16
+"Zhao, Xiaoyu (SFC:BNY603) 趙曉宇",None,sfclicrec.asp?p=22715557,BNY603,http://www.sfc.hk/publicregWeb/indi/BNY603/licenceRecord,,,Rep,2019-01-30,

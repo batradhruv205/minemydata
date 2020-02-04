@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lee, Mathew Shih Hao 利仕豪",sfclicrec.asp?p=82524,,M,RO,2015-09-09,2019-05-31
-"Li, Renwang 李人望",sfclicrec.asp?p=22164488,,,Rep,2018-09-11,2019-05-30
-"Li, Renwang 李人望",sfclicrec.asp?p=22164488,,,RO,2019-05-30,
-"Ma, Yue (SFC:ALB800) 馬越",sfclicrec.asp?p=114311,,,RO,2017-11-29,2018-12-31
-"Wan, Katherine Ka Ki 溫嘉祺",sfclicrec.asp?p=123454,,F,RO,2015-09-09,
-"Zhou, Quan (SFC:AXC620) 周全",sfclicrec.asp?p=2472861,,,RO,2015-09-09,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lee, Mathew Shih Hao 利仕豪",None,sfclicrec.asp?p=82524,AMN727,http://www.sfc.hk/publicregWeb/indi/AMN727/licenceRecord,,M,RO,2015-09-09,2019-05-31
+"Li, Renwang 李人望",None,sfclicrec.asp?p=22164488,BNN146,http://www.sfc.hk/publicregWeb/indi/BNN146/licenceRecord,,,Rep,2018-09-11,2019-05-30
+"Li, Renwang 李人望",None,sfclicrec.asp?p=22164488,BNN146,http://www.sfc.hk/publicregWeb/indi/BNN146/licenceRecord,,,RO,2019-05-30,
+"Ma, Yue (SFC:ALB800) 馬越",None,sfclicrec.asp?p=114311,ALB800,http://www.sfc.hk/publicregWeb/indi/ALB800/licenceRecord,,,RO,2017-11-29,2018-12-31
+"Wan, Katherine Ka Ki 溫嘉祺",None,sfclicrec.asp?p=123454,APY872,http://www.sfc.hk/publicregWeb/indi/APY872/licenceRecord,,F,RO,2015-09-09,
+"Zhou, Quan (SFC:AXC620) 周全",None,sfclicrec.asp?p=2472861,AXC620,http://www.sfc.hk/publicregWeb/indi/AXC620/licenceRecord,,,RO,2015-09-09,

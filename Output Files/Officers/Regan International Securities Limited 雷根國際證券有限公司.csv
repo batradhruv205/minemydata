@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chu, Steven Chun Hin (SFC:AMS312) 朱振軒",sfclicrec.asp?p=97254,,M,Rep,2019-04-03,2019-04-16
-"Chu, Steven Chun Hin (SFC:AMS312) 朱振軒",sfclicrec.asp?p=97254,,M,RO,2019-04-16,
-"Fu, Ming (SFC:ATI402) 傅鳴",sfclicrec.asp?p=95461,,,Rep,2019-01-11,2019-01-21
-"Fu, Ming (SFC:ATI402) 傅鳴",sfclicrec.asp?p=95461,,,RO,2019-01-21,
-"Lam, Chun Yuk 林俊旭",sfclicrec.asp?p=91183,,,Rep,2019-06-04,2019-07-23
-"Lam, Chun Yuk 林俊旭",sfclicrec.asp?p=91183,,,RO,2019-07-23,
-"Pak, Chi Wing 白志頴",sfclicrec.asp?p=83379,,,RO,2018-09-21,2019-01-14
-"Tsang, Ming Fung 曾銘楓",sfclicrec.asp?p=81576,,,RO,2018-09-21,2019-03-14
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chu, Steven Chun Hin (SFC:AMS312) 朱振軒",None,sfclicrec.asp?p=97254,AMS312,http://www.sfc.hk/publicregWeb/indi/AMS312/licenceRecord,,M,Rep,2019-04-03,2019-04-16
+"Chu, Steven Chun Hin (SFC:AMS312) 朱振軒",None,sfclicrec.asp?p=97254,AMS312,http://www.sfc.hk/publicregWeb/indi/AMS312/licenceRecord,,M,RO,2019-04-16,
+"Fu, Ming (SFC:ATI402) 傅鳴",None,sfclicrec.asp?p=95461,ATI402,http://www.sfc.hk/publicregWeb/indi/ATI402/licenceRecord,,,Rep,2019-01-11,2019-01-21
+"Fu, Ming (SFC:ATI402) 傅鳴",None,sfclicrec.asp?p=95461,ATI402,http://www.sfc.hk/publicregWeb/indi/ATI402/licenceRecord,,,RO,2019-01-21,
+"Lam, Chun Yuk 林俊旭",None,sfclicrec.asp?p=91183,ARR348,http://www.sfc.hk/publicregWeb/indi/ARR348/licenceRecord,,,Rep,2019-06-04,2019-07-23
+"Lam, Chun Yuk 林俊旭",None,sfclicrec.asp?p=91183,ARR348,http://www.sfc.hk/publicregWeb/indi/ARR348/licenceRecord,,,RO,2019-07-23,
+"Pak, Chi Wing 白志頴",None,sfclicrec.asp?p=83379,AGM852,http://www.sfc.hk/publicregWeb/indi/AGM852/licenceRecord,,,RO,2018-09-21,2019-01-14
+"Tsang, Ming Fung 曾銘楓",None,sfclicrec.asp?p=81576,ANR264,http://www.sfc.hk/publicregWeb/indi/ANR264/licenceRecord,,,RO,2018-09-21,2019-03-14

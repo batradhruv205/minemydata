@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Anthony Chun Man 張俊文",sfclicrec.asp?p=84745,,M,RO,2019-03-15,
-"Tse, Pui Fong 謝佩芳",sfclicrec.asp?p=13778069,,,Rep,2019-06-27,
-"Zhang, Quan (SFC:BIH671) ",sfclicrec.asp?p=2679174,,,RO,2019-03-15,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Anthony Chun Man 張俊文",None,sfclicrec.asp?p=84745,AGO353,http://www.sfc.hk/publicregWeb/indi/AGO353/licenceRecord,,M,RO,2019-03-15,
+"Tse, Pui Fong 謝佩芳",None,sfclicrec.asp?p=13778069,BMR087,http://www.sfc.hk/publicregWeb/indi/BMR087/licenceRecord,,,Rep,2019-06-27,
+"Zhang, Quan (SFC:BIH671) ",None,sfclicrec.asp?p=2679174,BIH671,http://www.sfc.hk/publicregWeb/indi/BIH671/licenceRecord,,,RO,2019-03-15,

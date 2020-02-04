@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, John Po-Chuan 陳柏全",sfclicrec.asp?p=119384,,M,Rep,2019-10-08,
-"Du, Hao (SFC:BCB913) 杜浩",sfclicrec.asp?p=2146611,,,Rep,2015-10-29,2019-03-14
-"Du, Hao (SFC:BCB913) 杜浩",sfclicrec.asp?p=2146611,,,RO,2019-03-14,2019-12-12
-"Gui, Xueying 歸雪莹",sfclicrec.asp?p=2610508,,,Rep,2016-07-25,
-"Hui, Kin Wai (SFC:AOX998) 許健偉",sfclicrec.asp?p=121473,,,RO,2015-10-23,2019-05-23
-"Liu, Guojiang 劉國江",sfclicrec.asp?p=2469664,,,RO,2015-09-01,2017-03-15
-"Niu, Ruolei 牛若磊",sfclicrec.asp?p=123504,,,RO,2015-09-01,
-"Wang, Ruilin 王睿琳",sfclicrec.asp?p=2492516,,,Rep,2015-10-29,2017-07-28
-"Yan, Chichen 嚴馳晨",sfclicrec.asp?p=2492517,,,Rep,2015-10-29,
-"Yeung, Ham 楊涵",sfclicrec.asp?p=119391,,,RO,2019-11-28,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, John Po-Chuan 陳柏全",None,sfclicrec.asp?p=119384,ANU569,http://www.sfc.hk/publicregWeb/indi/ANU569/licenceRecord,,M,Rep,2019-10-08,
+"Du, Hao (SFC:BCB913) 杜浩",None,sfclicrec.asp?p=2146611,BCB913,http://www.sfc.hk/publicregWeb/indi/BCB913/licenceRecord,,,Rep,2015-10-29,2019-03-14
+"Du, Hao (SFC:BCB913) 杜浩",None,sfclicrec.asp?p=2146611,BCB913,http://www.sfc.hk/publicregWeb/indi/BCB913/licenceRecord,,,RO,2019-03-14,2019-12-12
+"Gui, Xueying 歸雪莹",None,sfclicrec.asp?p=2610508,BHU627,http://www.sfc.hk/publicregWeb/indi/BHU627/licenceRecord,,,Rep,2016-07-25,
+"Hui, Kin Wai (SFC:AOX998) 許健偉",None,sfclicrec.asp?p=121473,AOX998,http://www.sfc.hk/publicregWeb/indi/AOX998/licenceRecord,,,RO,2015-10-23,2019-05-23
+"Liu, Guojiang 劉國江",None,sfclicrec.asp?p=2469664,BFO133,http://www.sfc.hk/publicregWeb/indi/BFO133/licenceRecord,,,RO,2015-09-01,2017-03-15
+"Niu, Ruolei 牛若磊",None,sfclicrec.asp?p=123504,APZ539,http://www.sfc.hk/publicregWeb/indi/APZ539/licenceRecord,,,RO,2015-09-01,
+"Wang, Ruilin 王睿琳",None,sfclicrec.asp?p=2492516,BGJ256,http://www.sfc.hk/publicregWeb/indi/BGJ256/licenceRecord,,,Rep,2015-10-29,2017-07-28
+"Yan, Chichen 嚴馳晨",None,sfclicrec.asp?p=2492517,BGJ257,http://www.sfc.hk/publicregWeb/indi/BGJ257/licenceRecord,,,Rep,2015-10-29,
+"Yeung, Ham 楊涵",None,sfclicrec.asp?p=119391,ANU667,http://www.sfc.hk/publicregWeb/indi/ANU667/licenceRecord,,,RO,2019-11-28,

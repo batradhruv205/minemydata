@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ehlinger, Jerome William ",sfclicrec.asp?p=2570294,,M,RO,2016-04-28,
-"Fung, Karena Pui San 馮珮珊",sfclicrec.asp?p=96705,,,Rep,2013-03-01,
-"Hunter, Philip James ",sfclicrec.asp?p=85738,,M,Rep,2013-04-22,
-"Lai, Ka Lai (SFC:AQP990) 賴家禮",sfclicrec.asp?p=96712,,,Rep,2017-09-06,
-"Lau, Jean Mei Rachel ",sfclicrec.asp?p=2102260,,F,Rep,2013-07-18,2017-03-13
-"Pire, Timothy James ",sfclicrec.asp?p=2026863,,M,RO,2012-11-20,2016-05-20
-"White, John Risely ",sfclicrec.asp?p=2026864,,M,RO,2012-11-20,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ehlinger, Jerome William ",None,sfclicrec.asp?p=2570294,BGS929,http://www.sfc.hk/publicregWeb/indi/BGS929/licenceRecord,,M,RO,2016-04-28,
+"Fung, Karena Pui San 馮珮珊",None,sfclicrec.asp?p=96705,AFN682,http://www.sfc.hk/publicregWeb/indi/AFN682/licenceRecord,,,Rep,2013-03-01,
+"Hunter, Philip James ",None,sfclicrec.asp?p=85738,AXG586,http://www.sfc.hk/publicregWeb/indi/AXG586/licenceRecord,,M,Rep,2013-04-22,
+"Lai, Ka Lai (SFC:AQP990) 賴家禮",None,sfclicrec.asp?p=96712,AQP990,http://www.sfc.hk/publicregWeb/indi/AQP990/licenceRecord,,,Rep,2017-09-06,
+"Lau, Jean Mei Rachel ",None,sfclicrec.asp?p=2102260,BBP437,http://www.sfc.hk/publicregWeb/indi/BBP437/licenceRecord,,F,Rep,2013-07-18,2017-03-13
+"Pire, Timothy James ",None,sfclicrec.asp?p=2026863,BAE177,http://www.sfc.hk/publicregWeb/indi/BAE177/licenceRecord,,M,RO,2012-11-20,2016-05-20
+"White, John Risely ",None,sfclicrec.asp?p=2026864,BAE179,http://www.sfc.hk/publicregWeb/indi/BAE179/licenceRecord,,M,RO,2012-11-20,

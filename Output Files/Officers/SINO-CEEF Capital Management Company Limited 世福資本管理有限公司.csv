@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cao, Jian (SFC:BOG527) 曹劍",sfclicrec.asp?p=23058237,,,Rep,2019-04-16,
-"Chan, Kwok Keung (SFC:AAC262) 陳國強",sfclicrec.asp?p=100776,,M,Rep,2011-02-23,2011-06-08
-"Chang, Jack P ",sfclicrec.asp?p=100351,,M,RO,2011-12-28,2014-08-18
-"Chen, Aiping 陳愛平",sfclicrec.asp?p=2649867,,,RO,2016-10-27,
-"Chen, Yejun 陳冶軍",sfclicrec.asp?p=2657624,,,RO,2016-11-11,
-"Jiang, Jianqing (SFC:AGA267) 姜建清",sfclicrec.asp?p=2649868,,,RO,2016-10-27,
-"Kwok, Henry Wai Ki 郭偉奇",sfclicrec.asp?p=83540,,M,RO,2014-10-17,
-"Leung, Peter Ming Hym 梁銘謙",sfclicrec.asp?p=99348,,M,RO,2008-04-17,
-"Lo, Iris Wing Chu 盧泳珠",sfclicrec.asp?p=93508,,F,RO,2008-04-17,2009-08-01
-"Qin, Jing (SFC:AGN786) 秦靖",sfclicrec.asp?p=109561,,,RO,2016-11-29,
-"Wong, Oscar Sai Hung 黃世雄",sfclicrec.asp?p=17286,65,M,RO,2009-07-22,2011-12-07
-"Yuan, Hang 袁杭",sfclicrec.asp?p=88180,,,Rep,2018-01-25,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cao, Jian (SFC:BOG527) 曹劍",None,sfclicrec.asp?p=23058237,BOG527,http://www.sfc.hk/publicregWeb/indi/BOG527/licenceRecord,,,Rep,2019-04-16,
+"Chan, Kwok Keung (SFC:AAC262) 陳國強",None,sfclicrec.asp?p=100776,AAC262,http://www.sfc.hk/publicregWeb/indi/AAC262/licenceRecord,,M,Rep,2011-02-23,2011-06-08
+"Chang, Jack P ",None,sfclicrec.asp?p=100351,AKR038,http://www.sfc.hk/publicregWeb/indi/AKR038/licenceRecord,,M,RO,2011-12-28,2014-08-18
+"Chen, Aiping 陳愛平",None,sfclicrec.asp?p=2649867,AYA225,http://www.sfc.hk/publicregWeb/indi/AYA225/licenceRecord,,,RO,2016-10-27,
+"Chen, Yejun 陳冶軍",None,sfclicrec.asp?p=2657624,BHD944,http://www.sfc.hk/publicregWeb/indi/BHD944/licenceRecord,,,RO,2016-11-11,
+"Jiang, Jianqing (SFC:AGA267) 姜建清",None,sfclicrec.asp?p=2649868,AGA267,http://www.sfc.hk/publicregWeb/indi/AGA267/licenceRecord,,,RO,2016-10-27,
+"Kwok, Henry Wai Ki 郭偉奇",None,sfclicrec.asp?p=83540,AGJ901,http://www.sfc.hk/publicregWeb/indi/AGJ901/licenceRecord,,M,RO,2014-10-17,
+"Leung, Peter Ming Hym 梁銘謙",None,sfclicrec.asp?p=99348,AFK412,http://www.sfc.hk/publicregWeb/indi/AFK412/licenceRecord,,M,RO,2008-04-17,
+"Lo, Iris Wing Chu 盧泳珠",None,sfclicrec.asp?p=93508,ANH324,http://www.sfc.hk/publicregWeb/indi/ANH324/licenceRecord,,F,RO,2008-04-17,2009-08-01
+"Qin, Jing (SFC:AGN786) 秦靖",None,sfclicrec.asp?p=109561,AGN786,http://www.sfc.hk/publicregWeb/indi/AGN786/licenceRecord,,,RO,2016-11-29,
+"Wong, Oscar Sai Hung 黃世雄",None,sfclicrec.asp?p=17286,AAH021,http://www.sfc.hk/publicregWeb/indi/AAH021/licenceRecord,65.0,M,RO,2009-07-22,2011-12-07
+"Yuan, Hang 袁杭",None,sfclicrec.asp?p=88180,AWI220,http://www.sfc.hk/publicregWeb/indi/AWI220/licenceRecord,,,Rep,2018-01-25,

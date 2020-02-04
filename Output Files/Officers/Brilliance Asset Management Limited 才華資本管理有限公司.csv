@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Choi, Sheung Wah 蔡尚樺",sfclicrec.asp?p=2591165,,,Rep,2016-03-29,2016-08-04
-"Ho, Michael Cheuk Yuen 何卓元",sfclicrec.asp?p=80920,,M,Rep,2019-11-26,
-"Hui, Ka Yiu 許家耀",sfclicrec.asp?p=2403235,,,Rep,2018-08-16,
-"Law, Sze Ho 羅思豪",sfclicrec.asp?p=2591166,,,Rep,2015-01-14,2017-01-23
-"Law, Sze Ho 羅思豪",sfclicrec.asp?p=2591166,,,RO,2017-01-23,
-"Li, Can (SFC:BBU883) 李灿",sfclicrec.asp?p=2591163,,,RO,2014-03-19,2017-04-05
-"Liang, Ziyang (SFC:BOT071) 梁子揚",sfclicrec.asp?p=23616756,,,Rep,2019-09-03,
-"Shi, Lin (SFC:BBU884) 石林",sfclicrec.asp?p=2591164,,,RO,2014-03-19,
-"Sun, Ning (SFC:BID332) 孫寧",sfclicrec.asp?p=2628804,,,Rep,2016-09-05,2016-11-17
-"Wan, Johnson 雲浚淳",sfclicrec.asp?p=124447,,M,Rep,2019-08-07,
-"Wong, Christopher (SFC:BAH614) 黃務軒",sfclicrec.asp?p=1988629,,M,Rep,2016-10-11,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Choi, Sheung Wah 蔡尚樺",None,sfclicrec.asp?p=2591165,BHF331,http://www.sfc.hk/publicregWeb/indi/BHF331/licenceRecord,,,Rep,2016-03-29,2016-08-04
+"Ho, Michael Cheuk Yuen 何卓元",None,sfclicrec.asp?p=80920,AWU745,http://www.sfc.hk/publicregWeb/indi/AWU745/licenceRecord,,M,Rep,2019-11-26,
+"Hui, Ka Yiu 許家耀",None,sfclicrec.asp?p=2403235,BFA961,http://www.sfc.hk/publicregWeb/indi/BFA961/licenceRecord,,,Rep,2018-08-16,
+"Law, Sze Ho 羅思豪",None,sfclicrec.asp?p=2591166,BER891,http://www.sfc.hk/publicregWeb/indi/BER891/licenceRecord,,,Rep,2015-01-14,2017-01-23
+"Law, Sze Ho 羅思豪",None,sfclicrec.asp?p=2591166,BER891,http://www.sfc.hk/publicregWeb/indi/BER891/licenceRecord,,,RO,2017-01-23,
+"Li, Can (SFC:BBU883) 李灿",None,sfclicrec.asp?p=2591163,BBU883,http://www.sfc.hk/publicregWeb/indi/BBU883/licenceRecord,,,RO,2014-03-19,2017-04-05
+"Liang, Ziyang (SFC:BOT071) 梁子揚",None,sfclicrec.asp?p=23616756,BOT071,http://www.sfc.hk/publicregWeb/indi/BOT071/licenceRecord,,,Rep,2019-09-03,
+"Shi, Lin (SFC:BBU884) 石林",None,sfclicrec.asp?p=2591164,BBU884,http://www.sfc.hk/publicregWeb/indi/BBU884/licenceRecord,,,RO,2014-03-19,
+"Sun, Ning (SFC:BID332) 孫寧",None,sfclicrec.asp?p=2628804,BID332,http://www.sfc.hk/publicregWeb/indi/BID332/licenceRecord,,,Rep,2016-09-05,2016-11-17
+"Wan, Johnson 雲浚淳",None,sfclicrec.asp?p=124447,AQN189,http://www.sfc.hk/publicregWeb/indi/AQN189/licenceRecord,,M,Rep,2019-08-07,
+"Wong, Christopher (SFC:BAH614) 黃務軒",None,sfclicrec.asp?p=1988629,BAH614,http://www.sfc.hk/publicregWeb/indi/BAH614/licenceRecord,,M,Rep,2016-10-11,

@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bate, Paul William ",sfclicrec.asp?p=108801,,M,RO,2008-10-28,
-"Foot, Martin Kevin ",sfclicrec.asp?p=116070,,M,RO,2008-10-28,2011-07-01
-"Foot, Martin Kevin ",sfclicrec.asp?p=116070,,M,RO,2013-01-09,2018-09-30
-"Hou, Haiyan ",sfclicrec.asp?p=131399,,,RO,2011-07-15,2016-04-15
-"Lee, Oi Suen 李藹璇",sfclicrec.asp?p=18113016,,,Rep,2018-06-29,2018-07-19
-"Lee, Oi Suen 李藹璇",sfclicrec.asp?p=18113016,,,RO,2018-07-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bate, Paul William ",None,sfclicrec.asp?p=108801,AGG681,http://www.sfc.hk/publicregWeb/indi/AGG681/licenceRecord,,M,RO,2008-10-28,
+"Foot, Martin Kevin ",None,sfclicrec.asp?p=116070,AMB401,http://www.sfc.hk/publicregWeb/indi/AMB401/licenceRecord,,M,RO,2008-10-28,2011-07-01
+"Foot, Martin Kevin ",None,sfclicrec.asp?p=116070,AMB401,http://www.sfc.hk/publicregWeb/indi/AMB401/licenceRecord,,M,RO,2013-01-09,2018-09-30
+"Hou, Haiyan ",None,sfclicrec.asp?p=131399,AXP549,http://www.sfc.hk/publicregWeb/indi/AXP549/licenceRecord,,,RO,2011-07-15,2016-04-15
+"Lee, Oi Suen 李藹璇",None,sfclicrec.asp?p=18113016,AXZ054,http://www.sfc.hk/publicregWeb/indi/AXZ054/licenceRecord,,,Rep,2018-06-29,2018-07-19
+"Lee, Oi Suen 李藹璇",None,sfclicrec.asp?p=18113016,AXZ054,http://www.sfc.hk/publicregWeb/indi/AXZ054/licenceRecord,,,RO,2018-07-19,

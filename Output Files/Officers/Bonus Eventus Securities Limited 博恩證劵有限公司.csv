@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Pui Ling 鄭佩玲",sfclicrec.asp?p=2656749,,,Rep,2016-11-10,
-"Chow, Chung Wai 周頌偉",sfclicrec.asp?p=73816,,,RO,2015-11-03,
-"Ho, Kwok Wai (SFC:ACZ323) 何國偉",sfclicrec.asp?p=82630,,,Rep,2016-11-04,
-"Kwok, Pak Kuen 郭柏權",sfclicrec.asp?p=2656750,,,Rep,2016-11-10,2017-02-13
-"Lai, Cheuk Ho (SFC:AWG920) 賴卓豪",sfclicrec.asp?p=130529,,,Rep,2016-08-17,
-"Lai, Hok Yin 賴學賢",sfclicrec.asp?p=97653,,M,RO,2015-11-03,
-"Lam, Ming Kai 林明佳",sfclicrec.asp?p=82220,,,Rep,2016-09-12,
-"Leung, Kai Chun 梁啟俊",sfclicrec.asp?p=82254,,,Rep,2016-09-14,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Pui Ling 鄭佩玲",None,sfclicrec.asp?p=2656749,BIM381,http://www.sfc.hk/publicregWeb/indi/BIM381/licenceRecord,,,Rep,2016-11-10,
+"Chow, Chung Wai 周頌偉",None,sfclicrec.asp?p=73816,AGF951,http://www.sfc.hk/publicregWeb/indi/AGF951/licenceRecord,,,RO,2015-11-03,
+"Ho, Kwok Wai (SFC:ACZ323) 何國偉",None,sfclicrec.asp?p=82630,ACZ323,http://www.sfc.hk/publicregWeb/indi/ACZ323/licenceRecord,,,Rep,2016-11-04,
+"Kwok, Pak Kuen 郭柏權",None,sfclicrec.asp?p=2656750,BIM405,http://www.sfc.hk/publicregWeb/indi/BIM405/licenceRecord,,,Rep,2016-11-10,2017-02-13
+"Lai, Cheuk Ho (SFC:AWG920) 賴卓豪",None,sfclicrec.asp?p=130529,AWG920,http://www.sfc.hk/publicregWeb/indi/AWG920/licenceRecord,,,Rep,2016-08-17,
+"Lai, Hok Yin 賴學賢",None,sfclicrec.asp?p=97653,AAB545,http://www.sfc.hk/publicregWeb/indi/AAB545/licenceRecord,,M,RO,2015-11-03,
+"Lam, Ming Kai 林明佳",None,sfclicrec.asp?p=82220,AMH584,http://www.sfc.hk/publicregWeb/indi/AMH584/licenceRecord,,,Rep,2016-09-12,
+"Leung, Kai Chun 梁啟俊",None,sfclicrec.asp?p=82254,APK360,http://www.sfc.hk/publicregWeb/indi/APK360/licenceRecord,,,Rep,2016-09-14,

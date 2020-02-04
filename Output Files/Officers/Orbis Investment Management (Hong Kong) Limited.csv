@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Das, Saurav (SFC:BII100) ",sfclicrec.asp?p=22431299,,,RO,2016-10-31,
-"Lu, Ming Ju 呂明儒",sfclicrec.asp?p=22431300,,,RO,2016-10-31,
-"Magnusson, Dan Stefan ",sfclicrec.asp?p=22428939,,M,RO,2014-05-14,
-"Tan, Eugene ",sfclicrec.asp?p=23995725,,M,RO,2019-12-06,
-"Tokikuni, Tsukasa 時国司",sfclicrec.asp?p=22428937,,,RO,2014-05-14,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Das, Saurav (SFC:BII100) ",None,sfclicrec.asp?p=22431299,BII100,http://www.sfc.hk/publicregWeb/indi/BII100/licenceRecord,,,RO,2016-10-31,
+"Lu, Ming Ju 呂明儒",None,sfclicrec.asp?p=22431300,BII102,http://www.sfc.hk/publicregWeb/indi/BII102/licenceRecord,,,RO,2016-10-31,
+"Magnusson, Dan Stefan ",None,sfclicrec.asp?p=22428939,BCU040,http://www.sfc.hk/publicregWeb/indi/BCU040/licenceRecord,,M,RO,2014-05-14,
+"Tan, Eugene ",None,sfclicrec.asp?p=23995725,BJY932,http://www.sfc.hk/publicregWeb/indi/BJY932/licenceRecord,,M,RO,2019-12-06,
+"Tokikuni, Tsukasa 時国司",None,sfclicrec.asp?p=22428937,BCU035,http://www.sfc.hk/publicregWeb/indi/BCU035/licenceRecord,,,RO,2014-05-14,

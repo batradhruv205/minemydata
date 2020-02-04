@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ficheux, Veronique Marcelle ",sfclicrec.asp?p=102629,,,RO,2013-08-13,2015-09-04
-"Fisher, Jeffery Michael ",sfclicrec.asp?p=115585,,M,RO,2013-08-13,2015-01-26
-"Ge, Pei Kun 葛培堃",sfclicrec.asp?p=12850985,,,Rep,2018-03-14,
-"Han, Shiyun 韓士筠",sfclicrec.asp?p=2461815,,,Rep,2015-08-13,2016-12-20
-"Han, Shiyun 韓士筠",sfclicrec.asp?p=2461815,,,RO,2016-12-20,
-"Lau, On Hong 劉安康",sfclicrec.asp?p=103115,,,RO,2016-02-16,
-"Li, Wan Chau 李雲舟",sfclicrec.asp?p=2290004,,,Rep,2018-03-01,2018-12-31
-"Ma, Alisha Hsiao-Hung 馬奕彤",sfclicrec.asp?p=115969,,,RO,2013-08-13,2017-01-02
-"Ma, Steve Yuk Fat 馬玉發",sfclicrec.asp?p=96201,,M,RO,2017-01-18,
-"Poon, Louis Lok Ming 潘樂鳴",sfclicrec.asp?p=84300,,M,Rep,2014-06-10,2014-07-18
-"Poon, Louis Lok Ming 潘樂鳴",sfclicrec.asp?p=84300,,M,RO,2014-07-18,2014-08-14
-"Xiong, Minan 熊民安",sfclicrec.asp?p=1888495,,,RO,2013-09-10,2014-02-17
-"Xiong, Minan 熊民安",sfclicrec.asp?p=1888495,,,RO,2015-02-27,2016-07-04
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ficheux, Veronique Marcelle ",None,sfclicrec.asp?p=102629,ACC804,http://www.sfc.hk/publicregWeb/indi/ACC804/licenceRecord,,,RO,2013-08-13,2015-09-04
+"Fisher, Jeffery Michael ",None,sfclicrec.asp?p=115585,ALV246,http://www.sfc.hk/publicregWeb/indi/ALV246/licenceRecord,,M,RO,2013-08-13,2015-01-26
+"Ge, Pei Kun 葛培堃",None,sfclicrec.asp?p=12850985,BMO308,http://www.sfc.hk/publicregWeb/indi/BMO308/licenceRecord,,,Rep,2018-03-14,
+"Han, Shiyun 韓士筠",None,sfclicrec.asp?p=2461815,BBK290,http://www.sfc.hk/publicregWeb/indi/BBK290/licenceRecord,,,Rep,2015-08-13,2016-12-20
+"Han, Shiyun 韓士筠",None,sfclicrec.asp?p=2461815,BBK290,http://www.sfc.hk/publicregWeb/indi/BBK290/licenceRecord,,,RO,2016-12-20,
+"Lau, On Hong 劉安康",None,sfclicrec.asp?p=103115,ACO909,http://www.sfc.hk/publicregWeb/indi/ACO909/licenceRecord,,,RO,2016-02-16,
+"Li, Wan Chau 李雲舟",None,sfclicrec.asp?p=2290004,BDR015,http://www.sfc.hk/publicregWeb/indi/BDR015/licenceRecord,,,Rep,2018-03-01,2018-12-31
+"Ma, Alisha Hsiao-Hung 馬奕彤",None,sfclicrec.asp?p=115969,ALZ814,http://www.sfc.hk/publicregWeb/indi/ALZ814/licenceRecord,,,RO,2013-08-13,2017-01-02
+"Ma, Steve Yuk Fat 馬玉發",None,sfclicrec.asp?p=96201,AEH688,http://www.sfc.hk/publicregWeb/indi/AEH688/licenceRecord,,M,RO,2017-01-18,
+"Poon, Louis Lok Ming 潘樂鳴",None,sfclicrec.asp?p=84300,AFO678,http://www.sfc.hk/publicregWeb/indi/AFO678/licenceRecord,,M,Rep,2014-06-10,2014-07-18
+"Poon, Louis Lok Ming 潘樂鳴",None,sfclicrec.asp?p=84300,AFO678,http://www.sfc.hk/publicregWeb/indi/AFO678/licenceRecord,,M,RO,2014-07-18,2014-08-14
+"Xiong, Minan 熊民安",None,sfclicrec.asp?p=1888495,AYW263,http://www.sfc.hk/publicregWeb/indi/AYW263/licenceRecord,,,RO,2013-09-10,2014-02-17
+"Xiong, Minan 熊民安",None,sfclicrec.asp?p=1888495,AYW263,http://www.sfc.hk/publicregWeb/indi/AYW263/licenceRecord,,,RO,2015-02-27,2016-07-04

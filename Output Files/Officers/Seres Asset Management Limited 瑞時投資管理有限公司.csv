@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bhargava, Nalin ",sfclicrec.asp?p=129639,,,Rep,2011-03-08,2013-04-22
-"Bhargava, Nalin ",sfclicrec.asp?p=129639,,,RO,2013-04-22,2016-04-29
-"Bryant, David Clifford ",sfclicrec.asp?p=129242,,M,RO,2010-12-23,2017-03-21
-"Chen, Lin (SFC:AOX336) 陳林",sfclicrec.asp?p=121411,,,Rep,2011-04-04,2013-10-25
-"Erlanson, Evan Harmon ",sfclicrec.asp?p=106678,,M,RO,2010-04-14,
-"Fallon, James Thomas ",sfclicrec.asp?p=87561,,M,Rep,2014-05-15,2017-10-20
-"Henderson, Scott Michael ",sfclicrec.asp?p=125040,,M,Rep,2011-11-01,2014-06-20
-"Lam, Alice Shem Ling 藍琛玲",sfclicrec.asp?p=131389,,F,Rep,2011-07-12,2011-08-19
-"Lau, So On 劉素安",sfclicrec.asp?p=126753,,,Rep,2011-05-27,2013-11-29
-"Lu, Yungang 陸運剛",sfclicrec.asp?p=109520,,,RO,2010-04-14,2017-07-17
-"Rhee, James Kwanwoo 李寬雨",sfclicrec.asp?p=108058,,M,Rep,2016-07-18,2017-07-07
-"Rhee, James Kwanwoo 李寬雨",sfclicrec.asp?p=108058,,M,RO,2017-07-07,
-"Tsoi, Sze Yeung 蔡斯洋",sfclicrec.asp?p=124198,,,Rep,2011-03-11,2014-07-11
-"Yamane, Masaaki 山根正明",sfclicrec.asp?p=2286673,,,Rep,2014-06-26,2015-09-07
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bhargava, Nalin ",None,sfclicrec.asp?p=129639,AVA353,http://www.sfc.hk/publicregWeb/indi/AVA353/licenceRecord,,,Rep,2011-03-08,2013-04-22
+"Bhargava, Nalin ",None,sfclicrec.asp?p=129639,AVA353,http://www.sfc.hk/publicregWeb/indi/AVA353/licenceRecord,,,RO,2013-04-22,2016-04-29
+"Bryant, David Clifford ",None,sfclicrec.asp?p=129242,AUP893,http://www.sfc.hk/publicregWeb/indi/AUP893/licenceRecord,,M,RO,2010-12-23,2017-03-21
+"Chen, Lin (SFC:AOX336) 陳林",None,sfclicrec.asp?p=121411,AOX336,http://www.sfc.hk/publicregWeb/indi/AOX336/licenceRecord,,,Rep,2011-04-04,2013-10-25
+"Erlanson, Evan Harmon ",None,sfclicrec.asp?p=106678,AFM266,http://www.sfc.hk/publicregWeb/indi/AFM266/licenceRecord,,M,RO,2010-04-14,
+"Fallon, James Thomas ",None,sfclicrec.asp?p=87561,AMX827,http://www.sfc.hk/publicregWeb/indi/AMX827/licenceRecord,,M,Rep,2014-05-15,2017-10-20
+"Henderson, Scott Michael ",None,sfclicrec.asp?p=125040,AQU952,http://www.sfc.hk/publicregWeb/indi/AQU952/licenceRecord,,M,Rep,2011-11-01,2014-06-20
+"Lam, Alice Shem Ling 藍琛玲",None,sfclicrec.asp?p=131389,AXO114,http://www.sfc.hk/publicregWeb/indi/AXO114/licenceRecord,,F,Rep,2011-07-12,2011-08-19
+"Lau, So On 劉素安",None,sfclicrec.asp?p=126753,ARQ251,http://www.sfc.hk/publicregWeb/indi/ARQ251/licenceRecord,,,Rep,2011-05-27,2013-11-29
+"Lu, Yungang 陸運剛",None,sfclicrec.asp?p=109520,AGN616,http://www.sfc.hk/publicregWeb/indi/AGN616/licenceRecord,,,RO,2010-04-14,2017-07-17
+"Rhee, James Kwanwoo 李寬雨",None,sfclicrec.asp?p=108058,AFY551,http://www.sfc.hk/publicregWeb/indi/AFY551/licenceRecord,,M,Rep,2016-07-18,2017-07-07
+"Rhee, James Kwanwoo 李寬雨",None,sfclicrec.asp?p=108058,AFY551,http://www.sfc.hk/publicregWeb/indi/AFY551/licenceRecord,,M,RO,2017-07-07,
+"Tsoi, Sze Yeung 蔡斯洋",None,sfclicrec.asp?p=124198,AQI788,http://www.sfc.hk/publicregWeb/indi/AQI788/licenceRecord,,,Rep,2011-03-11,2014-07-11
+"Yamane, Masaaki 山根正明",None,sfclicrec.asp?p=2286673,BDM387,http://www.sfc.hk/publicregWeb/indi/BDM387/licenceRecord,,,Rep,2014-06-26,2015-09-07

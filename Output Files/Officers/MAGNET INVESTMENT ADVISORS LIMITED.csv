@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chang, Che Chung 張志聰",sfclicrec.asp?p=88762,,,Rep,2014-02-05,2014-04-08
-"Chang, Che Chung 張志聰",sfclicrec.asp?p=88762,,,RO,2014-04-08,2019-10-04
-"Chang, Che Chung 張志聰",sfclicrec.asp?p=88762,,,Rep,2019-10-04,2019-10-08
-"De Tilly-Blaru, Georges Marie ",sfclicrec.asp?p=102521,,F,RO,2005-11-11,
-"Favre, Robin Georges Flavien ",sfclicrec.asp?p=118871,,M,Rep,2019-10-04,
-"Grosperrin, Christophe Eric Pascal ",sfclicrec.asp?p=116248,,M,RO,2005-11-11,2018-05-15
-"Hatch, Jonathan Lee ",sfclicrec.asp?p=2049301,,M,RO,2013-04-10,2015-10-31
-"Heung, Yuk King 香玉琼",sfclicrec.asp?p=129669,,,Rep,2010-11-04,2011-03-31
-"Lamotte, Mattias Ivan ",sfclicrec.asp?p=112591,,M,RO,2017-04-21,
-"Shum, Shuk Yee 沈淑怡",sfclicrec.asp?p=2349837,,,Rep,2014-11-24,2016-11-04
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chang, Che Chung 張志聰",None,sfclicrec.asp?p=88762,AVH886,http://www.sfc.hk/publicregWeb/indi/AVH886/licenceRecord,,,Rep,2014-02-05,2014-04-08
+"Chang, Che Chung 張志聰",None,sfclicrec.asp?p=88762,AVH886,http://www.sfc.hk/publicregWeb/indi/AVH886/licenceRecord,,,RO,2014-04-08,2019-10-04
+"Chang, Che Chung 張志聰",None,sfclicrec.asp?p=88762,AVH886,http://www.sfc.hk/publicregWeb/indi/AVH886/licenceRecord,,,Rep,2019-10-04,2019-10-08
+"De Tilly-Blaru, Georges Marie ",None,sfclicrec.asp?p=102521,ACA331,http://www.sfc.hk/publicregWeb/indi/ACA331/licenceRecord,,F,RO,2005-11-11,
+"Favre, Robin Georges Flavien ",None,sfclicrec.asp?p=118871,ANP295,http://www.sfc.hk/publicregWeb/indi/ANP295/licenceRecord,,M,Rep,2019-10-04,
+"Grosperrin, Christophe Eric Pascal ",None,sfclicrec.asp?p=116248,AME536,http://www.sfc.hk/publicregWeb/indi/AME536/licenceRecord,,M,RO,2005-11-11,2018-05-15
+"Hatch, Jonathan Lee ",None,sfclicrec.asp?p=2049301,BAK708,http://www.sfc.hk/publicregWeb/indi/BAK708/licenceRecord,,M,RO,2013-04-10,2015-10-31
+"Heung, Yuk King 香玉琼",None,sfclicrec.asp?p=129669,AVA791,http://www.sfc.hk/publicregWeb/indi/AVA791/licenceRecord,,,Rep,2010-11-04,2011-03-31
+"Lamotte, Mattias Ivan ",None,sfclicrec.asp?p=112591,AIY481,http://www.sfc.hk/publicregWeb/indi/AIY481/licenceRecord,,M,RO,2017-04-21,
+"Shum, Shuk Yee 沈淑怡",None,sfclicrec.asp?p=2349837,BEJ593,http://www.sfc.hk/publicregWeb/indi/BEJ593/licenceRecord,,,Rep,2014-11-24,2016-11-04

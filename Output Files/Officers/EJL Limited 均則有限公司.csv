@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Feng, Zhongyang 馮鍾揚",sfclicrec.asp?p=116177,,,RO,2017-01-26,
-"Li, Weiwei (SFC:AXR088) 李薇薇",sfclicrec.asp?p=78785,,,Rep,2019-05-30,2019-08-19
-"Li, Weiwei (SFC:AXR088) 李薇薇",sfclicrec.asp?p=78785,,,RO,2019-08-19,
-"Li, Yu (SFC:BIJ023) 李彧",sfclicrec.asp?p=2692056,,,RO,2017-01-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Feng, Zhongyang 馮鍾揚",None,sfclicrec.asp?p=116177,AMD115,http://www.sfc.hk/publicregWeb/indi/AMD115/licenceRecord,,,RO,2017-01-26,
+"Li, Weiwei (SFC:AXR088) 李薇薇",None,sfclicrec.asp?p=78785,AXR088,http://www.sfc.hk/publicregWeb/indi/AXR088/licenceRecord,,,Rep,2019-05-30,2019-08-19
+"Li, Weiwei (SFC:AXR088) 李薇薇",None,sfclicrec.asp?p=78785,AXR088,http://www.sfc.hk/publicregWeb/indi/AXR088/licenceRecord,,,RO,2019-08-19,
+"Li, Yu (SFC:BIJ023) 李彧",None,sfclicrec.asp?p=2692056,BIJ023,http://www.sfc.hk/publicregWeb/indi/BIJ023/licenceRecord,,,RO,2017-01-26,

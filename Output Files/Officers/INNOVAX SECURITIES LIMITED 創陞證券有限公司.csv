@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Ka Lai (SFC:ASZ668) 陳家澧",sfclicrec.asp?p=128009,,,Rep,2017-06-26,
-"Chan, Lung Sang (SFC:AUA794) 陳龍生",sfclicrec.asp?p=68710,,,RO,2017-04-19,2017-09-01
-"Chau, Amy Lok Yuen 周樂宛",sfclicrec.asp?p=73109,,F,RO,2017-04-19,
-"Cheung, Ka Man (SFC:BFZ630) 張嘉雯",sfclicrec.asp?p=2462453,,,Rep,2017-06-16,2018-05-08
-"Dai, Li (SFC:BKA428) 戴力",sfclicrec.asp?p=12684169,,,Rep,2018-06-29,2020-01-21
-"Ho, Kam To 何金濤",sfclicrec.asp?p=12073054,,,Rep,2017-09-26,
-"Lam, Edward Wai Hong 林偉康",sfclicrec.asp?p=73182,,M,Rep,2017-12-14,2018-03-29
-"Lam, Edward Wai Hong 林偉康",sfclicrec.asp?p=73182,,M,RO,2018-03-29,
-"Mok, Wai Kei 莫偉基",sfclicrec.asp?p=11783324,,,Rep,2017-07-31,
-"Pang, Amina Mei Yan 彭渼茵",sfclicrec.asp?p=13213772,,F,Rep,2018-03-26,
-"Sin, Man Kai 冼文佳",sfclicrec.asp?p=68872,,,Rep,2019-05-16,
-"So, Hin Pong 蘇顯邦",sfclicrec.asp?p=73144,63,M,RO,2017-04-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Ka Lai (SFC:ASZ668) 陳家澧",None,sfclicrec.asp?p=128009,ASZ668,http://www.sfc.hk/publicregWeb/indi/ASZ668/licenceRecord,,,Rep,2017-06-26,
+"Chan, Lung Sang (SFC:AUA794) 陳龍生",None,sfclicrec.asp?p=68710,AUA794,http://www.sfc.hk/publicregWeb/indi/AUA794/licenceRecord,,,RO,2017-04-19,2017-09-01
+"Chau, Amy Lok Yuen 周樂宛",None,sfclicrec.asp?p=73109,AQF112,http://www.sfc.hk/publicregWeb/indi/AQF112/licenceRecord,,F,RO,2017-04-19,
+"Cheung, Ka Man (SFC:BFZ630) 張嘉雯",None,sfclicrec.asp?p=2462453,BFZ630,http://www.sfc.hk/publicregWeb/indi/BFZ630/licenceRecord,,,Rep,2017-06-16,2018-05-08
+"Dai, Li (SFC:BKA428) 戴力",None,sfclicrec.asp?p=12684169,BKA428,http://www.sfc.hk/publicregWeb/indi/BKA428/licenceRecord,,,Rep,2018-06-29,2020-01-21
+"Ho, Kam To 何金濤",None,sfclicrec.asp?p=12073054,BLA401,http://www.sfc.hk/publicregWeb/indi/BLA401/licenceRecord,,,Rep,2017-09-26,
+"Lam, Edward Wai Hong 林偉康",None,sfclicrec.asp?p=73182,AFU656,http://www.sfc.hk/publicregWeb/indi/AFU656/licenceRecord,,M,Rep,2017-12-14,2018-03-29
+"Lam, Edward Wai Hong 林偉康",None,sfclicrec.asp?p=73182,AFU656,http://www.sfc.hk/publicregWeb/indi/AFU656/licenceRecord,,M,RO,2018-03-29,
+"Mok, Wai Kei 莫偉基",None,sfclicrec.asp?p=11783324,BKD644,http://www.sfc.hk/publicregWeb/indi/BKD644/licenceRecord,,,Rep,2017-07-31,
+"Pang, Amina Mei Yan 彭渼茵",None,sfclicrec.asp?p=13213772,ADS752,http://www.sfc.hk/publicregWeb/indi/ADS752/licenceRecord,,F,Rep,2018-03-26,
+"Sin, Man Kai 冼文佳",None,sfclicrec.asp?p=68872,ANB147,http://www.sfc.hk/publicregWeb/indi/ANB147/licenceRecord,,,Rep,2019-05-16,
+"So, Hin Pong 蘇顯邦",None,sfclicrec.asp?p=73144,AAF507,http://www.sfc.hk/publicregWeb/indi/AAF507/licenceRecord,63.0,M,RO,2017-04-19,

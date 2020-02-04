@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Aarons, Christopher James ",sfclicrec.asp?p=129097,,M,RO,2010-02-01,
-"Arnavut, Alev Mete ",sfclicrec.asp?p=2339223,,,Rep,2017-02-27,
-"Bayes, Jonathan Sutton ",sfclicrec.asp?p=130724,,M,Rep,2011-01-10,2011-08-18
-"Bayes, Jonathan Sutton ",sfclicrec.asp?p=130724,,M,RO,2011-08-18,2012-03-31
-"Edwards, Alexander Tristan ",sfclicrec.asp?p=129098,,M,RO,2010-02-01,2010-12-31
-"Gove, Jennifer Anne ",sfclicrec.asp?p=129352,,F,Rep,2010-03-04,2010-07-05
-"Hickman, Laura Katherine ",sfclicrec.asp?p=1909016,,F,Rep,2012-06-11,2015-09-18
-"Lewin, Hanna ",sfclicrec.asp?p=1956668,,F,Rep,2014-02-12,
-"Millard, Michael Ashley ",sfclicrec.asp?p=129785,,M,Rep,2010-05-26,2010-12-30
-"Millard, Michael Ashley ",sfclicrec.asp?p=129785,,M,RO,2010-12-30,2017-02-11
-"Scott, Andrew David (SFC:AVR983) ",sfclicrec.asp?p=88339,,M,Rep,2015-10-30,
-"Scott, Julian Bowd ",sfclicrec.asp?p=89530,,M,Rep,2014-10-14,2015-12-31
-"Smith, Anthony Graham ",sfclicrec.asp?p=2329718,,M,RO,2014-10-08,2015-03-06
-"Szwagrzak, Richard Conrad ",sfclicrec.asp?p=2515286,,M,RO,2015-12-17,
-"Upton, Adam Boyd ",sfclicrec.asp?p=84502,,M,Rep,2014-10-14,2017-09-29
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Aarons, Christopher James ",None,sfclicrec.asp?p=129097,AUJ530,http://www.sfc.hk/publicregWeb/indi/AUJ530/licenceRecord,,M,RO,2010-02-01,
+"Arnavut, Alev Mete ",None,sfclicrec.asp?p=2339223,BEJ792,http://www.sfc.hk/publicregWeb/indi/BEJ792/licenceRecord,,,Rep,2017-02-27,
+"Bayes, Jonathan Sutton ",None,sfclicrec.asp?p=130724,AWP415,http://www.sfc.hk/publicregWeb/indi/AWP415/licenceRecord,,M,Rep,2011-01-10,2011-08-18
+"Bayes, Jonathan Sutton ",None,sfclicrec.asp?p=130724,AWP415,http://www.sfc.hk/publicregWeb/indi/AWP415/licenceRecord,,M,RO,2011-08-18,2012-03-31
+"Edwards, Alexander Tristan ",None,sfclicrec.asp?p=129098,AUJ531,http://www.sfc.hk/publicregWeb/indi/AUJ531/licenceRecord,,M,RO,2010-02-01,2010-12-31
+"Gove, Jennifer Anne ",None,sfclicrec.asp?p=129352,AUS998,http://www.sfc.hk/publicregWeb/indi/AUS998/licenceRecord,,F,Rep,2010-03-04,2010-07-05
+"Hickman, Laura Katherine ",None,sfclicrec.asp?p=1909016,AZQ887,http://www.sfc.hk/publicregWeb/indi/AZQ887/licenceRecord,,F,Rep,2012-06-11,2015-09-18
+"Lewin, Hanna ",None,sfclicrec.asp?p=1956668,BAF193,http://www.sfc.hk/publicregWeb/indi/BAF193/licenceRecord,,F,Rep,2014-02-12,
+"Millard, Michael Ashley ",None,sfclicrec.asp?p=129785,AVE807,http://www.sfc.hk/publicregWeb/indi/AVE807/licenceRecord,,M,Rep,2010-05-26,2010-12-30
+"Millard, Michael Ashley ",None,sfclicrec.asp?p=129785,AVE807,http://www.sfc.hk/publicregWeb/indi/AVE807/licenceRecord,,M,RO,2010-12-30,2017-02-11
+"Scott, Andrew David (SFC:AVR983) ",None,sfclicrec.asp?p=88339,AVR983,http://www.sfc.hk/publicregWeb/indi/AVR983/licenceRecord,,M,Rep,2015-10-30,
+"Scott, Julian Bowd ",None,sfclicrec.asp?p=89530,AVF123,http://www.sfc.hk/publicregWeb/indi/AVF123/licenceRecord,,M,Rep,2014-10-14,2015-12-31
+"Smith, Anthony Graham ",None,sfclicrec.asp?p=2329718,BDV584,http://www.sfc.hk/publicregWeb/indi/BDV584/licenceRecord,,M,RO,2014-10-08,2015-03-06
+"Szwagrzak, Richard Conrad ",None,sfclicrec.asp?p=2515286,AUJ714,http://www.sfc.hk/publicregWeb/indi/AUJ714/licenceRecord,,M,RO,2015-12-17,
+"Upton, Adam Boyd ",None,sfclicrec.asp?p=84502,AOS564,http://www.sfc.hk/publicregWeb/indi/AOS564/licenceRecord,,M,Rep,2014-10-14,2017-09-29

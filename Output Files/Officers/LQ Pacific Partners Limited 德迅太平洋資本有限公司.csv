@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Edward Ling Wah 陳令華",sfclicrec.asp?p=111489,,M,RO,2019-01-31,2019-03-11
-"Chan, Justin Chang Yi 陳彰義",sfclicrec.asp?p=77206,,M,RO,2019-01-31,
-"Cheung, Ching Man (SFC:AXI346) 張政民",sfclicrec.asp?p=91563,,,Rep,2019-03-12,2019-04-03
-"Cheung, Ching Man (SFC:AXI346) 張政民",sfclicrec.asp?p=91563,,,RO,2019-04-03,
-"Wong, Yvonne Yuen Kee 王琬琪",sfclicrec.asp?p=105686,,F,RO,2019-01-31,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Edward Ling Wah 陳令華",None,sfclicrec.asp?p=111489,AHR464,http://www.sfc.hk/publicregWeb/indi/AHR464/licenceRecord,,M,RO,2019-01-31,2019-03-11
+"Chan, Justin Chang Yi 陳彰義",None,sfclicrec.asp?p=77206,ARL414,http://www.sfc.hk/publicregWeb/indi/ARL414/licenceRecord,,M,RO,2019-01-31,
+"Cheung, Ching Man (SFC:AXI346) 張政民",None,sfclicrec.asp?p=91563,AXI346,http://www.sfc.hk/publicregWeb/indi/AXI346/licenceRecord,,,Rep,2019-03-12,2019-04-03
+"Cheung, Ching Man (SFC:AXI346) 張政民",None,sfclicrec.asp?p=91563,AXI346,http://www.sfc.hk/publicregWeb/indi/AXI346/licenceRecord,,,RO,2019-04-03,
+"Wong, Yvonne Yuen Kee 王琬琪",None,sfclicrec.asp?p=105686,AEZ573,http://www.sfc.hk/publicregWeb/indi/AEZ573/licenceRecord,,F,RO,2019-01-31,

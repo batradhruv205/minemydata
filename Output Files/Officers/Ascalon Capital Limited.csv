@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bendle, Katarina Elizabeth ",sfclicrec.asp?p=94018,,F,Rep,2013-05-20,2016-11-17
-"Bendle, Katarina Elizabeth ",sfclicrec.asp?p=94018,,F,RO,2016-11-17,2018-05-31
-"Chan, Chuak Hoan 陳澤鴻",sfclicrec.asp?p=106853,,,RO,2012-04-11,
-"Chan, Wan Yin Ada 陳韻妍",sfclicrec.asp?p=22763442,,,Rep,2019-04-08,
-"Collins, Jason Matthew ",sfclicrec.asp?p=1965067,,M,RO,2012-10-11,2013-04-19
-"Hutson, Andrew Richard ",sfclicrec.asp?p=124377,,M,Rep,2012-06-27,2013-04-23
-"Hutson, Andrew Richard ",sfclicrec.asp?p=124377,,M,RO,2013-04-23,2019-02-08
-"Lance, Robert Waldo ",sfclicrec.asp?p=47300,,M,RO,2014-01-15,2016-03-08
-"Landman, Andrew Raymond ",sfclicrec.asp?p=1875866,,M,RO,2012-04-11,2012-10-11
-"Pang, Ving Chor Lucille 彭穎楚",sfclicrec.asp?p=2357322,,,Rep,2014-12-10,2018-04-26
-"Schollum, Myo Wai ",sfclicrec.asp?p=77528,,,RO,2019-03-20,
-"Trabaud, Eva ",sfclicrec.asp?p=12196535,,F,Rep,2017-10-27,2019-03-29
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bendle, Katarina Elizabeth ",None,sfclicrec.asp?p=94018,AQU966,http://www.sfc.hk/publicregWeb/indi/AQU966/licenceRecord,,F,Rep,2013-05-20,2016-11-17
+"Bendle, Katarina Elizabeth ",None,sfclicrec.asp?p=94018,AQU966,http://www.sfc.hk/publicregWeb/indi/AQU966/licenceRecord,,F,RO,2016-11-17,2018-05-31
+"Chan, Chuak Hoan 陳澤鴻",None,sfclicrec.asp?p=106853,AFN605,http://www.sfc.hk/publicregWeb/indi/AFN605/licenceRecord,,,RO,2012-04-11,
+"Chan, Wan Yin Ada 陳韻妍",None,sfclicrec.asp?p=22763442,BOB271,http://www.sfc.hk/publicregWeb/indi/BOB271/licenceRecord,,,Rep,2019-04-08,
+"Collins, Jason Matthew ",None,sfclicrec.asp?p=1965067,AZW777,http://www.sfc.hk/publicregWeb/indi/AZW777/licenceRecord,,M,RO,2012-10-11,2013-04-19
+"Hutson, Andrew Richard ",None,sfclicrec.asp?p=124377,AQM255,http://www.sfc.hk/publicregWeb/indi/AQM255/licenceRecord,,M,Rep,2012-06-27,2013-04-23
+"Hutson, Andrew Richard ",None,sfclicrec.asp?p=124377,AQM255,http://www.sfc.hk/publicregWeb/indi/AQM255/licenceRecord,,M,RO,2013-04-23,2019-02-08
+"Lance, Robert Waldo ",None,sfclicrec.asp?p=47300,AEL830,http://www.sfc.hk/publicregWeb/indi/AEL830/licenceRecord,,M,RO,2014-01-15,2016-03-08
+"Landman, Andrew Raymond ",None,sfclicrec.asp?p=1875866,AYR800,http://www.sfc.hk/publicregWeb/indi/AYR800/licenceRecord,,M,RO,2012-04-11,2012-10-11
+"Pang, Ving Chor Lucille 彭穎楚",None,sfclicrec.asp?p=2357322,BEP078,http://www.sfc.hk/publicregWeb/indi/BEP078/licenceRecord,,,Rep,2014-12-10,2018-04-26
+"Schollum, Myo Wai ",None,sfclicrec.asp?p=77528,AMP186,http://www.sfc.hk/publicregWeb/indi/AMP186/licenceRecord,,,RO,2019-03-20,
+"Trabaud, Eva ",None,sfclicrec.asp?p=12196535,BLH215,http://www.sfc.hk/publicregWeb/indi/BLH215/licenceRecord,,F,Rep,2017-10-27,2019-03-29

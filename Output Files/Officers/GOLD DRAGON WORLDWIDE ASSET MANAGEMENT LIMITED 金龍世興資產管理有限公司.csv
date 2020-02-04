@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au, Bo Shan 區寶珊",sfclicrec.asp?p=99747,,,Rep,2018-05-23,2018-06-11
-"Au, Bo Shan 區寶珊",sfclicrec.asp?p=99747,,,RO,2018-06-11,2019-06-25
-"Chen J, Iayao 陳佳瑤",sfclicrec.asp?p=23397649,,,Rep,2019-07-05,
-"Kong, Wai Nga 江蕙雅",sfclicrec.asp?p=2412535,,,Rep,2019-06-06,2019-06-24
-"Kong, Wai Nga 江蕙雅",sfclicrec.asp?p=2412535,,,RO,2019-06-24,
-"Lam, Fu Ming 林富明",sfclicrec.asp?p=100323,,,RO,2018-03-12,2018-10-31
-"Lee, Wing Lam (SFC:BJL676) 李穎琳",sfclicrec.asp?p=8996747,,,Rep,2018-04-13,
-"Liang, Hao (SFC:BGU786) 梁昊",sfclicrec.asp?p=2526073,,,Rep,2018-05-08,2018-10-23
-"Liang, Hao (SFC:BGU786) 梁昊",sfclicrec.asp?p=2526073,,,RO,2018-10-23,
-"Sum, Poon Yun 岑本訢",sfclicrec.asp?p=104626,,M,RO,2017-11-30,2018-02-09
-"Sum, Stephen Nai Bun 岑乃彬",sfclicrec.asp?p=103143,,M,RO,2017-11-30,2018-07-31
-"Zhang, Liandong 張連東",sfclicrec.asp?p=23143349,,,Rep,2019-05-07,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au, Bo Shan 區寶珊",None,sfclicrec.asp?p=99747,ARE480,http://www.sfc.hk/publicregWeb/indi/ARE480/licenceRecord,,,Rep,2018-05-23,2018-06-11
+"Au, Bo Shan 區寶珊",None,sfclicrec.asp?p=99747,ARE480,http://www.sfc.hk/publicregWeb/indi/ARE480/licenceRecord,,,RO,2018-06-11,2019-06-25
+"Chen J, Iayao 陳佳瑤",None,sfclicrec.asp?p=23397649,BOJ665,http://www.sfc.hk/publicregWeb/indi/BOJ665/licenceRecord,,,Rep,2019-07-05,
+"Kong, Wai Nga 江蕙雅",None,sfclicrec.asp?p=2412535,BFE188,http://www.sfc.hk/publicregWeb/indi/BFE188/licenceRecord,,,Rep,2019-06-06,2019-06-24
+"Kong, Wai Nga 江蕙雅",None,sfclicrec.asp?p=2412535,BFE188,http://www.sfc.hk/publicregWeb/indi/BFE188/licenceRecord,,,RO,2019-06-24,
+"Lam, Fu Ming 林富明",None,sfclicrec.asp?p=100323,ADW923,http://www.sfc.hk/publicregWeb/indi/ADW923/licenceRecord,,,RO,2018-03-12,2018-10-31
+"Lee, Wing Lam (SFC:BJL676) 李穎琳",None,sfclicrec.asp?p=8996747,BJL676,http://www.sfc.hk/publicregWeb/indi/BJL676/licenceRecord,,,Rep,2018-04-13,
+"Liang, Hao (SFC:BGU786) 梁昊",None,sfclicrec.asp?p=2526073,BGU786,http://www.sfc.hk/publicregWeb/indi/BGU786/licenceRecord,,,Rep,2018-05-08,2018-10-23
+"Liang, Hao (SFC:BGU786) 梁昊",None,sfclicrec.asp?p=2526073,BGU786,http://www.sfc.hk/publicregWeb/indi/BGU786/licenceRecord,,,RO,2018-10-23,
+"Sum, Poon Yun 岑本訢",None,sfclicrec.asp?p=104626,AED718,http://www.sfc.hk/publicregWeb/indi/AED718/licenceRecord,,M,RO,2017-11-30,2018-02-09
+"Sum, Stephen Nai Bun 岑乃彬",None,sfclicrec.asp?p=103143,ACP406,http://www.sfc.hk/publicregWeb/indi/ACP406/licenceRecord,,M,RO,2017-11-30,2018-07-31
+"Zhang, Liandong 張連東",None,sfclicrec.asp?p=23143349,BOC498,http://www.sfc.hk/publicregWeb/indi/BOC498/licenceRecord,,,Rep,2019-05-07,

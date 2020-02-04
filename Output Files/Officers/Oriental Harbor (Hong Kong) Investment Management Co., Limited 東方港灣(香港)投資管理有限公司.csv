@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Dan, Bin 但斌",sfclicrec.asp?p=2559758,,,RO,2015-01-15,
-"Lee, Jessica Yee-Man 李綺雯",sfclicrec.asp?p=81899,,F,Rep,2016-04-11,
-"Zhang, Min (SFC:BEC135) 張敏",sfclicrec.asp?p=2559759,,,RO,2015-01-15,
-"Zhou, Mingbo 周明波",sfclicrec.asp?p=124854,,,Rep,2016-04-12,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Dan, Bin 但斌",None,sfclicrec.asp?p=2559758,AQS568,http://www.sfc.hk/publicregWeb/indi/AQS568/licenceRecord,,,RO,2015-01-15,
+"Lee, Jessica Yee-Man 李綺雯",None,sfclicrec.asp?p=81899,AXH483,http://www.sfc.hk/publicregWeb/indi/AXH483/licenceRecord,,F,Rep,2016-04-11,
+"Zhang, Min (SFC:BEC135) 張敏",None,sfclicrec.asp?p=2559759,BEC135,http://www.sfc.hk/publicregWeb/indi/BEC135/licenceRecord,,,RO,2015-01-15,
+"Zhou, Mingbo 周明波",None,sfclicrec.asp?p=124854,AQS570,http://www.sfc.hk/publicregWeb/indi/AQS570/licenceRecord,,,Rep,2016-04-12,

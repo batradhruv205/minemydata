@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Warren Yui Kai 張睿佳",sfclicrec.asp?p=17362,53,M,RO,2014-07-15,2016-05-03
-"Chin, Sui Ying 錢瑞英",sfclicrec.asp?p=95732,,,RO,2014-07-15,2016-06-28
-"Choi, Phyllis Ho Yi 蔡可兒",sfclicrec.asp?p=73691,,F,RO,2017-07-03,
-"Lou, Ming 劉明",sfclicrec.asp?p=85452,48,M,RO,2017-07-03,2020-01-13
-"Wong, Kai Yu 黃啟宇",sfclicrec.asp?p=2431848,,,Rep,2017-11-03,2019-06-03
-"Yao, Jun (SFC:APJ554) 姚俊",sfclicrec.asp?p=122419,,,Rep,2014-12-09,2016-03-31
-"Yen, Chanan 霍震南",sfclicrec.asp?p=72016,41,M,RO,2017-08-28,2018-05-31
-"Zhang, Tingting (SFC:BFY402) 張婷婷",sfclicrec.asp?p=2474736,,,Rep,2017-12-22,2019-08-08
-"Zou, Deshi 鄒德仕",sfclicrec.asp?p=23587754,,,Rep,2019-08-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Warren Yui Kai 張睿佳",None,sfclicrec.asp?p=17362,ACX305,http://www.sfc.hk/publicregWeb/indi/ACX305/licenceRecord,53.0,M,RO,2014-07-15,2016-05-03
+"Chin, Sui Ying 錢瑞英",None,sfclicrec.asp?p=95732,APR030,http://www.sfc.hk/publicregWeb/indi/APR030/licenceRecord,,,RO,2014-07-15,2016-06-28
+"Choi, Phyllis Ho Yi 蔡可兒",None,sfclicrec.asp?p=73691,AHZ637,http://www.sfc.hk/publicregWeb/indi/AHZ637/licenceRecord,,F,RO,2017-07-03,
+"Lou, Ming 劉明",None,sfclicrec.asp?p=85452,AEP445,http://www.sfc.hk/publicregWeb/indi/AEP445/licenceRecord,48.0,M,RO,2017-07-03,2020-01-13
+"Wong, Kai Yu 黃啟宇",None,sfclicrec.asp?p=2431848,BFM952,http://www.sfc.hk/publicregWeb/indi/BFM952/licenceRecord,,,Rep,2017-11-03,2019-06-03
+"Yao, Jun (SFC:APJ554) 姚俊",None,sfclicrec.asp?p=122419,APJ554,http://www.sfc.hk/publicregWeb/indi/APJ554/licenceRecord,,,Rep,2014-12-09,2016-03-31
+"Yen, Chanan 霍震南",None,sfclicrec.asp?p=72016,ARM750,http://www.sfc.hk/publicregWeb/indi/ARM750/licenceRecord,41.0,M,RO,2017-08-28,2018-05-31
+"Zhang, Tingting (SFC:BFY402) 張婷婷",None,sfclicrec.asp?p=2474736,BFY402,http://www.sfc.hk/publicregWeb/indi/BFY402/licenceRecord,,,Rep,2017-12-22,2019-08-08
+"Zou, Deshi 鄒德仕",None,sfclicrec.asp?p=23587754,BOR615,http://www.sfc.hk/publicregWeb/indi/BOR615/licenceRecord,,,Rep,2019-08-26,

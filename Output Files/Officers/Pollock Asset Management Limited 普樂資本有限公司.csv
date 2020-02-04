@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Hung Ling 陳洪齡",sfclicrec.asp?p=101192,,,RO,2018-11-20,
-"Ho, Chun Hang (SFC:ARM740) 何俊恆",sfclicrec.asp?p=96891,,,RO,2018-11-20,
-"Lee, Derek Ho Yin 李浩然",sfclicrec.asp?p=73091,,M,RO,2019-09-06,
-"Leung, Kelvin Ming Yuen 梁明遠",sfclicrec.asp?p=68951,43,M,Rep,2019-05-29,
-"Li, Crystal Pui Wai (SFC:BJW088) 李沛慧",sfclicrec.asp?p=11712023,,F,Rep,2019-01-25,
-"Tse, Lai Wai 謝禮緯",sfclicrec.asp?p=96377,,,Rep,2019-06-13,
-"Wu, Robin Yu 吳與",sfclicrec.asp?p=96342,,,RO,2018-11-20,2019-07-22
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Hung Ling 陳洪齡",None,sfclicrec.asp?p=101192,AAG115,http://www.sfc.hk/publicregWeb/indi/AAG115/licenceRecord,,,RO,2018-11-20,
+"Ho, Chun Hang (SFC:ARM740) 何俊恆",None,sfclicrec.asp?p=96891,ARM740,http://www.sfc.hk/publicregWeb/indi/ARM740/licenceRecord,,,RO,2018-11-20,
+"Lee, Derek Ho Yin 李浩然",None,sfclicrec.asp?p=73091,AOR573,http://www.sfc.hk/publicregWeb/indi/AOR573/licenceRecord,,M,RO,2019-09-06,
+"Leung, Kelvin Ming Yuen 梁明遠",None,sfclicrec.asp?p=68951,AWK629,http://www.sfc.hk/publicregWeb/indi/AWK629/licenceRecord,43.0,M,Rep,2019-05-29,
+"Li, Crystal Pui Wai (SFC:BJW088) 李沛慧",None,sfclicrec.asp?p=11712023,BJW088,http://www.sfc.hk/publicregWeb/indi/BJW088/licenceRecord,,F,Rep,2019-01-25,
+"Tse, Lai Wai 謝禮緯",None,sfclicrec.asp?p=96377,AIZ709,http://www.sfc.hk/publicregWeb/indi/AIZ709/licenceRecord,,,Rep,2019-06-13,
+"Wu, Robin Yu 吳與",None,sfclicrec.asp?p=96342,ATO859,http://www.sfc.hk/publicregWeb/indi/ATO859/licenceRecord,,,RO,2018-11-20,2019-07-22

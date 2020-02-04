@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chang, Xinwen 常馨文",sfclicrec.asp?p=13256385,,,Rep,2018-03-27,2019-07-23
-"Chow, Yuan Hui 鄒遠暉",sfclicrec.asp?p=2610507,,,Rep,2017-07-18,2019-07-23
-"Huang, Rui (SFC:AOA886) 黃睿",sfclicrec.asp?p=89049,,,RO,2017-01-27,2019-06-28
-"Li, Shuo (SFC:BJX586) 李碩",sfclicrec.asp?p=11791954,,,Rep,2017-08-22,2019-06-28
-"Qu, Dan 曲丹",sfclicrec.asp?p=2692126,,,RO,2017-01-27,
-"Schultz, Paul Thomas ",sfclicrec.asp?p=2692127,,M,RO,2017-01-27,2017-07-26
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chang, Xinwen 常馨文",None,sfclicrec.asp?p=13256385,BMJ975,http://www.sfc.hk/publicregWeb/indi/BMJ975/licenceRecord,,,Rep,2018-03-27,2019-07-23
+"Chow, Yuan Hui 鄒遠暉",None,sfclicrec.asp?p=2610507,BHT023,http://www.sfc.hk/publicregWeb/indi/BHT023/licenceRecord,,,Rep,2017-07-18,2019-07-23
+"Huang, Rui (SFC:AOA886) 黃睿",None,sfclicrec.asp?p=89049,AOA886,http://www.sfc.hk/publicregWeb/indi/AOA886/licenceRecord,,,RO,2017-01-27,2019-06-28
+"Li, Shuo (SFC:BJX586) 李碩",None,sfclicrec.asp?p=11791954,BJX586,http://www.sfc.hk/publicregWeb/indi/BJX586/licenceRecord,,,Rep,2017-08-22,2019-06-28
+"Qu, Dan 曲丹",None,sfclicrec.asp?p=2692126,BIC626,http://www.sfc.hk/publicregWeb/indi/BIC626/licenceRecord,,,RO,2017-01-27,
+"Schultz, Paul Thomas ",None,sfclicrec.asp?p=2692127,BIC627,http://www.sfc.hk/publicregWeb/indi/BIC627/licenceRecord,,M,RO,2017-01-27,2017-07-26

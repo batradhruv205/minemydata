@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Freddy Leong Sek 陳亮碩",sfclicrec.asp?p=81614,,,Rep,2018-07-17,2018-08-01
-"Chan, Freddy Leong Sek 陳亮碩",sfclicrec.asp?p=81614,,,RO,2018-08-01,2018-09-18
-"Chan, Man Yuen (SFC:APX122) 陳文源",sfclicrec.asp?p=83637,,,RO,2017-08-03,2018-05-14
-"Chen, Zhichao (SFC:BNJ484) 陳智超",sfclicrec.asp?p=23638431,,,Rep,2019-09-09,
-"Ho, Raymond Ka Wing 何家榮",sfclicrec.asp?p=78587,,M,Rep,2019-07-04,2019-07-17
-"Ho, Raymond Ka Wing 何家榮",sfclicrec.asp?p=78587,,M,RO,2019-07-17,
-"Lau, Chun Wai (SFC:AFK569) 劉振威",sfclicrec.asp?p=106302,,,Rep,2018-08-08,2018-08-24
-"Lau, Chun Wai (SFC:AFK569) 劉振威",sfclicrec.asp?p=106302,,,RO,2018-08-24,2019-02-15
-"Tsang, Ming Fung 曾銘楓",sfclicrec.asp?p=81576,,,RO,2018-08-08,2019-03-14
-"Wai, Moon Tong 衛滿堂",sfclicrec.asp?p=90266,,,Rep,2019-01-18,2019-02-19
-"Wai, Moon Tong 衛滿堂",sfclicrec.asp?p=90266,,,RO,2019-02-19,
-"Wong, Dorothy Wai Han 黃慧嫻",sfclicrec.asp?p=107500,,F,RO,2017-08-03,2018-07-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Freddy Leong Sek 陳亮碩",None,sfclicrec.asp?p=81614,ADW083,http://www.sfc.hk/publicregWeb/indi/ADW083/licenceRecord,,,Rep,2018-07-17,2018-08-01
+"Chan, Freddy Leong Sek 陳亮碩",None,sfclicrec.asp?p=81614,ADW083,http://www.sfc.hk/publicregWeb/indi/ADW083/licenceRecord,,,RO,2018-08-01,2018-09-18
+"Chan, Man Yuen (SFC:APX122) 陳文源",None,sfclicrec.asp?p=83637,APX122,http://www.sfc.hk/publicregWeb/indi/APX122/licenceRecord,,,RO,2017-08-03,2018-05-14
+"Chen, Zhichao (SFC:BNJ484) 陳智超",None,sfclicrec.asp?p=23638431,BNJ484,http://www.sfc.hk/publicregWeb/indi/BNJ484/licenceRecord,,,Rep,2019-09-09,
+"Ho, Raymond Ka Wing 何家榮",None,sfclicrec.asp?p=78587,AFY752,http://www.sfc.hk/publicregWeb/indi/AFY752/licenceRecord,,M,Rep,2019-07-04,2019-07-17
+"Ho, Raymond Ka Wing 何家榮",None,sfclicrec.asp?p=78587,AFY752,http://www.sfc.hk/publicregWeb/indi/AFY752/licenceRecord,,M,RO,2019-07-17,
+"Lau, Chun Wai (SFC:AFK569) 劉振威",None,sfclicrec.asp?p=106302,AFK569,http://www.sfc.hk/publicregWeb/indi/AFK569/licenceRecord,,,Rep,2018-08-08,2018-08-24
+"Lau, Chun Wai (SFC:AFK569) 劉振威",None,sfclicrec.asp?p=106302,AFK569,http://www.sfc.hk/publicregWeb/indi/AFK569/licenceRecord,,,RO,2018-08-24,2019-02-15
+"Tsang, Ming Fung 曾銘楓",None,sfclicrec.asp?p=81576,ANR264,http://www.sfc.hk/publicregWeb/indi/ANR264/licenceRecord,,,RO,2018-08-08,2019-03-14
+"Wai, Moon Tong 衛滿堂",None,sfclicrec.asp?p=90266,AOS566,http://www.sfc.hk/publicregWeb/indi/AOS566/licenceRecord,,,Rep,2019-01-18,2019-02-19
+"Wai, Moon Tong 衛滿堂",None,sfclicrec.asp?p=90266,AOS566,http://www.sfc.hk/publicregWeb/indi/AOS566/licenceRecord,,,RO,2019-02-19,
+"Wong, Dorothy Wai Han 黃慧嫻",None,sfclicrec.asp?p=107500,AFS777,http://www.sfc.hk/publicregWeb/indi/AFS777/licenceRecord,,F,RO,2017-08-03,2018-07-31

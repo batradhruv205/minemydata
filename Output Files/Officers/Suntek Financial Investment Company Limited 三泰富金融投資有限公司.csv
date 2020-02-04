@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Man Kwong (SFC:AXL920) 鄭文光",sfclicrec.asp?p=133423,,,RO,2019-01-16,
-"Chung, Kok Fook 曾国富",sfclicrec.asp?p=72118,,,Rep,2019-04-09,2019-05-20
-"Chung, Kok Fook 曾国富",sfclicrec.asp?p=72118,,,RO,2019-05-20,
-"Pang, Andrew Leung Wai 彭量為",sfclicrec.asp?p=72837,,M,RO,2019-01-16,
-"Wong, Foelan 黃富仁",sfclicrec.asp?p=65927,,M,RO,2019-01-16,2019-09-30
-"Zhu, Jiang (SFC:BNB630) 朱江",sfclicrec.asp?p=20750940,,,Rep,2019-03-28,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Man Kwong (SFC:AXL920) 鄭文光",None,sfclicrec.asp?p=133423,AXL920,http://www.sfc.hk/publicregWeb/indi/AXL920/licenceRecord,,,RO,2019-01-16,
+"Chung, Kok Fook 曾国富",None,sfclicrec.asp?p=72118,ASY849,http://www.sfc.hk/publicregWeb/indi/ASY849/licenceRecord,,,Rep,2019-04-09,2019-05-20
+"Chung, Kok Fook 曾国富",None,sfclicrec.asp?p=72118,ASY849,http://www.sfc.hk/publicregWeb/indi/ASY849/licenceRecord,,,RO,2019-05-20,
+"Pang, Andrew Leung Wai 彭量為",None,sfclicrec.asp?p=72837,ABK028,http://www.sfc.hk/publicregWeb/indi/ABK028/licenceRecord,,M,RO,2019-01-16,
+"Wong, Foelan 黃富仁",None,sfclicrec.asp?p=65927,ADQ592,http://www.sfc.hk/publicregWeb/indi/ADQ592/licenceRecord,,M,RO,2019-01-16,2019-09-30
+"Zhu, Jiang (SFC:BNB630) 朱江",None,sfclicrec.asp?p=20750940,BNB630,http://www.sfc.hk/publicregWeb/indi/BNB630/licenceRecord,,,Rep,2019-03-28,

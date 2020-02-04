@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Choi, Hyung Kyu ",sfclicrec.asp?p=112841,,,RO,2014-08-04,
-"Chow, Clint 周基力",sfclicrec.asp?p=71064,,,Rep,2015-11-05,2018-05-31
-"Hwang, Ho Sung ",sfclicrec.asp?p=2302857,,,RO,2014-08-04,
-"Kam, Tyran 金泰倫",sfclicrec.asp?p=98632,,,Rep,2015-09-15,2018-05-31
-"Kim, Jung Woo (SFC:BDM554) ",sfclicrec.asp?p=2302858,,,RO,2014-08-04,
-"Lim, Zhu Xiang Sandy 林祝祥",sfclicrec.asp?p=2499454,,,Rep,2015-11-10,2018-12-31
-"Pan, Jin (SFC:AVV688) 潘瑾",sfclicrec.asp?p=130276,,,Rep,2014-09-29,2018-12-03
-"Pan, Jin (SFC:AVV688) 潘瑾",sfclicrec.asp?p=130276,,,RO,2018-12-03,
-"Pun, Jose Kar Kiu 潘加翹",sfclicrec.asp?p=86418,,,Rep,2016-08-03,2018-05-31
-"Shinohara, Kohei 篠原宏平",sfclicrec.asp?p=1978560,,,Rep,2014-09-19,2017-01-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Choi, Hyung Kyu ",None,sfclicrec.asp?p=112841,AJC205,http://www.sfc.hk/publicregWeb/indi/AJC205/licenceRecord,,,RO,2014-08-04,
+"Chow, Clint 周基力",None,sfclicrec.asp?p=71064,AVJ424,http://www.sfc.hk/publicregWeb/indi/AVJ424/licenceRecord,,,Rep,2015-11-05,2018-05-31
+"Hwang, Ho Sung ",None,sfclicrec.asp?p=2302857,BDM558,http://www.sfc.hk/publicregWeb/indi/BDM558/licenceRecord,,,RO,2014-08-04,
+"Kam, Tyran 金泰倫",None,sfclicrec.asp?p=98632,AMG982,http://www.sfc.hk/publicregWeb/indi/AMG982/licenceRecord,,,Rep,2015-09-15,2018-05-31
+"Kim, Jung Woo (SFC:BDM554) ",None,sfclicrec.asp?p=2302858,BDM554,http://www.sfc.hk/publicregWeb/indi/BDM554/licenceRecord,,,RO,2014-08-04,
+"Lim, Zhu Xiang Sandy 林祝祥",None,sfclicrec.asp?p=2499454,BGI280,http://www.sfc.hk/publicregWeb/indi/BGI280/licenceRecord,,,Rep,2015-11-10,2018-12-31
+"Pan, Jin (SFC:AVV688) 潘瑾",None,sfclicrec.asp?p=130276,AVV688,http://www.sfc.hk/publicregWeb/indi/AVV688/licenceRecord,,,Rep,2014-09-29,2018-12-03
+"Pan, Jin (SFC:AVV688) 潘瑾",None,sfclicrec.asp?p=130276,AVV688,http://www.sfc.hk/publicregWeb/indi/AVV688/licenceRecord,,,RO,2018-12-03,
+"Pun, Jose Kar Kiu 潘加翹",None,sfclicrec.asp?p=86418,AWR716,http://www.sfc.hk/publicregWeb/indi/AWR716/licenceRecord,,,Rep,2016-08-03,2018-05-31
+"Shinohara, Kohei 篠原宏平",None,sfclicrec.asp?p=1978560,BAL578,http://www.sfc.hk/publicregWeb/indi/BAL578/licenceRecord,,,Rep,2014-09-19,2017-01-31

@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Rock Chung Nin 陳仲尼",sfclicrec.asp?p=28842,54,M,RO,2017-01-05,
-"Lam, Chun Shing Jerry ",sfclicrec.asp?p=23048704,,M,Rep,2019-04-15,2019-05-07
-"Lam, Chun Shing Jerry ",sfclicrec.asp?p=23048704,,M,RO,2019-05-07,
-"Wong, Ka Lok (SFC:AQX394) 黃家樂",sfclicrec.asp?p=83563,,,RO,2017-01-05,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Rock Chung Nin 陳仲尼",None,sfclicrec.asp?p=28842,AIE121,http://www.sfc.hk/publicregWeb/indi/AIE121/licenceRecord,54.0,M,RO,2017-01-05,
+"Lam, Chun Shing Jerry ",None,sfclicrec.asp?p=23048704,BJK930,http://www.sfc.hk/publicregWeb/indi/BJK930/licenceRecord,,M,Rep,2019-04-15,2019-05-07
+"Lam, Chun Shing Jerry ",None,sfclicrec.asp?p=23048704,BJK930,http://www.sfc.hk/publicregWeb/indi/BJK930/licenceRecord,,M,RO,2019-05-07,
+"Wong, Ka Lok (SFC:AQX394) 黃家樂",None,sfclicrec.asp?p=83563,AQX394,http://www.sfc.hk/publicregWeb/indi/AQX394/licenceRecord,,,RO,2017-01-05,

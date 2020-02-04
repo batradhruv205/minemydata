@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Hin Kee 張衍機",sfclicrec.asp?p=99629,,,Rep,2004-02-02,2004-02-23
-"Cheung, Hin Kee 張衍機",sfclicrec.asp?p=99629,,,RO,2004-02-23,2011-11-19
-"Cheung, Sin Fun 張羨棻",sfclicrec.asp?p=99631,,,RO,2004-02-02,
-"Cheung, Siu Ching 張兆楨",sfclicrec.asp?p=99632,,,RO,2004-02-02,
-"Cheung, Yik Kin 張益健",sfclicrec.asp?p=2443188,,,RO,2015-07-02,
-"Fung, Mei Ling (SFC:AAN716) 馮美玲",sfclicrec.asp?p=99633,,,Rep,2004-02-02,
-"Lai, Chung Wing 黎宗榮",sfclicrec.asp?p=98210,,,Rep,2004-04-29,2007-05-03
-"Sin, Pooi Lan 冼佩蘭",sfclicrec.asp?p=100577,,,Rep,2012-07-17,
-"U, Hing Choi 余慶材",sfclicrec.asp?p=99489,,,Rep,2014-12-03,2016-12-28
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Hin Kee 張衍機",None,sfclicrec.asp?p=99629,AAN808,http://www.sfc.hk/publicregWeb/indi/AAN808/licenceRecord,,,Rep,2004-02-02,2004-02-23
+"Cheung, Hin Kee 張衍機",None,sfclicrec.asp?p=99629,AAN808,http://www.sfc.hk/publicregWeb/indi/AAN808/licenceRecord,,,RO,2004-02-23,2011-11-19
+"Cheung, Sin Fun 張羨棻",None,sfclicrec.asp?p=99631,AEE309,http://www.sfc.hk/publicregWeb/indi/AEE309/licenceRecord,,,RO,2004-02-02,
+"Cheung, Siu Ching 張兆楨",None,sfclicrec.asp?p=99632,AAA107,http://www.sfc.hk/publicregWeb/indi/AAA107/licenceRecord,,,RO,2004-02-02,
+"Cheung, Yik Kin 張益健",None,sfclicrec.asp?p=2443188,AJG326,http://www.sfc.hk/publicregWeb/indi/AJG326/licenceRecord,,,RO,2015-07-02,
+"Fung, Mei Ling (SFC:AAN716) 馮美玲",None,sfclicrec.asp?p=99633,AAN716,http://www.sfc.hk/publicregWeb/indi/AAN716/licenceRecord,,,Rep,2004-02-02,
+"Lai, Chung Wing 黎宗榮",None,sfclicrec.asp?p=98210,ABI012,http://www.sfc.hk/publicregWeb/indi/ABI012/licenceRecord,,,Rep,2004-04-29,2007-05-03
+"Sin, Pooi Lan 冼佩蘭",None,sfclicrec.asp?p=100577,AAA706,http://www.sfc.hk/publicregWeb/indi/AAA706/licenceRecord,,,Rep,2012-07-17,
+"U, Hing Choi 余慶材",None,sfclicrec.asp?p=99489,AAA634,http://www.sfc.hk/publicregWeb/indi/AAA634/licenceRecord,,,Rep,2014-12-03,2016-12-28

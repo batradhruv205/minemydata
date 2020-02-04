@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ho, Pak Hang 何柏恒",sfclicrec.asp?p=84963,,,RO,2019-01-02,
-"Kwong, Toby Tse San 鄺紫珊",sfclicrec.asp?p=121919,,,Rep,2019-01-29,2019-05-30
-"Kwong, Toby Tse San 鄺紫珊",sfclicrec.asp?p=121919,,,RO,2019-05-30,2019-10-31
-"Wu, Tony Li Yang 吳立揚",sfclicrec.asp?p=82055,,M,Rep,2019-08-14,
-"Yim, Siu Hong 嚴兆航",sfclicrec.asp?p=85275,,,RO,2019-01-02,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ho, Pak Hang 何柏恒",None,sfclicrec.asp?p=84963,AOS315,http://www.sfc.hk/publicregWeb/indi/AOS315/licenceRecord,,,RO,2019-01-02,
+"Kwong, Toby Tse San 鄺紫珊",None,sfclicrec.asp?p=121919,APD289,http://www.sfc.hk/publicregWeb/indi/APD289/licenceRecord,,,Rep,2019-01-29,2019-05-30
+"Kwong, Toby Tse San 鄺紫珊",None,sfclicrec.asp?p=121919,APD289,http://www.sfc.hk/publicregWeb/indi/APD289/licenceRecord,,,RO,2019-05-30,2019-10-31
+"Wu, Tony Li Yang 吳立揚",None,sfclicrec.asp?p=82055,AWW749,http://www.sfc.hk/publicregWeb/indi/AWW749/licenceRecord,,M,Rep,2019-08-14,
+"Yim, Siu Hong 嚴兆航",None,sfclicrec.asp?p=85275,AIC803,http://www.sfc.hk/publicregWeb/indi/AIC803/licenceRecord,,,RO,2019-01-02,

@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, George Wing Yau 陳永祐",sfclicrec.asp?p=15478,65,M,RO,2010-09-08,
-"Ip, Anthony Ka Tsun 葉家俊",sfclicrec.asp?p=57622,,M,RO,2010-09-08,
-"Lam, Sum Kei 林心棋",sfclicrec.asp?p=22649253,,,Rep,2019-01-15,
-"Ma, Jie (SFC:AQQ414) 馬捷",sfclicrec.asp?p=73269,56,M,Rep,2010-10-20,2019-02-14
-"Shih, Ping Yu 施萍瑜",sfclicrec.asp?p=73270,,,Rep,2010-10-20,2019-02-14
-"Weng, Jie 翁杰",sfclicrec.asp?p=22537615,,,Rep,2018-12-11,2019-10-29
-"Wu, Hiu Man 鄔曉敏",sfclicrec.asp?p=110060,,,RO,2019-01-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, George Wing Yau 陳永祐",None,sfclicrec.asp?p=15478,AAC044,http://www.sfc.hk/publicregWeb/indi/AAC044/licenceRecord,65.0,M,RO,2010-09-08,
+"Ip, Anthony Ka Tsun 葉家俊",None,sfclicrec.asp?p=57622,AHT282,http://www.sfc.hk/publicregWeb/indi/AHT282/licenceRecord,,M,RO,2010-09-08,
+"Lam, Sum Kei 林心棋",None,sfclicrec.asp?p=22649253,BNV038,http://www.sfc.hk/publicregWeb/indi/BNV038/licenceRecord,,,Rep,2019-01-15,
+"Ma, Jie (SFC:AQQ414) 馬捷",None,sfclicrec.asp?p=73269,AQQ414,http://www.sfc.hk/publicregWeb/indi/AQQ414/licenceRecord,56.0,M,Rep,2010-10-20,2019-02-14
+"Shih, Ping Yu 施萍瑜",None,sfclicrec.asp?p=73270,AVY507,http://www.sfc.hk/publicregWeb/indi/AVY507/licenceRecord,,,Rep,2010-10-20,2019-02-14
+"Weng, Jie 翁杰",None,sfclicrec.asp?p=22537615,BNV039,http://www.sfc.hk/publicregWeb/indi/BNV039/licenceRecord,,,Rep,2018-12-11,2019-10-29
+"Wu, Hiu Man 鄔曉敏",None,sfclicrec.asp?p=110060,AGO828,http://www.sfc.hk/publicregWeb/indi/AGO828/licenceRecord,,,RO,2019-01-24,

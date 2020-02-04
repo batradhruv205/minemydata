@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"He, Mei (SFC:AVJ148) 何玫",sfclicrec.asp?p=129912,,,Rep,2019-07-04,2019-11-08
-"Wang, Mingquan 王明全",sfclicrec.asp?p=2675357,,,RO,2018-05-11,
-"Wong, Chung Wai (SFC:AHN342) 黃誦偉",sfclicrec.asp?p=15010801,,,RO,2018-05-11,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"He, Mei (SFC:AVJ148) 何玫",None,sfclicrec.asp?p=129912,AVJ148,http://www.sfc.hk/publicregWeb/indi/AVJ148/licenceRecord,,,Rep,2019-07-04,2019-11-08
+"Wang, Mingquan 王明全",None,sfclicrec.asp?p=2675357,AXM418,http://www.sfc.hk/publicregWeb/indi/AXM418/licenceRecord,,,RO,2018-05-11,
+"Wong, Chung Wai (SFC:AHN342) 黃誦偉",None,sfclicrec.asp?p=15010801,AHN342,http://www.sfc.hk/publicregWeb/indi/AHN342/licenceRecord,,,RO,2018-05-11,

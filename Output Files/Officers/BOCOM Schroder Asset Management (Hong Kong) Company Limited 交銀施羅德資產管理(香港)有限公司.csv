@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Kin Wai (SFC:AVD399) 陳健威",sfclicrec.asp?p=70221,,,Rep,2015-04-23,2017-01-28
-"Chan, Lai Sze (SFC:ACO201) 陳麗絲",sfclicrec.asp?p=85723,,,Rep,2014-09-01,2016-08-01
-"Chan, Mei Shan 陳美珊",sfclicrec.asp?p=85727,,,Rep,2016-06-27,2016-08-15
-"Chan, Mei Shan 陳美珊",sfclicrec.asp?p=85727,,,RO,2016-08-15,2019-08-10
-"Cheng, William Wai Fai 鄭偉輝",sfclicrec.asp?p=93932,,M,RO,2013-11-29,2016-10-01
-"Kong, Shishi 孔師詩",sfclicrec.asp?p=2644194,,,Rep,2017-07-06,
-"Kwan, Beryl Wang Chi 管泓姿",sfclicrec.asp?p=1950026,,F,Rep,2015-02-06,2016-05-07
-"Kwan, Suk Yee 關淑儀",sfclicrec.asp?p=2171978,,,RO,2013-11-29,
-"Lee, Deborah Wai Chung 李慧中",sfclicrec.asp?p=70262,,F,Rep,2014-06-09,2015-03-13
-"Lee, Huei-Jing 李惠錦",sfclicrec.asp?p=2190315,,,Rep,2014-01-06,2014-04-08
-"Lee, Huei-Jing 李惠錦",sfclicrec.asp?p=2190315,,,RO,2014-04-08,
-"Ng, Justin Chun-Hoy 伍志凱",sfclicrec.asp?p=2615178,,M,Rep,2017-10-30,2018-08-16
-"Tse, Sze Man 謝思敏",sfclicrec.asp?p=113954,,,Rep,2015-10-02,2017-08-01
-"Xie, Yun (SFC:BCK969) 謝贇",sfclicrec.asp?p=2176894,,,Rep,2013-12-09,2015-08-21
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Kin Wai (SFC:AVD399) 陳健威",None,sfclicrec.asp?p=70221,AVD399,http://www.sfc.hk/publicregWeb/indi/AVD399/licenceRecord,,,Rep,2015-04-23,2017-01-28
+"Chan, Lai Sze (SFC:ACO201) 陳麗絲",None,sfclicrec.asp?p=85723,ACO201,http://www.sfc.hk/publicregWeb/indi/ACO201/licenceRecord,,,Rep,2014-09-01,2016-08-01
+"Chan, Mei Shan 陳美珊",None,sfclicrec.asp?p=85727,ANC021,http://www.sfc.hk/publicregWeb/indi/ANC021/licenceRecord,,,Rep,2016-06-27,2016-08-15
+"Chan, Mei Shan 陳美珊",None,sfclicrec.asp?p=85727,ANC021,http://www.sfc.hk/publicregWeb/indi/ANC021/licenceRecord,,,RO,2016-08-15,2019-08-10
+"Cheng, William Wai Fai 鄭偉輝",None,sfclicrec.asp?p=93932,ACI097,http://www.sfc.hk/publicregWeb/indi/ACI097/licenceRecord,,M,RO,2013-11-29,2016-10-01
+"Kong, Shishi 孔師詩",None,sfclicrec.asp?p=2644194,BID357,http://www.sfc.hk/publicregWeb/indi/BID357/licenceRecord,,,Rep,2017-07-06,
+"Kwan, Beryl Wang Chi 管泓姿",None,sfclicrec.asp?p=1950026,BAD777,http://www.sfc.hk/publicregWeb/indi/BAD777/licenceRecord,,F,Rep,2015-02-06,2016-05-07
+"Kwan, Suk Yee 關淑儀",None,sfclicrec.asp?p=2171978,BBU509,http://www.sfc.hk/publicregWeb/indi/BBU509/licenceRecord,,,RO,2013-11-29,
+"Lee, Deborah Wai Chung 李慧中",None,sfclicrec.asp?p=70262,AFY974,http://www.sfc.hk/publicregWeb/indi/AFY974/licenceRecord,,F,Rep,2014-06-09,2015-03-13
+"Lee, Huei-Jing 李惠錦",None,sfclicrec.asp?p=2190315,BCP547,http://www.sfc.hk/publicregWeb/indi/BCP547/licenceRecord,,,Rep,2014-01-06,2014-04-08
+"Lee, Huei-Jing 李惠錦",None,sfclicrec.asp?p=2190315,BCP547,http://www.sfc.hk/publicregWeb/indi/BCP547/licenceRecord,,,RO,2014-04-08,
+"Ng, Justin Chun-Hoy 伍志凱",None,sfclicrec.asp?p=2615178,BHW620,http://www.sfc.hk/publicregWeb/indi/BHW620/licenceRecord,,M,Rep,2017-10-30,2018-08-16
+"Tse, Sze Man 謝思敏",None,sfclicrec.asp?p=113954,AKS678,http://www.sfc.hk/publicregWeb/indi/AKS678/licenceRecord,,,Rep,2015-10-02,2017-08-01
+"Xie, Yun (SFC:BCK969) 謝贇",None,sfclicrec.asp?p=2176894,BCK969,http://www.sfc.hk/publicregWeb/indi/BCK969/licenceRecord,,,Rep,2013-12-09,2015-08-21

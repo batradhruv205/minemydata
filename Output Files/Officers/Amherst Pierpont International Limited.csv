@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bartkowiak, Darla Kerlee ",sfclicrec.asp?p=2201308,,,RO,2014-01-28,
-"Browne, Terence Francis ",sfclicrec.asp?p=127681,,M,RO,2009-06-17,2014-01-31
-"Chu, Ching-Hsuan 朱靜萱",sfclicrec.asp?p=80817,,,Rep,2016-11-15,
-"Dinovo, Kenneth Lee ",sfclicrec.asp?p=12690339,,M,RO,2018-01-18,
-"Kan, Paul Wei Hung 甘偉恆",sfclicrec.asp?p=114725,,M,RO,2009-06-17,
-"Lee, Ji Hyung 李智炯",sfclicrec.asp?p=22242736,,,Rep,2018-10-08,
-"Lin, Ling-Yi 林綾怡",sfclicrec.asp?p=119291,,,Rep,2009-10-16,2012-09-30
-"Wang, Xiaorui (SFC:BOR577) 王晓蕊",sfclicrec.asp?p=23544565,,,Rep,2019-08-13,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bartkowiak, Darla Kerlee ",None,sfclicrec.asp?p=2201308,BCT186,http://www.sfc.hk/publicregWeb/indi/BCT186/licenceRecord,,,RO,2014-01-28,
+"Browne, Terence Francis ",None,sfclicrec.asp?p=127681,ASN931,http://www.sfc.hk/publicregWeb/indi/ASN931/licenceRecord,,M,RO,2009-06-17,2014-01-31
+"Chu, Ching-Hsuan 朱靜萱",None,sfclicrec.asp?p=80817,AXD387,http://www.sfc.hk/publicregWeb/indi/AXD387/licenceRecord,,,Rep,2016-11-15,
+"Dinovo, Kenneth Lee ",None,sfclicrec.asp?p=12690339,BKW167,http://www.sfc.hk/publicregWeb/indi/BKW167/licenceRecord,,M,RO,2018-01-18,
+"Kan, Paul Wei Hung 甘偉恆",None,sfclicrec.asp?p=114725,ALI539,http://www.sfc.hk/publicregWeb/indi/ALI539/licenceRecord,,M,RO,2009-06-17,
+"Lee, Ji Hyung 李智炯",None,sfclicrec.asp?p=22242736,BNP265,http://www.sfc.hk/publicregWeb/indi/BNP265/licenceRecord,,,Rep,2018-10-08,
+"Lin, Ling-Yi 林綾怡",None,sfclicrec.asp?p=119291,ANT738,http://www.sfc.hk/publicregWeb/indi/ANT738/licenceRecord,,,Rep,2009-10-16,2012-09-30
+"Wang, Xiaorui (SFC:BOR577) 王晓蕊",None,sfclicrec.asp?p=23544565,BOR577,http://www.sfc.hk/publicregWeb/indi/BOR577/licenceRecord,,,Rep,2019-08-13,

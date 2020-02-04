@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, King Chuen 陳景泉",sfclicrec.asp?p=99016,,,Rep,,2019-11-07
-"Chan, King Chuen 陳景泉",sfclicrec.asp?p=99016,,,RO,2019-11-07,
-"Cheuk, Hoi Kit 卓海杰",sfclicrec.asp?p=114559,,,Rep,2004-10-15,2008-11-20
-"Cheung, Fung Ngor 張鳳娥",sfclicrec.asp?p=99019,,,Rep,,
-"Lau, Yuk Sim 劉玉嬋",sfclicrec.asp?p=99023,,,Rep,,2019-09-25
-"Leung, Wing Pong 梁榮邦",sfclicrec.asp?p=16276,59,M,Rep,2004-08-24,2005-01-28
-"Leung, Wing Pong 梁榮邦",sfclicrec.asp?p=16276,59,M,RO,2005-01-28,2019-06-20
-"Man, Chi Chiu 文志超",sfclicrec.asp?p=99028,,,Rep,,2019-06-10
-"Man, Chi Chiu 文志超",sfclicrec.asp?p=99028,,,RO,2019-06-10,
-"Tam, Chack Chung 譚澤聰",sfclicrec.asp?p=99015,,M,RO,,
-"Yuen, Kin Wai (SFC:AEA365) 袁健偉",sfclicrec.asp?p=79663,,,Rep,2019-05-14,2019-08-01
-"Yuen, Kin Wai (SFC:AEA365) 袁健偉",sfclicrec.asp?p=79663,,,RO,2019-08-01,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, King Chuen 陳景泉",None,sfclicrec.asp?p=99016,AAE349,http://www.sfc.hk/publicregWeb/indi/AAE349/licenceRecord,,,Rep,,2019-11-07
+"Chan, King Chuen 陳景泉",None,sfclicrec.asp?p=99016,AAE349,http://www.sfc.hk/publicregWeb/indi/AAE349/licenceRecord,,,RO,2019-11-07,
+"Cheuk, Hoi Kit 卓海杰",None,sfclicrec.asp?p=114559,ALG198,http://www.sfc.hk/publicregWeb/indi/ALG198/licenceRecord,,,Rep,2004-10-15,2008-11-20
+"Cheung, Fung Ngor 張鳳娥",None,sfclicrec.asp?p=99019,AAE355,http://www.sfc.hk/publicregWeb/indi/AAE355/licenceRecord,,,Rep,,
+"Lau, Yuk Sim 劉玉嬋",None,sfclicrec.asp?p=99023,ABQ065,http://www.sfc.hk/publicregWeb/indi/ABQ065/licenceRecord,,,Rep,,2019-09-25
+"Leung, Wing Pong 梁榮邦",None,sfclicrec.asp?p=16276,AIH952,http://www.sfc.hk/publicregWeb/indi/AIH952/licenceRecord,59.0,M,Rep,2004-08-24,2005-01-28
+"Leung, Wing Pong 梁榮邦",None,sfclicrec.asp?p=16276,AIH952,http://www.sfc.hk/publicregWeb/indi/AIH952/licenceRecord,59.0,M,RO,2005-01-28,2019-06-20
+"Man, Chi Chiu 文志超",None,sfclicrec.asp?p=99028,ABP796,http://www.sfc.hk/publicregWeb/indi/ABP796/licenceRecord,,,Rep,,2019-06-10
+"Man, Chi Chiu 文志超",None,sfclicrec.asp?p=99028,ABP796,http://www.sfc.hk/publicregWeb/indi/ABP796/licenceRecord,,,RO,2019-06-10,
+"Tam, Chack Chung 譚澤聰",None,sfclicrec.asp?p=99015,AAE371,http://www.sfc.hk/publicregWeb/indi/AAE371/licenceRecord,,M,RO,,
+"Yuen, Kin Wai (SFC:AEA365) 袁健偉",None,sfclicrec.asp?p=79663,AEA365,http://www.sfc.hk/publicregWeb/indi/AEA365/licenceRecord,,,Rep,2019-05-14,2019-08-01
+"Yuen, Kin Wai (SFC:AEA365) 袁健偉",None,sfclicrec.asp?p=79663,AEA365,http://www.sfc.hk/publicregWeb/indi/AEA365/licenceRecord,,,RO,2019-08-01,

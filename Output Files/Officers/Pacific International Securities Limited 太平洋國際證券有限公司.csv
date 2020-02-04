@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chung, Chak Man 鍾澤敏",sfclicrec.asp?p=73614,,,RO,2016-11-07,2019-02-11
-"Kok, Sen Kan 郭慎勤",sfclicrec.asp?p=128905,,,RO,2019-06-21,
-"Kwong, Wan Wa 鄺韻樺",sfclicrec.asp?p=92026,,,RO,2016-11-07,2017-12-15
-"Mo, Keqi 莫克齊",sfclicrec.asp?p=22378754,,,Rep,2018-11-01,
-"Qian, Shanjing 錢珊靖",sfclicrec.asp?p=2106920,,,Rep,2017-03-27,2018-02-14
-"Qian, Shanjing 錢珊靖",sfclicrec.asp?p=2106920,,,RO,2018-02-14,
-"Yan, Lihu (SFC:BBH646) 嚴立虎",sfclicrec.asp?p=16572789,,,RO,2018-06-04,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chung, Chak Man 鍾澤敏",None,sfclicrec.asp?p=73614,APH261,http://www.sfc.hk/publicregWeb/indi/APH261/licenceRecord,,,RO,2016-11-07,2019-02-11
+"Kok, Sen Kan 郭慎勤",None,sfclicrec.asp?p=128905,AUC483,http://www.sfc.hk/publicregWeb/indi/AUC483/licenceRecord,,,RO,2019-06-21,
+"Kwong, Wan Wa 鄺韻樺",None,sfclicrec.asp?p=92026,AFS605,http://www.sfc.hk/publicregWeb/indi/AFS605/licenceRecord,,,RO,2016-11-07,2017-12-15
+"Mo, Keqi 莫克齊",None,sfclicrec.asp?p=22378754,BKY358,http://www.sfc.hk/publicregWeb/indi/BKY358/licenceRecord,,,Rep,2018-11-01,
+"Qian, Shanjing 錢珊靖",None,sfclicrec.asp?p=2106920,BBM291,http://www.sfc.hk/publicregWeb/indi/BBM291/licenceRecord,,,Rep,2017-03-27,2018-02-14
+"Qian, Shanjing 錢珊靖",None,sfclicrec.asp?p=2106920,BBM291,http://www.sfc.hk/publicregWeb/indi/BBM291/licenceRecord,,,RO,2018-02-14,
+"Yan, Lihu (SFC:BBH646) 嚴立虎",None,sfclicrec.asp?p=16572789,BBH646,http://www.sfc.hk/publicregWeb/indi/BBH646/licenceRecord,,,RO,2018-06-04,

@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Wen (SFC:BNX571) 陳雯",sfclicrec.asp?p=22814426,,,Rep,2019-02-22,
-"Cheng, Yuan (SFC:BBR221) 程源",sfclicrec.asp?p=2111493,,,Rep,2017-12-21,2019-09-30
-"Dai, Ling (SFC:ATC265) 戴岭",sfclicrec.asp?p=88318,,,Rep,2013-07-25,2014-05-12
-"Ferriere, Pierre-andre Jacques ",sfclicrec.asp?p=88319,,M,RO,2013-07-03,
-"Jin, Zhe 金哲",sfclicrec.asp?p=2314831,,,Rep,2015-12-07,2018-05-07
-"Kumar, Nivesh ",sfclicrec.asp?p=97805,,M,Rep,2014-07-31,2014-10-24
-"Li, Hanzheng 李瀚崢",sfclicrec.asp?p=18037088,,,Rep,2018-06-28,
-"Tang, Wei Ye ",sfclicrec.asp?p=2573390,,,Rep,2017-10-17,
-"Wang, Chen (SFC:AXC439) 王晨",sfclicrec.asp?p=70577,,,Rep,2014-02-28,2015-07-16
-"Wang, Chen (SFC:AXC439) 王晨",sfclicrec.asp?p=70577,,,RO,2015-07-16,2017-05-31
-"Xia, Yang (SFC:ALN489) 夏阳",sfclicrec.asp?p=96742,,,Rep,2017-10-09,2018-03-09
-"Zhang, Liqun 張立群",sfclicrec.asp?p=88323,,,RO,2013-07-03,
-"Zhao, Xiaowei 趙晓薇",sfclicrec.asp?p=2550717,,,Rep,2016-03-23,2018-05-07
-"Zhong, Junke 鐘駿珂",sfclicrec.asp?p=23196671,,,Rep,2019-05-20,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Wen (SFC:BNX571) 陳雯",None,sfclicrec.asp?p=22814426,BNX571,http://www.sfc.hk/publicregWeb/indi/BNX571/licenceRecord,,,Rep,2019-02-22,
+"Cheng, Yuan (SFC:BBR221) 程源",None,sfclicrec.asp?p=2111493,BBR221,http://www.sfc.hk/publicregWeb/indi/BBR221/licenceRecord,,,Rep,2017-12-21,2019-09-30
+"Dai, Ling (SFC:ATC265) 戴岭",None,sfclicrec.asp?p=88318,ATC265,http://www.sfc.hk/publicregWeb/indi/ATC265/licenceRecord,,,Rep,2013-07-25,2014-05-12
+"Ferriere, Pierre-andre Jacques ",None,sfclicrec.asp?p=88319,AUN705,http://www.sfc.hk/publicregWeb/indi/AUN705/licenceRecord,,M,RO,2013-07-03,
+"Jin, Zhe 金哲",None,sfclicrec.asp?p=2314831,BDY094,http://www.sfc.hk/publicregWeb/indi/BDY094/licenceRecord,,,Rep,2015-12-07,2018-05-07
+"Kumar, Nivesh ",None,sfclicrec.asp?p=97805,ASL835,http://www.sfc.hk/publicregWeb/indi/ASL835/licenceRecord,,M,Rep,2014-07-31,2014-10-24
+"Li, Hanzheng 李瀚崢",None,sfclicrec.asp?p=18037088,BND739,http://www.sfc.hk/publicregWeb/indi/BND739/licenceRecord,,,Rep,2018-06-28,
+"Tang, Wei Ye ",None,sfclicrec.asp?p=2573390,AZL843,http://www.sfc.hk/publicregWeb/indi/AZL843/licenceRecord,,,Rep,2017-10-17,
+"Wang, Chen (SFC:AXC439) 王晨",None,sfclicrec.asp?p=70577,AXC439,http://www.sfc.hk/publicregWeb/indi/AXC439/licenceRecord,,,Rep,2014-02-28,2015-07-16
+"Wang, Chen (SFC:AXC439) 王晨",None,sfclicrec.asp?p=70577,AXC439,http://www.sfc.hk/publicregWeb/indi/AXC439/licenceRecord,,,RO,2015-07-16,2017-05-31
+"Xia, Yang (SFC:ALN489) 夏阳",None,sfclicrec.asp?p=96742,ALN489,http://www.sfc.hk/publicregWeb/indi/ALN489/licenceRecord,,,Rep,2017-10-09,2018-03-09
+"Zhang, Liqun 張立群",None,sfclicrec.asp?p=88323,ATB974,http://www.sfc.hk/publicregWeb/indi/ATB974/licenceRecord,,,RO,2013-07-03,
+"Zhao, Xiaowei 趙晓薇",None,sfclicrec.asp?p=2550717,BHF439,http://www.sfc.hk/publicregWeb/indi/BHF439/licenceRecord,,,Rep,2016-03-23,2018-05-07
+"Zhong, Junke 鐘駿珂",None,sfclicrec.asp?p=23196671,BOG315,http://www.sfc.hk/publicregWeb/indi/BOG315/licenceRecord,,,Rep,2019-05-20,

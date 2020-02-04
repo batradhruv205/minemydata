@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chiu, Ka Leung (SFC:AYK457) 趙家樑",sfclicrec.asp?p=135102,,,RO,2018-10-31,2020-01-10
-"Lo, Siu Fai 盧少輝",sfclicrec.asp?p=73056,,,RO,2018-10-31,
-"Tang, Oi Ying 鄧藹凝",sfclicrec.asp?p=22378756,,,RO,2018-10-31,2019-05-10
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chiu, Ka Leung (SFC:AYK457) 趙家樑",None,sfclicrec.asp?p=135102,AYK457,http://www.sfc.hk/publicregWeb/indi/AYK457/licenceRecord,,,RO,2018-10-31,2020-01-10
+"Lo, Siu Fai 盧少輝",None,sfclicrec.asp?p=73056,AAV691,http://www.sfc.hk/publicregWeb/indi/AAV691/licenceRecord,,,RO,2018-10-31,
+"Tang, Oi Ying 鄧藹凝",None,sfclicrec.asp?p=22378756,BKG376,http://www.sfc.hk/publicregWeb/indi/BKG376/licenceRecord,,,RO,2018-10-31,2019-05-10

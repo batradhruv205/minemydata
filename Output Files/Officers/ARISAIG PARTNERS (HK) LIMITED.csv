@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bryce, Steven Craig ",sfclicrec.asp?p=2334295,,M,Rep,2014-10-20,2019-04-07
-"Carnegie, Charles Duff ",sfclicrec.asp?p=2171963,31,M,Rep,2013-11-29,2019-03-31
-"Chen, Min (SFC:ANZ871) 陳敏",sfclicrec.asp?p=119735,,,Rep,2006-09-25,2007-09-30
-"Chua, Chee Seng ",sfclicrec.asp?p=2711282,,,RO,2017-03-13,2019-07-04
-"Chuang, Yia Ching 莊雅晴",sfclicrec.asp?p=119303,,,Rep,2006-08-07,2010-03-31
-"Lai, Ming Fung 黎銘豐",sfclicrec.asp?p=108485,,,RO,2006-01-20,2017-06-15
-"Lim, Thiam Soon ",sfclicrec.asp?p=117302,,,RO,2006-01-20,2011-10-14
-"Luo, Xiaochan 羅曉嬋",sfclicrec.asp?p=1888504,,,Rep,2012-05-03,2016-07-31
-"Miao, Yifan ",sfclicrec.asp?p=2614649,,,Rep,2016-08-03,2018-10-12
-"Potts, Robert James ",sfclicrec.asp?p=2715530,,M,Rep,2017-03-17,2019-05-31
-"Robinson, Hugo William James ",sfclicrec.asp?p=128453,,M,Rep,2009-08-25,2011-10-14
-"Robinson, Hugo William James ",sfclicrec.asp?p=128453,,M,RO,2011-10-14,
-"Tan, Desmond Chun Peng ",sfclicrec.asp?p=2443168,,M,Rep,2015-07-02,2017-03-10
-"Tan, Desmond Chun Peng ",sfclicrec.asp?p=2443168,,M,RO,2017-03-10,2019-11-29
-"Tan, Johny ",sfclicrec.asp?p=130737,,,Rep,2011-01-13,2011-12-24
-"Yuan, Lixi 苑里溪",sfclicrec.asp?p=2186589,,,Rep,2013-12-30,2017-07-07
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bryce, Steven Craig ",None,sfclicrec.asp?p=2334295,BEI690,http://www.sfc.hk/publicregWeb/indi/BEI690/licenceRecord,,M,Rep,2014-10-20,2019-04-07
+"Carnegie, Charles Duff ",None,sfclicrec.asp?p=2171963,BCH492,http://www.sfc.hk/publicregWeb/indi/BCH492/licenceRecord,31.0,M,Rep,2013-11-29,2019-03-31
+"Chen, Min (SFC:ANZ871) 陳敏",None,sfclicrec.asp?p=119735,ANZ871,http://www.sfc.hk/publicregWeb/indi/ANZ871/licenceRecord,,,Rep,2006-09-25,2007-09-30
+"Chua, Chee Seng ",None,sfclicrec.asp?p=2711282,AYG334,http://www.sfc.hk/publicregWeb/indi/AYG334/licenceRecord,,,RO,2017-03-13,2019-07-04
+"Chuang, Yia Ching 莊雅晴",None,sfclicrec.asp?p=119303,ANT796,http://www.sfc.hk/publicregWeb/indi/ANT796/licenceRecord,,,Rep,2006-08-07,2010-03-31
+"Lai, Ming Fung 黎銘豐",None,sfclicrec.asp?p=108485,AGC971,http://www.sfc.hk/publicregWeb/indi/AGC971/licenceRecord,,,RO,2006-01-20,2017-06-15
+"Lim, Thiam Soon ",None,sfclicrec.asp?p=117302,AMR139,http://www.sfc.hk/publicregWeb/indi/AMR139/licenceRecord,,,RO,2006-01-20,2011-10-14
+"Luo, Xiaochan 羅曉嬋",None,sfclicrec.asp?p=1888504,AZK018,http://www.sfc.hk/publicregWeb/indi/AZK018/licenceRecord,,,Rep,2012-05-03,2016-07-31
+"Miao, Yifan ",None,sfclicrec.asp?p=2614649,BHX474,http://www.sfc.hk/publicregWeb/indi/BHX474/licenceRecord,,,Rep,2016-08-03,2018-10-12
+"Potts, Robert James ",None,sfclicrec.asp?p=2715530,BJG312,http://www.sfc.hk/publicregWeb/indi/BJG312/licenceRecord,,M,Rep,2017-03-17,2019-05-31
+"Robinson, Hugo William James ",None,sfclicrec.asp?p=128453,ATO789,http://www.sfc.hk/publicregWeb/indi/ATO789/licenceRecord,,M,Rep,2009-08-25,2011-10-14
+"Robinson, Hugo William James ",None,sfclicrec.asp?p=128453,ATO789,http://www.sfc.hk/publicregWeb/indi/ATO789/licenceRecord,,M,RO,2011-10-14,
+"Tan, Desmond Chun Peng ",None,sfclicrec.asp?p=2443168,BFN306,http://www.sfc.hk/publicregWeb/indi/BFN306/licenceRecord,,M,Rep,2015-07-02,2017-03-10
+"Tan, Desmond Chun Peng ",None,sfclicrec.asp?p=2443168,BFN306,http://www.sfc.hk/publicregWeb/indi/BFN306/licenceRecord,,M,RO,2017-03-10,2019-11-29
+"Tan, Johny ",None,sfclicrec.asp?p=130737,AWP899,http://www.sfc.hk/publicregWeb/indi/AWP899/licenceRecord,,,Rep,2011-01-13,2011-12-24
+"Yuan, Lixi 苑里溪",None,sfclicrec.asp?p=2186589,BCL663,http://www.sfc.hk/publicregWeb/indi/BCL663/licenceRecord,,,Rep,2013-12-30,2017-07-07

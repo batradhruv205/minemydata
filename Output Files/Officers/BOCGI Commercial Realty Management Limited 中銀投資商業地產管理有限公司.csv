@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Li, Jia (SFC:BFY141) 李佳",sfclicrec.asp?p=2485377,,,RO,2015-10-12,2019-07-31
-"Wei, Da 韋達",sfclicrec.asp?p=2468325,,,RO,2014-09-04,2019-07-31
-"Yang, Zao 楊早",sfclicrec.asp?p=2468326,,,Rep,2015-02-16,2015-08-17
-"Yang, Zao 楊早",sfclicrec.asp?p=2468326,,,RO,2015-08-17,
-"Yao, Yingqi 姚英奇",sfclicrec.asp?p=2468311,,,RO,2014-09-04,2015-07-20
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Li, Jia (SFC:BFY141) 李佳",None,sfclicrec.asp?p=2485377,BFY141,http://www.sfc.hk/publicregWeb/indi/BFY141/licenceRecord,,,RO,2015-10-12,2019-07-31
+"Wei, Da 韋達",None,sfclicrec.asp?p=2468325,BDM675,http://www.sfc.hk/publicregWeb/indi/BDM675/licenceRecord,,,RO,2014-09-04,2019-07-31
+"Yang, Zao 楊早",None,sfclicrec.asp?p=2468326,BEU056,http://www.sfc.hk/publicregWeb/indi/BEU056/licenceRecord,,,Rep,2015-02-16,2015-08-17
+"Yang, Zao 楊早",None,sfclicrec.asp?p=2468326,BEU056,http://www.sfc.hk/publicregWeb/indi/BEU056/licenceRecord,,,RO,2015-08-17,
+"Yao, Yingqi 姚英奇",None,sfclicrec.asp?p=2468311,BDM677,http://www.sfc.hk/publicregWeb/indi/BDM677/licenceRecord,,,RO,2014-09-04,2015-07-20

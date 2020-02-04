@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Debby Mei Ying 陳鎂瑩",sfclicrec.asp?p=95155,,F,Rep,2017-11-07,2018-10-26
-"Chin, Chi Ho Stanley 錢志浩",sfclicrec.asp?p=12613756,,,Rep,2017-12-01,
-"Fu, Huihui 付慧慧",sfclicrec.asp?p=2396299,,,Rep,2019-06-10,2019-07-22
-"Fung, Hon Kuen 馮漢權",sfclicrec.asp?p=95153,,,RO,2017-07-21,
-"Lam, Hoi Tung 林海東",sfclicrec.asp?p=99543,,,Rep,2017-09-25,2018-12-07
-"Liu, Sai Kwong 廖世光",sfclicrec.asp?p=63227,,,RO,2017-07-21,
-"Yeung, Adrian (SFC:BOG580) 楊學深",sfclicrec.asp?p=23412789,,M,Rep,2019-07-11,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Debby Mei Ying 陳鎂瑩",None,sfclicrec.asp?p=95155,ASQ159,http://www.sfc.hk/publicregWeb/indi/ASQ159/licenceRecord,,F,Rep,2017-11-07,2018-10-26
+"Chin, Chi Ho Stanley 錢志浩",None,sfclicrec.asp?p=12613756,BIQ723,http://www.sfc.hk/publicregWeb/indi/BIQ723/licenceRecord,,,Rep,2017-12-01,
+"Fu, Huihui 付慧慧",None,sfclicrec.asp?p=2396299,BEJ105,http://www.sfc.hk/publicregWeb/indi/BEJ105/licenceRecord,,,Rep,2019-06-10,2019-07-22
+"Fung, Hon Kuen 馮漢權",None,sfclicrec.asp?p=95153,ALP962,http://www.sfc.hk/publicregWeb/indi/ALP962/licenceRecord,,,RO,2017-07-21,
+"Lam, Hoi Tung 林海東",None,sfclicrec.asp?p=99543,AXB352,http://www.sfc.hk/publicregWeb/indi/AXB352/licenceRecord,,,Rep,2017-09-25,2018-12-07
+"Liu, Sai Kwong 廖世光",None,sfclicrec.asp?p=63227,AAC402,http://www.sfc.hk/publicregWeb/indi/AAC402/licenceRecord,,,RO,2017-07-21,
+"Yeung, Adrian (SFC:BOG580) 楊學深",None,sfclicrec.asp?p=23412789,BOG580,http://www.sfc.hk/publicregWeb/indi/BOG580/licenceRecord,,M,Rep,2019-07-11,

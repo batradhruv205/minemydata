@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Otto (SFC:AZR076) 陳宇穎",sfclicrec.asp?p=2590964,,M,Rep,2015-04-27,
-"Huang, Thomas Xi 黃晞",sfclicrec.asp?p=2590960,,M,RO,2015-02-13,2017-10-16
-"Huang, Xin (SFC:AYQ786) ",sfclicrec.asp?p=2590962,,,RO,2015-02-13,
-"Li, Meizhen (SFC:AZR075) 李美珍",sfclicrec.asp?p=2590965,,,Rep,2015-04-27,
-"Li, Yiu Fai 李耀輝",sfclicrec.asp?p=2590963,49,M,RO,2015-02-13,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Otto (SFC:AZR076) 陳宇穎",None,sfclicrec.asp?p=2590964,AZR076,http://www.sfc.hk/publicregWeb/indi/AZR076/licenceRecord,,M,Rep,2015-04-27,
+"Huang, Thomas Xi 黃晞",None,sfclicrec.asp?p=2590960,AYQ787,http://www.sfc.hk/publicregWeb/indi/AYQ787/licenceRecord,,M,RO,2015-02-13,2017-10-16
+"Huang, Xin (SFC:AYQ786) ",None,sfclicrec.asp?p=2590962,AYQ786,http://www.sfc.hk/publicregWeb/indi/AYQ786/licenceRecord,,,RO,2015-02-13,
+"Li, Meizhen (SFC:AZR075) 李美珍",None,sfclicrec.asp?p=2590965,AZR075,http://www.sfc.hk/publicregWeb/indi/AZR075/licenceRecord,,,Rep,2015-04-27,
+"Li, Yiu Fai 李耀輝",None,sfclicrec.asp?p=2590963,AYQ760,http://www.sfc.hk/publicregWeb/indi/AYQ760/licenceRecord,49.0,M,RO,2015-02-13,

@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Calame, Philippe Robert ",sfclicrec.asp?p=2318360,,M,RO,2014-09-10,2015-02-27
-"Chan, Ka Wing (SFC:ARM730) 陳嘉穎",sfclicrec.asp?p=126377,,,Rep,2014-10-31,2018-05-11
-"Cheng, Edlyn Wei Chi 鄭慧慈",sfclicrec.asp?p=2327027,,F,Rep,2014-09-30,2019-02-20
-"Cheng, Edlyn Wei Chi 鄭慧慈",sfclicrec.asp?p=2327027,,F,RO,2019-02-20,
-"Chu, Wing Lui Mabel 朱詠蕾",sfclicrec.asp?p=2335403,,,Rep,2014-10-22,2016-01-21
-"Kam, Tyran 金泰倫",sfclicrec.asp?p=98632,,,Rep,2014-09-30,2015-08-21
-"Lee, Ellen Sze Man 李思敏",sfclicrec.asp?p=95545,,F,Rep,2016-02-17,2018-01-31
-"Li, Justina Shu Ying 李杼凝",sfclicrec.asp?p=116206,,F,Rep,2014-09-30,2016-01-22
-"Luk, Caesar Man Wa 陸文華",sfclicrec.asp?p=101667,,,RO,2014-09-10,
-"Wang, Yi (SFC:AUW136) 王翼",sfclicrec.asp?p=129432,,,Rep,2014-09-30,2015-05-27
-"Wang, Zhi (SFC:ARO579) ",sfclicrec.asp?p=100316,,,Rep,2014-10-29,2015-12-31
-"Wong, Chi Ho (SFC:AVN455) 黃志豪",sfclicrec.asp?p=88086,,,Rep,2014-10-06,2018-05-22
-"Wu, Josephine Yi Shun 胡懿淳",sfclicrec.asp?p=93610,,F,Rep,2014-09-30,2015-02-12
-"Wu, Josephine Yi Shun 胡懿淳",sfclicrec.asp?p=93610,,F,RO,2015-02-12,2018-11-30
-"Yao, Simone Tong ",sfclicrec.asp?p=2341178,,F,Rep,2014-11-04,2015-12-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Calame, Philippe Robert ",None,sfclicrec.asp?p=2318360,BDE472,http://www.sfc.hk/publicregWeb/indi/BDE472/licenceRecord,,M,RO,2014-09-10,2015-02-27
+"Chan, Ka Wing (SFC:ARM730) 陳嘉穎",None,sfclicrec.asp?p=126377,ARM730,http://www.sfc.hk/publicregWeb/indi/ARM730/licenceRecord,,,Rep,2014-10-31,2018-05-11
+"Cheng, Edlyn Wei Chi 鄭慧慈",None,sfclicrec.asp?p=2327027,BEF807,http://www.sfc.hk/publicregWeb/indi/BEF807/licenceRecord,,F,Rep,2014-09-30,2019-02-20
+"Cheng, Edlyn Wei Chi 鄭慧慈",None,sfclicrec.asp?p=2327027,BEF807,http://www.sfc.hk/publicregWeb/indi/BEF807/licenceRecord,,F,RO,2019-02-20,
+"Chu, Wing Lui Mabel 朱詠蕾",None,sfclicrec.asp?p=2335403,ARI762,http://www.sfc.hk/publicregWeb/indi/ARI762/licenceRecord,,,Rep,2014-10-22,2016-01-21
+"Kam, Tyran 金泰倫",None,sfclicrec.asp?p=98632,AMG982,http://www.sfc.hk/publicregWeb/indi/AMG982/licenceRecord,,,Rep,2014-09-30,2015-08-21
+"Lee, Ellen Sze Man 李思敏",None,sfclicrec.asp?p=95545,APH709,http://www.sfc.hk/publicregWeb/indi/APH709/licenceRecord,,F,Rep,2016-02-17,2018-01-31
+"Li, Justina Shu Ying 李杼凝",None,sfclicrec.asp?p=116206,AME272,http://www.sfc.hk/publicregWeb/indi/AME272/licenceRecord,,F,Rep,2014-09-30,2016-01-22
+"Luk, Caesar Man Wa 陸文華",None,sfclicrec.asp?p=101667,AAV934,http://www.sfc.hk/publicregWeb/indi/AAV934/licenceRecord,,,RO,2014-09-10,
+"Wang, Yi (SFC:AUW136) 王翼",None,sfclicrec.asp?p=129432,AUW136,http://www.sfc.hk/publicregWeb/indi/AUW136/licenceRecord,,,Rep,2014-09-30,2015-05-27
+"Wang, Zhi (SFC:ARO579) ",None,sfclicrec.asp?p=100316,ARO579,http://www.sfc.hk/publicregWeb/indi/ARO579/licenceRecord,,,Rep,2014-10-29,2015-12-31
+"Wong, Chi Ho (SFC:AVN455) 黃志豪",None,sfclicrec.asp?p=88086,AVN455,http://www.sfc.hk/publicregWeb/indi/AVN455/licenceRecord,,,Rep,2014-10-06,2018-05-22
+"Wu, Josephine Yi Shun 胡懿淳",None,sfclicrec.asp?p=93610,ATT236,http://www.sfc.hk/publicregWeb/indi/ATT236/licenceRecord,,F,Rep,2014-09-30,2015-02-12
+"Wu, Josephine Yi Shun 胡懿淳",None,sfclicrec.asp?p=93610,ATT236,http://www.sfc.hk/publicregWeb/indi/ATT236/licenceRecord,,F,RO,2015-02-12,2018-11-30
+"Yao, Simone Tong ",None,sfclicrec.asp?p=2341178,BEF804,http://www.sfc.hk/publicregWeb/indi/BEF804/licenceRecord,,F,Rep,2014-11-04,2015-12-31

@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Yik Tat 陳奕達",sfclicrec.asp?p=2570283,,,Rep,2017-04-21,2018-02-27
-"Cheung, Chor Yu 張礎宇",sfclicrec.asp?p=95423,,,Rep,2018-09-19,2018-09-21
-"Cheung, Chor Yu 張礎宇",sfclicrec.asp?p=95423,,,RO,2018-09-21,
-"Chuang, Shu Yan 莊樹人",sfclicrec.asp?p=22763419,,,Rep,2019-02-11,
-"Fung, Ruby Shiu Lan 馮少蘭",sfclicrec.asp?p=100882,,F,RO,,2016-05-04
-"Lai, Betty Yuk Lan 黎玉蘭",sfclicrec.asp?p=100892,,F,RO,,2015-06-16
-"Lai, Ka Hang 黎嘉衡",sfclicrec.asp?p=103179,,,Rep,2003-10-01,2011-10-12
-"Lai, Ka Hang 黎嘉衡",sfclicrec.asp?p=103179,,,RO,2011-10-12,
-"Law, On Yee 羅安怡",sfclicrec.asp?p=95736,,,Rep,2017-06-07,2017-08-08
-"Law, On Yee 羅安怡",sfclicrec.asp?p=95736,,,RO,2017-08-08,2018-10-05
-"Ma, Venety Sau Ying 馬秀英",sfclicrec.asp?p=100886,,F,Rep,,
-"Or, Siu Kam 柯小琴",sfclicrec.asp?p=112996,,,RO,2016-04-18,2018-08-15
-"Pang, Wai Chung 彭衛聰",sfclicrec.asp?p=72180,,,Rep,2018-08-24,
-"Yuen, Shuk Hing 袁淑卿",sfclicrec.asp?p=105888,,,Rep,,2014-09-01
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Yik Tat 陳奕達",None,sfclicrec.asp?p=2570283,BHK126,http://www.sfc.hk/publicregWeb/indi/BHK126/licenceRecord,,,Rep,2017-04-21,2018-02-27
+"Cheung, Chor Yu 張礎宇",None,sfclicrec.asp?p=95423,AJE761,http://www.sfc.hk/publicregWeb/indi/AJE761/licenceRecord,,,Rep,2018-09-19,2018-09-21
+"Cheung, Chor Yu 張礎宇",None,sfclicrec.asp?p=95423,AJE761,http://www.sfc.hk/publicregWeb/indi/AJE761/licenceRecord,,,RO,2018-09-21,
+"Chuang, Shu Yan 莊樹人",None,sfclicrec.asp?p=22763419,BBE377,http://www.sfc.hk/publicregWeb/indi/BBE377/licenceRecord,,,Rep,2019-02-11,
+"Fung, Ruby Shiu Lan 馮少蘭",None,sfclicrec.asp?p=100882,AAD282,http://www.sfc.hk/publicregWeb/indi/AAD282/licenceRecord,,F,RO,,2016-05-04
+"Lai, Betty Yuk Lan 黎玉蘭",None,sfclicrec.asp?p=100892,AAD336,http://www.sfc.hk/publicregWeb/indi/AAD336/licenceRecord,,F,RO,,2015-06-16
+"Lai, Ka Hang 黎嘉衡",None,sfclicrec.asp?p=103179,ACP970,http://www.sfc.hk/publicregWeb/indi/ACP970/licenceRecord,,,Rep,2003-10-01,2011-10-12
+"Lai, Ka Hang 黎嘉衡",None,sfclicrec.asp?p=103179,ACP970,http://www.sfc.hk/publicregWeb/indi/ACP970/licenceRecord,,,RO,2011-10-12,
+"Law, On Yee 羅安怡",None,sfclicrec.asp?p=95736,AWQ303,http://www.sfc.hk/publicregWeb/indi/AWQ303/licenceRecord,,,Rep,2017-06-07,2017-08-08
+"Law, On Yee 羅安怡",None,sfclicrec.asp?p=95736,AWQ303,http://www.sfc.hk/publicregWeb/indi/AWQ303/licenceRecord,,,RO,2017-08-08,2018-10-05
+"Ma, Venety Sau Ying 馬秀英",None,sfclicrec.asp?p=100886,AAD304,http://www.sfc.hk/publicregWeb/indi/AAD304/licenceRecord,,F,Rep,,
+"Or, Siu Kam 柯小琴",None,sfclicrec.asp?p=112996,AJD975,http://www.sfc.hk/publicregWeb/indi/AJD975/licenceRecord,,,RO,2016-04-18,2018-08-15
+"Pang, Wai Chung 彭衛聰",None,sfclicrec.asp?p=72180,AFL704,http://www.sfc.hk/publicregWeb/indi/AFL704/licenceRecord,,,Rep,2018-08-24,
+"Yuen, Shuk Hing 袁淑卿",None,sfclicrec.asp?p=105888,AFD012,http://www.sfc.hk/publicregWeb/indi/AFD012/licenceRecord,,,Rep,,2014-09-01

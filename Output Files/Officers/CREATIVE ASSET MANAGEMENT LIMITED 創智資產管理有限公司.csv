@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Hu, Han (SFC:BDC637) 胡涵",sfclicrec.asp?p=2223424,,,Rep,2016-08-17,
-"Hung, Gary 洪基立",sfclicrec.asp?p=100642,,M,RO,2008-07-09,2012-11-05
-"Kam, Shou Him Thomas 甘守謙",sfclicrec.asp?p=133660,,,Rep,2011-11-11,2015-06-12
-"Leung, Chi Chiu (SFC:ACG206) 梁志超",sfclicrec.asp?p=102736,61,,RO,2008-07-09,
-"Leung, Hiu Yan (SFC:AUY597) 梁曉欣",sfclicrec.asp?p=129557,,,Rep,2010-05-06,2012-10-30
-"Leung, Hiu Yan (SFC:AUY597) 梁曉欣",sfclicrec.asp?p=129557,,,RO,2012-10-30,2015-12-31
-"Liu, Henry Je Ngai 廖子毅",sfclicrec.asp?p=71594,,M,Rep,2016-05-27,2018-08-31
-"Neo, Christopher (SFC:BDO841) 梁博興",sfclicrec.asp?p=2693675,,M,Rep,2017-02-06,
-"Rucquoi-Berger, John Timothy 伯希儒",sfclicrec.asp?p=103399,,M,RO,2014-01-02,
-"Tsang, Kwai Fong 曾桂芳",sfclicrec.asp?p=96578,,,Rep,2015-11-20,2018-06-28
-"Tsang, Kwai Fong 曾桂芳",sfclicrec.asp?p=96578,,,RO,2018-06-28,
-"Tsui, Wai Kei (SFC:AEF381) 崔偉基",sfclicrec.asp?p=63372,,,Rep,2019-10-25,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Hu, Han (SFC:BDC637) 胡涵",None,sfclicrec.asp?p=2223424,BDC637,http://www.sfc.hk/publicregWeb/indi/BDC637/licenceRecord,,,Rep,8/17/2016,
+"Hung, Gary 洪基立",None,sfclicrec.asp?p=100642,AAB182,http://www.sfc.hk/publicregWeb/indi/AAB182/licenceRecord,,M,RO,7/9/2008,11/5/2012
+"Kam, Shou Him Thomas 甘守謙",None,sfclicrec.asp?p=133660,AYG344,http://www.sfc.hk/publicregWeb/indi/AYG344/licenceRecord,,,Rep,11/11/2011,6/12/2015
+"Leung, Chi Chiu (SFC:ACG206) 梁志超",None,sfclicrec.asp?p=102736,ACG206,http://www.sfc.hk/publicregWeb/indi/ACG206/licenceRecord,61.0,,RO,7/9/2008,
+"Leung, Hiu Yan (SFC:AUY597) 梁曉欣",None,sfclicrec.asp?p=129557,AUY597,http://www.sfc.hk/publicregWeb/indi/AUY597/licenceRecord,,,Rep,5/6/2010,10/30/2012
+"Leung, Hiu Yan (SFC:AUY597) 梁曉欣",None,sfclicrec.asp?p=129557,AUY597,http://www.sfc.hk/publicregWeb/indi/AUY597/licenceRecord,,,RO,10/30/2012,12/31/2015
+"Liu, Henry Je Ngai 廖子毅",None,sfclicrec.asp?p=71594,AFE506,http://www.sfc.hk/publicregWeb/indi/AFE506/licenceRecord,,M,Rep,5/27/2016,8/31/2018
+"Neo, Christopher (SFC:BDO841) 梁博興",None,sfclicrec.asp?p=2693675,BDO841,http://www.sfc.hk/publicregWeb/indi/BDO841/licenceRecord,,M,Rep,2/6/2017,
+"Rucquoi-Berger, John Timothy 伯希儒",None,sfclicrec.asp?p=103399,ACW848,http://www.sfc.hk/publicregWeb/indi/ACW848/licenceRecord,,M,RO,1/2/2014,
+"Tsang, Kwai Fong 曾桂芳",None,sfclicrec.asp?p=96578,AFV209,http://www.sfc.hk/publicregWeb/indi/AFV209/licenceRecord,,,Rep,11/20/2015,6/28/2018
+"Tsang, Kwai Fong 曾桂芳",None,sfclicrec.asp?p=96578,AFV209,http://www.sfc.hk/publicregWeb/indi/AFV209/licenceRecord,,,RO,6/28/2018,
+"Tsui, Wai Kei (SFC:AEF381) 崔偉基",None,sfclicrec.asp?p=63372,AEF381,http://www.sfc.hk/publicregWeb/indi/AEF381/licenceRecord,,,Rep,10/25/2019,

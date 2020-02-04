@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Sunny Ho Sun 陳灝燊",sfclicrec.asp?p=50012,50,M,RO,2011-12-05,2014-08-01
-"Chen, Qi (SFC:ARI743) 陳琦",sfclicrec.asp?p=88792,,,Rep,2016-12-02,2019-02-28
-"Cheung, Victor Chor Keung 張楚強",sfclicrec.asp?p=72855,59,M,Rep,2015-12-02,2015-12-22
-"Cheung, Victor Chor Keung 張楚強",sfclicrec.asp?p=72855,59,M,RO,2015-12-22,2017-04-17
-"Ching, Caspar On Pong 程安邦",sfclicrec.asp?p=2308948,,M,Rep,2015-11-25,2017-03-15
-"Lau, On Kwok 劉安國",sfclicrec.asp?p=48997,54,M,RO,2013-10-02,2014-08-06
-"Law, Pui Lam Charlotte 羅佩霖",sfclicrec.asp?p=22549880,,,Rep,2018-12-19,2019-07-17
-"Lee, Edward Wai Leung 李偉樑",sfclicrec.asp?p=134484,,M,RO,2011-12-05,2013-04-01
-"Lee, Yik Yu 李奕儒",sfclicrec.asp?p=83764,,,RO,2018-06-29,2019-09-01
-"Li, Zhengrong 李崢嶸",sfclicrec.asp?p=2316474,,,RO,2015-12-16,2017-04-16
-"Lin, Hsiu Mei 林秀梅",sfclicrec.asp?p=81623,,,RO,2018-06-29,
-"Poon, Raymond Wai Kei 潘偉基",sfclicrec.asp?p=104392,,M,RO,2011-12-05,2013-04-01
-"Shi, Weihua 史韋華",sfclicrec.asp?p=2206221,,,Rep,2019-12-09,2019-12-13
-"Ye, Haodi 葉浩迪",sfclicrec.asp?p=2164206,,,Rep,2016-11-21,2017-07-12
-"Yip, Raymond Kar Hang 葉嘉衡",sfclicrec.asp?p=29097,52,M,RO,2013-04-30,2013-09-01
-"Zhu, Yong (SFC:AJD985) 朱勇",sfclicrec.asp?p=112997,,,RO,2015-09-29,2016-03-01
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Sunny Ho Sun 陳灝燊",None,sfclicrec.asp?p=50012,ABG920,http://www.sfc.hk/publicregWeb/indi/ABG920/licenceRecord,50.0,M,RO,2011-12-05,2014-08-01
+"Chen, Qi (SFC:ARI743) 陳琦",None,sfclicrec.asp?p=88792,ARI743,http://www.sfc.hk/publicregWeb/indi/ARI743/licenceRecord,,,Rep,2016-12-02,2019-02-28
+"Cheung, Victor Chor Keung 張楚強",None,sfclicrec.asp?p=72855,AUH716,http://www.sfc.hk/publicregWeb/indi/AUH716/licenceRecord,59.0,M,Rep,2015-12-02,2015-12-22
+"Cheung, Victor Chor Keung 張楚強",None,sfclicrec.asp?p=72855,AUH716,http://www.sfc.hk/publicregWeb/indi/AUH716/licenceRecord,59.0,M,RO,2015-12-22,2017-04-17
+"Ching, Caspar On Pong 程安邦",None,sfclicrec.asp?p=2308948,BDU954,http://www.sfc.hk/publicregWeb/indi/BDU954/licenceRecord,,M,Rep,2015-11-25,2017-03-15
+"Lau, On Kwok 劉安國",None,sfclicrec.asp?p=48997,AFJ680,http://www.sfc.hk/publicregWeb/indi/AFJ680/licenceRecord,54.0,M,RO,2013-10-02,2014-08-06
+"Law, Pui Lam Charlotte 羅佩霖",None,sfclicrec.asp?p=22549880,BNU078,http://www.sfc.hk/publicregWeb/indi/BNU078/licenceRecord,,,Rep,2018-12-19,2019-07-17
+"Lee, Edward Wai Leung 李偉樑",None,sfclicrec.asp?p=134484,AXX399,http://www.sfc.hk/publicregWeb/indi/AXX399/licenceRecord,,M,RO,2011-12-05,2013-04-01
+"Lee, Yik Yu 李奕儒",None,sfclicrec.asp?p=83764,AGV327,http://www.sfc.hk/publicregWeb/indi/AGV327/licenceRecord,,,RO,2018-06-29,2019-09-01
+"Li, Zhengrong 李崢嶸",None,sfclicrec.asp?p=2316474,BEC138,http://www.sfc.hk/publicregWeb/indi/BEC138/licenceRecord,,,RO,2015-12-16,2017-04-16
+"Lin, Hsiu Mei 林秀梅",None,sfclicrec.asp?p=81623,AFQ674,http://www.sfc.hk/publicregWeb/indi/AFQ674/licenceRecord,,,RO,2018-06-29,
+"Poon, Raymond Wai Kei 潘偉基",None,sfclicrec.asp?p=104392,ADX642,http://www.sfc.hk/publicregWeb/indi/ADX642/licenceRecord,,M,RO,2011-12-05,2013-04-01
+"Shi, Weihua 史韋華",None,sfclicrec.asp?p=2206221,BCT483,http://www.sfc.hk/publicregWeb/indi/BCT483/licenceRecord,,,Rep,2019-12-09,2019-12-13
+"Ye, Haodi 葉浩迪",None,sfclicrec.asp?p=2164206,BCC156,http://www.sfc.hk/publicregWeb/indi/BCC156/licenceRecord,,,Rep,2016-11-21,2017-07-12
+"Yip, Raymond Kar Hang 葉嘉衡",None,sfclicrec.asp?p=29097,AGY622,http://www.sfc.hk/publicregWeb/indi/AGY622/licenceRecord,52.0,M,RO,2013-04-30,2013-09-01
+"Zhu, Yong (SFC:AJD985) 朱勇",None,sfclicrec.asp?p=112997,AJD985,http://www.sfc.hk/publicregWeb/indi/AJD985/licenceRecord,,,RO,2015-09-29,2016-03-01

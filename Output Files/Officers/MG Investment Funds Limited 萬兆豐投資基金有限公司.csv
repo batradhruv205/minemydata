@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chou, Chun Lam 周俊林",sfclicrec.asp?p=78347,,,RO,2013-10-16,2015-12-31
-"Chung, Cann Hoi Man 鍾海汶",sfclicrec.asp?p=91606,,,Rep,2015-06-24,2015-06-30
-"Chung, Cann Hoi Man 鍾海汶",sfclicrec.asp?p=91606,,,RO,2015-06-30,2016-04-22
-"Fan, Jianqiang 樊建強",sfclicrec.asp?p=1899285,,,RO,2015-02-12,2015-07-02
-"Lam, Siu Chan 林兆燦",sfclicrec.asp?p=91448,,,RO,2016-01-05,
-"Lo, Felix Xu Yu 羅煦愉",sfclicrec.asp?p=129063,,M,RO,2010-02-22,2013-05-30
-"Minesuk, Thanachai ",sfclicrec.asp?p=129064,,,RO,2010-02-22,2014-04-30
-"Ting, Kit Lun 丁傑麟",sfclicrec.asp?p=2077776,55,M,Rep,2013-11-04,2016-04-19
-"Ting, Kit Lun 丁傑麟",sfclicrec.asp?p=2077776,55,M,RO,2016-04-19,
-"Wong, Tin Ho 黃天豪",sfclicrec.asp?p=98428,,,RO,2015-07-03,2016-02-29
-"Wong, Tin Ho 黃天豪",sfclicrec.asp?p=98428,,,RO,2016-04-15,2017-05-15
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chou, Chun Lam 周俊林",None,sfclicrec.asp?p=78347,AMC653,http://www.sfc.hk/publicregWeb/indi/AMC653/licenceRecord,,,RO,2013-10-16,2015-12-31
+"Chung, Cann Hoi Man 鍾海汶",None,sfclicrec.asp?p=91606,AMX836,http://www.sfc.hk/publicregWeb/indi/AMX836/licenceRecord,,,Rep,2015-06-24,2015-06-30
+"Chung, Cann Hoi Man 鍾海汶",None,sfclicrec.asp?p=91606,AMX836,http://www.sfc.hk/publicregWeb/indi/AMX836/licenceRecord,,,RO,2015-06-30,2016-04-22
+"Fan, Jianqiang 樊建強",None,sfclicrec.asp?p=1899285,AYI690,http://www.sfc.hk/publicregWeb/indi/AYI690/licenceRecord,,,RO,2015-02-12,2015-07-02
+"Lam, Siu Chan 林兆燦",None,sfclicrec.asp?p=91448,ACL967,http://www.sfc.hk/publicregWeb/indi/ACL967/licenceRecord,,,RO,2016-01-05,
+"Lo, Felix Xu Yu 羅煦愉",None,sfclicrec.asp?p=129063,AUI262,http://www.sfc.hk/publicregWeb/indi/AUI262/licenceRecord,,M,RO,2010-02-22,2013-05-30
+"Minesuk, Thanachai ",None,sfclicrec.asp?p=129064,AUI263,http://www.sfc.hk/publicregWeb/indi/AUI263/licenceRecord,,,RO,2010-02-22,2014-04-30
+"Ting, Kit Lun 丁傑麟",None,sfclicrec.asp?p=2077776,BAO734,http://www.sfc.hk/publicregWeb/indi/BAO734/licenceRecord,55.0,M,Rep,2013-11-04,2016-04-19
+"Ting, Kit Lun 丁傑麟",None,sfclicrec.asp?p=2077776,BAO734,http://www.sfc.hk/publicregWeb/indi/BAO734/licenceRecord,55.0,M,RO,2016-04-19,
+"Wong, Tin Ho 黃天豪",None,sfclicrec.asp?p=98428,AJI703,http://www.sfc.hk/publicregWeb/indi/AJI703/licenceRecord,,,RO,2015-07-03,2016-02-29
+"Wong, Tin Ho 黃天豪",None,sfclicrec.asp?p=98428,AJI703,http://www.sfc.hk/publicregWeb/indi/AJI703/licenceRecord,,,RO,2016-04-15,2017-05-15

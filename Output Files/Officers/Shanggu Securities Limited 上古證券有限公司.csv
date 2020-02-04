@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Dickson 鄭迪舜",sfclicrec.asp?p=88515,51,M,RO,2018-02-05,
-"Chiu, Chun Po 趙振甫",sfclicrec.asp?p=2464253,,,Rep,2018-09-13,
-"Leung, Wai Nam 梁偉南",sfclicrec.asp?p=88522,,,RO,2018-02-05,
-"Li, James Kwok Tai 李國泰",sfclicrec.asp?p=93300,,M,Rep,2018-06-22,2018-08-31
-"Li, James Kwok Tai 李國泰",sfclicrec.asp?p=93300,,M,RO,2018-08-31,
-"Man, Chi Au Alissa 文志妤",sfclicrec.asp?p=16337638,,,Rep,2018-06-01,
-"O'Yang, Wiley 歐陽偉立",sfclicrec.asp?p=104761,57,M,RO,2018-02-05,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Dickson 鄭迪舜",None,sfclicrec.asp?p=88515,AGP527,http://www.sfc.hk/publicregWeb/indi/AGP527/licenceRecord,51.0,M,RO,2018-02-05,
+"Chiu, Chun Po 趙振甫",None,sfclicrec.asp?p=2464253,BGB008,http://www.sfc.hk/publicregWeb/indi/BGB008/licenceRecord,,,Rep,2018-09-13,
+"Leung, Wai Nam 梁偉南",None,sfclicrec.asp?p=88522,AGH932,http://www.sfc.hk/publicregWeb/indi/AGH932/licenceRecord,,,RO,2018-02-05,
+"Li, James Kwok Tai 李國泰",None,sfclicrec.asp?p=93300,AFS293,http://www.sfc.hk/publicregWeb/indi/AFS293/licenceRecord,,M,Rep,2018-06-22,2018-08-31
+"Li, James Kwok Tai 李國泰",None,sfclicrec.asp?p=93300,AFS293,http://www.sfc.hk/publicregWeb/indi/AFS293/licenceRecord,,M,RO,2018-08-31,
+"Man, Chi Au Alissa 文志妤",None,sfclicrec.asp?p=16337638,BMW869,http://www.sfc.hk/publicregWeb/indi/BMW869/licenceRecord,,,Rep,2018-06-01,
+"O'Yang, Wiley 歐陽偉立",None,sfclicrec.asp?p=104761,AEH460,http://www.sfc.hk/publicregWeb/indi/AEH460/licenceRecord,57.0,M,RO,2018-02-05,

@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Kwok, Wing Lun 郭詠麟",sfclicrec.asp?p=118018,,,RO,2019-02-13,
-"Liao, Wangzhou 廖望州",sfclicrec.asp?p=2499437,,,Rep,2019-09-19,
-"Liu, Chi Yeung 廖摯洋",sfclicrec.asp?p=93046,,,RO,2019-02-13,2019-03-02
-"Wang, Vivian Nan ",sfclicrec.asp?p=2536508,,,RO,2019-12-13,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Kwok, Wing Lun 郭詠麟",None,sfclicrec.asp?p=118018,AND706,http://www.sfc.hk/publicregWeb/indi/AND706/licenceRecord,,,RO,2019-02-13,
+"Liao, Wangzhou 廖望州",None,sfclicrec.asp?p=2499437,BGI773,http://www.sfc.hk/publicregWeb/indi/BGI773/licenceRecord,,,Rep,2019-09-19,
+"Liu, Chi Yeung 廖摯洋",None,sfclicrec.asp?p=93046,AHW147,http://www.sfc.hk/publicregWeb/indi/AHW147/licenceRecord,,,RO,2019-02-13,2019-03-02
+"Wang, Vivian Nan ",None,sfclicrec.asp?p=2536508,BGZ177,http://www.sfc.hk/publicregWeb/indi/BGZ177/licenceRecord,,,RO,2019-12-13,

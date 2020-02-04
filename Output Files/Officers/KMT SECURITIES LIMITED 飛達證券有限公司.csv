@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Lai Fong (SFC:ABZ850) 張麗芳",sfclicrec.asp?p=100415,,,Rep,,2018-04-28
-"Chow, Chung 鄒津",sfclicrec.asp?p=101761,,,Rep,,2011-06-30
-"Chow, Lai Wah 鄒麗華",sfclicrec.asp?p=100413,,,RO,,
-"Chow, Yau 鄒有",sfclicrec.asp?p=100416,,,Rep,2008-11-07,2015-05-01
-"Ho, Jackie Siu Ling 何少玲",sfclicrec.asp?p=100417,,,Rep,,2017-07-31
-"Lai, Albert Wang Kit 黎泓傑",sfclicrec.asp?p=10870293,,M,Rep,2017-05-24,
-"Lai, Kang Po 黎庚普",sfclicrec.asp?p=100414,,,RO,,
-"Lai, Kwok Kang 黎國庚",sfclicrec.asp?p=100418,,,Rep,,
-"Law, Yan Kuen 羅仁權",sfclicrec.asp?p=98687,,,Rep,2003-09-08,2009-02-16
-"Ng, Allan Fan Lam 吳藩琳",sfclicrec.asp?p=100419,,M,Rep,,2015-05-01
-"Tsui, Mei Wah 徐美華",sfclicrec.asp?p=100420,,,Rep,2003-09-08,2018-06-07
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Lai Fong (SFC:ABZ850) 張麗芳",None,sfclicrec.asp?p=100415,ABZ850,http://www.sfc.hk/publicregWeb/indi/ABZ850/licenceRecord,,,Rep,,2018-04-28
+"Chow, Chung 鄒津",None,sfclicrec.asp?p=101761,AAY530,http://www.sfc.hk/publicregWeb/indi/AAY530/licenceRecord,,,Rep,,2011-06-30
+"Chow, Lai Wah 鄒麗華",None,sfclicrec.asp?p=100413,AAJ685,http://www.sfc.hk/publicregWeb/indi/AAJ685/licenceRecord,,,RO,,
+"Chow, Yau 鄒有",None,sfclicrec.asp?p=100416,AAG326,http://www.sfc.hk/publicregWeb/indi/AAG326/licenceRecord,,,Rep,2008-11-07,2015-05-01
+"Ho, Jackie Siu Ling 何少玲",None,sfclicrec.asp?p=100417,ABY832,http://www.sfc.hk/publicregWeb/indi/ABY832/licenceRecord,,,Rep,,2017-07-31
+"Lai, Albert Wang Kit 黎泓傑",None,sfclicrec.asp?p=10870293,BJH312,http://www.sfc.hk/publicregWeb/indi/BJH312/licenceRecord,,M,Rep,2017-05-24,
+"Lai, Kang Po 黎庚普",None,sfclicrec.asp?p=100414,AAJ670,http://www.sfc.hk/publicregWeb/indi/AAJ670/licenceRecord,,,RO,,
+"Lai, Kwok Kang 黎國庚",None,sfclicrec.asp?p=100418,AAJ675,http://www.sfc.hk/publicregWeb/indi/AAJ675/licenceRecord,,,Rep,,
+"Law, Yan Kuen 羅仁權",None,sfclicrec.asp?p=98687,AAE016,http://www.sfc.hk/publicregWeb/indi/AAE016/licenceRecord,,,Rep,2003-09-08,2009-02-16
+"Ng, Allan Fan Lam 吳藩琳",None,sfclicrec.asp?p=100419,AAZ601,http://www.sfc.hk/publicregWeb/indi/AAZ601/licenceRecord,,M,Rep,,2015-05-01
+"Tsui, Mei Wah 徐美華",None,sfclicrec.asp?p=100420,AAC162,http://www.sfc.hk/publicregWeb/indi/AAC162/licenceRecord,,,Rep,2003-09-08,2018-06-07

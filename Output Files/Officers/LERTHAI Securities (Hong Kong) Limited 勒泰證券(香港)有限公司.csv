@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Margaret Kwai Ping 鄭桂平",sfclicrec.asp?p=96016,,F,RO,2016-07-08,2016-10-29
-"Chiu, Francis 趙伯琛",sfclicrec.asp?p=56593,58,M,RO,2017-06-13,2018-11-30
-"Hung, Ping Wong 洪烯煌",sfclicrec.asp?p=96022,,M,RO,2019-03-07,
-"Ip, Tsz Tim 葉子添",sfclicrec.asp?p=98302,,,RO,2016-07-08,2017-09-30
-"Lee, Wai Chung (SFC:APV528) 李偉忠",sfclicrec.asp?p=72961,,,Rep,2017-07-21,2017-08-15
-"Lee, Wai Chung (SFC:APV528) 李偉忠",sfclicrec.asp?p=72961,,,RO,2017-08-15,2018-03-02
-"Liu, Bing (SFC:BOF626) 劉冰",sfclicrec.asp?p=23235332,,,Rep,2019-05-29,2019-08-31
-"Wang, Kun (SFC:BFP546) 王坤",sfclicrec.asp?p=2435869,,,Rep,2018-05-25,2019-11-30
-"Wong, Angel On Kay 黃安琪",sfclicrec.asp?p=91340,,,Rep,2019-05-09,2019-09-09
-"Wong, Wai San 黃偉新",sfclicrec.asp?p=72997,,,Rep,2016-09-05,2016-10-12
-"Wong, Wai San 黃偉新",sfclicrec.asp?p=72997,,,RO,2016-10-12,2017-07-31
-"Wong, Weng Fai 黃永輝",sfclicrec.asp?p=100434,,,RO,2019-01-21,
-"Yang, Shao Xing Max 楊少星",sfclicrec.asp?p=23235333,,,Rep,2019-05-29,
-"Yiu, Tak Yin 姚得賢",sfclicrec.asp?p=93140,,,Rep,2018-07-26,2018-09-18
-"Zhao, Bencai 趙本才",sfclicrec.asp?p=23334125,47,M,Rep,2019-06-21,2019-07-11
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Margaret Kwai Ping 鄭桂平",None,sfclicrec.asp?p=96016,AAJ042,http://www.sfc.hk/publicregWeb/indi/AAJ042/licenceRecord,,F,RO,2016-07-08,2016-10-29
+"Chiu, Francis 趙伯琛",None,sfclicrec.asp?p=56593,AUV238,http://www.sfc.hk/publicregWeb/indi/AUV238/licenceRecord,58.0,M,RO,2017-06-13,2018-11-30
+"Hung, Ping Wong 洪烯煌",None,sfclicrec.asp?p=96022,ASX329,http://www.sfc.hk/publicregWeb/indi/ASX329/licenceRecord,,M,RO,2019-03-07,
+"Ip, Tsz Tim 葉子添",None,sfclicrec.asp?p=98302,ACB576,http://www.sfc.hk/publicregWeb/indi/ACB576/licenceRecord,,,RO,2016-07-08,2017-09-30
+"Lee, Wai Chung (SFC:APV528) 李偉忠",None,sfclicrec.asp?p=72961,APV528,http://www.sfc.hk/publicregWeb/indi/APV528/licenceRecord,,,Rep,2017-07-21,2017-08-15
+"Lee, Wai Chung (SFC:APV528) 李偉忠",None,sfclicrec.asp?p=72961,APV528,http://www.sfc.hk/publicregWeb/indi/APV528/licenceRecord,,,RO,2017-08-15,2018-03-02
+"Liu, Bing (SFC:BOF626) 劉冰",None,sfclicrec.asp?p=23235332,BOF626,http://www.sfc.hk/publicregWeb/indi/BOF626/licenceRecord,,,Rep,2019-05-29,2019-08-31
+"Wang, Kun (SFC:BFP546) 王坤",None,sfclicrec.asp?p=2435869,BFP546,http://www.sfc.hk/publicregWeb/indi/BFP546/licenceRecord,,,Rep,2018-05-25,2019-11-30
+"Wong, Angel On Kay 黃安琪",None,sfclicrec.asp?p=91340,AEI267,http://www.sfc.hk/publicregWeb/indi/AEI267/licenceRecord,,,Rep,2019-05-09,2019-09-09
+"Wong, Wai San 黃偉新",None,sfclicrec.asp?p=72997,AHP442,http://www.sfc.hk/publicregWeb/indi/AHP442/licenceRecord,,,Rep,2016-09-05,2016-10-12
+"Wong, Wai San 黃偉新",None,sfclicrec.asp?p=72997,AHP442,http://www.sfc.hk/publicregWeb/indi/AHP442/licenceRecord,,,RO,2016-10-12,2017-07-31
+"Wong, Weng Fai 黃永輝",None,sfclicrec.asp?p=100434,ACA941,http://www.sfc.hk/publicregWeb/indi/ACA941/licenceRecord,,,RO,2019-01-21,
+"Yang, Shao Xing Max 楊少星",None,sfclicrec.asp?p=23235333,BBB471,http://www.sfc.hk/publicregWeb/indi/BBB471/licenceRecord,,,Rep,2019-05-29,
+"Yiu, Tak Yin 姚得賢",None,sfclicrec.asp?p=93140,AGK517,http://www.sfc.hk/publicregWeb/indi/AGK517/licenceRecord,,,Rep,2018-07-26,2018-09-18
+"Zhao, Bencai 趙本才",None,sfclicrec.asp?p=23334125,BOG408,http://www.sfc.hk/publicregWeb/indi/BOG408/licenceRecord,47.0,M,Rep,2019-06-21,2019-07-11

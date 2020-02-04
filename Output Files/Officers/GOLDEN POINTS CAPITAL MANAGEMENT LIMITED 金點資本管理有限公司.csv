@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, I Teng 鄭義騰",sfclicrec.asp?p=82854,,,RO,2018-02-01,2019-09-30
-"Leung, Kwok Kan 梁國庚",sfclicrec.asp?p=96291,,,RO,2018-06-27,2019-04-15
-"Li, Cho Kwong 李早光",sfclicrec.asp?p=82855,,,RO,2018-02-01,2019-01-24
-"Lou, Junlong ",sfclicrec.asp?p=1913756,,,RO,2018-02-01,
-"Yeung, Samson Shing Fung 楊承峰",sfclicrec.asp?p=96292,,M,RO,2018-06-27,2018-12-27
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, I Teng 鄭義騰",None,sfclicrec.asp?p=82854,ALF767,http://www.sfc.hk/publicregWeb/indi/ALF767/licenceRecord,,,RO,2018-02-01,2019-09-30
+"Leung, Kwok Kan 梁國庚",None,sfclicrec.asp?p=96291,AAD928,http://www.sfc.hk/publicregWeb/indi/AAD928/licenceRecord,,,RO,2018-06-27,2019-04-15
+"Li, Cho Kwong 李早光",None,sfclicrec.asp?p=82855,AEU474,http://www.sfc.hk/publicregWeb/indi/AEU474/licenceRecord,,,RO,2018-02-01,2019-01-24
+"Lou, Junlong ",None,sfclicrec.asp?p=1913756,AZS992,http://www.sfc.hk/publicregWeb/indi/AZS992/licenceRecord,,,RO,2018-02-01,
+"Yeung, Samson Shing Fung 楊承峰",None,sfclicrec.asp?p=96292,ACR751,http://www.sfc.hk/publicregWeb/indi/ACR751/licenceRecord,,M,RO,2018-06-27,2018-12-27

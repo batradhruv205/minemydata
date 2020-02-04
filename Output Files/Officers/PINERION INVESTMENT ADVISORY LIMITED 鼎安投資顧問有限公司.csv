@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chow, Shuk Yi (SFC:AVP865) 鄒淑宜",sfclicrec.asp?p=90393,,,Rep,2019-11-18,
-"Li, David Yin Hei 李衍熹",sfclicrec.asp?p=130203,,M,RO,2017-06-26,
-"Ng, Shung Kai 吳崇佳",sfclicrec.asp?p=98026,,,RO,2017-06-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chow, Shuk Yi (SFC:AVP865) 鄒淑宜",None,sfclicrec.asp?p=90393,AVP865,http://www.sfc.hk/publicregWeb/indi/AVP865/licenceRecord,,,Rep,2019-11-18,
+"Li, David Yin Hei 李衍熹",None,sfclicrec.asp?p=130203,AVT129,http://www.sfc.hk/publicregWeb/indi/AVT129/licenceRecord,,M,RO,2017-06-26,
+"Ng, Shung Kai 吳崇佳",None,sfclicrec.asp?p=98026,ARE819,http://www.sfc.hk/publicregWeb/indi/ARE819/licenceRecord,,,RO,2017-06-26,

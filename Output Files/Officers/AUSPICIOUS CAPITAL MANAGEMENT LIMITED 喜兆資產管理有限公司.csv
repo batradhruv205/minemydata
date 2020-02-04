@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Raymond Lap San 陳立燊",sfclicrec.asp?p=124106,,M,RO,2016-09-30,2018-05-31
-"Lang, Yuanlin 郎媛琳",sfclicrec.asp?p=81022,,,Rep,2014-05-21,2014-06-26
-"Lang, Yuanlin 郎媛琳",sfclicrec.asp?p=81022,,,RO,2014-06-26,2019-07-01
-"Li, Hak Sun ",sfclicrec.asp?p=23318368,,,Rep,2019-06-18,2019-10-31
-"Peng, Haiting 彭海婷",sfclicrec.asp?p=1989376,,,Rep,2014-06-30,2015-02-28
-"Shiba, Tsuyoshi 司馬毅",sfclicrec.asp?p=118072,,,RO,2013-11-22,2014-07-06
-"Tai, Pak Kin 戴伯乾",sfclicrec.asp?p=99666,,,Rep,2019-05-10,2019-06-10
-"Tai, Pak Kin 戴伯乾",sfclicrec.asp?p=99666,,,RO,2019-06-10,2019-10-02
-"Tan, Meng Lee 陳名禮",sfclicrec.asp?p=130460,,,Rep,2019-05-07,2019-06-06
-"Tan, Meng Lee 陳名禮",sfclicrec.asp?p=130460,,,RO,2019-06-06,
-"Wang, Chuang (SFC:AYM559) 王闖",sfclicrec.asp?p=134470,,,RO,2013-11-22,
-"Xu, Chenxi (SFC:BPD421) 胥晨曦",sfclicrec.asp?p=24050055,,,Rep,2019-12-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Raymond Lap San 陳立燊",None,sfclicrec.asp?p=124106,AQH361,http://www.sfc.hk/publicregWeb/indi/AQH361/licenceRecord,,M,RO,2016-09-30,2018-05-31
+"Lang, Yuanlin 郎媛琳",None,sfclicrec.asp?p=81022,AUZ665,http://www.sfc.hk/publicregWeb/indi/AUZ665/licenceRecord,,,Rep,2014-05-21,2014-06-26
+"Lang, Yuanlin 郎媛琳",None,sfclicrec.asp?p=81022,AUZ665,http://www.sfc.hk/publicregWeb/indi/AUZ665/licenceRecord,,,RO,2014-06-26,2019-07-01
+"Li, Hak Sun ",None,sfclicrec.asp?p=23318368,BIW870,http://www.sfc.hk/publicregWeb/indi/BIW870/licenceRecord,,,Rep,2019-06-18,2019-10-31
+"Peng, Haiting 彭海婷",None,sfclicrec.asp?p=1989376,AWP093,http://www.sfc.hk/publicregWeb/indi/AWP093/licenceRecord,,,Rep,2014-06-30,2015-02-28
+"Shiba, Tsuyoshi 司馬毅",None,sfclicrec.asp?p=118072,ANE160,http://www.sfc.hk/publicregWeb/indi/ANE160/licenceRecord,,,RO,2013-11-22,2014-07-06
+"Tai, Pak Kin 戴伯乾",None,sfclicrec.asp?p=99666,ACE795,http://www.sfc.hk/publicregWeb/indi/ACE795/licenceRecord,,,Rep,2019-05-10,2019-06-10
+"Tai, Pak Kin 戴伯乾",None,sfclicrec.asp?p=99666,ACE795,http://www.sfc.hk/publicregWeb/indi/ACE795/licenceRecord,,,RO,2019-06-10,2019-10-02
+"Tan, Meng Lee 陳名禮",None,sfclicrec.asp?p=130460,AWD977,http://www.sfc.hk/publicregWeb/indi/AWD977/licenceRecord,,,Rep,2019-05-07,2019-06-06
+"Tan, Meng Lee 陳名禮",None,sfclicrec.asp?p=130460,AWD977,http://www.sfc.hk/publicregWeb/indi/AWD977/licenceRecord,,,RO,2019-06-06,
+"Wang, Chuang (SFC:AYM559) 王闖",None,sfclicrec.asp?p=134470,AYM559,http://www.sfc.hk/publicregWeb/indi/AYM559/licenceRecord,,,RO,2013-11-22,
+"Xu, Chenxi (SFC:BPD421) 胥晨曦",None,sfclicrec.asp?p=24050055,BPD421,http://www.sfc.hk/publicregWeb/indi/BPD421/licenceRecord,,,Rep,2019-12-24,

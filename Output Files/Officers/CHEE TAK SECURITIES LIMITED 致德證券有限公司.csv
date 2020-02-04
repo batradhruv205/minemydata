@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chi, Cam Ioc 池金玉",sfclicrec.asp?p=98720,,,Rep,,
-"Chiu, Ho Chuen 趙浩川",sfclicrec.asp?p=101012,,,RO,,2005-05-26
-"Chiu, Kevin Koon Yu 趙冠宇",sfclicrec.asp?p=98718,,M,RO,2004-07-24,
-"Hau, Bing Leung 侯炳良",sfclicrec.asp?p=98721,,,Rep,,
-"Lau, Yun Ping 劉潤萍",sfclicrec.asp?p=98722,,,Rep,,
-"Lee, Norman Chun Yin 李振賢",sfclicrec.asp?p=113553,,M,Rep,2011-12-01,2012-06-15
-"Luk, Wai Hung 陸偉雄",sfclicrec.asp?p=98723,,,Rep,2005-02-28,2019-08-13
-"Luk, Wai Hung 陸偉雄",sfclicrec.asp?p=98723,,,RO,2019-08-13,
-"Ngan, Yiu Kan 顏耀勤",sfclicrec.asp?p=113331,,,RO,2007-09-07,2008-07-01
-"Tam, Pui Sun 譚佩新",sfclicrec.asp?p=128851,,,Rep,2009-12-01,2010-08-21
-"Wong, Ping Lam 黃炳霖",sfclicrec.asp?p=85779,,,Rep,,2003-10-07
-"Yeung, Vai Chung 楊衛忠",sfclicrec.asp?p=98719,,,Rep,,2005-07-28
-"Yeung, Vai Chung 楊衛忠",sfclicrec.asp?p=98719,,,RO,2005-07-28,2019-02-01
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chi, Cam Ioc 池金玉",None,sfclicrec.asp?p=98720,ABX779,http://www.sfc.hk/publicregWeb/indi/ABX779/licenceRecord,,,Rep,,
+"Chiu, Ho Chuen 趙浩川",None,sfclicrec.asp?p=101012,AAE410,http://www.sfc.hk/publicregWeb/indi/AAE410/licenceRecord,,,RO,,2005-05-26
+"Chiu, Kevin Koon Yu 趙冠宇",None,sfclicrec.asp?p=98718,ADT963,http://www.sfc.hk/publicregWeb/indi/ADT963/licenceRecord,,M,RO,2004-07-24,
+"Hau, Bing Leung 侯炳良",None,sfclicrec.asp?p=98721,AAC786,http://www.sfc.hk/publicregWeb/indi/AAC786/licenceRecord,,,Rep,,
+"Lau, Yun Ping 劉潤萍",None,sfclicrec.asp?p=98722,AAA942,http://www.sfc.hk/publicregWeb/indi/AAA942/licenceRecord,,,Rep,,
+"Lee, Norman Chun Yin 李振賢",None,sfclicrec.asp?p=113553,AJN361,http://www.sfc.hk/publicregWeb/indi/AJN361/licenceRecord,,M,Rep,2011-12-01,2012-06-15
+"Luk, Wai Hung 陸偉雄",None,sfclicrec.asp?p=98723,ALQ964,http://www.sfc.hk/publicregWeb/indi/ALQ964/licenceRecord,,,Rep,2005-02-28,2019-08-13
+"Luk, Wai Hung 陸偉雄",None,sfclicrec.asp?p=98723,ALQ964,http://www.sfc.hk/publicregWeb/indi/ALQ964/licenceRecord,,,RO,2019-08-13,
+"Ngan, Yiu Kan 顏耀勤",None,sfclicrec.asp?p=113331,AJI770,http://www.sfc.hk/publicregWeb/indi/AJI770/licenceRecord,,,RO,2007-09-07,2008-07-01
+"Tam, Pui Sun 譚佩新",None,sfclicrec.asp?p=128851,AUA989,http://www.sfc.hk/publicregWeb/indi/AUA989/licenceRecord,,,Rep,2009-12-01,2010-08-21
+"Wong, Ping Lam 黃炳霖",None,sfclicrec.asp?p=85779,ABG076,http://www.sfc.hk/publicregWeb/indi/ABG076/licenceRecord,,,Rep,,2003-10-07
+"Yeung, Vai Chung 楊衛忠",None,sfclicrec.asp?p=98719,AAE289,http://www.sfc.hk/publicregWeb/indi/AAE289/licenceRecord,,,Rep,,2005-07-28
+"Yeung, Vai Chung 楊衛忠",None,sfclicrec.asp?p=98719,AAE289,http://www.sfc.hk/publicregWeb/indi/AAE289/licenceRecord,,,RO,2005-07-28,2019-02-01

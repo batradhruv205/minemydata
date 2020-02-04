@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au, Tsz Chung 區子聰",sfclicrec.asp?p=82072,,,Rep,2019-02-18,
-"Chan, Wai Fung (SFC:ARB852) 陳偉峰",sfclicrec.asp?p=82100,,,Rep,2019-02-18,
-"Cheng, Wang Ming 鄭宏明",sfclicrec.asp?p=81604,,,RO,2019-01-04,
-"Choi, Hung Fai (SFC:APD150) 蔡雄輝",sfclicrec.asp?p=72856,34,M,RO,2019-01-04,
-"Yau, Tung Shing 邱東成",sfclicrec.asp?p=2599814,,,Rep,2019-01-22,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au, Tsz Chung 區子聰",None,sfclicrec.asp?p=82072,AWO394,http://www.sfc.hk/publicregWeb/indi/AWO394/licenceRecord,,,Rep,2019-02-18,
+"Chan, Wai Fung (SFC:ARB852) 陳偉峰",None,sfclicrec.asp?p=82100,ARB852,http://www.sfc.hk/publicregWeb/indi/ARB852/licenceRecord,,,Rep,2019-02-18,
+"Cheng, Wang Ming 鄭宏明",None,sfclicrec.asp?p=81604,AXA014,http://www.sfc.hk/publicregWeb/indi/AXA014/licenceRecord,,,RO,2019-01-04,
+"Choi, Hung Fai (SFC:APD150) 蔡雄輝",None,sfclicrec.asp?p=72856,APD150,http://www.sfc.hk/publicregWeb/indi/APD150/licenceRecord,34.0,M,RO,2019-01-04,
+"Yau, Tung Shing 邱東成",None,sfclicrec.asp?p=2599814,BHP483,http://www.sfc.hk/publicregWeb/indi/BHP483/licenceRecord,,,Rep,2019-01-22,

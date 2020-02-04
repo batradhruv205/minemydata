@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Wai Bun 鄭偉檳",sfclicrec.asp?p=125602,,,Rep,2018-09-11,
-"Leung, Ying Kwan 梁英均",sfclicrec.asp?p=2458361,,,Rep,2018-03-27,2019-12-01
-"Lloyd, Gemma Louise ",sfclicrec.asp?p=2576987,,F,RO,2016-05-12,
-"Lo, Shui Wah 盧萃樺",sfclicrec.asp?p=96662,,,Rep,2015-09-04,
-"Lovell, Peter Henry James ",sfclicrec.asp?p=2470801,,M,RO,2013-12-09,2015-12-31
-"Martin, Steven Gerard ",sfclicrec.asp?p=2470802,,M,RO,2013-12-09,2016-06-30
-"Shi, Ning (SFC:BBV040) 史宁",sfclicrec.asp?p=2470803,,,RO,2013-12-09,
-"Wong, Sau Fun 黃秀芬",sfclicrec.asp?p=112763,,,Rep,2016-11-09,2018-05-14
-"Wong, Sau Fun 黃秀芬",sfclicrec.asp?p=112763,,,RO,2018-05-14,
-"Zhao, Jian (SFC:BNJ300) 趙堅",sfclicrec.asp?p=22970980,,,Rep,2019-03-29,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Wai Bun 鄭偉檳",None,sfclicrec.asp?p=125602,ARD828,http://www.sfc.hk/publicregWeb/indi/ARD828/licenceRecord,,,Rep,2018-09-11,
+"Leung, Ying Kwan 梁英均",None,sfclicrec.asp?p=2458361,BFY311,http://www.sfc.hk/publicregWeb/indi/BFY311/licenceRecord,,,Rep,2018-03-27,2019-12-01
+"Lloyd, Gemma Louise ",None,sfclicrec.asp?p=2576987,BHI184,http://www.sfc.hk/publicregWeb/indi/BHI184/licenceRecord,,F,RO,2016-05-12,
+"Lo, Shui Wah 盧萃樺",None,sfclicrec.asp?p=96662,AOB249,http://www.sfc.hk/publicregWeb/indi/AOB249/licenceRecord,,,Rep,2015-09-04,
+"Lovell, Peter Henry James ",None,sfclicrec.asp?p=2470801,BBV036,http://www.sfc.hk/publicregWeb/indi/BBV036/licenceRecord,,M,RO,2013-12-09,2015-12-31
+"Martin, Steven Gerard ",None,sfclicrec.asp?p=2470802,BBV032,http://www.sfc.hk/publicregWeb/indi/BBV032/licenceRecord,,M,RO,2013-12-09,2016-06-30
+"Shi, Ning (SFC:BBV040) 史宁",None,sfclicrec.asp?p=2470803,BBV040,http://www.sfc.hk/publicregWeb/indi/BBV040/licenceRecord,,,RO,2013-12-09,
+"Wong, Sau Fun 黃秀芬",None,sfclicrec.asp?p=112763,AJB428,http://www.sfc.hk/publicregWeb/indi/AJB428/licenceRecord,,,Rep,2016-11-09,2018-05-14
+"Wong, Sau Fun 黃秀芬",None,sfclicrec.asp?p=112763,AJB428,http://www.sfc.hk/publicregWeb/indi/AJB428/licenceRecord,,,RO,2018-05-14,
+"Zhao, Jian (SFC:BNJ300) 趙堅",None,sfclicrec.asp?p=22970980,BNJ300,http://www.sfc.hk/publicregWeb/indi/BNJ300/licenceRecord,,,Rep,2019-03-29,

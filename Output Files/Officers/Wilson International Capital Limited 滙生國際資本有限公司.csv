@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Victor Chor Keung 張楚強",sfclicrec.asp?p=72855,59,M,RO,2017-08-18,2018-03-11
-"Cheung, Warren Yui Kai 張睿佳",sfclicrec.asp?p=17362,53,M,RO,2018-06-29,
-"Chin, Sui Ying 錢瑞英",sfclicrec.asp?p=95732,,,Rep,2018-06-05,2018-06-29
-"Chin, Sui Ying 錢瑞英",sfclicrec.asp?p=95732,,,RO,2018-06-29,2019-09-30
-"Law, Gary Chung Wai 羅仲煒",sfclicrec.asp?p=85559,,M,Rep,2019-11-01,
-"Li, Zhengrong 李崢嶸",sfclicrec.asp?p=2316474,,,RO,2017-08-18,2018-01-20
-"So, Hing Fai 蘇慶輝",sfclicrec.asp?p=2451177,,,Rep,2017-09-13,2018-07-31
-"Tang, Yu Kwan 鄧宇鈞",sfclicrec.asp?p=22244442,,,Rep,2018-10-09,
-"Tsang, Andrew Chung Lam 曾忠林",sfclicrec.asp?p=107369,,M,Rep,2018-06-20,2018-06-28
-"Tsang, Andrew Chung Lam 曾忠林",sfclicrec.asp?p=107369,,M,RO,2018-06-28,2018-09-30
-"Wong, Ho Yan (SFC:AYA616) 黃浩恩",sfclicrec.asp?p=132488,,,Rep,2019-10-24,2019-11-21
-"Wong, Ho Yan (SFC:AYA616) 黃浩恩",sfclicrec.asp?p=132488,,,RO,2019-11-21,
-"Zhen, Wei (SFC:AWQ264) 甄巍",sfclicrec.asp?p=95349,,,Rep,2017-09-20,2018-12-10
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Victor Chor Keung 張楚強",None,sfclicrec.asp?p=72855,AUH716,http://www.sfc.hk/publicregWeb/indi/AUH716/licenceRecord,59.0,M,RO,2017-08-18,2018-03-11
+"Cheung, Warren Yui Kai 張睿佳",None,sfclicrec.asp?p=17362,ACX305,http://www.sfc.hk/publicregWeb/indi/ACX305/licenceRecord,53.0,M,RO,2018-06-29,
+"Chin, Sui Ying 錢瑞英",None,sfclicrec.asp?p=95732,APR030,http://www.sfc.hk/publicregWeb/indi/APR030/licenceRecord,,,Rep,2018-06-05,2018-06-29
+"Chin, Sui Ying 錢瑞英",None,sfclicrec.asp?p=95732,APR030,http://www.sfc.hk/publicregWeb/indi/APR030/licenceRecord,,,RO,2018-06-29,2019-09-30
+"Law, Gary Chung Wai 羅仲煒",None,sfclicrec.asp?p=85559,AXW635,http://www.sfc.hk/publicregWeb/indi/AXW635/licenceRecord,,M,Rep,2019-11-01,
+"Li, Zhengrong 李崢嶸",None,sfclicrec.asp?p=2316474,BEC138,http://www.sfc.hk/publicregWeb/indi/BEC138/licenceRecord,,,RO,2017-08-18,2018-01-20
+"So, Hing Fai 蘇慶輝",None,sfclicrec.asp?p=2451177,BDQ948,http://www.sfc.hk/publicregWeb/indi/BDQ948/licenceRecord,,,Rep,2017-09-13,2018-07-31
+"Tang, Yu Kwan 鄧宇鈞",None,sfclicrec.asp?p=22244442,BNO819,http://www.sfc.hk/publicregWeb/indi/BNO819/licenceRecord,,,Rep,2018-10-09,
+"Tsang, Andrew Chung Lam 曾忠林",None,sfclicrec.asp?p=107369,AFR651,http://www.sfc.hk/publicregWeb/indi/AFR651/licenceRecord,,M,Rep,2018-06-20,2018-06-28
+"Tsang, Andrew Chung Lam 曾忠林",None,sfclicrec.asp?p=107369,AFR651,http://www.sfc.hk/publicregWeb/indi/AFR651/licenceRecord,,M,RO,2018-06-28,2018-09-30
+"Wong, Ho Yan (SFC:AYA616) 黃浩恩",None,sfclicrec.asp?p=132488,AYA616,http://www.sfc.hk/publicregWeb/indi/AYA616/licenceRecord,,,Rep,2019-10-24,2019-11-21
+"Wong, Ho Yan (SFC:AYA616) 黃浩恩",None,sfclicrec.asp?p=132488,AYA616,http://www.sfc.hk/publicregWeb/indi/AYA616/licenceRecord,,,RO,2019-11-21,
+"Zhen, Wei (SFC:AWQ264) 甄巍",None,sfclicrec.asp?p=95349,AWQ264,http://www.sfc.hk/publicregWeb/indi/AWQ264/licenceRecord,,,Rep,2017-09-20,2018-12-10

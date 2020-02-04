@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Kin Wai (SFC:AVD399) 陳健威",sfclicrec.asp?p=70221,,,Rep,2017-07-21,2018-10-14
-"Chau, Shing Yip Colin 周承嶫",sfclicrec.asp?p=2688642,,,RO,2017-01-18,2018-10-14
-"Cheng, I Teng 鄭義騰",sfclicrec.asp?p=82854,,,RO,2019-10-16,
-"Cheung, Mei Ting (SFC:BJI003) 張美婷",sfclicrec.asp?p=9410555,,,Rep,2017-05-02,2018-02-28
-"Chiu, Man Kit (SFC:BER403) 趙文傑",sfclicrec.asp?p=2388155,,,Rep,2017-09-25,2018-03-09
-"Chiu, Man Kit (SFC:BER403) 趙文傑",sfclicrec.asp?p=2388155,,,RO,2018-03-09,2018-10-14
-"Leung, Chi Ming (SFC:AAF501) 梁志明",sfclicrec.asp?p=92295,,,RO,2018-12-27,
-"Ping, Chi Chiu 平志超",sfclicrec.asp?p=2363990,,,RO,2017-01-18,2018-03-14
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Kin Wai (SFC:AVD399) 陳健威",None,sfclicrec.asp?p=70221,AVD399,http://www.sfc.hk/publicregWeb/indi/AVD399/licenceRecord,,,Rep,2017-07-21,2018-10-14
+"Chau, Shing Yip Colin 周承嶫",None,sfclicrec.asp?p=2688642,BHP289,http://www.sfc.hk/publicregWeb/indi/BHP289/licenceRecord,,,RO,2017-01-18,2018-10-14
+"Cheng, I Teng 鄭義騰",None,sfclicrec.asp?p=82854,ALF767,http://www.sfc.hk/publicregWeb/indi/ALF767/licenceRecord,,,RO,2019-10-16,
+"Cheung, Mei Ting (SFC:BJI003) 張美婷",None,sfclicrec.asp?p=9410555,BJI003,http://www.sfc.hk/publicregWeb/indi/BJI003/licenceRecord,,,Rep,2017-05-02,2018-02-28
+"Chiu, Man Kit (SFC:BER403) 趙文傑",None,sfclicrec.asp?p=2388155,BER403,http://www.sfc.hk/publicregWeb/indi/BER403/licenceRecord,,,Rep,2017-09-25,2018-03-09
+"Chiu, Man Kit (SFC:BER403) 趙文傑",None,sfclicrec.asp?p=2388155,BER403,http://www.sfc.hk/publicregWeb/indi/BER403/licenceRecord,,,RO,2018-03-09,2018-10-14
+"Leung, Chi Ming (SFC:AAF501) 梁志明",None,sfclicrec.asp?p=92295,AAF501,http://www.sfc.hk/publicregWeb/indi/AAF501/licenceRecord,,,RO,2018-12-27,
+"Ping, Chi Chiu 平志超",None,sfclicrec.asp?p=2363990,BER405,http://www.sfc.hk/publicregWeb/indi/BER405/licenceRecord,,,RO,2017-01-18,2018-03-14

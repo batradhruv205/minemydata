@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Zhang (SFC:BEV005) 陳樟",sfclicrec.asp?p=2590973,,,RO,2018-10-31,
-"Gan, Liang 甘亮",sfclicrec.asp?p=12085899,,,Rep,2019-06-10,
-"Liu, Kwok Wai (SFC:BOC813) 廖國偉",sfclicrec.asp?p=23418397,,,Rep,2019-07-12,
-"Passeri, Carlo Alberto ",sfclicrec.asp?p=23281280,,M,Rep,2019-06-10,
-"Pollock, Benjamin Pierce ",sfclicrec.asp?p=22475973,,M,Rep,2018-11-26,
-"Wang, Jerry Gerui 王戈銳",sfclicrec.asp?p=78064,,M,RO,2018-06-15,2019-01-31
-"Wang, Li-Jen 汪立人",sfclicrec.asp?p=129858,,,RO,2018-06-15,2018-10-08
-"Ye, Peng (SFC:BOO616) 葉鵬",sfclicrec.asp?p=23895535,,,RO,2019-11-12,
-"Zhang, Zhifeng (SFC:BCH854) 張志峰",sfclicrec.asp?p=2289098,,,Rep,2018-10-12,2018-12-24
-"Zhang, Zhifeng (SFC:BCH854) 張志峰",sfclicrec.asp?p=2289098,,,RO,2018-12-24,2019-11-12
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Zhang (SFC:BEV005) 陳樟",None,sfclicrec.asp?p=2590973,BEV005,http://www.sfc.hk/publicregWeb/indi/BEV005/licenceRecord,,,RO,2018-10-31,
+"Gan, Liang 甘亮",None,sfclicrec.asp?p=12085899,BJW266,http://www.sfc.hk/publicregWeb/indi/BJW266/licenceRecord,,,Rep,2019-06-10,
+"Liu, Kwok Wai (SFC:BOC813) 廖國偉",None,sfclicrec.asp?p=23418397,BOC813,http://www.sfc.hk/publicregWeb/indi/BOC813/licenceRecord,,,Rep,2019-07-12,
+"Passeri, Carlo Alberto ",None,sfclicrec.asp?p=23281280,BOI947,http://www.sfc.hk/publicregWeb/indi/BOI947/licenceRecord,,M,Rep,2019-06-10,
+"Pollock, Benjamin Pierce ",None,sfclicrec.asp?p=22475973,BNS463,http://www.sfc.hk/publicregWeb/indi/BNS463/licenceRecord,,M,Rep,2018-11-26,
+"Wang, Jerry Gerui 王戈銳",None,sfclicrec.asp?p=78064,AVH935,http://www.sfc.hk/publicregWeb/indi/AVH935/licenceRecord,,M,RO,2018-06-15,2019-01-31
+"Wang, Li-Jen 汪立人",None,sfclicrec.asp?p=129858,AVH868,http://www.sfc.hk/publicregWeb/indi/AVH868/licenceRecord,,,RO,2018-06-15,2018-10-08
+"Ye, Peng (SFC:BOO616) 葉鵬",None,sfclicrec.asp?p=23895535,BOO616,http://www.sfc.hk/publicregWeb/indi/BOO616/licenceRecord,,,RO,2019-11-12,
+"Zhang, Zhifeng (SFC:BCH854) 張志峰",None,sfclicrec.asp?p=2289098,BCH854,http://www.sfc.hk/publicregWeb/indi/BCH854/licenceRecord,,,Rep,2018-10-12,2018-12-24
+"Zhang, Zhifeng (SFC:BCH854) 張志峰",None,sfclicrec.asp?p=2289098,BCH854,http://www.sfc.hk/publicregWeb/indi/BCH854/licenceRecord,,,RO,2018-12-24,2019-11-12

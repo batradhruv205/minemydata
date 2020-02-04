@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Greenberg, Eric Scott ",sfclicrec.asp?p=80635,,M,RO,2013-11-08,
-"Harman, Simon Devereux Clement ",sfclicrec.asp?p=99949,,M,Rep,2019-01-23,
-"Lee, Hin Cheung 李獻章",sfclicrec.asp?p=2307566,,,Rep,2014-08-15,2015-07-31
-"Lynch, Fergus Michael ",sfclicrec.asp?p=2538422,,M,Rep,2016-02-22,2018-03-07
-"Lynch, Fergus Michael ",sfclicrec.asp?p=2538422,,M,RO,2018-03-07,
-"Maloy, Arthur Chong Wah 馬忠樺",sfclicrec.asp?p=81138,,M,RO,2013-11-08,
-"Tang, Xinqing 唐新晴",sfclicrec.asp?p=23039901,,,Rep,2019-04-11,
-"Wang, Yinpeng 王銀朋",sfclicrec.asp?p=22690105,,,Rep,2019-01-24,
-"Zhou, Yichen 周依晨",sfclicrec.asp?p=2485376,,,Rep,2015-10-12,2019-02-17
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Greenberg, Eric Scott ",None,sfclicrec.asp?p=80635,ANQ288,http://www.sfc.hk/publicregWeb/indi/ANQ288/licenceRecord,,M,RO,2013-11-08,
+"Harman, Simon Devereux Clement ",None,sfclicrec.asp?p=99949,ATR662,http://www.sfc.hk/publicregWeb/indi/ATR662/licenceRecord,,M,Rep,2019-01-23,
+"Lee, Hin Cheung 李獻章",None,sfclicrec.asp?p=2307566,BDV278,http://www.sfc.hk/publicregWeb/indi/BDV278/licenceRecord,,,Rep,2014-08-15,2015-07-31
+"Lynch, Fergus Michael ",None,sfclicrec.asp?p=2538422,AZT328,http://www.sfc.hk/publicregWeb/indi/AZT328/licenceRecord,,M,Rep,2016-02-22,2018-03-07
+"Lynch, Fergus Michael ",None,sfclicrec.asp?p=2538422,AZT328,http://www.sfc.hk/publicregWeb/indi/AZT328/licenceRecord,,M,RO,2018-03-07,
+"Maloy, Arthur Chong Wah 馬忠樺",None,sfclicrec.asp?p=81138,ARJ093,http://www.sfc.hk/publicregWeb/indi/ARJ093/licenceRecord,,M,RO,2013-11-08,
+"Tang, Xinqing 唐新晴",None,sfclicrec.asp?p=23039901,BOF145,http://www.sfc.hk/publicregWeb/indi/BOF145/licenceRecord,,,Rep,2019-04-11,
+"Wang, Yinpeng 王銀朋",None,sfclicrec.asp?p=22690105,BNY940,http://www.sfc.hk/publicregWeb/indi/BNY940/licenceRecord,,,Rep,2019-01-24,
+"Zhou, Yichen 周依晨",None,sfclicrec.asp?p=2485376,BGE919,http://www.sfc.hk/publicregWeb/indi/BGE919/licenceRecord,,,Rep,2015-10-12,2019-02-17

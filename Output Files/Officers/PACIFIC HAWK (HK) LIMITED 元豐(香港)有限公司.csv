@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"But, Ming Sze 畢銘詩",sfclicrec.asp?p=23039940,,,Rep,2019-04-11,
-"Cooley, Ann Marlowe ",sfclicrec.asp?p=105072,,F,RO,,
-"Ho, William Yiu Bun 何耀斌",sfclicrec.asp?p=115662,,M,RO,2005-06-14,2018-11-15
-"Koh, Choy (SFC:ACF185) 郭才",sfclicrec.asp?p=102713,,,Rep,2009-08-21,2010-09-14
-"Koh, Choy (SFC:ACF185) 郭才",sfclicrec.asp?p=102713,,,RO,2010-09-14,
-"Li, Wing See 李頴思",sfclicrec.asp?p=116655,,,Rep,2009-10-14,2014-05-28
-"Ng, Begonia Yim Ki 吳艷琪",sfclicrec.asp?p=23135406,,,Rep,2019-05-06,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"But, Ming Sze 畢銘詩",None,sfclicrec.asp?p=23039940,BOG288,http://www.sfc.hk/publicregWeb/indi/BOG288/licenceRecord,,,Rep,2019-04-11,
+"Cooley, Ann Marlowe ",None,sfclicrec.asp?p=105072,AEN698,http://www.sfc.hk/publicregWeb/indi/AEN698/licenceRecord,,F,RO,,
+"Ho, William Yiu Bun 何耀斌",None,sfclicrec.asp?p=115662,ALW317,http://www.sfc.hk/publicregWeb/indi/ALW317/licenceRecord,,M,RO,2005-06-14,2018-11-15
+"Koh, Choy (SFC:ACF185) 郭才",None,sfclicrec.asp?p=102713,ACF185,http://www.sfc.hk/publicregWeb/indi/ACF185/licenceRecord,,,Rep,2009-08-21,2010-09-14
+"Koh, Choy (SFC:ACF185) 郭才",None,sfclicrec.asp?p=102713,ACF185,http://www.sfc.hk/publicregWeb/indi/ACF185/licenceRecord,,,RO,2010-09-14,
+"Li, Wing See 李頴思",None,sfclicrec.asp?p=116655,AMJ728,http://www.sfc.hk/publicregWeb/indi/AMJ728/licenceRecord,,,Rep,2009-10-14,2014-05-28
+"Ng, Begonia Yim Ki 吳艷琪",None,sfclicrec.asp?p=23135406,BOG280,http://www.sfc.hk/publicregWeb/indi/BOG280/licenceRecord,,,Rep,2019-05-06,

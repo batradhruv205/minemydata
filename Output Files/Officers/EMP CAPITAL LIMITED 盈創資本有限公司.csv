@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Ngar Tat Eddie 張雅達",sfclicrec.asp?p=2684401,,,Rep,2017-01-10,
-"Luk, Tai Choi 陸棣才",sfclicrec.asp?p=48954,58,M,RO,2016-12-02,
-"Mak, Kwok King Jacky 麥國勁",sfclicrec.asp?p=2689348,,,Rep,2017-01-20,2018-06-08
-"Wang, Bo (SFC:AMN889) 王波",sfclicrec.asp?p=79381,,,Rep,2017-12-15,
-"Wong, Kenman Wai Ching 王暐禎",sfclicrec.asp?p=103825,,,RO,2016-12-02,2019-01-31
-"Xu, Guobin (SFC:BNP647) 許国斌",sfclicrec.asp?p=22724666,,,RO,2019-02-01,
-"Xu, Jing (SFC:BOP968) 徐靜",sfclicrec.asp?p=23453718,,,Rep,2019-07-22,
-"Yin, Yue (SFC:AXZ897) 殷悅",sfclicrec.asp?p=75311,,,Rep,2017-12-20,2019-08-09
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Ngar Tat Eddie 張雅達",None,sfclicrec.asp?p=2684401,BIT527,http://www.sfc.hk/publicregWeb/indi/BIT527/licenceRecord,,,Rep,2017-01-10,
+"Luk, Tai Choi 陸棣才",None,sfclicrec.asp?p=48954,ACL643,http://www.sfc.hk/publicregWeb/indi/ACL643/licenceRecord,58.0,M,RO,2016-12-02,
+"Mak, Kwok King Jacky 麥國勁",None,sfclicrec.asp?p=2689348,BIW482,http://www.sfc.hk/publicregWeb/indi/BIW482/licenceRecord,,,Rep,2017-01-20,2018-06-08
+"Wang, Bo (SFC:AMN889) 王波",None,sfclicrec.asp?p=79381,AMN889,http://www.sfc.hk/publicregWeb/indi/AMN889/licenceRecord,,,Rep,2017-12-15,
+"Wong, Kenman Wai Ching 王暐禎",None,sfclicrec.asp?p=103825,ADJ032,http://www.sfc.hk/publicregWeb/indi/ADJ032/licenceRecord,,,RO,2016-12-02,2019-01-31
+"Xu, Guobin (SFC:BNP647) 許国斌",None,sfclicrec.asp?p=22724666,BNP647,http://www.sfc.hk/publicregWeb/indi/BNP647/licenceRecord,,,RO,2019-02-01,
+"Xu, Jing (SFC:BOP968) 徐靜",None,sfclicrec.asp?p=23453718,BOP968,http://www.sfc.hk/publicregWeb/indi/BOP968/licenceRecord,,,Rep,2019-07-22,
+"Yin, Yue (SFC:AXZ897) 殷悅",None,sfclicrec.asp?p=75311,AXZ897,http://www.sfc.hk/publicregWeb/indi/AXZ897/licenceRecord,,,Rep,2017-12-20,2019-08-09

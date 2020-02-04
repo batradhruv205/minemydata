@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Koon Wai 張冠偉",sfclicrec.asp?p=122019,,,Rep,2016-06-06,2016-11-21
-"Cheung, Koon Wai 張冠偉",sfclicrec.asp?p=122019,,,RO,2016-11-21,2017-04-19
-"Chung, Chui Yi 鍾翠儀",sfclicrec.asp?p=127323,,,Rep,2009-02-25,2010-02-18
-"Chung, Chui Yi 鍾翠儀",sfclicrec.asp?p=127323,,,RO,2010-02-18,
-"Chung, Hon Sze 鍾瀚葹",sfclicrec.asp?p=103944,,,RO,2008-11-05,
-"Harris, Kylie Jane ",sfclicrec.asp?p=112508,,F,RO,2008-11-05,2010-02-19
-"Petersohn, Steven Jeffrey ",sfclicrec.asp?p=101962,,M,Rep,2017-06-07,
-"Van Drasek, Dean Scott ",sfclicrec.asp?p=68547,,M,RO,2016-07-29,
-"Wong, Andrew Yui Cheong 黃裔昌",sfclicrec.asp?p=2384861,,M,Rep,2016-06-06,
-"Wong, Sze Fei 黃詩慧",sfclicrec.asp?p=129916,,,Rep,2015-01-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Koon Wai 張冠偉",None,sfclicrec.asp?p=122019,APF297,http://www.sfc.hk/publicregWeb/indi/APF297/licenceRecord,,,Rep,2016-06-06,2016-11-21
+"Cheung, Koon Wai 張冠偉",None,sfclicrec.asp?p=122019,APF297,http://www.sfc.hk/publicregWeb/indi/APF297/licenceRecord,,,RO,2016-11-21,2017-04-19
+"Chung, Chui Yi 鍾翠儀",None,sfclicrec.asp?p=127323,ASE466,http://www.sfc.hk/publicregWeb/indi/ASE466/licenceRecord,,,Rep,2009-02-25,2010-02-18
+"Chung, Chui Yi 鍾翠儀",None,sfclicrec.asp?p=127323,ASE466,http://www.sfc.hk/publicregWeb/indi/ASE466/licenceRecord,,,RO,2010-02-18,
+"Chung, Hon Sze 鍾瀚葹",None,sfclicrec.asp?p=103944,ADN482,http://www.sfc.hk/publicregWeb/indi/ADN482/licenceRecord,,,RO,2008-11-05,
+"Harris, Kylie Jane ",None,sfclicrec.asp?p=112508,AIU611,http://www.sfc.hk/publicregWeb/indi/AIU611/licenceRecord,,F,RO,2008-11-05,2010-02-19
+"Petersohn, Steven Jeffrey ",None,sfclicrec.asp?p=101962,ABF770,http://www.sfc.hk/publicregWeb/indi/ABF770/licenceRecord,,M,Rep,2017-06-07,
+"Van Drasek, Dean Scott ",None,sfclicrec.asp?p=68547,ADI849,http://www.sfc.hk/publicregWeb/indi/ADI849/licenceRecord,,M,RO,2016-07-29,
+"Wong, Andrew Yui Cheong 黃裔昌",None,sfclicrec.asp?p=2384861,BDO256,http://www.sfc.hk/publicregWeb/indi/BDO256/licenceRecord,,M,Rep,2016-06-06,
+"Wong, Sze Fei 黃詩慧",None,sfclicrec.asp?p=129916,AVJ260,http://www.sfc.hk/publicregWeb/indi/AVJ260/licenceRecord,,,Rep,2015-01-19,

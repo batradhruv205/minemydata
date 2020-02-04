@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cui, Landan 崔藍丹",sfclicrec.asp?p=2503450,,,Rep,2015-11-23,2018-02-28
-"Hu, Ouya 胡歐亞",sfclicrec.asp?p=2531008,,,Rep,2018-01-11,
-"Jiang, Xuxiao 江旭曉",sfclicrec.asp?p=81852,,,Rep,2017-04-27,2017-06-01
-"Jiang, Xuxiao 江旭曉",sfclicrec.asp?p=81852,,,RO,2017-06-01,
-"Liang, Jianwen 梁劍文",sfclicrec.asp?p=77430,,,RO,2015-10-19,
-"Qian, Feng (SFC:AMW975) 錢峰",sfclicrec.asp?p=98433,,,RO,2015-10-19,
-"Sheng, Corrian Yang ",sfclicrec.asp?p=2698425,,,Rep,2017-02-20,
-"Xu, Zhi Cheng 許智程",sfclicrec.asp?p=81885,,,Rep,2016-01-20,2019-12-31
-"Yap, Chin Yee 叶君瑜",sfclicrec.asp?p=74962,,,Rep,2016-01-20,2019-05-31
-"Yu, Lifeng (SFC:AYA736) 余立峰",sfclicrec.asp?p=81888,,,Rep,2016-05-17,2017-03-31
-"Zhao, Xiao (SFC:AJC187) 趙晓",sfclicrec.asp?p=81778,,,Rep,2016-11-01,
-"Zhong, Bin (SFC:BCW456) 鍾濱",sfclicrec.asp?p=22239805,,,Rep,2018-10-05,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cui, Landan 崔藍丹",None,sfclicrec.asp?p=2503450,BGN396,http://www.sfc.hk/publicregWeb/indi/BGN396/licenceRecord,,,Rep,2015-11-23,2018-02-28
+"Hu, Ouya 胡歐亞",None,sfclicrec.asp?p=2531008,BGX256,http://www.sfc.hk/publicregWeb/indi/BGX256/licenceRecord,,,Rep,2018-01-11,
+"Jiang, Xuxiao 江旭曉",None,sfclicrec.asp?p=81852,ATI407,http://www.sfc.hk/publicregWeb/indi/ATI407/licenceRecord,,,Rep,2017-04-27,2017-06-01
+"Jiang, Xuxiao 江旭曉",None,sfclicrec.asp?p=81852,ATI407,http://www.sfc.hk/publicregWeb/indi/ATI407/licenceRecord,,,RO,2017-06-01,
+"Liang, Jianwen 梁劍文",None,sfclicrec.asp?p=77430,ATW865,http://www.sfc.hk/publicregWeb/indi/ATW865/licenceRecord,,,RO,2015-10-19,
+"Qian, Feng (SFC:AMW975) 錢峰",None,sfclicrec.asp?p=98433,AMW975,http://www.sfc.hk/publicregWeb/indi/AMW975/licenceRecord,,,RO,2015-10-19,
+"Sheng, Corrian Yang ",None,sfclicrec.asp?p=2698425,BJB244,http://www.sfc.hk/publicregWeb/indi/BJB244/licenceRecord,,,Rep,2017-02-20,
+"Xu, Zhi Cheng 許智程",None,sfclicrec.asp?p=81885,AWU540,http://www.sfc.hk/publicregWeb/indi/AWU540/licenceRecord,,,Rep,2016-01-20,2019-12-31
+"Yap, Chin Yee 叶君瑜",None,sfclicrec.asp?p=74962,AFR721,http://www.sfc.hk/publicregWeb/indi/AFR721/licenceRecord,,,Rep,2016-01-20,2019-05-31
+"Yu, Lifeng (SFC:AYA736) 余立峰",None,sfclicrec.asp?p=81888,AYA736,http://www.sfc.hk/publicregWeb/indi/AYA736/licenceRecord,,,Rep,2016-05-17,2017-03-31
+"Zhao, Xiao (SFC:AJC187) 趙晓",None,sfclicrec.asp?p=81778,AJC187,http://www.sfc.hk/publicregWeb/indi/AJC187/licenceRecord,,,Rep,2016-11-01,
+"Zhong, Bin (SFC:BCW456) 鍾濱",None,sfclicrec.asp?p=22239805,BCW456,http://www.sfc.hk/publicregWeb/indi/BCW456/licenceRecord,,,Rep,2018-10-05,

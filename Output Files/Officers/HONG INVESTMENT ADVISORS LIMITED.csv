@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Dechy, Gregoire Jacques Charles ",sfclicrec.asp?p=84126,,M,RO,2012-02-29,2013-11-29
-"Fung, Wai Yan (SFC:AXQ556) 馮蔚茵",sfclicrec.asp?p=131416,,,Rep,2012-05-21,2015-06-20
-"Hui, Yau Hing 許有慶",sfclicrec.asp?p=126036,,,Rep,2012-03-02,2013-10-25
-"Hui, Yau Hing 許有慶",sfclicrec.asp?p=126036,,,RO,2013-10-25,
-"Liu, Shun Hong 廖舜康",sfclicrec.asp?p=55407,,,RO,2012-02-29,
-"Luk, Ho Lam 陸浩林",sfclicrec.asp?p=8824493,,,Rep,2017-04-25,
-"Wong, Terry Yin Chun 王賢雋",sfclicrec.asp?p=2468952,,,Rep,2015-08-31,2017-05-19
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Dechy, Gregoire Jacques Charles ",None,sfclicrec.asp?p=84126,AMP200,http://www.sfc.hk/publicregWeb/indi/AMP200/licenceRecord,,M,RO,2012-02-29,2013-11-29
+"Fung, Wai Yan (SFC:AXQ556) 馮蔚茵",None,sfclicrec.asp?p=131416,AXQ556,http://www.sfc.hk/publicregWeb/indi/AXQ556/licenceRecord,,,Rep,2012-05-21,2015-06-20
+"Hui, Yau Hing 許有慶",None,sfclicrec.asp?p=126036,ARI221,http://www.sfc.hk/publicregWeb/indi/ARI221/licenceRecord,,,Rep,2012-03-02,2013-10-25
+"Hui, Yau Hing 許有慶",None,sfclicrec.asp?p=126036,ARI221,http://www.sfc.hk/publicregWeb/indi/ARI221/licenceRecord,,,RO,2013-10-25,
+"Liu, Shun Hong 廖舜康",None,sfclicrec.asp?p=55407,ANQ958,http://www.sfc.hk/publicregWeb/indi/ANQ958/licenceRecord,,,RO,2012-02-29,
+"Luk, Ho Lam 陸浩林",None,sfclicrec.asp?p=8824493,BJG130,http://www.sfc.hk/publicregWeb/indi/BJG130/licenceRecord,,,Rep,2017-04-25,
+"Wong, Terry Yin Chun 王賢雋",None,sfclicrec.asp?p=2468952,BFX929,http://www.sfc.hk/publicregWeb/indi/BFX929/licenceRecord,,,Rep,2015-08-31,2017-05-19

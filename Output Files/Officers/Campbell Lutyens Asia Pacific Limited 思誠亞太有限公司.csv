@@ -1,18 +1,18 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au-Yeung, Kin Hang (SFC:AXI948) 歐陽鍵鏗",sfclicrec.asp?p=131326,,,Rep,2019-03-18,
-"Fattedad, Vanessa Asha Tracey ",sfclicrec.asp?p=2458364,,F,Rep,2015-08-05,
-"Lee, Yongseok 李容奭",sfclicrec.asp?p=120367,,,RO,2011-07-08,2015-10-30
-"Lou, Jiayi 樓嘉怡",sfclicrec.asp?p=2374527,,,Rep,2017-04-12,2019-03-15
-"Lui, Jonathan Junyan 雷俊彥",sfclicrec.asp?p=1971614,,M,Rep,2017-04-26,2019-01-31
-"Maltezos, George ",sfclicrec.asp?p=113758,,M,RO,2017-08-22,
-"Morioka, Ryota ",sfclicrec.asp?p=23962727,,,Rep,2019-11-28,
-"Shi, Xiaoni 史曉妮",sfclicrec.asp?p=116654,,,Rep,2013-08-28,2018-05-31
-"Shipperlee, James Alan ",sfclicrec.asp?p=2612876,,M,Rep,2016-07-29,
-"Thorn, Nicholas Michael Gordon ",sfclicrec.asp?p=132954,,M,Rep,2011-10-24,2012-04-24
-"Thorn, Nicholas Michael Gordon ",sfclicrec.asp?p=132954,,M,Rep,2012-07-25,2015-12-17
-"Wang, Faqiang 王發強",sfclicrec.asp?p=132219,,,Rep,2011-09-28,2013-03-29
-"Wong, Wing Shan (SFC:AWX230) 黃詠珊",sfclicrec.asp?p=77639,,,Rep,2013-10-25,
-"Yan, Charlie Cong ",sfclicrec.asp?p=22970452,,,Rep,2019-03-29,
-"Yan, Conrad Wai Kit 甄偉傑",sfclicrec.asp?p=102986,,M,RO,2011-07-08,
-"Yau, Kwong Yan 丘廣茵",sfclicrec.asp?p=131179,,,Rep,2011-07-27,2015-05-31
-"Yoon, Dong Hyuk ",sfclicrec.asp?p=120436,,,RO,2015-09-22,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au-Yeung, Kin Hang (SFC:AXI948) 歐陽鍵鏗",None,sfclicrec.asp?p=131326,AXI948,http://www.sfc.hk/publicregWeb/indi/AXI948/licenceRecord,,,Rep,2019-03-18,
+"Fattedad, Vanessa Asha Tracey ",None,sfclicrec.asp?p=2458364,BFY326,http://www.sfc.hk/publicregWeb/indi/BFY326/licenceRecord,,F,Rep,2015-08-05,
+"Lee, Yongseok 李容奭",None,sfclicrec.asp?p=120367,AOI866,http://www.sfc.hk/publicregWeb/indi/AOI866/licenceRecord,,,RO,2011-07-08,2015-10-30
+"Lou, Jiayi 樓嘉怡",None,sfclicrec.asp?p=2374527,BEV723,http://www.sfc.hk/publicregWeb/indi/BEV723/licenceRecord,,,Rep,2017-04-12,2019-03-15
+"Lui, Jonathan Junyan 雷俊彥",None,sfclicrec.asp?p=1971614,BAH853,http://www.sfc.hk/publicregWeb/indi/BAH853/licenceRecord,,M,Rep,2017-04-26,2019-01-31
+"Maltezos, George ",None,sfclicrec.asp?p=113758,AKJ232,http://www.sfc.hk/publicregWeb/indi/AKJ232/licenceRecord,,M,RO,2017-08-22,
+"Morioka, Ryota ",None,sfclicrec.asp?p=23962727,BPE776,http://www.sfc.hk/publicregWeb/indi/BPE776/licenceRecord,,,Rep,2019-11-28,
+"Shi, Xiaoni 史曉妮",None,sfclicrec.asp?p=116654,AMJ724,http://www.sfc.hk/publicregWeb/indi/AMJ724/licenceRecord,,,Rep,2013-08-28,2018-05-31
+"Shipperlee, James Alan ",None,sfclicrec.asp?p=2612876,BHV431,http://www.sfc.hk/publicregWeb/indi/BHV431/licenceRecord,,M,Rep,2016-07-29,
+"Thorn, Nicholas Michael Gordon ",None,sfclicrec.asp?p=132954,AYD173,http://www.sfc.hk/publicregWeb/indi/AYD173/licenceRecord,,M,Rep,2011-10-24,2012-04-24
+"Thorn, Nicholas Michael Gordon ",None,sfclicrec.asp?p=132954,AYD173,http://www.sfc.hk/publicregWeb/indi/AYD173/licenceRecord,,M,Rep,2012-07-25,2015-12-17
+"Wang, Faqiang 王發強",None,sfclicrec.asp?p=132219,AXY799,http://www.sfc.hk/publicregWeb/indi/AXY799/licenceRecord,,,Rep,2011-09-28,2013-03-29
+"Wong, Wing Shan (SFC:AWX230) 黃詠珊",None,sfclicrec.asp?p=77639,AWX230,http://www.sfc.hk/publicregWeb/indi/AWX230/licenceRecord,,,Rep,2013-10-25,
+"Yan, Charlie Cong ",None,sfclicrec.asp?p=22970452,BOG407,http://www.sfc.hk/publicregWeb/indi/BOG407/licenceRecord,,,Rep,2019-03-29,
+"Yan, Conrad Wai Kit 甄偉傑",None,sfclicrec.asp?p=102986,ACL737,http://www.sfc.hk/publicregWeb/indi/ACL737/licenceRecord,,M,RO,2011-07-08,
+"Yau, Kwong Yan 丘廣茵",None,sfclicrec.asp?p=131179,AXG593,http://www.sfc.hk/publicregWeb/indi/AXG593/licenceRecord,,,Rep,2011-07-27,2015-05-31
+"Yoon, Dong Hyuk ",None,sfclicrec.asp?p=120436,AOJ335,http://www.sfc.hk/publicregWeb/indi/AOJ335/licenceRecord,,,RO,2015-09-22,

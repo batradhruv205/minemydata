@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cai, Lisa Shaoyang 蔡劭暘",sfclicrec.asp?p=2584103,,F,Rep,2014-04-14,2016-04-22
-"Chan, Hsi Haye 陳爔",sfclicrec.asp?p=2584812,,,RO,2013-12-02,
-"Chang, Kin Leung 章堅良",sfclicrec.asp?p=2584813,,,RO,2013-12-02,2018-02-28
-"Chen, Phillip ",sfclicrec.asp?p=2584814,,M,Rep,2014-01-23,2018-04-09
-"Chen, Phillip ",sfclicrec.asp?p=2584814,,M,RO,2018-04-09,2018-10-16
-"Chen, Phillip ",sfclicrec.asp?p=2584814,,M,Rep,2018-10-16,2018-12-31
-"Wong, Howard (SFC:ADY281) 黃浩雲",sfclicrec.asp?p=104416,,M,RO,2018-12-13,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cai, Lisa Shaoyang 蔡劭暘",None,sfclicrec.asp?p=2584103,BDG853,http://www.sfc.hk/publicregWeb/indi/BDG853/licenceRecord,,F,Rep,2014-04-14,2016-04-22
+"Chan, Hsi Haye 陳爔",None,sfclicrec.asp?p=2584812,BCA047,http://www.sfc.hk/publicregWeb/indi/BCA047/licenceRecord,,,RO,2013-12-02,
+"Chang, Kin Leung 章堅良",None,sfclicrec.asp?p=2584813,BCA058,http://www.sfc.hk/publicregWeb/indi/BCA058/licenceRecord,,,RO,2013-12-02,2018-02-28
+"Chen, Phillip ",None,sfclicrec.asp?p=2584814,BCT467,http://www.sfc.hk/publicregWeb/indi/BCT467/licenceRecord,,M,Rep,2014-01-23,2018-04-09
+"Chen, Phillip ",None,sfclicrec.asp?p=2584814,BCT467,http://www.sfc.hk/publicregWeb/indi/BCT467/licenceRecord,,M,RO,2018-04-09,2018-10-16
+"Chen, Phillip ",None,sfclicrec.asp?p=2584814,BCT467,http://www.sfc.hk/publicregWeb/indi/BCT467/licenceRecord,,M,Rep,2018-10-16,2018-12-31
+"Wong, Howard (SFC:ADY281) 黃浩雲",None,sfclicrec.asp?p=104416,ADY281,http://www.sfc.hk/publicregWeb/indi/ADY281/licenceRecord,,M,RO,2018-12-13,

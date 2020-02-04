@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Biertumpel, Jens ",sfclicrec.asp?p=22082162,,,RO,2018-08-20,
-"Grabner, Heinrich 葛侃寧",sfclicrec.asp?p=105074,46,M,RO,2018-08-20,
-"Leung, Desmond Cheuk Kei 梁焯祺",sfclicrec.asp?p=2632789,,M,Rep,2018-10-08,
-"Wong, Alexander Kung Ho 王恭浩",sfclicrec.asp?p=22715535,,M,Rep,2019-01-30,
-"Xu, Gongmei 徐公美",sfclicrec.asp?p=72244,,,RO,2018-08-20,2019-02-01
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Biertumpel, Jens ",None,sfclicrec.asp?p=22082162,BMQ961,http://www.sfc.hk/publicregWeb/indi/BMQ961/licenceRecord,,,RO,2018-08-20,
+"Grabner, Heinrich 葛侃寧",None,sfclicrec.asp?p=105074,AEN772,http://www.sfc.hk/publicregWeb/indi/AEN772/licenceRecord,46.0,M,RO,2018-08-20,
+"Leung, Desmond Cheuk Kei 梁焯祺",None,sfclicrec.asp?p=2632789,BID377,http://www.sfc.hk/publicregWeb/indi/BID377/licenceRecord,,M,Rep,2018-10-08,
+"Wong, Alexander Kung Ho 王恭浩",None,sfclicrec.asp?p=22715535,AGC609,http://www.sfc.hk/publicregWeb/indi/AGC609/licenceRecord,,M,Rep,2019-01-30,
+"Xu, Gongmei 徐公美",None,sfclicrec.asp?p=72244,AVL226,http://www.sfc.hk/publicregWeb/indi/AVL226/licenceRecord,,,RO,2018-08-20,2019-02-01

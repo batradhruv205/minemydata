@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bai, Chong 白翀",sfclicrec.asp?p=23196543,,,Rep,2019-05-20,
-"Hannaford, Stephen Andrew ",sfclicrec.asp?p=2521629,,M,Rep,2019-01-14,
-"Kong, Luhua 孔露華",sfclicrec.asp?p=81000,,,Rep,2019-02-18,
-"Qi, Shiyuan 戚世遠",sfclicrec.asp?p=22175410,,,RO,2018-09-12,
-"Schabel, Walter Friedrich ",sfclicrec.asp?p=130869,,M,RO,2018-09-12,
-"Tilani, Raveen Lachmandas ",sfclicrec.asp?p=22175411,,,RO,2018-09-12,
-"Wang, Jueyi 王珏軼",sfclicrec.asp?p=2297872,,,Rep,2019-02-28,
-"Yoon, Sanghwi ",sfclicrec.asp?p=23196547,,,Rep,2019-05-20,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bai, Chong 白翀",None,sfclicrec.asp?p=23196543,BOI934,http://www.sfc.hk/publicregWeb/indi/BOI934/licenceRecord,,,Rep,2019-05-20,
+"Hannaford, Stephen Andrew ",None,sfclicrec.asp?p=2521629,BGQ541,http://www.sfc.hk/publicregWeb/indi/BGQ541/licenceRecord,,M,Rep,2019-01-14,
+"Kong, Luhua 孔露華",None,sfclicrec.asp?p=81000,AOL209,http://www.sfc.hk/publicregWeb/indi/AOL209/licenceRecord,,,Rep,2019-02-18,
+"Qi, Shiyuan 戚世遠",None,sfclicrec.asp?p=22175410,BMW820,http://www.sfc.hk/publicregWeb/indi/BMW820/licenceRecord,,,RO,2018-09-12,
+"Schabel, Walter Friedrich ",None,sfclicrec.asp?p=130869,AWW208,http://www.sfc.hk/publicregWeb/indi/AWW208/licenceRecord,,M,RO,2018-09-12,
+"Tilani, Raveen Lachmandas ",None,sfclicrec.asp?p=22175411,BMW821,http://www.sfc.hk/publicregWeb/indi/BMW821/licenceRecord,,,RO,2018-09-12,
+"Wang, Jueyi 王珏軼",None,sfclicrec.asp?p=2297872,BDV681,http://www.sfc.hk/publicregWeb/indi/BDV681/licenceRecord,,,Rep,2019-02-28,
+"Yoon, Sanghwi ",None,sfclicrec.asp?p=23196547,BAH367,http://www.sfc.hk/publicregWeb/indi/BAH367/licenceRecord,,,Rep,2019-05-20,

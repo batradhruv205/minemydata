@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chaudhary, Kanush ",sfclicrec.asp?p=2611086,,,Rep,2016-07-26,2019-10-22
-"Chaudhary, Kanush ",sfclicrec.asp?p=2611086,,,RO,2019-10-22,
-"Ha, Loong Loong 夏蓉蓉",sfclicrec.asp?p=153540,,,RO,2016-06-17,
-"Hua, Qianli 華千里",sfclicrec.asp?p=80941,,,Rep,2016-09-19,
-"Ji, Wenrong 季文嶸",sfclicrec.asp?p=23135313,,,Rep,2019-05-06,
-"Leng, Howe Szuan 林豪川",sfclicrec.asp?p=130078,,,RO,2016-06-17,
-"Li, Qingnan 李卿囡",sfclicrec.asp?p=1939288,,F,Rep,2016-07-25,
-"Ma, David Y 馬永達",sfclicrec.asp?p=130521,,M,RO,2016-06-17,
-"Nguyen, Thi Hao (SFC:BND550) ",sfclicrec.asp?p=18606957,,,Rep,2018-07-05,
-"Zhang, Jing (SFC:BHJ764) 張婧",sfclicrec.asp?p=2567383,,,Rep,2019-07-17,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chaudhary, Kanush ",None,sfclicrec.asp?p=2611086,BHU750,http://www.sfc.hk/publicregWeb/indi/BHU750/licenceRecord,,,Rep,2016-07-26,2019-10-22
+"Chaudhary, Kanush ",None,sfclicrec.asp?p=2611086,BHU750,http://www.sfc.hk/publicregWeb/indi/BHU750/licenceRecord,,,RO,2019-10-22,
+"Ha, Loong Loong 夏蓉蓉",None,sfclicrec.asp?p=153540,AYW122,http://www.sfc.hk/publicregWeb/indi/AYW122/licenceRecord,,,RO,2016-06-17,
+"Hua, Qianli 華千里",None,sfclicrec.asp?p=80941,AXU975,http://www.sfc.hk/publicregWeb/indi/AXU975/licenceRecord,,,Rep,2016-09-19,
+"Ji, Wenrong 季文嶸",None,sfclicrec.asp?p=23135313,BOI037,http://www.sfc.hk/publicregWeb/indi/BOI037/licenceRecord,,,Rep,2019-05-06,
+"Leng, Howe Szuan 林豪川",None,sfclicrec.asp?p=130078,AVO611,http://www.sfc.hk/publicregWeb/indi/AVO611/licenceRecord,,,RO,2016-06-17,
+"Li, Qingnan 李卿囡",None,sfclicrec.asp?p=1939288,AZR336,http://www.sfc.hk/publicregWeb/indi/AZR336/licenceRecord,,F,Rep,2016-07-25,
+"Ma, David Y 馬永達",None,sfclicrec.asp?p=130521,AWF910,http://www.sfc.hk/publicregWeb/indi/AWF910/licenceRecord,,M,RO,2016-06-17,
+"Nguyen, Thi Hao (SFC:BND550) ",None,sfclicrec.asp?p=18606957,BND550,http://www.sfc.hk/publicregWeb/indi/BND550/licenceRecord,,,Rep,2018-07-05,
+"Zhang, Jing (SFC:BHJ764) 張婧",None,sfclicrec.asp?p=2567383,BHJ764,http://www.sfc.hk/publicregWeb/indi/BHJ764/licenceRecord,,,Rep,2019-07-17,

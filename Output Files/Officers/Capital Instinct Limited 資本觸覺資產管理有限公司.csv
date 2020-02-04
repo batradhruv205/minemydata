@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bute, Man Kwong 畢文光",sfclicrec.asp?p=103798,,,RO,2011-05-25,
-"Chang, Wai Lun 張偉麟",sfclicrec.asp?p=115319,,,Rep,2013-11-18,2015-11-06
-"Cheng, Li (SFC:AZB216) 程莉",sfclicrec.asp?p=1865112,,,Rep,2016-04-15,2016-07-01
-"Fong, Siu Ho 方少豪",sfclicrec.asp?p=2548383,,,RO,2016-03-17,
-"Lai, Joyce Yuen Yee 黎婉儀",sfclicrec.asp?p=107191,,F,RO,2012-09-12,
-"Wong, Francis Chi Wai 王志偉",sfclicrec.asp?p=101943,,M,RO,2012-05-25,2012-08-08
-"Yip, Benjamin Ying Chi 葉熒志",sfclicrec.asp?p=45093,57,M,RO,2011-05-25,2012-05-15
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bute, Man Kwong 畢文光",None,sfclicrec.asp?p=103798,ADI661,http://www.sfc.hk/publicregWeb/indi/ADI661/licenceRecord,,,RO,2011-05-25,
+"Chang, Wai Lun 張偉麟",None,sfclicrec.asp?p=115319,ALR718,http://www.sfc.hk/publicregWeb/indi/ALR718/licenceRecord,,,Rep,2013-11-18,2015-11-06
+"Cheng, Li (SFC:AZB216) 程莉",None,sfclicrec.asp?p=1865112,AZB216,http://www.sfc.hk/publicregWeb/indi/AZB216/licenceRecord,,,Rep,2016-04-15,2016-07-01
+"Fong, Siu Ho 方少豪",None,sfclicrec.asp?p=2548383,ASK350,http://www.sfc.hk/publicregWeb/indi/ASK350/licenceRecord,,,RO,2016-03-17,
+"Lai, Joyce Yuen Yee 黎婉儀",None,sfclicrec.asp?p=107191,AFQ514,http://www.sfc.hk/publicregWeb/indi/AFQ514/licenceRecord,,F,RO,2012-09-12,
+"Wong, Francis Chi Wai 王志偉",None,sfclicrec.asp?p=101943,ABF476,http://www.sfc.hk/publicregWeb/indi/ABF476/licenceRecord,,M,RO,2012-05-25,2012-08-08
+"Yip, Benjamin Ying Chi 葉熒志",None,sfclicrec.asp?p=45093,AFL246,http://www.sfc.hk/publicregWeb/indi/AFL246/licenceRecord,57.0,M,RO,2011-05-25,2012-05-15

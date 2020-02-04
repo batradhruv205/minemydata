@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Feng, Zhongjie 馮中杰",sfclicrec.asp?p=2434415,,,Rep,2015-06-12,2017-01-16
-"Gupta, Amit (SFC:AOD057) ",sfclicrec.asp?p=119997,,,RO,2012-03-08,
-"Jacob, Vijay Thomas ",sfclicrec.asp?p=129388,,M,Rep,2012-03-08,2018-06-11
-"Ji, Chen (SFC:AYP277) 紀晨",sfclicrec.asp?p=1863022,,,Rep,2012-03-08,
-"Lee, Ying Leong 利英良",sfclicrec.asp?p=2448668,,,Rep,2015-07-14,
-"Li, Anne ",sfclicrec.asp?p=1970942,,F,Rep,2012-10-25,2017-07-01
-"Lin, Min (SFC:ART867) 林敏",sfclicrec.asp?p=127011,,,Rep,2012-03-08,
-"Lo, Bonnie Sum Wai 文盧心慧",sfclicrec.asp?p=107840,,F,RO,2012-03-08,
-"Massara, Darren Charles ",sfclicrec.asp?p=120753,,M,Rep,2012-03-08,2018-06-27
-"Massara, Darren Charles ",sfclicrec.asp?p=120753,,M,RO,2018-06-27,
-"Ng, Kin Ting 吳建霆",sfclicrec.asp?p=136175,,,Rep,2014-12-31,
-"Shum, Alex Jiu Lik 沈朝力",sfclicrec.asp?p=122391,,,Rep,2012-03-08,
-"Sugla, Mamtesh ",sfclicrec.asp?p=2317802,,,Rep,2014-09-08,2017-05-01
-"Wang, Daizong (SFC:AGP139) 王岱宗",sfclicrec.asp?p=110168,,,Rep,2016-04-06,2017-01-16
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Feng, Zhongjie 馮中杰",None,sfclicrec.asp?p=2434415,BFH493,http://www.sfc.hk/publicregWeb/indi/BFH493/licenceRecord,,,Rep,2015-06-12,2017-01-16
+"Gupta, Amit (SFC:AOD057) ",None,sfclicrec.asp?p=119997,AOD057,http://www.sfc.hk/publicregWeb/indi/AOD057/licenceRecord,,,RO,2012-03-08,
+"Jacob, Vijay Thomas ",None,sfclicrec.asp?p=129388,AUV355,http://www.sfc.hk/publicregWeb/indi/AUV355/licenceRecord,,M,Rep,2012-03-08,2018-06-11
+"Ji, Chen (SFC:AYP277) 紀晨",None,sfclicrec.asp?p=1863022,AYP277,http://www.sfc.hk/publicregWeb/indi/AYP277/licenceRecord,,,Rep,2012-03-08,
+"Lee, Ying Leong 利英良",None,sfclicrec.asp?p=2448668,BFO130,http://www.sfc.hk/publicregWeb/indi/BFO130/licenceRecord,,,Rep,2015-07-14,
+"Li, Anne ",None,sfclicrec.asp?p=1970942,BAG333,http://www.sfc.hk/publicregWeb/indi/BAG333/licenceRecord,,F,Rep,2012-10-25,2017-07-01
+"Lin, Min (SFC:ART867) 林敏",None,sfclicrec.asp?p=127011,ART867,http://www.sfc.hk/publicregWeb/indi/ART867/licenceRecord,,,Rep,2012-03-08,
+"Lo, Bonnie Sum Wai 文盧心慧",None,sfclicrec.asp?p=107840,AFV258,http://www.sfc.hk/publicregWeb/indi/AFV258/licenceRecord,,F,RO,2012-03-08,
+"Massara, Darren Charles ",None,sfclicrec.asp?p=120753,AOO819,http://www.sfc.hk/publicregWeb/indi/AOO819/licenceRecord,,M,Rep,2012-03-08,2018-06-27
+"Massara, Darren Charles ",None,sfclicrec.asp?p=120753,AOO819,http://www.sfc.hk/publicregWeb/indi/AOO819/licenceRecord,,M,RO,2018-06-27,
+"Ng, Kin Ting 吳建霆",None,sfclicrec.asp?p=136175,AYT344,http://www.sfc.hk/publicregWeb/indi/AYT344/licenceRecord,,,Rep,2014-12-31,
+"Shum, Alex Jiu Lik 沈朝力",None,sfclicrec.asp?p=122391,APJ351,http://www.sfc.hk/publicregWeb/indi/APJ351/licenceRecord,,,Rep,2012-03-08,
+"Sugla, Mamtesh ",None,sfclicrec.asp?p=2317802,BDX411,http://www.sfc.hk/publicregWeb/indi/BDX411/licenceRecord,,,Rep,2014-09-08,2017-05-01
+"Wang, Daizong (SFC:AGP139) 王岱宗",None,sfclicrec.asp?p=110168,AGP139,http://www.sfc.hk/publicregWeb/indi/AGP139/licenceRecord,,,Rep,2016-04-06,2017-01-16

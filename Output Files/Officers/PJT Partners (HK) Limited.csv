@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chang, Peter (SFC:AFY053) ",sfclicrec.asp?p=88768,,M,Rep,2019-10-10,
-"Chen, Zhengjie 陳正捷",sfclicrec.asp?p=70322,,,Rep,2015-10-12,2016-03-31
-"Chew, Kim Jin 周金仁",sfclicrec.asp?p=1942971,,,Rep,2018-02-05,
-"Chiang Amy, C. 江貞蓉",sfclicrec.asp?p=2401282,,F,Rep,2016-10-28,2019-03-15
-"Chung, So Young ",sfclicrec.asp?p=22995564,,,Rep,2019-04-03,
-"Kim, Noah Youngsu ",sfclicrec.asp?p=70344,,M,Rep,2015-10-12,2017-07-31
-"Lee, James Sangwon 李祥源",sfclicrec.asp?p=2377111,,M,Rep,2018-08-16,
-"Lee, Seong Kyun ",sfclicrec.asp?p=2607461,,,Rep,2016-07-18,2018-05-11
-"Lin, Disheng 林迪生",sfclicrec.asp?p=22995565,,,Rep,2019-04-03,
-"Lui, Jonathan Junyan 雷俊彥",sfclicrec.asp?p=1971614,,M,Rep,2015-10-12,2017-03-31
-"Malekian, Taymaz ",sfclicrec.asp?p=2439283,,,Rep,2015-10-27,
-"Nagae, Joseph Kurian (SFC:AVZ283) ",sfclicrec.asp?p=84379,,M,RO,2015-10-06,
-"Ng, Hoi Lam 吳凱琳",sfclicrec.asp?p=77481,,,Rep,2015-12-11,2017-10-11
-"Ong, Chi Tuan 王志團",sfclicrec.asp?p=1887872,,,Rep,2015-10-12,2019-04-30
-"Resnick, Kallan Dano Curtis ",sfclicrec.asp?p=70355,,M,RO,2015-10-06,
-"Siribodhi, Pongyupa ",sfclicrec.asp?p=11793173,,,Rep,2017-08-25,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chang, Peter (SFC:AFY053) ",None,sfclicrec.asp?p=88768,AFY053,http://www.sfc.hk/publicregWeb/indi/AFY053/licenceRecord,,M,Rep,2019-10-10,
+"Chen, Zhengjie 陳正捷",None,sfclicrec.asp?p=70322,AWZ022,http://www.sfc.hk/publicregWeb/indi/AWZ022/licenceRecord,,,Rep,2015-10-12,2016-03-31
+"Chew, Kim Jin 周金仁",None,sfclicrec.asp?p=1942971,BAC201,http://www.sfc.hk/publicregWeb/indi/BAC201/licenceRecord,,,Rep,2018-02-05,
+"Chiang Amy, C. 江貞蓉",None,sfclicrec.asp?p=2401282,BFC388,http://www.sfc.hk/publicregWeb/indi/BFC388/licenceRecord,,F,Rep,2016-10-28,2019-03-15
+"Chung, So Young ",None,sfclicrec.asp?p=22995564,BOD537,http://www.sfc.hk/publicregWeb/indi/BOD537/licenceRecord,,,Rep,2019-04-03,
+"Kim, Noah Youngsu ",None,sfclicrec.asp?p=70344,AXB587,http://www.sfc.hk/publicregWeb/indi/AXB587/licenceRecord,,M,Rep,2015-10-12,2017-07-31
+"Lee, James Sangwon 李祥源",None,sfclicrec.asp?p=2377111,BEW672,http://www.sfc.hk/publicregWeb/indi/BEW672/licenceRecord,,M,Rep,2018-08-16,
+"Lee, Seong Kyun ",None,sfclicrec.asp?p=2607461,BHS525,http://www.sfc.hk/publicregWeb/indi/BHS525/licenceRecord,,,Rep,2016-07-18,2018-05-11
+"Lin, Disheng 林迪生",None,sfclicrec.asp?p=22995565,BOD554,http://www.sfc.hk/publicregWeb/indi/BOD554/licenceRecord,,,Rep,2019-04-03,
+"Lui, Jonathan Junyan 雷俊彥",None,sfclicrec.asp?p=1971614,BAH853,http://www.sfc.hk/publicregWeb/indi/BAH853/licenceRecord,,M,Rep,2015-10-12,2017-03-31
+"Malekian, Taymaz ",None,sfclicrec.asp?p=2439283,BFS099,http://www.sfc.hk/publicregWeb/indi/BFS099/licenceRecord,,,Rep,2015-10-27,
+"Nagae, Joseph Kurian (SFC:AVZ283) ",None,sfclicrec.asp?p=84379,AVZ283,http://www.sfc.hk/publicregWeb/indi/AVZ283/licenceRecord,,M,RO,2015-10-06,
+"Ng, Hoi Lam 吳凱琳",None,sfclicrec.asp?p=77481,APV909,http://www.sfc.hk/publicregWeb/indi/APV909/licenceRecord,,,Rep,2015-12-11,2017-10-11
+"Ong, Chi Tuan 王志團",None,sfclicrec.asp?p=1887872,AZJ326,http://www.sfc.hk/publicregWeb/indi/AZJ326/licenceRecord,,,Rep,2015-10-12,2019-04-30
+"Resnick, Kallan Dano Curtis ",None,sfclicrec.asp?p=70355,ASW345,http://www.sfc.hk/publicregWeb/indi/ASW345/licenceRecord,,M,RO,2015-10-06,
+"Siribodhi, Pongyupa ",None,sfclicrec.asp?p=11793173,BJV233,http://www.sfc.hk/publicregWeb/indi/BJV233/licenceRecord,,,Rep,2017-08-25,

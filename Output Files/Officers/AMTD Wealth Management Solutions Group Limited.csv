@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Sin Hang (SFC:AQU095) 陳倩姮",sfclicrec.asp?p=124938,,,RO,2018-07-12,2019-03-04
-"Chen, Chia-hui (SFC:ASU227) 陳佳慧",sfclicrec.asp?p=94774,,,RO,2019-01-09,
-"Fung, William Ching Ho 馮正可",sfclicrec.asp?p=115316,,M,RO,2017-06-07,
-"Lin, Yen-Chun 林彥君",sfclicrec.asp?p=92512,,,RO,2017-06-07,2018-12-31
-"Lo, Chi Hang (SFC:ARU729) 盧致恆",sfclicrec.asp?p=92243,,,RO,2017-06-07,
-"Yuen, Ka Leung 袁家樑",sfclicrec.asp?p=79386,,,Rep,2019-05-02,2019-06-04
-"Yuen, Ka Leung 袁家樑",sfclicrec.asp?p=79386,,,RO,2019-06-04,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Sin Hang (SFC:AQU095) 陳倩姮",None,sfclicrec.asp?p=124938,AQU095,http://www.sfc.hk/publicregWeb/indi/AQU095/licenceRecord,,,RO,2018-07-12,2019-03-04
+"Chen, Chia-hui (SFC:ASU227) 陳佳慧",None,sfclicrec.asp?p=94774,ASU227,http://www.sfc.hk/publicregWeb/indi/ASU227/licenceRecord,,,RO,2019-01-09,
+"Fung, William Ching Ho 馮正可",None,sfclicrec.asp?p=115316,ALR680,http://www.sfc.hk/publicregWeb/indi/ALR680/licenceRecord,,M,RO,2017-06-07,
+"Lin, Yen-Chun 林彥君",None,sfclicrec.asp?p=92512,ASM080,http://www.sfc.hk/publicregWeb/indi/ASM080/licenceRecord,,,RO,2017-06-07,2018-12-31
+"Lo, Chi Hang (SFC:ARU729) 盧致恆",None,sfclicrec.asp?p=92243,ARU729,http://www.sfc.hk/publicregWeb/indi/ARU729/licenceRecord,,,RO,2017-06-07,
+"Yuen, Ka Leung 袁家樑",None,sfclicrec.asp?p=79386,ANV050,http://www.sfc.hk/publicregWeb/indi/ANV050/licenceRecord,,,Rep,2019-05-02,2019-06-04
+"Yuen, Ka Leung 袁家樑",None,sfclicrec.asp?p=79386,ANV050,http://www.sfc.hk/publicregWeb/indi/ANV050/licenceRecord,,,RO,2019-06-04,

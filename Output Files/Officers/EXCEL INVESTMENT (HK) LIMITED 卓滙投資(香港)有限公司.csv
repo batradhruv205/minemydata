@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lu, Xiaoxun 陸曉遜",sfclicrec.asp?p=79656,,,RO,2014-07-21,2017-02-24
-"Zhang, Wenyuan 張文源",sfclicrec.asp?p=126243,,,RO,2014-07-21,
-"Zhao, Wenbin Warren 趙文彬",sfclicrec.asp?p=2563430,,,Rep,2016-04-18,2017-02-22
-"Zhao, Wenbin Warren 趙文彬",sfclicrec.asp?p=2563430,,,RO,2017-02-22,
-"Zou, Mingguang 鄒明廣",sfclicrec.asp?p=23659692,,,Rep,2019-09-13,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lu, Xiaoxun 陸曉遜",None,sfclicrec.asp?p=79656,AGB117,http://www.sfc.hk/publicregWeb/indi/AGB117/licenceRecord,,,RO,2014-07-21,2017-02-24
+"Zhang, Wenyuan 張文源",None,sfclicrec.asp?p=126243,ARJ899,http://www.sfc.hk/publicregWeb/indi/ARJ899/licenceRecord,,,RO,2014-07-21,
+"Zhao, Wenbin Warren 趙文彬",None,sfclicrec.asp?p=2563430,BHG104,http://www.sfc.hk/publicregWeb/indi/BHG104/licenceRecord,,,Rep,2016-04-18,2017-02-22
+"Zhao, Wenbin Warren 趙文彬",None,sfclicrec.asp?p=2563430,BHG104,http://www.sfc.hk/publicregWeb/indi/BHG104/licenceRecord,,,RO,2017-02-22,
+"Zou, Mingguang 鄒明廣",None,sfclicrec.asp?p=23659692,BOS723,http://www.sfc.hk/publicregWeb/indi/BOS723/licenceRecord,,,Rep,2019-09-13,

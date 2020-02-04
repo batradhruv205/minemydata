@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chau, Lai Fong (SFC:BHU001) 周麗芳",sfclicrec.asp?p=2616369,,,Rep,2016-08-08,
-"Gupta, Sumit (SFC:BOW725) ",sfclicrec.asp?p=23844158,,M,Rep,2019-10-29,2020-01-05
-"Ip, Ho Wang 葉䯫鋐",sfclicrec.asp?p=2615174,,,Rep,2016-08-03,2019-08-06
-"Lee, Chi Ho (SFC:AQJ262) 李子豪",sfclicrec.asp?p=82956,,,Rep,2019-10-25,
-"Leung, Hung Kwong (SFC:ARF550) 梁雄光",sfclicrec.asp?p=125773,,,RO,2015-10-30,2018-08-20
-"Ng, Steven Hoi-Bun 吳凱斌",sfclicrec.asp?p=108175,,M,Rep,2018-04-12,
-"Promboon, Warut ",sfclicrec.asp?p=132625,,,Rep,2017-09-13,
-"Tsui, Chun Nang 徐駿能",sfclicrec.asp?p=83017,,,Rep,2015-11-06,2016-09-23
-"Tsui, Chun Nang 徐駿能",sfclicrec.asp?p=83017,,,RO,2016-09-23,
-"Wee, Christopher Tze Chern 黃志成",sfclicrec.asp?p=98583,,M,RO,2015-10-30,
-"Yip, Shui Key 葉紹基",sfclicrec.asp?p=103284,,,Rep,2016-10-14,2017-01-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chau, Lai Fong (SFC:BHU001) 周麗芳",None,sfclicrec.asp?p=2616369,BHU001,http://www.sfc.hk/publicregWeb/indi/BHU001/licenceRecord,,,Rep,2016-08-08,
+"Gupta, Sumit (SFC:BOW725) ",None,sfclicrec.asp?p=23844158,BOW725,http://www.sfc.hk/publicregWeb/indi/BOW725/licenceRecord,,M,Rep,2019-10-29,2020-01-05
+"Ip, Ho Wang 葉䯫鋐",None,sfclicrec.asp?p=2615174,BHX030,http://www.sfc.hk/publicregWeb/indi/BHX030/licenceRecord,,,Rep,2016-08-03,2019-08-06
+"Lee, Chi Ho (SFC:AQJ262) 李子豪",None,sfclicrec.asp?p=82956,AQJ262,http://www.sfc.hk/publicregWeb/indi/AQJ262/licenceRecord,,,Rep,2019-10-25,
+"Leung, Hung Kwong (SFC:ARF550) 梁雄光",None,sfclicrec.asp?p=125773,ARF550,http://www.sfc.hk/publicregWeb/indi/ARF550/licenceRecord,,,RO,2015-10-30,2018-08-20
+"Ng, Steven Hoi-Bun 吳凱斌",None,sfclicrec.asp?p=108175,AFZ399,http://www.sfc.hk/publicregWeb/indi/AFZ399/licenceRecord,,M,Rep,2018-04-12,
+"Promboon, Warut ",None,sfclicrec.asp?p=132625,AYF098,http://www.sfc.hk/publicregWeb/indi/AYF098/licenceRecord,,,Rep,2017-09-13,
+"Tsui, Chun Nang 徐駿能",None,sfclicrec.asp?p=83017,AHA206,http://www.sfc.hk/publicregWeb/indi/AHA206/licenceRecord,,,Rep,2015-11-06,2016-09-23
+"Tsui, Chun Nang 徐駿能",None,sfclicrec.asp?p=83017,AHA206,http://www.sfc.hk/publicregWeb/indi/AHA206/licenceRecord,,,RO,2016-09-23,
+"Wee, Christopher Tze Chern 黃志成",None,sfclicrec.asp?p=98583,ACR436,http://www.sfc.hk/publicregWeb/indi/ACR436/licenceRecord,,M,RO,2015-10-30,
+"Yip, Shui Key 葉紹基",None,sfclicrec.asp?p=103284,ACS410,http://www.sfc.hk/publicregWeb/indi/ACS410/licenceRecord,,,Rep,2016-10-14,2017-01-31

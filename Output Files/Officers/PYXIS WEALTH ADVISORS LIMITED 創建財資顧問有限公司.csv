@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Wing Lam (SFC:ATM802) 張穎琳",sfclicrec.asp?p=128355,,,Rep,2019-12-27,
-"Lam, Yin Ng 林賢伍",sfclicrec.asp?p=99970,,,RO,2019-08-14,
-"Woo, Wallace Chong Keung 胡壯強",sfclicrec.asp?p=17138939,,M,RO,2019-08-14,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Wing Lam (SFC:ATM802) 張穎琳",None,sfclicrec.asp?p=128355,ATM802,http://www.sfc.hk/publicregWeb/indi/ATM802/licenceRecord,,,Rep,2019-12-27,
+"Lam, Yin Ng 林賢伍",None,sfclicrec.asp?p=99970,ALV041,http://www.sfc.hk/publicregWeb/indi/ALV041/licenceRecord,,,RO,2019-08-14,
+"Woo, Wallace Chong Keung 胡壯強",None,sfclicrec.asp?p=17138939,ABX326,http://www.sfc.hk/publicregWeb/indi/ABX326/licenceRecord,,M,RO,2019-08-14,

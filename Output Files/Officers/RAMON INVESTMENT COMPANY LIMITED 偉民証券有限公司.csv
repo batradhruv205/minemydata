@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Fong, Shun Chuen 房順銓",sfclicrec.asp?p=85435,,,Rep,2014-01-24,2015-04-17
-"Harilela, Luke ",sfclicrec.asp?p=46232,,M,RO,,
-"Harilela, Ramon Prishotamdas ",sfclicrec.asp?p=99785,,,Rep,,2016-01-25
-"Hotwani, Arjun Jhamatmal ",sfclicrec.asp?p=99783,,,Rep,,2004-10-15
-"Hotwani, Arjun Jhamatmal ",sfclicrec.asp?p=99783,,,RO,2004-10-15,
-"Khemaney, Haneal Nanik ",sfclicrec.asp?p=97445,,,Rep,2005-08-16,2011-03-31
-"Khemaney, Kamini Nanik ",sfclicrec.asp?p=99784,,,RO,,2016-10-31
-"Li, Shuk Fat 李淑法",sfclicrec.asp?p=78239,,,Rep,2018-03-23,
-"Wong, Chi Chu 黃志珠",sfclicrec.asp?p=99786,,,Rep,,
-"Yip, Hoi Ling 葉海苓",sfclicrec.asp?p=107193,,,Rep,,2005-06-20
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Fong, Shun Chuen 房順銓",None,sfclicrec.asp?p=85435,ALY308,http://www.sfc.hk/publicregWeb/indi/ALY308/licenceRecord,,,Rep,2014-01-24,2015-04-17
+"Harilela, Luke ",None,sfclicrec.asp?p=46232,ACR513,http://www.sfc.hk/publicregWeb/indi/ACR513/licenceRecord,,M,RO,,
+"Harilela, Ramon Prishotamdas ",None,sfclicrec.asp?p=99785,AFV355,http://www.sfc.hk/publicregWeb/indi/AFV355/licenceRecord,,,Rep,,2016-01-25
+"Hotwani, Arjun Jhamatmal ",None,sfclicrec.asp?p=99783,AAV770,http://www.sfc.hk/publicregWeb/indi/AAV770/licenceRecord,,,Rep,,2004-10-15
+"Hotwani, Arjun Jhamatmal ",None,sfclicrec.asp?p=99783,AAV770,http://www.sfc.hk/publicregWeb/indi/AAV770/licenceRecord,,,RO,2004-10-15,
+"Khemaney, Haneal Nanik ",None,sfclicrec.asp?p=97445,AME957,http://www.sfc.hk/publicregWeb/indi/AME957/licenceRecord,,,Rep,2005-08-16,2011-03-31
+"Khemaney, Kamini Nanik ",None,sfclicrec.asp?p=99784,AAP599,http://www.sfc.hk/publicregWeb/indi/AAP599/licenceRecord,,,RO,,2016-10-31
+"Li, Shuk Fat 李淑法",None,sfclicrec.asp?p=78239,ACY281,http://www.sfc.hk/publicregWeb/indi/ACY281/licenceRecord,,,Rep,2018-03-23,
+"Wong, Chi Chu 黃志珠",None,sfclicrec.asp?p=99786,AAA177,http://www.sfc.hk/publicregWeb/indi/AAA177/licenceRecord,,,Rep,,
+"Yip, Hoi Ling 葉海苓",None,sfclicrec.asp?p=107193,AFQ523,http://www.sfc.hk/publicregWeb/indi/AFQ523/licenceRecord,,,Rep,,2005-06-20

@@ -1,3 +1,3 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Dong, Wei (SFC:BOT661) 董為",sfclicrec.asp?p=24125424,,,RO,2020-01-16,
-"Wang, Weizhong (SFC:BOT573) 王瑋中",sfclicrec.asp?p=24125425,,,RO,2020-01-16,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Dong, Wei (SFC:BOT661) 董為",None,sfclicrec.asp?p=24125424,BOT661,http://www.sfc.hk/publicregWeb/indi/BOT661/licenceRecord,,,RO,2020-01-16,
+"Wang, Weizhong (SFC:BOT573) 王瑋中",None,sfclicrec.asp?p=24125425,BOT573,http://www.sfc.hk/publicregWeb/indi/BOT573/licenceRecord,,,RO,2020-01-16,

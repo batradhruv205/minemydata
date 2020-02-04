@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chang, Edmund Wa Shan 曾華山",sfclicrec.asp?p=58959,,M,Rep,,2012-01-01
-"Choy, Alan Chin Wing 蔡展榮",sfclicrec.asp?p=58961,,M,RO,,
-"Fung, Thomas Hin Fan 馮顯勳",sfclicrec.asp?p=58965,,M,Rep,,2004-04-21
-"Fung, Thomas Hin Fan 馮顯勳",sfclicrec.asp?p=58965,,M,RO,2004-04-21,
-"Kwok, Fai (SFC:AEA575) 郭輝",sfclicrec.asp?p=58962,,M,Rep,,
-"Leung, Man Nei 梁文妮",sfclicrec.asp?p=58963,,,Rep,2014-08-01,2018-01-30
-"Leung, Man Nei 梁文妮",sfclicrec.asp?p=58963,,,RO,2018-01-30,
-"Ng, Michael Sze Shing 伍思承",sfclicrec.asp?p=58964,,M,Rep,,2009-10-19
-"Ng, Michael Sze Shing 伍思承",sfclicrec.asp?p=58964,,M,RO,2009-10-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chang, Edmund Wa Shan 曾華山",None,sfclicrec.asp?p=58959,AAG823,http://www.sfc.hk/publicregWeb/indi/AAG823/licenceRecord,,M,Rep,,2012-01-01
+"Choy, Alan Chin Wing 蔡展榮",None,sfclicrec.asp?p=58961,ADE929,http://www.sfc.hk/publicregWeb/indi/ADE929/licenceRecord,,M,RO,,
+"Fung, Thomas Hin Fan 馮顯勳",None,sfclicrec.asp?p=58965,ACE754,http://www.sfc.hk/publicregWeb/indi/ACE754/licenceRecord,,M,Rep,,2004-04-21
+"Fung, Thomas Hin Fan 馮顯勳",None,sfclicrec.asp?p=58965,ACE754,http://www.sfc.hk/publicregWeb/indi/ACE754/licenceRecord,,M,RO,2004-04-21,
+"Kwok, Fai (SFC:AEA575) 郭輝",None,sfclicrec.asp?p=58962,AEA575,http://www.sfc.hk/publicregWeb/indi/AEA575/licenceRecord,,M,Rep,,
+"Leung, Man Nei 梁文妮",None,sfclicrec.asp?p=58963,AFM308,http://www.sfc.hk/publicregWeb/indi/AFM308/licenceRecord,,,Rep,2014-08-01,2018-01-30
+"Leung, Man Nei 梁文妮",None,sfclicrec.asp?p=58963,AFM308,http://www.sfc.hk/publicregWeb/indi/AFM308/licenceRecord,,,RO,2018-01-30,
+"Ng, Michael Sze Shing 伍思承",None,sfclicrec.asp?p=58964,AAE240,http://www.sfc.hk/publicregWeb/indi/AAE240/licenceRecord,,M,Rep,,2009-10-19
+"Ng, Michael Sze Shing 伍思承",None,sfclicrec.asp?p=58964,AAE240,http://www.sfc.hk/publicregWeb/indi/AAE240/licenceRecord,,M,RO,2009-10-19,

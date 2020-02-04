@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ng, Chi Hoi (SFC:ADA864) 吳志凱",sfclicrec.asp?p=99745,50,M,RO,2019-06-03,
-"Pang, Pik Shan 彭碧珊",sfclicrec.asp?p=84549,,,RO,2019-06-03,2019-10-31
-"Zhang, Yuebo 張越博",sfclicrec.asp?p=23805255,,,Rep,2019-10-18,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ng, Chi Hoi (SFC:ADA864) 吳志凱",None,sfclicrec.asp?p=99745,ADA864,http://www.sfc.hk/publicregWeb/indi/ADA864/licenceRecord,50.0,M,RO,2019-06-03,
+"Pang, Pik Shan 彭碧珊",None,sfclicrec.asp?p=84549,AGL148,http://www.sfc.hk/publicregWeb/indi/AGL148/licenceRecord,,,RO,2019-06-03,2019-10-31
+"Zhang, Yuebo 張越博",None,sfclicrec.asp?p=23805255,BOM680,http://www.sfc.hk/publicregWeb/indi/BOM680/licenceRecord,,,Rep,2019-10-18,

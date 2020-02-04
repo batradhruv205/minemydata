@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chu, Cheuk Fung 朱卓風",sfclicrec.asp?p=12763150,,,Rep,2019-03-13,
-"Chung, Wai Shing (SFC:AFP827) 鍾偉誠",sfclicrec.asp?p=91327,,,RO,2015-09-18,
-"Furst, Richard Philip (SFC:BFK521) ",sfclicrec.asp?p=2466038,,M,RO,2015-08-24,2016-02-19
-"Gorthy, Anil Kumar ",sfclicrec.asp?p=91329,,M,RO,2015-08-24,
-"Kumar, Avinash (SFC:BNV566) ",sfclicrec.asp?p=22481129,,,Rep,2018-11-27,
-"Sue, James ",sfclicrec.asp?p=10943742,,M,Rep,2017-05-25,
-"Wang, Jia (SFC:BHQ251) ",sfclicrec.asp?p=2599923,,,Rep,2016-07-04,
-"Wang, Yifeng (SFC:BFS141) 王毅峰",sfclicrec.asp?p=2441131,,,Rep,2015-11-17,2018-11-06
-"Wang, Yifeng (SFC:BFS141) 王毅峰",sfclicrec.asp?p=2441131,,,RO,2018-11-06,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chu, Cheuk Fung 朱卓風",None,sfclicrec.asp?p=12763150,BMG556,http://www.sfc.hk/publicregWeb/indi/BMG556/licenceRecord,,,Rep,2019-03-13,
+"Chung, Wai Shing (SFC:AFP827) 鍾偉誠",None,sfclicrec.asp?p=91327,AFP827,http://www.sfc.hk/publicregWeb/indi/AFP827/licenceRecord,,,RO,2015-09-18,
+"Furst, Richard Philip (SFC:BFK521) ",None,sfclicrec.asp?p=2466038,BFK521,http://www.sfc.hk/publicregWeb/indi/BFK521/licenceRecord,,M,RO,2015-08-24,2016-02-19
+"Gorthy, Anil Kumar ",None,sfclicrec.asp?p=91329,ATN437,http://www.sfc.hk/publicregWeb/indi/ATN437/licenceRecord,,M,RO,2015-08-24,
+"Kumar, Avinash (SFC:BNV566) ",None,sfclicrec.asp?p=22481129,BNV566,http://www.sfc.hk/publicregWeb/indi/BNV566/licenceRecord,,,Rep,2018-11-27,
+"Sue, James ",None,sfclicrec.asp?p=10943742,BJP241,http://www.sfc.hk/publicregWeb/indi/BJP241/licenceRecord,,M,Rep,2017-05-25,
+"Wang, Jia (SFC:BHQ251) ",None,sfclicrec.asp?p=2599923,BHQ251,http://www.sfc.hk/publicregWeb/indi/BHQ251/licenceRecord,,,Rep,2016-07-04,
+"Wang, Yifeng (SFC:BFS141) 王毅峰",None,sfclicrec.asp?p=2441131,BFS141,http://www.sfc.hk/publicregWeb/indi/BFS141/licenceRecord,,,Rep,2015-11-17,2018-11-06
+"Wang, Yifeng (SFC:BFS141) 王毅峰",None,sfclicrec.asp?p=2441131,BFS141,http://www.sfc.hk/publicregWeb/indi/BFS141/licenceRecord,,,RO,2018-11-06,

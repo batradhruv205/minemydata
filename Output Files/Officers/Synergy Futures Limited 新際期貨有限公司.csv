@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Zhaomin 程肇敏",sfclicrec.asp?p=23838699,,,Rep,2019-10-28,
-"Qin, Tian (SFC:AXD124) 秦天",sfclicrec.asp?p=89977,,,RO,2018-12-31,
-"Shi, Zhen (SFC:AYK898) 石振",sfclicrec.asp?p=133692,,,RO,2018-12-31,
-"Zhu, Yuxiang (SFC:BER747) 朱宇翔",sfclicrec.asp?p=2422866,,,Rep,2019-07-24,
-"Zhuo, Le 卓樂",sfclicrec.asp?p=23426324,,,Rep,2019-07-15,2019-08-16
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Zhaomin 程肇敏",None,sfclicrec.asp?p=23838699,BOZ955,http://www.sfc.hk/publicregWeb/indi/BOZ955/licenceRecord,,,Rep,2019-10-28,
+"Qin, Tian (SFC:AXD124) 秦天",None,sfclicrec.asp?p=89977,AXD124,http://www.sfc.hk/publicregWeb/indi/AXD124/licenceRecord,,,RO,2018-12-31,
+"Shi, Zhen (SFC:AYK898) 石振",None,sfclicrec.asp?p=133692,AYK898,http://www.sfc.hk/publicregWeb/indi/AYK898/licenceRecord,,,RO,2018-12-31,
+"Zhu, Yuxiang (SFC:BER747) 朱宇翔",None,sfclicrec.asp?p=2422866,BER747,http://www.sfc.hk/publicregWeb/indi/BER747/licenceRecord,,,Rep,2019-07-24,
+"Zhuo, Le 卓樂",None,sfclicrec.asp?p=23426324,BOO006,http://www.sfc.hk/publicregWeb/indi/BOO006/licenceRecord,,,Rep,2019-07-15,2019-08-16

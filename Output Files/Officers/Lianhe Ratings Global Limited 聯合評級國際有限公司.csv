@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Guo, Xiangyun 郭香云",sfclicrec.asp?p=12598145,,,Rep,2020-01-06,
-"Ho, Stan Ho Ming 何昊洺",sfclicrec.asp?p=104657,48,M,RO,2018-07-16,
-"Huang, Chia-Chi 黃佳琪",sfclicrec.asp?p=131218,,,RO,2018-07-16,
-"Jiang, Yingyun 蔣穎云",sfclicrec.asp?p=12053051,,,Rep,2018-09-04,2019-09-27
-"Kung, Ling Yen 孔令彥",sfclicrec.asp?p=2346697,,,RO,2018-07-16,
-"Lee, Kai Chung (SFC:BOL449) 李鎧仲",sfclicrec.asp?p=23515530,,,Rep,2019-08-06,
-"Liu, Ying (SFC:BNI047) 劉穎",sfclicrec.asp?p=21699319,,,Rep,2018-08-08,
-"Wu, Rundong 鄔潤東",sfclicrec.asp?p=22138714,,,Rep,2018-09-05,
-"Yau, Benjamin Chi Man 游志文",sfclicrec.asp?p=88143,,M,Rep,2019-07-04,
-"Zhao, Lin 趙琳",sfclicrec.asp?p=22076243,,,Rep,2018-08-20,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Guo, Xiangyun 郭香云",None,sfclicrec.asp?p=12598145,BLL341,http://www.sfc.hk/publicregWeb/indi/BLL341/licenceRecord,,,Rep,2020-01-06,
+"Ho, Stan Ho Ming 何昊洺",None,sfclicrec.asp?p=104657,AEE198,http://www.sfc.hk/publicregWeb/indi/AEE198/licenceRecord,48.0,M,RO,2018-07-16,
+"Huang, Chia-Chi 黃佳琪",None,sfclicrec.asp?p=131218,AXH163,http://www.sfc.hk/publicregWeb/indi/AXH163/licenceRecord,,,RO,2018-07-16,
+"Jiang, Yingyun 蔣穎云",None,sfclicrec.asp?p=12053051,BKL592,http://www.sfc.hk/publicregWeb/indi/BKL592/licenceRecord,,,Rep,2018-09-04,2019-09-27
+"Kung, Ling Yen 孔令彥",None,sfclicrec.asp?p=2346697,BEI717,http://www.sfc.hk/publicregWeb/indi/BEI717/licenceRecord,,,RO,2018-07-16,
+"Lee, Kai Chung (SFC:BOL449) 李鎧仲",None,sfclicrec.asp?p=23515530,BOL449,http://www.sfc.hk/publicregWeb/indi/BOL449/licenceRecord,,,Rep,2019-08-06,
+"Liu, Ying (SFC:BNI047) 劉穎",None,sfclicrec.asp?p=21699319,BNI047,http://www.sfc.hk/publicregWeb/indi/BNI047/licenceRecord,,,Rep,2018-08-08,
+"Wu, Rundong 鄔潤東",None,sfclicrec.asp?p=22138714,BNI781,http://www.sfc.hk/publicregWeb/indi/BNI781/licenceRecord,,,Rep,2018-09-05,
+"Yau, Benjamin Chi Man 游志文",None,sfclicrec.asp?p=88143,ATL435,http://www.sfc.hk/publicregWeb/indi/ATL435/licenceRecord,,M,Rep,2019-07-04,
+"Zhao, Lin 趙琳",None,sfclicrec.asp?p=22076243,BNJ907,http://www.sfc.hk/publicregWeb/indi/BNJ907/licenceRecord,,,Rep,2018-08-20,

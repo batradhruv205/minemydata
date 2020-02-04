@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Meng, Jing 孟菁",sfclicrec.asp?p=24018578,,,Rep,2019-12-13,
-"Wan, Yin Lam 尹燕琳",sfclicrec.asp?p=120425,,,RO,2019-04-30,
-"Wang, Rui (SFC:BGP155) 王睿",sfclicrec.asp?p=2514061,,,RO,2019-04-30,2020-01-17
-"Wong, Alan Pui Lun 黃沛麟",sfclicrec.asp?p=94613,,M,RO,2019-04-30,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Meng, Jing 孟菁",None,sfclicrec.asp?p=24018578,BPC701,http://www.sfc.hk/publicregWeb/indi/BPC701/licenceRecord,,,Rep,2019-12-13,
+"Wan, Yin Lam 尹燕琳",None,sfclicrec.asp?p=120425,AOJ253,http://www.sfc.hk/publicregWeb/indi/AOJ253/licenceRecord,,,RO,2019-04-30,
+"Wang, Rui (SFC:BGP155) 王睿",None,sfclicrec.asp?p=2514061,BGP155,http://www.sfc.hk/publicregWeb/indi/BGP155/licenceRecord,,,RO,2019-04-30,2020-01-17
+"Wong, Alan Pui Lun 黃沛麟",None,sfclicrec.asp?p=94613,ALN588,http://www.sfc.hk/publicregWeb/indi/ALN588/licenceRecord,,M,RO,2019-04-30,

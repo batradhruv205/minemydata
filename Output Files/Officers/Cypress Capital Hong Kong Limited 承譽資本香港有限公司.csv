@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chiu, Ho Ming 趙皓明",sfclicrec.asp?p=77251,,,Rep,2013-08-23,2015-11-23
-"Chuang, Yung-Chieh 莊詠傑",sfclicrec.asp?p=14876639,,,Rep,2018-05-07,2019-01-25
-"Li, Tsz Lam 李子霖",sfclicrec.asp?p=98669,,,RO,2013-06-19,2015-08-28
-"Li, Wei (SFC:BOC574) 李瑋",sfclicrec.asp?p=22779646,,,Rep,2019-02-14,
-"Lin, Chi Jen 林琦臻",sfclicrec.asp?p=134479,,,Rep,2013-09-02,2015-11-16
-"Lin, Shih Chieh (SFC:AKV330) 林世杰",sfclicrec.asp?p=67627,,,RO,2013-06-19,
-"Liu, Min (SFC:AWI092) 劉敏",sfclicrec.asp?p=73295,,,Rep,2013-08-14,2015-09-15
-"Pan, Chih-Chiang 潘志強",sfclicrec.asp?p=81198,48,M,Rep,2013-10-31,2014-02-20
-"Pan, Chih-Chiang 潘志強",sfclicrec.asp?p=81198,48,M,RO,2014-02-20,
-"Poh, Tze Hua 傅子華",sfclicrec.asp?p=95124,,,Rep,2018-12-12,
-"Tai, Jim 戴震",sfclicrec.asp?p=2316465,,,Rep,2014-09-04,2017-10-08
-"Wang, Yau-Chang 王堯昌",sfclicrec.asp?p=81358,,,Rep,2013-09-12,
-"Yan, Yonglin 顏涌林",sfclicrec.asp?p=8348303,,,Rep,2017-04-20,2018-03-24
-"Yang, Hsueh Hung 楊雪玒",sfclicrec.asp?p=2167155,,,Rep,2013-11-21,2013-12-04
-"Zhu, Dawen 朱達文",sfclicrec.asp?p=132626,,,Rep,2013-08-23,2015-11-23
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chiu, Ho Ming 趙皓明",None,sfclicrec.asp?p=77251,AWI112,http://www.sfc.hk/publicregWeb/indi/AWI112/licenceRecord,,,Rep,2013-08-23,2015-11-23
+"Chuang, Yung-Chieh 莊詠傑",None,sfclicrec.asp?p=14876639,BMV022,http://www.sfc.hk/publicregWeb/indi/BMV022/licenceRecord,,,Rep,2018-05-07,2019-01-25
+"Li, Tsz Lam 李子霖",None,sfclicrec.asp?p=98669,AWL333,http://www.sfc.hk/publicregWeb/indi/AWL333/licenceRecord,,,RO,2013-06-19,2015-08-28
+"Li, Wei (SFC:BOC574) 李瑋",None,sfclicrec.asp?p=22779646,BOC574,http://www.sfc.hk/publicregWeb/indi/BOC574/licenceRecord,,,Rep,2019-02-14,
+"Lin, Chi Jen 林琦臻",None,sfclicrec.asp?p=134479,AYO038,http://www.sfc.hk/publicregWeb/indi/AYO038/licenceRecord,,,Rep,2013-09-02,2015-11-16
+"Lin, Shih Chieh (SFC:AKV330) 林世杰",None,sfclicrec.asp?p=67627,AKV330,http://www.sfc.hk/publicregWeb/indi/AKV330/licenceRecord,,,RO,2013-06-19,
+"Liu, Min (SFC:AWI092) 劉敏",None,sfclicrec.asp?p=73295,AWI092,http://www.sfc.hk/publicregWeb/indi/AWI092/licenceRecord,,,Rep,2013-08-14,2015-09-15
+"Pan, Chih-Chiang 潘志強",None,sfclicrec.asp?p=81198,APR580,http://www.sfc.hk/publicregWeb/indi/APR580/licenceRecord,48.0,M,Rep,2013-10-31,2014-02-20
+"Pan, Chih-Chiang 潘志強",None,sfclicrec.asp?p=81198,APR580,http://www.sfc.hk/publicregWeb/indi/APR580/licenceRecord,48.0,M,RO,2014-02-20,
+"Poh, Tze Hua 傅子華",None,sfclicrec.asp?p=95124,ANZ960,http://www.sfc.hk/publicregWeb/indi/ANZ960/licenceRecord,,,Rep,2018-12-12,
+"Tai, Jim 戴震",None,sfclicrec.asp?p=2316465,BDV988,http://www.sfc.hk/publicregWeb/indi/BDV988/licenceRecord,,,Rep,2014-09-04,2017-10-08
+"Wang, Yau-Chang 王堯昌",None,sfclicrec.asp?p=81358,APR579,http://www.sfc.hk/publicregWeb/indi/APR579/licenceRecord,,,Rep,2013-09-12,
+"Yan, Yonglin 顏涌林",None,sfclicrec.asp?p=8348303,BJF250,http://www.sfc.hk/publicregWeb/indi/BJF250/licenceRecord,,,Rep,2017-04-20,2018-03-24
+"Yang, Hsueh Hung 楊雪玒",None,sfclicrec.asp?p=2167155,BCF787,http://www.sfc.hk/publicregWeb/indi/BCF787/licenceRecord,,,Rep,2013-11-21,2013-12-04
+"Zhu, Dawen 朱達文",None,sfclicrec.asp?p=132626,AYF494,http://www.sfc.hk/publicregWeb/indi/AYF494/licenceRecord,,,Rep,2013-08-23,2015-11-23

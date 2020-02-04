@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Wong, Yee Man (SFC:APX203) 王綺文",sfclicrec.asp?p=123382,,,Rep,2018-02-27,2019-06-30
-"Yeung, Fan Yee 楊范儀",sfclicrec.asp?p=90271,,,RO,2017-02-06,
-"Yick, Winsome Kit Sum 易潔心",sfclicrec.asp?p=94270,,,RO,2017-02-06,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Wong, Yee Man (SFC:APX203) 王綺文",None,sfclicrec.asp?p=123382,APX203,http://www.sfc.hk/publicregWeb/indi/APX203/licenceRecord,,,Rep,2018-02-27,2019-06-30
+"Yeung, Fan Yee 楊范儀",None,sfclicrec.asp?p=90271,AFS631,http://www.sfc.hk/publicregWeb/indi/AFS631/licenceRecord,,,RO,2017-02-06,
+"Yick, Winsome Kit Sum 易潔心",None,sfclicrec.asp?p=94270,AOB610,http://www.sfc.hk/publicregWeb/indi/AOB610/licenceRecord,,,RO,2017-02-06,

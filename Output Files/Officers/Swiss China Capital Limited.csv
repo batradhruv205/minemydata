@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Jiahua 陳家驊",sfclicrec.asp?p=2475899,,,Rep,2015-09-16,2019-05-23
-"Conrad, Gregor Abraham ",sfclicrec.asp?p=2391495,,M,Rep,2015-03-12,2018-07-09
-"Huang, Pei-Hsuan 黃沛璿",sfclicrec.asp?p=96021,,,Rep,2017-08-16,2017-10-12
-"Kretz, Laurent Bernard ",sfclicrec.asp?p=131305,,M,RO,2011-09-14,
-"Kretz, Philippe Olivier ",sfclicrec.asp?p=131306,,M,RO,2011-09-14,
-"Laurin, Julian Gregory ",sfclicrec.asp?p=2409797,,M,Rep,2015-04-21,
-"Li, Yucai 李宇才",sfclicrec.asp?p=11789184,,,Rep,2017-08-16,2019-07-31
-"Qiu, Xin 丘欣",sfclicrec.asp?p=22674976,,,Rep,2019-01-22,
-"Steiner, Fabien Angelo ",sfclicrec.asp?p=22985249,,M,Rep,2019-04-02,2019-06-30
-"Wang, Ni 王霓",sfclicrec.asp?p=2020315,,,Rep,2017-08-16,
-"Wo, Xiaoyuan 沃小園",sfclicrec.asp?p=2401251,,,Rep,2015-04-01,2017-04-07
-"Wong, Esther Wai Ping 黃慧萍",sfclicrec.asp?p=85856,,F,Rep,2018-01-11,2019-06-30
-"Xia, Nan (SFC:AQL118) 夏楠",sfclicrec.asp?p=75280,,,Rep,2018-01-11,2018-01-31
-"Zhou, Mi (SFC:BEB918) 周蜜",sfclicrec.asp?p=2323105,,,Rep,2015-03-25,2018-07-04
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Jiahua 陳家驊",None,sfclicrec.asp?p=2475899,BGE946,http://www.sfc.hk/publicregWeb/indi/BGE946/licenceRecord,,,Rep,2015-09-16,2019-05-23
+"Conrad, Gregor Abraham ",None,sfclicrec.asp?p=2391495,BFC668,http://www.sfc.hk/publicregWeb/indi/BFC668/licenceRecord,,M,Rep,2015-03-12,2018-07-09
+"Huang, Pei-Hsuan 黃沛璿",None,sfclicrec.asp?p=96021,AUH256,http://www.sfc.hk/publicregWeb/indi/AUH256/licenceRecord,,,Rep,2017-08-16,2017-10-12
+"Kretz, Laurent Bernard ",None,sfclicrec.asp?p=131305,AXI540,http://www.sfc.hk/publicregWeb/indi/AXI540/licenceRecord,,M,RO,2011-09-14,
+"Kretz, Philippe Olivier ",None,sfclicrec.asp?p=131306,AXI541,http://www.sfc.hk/publicregWeb/indi/AXI541/licenceRecord,,M,RO,2011-09-14,
+"Laurin, Julian Gregory ",None,sfclicrec.asp?p=2409797,BFH225,http://www.sfc.hk/publicregWeb/indi/BFH225/licenceRecord,,M,Rep,2015-04-21,
+"Li, Yucai 李宇才",None,sfclicrec.asp?p=11789184,BJP792,http://www.sfc.hk/publicregWeb/indi/BJP792/licenceRecord,,,Rep,2017-08-16,2019-07-31
+"Qiu, Xin 丘欣",None,sfclicrec.asp?p=22674976,BNX424,http://www.sfc.hk/publicregWeb/indi/BNX424/licenceRecord,,,Rep,2019-01-22,
+"Steiner, Fabien Angelo ",None,sfclicrec.asp?p=22985249,BOD682,http://www.sfc.hk/publicregWeb/indi/BOD682/licenceRecord,,M,Rep,2019-04-02,2019-06-30
+"Wang, Ni 王霓",None,sfclicrec.asp?p=2020315,BAV555,http://www.sfc.hk/publicregWeb/indi/BAV555/licenceRecord,,,Rep,2017-08-16,
+"Wo, Xiaoyuan 沃小園",None,sfclicrec.asp?p=2401251,BFD626,http://www.sfc.hk/publicregWeb/indi/BFD626/licenceRecord,,,Rep,2015-04-01,2017-04-07
+"Wong, Esther Wai Ping 黃慧萍",None,sfclicrec.asp?p=85856,AMP022,http://www.sfc.hk/publicregWeb/indi/AMP022/licenceRecord,,F,Rep,2018-01-11,2019-06-30
+"Xia, Nan (SFC:AQL118) 夏楠",None,sfclicrec.asp?p=75280,AQL118,http://www.sfc.hk/publicregWeb/indi/AQL118/licenceRecord,,,Rep,2018-01-11,2018-01-31
+"Zhou, Mi (SFC:BEB918) 周蜜",None,sfclicrec.asp?p=2323105,BEB918,http://www.sfc.hk/publicregWeb/indi/BEB918/licenceRecord,,,Rep,2015-03-25,2018-07-04

@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Brum Loyola, Joao Paulo ",sfclicrec.asp?p=1867526,,M,Rep,2012-03-21,2017-01-16
-"Brum Loyola, Joao Paulo ",sfclicrec.asp?p=1867526,,M,RO,2017-01-16,2018-12-12
-"Brum Loyola, Joao Paulo ",sfclicrec.asp?p=1867526,,M,RO,2019-09-03,
-"Cabral, Marcelo Custodio ",sfclicrec.asp?p=1861325,,,RO,2012-03-05,2017-05-10
-"Chawdhry, Ajay Sankar ",sfclicrec.asp?p=23039906,,,RO,2019-04-11,
-"Chiu, Sai Tong 趙世棠",sfclicrec.asp?p=103118,,,RO,2012-03-05,2017-01-31
-"Choi Park, Jae Won 崔朴在元",sfclicrec.asp?p=69547,,,Rep,2014-03-27,2017-01-13
-"Choi Park, Jae Won 崔朴在元",sfclicrec.asp?p=69547,,,RO,2017-01-13,
-"Cortina, Faustino ",sfclicrec.asp?p=23039907,,,RO,2019-04-11,
-"De Oliveira, E Silva Luiz Femando ",sfclicrec.asp?p=1945670,,,RO,2012-08-28,2016-12-22
-"Estima Scodro, Fernando ",sfclicrec.asp?p=1870170,,,Rep,2012-03-30,2013-08-09
-"Lee, Kai Ming (SFC:BBY764) 李啟銘",sfclicrec.asp?p=2140157,,,Rep,2013-10-02,2018-12-12
-"Lee, Kai Ming (SFC:BBY764) 李啟銘",sfclicrec.asp?p=2140157,,,RO,2018-12-12,
-"Pereira Simione, Luiz Francisco ",sfclicrec.asp?p=12107959,,,RO,2017-10-11,2018-12-14
-"Semionato Bernardes, Eduardo Henrique ",sfclicrec.asp?p=84132,,M,RO,2019-06-17,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Brum Loyola, Joao Paulo ",None,sfclicrec.asp?p=1867526,AYS553,http://www.sfc.hk/publicregWeb/indi/AYS553/licenceRecord,,M,Rep,2012-03-21,2017-01-16
+"Brum Loyola, Joao Paulo ",None,sfclicrec.asp?p=1867526,AYS553,http://www.sfc.hk/publicregWeb/indi/AYS553/licenceRecord,,M,RO,2017-01-16,2018-12-12
+"Brum Loyola, Joao Paulo ",None,sfclicrec.asp?p=1867526,AYS553,http://www.sfc.hk/publicregWeb/indi/AYS553/licenceRecord,,M,RO,2019-09-03,
+"Cabral, Marcelo Custodio ",None,sfclicrec.asp?p=1861325,AXU877,http://www.sfc.hk/publicregWeb/indi/AXU877/licenceRecord,,,RO,2012-03-05,2017-05-10
+"Chawdhry, Ajay Sankar ",None,sfclicrec.asp?p=23039906,BNR801,http://www.sfc.hk/publicregWeb/indi/BNR801/licenceRecord,,,RO,2019-04-11,
+"Chiu, Sai Tong 趙世棠",None,sfclicrec.asp?p=103118,ACO937,http://www.sfc.hk/publicregWeb/indi/ACO937/licenceRecord,,,RO,2012-03-05,2017-01-31
+"Choi Park, Jae Won 崔朴在元",None,sfclicrec.asp?p=69547,AMJ578,http://www.sfc.hk/publicregWeb/indi/AMJ578/licenceRecord,,,Rep,2014-03-27,2017-01-13
+"Choi Park, Jae Won 崔朴在元",None,sfclicrec.asp?p=69547,AMJ578,http://www.sfc.hk/publicregWeb/indi/AMJ578/licenceRecord,,,RO,2017-01-13,
+"Cortina, Faustino ",None,sfclicrec.asp?p=23039907,BNR806,http://www.sfc.hk/publicregWeb/indi/BNR806/licenceRecord,,,RO,2019-04-11,
+"De Oliveira, E Silva Luiz Femando ",None,sfclicrec.asp?p=1945670,AXZ814,http://www.sfc.hk/publicregWeb/indi/AXZ814/licenceRecord,,,RO,2012-08-28,2016-12-22
+"Estima Scodro, Fernando ",None,sfclicrec.asp?p=1870170,AZD611,http://www.sfc.hk/publicregWeb/indi/AZD611/licenceRecord,,,Rep,2012-03-30,2013-08-09
+"Lee, Kai Ming (SFC:BBY764) 李啟銘",None,sfclicrec.asp?p=2140157,BBY764,http://www.sfc.hk/publicregWeb/indi/BBY764/licenceRecord,,,Rep,2013-10-02,2018-12-12
+"Lee, Kai Ming (SFC:BBY764) 李啟銘",None,sfclicrec.asp?p=2140157,BBY764,http://www.sfc.hk/publicregWeb/indi/BBY764/licenceRecord,,,RO,2018-12-12,
+"Pereira Simione, Luiz Francisco ",None,sfclicrec.asp?p=12107959,BIH097,http://www.sfc.hk/publicregWeb/indi/BIH097/licenceRecord,,,RO,2017-10-11,2018-12-14
+"Semionato Bernardes, Eduardo Henrique ",None,sfclicrec.asp?p=84132,AUL622,http://www.sfc.hk/publicregWeb/indi/AUL622/licenceRecord,,M,RO,2019-06-17,

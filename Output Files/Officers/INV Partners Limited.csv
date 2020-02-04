@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Mei Yan 陳美欣",sfclicrec.asp?p=109063,44,F,RO,2011-05-13,2013-06-07
-"Chan, Mei Yan 陳美欣",sfclicrec.asp?p=109063,44,F,RO,2014-07-03,2016-09-06
-"Cheung, Yat Ming 張一鳴",sfclicrec.asp?p=104751,52,M,RO,2011-07-11,2013-06-07
-"Chow, Man Lung (SFC:AYA769) 周民隆",sfclicrec.asp?p=132657,,,Rep,2011-10-12,2016-09-06
-"Leong, Sio Choi 梁小翠",sfclicrec.asp?p=78226,,,Rep,2018-05-23,
-"Lin, Xiao (SFC:AQG721) 林晓",sfclicrec.asp?p=124066,,,RO,2009-11-24,2011-01-26
-"Liu, Frederick Thomas ",sfclicrec.asp?p=116685,,M,Rep,2010-09-01,2011-01-26
-"Liu, Yuen Han 廖婉嫻",sfclicrec.asp?p=2077778,,,RO,2013-05-31,2018-11-27
-"Lo, Chun Tung Patrick 盧振東",sfclicrec.asp?p=22625722,,,Rep,2019-01-09,
-"Yau, Jimmy Hung Ban 邱鴻彬",sfclicrec.asp?p=18402638,,M,RO,2018-07-03,
-"Yau, Shuk Han 游淑嫻",sfclicrec.asp?p=1065792,,,Rep,2012-01-26,2018-11-28
-"Yip, Hoi Chung (SFC:AFD123) 葉凱琮",sfclicrec.asp?p=78312,,,RO,2013-05-31,
-"Yu, Randolph Albert 余士弘",sfclicrec.asp?p=128671,,,RO,2009-11-24,2015-11-25
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Mei Yan 陳美欣",None,sfclicrec.asp?p=109063,AGJ221,http://www.sfc.hk/publicregWeb/indi/AGJ221/licenceRecord,44.0,F,RO,2011-05-13,2013-06-07
+"Chan, Mei Yan 陳美欣",None,sfclicrec.asp?p=109063,AGJ221,http://www.sfc.hk/publicregWeb/indi/AGJ221/licenceRecord,44.0,F,RO,2014-07-03,2016-09-06
+"Cheung, Yat Ming 張一鳴",None,sfclicrec.asp?p=104751,AEG753,http://www.sfc.hk/publicregWeb/indi/AEG753/licenceRecord,52.0,M,RO,2011-07-11,2013-06-07
+"Chow, Man Lung (SFC:AYA769) 周民隆",None,sfclicrec.asp?p=132657,AYA769,http://www.sfc.hk/publicregWeb/indi/AYA769/licenceRecord,,,Rep,2011-10-12,2016-09-06
+"Leong, Sio Choi 梁小翠",None,sfclicrec.asp?p=78226,AFU673,http://www.sfc.hk/publicregWeb/indi/AFU673/licenceRecord,,,Rep,2018-05-23,
+"Lin, Xiao (SFC:AQG721) 林晓",None,sfclicrec.asp?p=124066,AQG721,http://www.sfc.hk/publicregWeb/indi/AQG721/licenceRecord,,,RO,2009-11-24,2011-01-26
+"Liu, Frederick Thomas ",None,sfclicrec.asp?p=116685,AMJ860,http://www.sfc.hk/publicregWeb/indi/AMJ860/licenceRecord,,M,Rep,2010-09-01,2011-01-26
+"Liu, Yuen Han 廖婉嫻",None,sfclicrec.asp?p=2077778,ACU433,http://www.sfc.hk/publicregWeb/indi/ACU433/licenceRecord,,,RO,2013-05-31,2018-11-27
+"Lo, Chun Tung Patrick 盧振東",None,sfclicrec.asp?p=22625722,BNU781,http://www.sfc.hk/publicregWeb/indi/BNU781/licenceRecord,,,Rep,2019-01-09,
+"Yau, Jimmy Hung Ban 邱鴻彬",None,sfclicrec.asp?p=18402638,BIY825,http://www.sfc.hk/publicregWeb/indi/BIY825/licenceRecord,,M,RO,2018-07-03,
+"Yau, Shuk Han 游淑嫻",None,sfclicrec.asp?p=1065792,ACZ998,http://www.sfc.hk/publicregWeb/indi/ACZ998/licenceRecord,,,Rep,2012-01-26,2018-11-28
+"Yip, Hoi Chung (SFC:AFD123) 葉凱琮",None,sfclicrec.asp?p=78312,AFD123,http://www.sfc.hk/publicregWeb/indi/AFD123/licenceRecord,,,RO,2013-05-31,
+"Yu, Randolph Albert 余士弘",None,sfclicrec.asp?p=128671,ATW318,http://www.sfc.hk/publicregWeb/indi/ATW318/licenceRecord,,,RO,2009-11-24,2015-11-25

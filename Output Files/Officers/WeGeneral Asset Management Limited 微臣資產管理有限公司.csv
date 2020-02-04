@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Leung, Yin Wing 梁彥頴",sfclicrec.asp?p=95864,,,RO,2019-11-20,
-"Ng, Yuen Hing 吳遠興",sfclicrec.asp?p=108264,,,RO,2019-11-20,
-"Yu, Hin Yin 余軒然",sfclicrec.asp?p=125587,42,M,Rep,2020-01-15,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Leung, Yin Wing 梁彥頴",None,sfclicrec.asp?p=95864,ACD641,http://www.sfc.hk/publicregWeb/indi/ACD641/licenceRecord,,,RO,2019-11-20,
+"Ng, Yuen Hing 吳遠興",None,sfclicrec.asp?p=108264,AGA590,http://www.sfc.hk/publicregWeb/indi/AGA590/licenceRecord,,,RO,2019-11-20,
+"Yu, Hin Yin 余軒然",None,sfclicrec.asp?p=125587,ARD759,http://www.sfc.hk/publicregWeb/indi/ARD759/licenceRecord,42.0,M,Rep,2020-01-15,

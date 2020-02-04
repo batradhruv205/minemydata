@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Eugene Yue Kwong 張譽光",sfclicrec.asp?p=16938466,,M,RO,2019-06-24,2019-11-17
-"Chow, Hin Ting 周顯婷",sfclicrec.asp?p=13213909,,,Rep,2019-10-10,
-"Choy, Kit Hung 蔡潔紅",sfclicrec.asp?p=97681,,,Rep,2019-10-18,
-"Ian, Ho On 甄浩安",sfclicrec.asp?p=2687033,,,Rep,2019-09-17,
-"Lam, Chun Long ",sfclicrec.asp?p=23875975,,,Rep,2019-11-06,
-"Lee, Ling-Feng 李凌鋒",sfclicrec.asp?p=23347337,,,RO,2019-06-24,
-"Leung, Man Hin (SFC:BOT636) 梁文顯",sfclicrec.asp?p=24010644,,,Rep,2019-12-11,
-"Lin, Xiaoling 林曉玲",sfclicrec.asp?p=122207,,,Rep,2019-07-12,
-"Lo, Ka Yi Joey 羅家宜",sfclicrec.asp?p=23991455,,,Rep,2019-12-05,
-"Mak, Ho Ming (SFC:BAJ419) 麥皓明",sfclicrec.asp?p=1972492,,,Rep,2019-08-06,
-"Ng, Siu Fai (SFC:BPI991) 吳兆暉",sfclicrec.asp?p=24139193,,,Rep,2020-01-20,
-"Supranto, Suganda 郭俊豪",sfclicrec.asp?p=23825967,,,Rep,2019-10-24,
-"Wong, Kavi Ka Wai 黃嘉威",sfclicrec.asp?p=115203,,,Rep,2019-07-16,2019-12-17
-"Wong, Kavi Ka Wai 黃嘉威",sfclicrec.asp?p=115203,,,RO,2019-12-17,
-"Yiong, Hoi San 楊海山",sfclicrec.asp?p=84626,,,Rep,2019-11-04,2019-11-15
-"Yiong, Hoi San 楊海山",sfclicrec.asp?p=84626,,,RO,2019-11-15,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Eugene Yue Kwong 張譽光",None,sfclicrec.asp?p=16938466,BGQ198,http://www.sfc.hk/publicregWeb/indi/BGQ198/licenceRecord,,M,RO,2019-06-24,2019-11-17
+"Chow, Hin Ting 周顯婷",None,sfclicrec.asp?p=13213909,BMG814,http://www.sfc.hk/publicregWeb/indi/BMG814/licenceRecord,,,Rep,2019-10-10,
+"Choy, Kit Hung 蔡潔紅",None,sfclicrec.asp?p=97681,ALB340,http://www.sfc.hk/publicregWeb/indi/ALB340/licenceRecord,,,Rep,2019-10-18,
+"Ian, Ho On 甄浩安",None,sfclicrec.asp?p=2687033,BIX779,http://www.sfc.hk/publicregWeb/indi/BIX779/licenceRecord,,,Rep,2019-09-17,
+"Lam, Chun Long ",None,sfclicrec.asp?p=23875975,BGL261,http://www.sfc.hk/publicregWeb/indi/BGL261/licenceRecord,,,Rep,2019-11-06,
+"Lee, Ling-Feng 李凌鋒",None,sfclicrec.asp?p=23347337,BNY024,http://www.sfc.hk/publicregWeb/indi/BNY024/licenceRecord,,,RO,2019-06-24,
+"Leung, Man Hin (SFC:BOT636) 梁文顯",None,sfclicrec.asp?p=24010644,BOT636,http://www.sfc.hk/publicregWeb/indi/BOT636/licenceRecord,,,Rep,2019-12-11,
+"Lin, Xiaoling 林曉玲",None,sfclicrec.asp?p=122207,APH362,http://www.sfc.hk/publicregWeb/indi/APH362/licenceRecord,,,Rep,2019-07-12,
+"Lo, Ka Yi Joey 羅家宜",None,sfclicrec.asp?p=23991455,BPB752,http://www.sfc.hk/publicregWeb/indi/BPB752/licenceRecord,,,Rep,2019-12-05,
+"Mak, Ho Ming (SFC:BAJ419) 麥皓明",None,sfclicrec.asp?p=1972492,BAJ419,http://www.sfc.hk/publicregWeb/indi/BAJ419/licenceRecord,,,Rep,2019-08-06,
+"Ng, Siu Fai (SFC:BPI991) 吳兆暉",None,sfclicrec.asp?p=24139193,BPI991,http://www.sfc.hk/publicregWeb/indi/BPI991/licenceRecord,,,Rep,2020-01-20,
+"Supranto, Suganda 郭俊豪",None,sfclicrec.asp?p=23825967,AFB894,http://www.sfc.hk/publicregWeb/indi/AFB894/licenceRecord,,,Rep,2019-10-24,
+"Wong, Kavi Ka Wai 黃嘉威",None,sfclicrec.asp?p=115203,ALQ402,http://www.sfc.hk/publicregWeb/indi/ALQ402/licenceRecord,,,Rep,2019-07-16,2019-12-17
+"Wong, Kavi Ka Wai 黃嘉威",None,sfclicrec.asp?p=115203,ALQ402,http://www.sfc.hk/publicregWeb/indi/ALQ402/licenceRecord,,,RO,2019-12-17,
+"Yiong, Hoi San 楊海山",None,sfclicrec.asp?p=84626,AGT132,http://www.sfc.hk/publicregWeb/indi/AGT132/licenceRecord,,,Rep,2019-11-04,2019-11-15
+"Yiong, Hoi San 楊海山",None,sfclicrec.asp?p=84626,AGT132,http://www.sfc.hk/publicregWeb/indi/AGT132/licenceRecord,,,RO,2019-11-15,

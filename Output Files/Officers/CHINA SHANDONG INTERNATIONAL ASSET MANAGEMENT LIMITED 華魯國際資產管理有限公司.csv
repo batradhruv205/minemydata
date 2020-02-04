@@ -1,3 +1,3 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Pui Kwan (SFC:ACT768) 張培群",sfclicrec.asp?p=84746,,,RO,2019-04-26,
-"Wong, Lawrence Kwok Keung 黃國強",sfclicrec.asp?p=84771,,M,RO,2019-04-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Pui Kwan (SFC:ACT768) 張培群",None,sfclicrec.asp?p=84746,ACT768,http://www.sfc.hk/publicregWeb/indi/ACT768/licenceRecord,,,RO,2019-04-26,
+"Wong, Lawrence Kwok Keung 黃國強",None,sfclicrec.asp?p=84771,AFO320,http://www.sfc.hk/publicregWeb/indi/AFO320/licenceRecord,,M,RO,2019-04-26,

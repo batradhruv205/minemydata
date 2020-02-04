@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Man Yu (SFC:ADV638) 張文裕",sfclicrec.asp?p=70933,,,RO,2017-12-06,2019-02-20
-"Kong, Xiangming 孔祥明",sfclicrec.asp?p=1923638,,,Rep,2019-07-24,
-"Kou, Yuanyuan 寇媛媛",sfclicrec.asp?p=12045047,,,Rep,2018-09-17,2019-07-31
-"Liu, Gary Huan Chieh 劉煥傑",sfclicrec.asp?p=68661,,M,Rep,2019-09-06,2019-10-09
-"Luo, Liuyi 羅柳怡",sfclicrec.asp?p=73275,,,RO,2016-09-22,
-"Luo, Luyi 羅魯貽",sfclicrec.asp?p=2312330,,,Rep,2018-09-06,2018-11-27
-"Luo, Luyi 羅魯貽",sfclicrec.asp?p=2312330,,,RO,2018-11-27,
-"Wu, Yixin (SFC:BNS047) 吳一新",sfclicrec.asp?p=23575416,,,Rep,2019-08-21,
-"Zhang, Li (SFC:ANK352) 張力",sfclicrec.asp?p=118576,,,RO,2016-09-22,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Man Yu (SFC:ADV638) 張文裕",None,sfclicrec.asp?p=70933,ADV638,http://www.sfc.hk/publicregWeb/indi/ADV638/licenceRecord,,,RO,2017-12-06,2019-02-20
+"Kong, Xiangming 孔祥明",None,sfclicrec.asp?p=1923638,AZW193,http://www.sfc.hk/publicregWeb/indi/AZW193/licenceRecord,,,Rep,2019-07-24,
+"Kou, Yuanyuan 寇媛媛",None,sfclicrec.asp?p=12045047,BKX467,http://www.sfc.hk/publicregWeb/indi/BKX467/licenceRecord,,,Rep,2018-09-17,2019-07-31
+"Liu, Gary Huan Chieh 劉煥傑",None,sfclicrec.asp?p=68661,ADW756,http://www.sfc.hk/publicregWeb/indi/ADW756/licenceRecord,,M,Rep,2019-09-06,2019-10-09
+"Luo, Liuyi 羅柳怡",None,sfclicrec.asp?p=73275,AHS854,http://www.sfc.hk/publicregWeb/indi/AHS854/licenceRecord,,,RO,2016-09-22,
+"Luo, Luyi 羅魯貽",None,sfclicrec.asp?p=2312330,BEB247,http://www.sfc.hk/publicregWeb/indi/BEB247/licenceRecord,,,Rep,2018-09-06,2018-11-27
+"Luo, Luyi 羅魯貽",None,sfclicrec.asp?p=2312330,BEB247,http://www.sfc.hk/publicregWeb/indi/BEB247/licenceRecord,,,RO,2018-11-27,
+"Wu, Yixin (SFC:BNS047) 吳一新",None,sfclicrec.asp?p=23575416,BNS047,http://www.sfc.hk/publicregWeb/indi/BNS047/licenceRecord,,,Rep,2019-08-21,
+"Zhang, Li (SFC:ANK352) 張力",None,sfclicrec.asp?p=118576,ANK352,http://www.sfc.hk/publicregWeb/indi/ANK352/licenceRecord,,,RO,2016-09-22,

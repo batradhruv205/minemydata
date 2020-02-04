@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Kwan Kit (SFC:BGN371) 陳君傑",sfclicrec.asp?p=2502047,,,RO,2017-08-28,2018-01-12
-"Huang, Chun-Chieh (SFC:ATC043) 黃俊傑",sfclicrec.asp?p=128068,,,RO,2017-08-28,2018-05-31
-"Ip, Terry Ming Chung 葉銘忠",sfclicrec.asp?p=72895,,,RO,2018-08-14,
-"Sze, Chiu Kwan 施超群",sfclicrec.asp?p=125985,,,RO,2018-04-18,2018-08-05
-"Wong, Dorothy Wai Han 黃慧嫻",sfclicrec.asp?p=107500,,F,Rep,2019-07-29,2019-08-12
-"Wong, Dorothy Wai Han 黃慧嫻",sfclicrec.asp?p=107500,,F,RO,2019-08-12,
-"Yiu, Chin Keung 姚展強",sfclicrec.asp?p=91250,,,Rep,2018-10-18,2018-11-16
-"Yiu, Chin Keung 姚展強",sfclicrec.asp?p=91250,,,RO,2018-11-16,2019-05-23
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Kwan Kit (SFC:BGN371) 陳君傑",None,sfclicrec.asp?p=2502047,BGN371,http://www.sfc.hk/publicregWeb/indi/BGN371/licenceRecord,,,RO,2017-08-28,2018-01-12
+"Huang, Chun-Chieh (SFC:ATC043) 黃俊傑",None,sfclicrec.asp?p=128068,ATC043,http://www.sfc.hk/publicregWeb/indi/ATC043/licenceRecord,,,RO,2017-08-28,2018-05-31
+"Ip, Terry Ming Chung 葉銘忠",None,sfclicrec.asp?p=72895,ADJ673,http://www.sfc.hk/publicregWeb/indi/ADJ673/licenceRecord,,,RO,2018-08-14,
+"Sze, Chiu Kwan 施超群",None,sfclicrec.asp?p=125985,ARH648,http://www.sfc.hk/publicregWeb/indi/ARH648/licenceRecord,,,RO,2018-04-18,2018-08-05
+"Wong, Dorothy Wai Han 黃慧嫻",None,sfclicrec.asp?p=107500,AFS777,http://www.sfc.hk/publicregWeb/indi/AFS777/licenceRecord,,F,Rep,2019-07-29,2019-08-12
+"Wong, Dorothy Wai Han 黃慧嫻",None,sfclicrec.asp?p=107500,AFS777,http://www.sfc.hk/publicregWeb/indi/AFS777/licenceRecord,,F,RO,2019-08-12,
+"Yiu, Chin Keung 姚展強",None,sfclicrec.asp?p=91250,APN538,http://www.sfc.hk/publicregWeb/indi/APN538/licenceRecord,,,Rep,2018-10-18,2018-11-16
+"Yiu, Chin Keung 姚展強",None,sfclicrec.asp?p=91250,APN538,http://www.sfc.hk/publicregWeb/indi/APN538/licenceRecord,,,RO,2018-11-16,2019-05-23

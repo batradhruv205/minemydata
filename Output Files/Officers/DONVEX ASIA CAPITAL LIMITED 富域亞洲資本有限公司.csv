@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ching, Ching 程晴",sfclicrec.asp?p=83490,,,RO,2019-02-26,
-"Kan, Philip Siu Lun 簡兆麟",sfclicrec.asp?p=12511,65,M,Rep,2020-01-14,
-"Lau, Yiu Wai 劉耀威",sfclicrec.asp?p=81918,,,RO,2019-02-26,
-"Lee, Javan Chung Shing 李仲承",sfclicrec.asp?p=1871740,,,Rep,2019-03-18,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ching, Ching 程晴",None,sfclicrec.asp?p=83490,ALF582,http://www.sfc.hk/publicregWeb/indi/ALF582/licenceRecord,,,RO,2019-02-26,
+"Kan, Philip Siu Lun 簡兆麟",None,sfclicrec.asp?p=12511,AGC831,http://www.sfc.hk/publicregWeb/indi/AGC831/licenceRecord,65.0,M,Rep,2020-01-14,
+"Lau, Yiu Wai 劉耀威",None,sfclicrec.asp?p=81918,ACI099,http://www.sfc.hk/publicregWeb/indi/ACI099/licenceRecord,,,RO,2019-02-26,
+"Lee, Javan Chung Shing 李仲承",None,sfclicrec.asp?p=1871740,AFR743,http://www.sfc.hk/publicregWeb/indi/AFR743/licenceRecord,,,Rep,2019-03-18,

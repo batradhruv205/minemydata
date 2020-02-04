@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Dan Mei (SFC:AJL338) 陳丹薇",sfclicrec.asp?p=113436,,,Rep,2005-03-17,2010-06-28
-"Chan, Dan Mei (SFC:AJL338) 陳丹薇",sfclicrec.asp?p=113436,,,RO,2010-06-28,
-"Chan, Hak Fung 陳克豐",sfclicrec.asp?p=100549,,,RO,2005-01-03,
-"Chan, Hak Pong 陳克邦",sfclicrec.asp?p=100548,,,Rep,2005-01-03,2005-02-17
-"Chung, Shun Kay 鍾純基",sfclicrec.asp?p=100666,,,Rep,2005-03-01,
-"Ngan, Chor Tin 顏楚鈿",sfclicrec.asp?p=102809,,,Rep,2005-01-03,
-"Tam, Chun To 譚珍桃",sfclicrec.asp?p=100728,,,RO,2005-01-03,2015-11-30
-"Tam, Chun To 譚珍桃",sfclicrec.asp?p=100728,,,RO,2017-05-17,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Dan Mei (SFC:AJL338) 陳丹薇",None,sfclicrec.asp?p=113436,AJL338,http://www.sfc.hk/publicregWeb/indi/AJL338/licenceRecord,,,Rep,2005-03-17,2010-06-28
+"Chan, Dan Mei (SFC:AJL338) 陳丹薇",None,sfclicrec.asp?p=113436,AJL338,http://www.sfc.hk/publicregWeb/indi/AJL338/licenceRecord,,,RO,2010-06-28,
+"Chan, Hak Fung 陳克豐",None,sfclicrec.asp?p=100549,AAA471,http://www.sfc.hk/publicregWeb/indi/AAA471/licenceRecord,,,RO,2005-01-03,
+"Chan, Hak Pong 陳克邦",None,sfclicrec.asp?p=100548,AAA467,http://www.sfc.hk/publicregWeb/indi/AAA467/licenceRecord,,,Rep,2005-01-03,2005-02-17
+"Chung, Shun Kay 鍾純基",None,sfclicrec.asp?p=100666,AAB365,http://www.sfc.hk/publicregWeb/indi/AAB365/licenceRecord,,,Rep,2005-03-01,
+"Ngan, Chor Tin 顏楚鈿",None,sfclicrec.asp?p=102809,ACI490,http://www.sfc.hk/publicregWeb/indi/ACI490/licenceRecord,,,Rep,2005-01-03,
+"Tam, Chun To 譚珍桃",None,sfclicrec.asp?p=100728,AAB800,http://www.sfc.hk/publicregWeb/indi/AAB800/licenceRecord,,,RO,2005-01-03,2015-11-30
+"Tam, Chun To 譚珍桃",None,sfclicrec.asp?p=100728,AAB800,http://www.sfc.hk/publicregWeb/indi/AAB800/licenceRecord,,,RO,2017-05-17,

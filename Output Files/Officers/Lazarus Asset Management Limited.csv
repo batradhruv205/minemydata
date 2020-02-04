@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"George, Tristan James ",sfclicrec.asp?p=2617627,,M,Rep,2019-01-03,
-"Klynhout, Dale ",sfclicrec.asp?p=2598530,,M,RO,2018-06-26,
-"Lam, Koon Chau 林冠洲",sfclicrec.asp?p=22857652,,,Rep,2019-03-05,
-"McDonald, Nicholas William ",sfclicrec.asp?p=2154211,,M,RO,2018-06-26,
-"Ng, Yu Man 吳宇聞",sfclicrec.asp?p=23107797,,,Rep,2019-04-29,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"George, Tristan James ",None,sfclicrec.asp?p=2617627,BHU035,http://www.sfc.hk/publicregWeb/indi/BHU035/licenceRecord,,M,Rep,2019-01-03,
+"Klynhout, Dale ",None,sfclicrec.asp?p=2598530,BHN935,http://www.sfc.hk/publicregWeb/indi/BHN935/licenceRecord,,M,RO,2018-06-26,
+"Lam, Koon Chau 林冠洲",None,sfclicrec.asp?p=22857652,BKL135,http://www.sfc.hk/publicregWeb/indi/BKL135/licenceRecord,,,Rep,2019-03-05,
+"McDonald, Nicholas William ",None,sfclicrec.asp?p=2154211,BBZ140,http://www.sfc.hk/publicregWeb/indi/BBZ140/licenceRecord,,M,RO,2018-06-26,
+"Ng, Yu Man 吳宇聞",None,sfclicrec.asp?p=23107797,BOF141,http://www.sfc.hk/publicregWeb/indi/BOF141/licenceRecord,,,Rep,2019-04-29,

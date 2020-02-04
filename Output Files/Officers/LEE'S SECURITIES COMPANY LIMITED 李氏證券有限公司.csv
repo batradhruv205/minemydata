@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Alice Lai Mui 陳麗梅",sfclicrec.asp?p=93680,,F,Rep,2013-12-19,
-"Chan, Judy Lai Ming 陳麗明",sfclicrec.asp?p=85709,,F,RO,2005-01-03,
-"Chan, Shiu Kwong 陳兆廣",sfclicrec.asp?p=85710,,,RO,2005-01-03,
-"Chu, Lusanna Suk Ling 朱淑玲",sfclicrec.asp?p=93681,,F,Rep,2014-01-02,2017-10-03
-"Fong, Sui Ling 方瑞寧",sfclicrec.asp?p=93682,,,Rep,2014-01-02,
-"Fung, Kam Biu 馮錦彪",sfclicrec.asp?p=85712,,,Rep,2005-01-03,
-"Lee, Yuet Ying (SFC:ABE657) 李月瑛",sfclicrec.asp?p=85713,,,Rep,2005-01-03,2016-10-03
-"Leung, Chi Keung (SFC:ABZ765) 梁志強",sfclicrec.asp?p=85714,,,Rep,2008-05-02,
-"Lo, Yuen Fun 盧婉芬",sfclicrec.asp?p=85715,,,Rep,2005-01-03,
-"Ng, Wai Ming (SFC:ABN465) 伍渭明",sfclicrec.asp?p=102151,,,Rep,2005-01-03,2010-03-31
-"Shek, Siu Wai 石小慧",sfclicrec.asp?p=85716,,,Rep,2008-01-18,2014-03-01
-"Tang, Sheung Har 鄧尚霞",sfclicrec.asp?p=71656,,,RO,2005-01-03,2007-06-30
-"Wong Ho, Lai Sheung 黃何麗嫦",sfclicrec.asp?p=85717,,,Rep,2005-01-03,
-"Yip, Warren Sau Tat 葉秀達",sfclicrec.asp?p=97666,,M,Rep,2007-07-03,2007-11-30
-"Yu, Chiu Kui 余潮駒",sfclicrec.asp?p=85711,,,RO,2005-01-03,
-"Yu, Yin Wai 余妍瑋",sfclicrec.asp?p=85718,,,Rep,2011-05-11,2015-11-16
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Alice Lai Mui 陳麗梅",None,sfclicrec.asp?p=93680,ABN392,http://www.sfc.hk/publicregWeb/indi/ABN392/licenceRecord,,F,Rep,2013-12-19,
+"Chan, Judy Lai Ming 陳麗明",None,sfclicrec.asp?p=85709,AAD030,http://www.sfc.hk/publicregWeb/indi/AAD030/licenceRecord,,F,RO,2005-01-03,
+"Chan, Shiu Kwong 陳兆廣",None,sfclicrec.asp?p=85710,AAD012,http://www.sfc.hk/publicregWeb/indi/AAD012/licenceRecord,,,RO,2005-01-03,
+"Chu, Lusanna Suk Ling 朱淑玲",None,sfclicrec.asp?p=93681,AEK315,http://www.sfc.hk/publicregWeb/indi/AEK315/licenceRecord,,F,Rep,2014-01-02,2017-10-03
+"Fong, Sui Ling 方瑞寧",None,sfclicrec.asp?p=93682,ABI072,http://www.sfc.hk/publicregWeb/indi/ABI072/licenceRecord,,,Rep,2014-01-02,
+"Fung, Kam Biu 馮錦彪",None,sfclicrec.asp?p=85712,AAY551,http://www.sfc.hk/publicregWeb/indi/AAY551/licenceRecord,,,Rep,2005-01-03,
+"Lee, Yuet Ying (SFC:ABE657) 李月瑛",None,sfclicrec.asp?p=85713,ABE657,http://www.sfc.hk/publicregWeb/indi/ABE657/licenceRecord,,,Rep,2005-01-03,2016-10-03
+"Leung, Chi Keung (SFC:ABZ765) 梁志強",None,sfclicrec.asp?p=85714,ABZ765,http://www.sfc.hk/publicregWeb/indi/ABZ765/licenceRecord,,,Rep,2008-05-02,
+"Lo, Yuen Fun 盧婉芬",None,sfclicrec.asp?p=85715,ABM321,http://www.sfc.hk/publicregWeb/indi/ABM321/licenceRecord,,,Rep,2005-01-03,
+"Ng, Wai Ming (SFC:ABN465) 伍渭明",None,sfclicrec.asp?p=102151,ABN465,http://www.sfc.hk/publicregWeb/indi/ABN465/licenceRecord,,,Rep,2005-01-03,2010-03-31
+"Shek, Siu Wai 石小慧",None,sfclicrec.asp?p=85716,AQD025,http://www.sfc.hk/publicregWeb/indi/AQD025/licenceRecord,,,Rep,2008-01-18,2014-03-01
+"Tang, Sheung Har 鄧尚霞",None,sfclicrec.asp?p=71656,ABN511,http://www.sfc.hk/publicregWeb/indi/ABN511/licenceRecord,,,RO,2005-01-03,2007-06-30
+"Wong Ho, Lai Sheung 黃何麗嫦",None,sfclicrec.asp?p=85717,ADG799,http://www.sfc.hk/publicregWeb/indi/ADG799/licenceRecord,,,Rep,2005-01-03,
+"Yip, Warren Sau Tat 葉秀達",None,sfclicrec.asp?p=97666,AAK454,http://www.sfc.hk/publicregWeb/indi/AAK454/licenceRecord,,M,Rep,2007-07-03,2007-11-30
+"Yu, Chiu Kui 余潮駒",None,sfclicrec.asp?p=85711,AAD022,http://www.sfc.hk/publicregWeb/indi/AAD022/licenceRecord,,,RO,2005-01-03,
+"Yu, Yin Wai 余妍瑋",None,sfclicrec.asp?p=85718,AXD738,http://www.sfc.hk/publicregWeb/indi/AXD738/licenceRecord,,,Rep,2011-05-11,2015-11-16

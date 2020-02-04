@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Hao, Wei Chieh 郝偉傑",sfclicrec.asp?p=46320,43,M,RO,2017-07-20,
-"Lai, Chun Kong 黎鎮剛",sfclicrec.asp?p=102493,,,RO,2019-08-29,
-"Toche, Patrick ",sfclicrec.asp?p=2589654,,M,RO,2017-07-20,2019-02-28
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Hao, Wei Chieh 郝偉傑",None,sfclicrec.asp?p=46320,ALG480,http://www.sfc.hk/publicregWeb/indi/ALG480/licenceRecord,43.0,M,RO,2017-07-20,
+"Lai, Chun Kong 黎鎮剛",None,sfclicrec.asp?p=102493,ABZ482,http://www.sfc.hk/publicregWeb/indi/ABZ482/licenceRecord,,,RO,2019-08-29,
+"Toche, Patrick ",None,sfclicrec.asp?p=2589654,BGV097,http://www.sfc.hk/publicregWeb/indi/BGV097/licenceRecord,,M,RO,2017-07-20,2019-02-28

@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Blume, Valerie Ingrid ",sfclicrec.asp?p=22432866,,F,Rep,2017-11-01,2019-06-28
-"Scher, Ashley Jo (SFC:BHR659) ",sfclicrec.asp?p=22431721,,,RO,2016-10-07,
-"Scher, Mark Evan ",sfclicrec.asp?p=13365641,58,M,RO,2016-10-07,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Blume, Valerie Ingrid ",None,sfclicrec.asp?p=22432866,BLH182,http://www.sfc.hk/publicregWeb/indi/BLH182/licenceRecord,,F,Rep,2017-11-01,2019-06-28
+"Scher, Ashley Jo (SFC:BHR659) ",None,sfclicrec.asp?p=22431721,BHR659,http://www.sfc.hk/publicregWeb/indi/BHR659/licenceRecord,,,RO,2016-10-07,
+"Scher, Mark Evan ",None,sfclicrec.asp?p=13365641,BHR653,http://www.sfc.hk/publicregWeb/indi/BHR653/licenceRecord,58.0,M,RO,2016-10-07,

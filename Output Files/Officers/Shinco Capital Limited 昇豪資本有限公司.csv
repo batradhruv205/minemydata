@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chow, Bobby Wing Sing 周永昇",sfclicrec.asp?p=51648,38,M,RO,2016-01-21,
-"Chow, Yuk Hang 鄒鈺衡",sfclicrec.asp?p=2602049,,,Rep,2016-07-06,2016-10-31
-"Lam, Jason Tze Hin 林子軒",sfclicrec.asp?p=22549881,,M,Rep,2018-12-19,
-"Mak, Chun Man (SFC:BIY010) 麥晉文",sfclicrec.asp?p=10560585,,,Rep,2017-05-18,2018-08-12
-"So, Wai Lam 蘇慧琳",sfclicrec.asp?p=42493,38,F,RO,2016-01-21,2016-04-15
-"Song, Yihui 宋奕輝",sfclicrec.asp?p=22537703,,,Rep,2018-12-11,2019-11-01
-"Tsang, Teresa Oi Shan 曾愛珊",sfclicrec.asp?p=83768,,F,RO,2016-04-15,
-"Wong, Kam Wah (SFC:AHG506) 黃錦華",sfclicrec.asp?p=98355,43,M,RO,2018-07-04,2019-09-30
-"Zhou, Jiangning 周江宁",sfclicrec.asp?p=2541846,,,Rep,2016-04-27,2017-03-23
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chow, Bobby Wing Sing 周永昇",None,sfclicrec.asp?p=51648,AMR433,http://www.sfc.hk/publicregWeb/indi/AMR433/licenceRecord,38.0,M,RO,2016-01-21,
+"Chow, Yuk Hang 鄒鈺衡",None,sfclicrec.asp?p=2602049,BHL039,http://www.sfc.hk/publicregWeb/indi/BHL039/licenceRecord,,,Rep,2016-07-06,2016-10-31
+"Lam, Jason Tze Hin 林子軒",None,sfclicrec.asp?p=22549881,BNR799,http://www.sfc.hk/publicregWeb/indi/BNR799/licenceRecord,,M,Rep,2018-12-19,
+"Mak, Chun Man (SFC:BIY010) 麥晉文",None,sfclicrec.asp?p=10560585,BIY010,http://www.sfc.hk/publicregWeb/indi/BIY010/licenceRecord,,,Rep,2017-05-18,2018-08-12
+"So, Wai Lam 蘇慧琳",None,sfclicrec.asp?p=42493,ALN185,http://www.sfc.hk/publicregWeb/indi/ALN185/licenceRecord,38.0,F,RO,2016-01-21,2016-04-15
+"Song, Yihui 宋奕輝",None,sfclicrec.asp?p=22537703,BNT240,http://www.sfc.hk/publicregWeb/indi/BNT240/licenceRecord,,,Rep,2018-12-11,2019-11-01
+"Tsang, Teresa Oi Shan 曾愛珊",None,sfclicrec.asp?p=83768,ANB045,http://www.sfc.hk/publicregWeb/indi/ANB045/licenceRecord,,F,RO,2016-04-15,
+"Wong, Kam Wah (SFC:AHG506) 黃錦華",None,sfclicrec.asp?p=98355,AHG506,http://www.sfc.hk/publicregWeb/indi/AHG506/licenceRecord,43.0,M,RO,2018-07-04,2019-09-30
+"Zhou, Jiangning 周江宁",None,sfclicrec.asp?p=2541846,BGY983,http://www.sfc.hk/publicregWeb/indi/BGY983/licenceRecord,,,Rep,2016-04-27,2017-03-23

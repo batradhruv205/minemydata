@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Howard Hoi Wa 張海華",sfclicrec.asp?p=23502238,,M,RO,2019-08-01,
-"Luo, Ming Kuang 羅鳴况",sfclicrec.asp?p=23502239,,,RO,2019-08-01,
-"Ren, Frank Yonggang 任永剛",sfclicrec.asp?p=94250,,M,RO,2019-08-01,2019-12-06
-"Yeun, Chi Kwok 阮志國",sfclicrec.asp?p=132399,,,RO,2019-08-01,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Howard Hoi Wa 張海華",None,sfclicrec.asp?p=23502238,BNY336,http://www.sfc.hk/publicregWeb/indi/BNY336/licenceRecord,,M,RO,2019-08-01,
+"Luo, Ming Kuang 羅鳴况",None,sfclicrec.asp?p=23502239,BNY329,http://www.sfc.hk/publicregWeb/indi/BNY329/licenceRecord,,,RO,2019-08-01,
+"Ren, Frank Yonggang 任永剛",None,sfclicrec.asp?p=94250,ALF631,http://www.sfc.hk/publicregWeb/indi/ALF631/licenceRecord,,M,RO,2019-08-01,2019-12-06
+"Yeun, Chi Kwok 阮志國",None,sfclicrec.asp?p=132399,AXZ838,http://www.sfc.hk/publicregWeb/indi/AXZ838/licenceRecord,,,RO,2019-08-01,

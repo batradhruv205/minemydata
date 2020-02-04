@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lee, Victor Hung Bun 李鴻斌",sfclicrec.asp?p=84453,,M,Rep,2015-11-24,2015-12-30
-"Lee, Victor Hung Bun 李鴻斌",sfclicrec.asp?p=84453,,M,RO,2015-12-30,2019-12-31
-"Litherland, Benjamin Piers Algernon ",sfclicrec.asp?p=2555422,,M,Rep,2016-04-07,
-"Sehgal, Anuj ",sfclicrec.asp?p=98511,,M,RO,2014-12-03,
-"Shah, Hetalkumar Bipinchandra ",sfclicrec.asp?p=84482,,M,RO,2014-12-03,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lee, Victor Hung Bun 李鴻斌",None,sfclicrec.asp?p=84453,AEK221,http://www.sfc.hk/publicregWeb/indi/AEK221/licenceRecord,,M,Rep,2015-11-24,2015-12-30
+"Lee, Victor Hung Bun 李鴻斌",None,sfclicrec.asp?p=84453,AEK221,http://www.sfc.hk/publicregWeb/indi/AEK221/licenceRecord,,M,RO,2015-12-30,2019-12-31
+"Litherland, Benjamin Piers Algernon ",None,sfclicrec.asp?p=2555422,BHC563,http://www.sfc.hk/publicregWeb/indi/BHC563/licenceRecord,,M,Rep,2016-04-07,
+"Sehgal, Anuj ",None,sfclicrec.asp?p=98511,AHA901,http://www.sfc.hk/publicregWeb/indi/AHA901/licenceRecord,,M,RO,2014-12-03,
+"Shah, Hetalkumar Bipinchandra ",None,sfclicrec.asp?p=84482,AGP774,http://www.sfc.hk/publicregWeb/indi/AGP774/licenceRecord,,M,RO,2014-12-03,

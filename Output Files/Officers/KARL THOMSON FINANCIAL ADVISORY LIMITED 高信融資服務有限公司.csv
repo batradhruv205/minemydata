@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Jimmy Chun Ming 陳振明",sfclicrec.asp?p=23853160,,M,Rep,2019-10-31,
-"Chow, Alex Ka Wo 周家和",sfclicrec.asp?p=24421,53,M,RO,,
-"Hu, Mingyue 胡明月",sfclicrec.asp?p=2160386,,,Rep,2019-11-22,
-"Lai, Zengkun 賴增昆",sfclicrec.asp?p=1887082,,,Rep,2017-10-31,
-"Lau, Cheuk Yu 劉卓瑜",sfclicrec.asp?p=73713,,,Rep,2005-09-12,2006-04-26
-"Nam, Kwok Lun 藍國倫",sfclicrec.asp?p=11907,62,M,RO,2004-11-26,
-"Shiu, Alex Siu Tao 蕭少滔",sfclicrec.asp?p=22732,57,M,Rep,2008-08-08,2009-04-06
-"Wei, Qian 韋茜",sfclicrec.asp?p=2277538,,,Rep,2014-06-05,
-"Wong, Hon Ting (SFC:AMM331) 王寒汀",sfclicrec.asp?p=116961,,,Rep,2007-02-28,2011-06-08
-"Wong, Hon Ting (SFC:AMM331) 王寒汀",sfclicrec.asp?p=116961,,,Rep,2012-11-13,
-"Wong, Tsz Yan (SFC:AVW360) 王芷恩",sfclicrec.asp?p=84726,,,Rep,2010-10-08,
-"Zhang, Luwei 張璐維",sfclicrec.asp?p=2269051,,,Rep,2014-05-15,2016-01-11
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Jimmy Chun Ming 陳振明",None,sfclicrec.asp?p=23853160,BIS678,http://www.sfc.hk/publicregWeb/indi/BIS678/licenceRecord,,M,Rep,2019-10-31,
+"Chow, Alex Ka Wo 周家和",None,sfclicrec.asp?p=24421,ADU684,http://www.sfc.hk/publicregWeb/indi/ADU684/licenceRecord,53.0,M,RO,,
+"Hu, Mingyue 胡明月",None,sfclicrec.asp?p=2160386,BCA416,http://www.sfc.hk/publicregWeb/indi/BCA416/licenceRecord,,,Rep,2019-11-22,
+"Lai, Zengkun 賴增昆",None,sfclicrec.asp?p=1887082,AZJ208,http://www.sfc.hk/publicregWeb/indi/AZJ208/licenceRecord,,,Rep,2017-10-31,
+"Lau, Cheuk Yu 劉卓瑜",None,sfclicrec.asp?p=73713,AMC331,http://www.sfc.hk/publicregWeb/indi/AMC331/licenceRecord,,,Rep,2005-09-12,2006-04-26
+"Nam, Kwok Lun 藍國倫",None,sfclicrec.asp?p=11907,AAA205,http://www.sfc.hk/publicregWeb/indi/AAA205/licenceRecord,62.0,M,RO,2004-11-26,
+"Shiu, Alex Siu Tao 蕭少滔",None,sfclicrec.asp?p=22732,AEL258,http://www.sfc.hk/publicregWeb/indi/AEL258/licenceRecord,57.0,M,Rep,2008-08-08,2009-04-06
+"Wei, Qian 韋茜",None,sfclicrec.asp?p=2277538,BDI858,http://www.sfc.hk/publicregWeb/indi/BDI858/licenceRecord,,,Rep,2014-06-05,
+"Wong, Hon Ting (SFC:AMM331) 王寒汀",None,sfclicrec.asp?p=116961,AMM331,http://www.sfc.hk/publicregWeb/indi/AMM331/licenceRecord,,,Rep,2007-02-28,2011-06-08
+"Wong, Hon Ting (SFC:AMM331) 王寒汀",None,sfclicrec.asp?p=116961,AMM331,http://www.sfc.hk/publicregWeb/indi/AMM331/licenceRecord,,,Rep,2012-11-13,
+"Wong, Tsz Yan (SFC:AVW360) 王芷恩",None,sfclicrec.asp?p=84726,AVW360,http://www.sfc.hk/publicregWeb/indi/AVW360/licenceRecord,,,Rep,2010-10-08,
+"Zhang, Luwei 張璐維",None,sfclicrec.asp?p=2269051,BDI333,http://www.sfc.hk/publicregWeb/indi/BDI333/licenceRecord,,,Rep,2014-05-15,2016-01-11

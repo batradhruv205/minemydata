@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Chuanyao 陳川堯",sfclicrec.asp?p=1907413,,,Rep,2018-12-10,
-"Cheng, Yu Chi 鄭昱琪",sfclicrec.asp?p=21808590,,,Rep,2018-08-10,
-"Chung, Wai Shing (SFC:AMF222) 鍾偉成",sfclicrec.asp?p=116325,,,Rep,2017-12-12,2019-07-16
-"Chung, Wai Shing (SFC:AMF222) 鍾偉成",sfclicrec.asp?p=116325,,,RO,2019-07-16,
-"Ho, Darren King Man 何敬文",sfclicrec.asp?p=22076259,,M,Rep,2018-08-20,
-"Jiang, Ruo Yu 蔣若愚",sfclicrec.asp?p=112407,,,Rep,2019-01-15,
-"Liu, Yun (SFC:AHS958) 劉運",sfclicrec.asp?p=81103,,,RO,2017-01-16,
-"Lo, Sharon Suet Ting 盧雪婷",sfclicrec.asp?p=65250,,F,RO,2017-01-16,2017-12-29
-"Luo, Yangduan 羅楊端",sfclicrec.asp?p=21808591,,,Rep,2018-08-10,
-"Pang, Shu Wai William 彭樹威",sfclicrec.asp?p=22450081,,,Rep,2018-11-19,
-"Tong, King Hang 湯景恆",sfclicrec.asp?p=91345,,,Rep,2017-12-06,2017-12-22
-"Tong, King Hang 湯景恆",sfclicrec.asp?p=91345,,,RO,2017-12-22,
-"Wang, Wan (SFC:ARG933) 王菀",sfclicrec.asp?p=97179,,,Rep,2018-05-03,
-"Zhang, Birong 張碧蓉",sfclicrec.asp?p=21702228,,,RO,2018-08-09,
-"Zhang, Zhiyu 張志宇",sfclicrec.asp?p=1909608,,,Rep,2018-02-22,2018-06-05
-"Zhang, Zhiyu 張志宇",sfclicrec.asp?p=1909608,,,RO,2018-06-05,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Chuanyao 陳川堯",None,sfclicrec.asp?p=1907413,AYO724,http://www.sfc.hk/publicregWeb/indi/AYO724/licenceRecord,,,Rep,2018-12-10,
+"Cheng, Yu Chi 鄭昱琪",None,sfclicrec.asp?p=21808590,BNC809,http://www.sfc.hk/publicregWeb/indi/BNC809/licenceRecord,,,Rep,2018-08-10,
+"Chung, Wai Shing (SFC:AMF222) 鍾偉成",None,sfclicrec.asp?p=116325,AMF222,http://www.sfc.hk/publicregWeb/indi/AMF222/licenceRecord,,,Rep,2017-12-12,2019-07-16
+"Chung, Wai Shing (SFC:AMF222) 鍾偉成",None,sfclicrec.asp?p=116325,AMF222,http://www.sfc.hk/publicregWeb/indi/AMF222/licenceRecord,,,RO,2019-07-16,
+"Ho, Darren King Man 何敬文",None,sfclicrec.asp?p=22076259,BNJ839,http://www.sfc.hk/publicregWeb/indi/BNJ839/licenceRecord,,M,Rep,2018-08-20,
+"Jiang, Ruo Yu 蔣若愚",None,sfclicrec.asp?p=112407,AIR858,http://www.sfc.hk/publicregWeb/indi/AIR858/licenceRecord,,,Rep,2019-01-15,
+"Liu, Yun (SFC:AHS958) 劉運",None,sfclicrec.asp?p=81103,AHS958,http://www.sfc.hk/publicregWeb/indi/AHS958/licenceRecord,,,RO,2017-01-16,
+"Lo, Sharon Suet Ting 盧雪婷",None,sfclicrec.asp?p=65250,AWH053,http://www.sfc.hk/publicregWeb/indi/AWH053/licenceRecord,,F,RO,2017-01-16,2017-12-29
+"Luo, Yangduan 羅楊端",None,sfclicrec.asp?p=21808591,BNE883,http://www.sfc.hk/publicregWeb/indi/BNE883/licenceRecord,,,Rep,2018-08-10,
+"Pang, Shu Wai William 彭樹威",None,sfclicrec.asp?p=22450081,AWY264,http://www.sfc.hk/publicregWeb/indi/AWY264/licenceRecord,,,Rep,2018-11-19,
+"Tong, King Hang 湯景恆",None,sfclicrec.asp?p=91345,AKX333,http://www.sfc.hk/publicregWeb/indi/AKX333/licenceRecord,,,Rep,2017-12-06,2017-12-22
+"Tong, King Hang 湯景恆",None,sfclicrec.asp?p=91345,AKX333,http://www.sfc.hk/publicregWeb/indi/AKX333/licenceRecord,,,RO,2017-12-22,
+"Wang, Wan (SFC:ARG933) 王菀",None,sfclicrec.asp?p=97179,ARG933,http://www.sfc.hk/publicregWeb/indi/ARG933/licenceRecord,,,Rep,2018-05-03,
+"Zhang, Birong 張碧蓉",None,sfclicrec.asp?p=21702228,BEZ284,http://www.sfc.hk/publicregWeb/indi/BEZ284/licenceRecord,,,RO,2018-08-09,
+"Zhang, Zhiyu 張志宇",None,sfclicrec.asp?p=1909608,AYQ807,http://www.sfc.hk/publicregWeb/indi/AYQ807/licenceRecord,,,Rep,2018-02-22,2018-06-05
+"Zhang, Zhiyu 張志宇",None,sfclicrec.asp?p=1909608,AYQ807,http://www.sfc.hk/publicregWeb/indi/AYQ807/licenceRecord,,,RO,2018-06-05,

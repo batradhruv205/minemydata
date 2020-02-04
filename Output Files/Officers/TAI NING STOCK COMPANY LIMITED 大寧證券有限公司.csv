@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chiu, Windy Wing Yan 趙詠茵",sfclicrec.asp?p=101659,,,Rep,,2018-09-04
-"Chiu, Windy Wing Yan 趙詠茵",sfclicrec.asp?p=101659,,,RO,2018-09-04,
-"Kam Lau, Wai Ying 甘劉惠英",sfclicrec.asp?p=102708,,,RO,,
-"Kam, Kwong Ning (SFC:AAA043) 甘廣寧",sfclicrec.asp?p=100489,,,RO,,2018-08-06
-"Lai, Suet Ming 黎雪明",sfclicrec.asp?p=109211,,,Rep,,
-"Ma, Vandy Kam Oi 馬金愛",sfclicrec.asp?p=100497,,,Rep,,2015-02-12
-"Yip, Lau Kun 葉柳勤",sfclicrec.asp?p=101737,,,Rep,,
-"Yuen, Kam Tui 袁錦堆",sfclicrec.asp?p=102196,,,Rep,,2018-09-04
-"Yuen, Kam Tui 袁錦堆",sfclicrec.asp?p=102196,,,RO,2018-09-04,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chiu, Windy Wing Yan 趙詠茵",None,sfclicrec.asp?p=101659,AAV843,http://www.sfc.hk/publicregWeb/indi/AAV843/licenceRecord,,,Rep,,2018-09-04
+"Chiu, Windy Wing Yan 趙詠茵",None,sfclicrec.asp?p=101659,AAV843,http://www.sfc.hk/publicregWeb/indi/AAV843/licenceRecord,,,RO,2018-09-04,
+"Kam Lau, Wai Ying 甘劉惠英",None,sfclicrec.asp?p=102708,ACF052,http://www.sfc.hk/publicregWeb/indi/ACF052/licenceRecord,,,RO,,
+"Kam, Kwong Ning (SFC:AAA043) 甘廣寧",None,sfclicrec.asp?p=100489,AAA043,http://www.sfc.hk/publicregWeb/indi/AAA043/licenceRecord,,,RO,,2018-08-06
+"Lai, Suet Ming 黎雪明",None,sfclicrec.asp?p=109211,AGK115,http://www.sfc.hk/publicregWeb/indi/AGK115/licenceRecord,,,Rep,,
+"Ma, Vandy Kam Oi 馬金愛",None,sfclicrec.asp?p=100497,AAA116,http://www.sfc.hk/publicregWeb/indi/AAA116/licenceRecord,,,Rep,,2015-02-12
+"Yip, Lau Kun 葉柳勤",None,sfclicrec.asp?p=101737,AAX991,http://www.sfc.hk/publicregWeb/indi/AAX991/licenceRecord,,,Rep,,
+"Yuen, Kam Tui 袁錦堆",None,sfclicrec.asp?p=102196,ABP387,http://www.sfc.hk/publicregWeb/indi/ABP387/licenceRecord,,,Rep,,2018-09-04
+"Yuen, Kam Tui 袁錦堆",None,sfclicrec.asp?p=102196,ABP387,http://www.sfc.hk/publicregWeb/indi/ABP387/licenceRecord,,,RO,2018-09-04,

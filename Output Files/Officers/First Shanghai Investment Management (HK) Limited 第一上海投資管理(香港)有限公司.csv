@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Jiang, Xiaotian 姜晓天",sfclicrec.asp?p=79675,,,Rep,2017-05-16,
-"Lai, Ho Yin (SFC:AIH679) 黎浩然",sfclicrec.asp?p=99054,,,RO,2015-03-18,
-"Lee, Cheong Wing 李昌榮",sfclicrec.asp?p=99051,,,Rep,2015-11-11,2015-12-11
-"Lee, Cheong Wing 李昌榮",sfclicrec.asp?p=99051,,,RO,2015-12-11,2016-05-31
-"Yeung, Rankine Wai Kin 楊偉堅",sfclicrec.asp?p=6200,59,M,RO,2015-03-18,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Jiang, Xiaotian 姜晓天",None,sfclicrec.asp?p=79675,ANG607,http://www.sfc.hk/publicregWeb/indi/ANG607/licenceRecord,,,Rep,2017-05-16,
+"Lai, Ho Yin (SFC:AIH679) 黎浩然",None,sfclicrec.asp?p=99054,AIH679,http://www.sfc.hk/publicregWeb/indi/AIH679/licenceRecord,,,RO,2015-03-18,
+"Lee, Cheong Wing 李昌榮",None,sfclicrec.asp?p=99051,ADV254,http://www.sfc.hk/publicregWeb/indi/ADV254/licenceRecord,,,Rep,2015-11-11,2015-12-11
+"Lee, Cheong Wing 李昌榮",None,sfclicrec.asp?p=99051,ADV254,http://www.sfc.hk/publicregWeb/indi/ADV254/licenceRecord,,,RO,2015-12-11,2016-05-31
+"Yeung, Rankine Wai Kin 楊偉堅",None,sfclicrec.asp?p=6200,ACC364,http://www.sfc.hk/publicregWeb/indi/ACC364/licenceRecord,59.0,M,RO,2015-03-18,

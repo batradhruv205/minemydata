@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Wai Ki (SFC:AAC555) 陳惠基",sfclicrec.asp?p=100805,,,Rep,,2013-06-27
-"Chan, Wai Ki (SFC:AAC555) 陳惠基",sfclicrec.asp?p=100805,,,RO,2013-06-27,
-"Chow, Yee May 周意媚",sfclicrec.asp?p=2612883,,,Rep,2016-07-29,
-"Lau, Ming Chan 劉明燦",sfclicrec.asp?p=101140,,,Rep,2003-08-29,2005-09-02
-"Ling, Chee Shing 凌志成",sfclicrec.asp?p=109834,,,Rep,2004-09-09,2005-11-30
-"Mak, Wai Kuen (SFC:BGP830) 麥惠娟",sfclicrec.asp?p=2521645,,,Rep,2016-01-04,
-"Ng, Queenie Lai Tuen 吳麗端",sfclicrec.asp?p=100940,,F,RO,,2013-03-31
-"Shih, Barbara Sui Chi 施瑞芝",sfclicrec.asp?p=101187,,F,Rep,2003-05-16,2018-02-26
-"Ting Ling, Patricia Ing 丁林瑛",sfclicrec.asp?p=103566,,F,Rep,,2006-02-03
-"Ting, Irene Wai Ying 丁慧瑩",sfclicrec.asp?p=123813,,F,Rep,2008-01-18,2013-09-02
-"Ting, Irene Wai Ying 丁慧瑩",sfclicrec.asp?p=123813,,F,RO,2013-09-02,
-"Wong Leung, Margaret Pui Ling 汪梁佩齡",sfclicrec.asp?p=100938,,F,RO,,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Wai Ki (SFC:AAC555) 陳惠基",None,sfclicrec.asp?p=100805,AAC555,http://www.sfc.hk/publicregWeb/indi/AAC555/licenceRecord,,,Rep,,2013-06-27
+"Chan, Wai Ki (SFC:AAC555) 陳惠基",None,sfclicrec.asp?p=100805,AAC555,http://www.sfc.hk/publicregWeb/indi/AAC555/licenceRecord,,,RO,2013-06-27,
+"Chow, Yee May 周意媚",None,sfclicrec.asp?p=2612883,BHU061,http://www.sfc.hk/publicregWeb/indi/BHU061/licenceRecord,,,Rep,2016-07-29,
+"Lau, Ming Chan 劉明燦",None,sfclicrec.asp?p=101140,AAF699,http://www.sfc.hk/publicregWeb/indi/AAF699/licenceRecord,,,Rep,2003-08-29,2005-09-02
+"Ling, Chee Shing 凌志成",None,sfclicrec.asp?p=109834,AGO348,http://www.sfc.hk/publicregWeb/indi/AGO348/licenceRecord,,,Rep,2004-09-09,2005-11-30
+"Mak, Wai Kuen (SFC:BGP830) 麥惠娟",None,sfclicrec.asp?p=2521645,BGP830,http://www.sfc.hk/publicregWeb/indi/BGP830/licenceRecord,,,Rep,2016-01-04,
+"Ng, Queenie Lai Tuen 吳麗端",None,sfclicrec.asp?p=100940,AAD798,http://www.sfc.hk/publicregWeb/indi/AAD798/licenceRecord,,F,RO,,2013-03-31
+"Shih, Barbara Sui Chi 施瑞芝",None,sfclicrec.asp?p=101187,AAG061,http://www.sfc.hk/publicregWeb/indi/AAG061/licenceRecord,,F,Rep,2003-05-16,2018-02-26
+"Ting Ling, Patricia Ing 丁林瑛",None,sfclicrec.asp?p=103566,ADB481,http://www.sfc.hk/publicregWeb/indi/ADB481/licenceRecord,,F,Rep,,2006-02-03
+"Ting, Irene Wai Ying 丁慧瑩",None,sfclicrec.asp?p=123813,AQD610,http://www.sfc.hk/publicregWeb/indi/AQD610/licenceRecord,,F,Rep,2008-01-18,2013-09-02
+"Ting, Irene Wai Ying 丁慧瑩",None,sfclicrec.asp?p=123813,AQD610,http://www.sfc.hk/publicregWeb/indi/AQD610/licenceRecord,,F,RO,2013-09-02,
+"Wong Leung, Margaret Pui Ling 汪梁佩齡",None,sfclicrec.asp?p=100938,AAD780,http://www.sfc.hk/publicregWeb/indi/AAD780/licenceRecord,,F,RO,,

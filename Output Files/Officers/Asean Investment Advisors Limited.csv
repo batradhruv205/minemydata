@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Jerome, Luke Abraham ",sfclicrec.asp?p=102806,,M,RO,2010-06-22,2012-07-18
-"O'Neil, David Peter ",sfclicrec.asp?p=1904693,,M,RO,2012-06-01,
-"Roes, David Eric ",sfclicrec.asp?p=1908302,,M,RO,2012-06-08,
-"Verin, Richard Gordon ",sfclicrec.asp?p=105059,,M,RO,2010-06-22,2012-11-15
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Jerome, Luke Abraham ",None,sfclicrec.asp?p=102806,ACI373,http://www.sfc.hk/publicregWeb/indi/ACI373/licenceRecord,,M,RO,2010-06-22,2012-07-18
+"O'Neil, David Peter ",None,sfclicrec.asp?p=1904693,AYK186,http://www.sfc.hk/publicregWeb/indi/AYK186/licenceRecord,,M,RO,2012-06-01,
+"Roes, David Eric ",None,sfclicrec.asp?p=1908302,AYK191,http://www.sfc.hk/publicregWeb/indi/AYK191/licenceRecord,,M,RO,2012-06-08,
+"Verin, Richard Gordon ",None,sfclicrec.asp?p=105059,AEN452,http://www.sfc.hk/publicregWeb/indi/AEN452/licenceRecord,,M,RO,2010-06-22,2012-11-15

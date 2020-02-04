@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Marr, Anthony Waide ",sfclicrec.asp?p=100881,,M,RO,,
-"Marr, Kakai ",sfclicrec.asp?p=101627,,,RO,2005-04-13,
-"Ruckert, Simon John ",sfclicrec.asp?p=101802,,M,Rep,2008-05-21,2010-01-08
-"Ruckert, Simon John ",sfclicrec.asp?p=101802,,M,RO,2010-01-08,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Marr, Anthony Waide ",None,sfclicrec.asp?p=100881,AAD281,http://www.sfc.hk/publicregWeb/indi/AAD281/licenceRecord,,M,RO,,
+"Marr, Kakai ",None,sfclicrec.asp?p=101627,AAV156,http://www.sfc.hk/publicregWeb/indi/AAV156/licenceRecord,,,RO,2005-04-13,
+"Ruckert, Simon John ",None,sfclicrec.asp?p=101802,AAZ359,http://www.sfc.hk/publicregWeb/indi/AAZ359/licenceRecord,,M,Rep,2008-05-21,2010-01-08
+"Ruckert, Simon John ",None,sfclicrec.asp?p=101802,AAZ359,http://www.sfc.hk/publicregWeb/indi/AAZ359/licenceRecord,,M,RO,2010-01-08,

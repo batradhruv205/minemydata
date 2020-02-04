@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chin, Wei ",sfclicrec.asp?p=92580,,,Rep,2014-03-31,2017-09-06
-"Chin, Wei ",sfclicrec.asp?p=92580,,,RO,2017-09-06,
-"Chueng, Man Ting Stella 張敏婷",sfclicrec.asp?p=2284192,,,Rep,2014-06-20,2015-09-21
-"Crockett, Nicholas John ",sfclicrec.asp?p=2138622,,M,RO,2013-09-27,2016-11-30
-"Fu, Pingchuan 傅平川",sfclicrec.asp?p=2590980,,,Rep,2016-06-13,2016-12-23
-"Hsu, Jonathan Yu Cheng 許育誠",sfclicrec.asp?p=69612,,M,Rep,2014-08-28,2015-09-02
-"Law, Fong Yuen 羅方圓",sfclicrec.asp?p=69663,,,RO,2013-09-27,2018-01-12
-"Leung, Chau Ying Marlica 梁秋瑩",sfclicrec.asp?p=2715532,,,Rep,2017-03-17,2018-05-26
-"Siew, Wai Yin Yvonne 蕭慧賢",sfclicrec.asp?p=12492521,,,RO,2017-11-08,2019-07-10
-"Yau, Canon 邱敬龍",sfclicrec.asp?p=2138623,,,Rep,2013-09-27,2016-10-18
-"Yau, Canon 邱敬龍",sfclicrec.asp?p=2138623,,,RO,2016-10-18,2017-07-23
-"Yu, Surong 余素容",sfclicrec.asp?p=13064766,,,Rep,2018-08-21,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chin, Wei ",None,sfclicrec.asp?p=92580,APL909,http://www.sfc.hk/publicregWeb/indi/APL909/licenceRecord,,,Rep,2014-03-31,2017-09-06
+"Chin, Wei ",None,sfclicrec.asp?p=92580,APL909,http://www.sfc.hk/publicregWeb/indi/APL909/licenceRecord,,,RO,2017-09-06,
+"Chueng, Man Ting Stella 張敏婷",None,sfclicrec.asp?p=2284192,BDL886,http://www.sfc.hk/publicregWeb/indi/BDL886/licenceRecord,,,Rep,2014-06-20,2015-09-21
+"Crockett, Nicholas John ",None,sfclicrec.asp?p=2138622,BBM049,http://www.sfc.hk/publicregWeb/indi/BBM049/licenceRecord,,M,RO,2013-09-27,2016-11-30
+"Fu, Pingchuan 傅平川",None,sfclicrec.asp?p=2590980,BHL810,http://www.sfc.hk/publicregWeb/indi/BHL810/licenceRecord,,,Rep,2016-06-13,2016-12-23
+"Hsu, Jonathan Yu Cheng 許育誠",None,sfclicrec.asp?p=69612,ANM699,http://www.sfc.hk/publicregWeb/indi/ANM699/licenceRecord,,M,Rep,2014-08-28,2015-09-02
+"Law, Fong Yuen 羅方圓",None,sfclicrec.asp?p=69663,AGO947,http://www.sfc.hk/publicregWeb/indi/AGO947/licenceRecord,,,RO,2013-09-27,2018-01-12
+"Leung, Chau Ying Marlica 梁秋瑩",None,sfclicrec.asp?p=2715532,BJF047,http://www.sfc.hk/publicregWeb/indi/BJF047/licenceRecord,,,Rep,2017-03-17,2018-05-26
+"Siew, Wai Yin Yvonne 蕭慧賢",None,sfclicrec.asp?p=12492521,BKE833,http://www.sfc.hk/publicregWeb/indi/BKE833/licenceRecord,,,RO,2017-11-08,2019-07-10
+"Yau, Canon 邱敬龍",None,sfclicrec.asp?p=2138623,BBM051,http://www.sfc.hk/publicregWeb/indi/BBM051/licenceRecord,,,Rep,2013-09-27,2016-10-18
+"Yau, Canon 邱敬龍",None,sfclicrec.asp?p=2138623,BBM051,http://www.sfc.hk/publicregWeb/indi/BBM051/licenceRecord,,,RO,2016-10-18,2017-07-23
+"Yu, Surong 余素容",None,sfclicrec.asp?p=13064766,BHM107,http://www.sfc.hk/publicregWeb/indi/BHM107/licenceRecord,,,Rep,2018-08-21,

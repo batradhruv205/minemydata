@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Percy Pak Hin 陳柏軒",sfclicrec.asp?p=104545,,M,RO,2019-09-25,
-"Chin, Eric Hin Lik 陳顯歷",sfclicrec.asp?p=132571,,M,Rep,2019-11-07,2020-01-21
-"Chin, Eric Hin Lik 陳顯歷",sfclicrec.asp?p=132571,,M,RO,2020-01-21,
-"Kok, Chi Ho 郭智豪",sfclicrec.asp?p=103390,,,RO,2019-09-25,
-"Lai, Kwok Keung 黎國強",sfclicrec.asp?p=12585591,,,Rep,2019-12-06,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Percy Pak Hin 陳柏軒",None,sfclicrec.asp?p=104545,AEB921,http://www.sfc.hk/publicregWeb/indi/AEB921/licenceRecord,,M,RO,2019-09-25,
+"Chin, Eric Hin Lik 陳顯歷",None,sfclicrec.asp?p=132571,AYE644,http://www.sfc.hk/publicregWeb/indi/AYE644/licenceRecord,,M,Rep,2019-11-07,2020-01-21
+"Chin, Eric Hin Lik 陳顯歷",None,sfclicrec.asp?p=132571,AYE644,http://www.sfc.hk/publicregWeb/indi/AYE644/licenceRecord,,M,RO,2020-01-21,
+"Kok, Chi Ho 郭智豪",None,sfclicrec.asp?p=103390,ACW515,http://www.sfc.hk/publicregWeb/indi/ACW515/licenceRecord,,,RO,2019-09-25,
+"Lai, Kwok Keung 黎國強",None,sfclicrec.asp?p=12585591,BLK712,http://www.sfc.hk/publicregWeb/indi/BLK712/licenceRecord,,,Rep,2019-12-06,

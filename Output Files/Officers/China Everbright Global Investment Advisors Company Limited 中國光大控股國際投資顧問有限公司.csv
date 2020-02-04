@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cao, Yining 曹一宁",sfclicrec.asp?p=2703527,,,Rep,2019-09-17,
-"Chan, Eva Kiu Yee 陳喬依",sfclicrec.asp?p=2345396,,F,Rep,2018-03-08,
-"Chan, John Kwok Kit 陳國傑",sfclicrec.asp?p=107323,,M,RO,2012-08-09,
-"Chen, Xi (SFC:AZT130) 陳曦",sfclicrec.asp?p=1939694,,,Rep,2012-08-10,2019-11-30
-"Chiu, Ivan Wei Yin 趙偉然",sfclicrec.asp?p=126600,,M,Rep,2016-03-01,
-"Choi, Chik Chau 蔡植洲",sfclicrec.asp?p=6717570,,,Rep,2017-03-31,
-"Chow, Philip Fu Lap 周富立",sfclicrec.asp?p=23159915,,M,Rep,2019-05-10,2019-11-03
-"Fan, Shengyan 樊盛妍",sfclicrec.asp?p=73112,,,RO,2012-08-09,
-"Lau, Kon Man 劉幹文",sfclicrec.asp?p=1939695,,,Rep,2012-08-09,2016-09-26
-"Lu, Ning (SFC:APU507) 陸宁",sfclicrec.asp?p=72291,,,Rep,2013-09-25,2017-09-24
-"Sun, Yuan (SFC:ARR089) 孫園",sfclicrec.asp?p=72301,,,Rep,2012-08-09,2015-04-20
-"Wang, Lin (SFC:BIM406) 王琳",sfclicrec.asp?p=2652261,,,Rep,2017-11-27,2018-11-07
-"Zhang, Fan (SFC:AWE514) 張帆",sfclicrec.asp?p=72324,,,Rep,2019-11-15,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cao, Yining 曹一宁",None,sfclicrec.asp?p=2703527,BJD165,http://www.sfc.hk/publicregWeb/indi/BJD165/licenceRecord,,,Rep,2019-09-17,
+"Chan, Eva Kiu Yee 陳喬依",None,sfclicrec.asp?p=2345396,BEM502,http://www.sfc.hk/publicregWeb/indi/BEM502/licenceRecord,,F,Rep,2018-03-08,
+"Chan, John Kwok Kit 陳國傑",None,sfclicrec.asp?p=107323,AFR467,http://www.sfc.hk/publicregWeb/indi/AFR467/licenceRecord,,M,RO,2012-08-09,
+"Chen, Xi (SFC:AZT130) 陳曦",None,sfclicrec.asp?p=1939694,AZT130,http://www.sfc.hk/publicregWeb/indi/AZT130/licenceRecord,,,Rep,2012-08-10,2019-11-30
+"Chiu, Ivan Wei Yin 趙偉然",None,sfclicrec.asp?p=126600,ARO748,http://www.sfc.hk/publicregWeb/indi/ARO748/licenceRecord,,M,Rep,2016-03-01,
+"Choi, Chik Chau 蔡植洲",None,sfclicrec.asp?p=6717570,BJE839,http://www.sfc.hk/publicregWeb/indi/BJE839/licenceRecord,,,Rep,2017-03-31,
+"Chow, Philip Fu Lap 周富立",None,sfclicrec.asp?p=23159915,BOH634,http://www.sfc.hk/publicregWeb/indi/BOH634/licenceRecord,,M,Rep,2019-05-10,2019-11-03
+"Fan, Shengyan 樊盛妍",None,sfclicrec.asp?p=73112,AGE396,http://www.sfc.hk/publicregWeb/indi/AGE396/licenceRecord,,,RO,2012-08-09,
+"Lau, Kon Man 劉幹文",None,sfclicrec.asp?p=1939695,AZG706,http://www.sfc.hk/publicregWeb/indi/AZG706/licenceRecord,,,Rep,2012-08-09,2016-09-26
+"Lu, Ning (SFC:APU507) 陸宁",None,sfclicrec.asp?p=72291,APU507,http://www.sfc.hk/publicregWeb/indi/APU507/licenceRecord,,,Rep,2013-09-25,2017-09-24
+"Sun, Yuan (SFC:ARR089) 孫園",None,sfclicrec.asp?p=72301,ARR089,http://www.sfc.hk/publicregWeb/indi/ARR089/licenceRecord,,,Rep,2012-08-09,2015-04-20
+"Wang, Lin (SFC:BIM406) 王琳",None,sfclicrec.asp?p=2652261,BIM406,http://www.sfc.hk/publicregWeb/indi/BIM406/licenceRecord,,,Rep,2017-11-27,2018-11-07
+"Zhang, Fan (SFC:AWE514) 張帆",None,sfclicrec.asp?p=72324,AWE514,http://www.sfc.hk/publicregWeb/indi/AWE514/licenceRecord,,,Rep,2019-11-15,

@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chai, Siu Hoi 齊小開",sfclicrec.asp?p=12588900,,,Rep,2017-11-21,
-"Lai, Ka Chung 黎家聰",sfclicrec.asp?p=2447372,,,Rep,2019-04-16,
-"Lam, Kin On 林建安",sfclicrec.asp?p=111604,,,Rep,2018-05-08,2018-06-30
-"Lau, Wai Yan 劉偉恩",sfclicrec.asp?p=2051706,,,Rep,2018-04-18,2020-01-15
-"Lau, Wai Yan 劉偉恩",sfclicrec.asp?p=2051706,,,RO,2020-01-15,
-"Ngo, Tsz Fei 敖子飛",sfclicrec.asp?p=2134282,,,Rep,2017-05-31,2018-04-03
-"Ngo, Tsz Fei 敖子飛",sfclicrec.asp?p=2134282,,,RO,2018-04-03,2019-10-31
-"So, Chun Fei 蘇振飛",sfclicrec.asp?p=2475894,,,Rep,2018-09-18,
-"Tang, Wai Fung 鄧偉鋒",sfclicrec.asp?p=72987,,,RO,2017-05-18,2018-04-30
-"Tang, Wing Shing (SFC:BKA694) 鄧永誠",sfclicrec.asp?p=23172536,,,Rep,2019-05-14,
-"Tong, Pok Wai 唐博韋",sfclicrec.asp?p=68010,,M,RO,2017-05-18,
-"Yeung, Tak Wah 楊德華",sfclicrec.asp?p=79249,,,RO,2018-09-18,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chai, Siu Hoi 齊小開",None,sfclicrec.asp?p=12588900,BLH838,http://www.sfc.hk/publicregWeb/indi/BLH838/licenceRecord,,,Rep,11/21/2017,
+"Lai, Ka Chung 黎家聰",None,sfclicrec.asp?p=2447372,BFU181,http://www.sfc.hk/publicregWeb/indi/BFU181/licenceRecord,,,Rep,4/16/2019,
+"Lam, Kin On 林建安",None,sfclicrec.asp?p=111604,AHU182,http://www.sfc.hk/publicregWeb/indi/AHU182/licenceRecord,,,Rep,5/8/2018,6/30/2018
+"Lau, Wai Yan 劉偉恩",None,sfclicrec.asp?p=2051706,BBA106,http://www.sfc.hk/publicregWeb/indi/BBA106/licenceRecord,,,Rep,4/18/2018,1/15/2020
+"Lau, Wai Yan 劉偉恩",None,sfclicrec.asp?p=2051706,BBA106,http://www.sfc.hk/publicregWeb/indi/BBA106/licenceRecord,,,RO,1/15/2020,
+"Ngo, Tsz Fei 敖子飛",None,sfclicrec.asp?p=2134282,BBW943,http://www.sfc.hk/publicregWeb/indi/BBW943/licenceRecord,,,Rep,5/31/2017,4/3/2018
+"Ngo, Tsz Fei 敖子飛",None,sfclicrec.asp?p=2134282,BBW943,http://www.sfc.hk/publicregWeb/indi/BBW943/licenceRecord,,,RO,4/3/2018,10/31/2019
+"So, Chun Fei 蘇振飛",None,sfclicrec.asp?p=2475894,BGE655,http://www.sfc.hk/publicregWeb/indi/BGE655/licenceRecord,,,Rep,9/18/2018,
+"Tang, Wai Fung 鄧偉鋒",None,sfclicrec.asp?p=72987,ATN569,http://www.sfc.hk/publicregWeb/indi/ATN569/licenceRecord,,,RO,5/18/2017,4/30/2018
+"Tang, Wing Shing (SFC:BKA694) 鄧永誠",None,sfclicrec.asp?p=23172536,BKA694,http://www.sfc.hk/publicregWeb/indi/BKA694/licenceRecord,,,Rep,5/14/2019,
+"Tong, Pok Wai 唐博韋",None,sfclicrec.asp?p=68010,ARR372,http://www.sfc.hk/publicregWeb/indi/ARR372/licenceRecord,,M,RO,5/18/2017,
+"Yeung, Tak Wah 楊德華",None,sfclicrec.asp?p=79249,ATR495,http://www.sfc.hk/publicregWeb/indi/ATR495/licenceRecord,,,RO,9/18/2018,

@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Hui, Cheung Kui 許祥駒",sfclicrec.asp?p=80605,,,RO,2018-08-29,2019-12-04
-"Ng, Richard Chun Yiu 吳晉堯",sfclicrec.asp?p=2361023,,M,RO,2019-02-22,
-"Wong, Howard Lok Him 王諾謙",sfclicrec.asp?p=80607,,M,RO,2018-08-29,2019-10-22
-"Wong, Kim Ming 黃劍明",sfclicrec.asp?p=99680,,,RO,2018-08-29,2018-10-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Hui, Cheung Kui 許祥駒",None,sfclicrec.asp?p=80605,AJX991,http://www.sfc.hk/publicregWeb/indi/AJX991/licenceRecord,,,RO,2018-08-29,2019-12-04
+"Ng, Richard Chun Yiu 吳晉堯",None,sfclicrec.asp?p=2361023,BER542,http://www.sfc.hk/publicregWeb/indi/BER542/licenceRecord,,M,RO,2019-02-22,
+"Wong, Howard Lok Him 王諾謙",None,sfclicrec.asp?p=80607,AMX945,http://www.sfc.hk/publicregWeb/indi/AMX945/licenceRecord,,M,RO,2018-08-29,2019-10-22
+"Wong, Kim Ming 黃劍明",None,sfclicrec.asp?p=99680,AHU702,http://www.sfc.hk/publicregWeb/indi/AHU702/licenceRecord,,,RO,2018-08-29,2018-10-31

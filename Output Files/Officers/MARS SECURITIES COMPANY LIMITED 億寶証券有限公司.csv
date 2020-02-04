@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Pui Ling 張佩玲",sfclicrec.asp?p=115572,,,Rep,2005-05-05,2018-02-27
-"Cheung, Pui Ling 張佩玲",sfclicrec.asp?p=115572,,,RO,2018-02-27,
-"Fung, Yet Chi 馮若池",sfclicrec.asp?p=102361,,,Rep,,2007-08-22
-"Fung, Yet Chi 馮若池",sfclicrec.asp?p=102361,,,RO,2007-08-22,
-"Liu, Chung Tong (SFC:AUK189) 廖頌棠",sfclicrec.asp?p=12508323,,,Rep,2017-11-16,2018-05-16
-"Liu, James Ying Yin 廖英賢",sfclicrec.asp?p=101328,74,M,RO,,
-"Liu, Joanna Chung Yan 廖頌恩",sfclicrec.asp?p=106215,,F,Rep,,2019-08-16
-"Ng, Shirley Shuk Yee 吳淑儀",sfclicrec.asp?p=102237,,F,RO,,2006-04-09
-"Soo, Hung Kin 蘇洪堅",sfclicrec.asp?p=101334,,,Rep,,2009-03-06
-"Tam, Diana Shuk Tuen 譚淑端",sfclicrec.asp?p=100790,,F,Rep,,2014-10-18
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Pui Ling 張佩玲",None,sfclicrec.asp?p=115572,ALV145,http://www.sfc.hk/publicregWeb/indi/ALV145/licenceRecord,,,Rep,2005-05-05,2018-02-27
+"Cheung, Pui Ling 張佩玲",None,sfclicrec.asp?p=115572,ALV145,http://www.sfc.hk/publicregWeb/indi/ALV145/licenceRecord,,,RO,2018-02-27,
+"Fung, Yet Chi 馮若池",None,sfclicrec.asp?p=102361,ABV268,http://www.sfc.hk/publicregWeb/indi/ABV268/licenceRecord,,,Rep,,2007-08-22
+"Fung, Yet Chi 馮若池",None,sfclicrec.asp?p=102361,ABV268,http://www.sfc.hk/publicregWeb/indi/ABV268/licenceRecord,,,RO,2007-08-22,
+"Liu, Chung Tong (SFC:AUK189) 廖頌棠",None,sfclicrec.asp?p=12508323,AUK189,http://www.sfc.hk/publicregWeb/indi/AUK189/licenceRecord,,,Rep,2017-11-16,2018-05-16
+"Liu, James Ying Yin 廖英賢",None,sfclicrec.asp?p=101328,AAH739,http://www.sfc.hk/publicregWeb/indi/AAH739/licenceRecord,74.0,M,RO,,
+"Liu, Joanna Chung Yan 廖頌恩",None,sfclicrec.asp?p=106215,AFJ246,http://www.sfc.hk/publicregWeb/indi/AFJ246/licenceRecord,,F,Rep,,2019-08-16
+"Ng, Shirley Shuk Yee 吳淑儀",None,sfclicrec.asp?p=102237,ABQ823,http://www.sfc.hk/publicregWeb/indi/ABQ823/licenceRecord,,F,RO,,2006-04-09
+"Soo, Hung Kin 蘇洪堅",None,sfclicrec.asp?p=101334,AAH798,http://www.sfc.hk/publicregWeb/indi/AAH798/licenceRecord,,,Rep,,2009-03-06
+"Tam, Diana Shuk Tuen 譚淑端",None,sfclicrec.asp?p=100790,AAC406,http://www.sfc.hk/publicregWeb/indi/AAC406/licenceRecord,,F,Rep,,2014-10-18

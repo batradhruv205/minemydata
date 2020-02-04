@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Yeuk Man 陳躍敏",sfclicrec.asp?p=1864081,,,Rep,2019-12-16,
-"Ge, Wanli 葛萬利",sfclicrec.asp?p=12782394,,,RO,2018-02-12,2019-08-31
-"Jin, Xiaobin (1954) 金曉斌",sfclicrec.asp?p=134559,66,M,RO,2018-02-12,
-"Mei, Song (SFC:BLE515) 梅松",sfclicrec.asp?p=12782396,,,RO,2018-02-12,
-"Shi, Shuncheng 施順成",sfclicrec.asp?p=2374532,,,RO,2019-10-29,
-"Wu, Xianhua 吴宪华",sfclicrec.asp?p=12782397,,,RO,2018-02-12,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Yeuk Man 陳躍敏",None,sfclicrec.asp?p=1864081,AZB520,http://www.sfc.hk/publicregWeb/indi/AZB520/licenceRecord,,,Rep,2019-12-16,
+"Ge, Wanli 葛萬利",None,sfclicrec.asp?p=12782394,BLE512,http://www.sfc.hk/publicregWeb/indi/BLE512/licenceRecord,,,RO,2018-02-12,2019-08-31
+"Jin, Xiaobin (1954) 金曉斌",None,sfclicrec.asp?p=134559,BLE514,http://www.sfc.hk/publicregWeb/indi/BLE514/licenceRecord,66.0,M,RO,2018-02-12,
+"Mei, Song (SFC:BLE515) 梅松",None,sfclicrec.asp?p=12782396,BLE515,http://www.sfc.hk/publicregWeb/indi/BLE515/licenceRecord,,,RO,2018-02-12,
+"Shi, Shuncheng 施順成",None,sfclicrec.asp?p=2374532,BEV990,http://www.sfc.hk/publicregWeb/indi/BEV990/licenceRecord,,,RO,2019-10-29,
+"Wu, Xianhua 吴宪华",None,sfclicrec.asp?p=12782397,BLE513,http://www.sfc.hk/publicregWeb/indi/BLE513/licenceRecord,,,RO,2018-02-12,

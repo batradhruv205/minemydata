@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Choo, Patrick Chong Yao 朱仲堯",sfclicrec.asp?p=104788,55,M,RO,2019-06-05,2019-09-03
-"Gan, Zhonghui 甘中輝",sfclicrec.asp?p=2225904,,,Rep,2019-11-27,
-"Koo, Vincent Wing Tat 古頴達",sfclicrec.asp?p=87239,,M,RO,2019-06-05,2019-11-30
-"Sin, Kin Ning 冼健寧",sfclicrec.asp?p=23667568,,,RO,2019-09-16,
-"Xu, Xinwei (SFC:BES891) 徐鑫煒",sfclicrec.asp?p=2377126,,,RO,2019-09-11,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Choo, Patrick Chong Yao 朱仲堯",None,sfclicrec.asp?p=104788,AEI068,http://www.sfc.hk/publicregWeb/indi/AEI068/licenceRecord,55.0,M,RO,2019-06-05,2019-09-03
+"Gan, Zhonghui 甘中輝",None,sfclicrec.asp?p=2225904,BDA494,http://www.sfc.hk/publicregWeb/indi/BDA494/licenceRecord,,,Rep,2019-11-27,
+"Koo, Vincent Wing Tat 古頴達",None,sfclicrec.asp?p=87239,ACW766,http://www.sfc.hk/publicregWeb/indi/ACW766/licenceRecord,,M,RO,2019-06-05,2019-11-30
+"Sin, Kin Ning 冼健寧",None,sfclicrec.asp?p=23667568,AXO973,http://www.sfc.hk/publicregWeb/indi/AXO973/licenceRecord,,,RO,2019-09-16,
+"Xu, Xinwei (SFC:BES891) 徐鑫煒",None,sfclicrec.asp?p=2377126,BES891,http://www.sfc.hk/publicregWeb/indi/BES891/licenceRecord,,,RO,2019-09-11,

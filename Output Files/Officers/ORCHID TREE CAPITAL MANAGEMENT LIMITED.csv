@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Horikoshi, Kosuke 堀越康佑",sfclicrec.asp?p=2265436,,,RO,2015-06-02,
-"Iida, Toshiro 飯田敏郎",sfclicrec.asp?p=2100132,,,Rep,2015-06-12,2016-10-16
-"Itatani, Masayuki 板谷雅之",sfclicrec.asp?p=1929675,,,Rep,2015-07-08,2016-11-08
-"Itatani, Masayuki 板谷雅之",sfclicrec.asp?p=1929675,,,RO,2016-11-08,
-"Kobayashi, Kenji 小林憲司",sfclicrec.asp?p=2206718,,,Rep,2015-06-19,2019-02-05
-"Takemura, Ko 竹村耕",sfclicrec.asp?p=1884722,,,Rep,2015-06-19,
-"Yoshida, Shingo 吉田真悟",sfclicrec.asp?p=67890,,,RO,2015-06-02,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Horikoshi, Kosuke 堀越康佑",None,sfclicrec.asp?p=2265436,BDJ461,http://www.sfc.hk/publicregWeb/indi/BDJ461/licenceRecord,,,RO,2015-06-02,
+"Iida, Toshiro 飯田敏郎",None,sfclicrec.asp?p=2100132,BBN511,http://www.sfc.hk/publicregWeb/indi/BBN511/licenceRecord,,,Rep,2015-06-12,2016-10-16
+"Itatani, Masayuki 板谷雅之",None,sfclicrec.asp?p=1929675,AZX963,http://www.sfc.hk/publicregWeb/indi/AZX963/licenceRecord,,,Rep,2015-07-08,2016-11-08
+"Itatani, Masayuki 板谷雅之",None,sfclicrec.asp?p=1929675,AZX963,http://www.sfc.hk/publicregWeb/indi/AZX963/licenceRecord,,,RO,2016-11-08,
+"Kobayashi, Kenji 小林憲司",None,sfclicrec.asp?p=2206718,BCW196,http://www.sfc.hk/publicregWeb/indi/BCW196/licenceRecord,,,Rep,2015-06-19,2019-02-05
+"Takemura, Ko 竹村耕",None,sfclicrec.asp?p=1884722,AZH558,http://www.sfc.hk/publicregWeb/indi/AZH558/licenceRecord,,,Rep,2015-06-19,
+"Yoshida, Shingo 吉田真悟",None,sfclicrec.asp?p=67890,AOV644,http://www.sfc.hk/publicregWeb/indi/AOV644/licenceRecord,,,RO,2015-06-02,

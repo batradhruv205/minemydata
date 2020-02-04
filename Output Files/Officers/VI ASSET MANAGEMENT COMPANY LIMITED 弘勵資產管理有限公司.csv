@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lan, Qingwen 藍青文",sfclicrec.asp?p=78866,,,Rep,2019-09-16,2019-10-11
-"Lan, Qingwen 藍青文",sfclicrec.asp?p=78866,,,RO,2019-10-11,
-"Leung, Sdentent Wai Chuen 梁偉泉",sfclicrec.asp?p=101537,61,M,RO,2017-04-20,2019-10-24
-"Xiao, Lina 肖麗娜",sfclicrec.asp?p=2032493,,F,RO,2017-04-20,2019-06-30
-"Yang, Kane ",sfclicrec.asp?p=133864,,,RO,2019-06-03,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lan, Qingwen 藍青文",None,sfclicrec.asp?p=78866,AWW400,http://www.sfc.hk/publicregWeb/indi/AWW400/licenceRecord,,,Rep,2019-09-16,2019-10-11
+"Lan, Qingwen 藍青文",None,sfclicrec.asp?p=78866,AWW400,http://www.sfc.hk/publicregWeb/indi/AWW400/licenceRecord,,,RO,2019-10-11,
+"Leung, Sdentent Wai Chuen 梁偉泉",None,sfclicrec.asp?p=101537,AAK254,http://www.sfc.hk/publicregWeb/indi/AAK254/licenceRecord,61.0,M,RO,2017-04-20,2019-10-24
+"Xiao, Lina 肖麗娜",None,sfclicrec.asp?p=2032493,BAZ749,http://www.sfc.hk/publicregWeb/indi/BAZ749/licenceRecord,,F,RO,2017-04-20,2019-06-30
+"Yang, Kane ",None,sfclicrec.asp?p=133864,AUT778,http://www.sfc.hk/publicregWeb/indi/AUT778/licenceRecord,,,RO,2019-06-03,

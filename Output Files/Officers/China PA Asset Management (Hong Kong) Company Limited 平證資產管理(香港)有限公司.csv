@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Chih Yung 陳至勇",sfclicrec.asp?p=92379,48,M,RO,2019-06-10,
-"Ip, Chun Ho 葉俊豪",sfclicrec.asp?p=74959,,,RO,2019-06-10,
-"Li, Mengjie (SFC:BNG397) 李梦杰",sfclicrec.asp?p=21807526,,,Rep,2019-11-14,
-"Li, Yiu Yuen 李耀元",sfclicrec.asp?p=12638497,,,Rep,2019-11-14,
-"Pan, Lei 潘磊",sfclicrec.asp?p=12689249,,,Rep,2019-11-14,
-"Zhang, Xiaoyi (SFC:BOT054) 張晓意",sfclicrec.asp?p=23785387,,,Rep,2019-11-14,
-"Zhang, Xinnian 張新年",sfclicrec.asp?p=88193,,,RO,2019-06-10,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Chih Yung 陳至勇",None,sfclicrec.asp?p=92379,ALU756,http://www.sfc.hk/publicregWeb/indi/ALU756/licenceRecord,48.0,M,RO,2019-06-10,
+"Ip, Chun Ho 葉俊豪",None,sfclicrec.asp?p=74959,ACJ705,http://www.sfc.hk/publicregWeb/indi/ACJ705/licenceRecord,,,RO,2019-06-10,
+"Li, Mengjie (SFC:BNG397) 李梦杰",None,sfclicrec.asp?p=21807526,BNG397,http://www.sfc.hk/publicregWeb/indi/BNG397/licenceRecord,,,Rep,2019-11-14,
+"Li, Yiu Yuen 李耀元",None,sfclicrec.asp?p=12638497,BFB087,http://www.sfc.hk/publicregWeb/indi/BFB087/licenceRecord,,,Rep,2019-11-14,
+"Pan, Lei 潘磊",None,sfclicrec.asp?p=12689249,BLX186,http://www.sfc.hk/publicregWeb/indi/BLX186/licenceRecord,,,Rep,2019-11-14,
+"Zhang, Xiaoyi (SFC:BOT054) 張晓意",None,sfclicrec.asp?p=23785387,BOT054,http://www.sfc.hk/publicregWeb/indi/BOT054/licenceRecord,,,Rep,2019-11-14,
+"Zhang, Xinnian 張新年",None,sfclicrec.asp?p=88193,AWZ901,http://www.sfc.hk/publicregWeb/indi/AWZ901/licenceRecord,,,RO,2019-06-10,

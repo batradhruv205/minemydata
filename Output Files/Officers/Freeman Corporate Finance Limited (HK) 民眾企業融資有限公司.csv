@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chau, Kwan Kit 周均傑",sfclicrec.asp?p=78818,,,RO,2017-09-05,
-"Cheung, Yin Ling (SFC:AYZ253) 張賢寧",sfclicrec.asp?p=1868473,,,RO,2015-09-11,2016-10-21
-"Chuang, Johnny 莊頌恩",sfclicrec.asp?p=52761,52,M,Rep,2018-11-08,
-"Duan, Xiaoxin 段晓鑫",sfclicrec.asp?p=2334857,,,Rep,2017-05-02,2018-01-08
-"Fang, Cheng (SFC:AKP392) 方征",sfclicrec.asp?p=93612,48,M,RO,2012-09-11,2014-02-28
-"Gao, Jiayang 高嘉陽",sfclicrec.asp?p=9408786,,,Rep,2017-05-02,2019-09-10
-"Hui, Quincy Kwong Hei 許廣熙",sfclicrec.asp?p=60528,47,M,RO,2012-09-11,2017-03-31
-"Li, Eric Sing Hei (SFC:BCZ914) 李晟希",sfclicrec.asp?p=2212014,,M,Rep,2014-09-29,2014-12-05
-"Lin, Zhen (SFC:BEW966) 林楨",sfclicrec.asp?p=2378455,,,Rep,2015-10-02,2016-10-21
-"Liu, Ying Chen 劉迎晨",sfclicrec.asp?p=111413,,,RO,2017-06-02,2017-08-18
-"Lo, Kai Tung 盧啟東",sfclicrec.asp?p=81963,38,M,Rep,2014-01-20,2015-05-29
-"Pun, Hong Hai 潘康海",sfclicrec.asp?p=82303,42,M,RO,2017-12-07,
-"Wang, Hong (SFC:ALQ657) 王虹",sfclicrec.asp?p=69124,,,RO,2017-02-14,
-"Wong, Ka Po (SFC:AIN952) 黃家保",sfclicrec.asp?p=83765,,,RO,2014-02-28,2015-08-31
-"Zhang, Bingqian (SFC:BNU591) 張冰倩",sfclicrec.asp?p=22455566,,,Rep,2018-11-20,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chau, Kwan Kit 周均傑",None,sfclicrec.asp?p=78818,ARB165,http://www.sfc.hk/publicregWeb/indi/ARB165/licenceRecord,,,RO,2017-09-05,
+"Cheung, Yin Ling (SFC:AYZ253) 張賢寧",None,sfclicrec.asp?p=1868473,AYZ253,http://www.sfc.hk/publicregWeb/indi/AYZ253/licenceRecord,,,RO,2015-09-11,2016-10-21
+"Chuang, Johnny 莊頌恩",None,sfclicrec.asp?p=52761,AFT893,http://www.sfc.hk/publicregWeb/indi/AFT893/licenceRecord,52.0,M,Rep,2018-11-08,
+"Duan, Xiaoxin 段晓鑫",None,sfclicrec.asp?p=2334857,BEJ250,http://www.sfc.hk/publicregWeb/indi/BEJ250/licenceRecord,,,Rep,2017-05-02,2018-01-08
+"Fang, Cheng (SFC:AKP392) 方征",None,sfclicrec.asp?p=93612,AKP392,http://www.sfc.hk/publicregWeb/indi/AKP392/licenceRecord,48.0,M,RO,2012-09-11,2014-02-28
+"Gao, Jiayang 高嘉陽",None,sfclicrec.asp?p=9408786,BJI780,http://www.sfc.hk/publicregWeb/indi/BJI780/licenceRecord,,,Rep,2017-05-02,2019-09-10
+"Hui, Quincy Kwong Hei 許廣熙",None,sfclicrec.asp?p=60528,ANZ768,http://www.sfc.hk/publicregWeb/indi/ANZ768/licenceRecord,47.0,M,RO,2012-09-11,2017-03-31
+"Li, Eric Sing Hei (SFC:BCZ914) 李晟希",None,sfclicrec.asp?p=2212014,BCZ914,http://www.sfc.hk/publicregWeb/indi/BCZ914/licenceRecord,,M,Rep,2014-09-29,2014-12-05
+"Lin, Zhen (SFC:BEW966) 林楨",None,sfclicrec.asp?p=2378455,BEW966,http://www.sfc.hk/publicregWeb/indi/BEW966/licenceRecord,,,Rep,2015-10-02,2016-10-21
+"Liu, Ying Chen 劉迎晨",None,sfclicrec.asp?p=111413,AHP730,http://www.sfc.hk/publicregWeb/indi/AHP730/licenceRecord,,,RO,2017-06-02,2017-08-18
+"Lo, Kai Tung 盧啟東",None,sfclicrec.asp?p=81963,AGV227,http://www.sfc.hk/publicregWeb/indi/AGV227/licenceRecord,38.0,M,Rep,2014-01-20,2015-05-29
+"Pun, Hong Hai 潘康海",None,sfclicrec.asp?p=82303,AHS951,http://www.sfc.hk/publicregWeb/indi/AHS951/licenceRecord,42.0,M,RO,2017-12-07,
+"Wang, Hong (SFC:ALQ657) 王虹",None,sfclicrec.asp?p=69124,ALQ657,http://www.sfc.hk/publicregWeb/indi/ALQ657/licenceRecord,,,RO,2017-02-14,
+"Wong, Ka Po (SFC:AIN952) 黃家保",None,sfclicrec.asp?p=83765,AIN952,http://www.sfc.hk/publicregWeb/indi/AIN952/licenceRecord,,,RO,2014-02-28,2015-08-31
+"Zhang, Bingqian (SFC:BNU591) 張冰倩",None,sfclicrec.asp?p=22455566,BNU591,http://www.sfc.hk/publicregWeb/indi/BNU591/licenceRecord,,,Rep,2018-11-20,

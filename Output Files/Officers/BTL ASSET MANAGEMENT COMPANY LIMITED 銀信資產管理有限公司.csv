@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Hiu Fung 陳曉楓",sfclicrec.asp?p=9408026,,,Rep,2017-05-02,
-"Chan, Kai Chun (SFC:APQ512) 陳啟俊",sfclicrec.asp?p=122923,,,Rep,2015-11-02,2019-08-26
-"Chan, Kai Chun (SFC:APQ512) 陳啟俊",sfclicrec.asp?p=122923,,,RO,2019-08-26,
-"Chiu, Kin Fai (SFC:ADC461) ",sfclicrec.asp?p=12636238,,,Rep,2017-12-12,2019-03-08
-"Lau, Ken Kin Wing 劉建榮",sfclicrec.asp?p=1861819,,M,Rep,2016-08-24,2018-04-06
-"Lau, Ken Kin Wing 劉建榮",sfclicrec.asp?p=1861819,,M,Rep,2018-08-16,2018-11-19
-"Lau, Ken Kin Wing 劉建榮",sfclicrec.asp?p=1861819,,M,RO,2018-11-19,2019-01-03
-"Li, Pan (SFC:AQN984) 李攀",sfclicrec.asp?p=67590,,M,RO,2015-08-28,2016-09-30
-"Lui, Chi Lung Louis 雷子龍",sfclicrec.asp?p=1870200,,,Rep,2016-10-05,2016-11-08
-"Lui, Chi Lung Louis 雷子龍",sfclicrec.asp?p=1870200,,,RO,2016-11-08,
-"Tang, Chi Hong 鄧志康",sfclicrec.asp?p=85570,,,RO,2015-08-28,
-"Yu, Yu Kin (SFC:APR199) 俞裕堅",sfclicrec.asp?p=122975,,,Rep,2015-11-02,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Hiu Fung 陳曉楓",None,sfclicrec.asp?p=9408026,BJH153,http://www.sfc.hk/publicregWeb/indi/BJH153/licenceRecord,,,Rep,2017-05-02,
+"Chan, Kai Chun (SFC:APQ512) 陳啟俊",None,sfclicrec.asp?p=122923,APQ512,http://www.sfc.hk/publicregWeb/indi/APQ512/licenceRecord,,,Rep,2015-11-02,2019-08-26
+"Chan, Kai Chun (SFC:APQ512) 陳啟俊",None,sfclicrec.asp?p=122923,APQ512,http://www.sfc.hk/publicregWeb/indi/APQ512/licenceRecord,,,RO,2019-08-26,
+"Chiu, Kin Fai (SFC:ADC461) ",None,sfclicrec.asp?p=12636238,ADC461,http://www.sfc.hk/publicregWeb/indi/ADC461/licenceRecord,,,Rep,2017-12-12,2019-03-08
+"Lau, Ken Kin Wing 劉建榮",None,sfclicrec.asp?p=1861819,AAB985,http://www.sfc.hk/publicregWeb/indi/AAB985/licenceRecord,,M,Rep,2016-08-24,2018-04-06
+"Lau, Ken Kin Wing 劉建榮",None,sfclicrec.asp?p=1861819,AAB985,http://www.sfc.hk/publicregWeb/indi/AAB985/licenceRecord,,M,Rep,2018-08-16,2018-11-19
+"Lau, Ken Kin Wing 劉建榮",None,sfclicrec.asp?p=1861819,AAB985,http://www.sfc.hk/publicregWeb/indi/AAB985/licenceRecord,,M,RO,2018-11-19,2019-01-03
+"Li, Pan (SFC:AQN984) 李攀",None,sfclicrec.asp?p=67590,AQN984,http://www.sfc.hk/publicregWeb/indi/AQN984/licenceRecord,,M,RO,2015-08-28,2016-09-30
+"Lui, Chi Lung Louis 雷子龍",None,sfclicrec.asp?p=1870200,AGT091,http://www.sfc.hk/publicregWeb/indi/AGT091/licenceRecord,,,Rep,2016-10-05,2016-11-08
+"Lui, Chi Lung Louis 雷子龍",None,sfclicrec.asp?p=1870200,AGT091,http://www.sfc.hk/publicregWeb/indi/AGT091/licenceRecord,,,RO,2016-11-08,
+"Tang, Chi Hong 鄧志康",None,sfclicrec.asp?p=85570,AAF883,http://www.sfc.hk/publicregWeb/indi/AAF883/licenceRecord,,,RO,2015-08-28,
+"Yu, Yu Kin (SFC:APR199) 俞裕堅",None,sfclicrec.asp?p=122975,APR199,http://www.sfc.hk/publicregWeb/indi/APR199/licenceRecord,,,Rep,2015-11-02,

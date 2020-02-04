@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Jonathan Sai Hong 陳世康",sfclicrec.asp?p=13213160,,M,Rep,2018-03-26,
-"Chan, Yuen Kar 陳婉珈",sfclicrec.asp?p=2622683,,,Rep,2016-08-22,2017-07-26
-"Cheung, Man Chun (SFC:BGK626) 張文進",sfclicrec.asp?p=2500070,,,Rep,2015-11-16,2016-05-16
-"Choo, Patrick Chong Yao 朱仲堯",sfclicrec.asp?p=104788,55,M,RO,2006-04-28,2015-07-15
-"Kwong, Chi Kwong 鄺志光",sfclicrec.asp?p=118299,61,M,RO,2006-04-28,
-"Lau, Yvonne Yee Tong 劉綺棠",sfclicrec.asp?p=2627442,54,F,RO,2016-09-01,
-"Lee, Adrian Ching Ming 李澄明",sfclicrec.asp?p=15762,69,M,Rep,2008-02-13,2008-04-15
-"Lee, Adrian Ching Ming 李澄明",sfclicrec.asp?p=15762,69,M,RO,2008-04-15,2016-06-30
-"Leung, Kin Shan 梁健山",sfclicrec.asp?p=74830,37,M,Rep,2017-09-29,
-"Luk, Amy Ka Ping 陸嘉萍",sfclicrec.asp?p=114925,48,F,Rep,2015-11-16,
-"Ng, Wai Yip (SFC:APC004) 吳偉業",sfclicrec.asp?p=121759,,,Rep,2007-08-15,2010-09-28
-"Ng, Wai Yip (SFC:APC004) 吳偉業",sfclicrec.asp?p=121759,,,Rep,2011-01-18,2015-07-18
-"Stewardson, Jeremy Bellinger ",sfclicrec.asp?p=34788,68,M,RO,2006-04-28,2008-04-16
-"Wong, Ada Ka Ki 王家琦",sfclicrec.asp?p=75250,40,F,Rep,2014-07-18,2014-10-16
-"Wong, Ada Ka Ki 王家琦",sfclicrec.asp?p=75250,40,F,RO,2014-10-16,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Jonathan Sai Hong 陳世康",None,sfclicrec.asp?p=13213160,BMM577,http://www.sfc.hk/publicregWeb/indi/BMM577/licenceRecord,,M,Rep,2018-03-26,
+"Chan, Yuen Kar 陳婉珈",None,sfclicrec.asp?p=2622683,BHX043,http://www.sfc.hk/publicregWeb/indi/BHX043/licenceRecord,,,Rep,2016-08-22,2017-07-26
+"Cheung, Man Chun (SFC:BGK626) 張文進",None,sfclicrec.asp?p=2500070,BGK626,http://www.sfc.hk/publicregWeb/indi/BGK626/licenceRecord,,,Rep,2015-11-16,2016-05-16
+"Choo, Patrick Chong Yao 朱仲堯",None,sfclicrec.asp?p=104788,AEI068,http://www.sfc.hk/publicregWeb/indi/AEI068/licenceRecord,55.0,M,RO,2006-04-28,2015-07-15
+"Kwong, Chi Kwong 鄺志光",None,sfclicrec.asp?p=118299,ANG977,http://www.sfc.hk/publicregWeb/indi/ANG977/licenceRecord,61.0,M,RO,2006-04-28,
+"Lau, Yvonne Yee Tong 劉綺棠",None,sfclicrec.asp?p=2627442,BHY929,http://www.sfc.hk/publicregWeb/indi/BHY929/licenceRecord,54.0,F,RO,2016-09-01,
+"Lee, Adrian Ching Ming 李澄明",None,sfclicrec.asp?p=15762,AEP409,http://www.sfc.hk/publicregWeb/indi/AEP409/licenceRecord,69.0,M,Rep,2008-02-13,2008-04-15
+"Lee, Adrian Ching Ming 李澄明",None,sfclicrec.asp?p=15762,AEP409,http://www.sfc.hk/publicregWeb/indi/AEP409/licenceRecord,69.0,M,RO,2008-04-15,2016-06-30
+"Leung, Kin Shan 梁健山",None,sfclicrec.asp?p=74830,APL039,http://www.sfc.hk/publicregWeb/indi/APL039/licenceRecord,37.0,M,Rep,2017-09-29,
+"Luk, Amy Ka Ping 陸嘉萍",None,sfclicrec.asp?p=114925,ALL503,http://www.sfc.hk/publicregWeb/indi/ALL503/licenceRecord,48.0,F,Rep,2015-11-16,
+"Ng, Wai Yip (SFC:APC004) 吳偉業",None,sfclicrec.asp?p=121759,APC004,http://www.sfc.hk/publicregWeb/indi/APC004/licenceRecord,,,Rep,2007-08-15,2010-09-28
+"Ng, Wai Yip (SFC:APC004) 吳偉業",None,sfclicrec.asp?p=121759,APC004,http://www.sfc.hk/publicregWeb/indi/APC004/licenceRecord,,,Rep,2011-01-18,2015-07-18
+"Stewardson, Jeremy Bellinger ",None,sfclicrec.asp?p=34788,ANG978,http://www.sfc.hk/publicregWeb/indi/ANG978/licenceRecord,68.0,M,RO,2006-04-28,2008-04-16
+"Wong, Ada Ka Ki 王家琦",None,sfclicrec.asp?p=75250,AOB389,http://www.sfc.hk/publicregWeb/indi/AOB389/licenceRecord,40.0,F,Rep,2014-07-18,2014-10-16
+"Wong, Ada Ka Ki 王家琦",None,sfclicrec.asp?p=75250,AOB389,http://www.sfc.hk/publicregWeb/indi/AOB389/licenceRecord,40.0,F,RO,2014-10-16,

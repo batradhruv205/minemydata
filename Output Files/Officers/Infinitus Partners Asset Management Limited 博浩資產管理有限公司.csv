@@ -1,18 +1,18 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au, Ka Ho Jeffrey 區家浩",sfclicrec.asp?p=13932108,,,Rep,2018-04-18,
-"Chan, Ryan Ka Wai 陳嘉維",sfclicrec.asp?p=22442668,,M,Rep,2018-11-16,2019-04-04
-"Chung, Miu Kuen 鍾妙娟",sfclicrec.asp?p=22945501,,,Rep,2019-03-25,
-"Hung, Shu Ying 洪淑瑛",sfclicrec.asp?p=22247738,,,Rep,2018-10-11,2019-03-20
-"Lau, Man Yuen 劉文元",sfclicrec.asp?p=104672,,,RO,2017-07-03,
-"Lo, Chi Wai (SFC:ARO380) 盧志威",sfclicrec.asp?p=68871,,,RO,2017-07-03,2019-06-30
-"Lok, Henry Chun Yu 樂震宇",sfclicrec.asp?p=134475,,M,Rep,2020-01-03,
-"Mo, Billy Yu Fung (SFC:BNS757) 毛宇峯",sfclicrec.asp?p=22815472,,,Rep,2019-02-25,2019-05-16
-"Mok, Ho Nam 莫灦楠",sfclicrec.asp?p=12641982,,,Rep,2019-07-26,2019-08-09
-"Siu, Wing Shan (SFC:BOO723) 蕭詠珊",sfclicrec.asp?p=24073673,,,Rep,2020-01-03,
-"Wong, Jeffrey Wai Quen ",sfclicrec.asp?p=23981084,,M,Rep,2019-12-03,
-"Wong, Ka Chun (SFC:AUU925) 黃嘉俊",sfclicrec.asp?p=81655,,,Rep,2018-11-16,2019-03-08
-"Wong, Kai Ho 黃啟豪",sfclicrec.asp?p=2227246,,,Rep,2018-07-11,2019-08-13
-"Wong, Pak Kan 王柏勤",sfclicrec.asp?p=83667,,,Rep,2018-02-21,2018-09-11
-"Xia, Bingyang 夏冰洋",sfclicrec.asp?p=24073674,,,Rep,2020-01-03,
-"Yeung, Chun Man (SFC:ANP664) 楊俊文",sfclicrec.asp?p=97842,,,Rep,2019-06-10,2019-06-14
-"Yeung, Chun Man (SFC:ANP664) 楊俊文",sfclicrec.asp?p=97842,,,RO,2019-06-14,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au, Ka Ho Jeffrey 區家浩",None,sfclicrec.asp?p=13932108,BMS462,http://www.sfc.hk/publicregWeb/indi/BMS462/licenceRecord,,,Rep,2018-04-18,
+"Chan, Ryan Ka Wai 陳嘉維",None,sfclicrec.asp?p=22442668,BNP831,http://www.sfc.hk/publicregWeb/indi/BNP831/licenceRecord,,M,Rep,2018-11-16,2019-04-04
+"Chung, Miu Kuen 鍾妙娟",None,sfclicrec.asp?p=22945501,BOC859,http://www.sfc.hk/publicregWeb/indi/BOC859/licenceRecord,,,Rep,2019-03-25,
+"Hung, Shu Ying 洪淑瑛",None,sfclicrec.asp?p=22247738,BIA120,http://www.sfc.hk/publicregWeb/indi/BIA120/licenceRecord,,,Rep,2018-10-11,2019-03-20
+"Lau, Man Yuen 劉文元",None,sfclicrec.asp?p=104672,AEE491,http://www.sfc.hk/publicregWeb/indi/AEE491/licenceRecord,,,RO,2017-07-03,
+"Lo, Chi Wai (SFC:ARO380) 盧志威",None,sfclicrec.asp?p=68871,ARO380,http://www.sfc.hk/publicregWeb/indi/ARO380/licenceRecord,,,RO,2017-07-03,2019-06-30
+"Lok, Henry Chun Yu 樂震宇",None,sfclicrec.asp?p=134475,AYJ802,http://www.sfc.hk/publicregWeb/indi/AYJ802/licenceRecord,,M,Rep,2020-01-03,
+"Mo, Billy Yu Fung (SFC:BNS757) 毛宇峯",None,sfclicrec.asp?p=22815472,BNS757,http://www.sfc.hk/publicregWeb/indi/BNS757/licenceRecord,,,Rep,2019-02-25,2019-05-16
+"Mok, Ho Nam 莫灦楠",None,sfclicrec.asp?p=12641982,BLK652,http://www.sfc.hk/publicregWeb/indi/BLK652/licenceRecord,,,Rep,2019-07-26,2019-08-09
+"Siu, Wing Shan (SFC:BOO723) 蕭詠珊",None,sfclicrec.asp?p=24073673,BOO723,http://www.sfc.hk/publicregWeb/indi/BOO723/licenceRecord,,,Rep,2020-01-03,
+"Wong, Jeffrey Wai Quen ",None,sfclicrec.asp?p=23981084,BPD952,http://www.sfc.hk/publicregWeb/indi/BPD952/licenceRecord,,M,Rep,2019-12-03,
+"Wong, Ka Chun (SFC:AUU925) 黃嘉俊",None,sfclicrec.asp?p=81655,AUU925,http://www.sfc.hk/publicregWeb/indi/AUU925/licenceRecord,,,Rep,2018-11-16,2019-03-08
+"Wong, Kai Ho 黃啟豪",None,sfclicrec.asp?p=2227246,BCY412,http://www.sfc.hk/publicregWeb/indi/BCY412/licenceRecord,,,Rep,2018-07-11,2019-08-13
+"Wong, Pak Kan 王柏勤",None,sfclicrec.asp?p=83667,AXK066,http://www.sfc.hk/publicregWeb/indi/AXK066/licenceRecord,,,Rep,2018-02-21,2018-09-11
+"Xia, Bingyang 夏冰洋",None,sfclicrec.asp?p=24073674,BOZ760,http://www.sfc.hk/publicregWeb/indi/BOZ760/licenceRecord,,,Rep,2020-01-03,
+"Yeung, Chun Man (SFC:ANP664) 楊俊文",None,sfclicrec.asp?p=97842,ANP664,http://www.sfc.hk/publicregWeb/indi/ANP664/licenceRecord,,,Rep,2019-06-10,2019-06-14
+"Yeung, Chun Man (SFC:ANP664) 楊俊文",None,sfclicrec.asp?p=97842,ANP664,http://www.sfc.hk/publicregWeb/indi/ANP664/licenceRecord,,,RO,2019-06-14,

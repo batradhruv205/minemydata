@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Kwong, Kai Hong 鄺啟康",sfclicrec.asp?p=73779,,,RO,2018-08-02,
-"Li, Andy Chi On 李志安",sfclicrec.asp?p=99674,,,Rep,2019-03-27,
-"Liem, Jasper Chung Wong 林宗煌",sfclicrec.asp?p=90242,,M,Rep,2019-09-20,2019-11-28
-"Liem, Jasper Chung Wong 林宗煌",sfclicrec.asp?p=90242,,M,RO,2019-11-28,
-"Luong, Vanessa 梁美雲",sfclicrec.asp?p=93174,,F,RO,2018-08-02,2019-07-31
-"Tsang, Mo Chi 曾慕芝",sfclicrec.asp?p=2412589,,,Rep,2019-03-21,
-"Wong, Sze Ip 王思燁",sfclicrec.asp?p=97357,,,RO,2018-08-02,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Kwong, Kai Hong 鄺啟康",None,sfclicrec.asp?p=73779,AAB666,http://www.sfc.hk/publicregWeb/indi/AAB666/licenceRecord,,,RO,8/2/2018,
+"Li, Andy Chi On 李志安",None,sfclicrec.asp?p=99674,ABH933,http://www.sfc.hk/publicregWeb/indi/ABH933/licenceRecord,,,Rep,3/27/2019,
+"Liem, Jasper Chung Wong 林宗煌",None,sfclicrec.asp?p=90242,APY809,http://www.sfc.hk/publicregWeb/indi/APY809/licenceRecord,,M,Rep,9/20/2019,11/28/2019
+"Liem, Jasper Chung Wong 林宗煌",None,sfclicrec.asp?p=90242,APY809,http://www.sfc.hk/publicregWeb/indi/APY809/licenceRecord,,M,RO,11/28/2019,
+"Luong, Vanessa 梁美雲",None,sfclicrec.asp?p=93174,AID285,http://www.sfc.hk/publicregWeb/indi/AID285/licenceRecord,,F,RO,8/2/2018,7/31/2019
+"Tsang, Mo Chi 曾慕芝",None,sfclicrec.asp?p=2412589,BFI060,http://www.sfc.hk/publicregWeb/indi/BFI060/licenceRecord,,,Rep,3/21/2019,
+"Wong, Sze Ip 王思燁",None,sfclicrec.asp?p=97357,AQU491,http://www.sfc.hk/publicregWeb/indi/AQU491/licenceRecord,,,RO,8/2/2018,

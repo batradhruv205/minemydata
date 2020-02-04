@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Kong, Chun On 江俊安",sfclicrec.asp?p=1919481,,,RO,2018-08-21,
-"Lee, Raymond Siu Kuen 李紹權",sfclicrec.asp?p=93513,,M,RO,2018-08-21,
-"Lee, Shiu Ki 李紹祺",sfclicrec.asp?p=71822,,,Rep,2018-11-16,2019-04-08
-"Lee, Shiu Ki 李紹祺",sfclicrec.asp?p=71822,,,RO,2019-04-08,2019-10-31
-"Tsang, Wai Man (SFC:BKQ306) 曾韋文",sfclicrec.asp?p=22635176,,,Rep,2019-01-11,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Kong, Chun On 江俊安",None,sfclicrec.asp?p=1919481,AZO335,http://www.sfc.hk/publicregWeb/indi/AZO335/licenceRecord,,,RO,2018-08-21,
+"Lee, Raymond Siu Kuen 李紹權",None,sfclicrec.asp?p=93513,ACK153,http://www.sfc.hk/publicregWeb/indi/ACK153/licenceRecord,,M,RO,2018-08-21,
+"Lee, Shiu Ki 李紹祺",None,sfclicrec.asp?p=71822,AWC496,http://www.sfc.hk/publicregWeb/indi/AWC496/licenceRecord,,,Rep,2018-11-16,2019-04-08
+"Lee, Shiu Ki 李紹祺",None,sfclicrec.asp?p=71822,AWC496,http://www.sfc.hk/publicregWeb/indi/AWC496/licenceRecord,,,RO,2019-04-08,2019-10-31
+"Tsang, Wai Man (SFC:BKQ306) 曾韋文",None,sfclicrec.asp?p=22635176,BKQ306,http://www.sfc.hk/publicregWeb/indi/BKQ306/licenceRecord,,,Rep,2019-01-11,

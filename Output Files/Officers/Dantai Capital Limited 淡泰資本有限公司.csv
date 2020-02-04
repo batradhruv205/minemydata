@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lam, Man Wai 林文偉",sfclicrec.asp?p=12045050,,,Rep,2017-09-11,2019-02-22
-"Wang, Yuan (SFC:BAD323) 汪源",sfclicrec.asp?p=1947503,,,RO,2017-04-07,
-"Wong, Ho Lam (SFC:BOB034) 黃皓霖",sfclicrec.asp?p=22836932,,,Rep,2019-02-28,
-"Xiang, Jisong 項吉松",sfclicrec.asp?p=94024,,,RO,2017-04-07,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lam, Man Wai 林文偉",None,sfclicrec.asp?p=12045050,BKM760,http://www.sfc.hk/publicregWeb/indi/BKM760/licenceRecord,,,Rep,2017-09-11,2019-02-22
+"Wang, Yuan (SFC:BAD323) 汪源",None,sfclicrec.asp?p=1947503,BAD323,http://www.sfc.hk/publicregWeb/indi/BAD323/licenceRecord,,,RO,2017-04-07,
+"Wong, Ho Lam (SFC:BOB034) 黃皓霖",None,sfclicrec.asp?p=22836932,BOB034,http://www.sfc.hk/publicregWeb/indi/BOB034/licenceRecord,,,Rep,2019-02-28,
+"Xiang, Jisong 項吉松",None,sfclicrec.asp?p=94024,ALP923,http://www.sfc.hk/publicregWeb/indi/ALP923/licenceRecord,,,RO,2017-04-07,

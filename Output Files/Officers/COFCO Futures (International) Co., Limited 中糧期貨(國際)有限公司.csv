@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Feng, Yuchen (SFC:BNG655) 馮雨宸",sfclicrec.asp?p=22524856,,,Rep,2018-12-07,
-"Lam, Sui Lung 林瑞龍",sfclicrec.asp?p=2567360,,,Rep,2019-02-08,
-"Leung, Wing (SFC:BOD839) 梁穎",sfclicrec.asp?p=22850516,,,Rep,2019-03-04,
-"Luk, Nga Cheong 陸雅昌",sfclicrec.asp?p=9931232,,,Rep,2019-02-19,
-"Poon, Ho Fung 潘浩鋒",sfclicrec.asp?p=12633215,,,Rep,2020-01-17,
-"Sun, Long 孫瓏",sfclicrec.asp?p=20280810,,,Rep,2018-12-18,
-"Tang, Dewen 唐德文",sfclicrec.asp?p=22575507,,,Rep,2018-12-21,2019-06-04
-"Tang, Dewen 唐德文",sfclicrec.asp?p=22575507,,,RO,2019-06-04,
-"Tsoi, San Kit 蔡新傑",sfclicrec.asp?p=2520854,,,Rep,2019-01-23,
-"Wong, Sammy Chun Ho 黃俊皓",sfclicrec.asp?p=73573,47,M,RO,2018-11-28,
-"Zang, Xiaojing 臧孝菁",sfclicrec.asp?p=23352463,,,Rep,2019-06-26,
-"Zhang, Minghua (SFC:ASP315) 張明華",sfclicrec.asp?p=2319950,,,RO,2018-11-28,2019-04-04
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Feng, Yuchen (SFC:BNG655) 馮雨宸",None,sfclicrec.asp?p=22524856,BNG655,http://www.sfc.hk/publicregWeb/indi/BNG655/licenceRecord,,,Rep,12/7/2018,
+"Lam, Sui Lung 林瑞龍",None,sfclicrec.asp?p=2567360,BHJ694,http://www.sfc.hk/publicregWeb/indi/BHJ694/licenceRecord,,,Rep,2/8/2019,
+"Leung, Wing (SFC:BOD839) 梁穎",None,sfclicrec.asp?p=22850516,BOD839,http://www.sfc.hk/publicregWeb/indi/BOD839/licenceRecord,,,Rep,3/4/2019,
+"Luk, Nga Cheong 陸雅昌",None,sfclicrec.asp?p=9931232,BJK529,http://www.sfc.hk/publicregWeb/indi/BJK529/licenceRecord,,,Rep,2/19/2019,
+"Poon, Ho Fung 潘浩鋒",None,sfclicrec.asp?p=12633215,BLM927,http://www.sfc.hk/publicregWeb/indi/BLM927/licenceRecord,,,Rep,1/17/2020,
+"Sun, Long 孫瓏",None,sfclicrec.asp?p=20280810,BNG448,http://www.sfc.hk/publicregWeb/indi/BNG448/licenceRecord,,,Rep,12/18/2018,
+"Tang, Dewen 唐德文",None,sfclicrec.asp?p=22575507,BNG653,http://www.sfc.hk/publicregWeb/indi/BNG653/licenceRecord,,,Rep,12/21/2018,6/4/2019
+"Tang, Dewen 唐德文",None,sfclicrec.asp?p=22575507,BNG653,http://www.sfc.hk/publicregWeb/indi/BNG653/licenceRecord,,,RO,6/4/2019,
+"Tsoi, San Kit 蔡新傑",None,sfclicrec.asp?p=2520854,BGT693,http://www.sfc.hk/publicregWeb/indi/BGT693/licenceRecord,,,Rep,1/23/2019,
+"Wong, Sammy Chun Ho 黃俊皓",None,sfclicrec.asp?p=73573,AKT152,http://www.sfc.hk/publicregWeb/indi/AKT152/licenceRecord,47.0,M,RO,11/28/2018,
+"Zang, Xiaojing 臧孝菁",None,sfclicrec.asp?p=23352463,BOM392,http://www.sfc.hk/publicregWeb/indi/BOM392/licenceRecord,,,Rep,6/26/2019,
+"Zhang, Minghua (SFC:ASP315) 張明華",None,sfclicrec.asp?p=2319950,ASP315,http://www.sfc.hk/publicregWeb/indi/ASP315/licenceRecord,,,RO,11/28/2018,4/4/2019

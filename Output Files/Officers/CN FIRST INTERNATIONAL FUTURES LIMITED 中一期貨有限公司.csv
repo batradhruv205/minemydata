@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Wa Sing 陳華星",sfclicrec.asp?p=23587748,,,Rep,2019-08-26,2019-09-30
-"Chu, Chun Wai 朱俊偉",sfclicrec.asp?p=93496,,,RO,2013-09-25,2015-09-09
-"Gu, Yu (SFC:BHF768) 谷宇",sfclicrec.asp?p=2564888,,,Rep,2016-04-19,2018-01-22
-"Lam, Man Kin 林文建",sfclicrec.asp?p=2513402,,,Rep,2015-12-14,
-"Li, Binqing 李彬卿",sfclicrec.asp?p=23810638,,,Rep,2019-10-21,
-"Tan, Yawei 譚雅薇",sfclicrec.asp?p=12107978,,,Rep,2018-02-01,2019-09-30
-"Tey, Thomas Eng Chee ",sfclicrec.asp?p=2137295,,M,RO,2013-09-25,
-"Tong, Kin Tung 湯建東",sfclicrec.asp?p=23401797,,,Rep,2019-07-09,
-"Wong, Chi Chun (SFC:ASM070) 黃矢進",sfclicrec.asp?p=89982,,,RO,2015-08-05,2019-11-20
-"Wong, Yuet Kwan 黃月君",sfclicrec.asp?p=2612877,,,Rep,2016-07-29,
-"Xi, Jiangman 席江漫",sfclicrec.asp?p=23853115,,,Rep,2019-10-31,
-"Yau, Wai Yi 丘慧怡",sfclicrec.asp?p=18108791,,,Rep,2018-06-29,
-"Zhang, Yumin (SFC:BFM942) 張玉敏",sfclicrec.asp?p=2445291,,,Rep,2015-07-07,2019-09-27
-"Zhang, Yumin (SFC:BFM942) 張玉敏",sfclicrec.asp?p=2445291,,,RO,2019-09-27,
-"Zhao, Fanyue 趙凡越",sfclicrec.asp?p=23853116,,,Rep,2019-10-31,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Wa Sing 陳華星",None,sfclicrec.asp?p=23587748,BOJ094,http://www.sfc.hk/publicregWeb/indi/BOJ094/licenceRecord,,,Rep,8/26/2019,9/30/2019
+"Chu, Chun Wai 朱俊偉",None,sfclicrec.asp?p=93496,ACA601,http://www.sfc.hk/publicregWeb/indi/ACA601/licenceRecord,,,RO,9/25/2013,9/9/2015
+"Gu, Yu (SFC:BHF768) 谷宇",None,sfclicrec.asp?p=2564888,BHF768,http://www.sfc.hk/publicregWeb/indi/BHF768/licenceRecord,,,Rep,4/19/2016,1/22/2018
+"Lam, Man Kin 林文建",None,sfclicrec.asp?p=2513402,BGO350,http://www.sfc.hk/publicregWeb/indi/BGO350/licenceRecord,,,Rep,12/14/2015,
+"Li, Binqing 李彬卿",None,sfclicrec.asp?p=23810638,BFT568,http://www.sfc.hk/publicregWeb/indi/BFT568/licenceRecord,,,Rep,10/21/2019,
+"Tan, Yawei 譚雅薇",None,sfclicrec.asp?p=12107978,BLD974,http://www.sfc.hk/publicregWeb/indi/BLD974/licenceRecord,,,Rep,2/1/2018,9/30/2019
+"Tey, Thomas Eng Chee ",None,sfclicrec.asp?p=2137295,ABN323,http://www.sfc.hk/publicregWeb/indi/ABN323/licenceRecord,,M,RO,9/25/2013,
+"Tong, Kin Tung 湯建東",None,sfclicrec.asp?p=23401797,BKC447,http://www.sfc.hk/publicregWeb/indi/BKC447/licenceRecord,,,Rep,7/9/2019,
+"Wong, Chi Chun (SFC:ASM070) 黃矢進",None,sfclicrec.asp?p=89982,ASM070,http://www.sfc.hk/publicregWeb/indi/ASM070/licenceRecord,,,RO,8/5/2015,11/20/2019
+"Wong, Yuet Kwan 黃月君",None,sfclicrec.asp?p=2612877,BHS581,http://www.sfc.hk/publicregWeb/indi/BHS581/licenceRecord,,,Rep,7/29/2016,
+"Xi, Jiangman 席江漫",None,sfclicrec.asp?p=23853115,BOU469,http://www.sfc.hk/publicregWeb/indi/BOU469/licenceRecord,,,Rep,10/31/2019,
+"Yau, Wai Yi 丘慧怡",None,sfclicrec.asp?p=18108791,BNA769,http://www.sfc.hk/publicregWeb/indi/BNA769/licenceRecord,,,Rep,6/29/2018,
+"Zhang, Yumin (SFC:BFM942) 張玉敏",None,sfclicrec.asp?p=2445291,BFM942,http://www.sfc.hk/publicregWeb/indi/BFM942/licenceRecord,,,Rep,7/7/2015,9/27/2019
+"Zhang, Yumin (SFC:BFM942) 張玉敏",None,sfclicrec.asp?p=2445291,BFM942,http://www.sfc.hk/publicregWeb/indi/BFM942/licenceRecord,,,RO,9/27/2019,
+"Zhao, Fanyue 趙凡越",None,sfclicrec.asp?p=23853116,BOU464,http://www.sfc.hk/publicregWeb/indi/BOU464/licenceRecord,,,Rep,10/31/2019,

@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bouzenad, Antoine Merwan ",sfclicrec.asp?p=22537696,,M,Rep,2018-12-11,
-"Casin, Alexandre Mathieu Valdemar ",sfclicrec.asp?p=2646035,,M,RO,2018-05-04,
-"Gervis, Matthieu Olivier ",sfclicrec.asp?p=11779133,,M,RO,2017-07-19,2018-10-31
-"Jiang, Bo (SFC:BJE767) 姜博",sfclicrec.asp?p=11796662,,,Rep,2017-09-06,
-"Lu, Yang (SFC:BJE764) 盧楊",sfclicrec.asp?p=11779134,,,RO,2017-07-19,
-"Zeng, Xin (SFC:BMZ563) ",sfclicrec.asp?p=19641897,,,Rep,2018-07-13,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bouzenad, Antoine Merwan ",None,sfclicrec.asp?p=22537696,BNX453,http://www.sfc.hk/publicregWeb/indi/BNX453/licenceRecord,,M,Rep,2018-12-11,
+"Casin, Alexandre Mathieu Valdemar ",None,sfclicrec.asp?p=2646035,BIJ652,http://www.sfc.hk/publicregWeb/indi/BIJ652/licenceRecord,,M,RO,2018-05-04,
+"Gervis, Matthieu Olivier ",None,sfclicrec.asp?p=11779133,BJE765,http://www.sfc.hk/publicregWeb/indi/BJE765/licenceRecord,,M,RO,2017-07-19,2018-10-31
+"Jiang, Bo (SFC:BJE767) 姜博",None,sfclicrec.asp?p=11796662,BJE767,http://www.sfc.hk/publicregWeb/indi/BJE767/licenceRecord,,,Rep,2017-09-06,
+"Lu, Yang (SFC:BJE764) 盧楊",None,sfclicrec.asp?p=11779134,BJE764,http://www.sfc.hk/publicregWeb/indi/BJE764/licenceRecord,,,RO,2017-07-19,
+"Zeng, Xin (SFC:BMZ563) ",None,sfclicrec.asp?p=19641897,BMZ563,http://www.sfc.hk/publicregWeb/indi/BMZ563/licenceRecord,,,Rep,2018-07-13,

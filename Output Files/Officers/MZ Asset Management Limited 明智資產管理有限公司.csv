@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chua, Hwai Hwee 蔡懷輝",sfclicrec.asp?p=2399800,,,Rep,2015-03-30,2018-07-05
-"Chua, Hwai Hwee 蔡懷輝",sfclicrec.asp?p=2399800,,,RO,2018-07-05,
-"Lee, Christophe Kin Ping 李建平",sfclicrec.asp?p=39581,51,M,RO,2015-07-06,2018-07-31
-"Nee, Mary Yuet So 嚴月素",sfclicrec.asp?p=12987,59,F,RO,2014-11-25,2015-07-31
-"Shiung, Eric Hsin-Yi 熊信貽",sfclicrec.asp?p=108607,,M,RO,2014-11-25,
-"Tan, Johny ",sfclicrec.asp?p=130737,,,Rep,2019-10-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chua, Hwai Hwee 蔡懷輝",None,sfclicrec.asp?p=2399800,AFO092,http://www.sfc.hk/publicregWeb/indi/AFO092/licenceRecord,,,Rep,2015-03-30,2018-07-05
+"Chua, Hwai Hwee 蔡懷輝",None,sfclicrec.asp?p=2399800,AFO092,http://www.sfc.hk/publicregWeb/indi/AFO092/licenceRecord,,,RO,2018-07-05,
+"Lee, Christophe Kin Ping 李建平",None,sfclicrec.asp?p=39581,ADV609,http://www.sfc.hk/publicregWeb/indi/ADV609/licenceRecord,51.0,M,RO,2015-07-06,2018-07-31
+"Nee, Mary Yuet So 嚴月素",None,sfclicrec.asp?p=12987,ABF513,http://www.sfc.hk/publicregWeb/indi/ABF513/licenceRecord,59.0,F,RO,2014-11-25,2015-07-31
+"Shiung, Eric Hsin-Yi 熊信貽",None,sfclicrec.asp?p=108607,AGD983,http://www.sfc.hk/publicregWeb/indi/AGD983/licenceRecord,,M,RO,2014-11-25,
+"Tan, Johny ",None,sfclicrec.asp?p=130737,AWP899,http://www.sfc.hk/publicregWeb/indi/AWP899/licenceRecord,,,Rep,2019-10-24,

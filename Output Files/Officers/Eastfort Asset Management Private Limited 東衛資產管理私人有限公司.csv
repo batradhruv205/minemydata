@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Guo, Jennifer Yi 郭奕",sfclicrec.asp?p=2486219,,F,Rep,2015-10-14,2019-09-28
-"Li, Tangfei 李唐飛",sfclicrec.asp?p=13958211,,,Rep,2019-11-22,
-"Lim, Harvey Man Chuen 林文駿",sfclicrec.asp?p=129112,,M,Rep,2015-10-14,
-"Lu, Wan Li 陸萬里",sfclicrec.asp?p=129930,,,Rep,2019-05-08,
-"Lubinski, Ross Allan ",sfclicrec.asp?p=2486220,,M,Rep,2015-10-14,2018-10-12
-"Lubinski, Ross Allan ",sfclicrec.asp?p=2486220,,M,RO,2018-10-12,
-"Ng, Chin Hang Edmund 伍展恆",sfclicrec.asp?p=2455331,,,RO,2015-07-29,
-"Shen, Xiayu 沈夏瑜",sfclicrec.asp?p=2686362,,,Rep,2017-01-13,2019-04-26
-"Tan, Yong Sheng 陳永胜",sfclicrec.asp?p=1907396,,,RO,2015-07-29,2018-10-15
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Guo, Jennifer Yi 郭奕",None,sfclicrec.asp?p=2486219,BGG501,http://www.sfc.hk/publicregWeb/indi/BGG501/licenceRecord,,F,Rep,2015-10-14,2019-09-28
+"Li, Tangfei 李唐飛",None,sfclicrec.asp?p=13958211,BMT494,http://www.sfc.hk/publicregWeb/indi/BMT494/licenceRecord,,,Rep,2019-11-22,
+"Lim, Harvey Man Chuen 林文駿",None,sfclicrec.asp?p=129112,AUJ979,http://www.sfc.hk/publicregWeb/indi/AUJ979/licenceRecord,,M,Rep,2015-10-14,
+"Lu, Wan Li 陸萬里",None,sfclicrec.asp?p=129930,AVJ696,http://www.sfc.hk/publicregWeb/indi/AVJ696/licenceRecord,,,Rep,2019-05-08,
+"Lubinski, Ross Allan ",None,sfclicrec.asp?p=2486220,BGG505,http://www.sfc.hk/publicregWeb/indi/BGG505/licenceRecord,,M,Rep,2015-10-14,2018-10-12
+"Lubinski, Ross Allan ",None,sfclicrec.asp?p=2486220,BGG505,http://www.sfc.hk/publicregWeb/indi/BGG505/licenceRecord,,M,RO,2018-10-12,
+"Ng, Chin Hang Edmund 伍展恆",None,sfclicrec.asp?p=2455331,ALY314,http://www.sfc.hk/publicregWeb/indi/ALY314/licenceRecord,,,RO,2015-07-29,
+"Shen, Xiayu 沈夏瑜",None,sfclicrec.asp?p=2686362,BIT656,http://www.sfc.hk/publicregWeb/indi/BIT656/licenceRecord,,,Rep,2017-01-13,2019-04-26
+"Tan, Yong Sheng 陳永胜",None,sfclicrec.asp?p=1907396,AZQ504,http://www.sfc.hk/publicregWeb/indi/AZQ504/licenceRecord,,,RO,2015-07-29,2018-10-15

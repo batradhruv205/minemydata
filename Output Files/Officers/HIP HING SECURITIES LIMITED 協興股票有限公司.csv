@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Fong, Fu Wah (SFC:AAH315) 方富華",sfclicrec.asp?p=101278,,,RO,,
-"Lau, Kan Sang 劉根生",sfclicrec.asp?p=101281,,,Rep,,
-"Szeto, King Choy 司徒景才",sfclicrec.asp?p=102160,,,Rep,,
-"Wong, Wing Sum (SFC:AAH322) 黃榮森",sfclicrec.asp?p=101282,,,RO,,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Fong, Fu Wah (SFC:AAH315) 方富華",None,sfclicrec.asp?p=101278,AAH315,http://www.sfc.hk/publicregWeb/indi/AAH315/licenceRecord,,,RO,,
+"Lau, Kan Sang 劉根生",None,sfclicrec.asp?p=101281,AAH321,http://www.sfc.hk/publicregWeb/indi/AAH321/licenceRecord,,,Rep,,
+"Szeto, King Choy 司徒景才",None,sfclicrec.asp?p=102160,ABN630,http://www.sfc.hk/publicregWeb/indi/ABN630/licenceRecord,,,Rep,,
+"Wong, Wing Sum (SFC:AAH322) 黃榮森",None,sfclicrec.asp?p=101282,AAH322,http://www.sfc.hk/publicregWeb/indi/AAH322/licenceRecord,,,RO,,

@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chung, Hiu Mei 鍾曉薇",sfclicrec.asp?p=2461812,,,Rep,2017-02-27,2018-03-15
-"Diu, Chin Fai 刁展輝",sfclicrec.asp?p=17732,,,RO,2014-03-18,2017-06-13
-"Fung, Raymond Kwok Hung 馮國洪",sfclicrec.asp?p=16566,63,M,RO,2017-02-16,
-"Lee, Nancy Shuk Ying 李淑英",sfclicrec.asp?p=101412,,F,RO,2014-03-18,2014-08-15
-"Tam, Howard King Ho 譚景豪",sfclicrec.asp?p=35092,57,M,RO,2014-03-18,2017-01-22
-"Wong, Kai Ho 黃啟豪",sfclicrec.asp?p=2227246,,,Rep,2015-09-23,2016-12-31
-"Yan, King Tang 甄景騰",sfclicrec.asp?p=102640,,,RO,2017-06-22,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chung, Hiu Mei 鍾曉薇",None,sfclicrec.asp?p=2461812,BGA487,http://www.sfc.hk/publicregWeb/indi/BGA487/licenceRecord,,,Rep,2017-02-27,2018-03-15
+"Diu, Chin Fai 刁展輝",None,sfclicrec.asp?p=17732,ACU910,http://www.sfc.hk/publicregWeb/indi/ACU910/licenceRecord,,,RO,2014-03-18,2017-06-13
+"Fung, Raymond Kwok Hung 馮國洪",None,sfclicrec.asp?p=16566,ADT227,http://www.sfc.hk/publicregWeb/indi/ADT227/licenceRecord,63.0,M,RO,2017-02-16,
+"Lee, Nancy Shuk Ying 李淑英",None,sfclicrec.asp?p=101412,AAI586,http://www.sfc.hk/publicregWeb/indi/AAI586/licenceRecord,,F,RO,2014-03-18,2014-08-15
+"Tam, Howard King Ho 譚景豪",None,sfclicrec.asp?p=35092,AFN346,http://www.sfc.hk/publicregWeb/indi/AFN346/licenceRecord,57.0,M,RO,2014-03-18,2017-01-22
+"Wong, Kai Ho 黃啟豪",None,sfclicrec.asp?p=2227246,BCY412,http://www.sfc.hk/publicregWeb/indi/BCY412/licenceRecord,,,Rep,2015-09-23,2016-12-31
+"Yan, King Tang 甄景騰",None,sfclicrec.asp?p=102640,ACD374,http://www.sfc.hk/publicregWeb/indi/ACD374/licenceRecord,,,RO,2017-06-22,

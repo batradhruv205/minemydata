@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Tsui Ling 陳翠玲",sfclicrec.asp?p=2665578,,,Rep,2016-11-29,2017-02-27
-"Chen, Ronghua (SFC:BBD166) 陳蓉華",sfclicrec.asp?p=2093072,,,RO,2016-08-05,2017-04-13
-"Cheung, Hung Fat 張洪發",sfclicrec.asp?p=87488,,,Rep,2017-05-19,2017-08-01
-"Cheung, Hung Fat 張洪發",sfclicrec.asp?p=87488,,,RO,2017-08-01,2019-05-08
-"Cheung, Hung Fat 張洪發",sfclicrec.asp?p=87488,,,RO,2019-12-23,
-"Du, Jun Yuan ",sfclicrec.asp?p=2616377,,,RO,2016-08-05,2016-12-02
-"Lai, Chun Kit (SFC:BGH428) 黎俊傑",sfclicrec.asp?p=2483853,,,Rep,2016-11-29,2017-01-10
-"Lan, Shunxiang 蘭順祥",sfclicrec.asp?p=119496,,,RO,2019-04-29,
-"Shiu, Ming Fai 邵銘輝",sfclicrec.asp?p=24041158,,,Rep,2019-12-20,
-"Yeung, Chi Hong 楊智匡",sfclicrec.asp?p=2665579,,,Rep,2016-11-29,2017-01-10
-"Zheng, Weiwei 鄭偉偉",sfclicrec.asp?p=125826,,,RO,2016-08-05,2019-12-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Tsui Ling 陳翠玲",None,sfclicrec.asp?p=2665578,BIQ870,http://www.sfc.hk/publicregWeb/indi/BIQ870/licenceRecord,,,Rep,2016-11-29,2017-02-27
+"Chen, Ronghua (SFC:BBD166) 陳蓉華",None,sfclicrec.asp?p=2093072,BBD166,http://www.sfc.hk/publicregWeb/indi/BBD166/licenceRecord,,,RO,2016-08-05,2017-04-13
+"Cheung, Hung Fat 張洪發",None,sfclicrec.asp?p=87488,AAA157,http://www.sfc.hk/publicregWeb/indi/AAA157/licenceRecord,,,Rep,2017-05-19,2017-08-01
+"Cheung, Hung Fat 張洪發",None,sfclicrec.asp?p=87488,AAA157,http://www.sfc.hk/publicregWeb/indi/AAA157/licenceRecord,,,RO,2017-08-01,2019-05-08
+"Cheung, Hung Fat 張洪發",None,sfclicrec.asp?p=87488,AAA157,http://www.sfc.hk/publicregWeb/indi/AAA157/licenceRecord,,,RO,2019-12-23,
+"Du, Jun Yuan ",None,sfclicrec.asp?p=2616377,BHF784,http://www.sfc.hk/publicregWeb/indi/BHF784/licenceRecord,,,RO,2016-08-05,2016-12-02
+"Lai, Chun Kit (SFC:BGH428) 黎俊傑",None,sfclicrec.asp?p=2483853,BGH428,http://www.sfc.hk/publicregWeb/indi/BGH428/licenceRecord,,,Rep,2016-11-29,2017-01-10
+"Lan, Shunxiang 蘭順祥",None,sfclicrec.asp?p=119496,ANW227,http://www.sfc.hk/publicregWeb/indi/ANW227/licenceRecord,,,RO,2019-04-29,
+"Shiu, Ming Fai 邵銘輝",None,sfclicrec.asp?p=24041158,BPE945,http://www.sfc.hk/publicregWeb/indi/BPE945/licenceRecord,,,Rep,2019-12-20,
+"Yeung, Chi Hong 楊智匡",None,sfclicrec.asp?p=2665579,BIQ873,http://www.sfc.hk/publicregWeb/indi/BIQ873/licenceRecord,,,Rep,2016-11-29,2017-01-10
+"Zheng, Weiwei 鄭偉偉",None,sfclicrec.asp?p=125826,ARG416,http://www.sfc.hk/publicregWeb/indi/ARG416/licenceRecord,,,RO,2016-08-05,2019-12-31

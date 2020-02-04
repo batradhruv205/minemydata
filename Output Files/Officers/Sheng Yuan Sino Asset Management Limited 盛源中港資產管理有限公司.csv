@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Wan Shan 鄭允珊",sfclicrec.asp?p=1948180,,,RO,2018-05-25,
-"Dias, Richard Percival 戴禮徹",sfclicrec.asp?p=102949,,M,RO,2005-09-09,2017-08-24
-"Ramsay, James Thomas ",sfclicrec.asp?p=129711,,M,Rep,2010-05-31,2015-12-01
-"Ramsay, James Thomas ",sfclicrec.asp?p=129711,,M,RO,2015-12-01,2016-02-04
-"Saxena, Puru 薛普魯",sfclicrec.asp?p=105553,,,RO,2005-09-09,2017-08-24
-"Tan, Wentao 談文濤",sfclicrec.asp?p=135457,,,Rep,2019-04-03,2019-04-30
-"Wong, Karstan Ka Kim 黃家儉",sfclicrec.asp?p=119671,,,Rep,2006-11-09,2010-11-10
-"Yen, John Jong Ling 嚴中伶",sfclicrec.asp?p=46941,59,M,RO,2018-05-25,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Wan Shan 鄭允珊",None,sfclicrec.asp?p=1948180,BAA226,http://www.sfc.hk/publicregWeb/indi/BAA226/licenceRecord,,,RO,2018-05-25,
+"Dias, Richard Percival 戴禮徹",None,sfclicrec.asp?p=102949,ACL254,http://www.sfc.hk/publicregWeb/indi/ACL254/licenceRecord,,M,RO,2005-09-09,2017-08-24
+"Ramsay, James Thomas ",None,sfclicrec.asp?p=129711,AVD143,http://www.sfc.hk/publicregWeb/indi/AVD143/licenceRecord,,M,Rep,2010-05-31,2015-12-01
+"Ramsay, James Thomas ",None,sfclicrec.asp?p=129711,AVD143,http://www.sfc.hk/publicregWeb/indi/AVD143/licenceRecord,,M,RO,2015-12-01,2016-02-04
+"Saxena, Puru 薛普魯",None,sfclicrec.asp?p=105553,AEX198,http://www.sfc.hk/publicregWeb/indi/AEX198/licenceRecord,,,RO,2005-09-09,2017-08-24
+"Tan, Wentao 談文濤",None,sfclicrec.asp?p=135457,AXS425,http://www.sfc.hk/publicregWeb/indi/AXS425/licenceRecord,,,Rep,2019-04-03,2019-04-30
+"Wong, Karstan Ka Kim 黃家儉",None,sfclicrec.asp?p=119671,ANY402,http://www.sfc.hk/publicregWeb/indi/ANY402/licenceRecord,,,Rep,2006-11-09,2010-11-10
+"Yen, John Jong Ling 嚴中伶",None,sfclicrec.asp?p=46941,ADJ570,http://www.sfc.hk/publicregWeb/indi/ADJ570/licenceRecord,59.0,M,RO,2018-05-25,

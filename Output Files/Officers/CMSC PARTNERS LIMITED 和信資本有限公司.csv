@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Sze Man (SFC:BMX684) 鄭詩敏",sfclicrec.asp?p=23810637,,,Rep,2019-10-21,
-"Macdougall, Brian Alexander ",sfclicrec.asp?p=100164,,M,RO,2018-08-03,
-"Ragusa, Francis Anthony 羅峰",sfclicrec.asp?p=106244,,M,Rep,2019-10-02,
-"Sun, Jenny Kin Nam 孫健嵐",sfclicrec.asp?p=110891,,F,RO,2019-04-11,
-"Tan, Vera Zi Lin 陳姿霖",sfclicrec.asp?p=95656,,F,RO,2018-08-03,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Sze Man (SFC:BMX684) 鄭詩敏",None,sfclicrec.asp?p=23810637,BMX684,http://www.sfc.hk/publicregWeb/indi/BMX684/licenceRecord,,,Rep,10/21/2019,
+"Macdougall, Brian Alexander ",None,sfclicrec.asp?p=100164,AHA824,http://www.sfc.hk/publicregWeb/indi/AHA824/licenceRecord,,M,RO,8/3/2018,
+"Ragusa, Francis Anthony 羅峰",None,sfclicrec.asp?p=106244,AFJ912,http://www.sfc.hk/publicregWeb/indi/AFJ912/licenceRecord,,M,Rep,10/2/2019,
+"Sun, Jenny Kin Nam 孫健嵐",None,sfclicrec.asp?p=110891,AGZ149,http://www.sfc.hk/publicregWeb/indi/AGZ149/licenceRecord,,F,RO,4/11/2019,
+"Tan, Vera Zi Lin 陳姿霖",None,sfclicrec.asp?p=95656,ANH747,http://www.sfc.hk/publicregWeb/indi/ANH747/licenceRecord,,F,RO,8/3/2018,

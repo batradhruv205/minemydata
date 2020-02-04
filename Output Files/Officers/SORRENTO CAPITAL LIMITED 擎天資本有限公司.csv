@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chung, Ho Tung 鍾浩東",sfclicrec.asp?p=45789,46,M,RO,2019-06-26,
-"Lin, Hsiu Mei 林秀梅",sfclicrec.asp?p=81623,,,RO,2016-03-21,2018-06-08
-"Mok, Wah Kit 莫鏵傑",sfclicrec.asp?p=12691501,,,Rep,2019-08-22,
-"Poon, Cheuk Fai 潘卓輝",sfclicrec.asp?p=91373,,,RO,2019-07-05,
-"Wan, Kwong Ming 溫光明",sfclicrec.asp?p=2153474,,,Rep,2019-07-09,
-"Wong, Hiu Yeung 黃曉陽",sfclicrec.asp?p=1963419,,,RO,2016-03-21,
-"Wong, Kwok Ping (SFC:BHW629) 黃國平",sfclicrec.asp?p=2610525,,,Rep,2016-07-25,2018-03-09
-"Wong, Phoebe Tsz Ying 王芷瑩",sfclicrec.asp?p=2699225,,F,Rep,2017-02-23,
-"Yuen, Pui Kei 袁佩淇",sfclicrec.asp?p=2666164,,,Rep,2016-11-30,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chung, Ho Tung 鍾浩東",None,sfclicrec.asp?p=45789,AGC693,http://www.sfc.hk/publicregWeb/indi/AGC693/licenceRecord,46.0,M,RO,2019-06-26,
+"Lin, Hsiu Mei 林秀梅",None,sfclicrec.asp?p=81623,AFQ674,http://www.sfc.hk/publicregWeb/indi/AFQ674/licenceRecord,,,RO,2016-03-21,2018-06-08
+"Mok, Wah Kit 莫鏵傑",None,sfclicrec.asp?p=12691501,BLV150,http://www.sfc.hk/publicregWeb/indi/BLV150/licenceRecord,,,Rep,2019-08-22,
+"Poon, Cheuk Fai 潘卓輝",None,sfclicrec.asp?p=91373,ALV009,http://www.sfc.hk/publicregWeb/indi/ALV009/licenceRecord,,,RO,2019-07-05,
+"Wan, Kwong Ming 溫光明",None,sfclicrec.asp?p=2153474,BCD636,http://www.sfc.hk/publicregWeb/indi/BCD636/licenceRecord,,,Rep,2019-07-09,
+"Wong, Hiu Yeung 黃曉陽",None,sfclicrec.asp?p=1963419,BAH384,http://www.sfc.hk/publicregWeb/indi/BAH384/licenceRecord,,,RO,2016-03-21,
+"Wong, Kwok Ping (SFC:BHW629) 黃國平",None,sfclicrec.asp?p=2610525,BHW629,http://www.sfc.hk/publicregWeb/indi/BHW629/licenceRecord,,,Rep,2016-07-25,2018-03-09
+"Wong, Phoebe Tsz Ying 王芷瑩",None,sfclicrec.asp?p=2699225,BJC370,http://www.sfc.hk/publicregWeb/indi/BJC370/licenceRecord,,F,Rep,2017-02-23,
+"Yuen, Pui Kei 袁佩淇",None,sfclicrec.asp?p=2666164,BIR019,http://www.sfc.hk/publicregWeb/indi/BIR019/licenceRecord,,,Rep,2016-11-30,

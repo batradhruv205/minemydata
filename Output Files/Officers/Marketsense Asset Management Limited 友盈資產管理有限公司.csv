@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Yiu Kwong (SFC:AED596) 陳耀光",sfclicrec.asp?p=83630,,,Rep,2019-09-24,
-"Ho, Tin Shing 何天成",sfclicrec.asp?p=91446,,,Rep,2019-08-01,2019-09-02
-"Ho, Tin Shing 何天成",sfclicrec.asp?p=91446,,,RO,2019-09-02,
-"Tse, Kwun Ho 謝冠豪",sfclicrec.asp?p=1913755,,,RO,2017-11-03,2019-08-31
-"Xiong, Danrui 熊丹睿",sfclicrec.asp?p=16701055,,,Rep,2018-06-05,
-"Yau, Chuen Lok 丘傳樂",sfclicrec.asp?p=77705,,,RO,2017-11-03,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Yiu Kwong (SFC:AED596) 陳耀光",None,sfclicrec.asp?p=83630,AED596,http://www.sfc.hk/publicregWeb/indi/AED596/licenceRecord,,,Rep,2019-09-24,
+"Ho, Tin Shing 何天成",None,sfclicrec.asp?p=91446,AQW224,http://www.sfc.hk/publicregWeb/indi/AQW224/licenceRecord,,,Rep,2019-08-01,2019-09-02
+"Ho, Tin Shing 何天成",None,sfclicrec.asp?p=91446,AQW224,http://www.sfc.hk/publicregWeb/indi/AQW224/licenceRecord,,,RO,2019-09-02,
+"Tse, Kwun Ho 謝冠豪",None,sfclicrec.asp?p=1913755,AZP279,http://www.sfc.hk/publicregWeb/indi/AZP279/licenceRecord,,,RO,2017-11-03,2019-08-31
+"Xiong, Danrui 熊丹睿",None,sfclicrec.asp?p=16701055,BMV931,http://www.sfc.hk/publicregWeb/indi/BMV931/licenceRecord,,,Rep,2018-06-05,
+"Yau, Chuen Lok 丘傳樂",None,sfclicrec.asp?p=77705,AOH902,http://www.sfc.hk/publicregWeb/indi/AOH902/licenceRecord,,,RO,2017-11-03,

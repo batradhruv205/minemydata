@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chang, Yuan 常遠",sfclicrec.asp?p=77217,,,Rep,2018-08-31,2018-09-17
-"Chang, Yuan 常遠",sfclicrec.asp?p=77217,,,RO,2018-09-17,2019-05-31
-"Chin, Eric Hin Lik 陳顯歷",sfclicrec.asp?p=132571,,M,RO,2017-11-01,2018-07-06
-"Guo, Chenkai 郭晨凱",sfclicrec.asp?p=17128788,,,Rep,2018-06-11,2018-11-19
-"Guo, Chenkai 郭晨凱",sfclicrec.asp?p=17128788,,,RO,2018-11-19,
-"Luk, Sai Cheong 陸世昌",sfclicrec.asp?p=71606,,,Rep,2018-07-03,2018-07-13
-"Luk, Sai Cheong 陸世昌",sfclicrec.asp?p=71606,,,RO,2018-07-13,2019-08-08
-"Ng, Wai Kit (SFC:AVT524) 吳偉傑",sfclicrec.asp?p=82290,,,RO,2019-07-11,
-"So, Pak Ming 蘇柏鳴",sfclicrec.asp?p=94962,,,RO,2017-11-01,
-"Tsoi, Ting Mun 蔡庭滿",sfclicrec.asp?p=73909,,,Rep,2019-09-25,2019-11-22
-"Tsoi, Ting Mun 蔡庭滿",sfclicrec.asp?p=73909,,,RO,2019-11-22,
-"Yeung, Eddy Wai Kit 楊偉傑",sfclicrec.asp?p=132281,,M,RO,2017-11-01,2017-11-13
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chang, Yuan 常遠",None,sfclicrec.asp?p=77217,AST179,http://www.sfc.hk/publicregWeb/indi/AST179/licenceRecord,,,Rep,2018-08-31,2018-09-17
+"Chang, Yuan 常遠",None,sfclicrec.asp?p=77217,AST179,http://www.sfc.hk/publicregWeb/indi/AST179/licenceRecord,,,RO,2018-09-17,2019-05-31
+"Chin, Eric Hin Lik 陳顯歷",None,sfclicrec.asp?p=132571,AYE644,http://www.sfc.hk/publicregWeb/indi/AYE644/licenceRecord,,M,RO,2017-11-01,2018-07-06
+"Guo, Chenkai 郭晨凱",None,sfclicrec.asp?p=17128788,BMA814,http://www.sfc.hk/publicregWeb/indi/BMA814/licenceRecord,,,Rep,2018-06-11,2018-11-19
+"Guo, Chenkai 郭晨凱",None,sfclicrec.asp?p=17128788,BMA814,http://www.sfc.hk/publicregWeb/indi/BMA814/licenceRecord,,,RO,2018-11-19,
+"Luk, Sai Cheong 陸世昌",None,sfclicrec.asp?p=71606,AHX269,http://www.sfc.hk/publicregWeb/indi/AHX269/licenceRecord,,,Rep,2018-07-03,2018-07-13
+"Luk, Sai Cheong 陸世昌",None,sfclicrec.asp?p=71606,AHX269,http://www.sfc.hk/publicregWeb/indi/AHX269/licenceRecord,,,RO,2018-07-13,2019-08-08
+"Ng, Wai Kit (SFC:AVT524) 吳偉傑",None,sfclicrec.asp?p=82290,AVT524,http://www.sfc.hk/publicregWeb/indi/AVT524/licenceRecord,,,RO,2019-07-11,
+"So, Pak Ming 蘇柏鳴",None,sfclicrec.asp?p=94962,AJG658,http://www.sfc.hk/publicregWeb/indi/AJG658/licenceRecord,,,RO,2017-11-01,
+"Tsoi, Ting Mun 蔡庭滿",None,sfclicrec.asp?p=73909,AUV894,http://www.sfc.hk/publicregWeb/indi/AUV894/licenceRecord,,,Rep,2019-09-25,2019-11-22
+"Tsoi, Ting Mun 蔡庭滿",None,sfclicrec.asp?p=73909,AUV894,http://www.sfc.hk/publicregWeb/indi/AUV894/licenceRecord,,,RO,2019-11-22,
+"Yeung, Eddy Wai Kit 楊偉傑",None,sfclicrec.asp?p=132281,AXJ838,http://www.sfc.hk/publicregWeb/indi/AXJ838/licenceRecord,,M,RO,2017-11-01,2017-11-13

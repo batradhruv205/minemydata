@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chao, Cecil Sze Tsung 趙世曾",sfclicrec.asp?p=1472,84,M,RO,2005-03-31,
-"Chao, Howard 趙式浩",sfclicrec.asp?p=37124,37,M,Rep,2007-11-27,2018-11-05
-"Fong, Chi Hing 方志興",sfclicrec.asp?p=103738,,,RO,2005-03-31,
-"Ho, Connie Sau Fun 何秀芬",sfclicrec.asp?p=1477,53,F,Rep,2005-03-31,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chao, Cecil Sze Tsung 趙世曾",None,sfclicrec.asp?p=1472,AAC702,http://www.sfc.hk/publicregWeb/indi/AAC702/licenceRecord,84.0,M,RO,2005-03-31,
+"Chao, Howard 趙式浩",None,sfclicrec.asp?p=37124,AOH895,http://www.sfc.hk/publicregWeb/indi/AOH895/licenceRecord,37.0,M,Rep,2007-11-27,2018-11-05
+"Fong, Chi Hing 方志興",None,sfclicrec.asp?p=103738,ADH458,http://www.sfc.hk/publicregWeb/indi/ADH458/licenceRecord,,,RO,2005-03-31,
+"Ho, Connie Sau Fun 何秀芬",None,sfclicrec.asp?p=1477,ADV420,http://www.sfc.hk/publicregWeb/indi/ADV420/licenceRecord,53.0,F,Rep,2005-03-31,

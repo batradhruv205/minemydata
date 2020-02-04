@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Cheuk Pan Ambrose 鄭卓彬",sfclicrec.asp?p=2606003,,,Rep,2018-05-21,
-"Diao, Yang (SFC:AFT479) 刁揚",sfclicrec.asp?p=107582,,,RO,2016-09-01,2017-03-31
-"Diao, Yang (SFC:AFT479) 刁揚",sfclicrec.asp?p=107582,,,Rep,2017-03-31,2018-11-09
-"Hao, Andrew 郝立本",sfclicrec.asp?p=123899,,M,Rep,2017-09-26,2017-11-15
-"Hao, Andrew 郝立本",sfclicrec.asp?p=123899,,M,RO,2017-11-15,
-"He, Eda Yee Yee 賀依依",sfclicrec.asp?p=1958042,,,Rep,2016-12-05,
-"Lu, Gloria Yi 陸奕",sfclicrec.asp?p=40953,50,F,RO,2016-09-01,
-"Luo, Xi (SFC:AXI372) 羅希",sfclicrec.asp?p=73584,,,RO,2016-09-01,2017-09-29
-"Pong, Tat Fai 龐達輝",sfclicrec.asp?p=116518,,,Rep,2016-09-29,2016-11-08
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Cheuk Pan Ambrose 鄭卓彬",None,sfclicrec.asp?p=2606003,BHT921,http://www.sfc.hk/publicregWeb/indi/BHT921/licenceRecord,,,Rep,2018-05-21,
+"Diao, Yang (SFC:AFT479) 刁揚",None,sfclicrec.asp?p=107582,AFT479,http://www.sfc.hk/publicregWeb/indi/AFT479/licenceRecord,,,RO,2016-09-01,2017-03-31
+"Diao, Yang (SFC:AFT479) 刁揚",None,sfclicrec.asp?p=107582,AFT479,http://www.sfc.hk/publicregWeb/indi/AFT479/licenceRecord,,,Rep,2017-03-31,2018-11-09
+"Hao, Andrew 郝立本",None,sfclicrec.asp?p=123899,AQE517,http://www.sfc.hk/publicregWeb/indi/AQE517/licenceRecord,,M,Rep,2017-09-26,2017-11-15
+"Hao, Andrew 郝立本",None,sfclicrec.asp?p=123899,AQE517,http://www.sfc.hk/publicregWeb/indi/AQE517/licenceRecord,,M,RO,2017-11-15,
+"He, Eda Yee Yee 賀依依",None,sfclicrec.asp?p=1958042,BAF816,http://www.sfc.hk/publicregWeb/indi/BAF816/licenceRecord,,,Rep,2016-12-05,
+"Lu, Gloria Yi 陸奕",None,sfclicrec.asp?p=40953,ADA784,http://www.sfc.hk/publicregWeb/indi/ADA784/licenceRecord,50.0,F,RO,2016-09-01,
+"Luo, Xi (SFC:AXI372) 羅希",None,sfclicrec.asp?p=73584,AXI372,http://www.sfc.hk/publicregWeb/indi/AXI372/licenceRecord,,,RO,2016-09-01,2017-09-29
+"Pong, Tat Fai 龐達輝",None,sfclicrec.asp?p=116518,AMI213,http://www.sfc.hk/publicregWeb/indi/AMI213/licenceRecord,,,Rep,2016-09-29,2016-11-08

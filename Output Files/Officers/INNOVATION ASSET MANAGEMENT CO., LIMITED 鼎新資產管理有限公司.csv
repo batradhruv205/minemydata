@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Kwok Yuen 張國源",sfclicrec.asp?p=70423,,,Rep,2019-03-18,2019-03-20
-"Cheung, Kwok Yuen 張國源",sfclicrec.asp?p=70423,,,RO,2019-03-20,2019-06-06
-"Guo, Zhixi ",sfclicrec.asp?p=2191043,,,RO,2017-06-08,2019-01-10
-"Huang, Xiaobo 黃小波",sfclicrec.asp?p=90927,,,RO,2017-06-08,2018-07-17
-"Kim, Yong Moon ",sfclicrec.asp?p=105495,,,Rep,2019-06-25,2019-08-19
-"Kim, Yong Moon ",sfclicrec.asp?p=105495,,,RO,2019-08-19,
-"Kuang, Michelle Xia 匡霞",sfclicrec.asp?p=70532,,F,RO,2018-09-11,
-"Kuang, Tao (SFC:AWL776) 匡濤",sfclicrec.asp?p=130659,,,Rep,2019-02-18,
-"Sanft, Erwin Ralph 歐文",sfclicrec.asp?p=70704,,M,Rep,2017-10-04,2018-01-02
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Kwok Yuen 張國源",None,sfclicrec.asp?p=70423,ABT596,http://www.sfc.hk/publicregWeb/indi/ABT596/licenceRecord,,,Rep,2019-03-18,2019-03-20
+"Cheung, Kwok Yuen 張國源",None,sfclicrec.asp?p=70423,ABT596,http://www.sfc.hk/publicregWeb/indi/ABT596/licenceRecord,,,RO,2019-03-20,2019-06-06
+"Guo, Zhixi ",None,sfclicrec.asp?p=2191043,BCQ938,http://www.sfc.hk/publicregWeb/indi/BCQ938/licenceRecord,,,RO,2017-06-08,2019-01-10
+"Huang, Xiaobo 黃小波",None,sfclicrec.asp?p=90927,ALZ455,http://www.sfc.hk/publicregWeb/indi/ALZ455/licenceRecord,,,RO,2017-06-08,2018-07-17
+"Kim, Yong Moon ",None,sfclicrec.asp?p=105495,AEW096,http://www.sfc.hk/publicregWeb/indi/AEW096/licenceRecord,,,Rep,2019-06-25,2019-08-19
+"Kim, Yong Moon ",None,sfclicrec.asp?p=105495,AEW096,http://www.sfc.hk/publicregWeb/indi/AEW096/licenceRecord,,,RO,2019-08-19,
+"Kuang, Michelle Xia 匡霞",None,sfclicrec.asp?p=70532,AML239,http://www.sfc.hk/publicregWeb/indi/AML239/licenceRecord,,F,RO,2018-09-11,
+"Kuang, Tao (SFC:AWL776) 匡濤",None,sfclicrec.asp?p=130659,AWL776,http://www.sfc.hk/publicregWeb/indi/AWL776/licenceRecord,,,Rep,2019-02-18,
+"Sanft, Erwin Ralph 歐文",None,sfclicrec.asp?p=70704,AED179,http://www.sfc.hk/publicregWeb/indi/AED179/licenceRecord,,M,Rep,2017-10-04,2018-01-02

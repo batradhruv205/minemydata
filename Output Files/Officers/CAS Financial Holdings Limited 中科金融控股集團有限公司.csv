@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chu, Jonathan To 朱濤",sfclicrec.asp?p=15023,56,M,RO,2016-12-14,
-"Ip, Kwai Chun 葉桂珍",sfclicrec.asp?p=2367572,,,Rep,2019-08-19,2019-10-31
-"Poon, Tak Ching (SFC:BIG475) 潘德政",sfclicrec.asp?p=2673714,39,M,RO,2016-12-14,
-"Sit, Yuk Mui 薛玉梅",sfclicrec.asp?p=106771,,,Rep,2018-10-25,2019-07-15
-"Xia, Guoxin ",sfclicrec.asp?p=23734954,,,Rep,2019-10-02,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chu, Jonathan To 朱濤",None,sfclicrec.asp?p=15023,AAB571,http://www.sfc.hk/publicregWeb/indi/AAB571/licenceRecord,56.0,M,RO,2016-12-14,
+"Ip, Kwai Chun 葉桂珍",None,sfclicrec.asp?p=2367572,BEO313,http://www.sfc.hk/publicregWeb/indi/BEO313/licenceRecord,,,Rep,2019-08-19,2019-10-31
+"Poon, Tak Ching (SFC:BIG475) 潘德政",None,sfclicrec.asp?p=2673714,BIG475,http://www.sfc.hk/publicregWeb/indi/BIG475/licenceRecord,39.0,M,RO,2016-12-14,
+"Sit, Yuk Mui 薛玉梅",None,sfclicrec.asp?p=106771,AFN163,http://www.sfc.hk/publicregWeb/indi/AFN163/licenceRecord,,,Rep,2018-10-25,2019-07-15
+"Xia, Guoxin ",None,sfclicrec.asp?p=23734954,BMW245,http://www.sfc.hk/publicregWeb/indi/BMW245/licenceRecord,,,Rep,2019-10-02,

@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Dias, Richard Percival 戴禮徹",sfclicrec.asp?p=102949,,M,Rep,2017-11-30,2017-12-27
-"Dias, Richard Percival 戴禮徹",sfclicrec.asp?p=102949,,M,RO,2017-12-27,
-"Gao, Ronghua 高荣华",sfclicrec.asp?p=12850972,,,RO,2018-03-14,
-"Luk, Peter Chi Woon 陸治垣",sfclicrec.asp?p=110958,,M,RO,2016-10-03,2017-05-31
-"Ma, Tak Wah 馬德華",sfclicrec.asp?p=71835,,,RO,2016-10-03,2017-04-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Dias, Richard Percival 戴禮徹",None,sfclicrec.asp?p=102949,ACL254,http://www.sfc.hk/publicregWeb/indi/ACL254/licenceRecord,,M,Rep,2017-11-30,2017-12-27
+"Dias, Richard Percival 戴禮徹",None,sfclicrec.asp?p=102949,ACL254,http://www.sfc.hk/publicregWeb/indi/ACL254/licenceRecord,,M,RO,2017-12-27,
+"Gao, Ronghua 高荣华",None,sfclicrec.asp?p=12850972,BJR058,http://www.sfc.hk/publicregWeb/indi/BJR058/licenceRecord,,,RO,2018-03-14,
+"Luk, Peter Chi Woon 陸治垣",None,sfclicrec.asp?p=110958,AHB993,http://www.sfc.hk/publicregWeb/indi/AHB993/licenceRecord,,M,RO,2016-10-03,2017-05-31
+"Ma, Tak Wah 馬德華",None,sfclicrec.asp?p=71835,AUD467,http://www.sfc.hk/publicregWeb/indi/AUD467/licenceRecord,,,RO,2016-10-03,2017-04-30

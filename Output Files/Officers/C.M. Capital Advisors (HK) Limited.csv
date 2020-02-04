@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au, Kwok Chun 歐國晉",sfclicrec.asp?p=23214588,,,Rep,2019-05-23,
-"Hung, Yan Ying Alice 孔茵凝",sfclicrec.asp?p=2684502,,,Rep,2017-01-12,2018-01-31
-"Ko, Oi Na 高愛娜",sfclicrec.asp?p=99870,,,RO,2016-12-22,2017-12-15
-"Lam, Chat Yu 林澤宇",sfclicrec.asp?p=24376,68,M,RO,2016-07-06,
-"Lau, Chi Ming (SFC:AUW146) 劉智明",sfclicrec.asp?p=129437,,,RO,2016-12-22,2018-02-05
-"Liu, Jason Jie Sheng 劉傑生",sfclicrec.asp?p=2698413,,M,Rep,2017-02-20,2017-06-23
-"Madding, Bruce Wallace ",sfclicrec.asp?p=2602652,,M,RO,2016-07-06,2017-01-05
-"Seibert, Keith Edward ",sfclicrec.asp?p=2602653,,M,RO,2016-07-06,2019-04-15
-"Wu, Lici Leon Edward 伍禮慈",sfclicrec.asp?p=94268,,,Rep,2017-09-26,2017-12-29
-"Wu, Lici Leon Edward 伍禮慈",sfclicrec.asp?p=94268,,,RO,2017-12-29,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au, Kwok Chun 歐國晉",None,sfclicrec.asp?p=23214588,BOG627,http://www.sfc.hk/publicregWeb/indi/BOG627/licenceRecord,,,Rep,2019-05-23,
+"Hung, Yan Ying Alice 孔茵凝",None,sfclicrec.asp?p=2684502,BIT668,http://www.sfc.hk/publicregWeb/indi/BIT668/licenceRecord,,,Rep,2017-01-12,2018-01-31
+"Ko, Oi Na 高愛娜",None,sfclicrec.asp?p=99870,ALF942,http://www.sfc.hk/publicregWeb/indi/ALF942/licenceRecord,,,RO,2016-12-22,2017-12-15
+"Lam, Chat Yu 林澤宇",None,sfclicrec.asp?p=24376,ADB487,http://www.sfc.hk/publicregWeb/indi/ADB487/licenceRecord,68.0,M,RO,2016-07-06,
+"Lau, Chi Ming (SFC:AUW146) 劉智明",None,sfclicrec.asp?p=129437,AUW146,http://www.sfc.hk/publicregWeb/indi/AUW146/licenceRecord,,,RO,2016-12-22,2018-02-05
+"Liu, Jason Jie Sheng 劉傑生",None,sfclicrec.asp?p=2698413,BIY813,http://www.sfc.hk/publicregWeb/indi/BIY813/licenceRecord,,M,Rep,2017-02-20,2017-06-23
+"Madding, Bruce Wallace ",None,sfclicrec.asp?p=2602652,BHF798,http://www.sfc.hk/publicregWeb/indi/BHF798/licenceRecord,,M,RO,2016-07-06,2017-01-05
+"Seibert, Keith Edward ",None,sfclicrec.asp?p=2602653,BHF795,http://www.sfc.hk/publicregWeb/indi/BHF795/licenceRecord,,M,RO,2016-07-06,2019-04-15
+"Wu, Lici Leon Edward 伍禮慈",None,sfclicrec.asp?p=94268,AJD966,http://www.sfc.hk/publicregWeb/indi/AJD966/licenceRecord,,,Rep,2017-09-26,2017-12-29
+"Wu, Lici Leon Edward 伍禮慈",None,sfclicrec.asp?p=94268,AJD966,http://www.sfc.hk/publicregWeb/indi/AJD966/licenceRecord,,,RO,2017-12-29,

@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Hung, Leon Lum 洪霖",sfclicrec.asp?p=104186,,M,Rep,2019-12-30,2020-01-22
-"Hung, Leon Lum 洪霖",sfclicrec.asp?p=104186,,M,RO,2020-01-22,
-"Leung, Noel Hiu Yen 梁曉昕",sfclicrec.asp?p=123968,,M,RO,2017-01-06,
-"Nam, Ka Keung 藍嘉強",sfclicrec.asp?p=11862,53,M,RO,2017-01-06,
-"Ngan, Tsz Man 顏子汶",sfclicrec.asp?p=23679876,,,Rep,2019-09-19,
-"Wong, Kwan Lun 黃鈞麟",sfclicrec.asp?p=23631542,,,Rep,2019-09-06,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Hung, Leon Lum 洪霖",None,sfclicrec.asp?p=104186,ADU225,http://www.sfc.hk/publicregWeb/indi/ADU225/licenceRecord,,M,Rep,2019-12-30,2020-01-22
+"Hung, Leon Lum 洪霖",None,sfclicrec.asp?p=104186,ADU225,http://www.sfc.hk/publicregWeb/indi/ADU225/licenceRecord,,M,RO,2020-01-22,
+"Leung, Noel Hiu Yen 梁曉昕",None,sfclicrec.asp?p=123968,AQF075,http://www.sfc.hk/publicregWeb/indi/AQF075/licenceRecord,,M,RO,2017-01-06,
+"Nam, Ka Keung 藍嘉強",None,sfclicrec.asp?p=11862,ABP669,http://www.sfc.hk/publicregWeb/indi/ABP669/licenceRecord,53.0,M,RO,2017-01-06,
+"Ngan, Tsz Man 顏子汶",None,sfclicrec.asp?p=23679876,BOQ878,http://www.sfc.hk/publicregWeb/indi/BOQ878/licenceRecord,,,Rep,2019-09-19,
+"Wong, Kwan Lun 黃鈞麟",None,sfclicrec.asp?p=23631542,BOQ889,http://www.sfc.hk/publicregWeb/indi/BOQ889/licenceRecord,,,Rep,2019-09-06,

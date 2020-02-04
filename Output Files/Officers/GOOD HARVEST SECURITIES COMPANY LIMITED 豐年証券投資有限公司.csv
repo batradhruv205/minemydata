@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chu Ho, Miu Hing 朱何妙馨",sfclicrec.asp?p=2455,79,F,RO,,
-"Chu, Koh Ann 朱國安",sfclicrec.asp?p=63905,,F,Rep,,2009-01-14
-"Chu, Koh Ann 朱國安",sfclicrec.asp?p=63905,,F,RO,2009-01-14,
-"Chu, Koh Cheun 朱國銓",sfclicrec.asp?p=102969,,,RO,,2005-08-15
-"Keyes, Leslie Yu-Ling 趙汝寧",sfclicrec.asp?p=102475,,,Rep,2012-08-01,2015-12-31
-"Kwok, Philip Wayne 郭為震",sfclicrec.asp?p=102656,,M,RO,2003-07-24,
-"Lam, Annie Yuk Lin 林玉連",sfclicrec.asp?p=103312,,F,Rep,,
-"Lam, Yeuk For 林若科",sfclicrec.asp?p=12798583,,,Rep,2018-02-20,
-"Leung, Lance Chiu Ling 梁肖玲",sfclicrec.asp?p=47914,68,F,Rep,,2008-09-01
-"Li, Kwok Yin 李國賢",sfclicrec.asp?p=82966,,,Rep,2018-05-02,2018-09-07
-"Ng, Kit Bing 伍潔冰",sfclicrec.asp?p=104797,,,Rep,,
-"Shum, Kwok Wah 沈國華",sfclicrec.asp?p=105136,,,Rep,,
-"Tam, Wah Wai 譚華偉",sfclicrec.asp?p=103310,,,Rep,,
-"Yan, Alvin Tak Wing 甄德榮",sfclicrec.asp?p=119028,,M,Rep,2006-09-05,2017-03-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chu Ho, Miu Hing 朱何妙馨",None,sfclicrec.asp?p=2455,AAG890,http://www.sfc.hk/publicregWeb/indi/AAG890/licenceRecord,79.0,F,RO,,
+"Chu, Koh Ann 朱國安",None,sfclicrec.asp?p=63905,ADM711,http://www.sfc.hk/publicregWeb/indi/ADM711/licenceRecord,,F,Rep,,2009-01-14
+"Chu, Koh Ann 朱國安",None,sfclicrec.asp?p=63905,ADM711,http://www.sfc.hk/publicregWeb/indi/ADM711/licenceRecord,,F,RO,2009-01-14,
+"Chu, Koh Cheun 朱國銓",None,sfclicrec.asp?p=102969,ACL521,http://www.sfc.hk/publicregWeb/indi/ACL521/licenceRecord,,,RO,,2005-08-15
+"Keyes, Leslie Yu-Ling 趙汝寧",None,sfclicrec.asp?p=102475,ABZ047,http://www.sfc.hk/publicregWeb/indi/ABZ047/licenceRecord,,,Rep,2012-08-01,2015-12-31
+"Kwok, Philip Wayne 郭為震",None,sfclicrec.asp?p=102656,ACD740,http://www.sfc.hk/publicregWeb/indi/ACD740/licenceRecord,,M,RO,2003-07-24,
+"Lam, Annie Yuk Lin 林玉連",None,sfclicrec.asp?p=103312,ACT258,http://www.sfc.hk/publicregWeb/indi/ACT258/licenceRecord,,F,Rep,,
+"Lam, Yeuk For 林若科",None,sfclicrec.asp?p=12798583,BLT675,http://www.sfc.hk/publicregWeb/indi/BLT675/licenceRecord,,,Rep,2018-02-20,
+"Leung, Lance Chiu Ling 梁肖玲",None,sfclicrec.asp?p=47914,ADW759,http://www.sfc.hk/publicregWeb/indi/ADW759/licenceRecord,68.0,F,Rep,,2008-09-01
+"Li, Kwok Yin 李國賢",None,sfclicrec.asp?p=82966,AOY769,http://www.sfc.hk/publicregWeb/indi/AOY769/licenceRecord,,,Rep,2018-05-02,2018-09-07
+"Ng, Kit Bing 伍潔冰",None,sfclicrec.asp?p=104797,AEI246,http://www.sfc.hk/publicregWeb/indi/AEI246/licenceRecord,,,Rep,,
+"Shum, Kwok Wah 沈國華",None,sfclicrec.asp?p=105136,AEO858,http://www.sfc.hk/publicregWeb/indi/AEO858/licenceRecord,,,Rep,,
+"Tam, Wah Wai 譚華偉",None,sfclicrec.asp?p=103310,ACT133,http://www.sfc.hk/publicregWeb/indi/ACT133/licenceRecord,,,Rep,,
+"Yan, Alvin Tak Wing 甄德榮",None,sfclicrec.asp?p=119028,ANQ604,http://www.sfc.hk/publicregWeb/indi/ANQ604/licenceRecord,,M,Rep,2006-09-05,2017-03-31

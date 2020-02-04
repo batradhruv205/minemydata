@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Pui Ying (SFC:APM150) 陳佩英",sfclicrec.asp?p=69044,,,Rep,2014-12-03,2015-03-31
-"Chan, Pui Ying (SFC:APM150) 陳佩英",sfclicrec.asp?p=69044,,,RO,2015-03-31,
-"Ding, Jiajia 丁佳佳",sfclicrec.asp?p=2406074,,,Rep,2015-04-14,2015-07-31
-"Leung, Mun Shan 梁敏珊",sfclicrec.asp?p=69049,,,Rep,2016-07-13,2016-10-25
-"Leung, Mun Shan 梁敏珊",sfclicrec.asp?p=69049,,,RO,2016-10-25,2019-07-12
-"Li, Qianwei 黎謙維",sfclicrec.asp?p=2334297,,,Rep,2019-06-24,2020-01-24
-"Siette, Juliet ",sfclicrec.asp?p=2084720,,F,Rep,2019-06-24,
-"Song, Yi (SFC:BMV459) 宋毅",sfclicrec.asp?p=14876671,,,Rep,2018-05-07,
-"Tan, Grace Mei Zie 陳美芝",sfclicrec.asp?p=69054,,F,RO,2014-06-30,
-"Tang, Rui (SFC:AXC394) 唐睿",sfclicrec.asp?p=131038,,,RO,2014-06-30,
-"Wang, Yifeng (SFC:BFS141) 王毅峰",sfclicrec.asp?p=2441131,,,Rep,2015-06-26,2015-08-21
-"Wong, Eric Ching Yuen 黃正源",sfclicrec.asp?p=1998234,,M,Rep,2017-02-01,2018-03-29
-"Wong, Leung Kit 黄良傑",sfclicrec.asp?p=23374113,,,Rep,2019-07-02,
-"Yu, Qian (SFC:BDQ826) 于倩",sfclicrec.asp?p=2299100,,,Rep,2014-12-22,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Pui Ying (SFC:APM150) 陳佩英",None,sfclicrec.asp?p=69044,APM150,http://www.sfc.hk/publicregWeb/indi/APM150/licenceRecord,,,Rep,2014-12-03,2015-03-31
+"Chan, Pui Ying (SFC:APM150) 陳佩英",None,sfclicrec.asp?p=69044,APM150,http://www.sfc.hk/publicregWeb/indi/APM150/licenceRecord,,,RO,2015-03-31,
+"Ding, Jiajia 丁佳佳",None,sfclicrec.asp?p=2406074,BFE577,http://www.sfc.hk/publicregWeb/indi/BFE577/licenceRecord,,,Rep,2015-04-14,2015-07-31
+"Leung, Mun Shan 梁敏珊",None,sfclicrec.asp?p=69049,AME312,http://www.sfc.hk/publicregWeb/indi/AME312/licenceRecord,,,Rep,2016-07-13,2016-10-25
+"Leung, Mun Shan 梁敏珊",None,sfclicrec.asp?p=69049,AME312,http://www.sfc.hk/publicregWeb/indi/AME312/licenceRecord,,,RO,2016-10-25,2019-07-12
+"Li, Qianwei 黎謙維",None,sfclicrec.asp?p=2334297,BEI843,http://www.sfc.hk/publicregWeb/indi/BEI843/licenceRecord,,,Rep,2019-06-24,2020-01-24
+"Siette, Juliet ",None,sfclicrec.asp?p=2084720,BBK303,http://www.sfc.hk/publicregWeb/indi/BBK303/licenceRecord,,F,Rep,2019-06-24,
+"Song, Yi (SFC:BMV459) 宋毅",None,sfclicrec.asp?p=14876671,BMV459,http://www.sfc.hk/publicregWeb/indi/BMV459/licenceRecord,,,Rep,2018-05-07,
+"Tan, Grace Mei Zie 陳美芝",None,sfclicrec.asp?p=69054,AIQ482,http://www.sfc.hk/publicregWeb/indi/AIQ482/licenceRecord,,F,RO,2014-06-30,
+"Tang, Rui (SFC:AXC394) 唐睿",None,sfclicrec.asp?p=131038,AXC394,http://www.sfc.hk/publicregWeb/indi/AXC394/licenceRecord,,,RO,2014-06-30,
+"Wang, Yifeng (SFC:BFS141) 王毅峰",None,sfclicrec.asp?p=2441131,BFS141,http://www.sfc.hk/publicregWeb/indi/BFS141/licenceRecord,,,Rep,2015-06-26,2015-08-21
+"Wong, Eric Ching Yuen 黃正源",None,sfclicrec.asp?p=1998234,BAP941,http://www.sfc.hk/publicregWeb/indi/BAP941/licenceRecord,,M,Rep,2017-02-01,2018-03-29
+"Wong, Leung Kit 黄良傑",None,sfclicrec.asp?p=23374113,BOK889,http://www.sfc.hk/publicregWeb/indi/BOK889/licenceRecord,,,Rep,2019-07-02,
+"Yu, Qian (SFC:BDQ826) 于倩",None,sfclicrec.asp?p=2299100,BDQ826,http://www.sfc.hk/publicregWeb/indi/BDQ826/licenceRecord,,,Rep,2014-12-22,

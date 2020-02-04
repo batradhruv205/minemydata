@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Chi Ho (SFC:BEE471) 張志豪",sfclicrec.asp?p=2320617,,,RO,2018-03-28,
-"Fu, Ka Ho 傅家豪",sfclicrec.asp?p=92441,,,RO,2018-03-28,2019-01-07
-"Kay, Nigel Timothy ",sfclicrec.asp?p=98448,,M,RO,2013-12-17,2017-08-04
-"Liu, Dongyue (SFC:BLU933) 刘东岳",sfclicrec.asp?p=22076230,,,Rep,2019-05-31,2019-06-04
-"Liu, Dongyue (SFC:BLU933) 刘东岳",sfclicrec.asp?p=22076230,,,RO,2019-06-04,
-"Liu, Ke (SFC:BEM911) 劉珂",sfclicrec.asp?p=2352947,,,Rep,2014-12-01,2016-03-31
-"Wang, Lei (SFC:AUX545) 王磊",sfclicrec.asp?p=129547,,,Rep,2014-01-24,2014-12-31
-"Xu, Shufu 徐樹富",sfclicrec.asp?p=1870182,,,RO,2013-12-17,2017-08-01
-"Zheng, Kexun 鄭克勛",sfclicrec.asp?p=2458377,,,Rep,2015-08-05,2017-08-02
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Chi Ho (SFC:BEE471) 張志豪",None,sfclicrec.asp?p=2320617,BEE471,http://www.sfc.hk/publicregWeb/indi/BEE471/licenceRecord,,,RO,2018-03-28,
+"Fu, Ka Ho 傅家豪",None,sfclicrec.asp?p=92441,AOT860,http://www.sfc.hk/publicregWeb/indi/AOT860/licenceRecord,,,RO,2018-03-28,2019-01-07
+"Kay, Nigel Timothy ",None,sfclicrec.asp?p=98448,ACU879,http://www.sfc.hk/publicregWeb/indi/ACU879/licenceRecord,,M,RO,2013-12-17,2017-08-04
+"Liu, Dongyue (SFC:BLU933) 刘东岳",None,sfclicrec.asp?p=22076230,BLU933,http://www.sfc.hk/publicregWeb/indi/BLU933/licenceRecord,,,Rep,2019-05-31,2019-06-04
+"Liu, Dongyue (SFC:BLU933) 刘东岳",None,sfclicrec.asp?p=22076230,BLU933,http://www.sfc.hk/publicregWeb/indi/BLU933/licenceRecord,,,RO,2019-06-04,
+"Liu, Ke (SFC:BEM911) 劉珂",None,sfclicrec.asp?p=2352947,BEM911,http://www.sfc.hk/publicregWeb/indi/BEM911/licenceRecord,,,Rep,2014-12-01,2016-03-31
+"Wang, Lei (SFC:AUX545) 王磊",None,sfclicrec.asp?p=129547,AUX545,http://www.sfc.hk/publicregWeb/indi/AUX545/licenceRecord,,,Rep,2014-01-24,2014-12-31
+"Xu, Shufu 徐樹富",None,sfclicrec.asp?p=1870182,AZF356,http://www.sfc.hk/publicregWeb/indi/AZF356/licenceRecord,,,RO,2013-12-17,2017-08-01
+"Zheng, Kexun 鄭克勛",None,sfclicrec.asp?p=2458377,BFU394,http://www.sfc.hk/publicregWeb/indi/BFU394/licenceRecord,,,Rep,2015-08-05,2017-08-02

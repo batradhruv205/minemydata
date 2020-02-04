@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Clarke, Dean Lionel ",sfclicrec.asp?p=12624331,,M,RO,2017-12-06,
-"Couch, Gordon ",sfclicrec.asp?p=2397598,,M,RO,2017-11-27,
-"Guinness, Christopher Edward Howard ",sfclicrec.asp?p=60389,,M,RO,2013-03-01,2016-05-04
-"Luong, Vanessa 梁美雲",sfclicrec.asp?p=93174,,F,RO,2019-09-10,
-"Petersohn, Steven Jeffrey ",sfclicrec.asp?p=101962,,M,RO,2011-12-23,2016-12-08
-"Van Der Graaf, Roderik Cornelis ",sfclicrec.asp?p=123243,,M,RO,2011-12-23,2013-01-02
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Clarke, Dean Lionel ",None,sfclicrec.asp?p=12624331,BJX179,http://www.sfc.hk/publicregWeb/indi/BJX179/licenceRecord,,M,RO,2017-12-06,
+"Couch, Gordon ",None,sfclicrec.asp?p=2397598,BFD480,http://www.sfc.hk/publicregWeb/indi/BFD480/licenceRecord,,M,RO,2017-11-27,
+"Guinness, Christopher Edward Howard ",None,sfclicrec.asp?p=60389,ALJ858,http://www.sfc.hk/publicregWeb/indi/ALJ858/licenceRecord,,M,RO,2013-03-01,2016-05-04
+"Luong, Vanessa 梁美雲",None,sfclicrec.asp?p=93174,AID285,http://www.sfc.hk/publicregWeb/indi/AID285/licenceRecord,,F,RO,2019-09-10,
+"Petersohn, Steven Jeffrey ",None,sfclicrec.asp?p=101962,ABF770,http://www.sfc.hk/publicregWeb/indi/ABF770/licenceRecord,,M,RO,2011-12-23,2016-12-08
+"Van Der Graaf, Roderik Cornelis ",None,sfclicrec.asp?p=123243,APV504,http://www.sfc.hk/publicregWeb/indi/APV504/licenceRecord,,M,RO,2011-12-23,2013-01-02

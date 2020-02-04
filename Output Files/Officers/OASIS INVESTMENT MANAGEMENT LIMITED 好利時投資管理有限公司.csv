@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Siu Fai 鄭兆輝",sfclicrec.asp?p=12604711,,,Rep,2017-11-28,2019-09-14
-"Cheung, Wang Ngai 張宏毅",sfclicrec.asp?p=101325,,,RO,,
-"Ha, Kam Fai 夏錦輝",sfclicrec.asp?p=115922,,,RO,2005-06-22,
-"Zhong, Xuqi 鍾旭麒",sfclicrec.asp?p=130044,,,Rep,2010-08-25,2015-08-01
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Siu Fai 鄭兆輝",None,sfclicrec.asp?p=12604711,BKB668,http://www.sfc.hk/publicregWeb/indi/BKB668/licenceRecord,,,Rep,2017-11-28,2019-09-14
+"Cheung, Wang Ngai 張宏毅",None,sfclicrec.asp?p=101325,AAH716,http://www.sfc.hk/publicregWeb/indi/AAH716/licenceRecord,,,RO,,
+"Ha, Kam Fai 夏錦輝",None,sfclicrec.asp?p=115922,ALZ492,http://www.sfc.hk/publicregWeb/indi/ALZ492/licenceRecord,,,RO,2005-06-22,
+"Zhong, Xuqi 鍾旭麒",None,sfclicrec.asp?p=130044,AVM870,http://www.sfc.hk/publicregWeb/indi/AVM870/licenceRecord,,,Rep,2010-08-25,2015-08-01

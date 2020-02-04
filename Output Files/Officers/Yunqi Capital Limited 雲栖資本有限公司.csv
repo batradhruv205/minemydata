@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Gorman, Mark Christopher ",sfclicrec.asp?p=131361,,M,Rep,2018-07-30,
-"Guan, Si Quan ",sfclicrec.asp?p=23785391,,,Rep,2019-10-14,
-"Littmann, Edward Raymond ",sfclicrec.asp?p=1905996,,M,RO,2018-05-11,
-"Lu, Zhichao (SFC:BBH879) 陸志超",sfclicrec.asp?p=2093779,,,RO,2018-09-24,
-"Wang, Christopher Min Fang 王民方",sfclicrec.asp?p=105027,,M,RO,2018-05-11,
-"Yau, Yuen Man 游婉雯",sfclicrec.asp?p=1944266,,,Rep,2019-02-01,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Gorman, Mark Christopher ",None,sfclicrec.asp?p=131361,AXL709,http://www.sfc.hk/publicregWeb/indi/AXL709/licenceRecord,,M,Rep,2018-07-30,
+"Guan, Si Quan ",None,sfclicrec.asp?p=23785391,BNI857,http://www.sfc.hk/publicregWeb/indi/BNI857/licenceRecord,,,Rep,2019-10-14,
+"Littmann, Edward Raymond ",None,sfclicrec.asp?p=1905996,AYU360,http://www.sfc.hk/publicregWeb/indi/AYU360/licenceRecord,,M,RO,2018-05-11,
+"Lu, Zhichao (SFC:BBH879) 陸志超",None,sfclicrec.asp?p=2093779,BBH879,http://www.sfc.hk/publicregWeb/indi/BBH879/licenceRecord,,,RO,2018-09-24,
+"Wang, Christopher Min Fang 王民方",None,sfclicrec.asp?p=105027,AEM872,http://www.sfc.hk/publicregWeb/indi/AEM872/licenceRecord,,M,RO,2018-05-11,
+"Yau, Yuen Man 游婉雯",None,sfclicrec.asp?p=1944266,AET313,http://www.sfc.hk/publicregWeb/indi/AET313/licenceRecord,,,Rep,2019-02-01,

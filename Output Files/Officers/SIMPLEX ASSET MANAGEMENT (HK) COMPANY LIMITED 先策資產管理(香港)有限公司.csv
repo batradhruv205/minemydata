@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Chih-ching 陳志清",sfclicrec.asp?p=85304,,,Rep,2018-08-31,2018-10-26
-"Chen, Chih-ching 陳志清",sfclicrec.asp?p=85304,,,RO,2018-10-26,2019-03-01
-"Cheung, Flora Fan Lin 章訓蓮",sfclicrec.asp?p=22704619,,F,RO,2019-01-28,
-"Cheung, Kin Sang (SFC:ACI723) 張健生",sfclicrec.asp?p=93343,,,RO,2014-04-01,2018-03-15
-"Cho, Hyun Oh ",sfclicrec.asp?p=103140,,,RO,,2003-12-01
-"Goel, Kshitij ",sfclicrec.asp?p=93391,,,Rep,2014-07-09,2016-09-02
-"Jeong, Myoung Seok 鄭明錫",sfclicrec.asp?p=90498,,,Rep,,2003-12-01
-"Mikami, Yoshihiro 三上芳宏",sfclicrec.asp?p=102965,,,RO,,2003-12-01
-"Mizushima, Hiromasa ",sfclicrec.asp?p=2247389,,M,RO,2014-04-01,
-"Tan, Yew Boon 陳友文",sfclicrec.asp?p=85302,,,Rep,2016-11-01,2016-12-07
-"Tan, Yew Boon 陳友文",sfclicrec.asp?p=85302,,,RO,2016-12-07,
-"Yung, Yu Ming 翁耀明",sfclicrec.asp?p=96692,,,Rep,2019-04-17,2019-07-03
-"Yung, Yu Ming 翁耀明",sfclicrec.asp?p=96692,,,RO,2019-07-03,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Chih-ching 陳志清",None,sfclicrec.asp?p=85304,AQD360,http://www.sfc.hk/publicregWeb/indi/AQD360/licenceRecord,,,Rep,2018-08-31,2018-10-26
+"Chen, Chih-ching 陳志清",None,sfclicrec.asp?p=85304,AQD360,http://www.sfc.hk/publicregWeb/indi/AQD360/licenceRecord,,,RO,2018-10-26,2019-03-01
+"Cheung, Flora Fan Lin 章訓蓮",None,sfclicrec.asp?p=22704619,ACS617,http://www.sfc.hk/publicregWeb/indi/ACS617/licenceRecord,,F,RO,2019-01-28,
+"Cheung, Kin Sang (SFC:ACI723) 張健生",None,sfclicrec.asp?p=93343,ACI723,http://www.sfc.hk/publicregWeb/indi/ACI723/licenceRecord,,,RO,2014-04-01,2018-03-15
+"Cho, Hyun Oh ",None,sfclicrec.asp?p=103140,ACP299,http://www.sfc.hk/publicregWeb/indi/ACP299/licenceRecord,,,RO,,2003-12-01
+"Goel, Kshitij ",None,sfclicrec.asp?p=93391,AQM623,http://www.sfc.hk/publicregWeb/indi/AQM623/licenceRecord,,,Rep,2014-07-09,2016-09-02
+"Jeong, Myoung Seok 鄭明錫",None,sfclicrec.asp?p=90498,AEP484,http://www.sfc.hk/publicregWeb/indi/AEP484/licenceRecord,,,Rep,,2003-12-01
+"Mikami, Yoshihiro 三上芳宏",None,sfclicrec.asp?p=102965,ACL487,http://www.sfc.hk/publicregWeb/indi/ACL487/licenceRecord,,,RO,,2003-12-01
+"Mizushima, Hiromasa ",None,sfclicrec.asp?p=2247389,AAE937,http://www.sfc.hk/publicregWeb/indi/AAE937/licenceRecord,,M,RO,2014-04-01,
+"Tan, Yew Boon 陳友文",None,sfclicrec.asp?p=85302,AFS647,http://www.sfc.hk/publicregWeb/indi/AFS647/licenceRecord,,,Rep,2016-11-01,2016-12-07
+"Tan, Yew Boon 陳友文",None,sfclicrec.asp?p=85302,AFS647,http://www.sfc.hk/publicregWeb/indi/AFS647/licenceRecord,,,RO,2016-12-07,
+"Yung, Yu Ming 翁耀明",None,sfclicrec.asp?p=96692,AMU880,http://www.sfc.hk/publicregWeb/indi/AMU880/licenceRecord,,,Rep,2019-04-17,2019-07-03
+"Yung, Yu Ming 翁耀明",None,sfclicrec.asp?p=96692,AMU880,http://www.sfc.hk/publicregWeb/indi/AMU880/licenceRecord,,,RO,2019-07-03,

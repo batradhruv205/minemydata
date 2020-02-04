@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chow, Wai Lam (SFC:BJU686) 周韋霖",sfclicrec.asp?p=12070773,,,Rep,2018-11-14,
-"Hung, Cheung Wai (SFC:AUD695) 孔祥偉",sfclicrec.asp?p=128950,,,RO,2019-03-06,
-"Kwok, Hon Pan (SFC:BDT789) 郭漢彬",sfclicrec.asp?p=23521322,,,Rep,2019-08-07,
-"Lee, Kwok Cheong (SFC:AGA695) 李國昌",sfclicrec.asp?p=72225,,,RO,2018-08-28,2019-05-09
-"Qian, Zixuan 錢子玄",sfclicrec.asp?p=12688343,,,Rep,2019-08-16,
-"Sin, Oscar Kwok Leung 單國樑",sfclicrec.asp?p=98592,,M,RO,2018-08-28,2019-02-11
-"Wang, Kaifan 王愷凡",sfclicrec.asp?p=22503600,,,Rep,2018-12-03,2019-06-17
-"Wu, Ngai Pan 胡毅彬",sfclicrec.asp?p=99070,,,RO,2019-05-07,
-"Yan, Mengyuan 严梦圆",sfclicrec.asp?p=22674049,,,Rep,2019-06-14,2019-12-05
-"Yu, Zhi (SFC:AIB283) 于志",sfclicrec.asp?p=84791,,,Rep,2019-04-23,2019-05-07
-"Yu, Zhi (SFC:AIB283) 于志",sfclicrec.asp?p=84791,,,RO,2019-05-07,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chow, Wai Lam (SFC:BJU686) 周韋霖",None,sfclicrec.asp?p=12070773,BJU686,http://www.sfc.hk/publicregWeb/indi/BJU686/licenceRecord,,,Rep,2018-11-14,
+"Hung, Cheung Wai (SFC:AUD695) 孔祥偉",None,sfclicrec.asp?p=128950,AUD695,http://www.sfc.hk/publicregWeb/indi/AUD695/licenceRecord,,,RO,2019-03-06,
+"Kwok, Hon Pan (SFC:BDT789) 郭漢彬",None,sfclicrec.asp?p=23521322,BDT789,http://www.sfc.hk/publicregWeb/indi/BDT789/licenceRecord,,,Rep,2019-08-07,
+"Lee, Kwok Cheong (SFC:AGA695) 李國昌",None,sfclicrec.asp?p=72225,AGA695,http://www.sfc.hk/publicregWeb/indi/AGA695/licenceRecord,,,RO,2018-08-28,2019-05-09
+"Qian, Zixuan 錢子玄",None,sfclicrec.asp?p=12688343,BLX759,http://www.sfc.hk/publicregWeb/indi/BLX759/licenceRecord,,,Rep,2019-08-16,
+"Sin, Oscar Kwok Leung 單國樑",None,sfclicrec.asp?p=98592,AVL136,http://www.sfc.hk/publicregWeb/indi/AVL136/licenceRecord,,M,RO,2018-08-28,2019-02-11
+"Wang, Kaifan 王愷凡",None,sfclicrec.asp?p=22503600,BNR810,http://www.sfc.hk/publicregWeb/indi/BNR810/licenceRecord,,,Rep,2018-12-03,2019-06-17
+"Wu, Ngai Pan 胡毅彬",None,sfclicrec.asp?p=99070,AWO869,http://www.sfc.hk/publicregWeb/indi/AWO869/licenceRecord,,,RO,2019-05-07,
+"Yan, Mengyuan 严梦圆",None,sfclicrec.asp?p=22674049,BNU530,http://www.sfc.hk/publicregWeb/indi/BNU530/licenceRecord,,,Rep,2019-06-14,2019-12-05
+"Yu, Zhi (SFC:AIB283) 于志",None,sfclicrec.asp?p=84791,AIB283,http://www.sfc.hk/publicregWeb/indi/AIB283/licenceRecord,,,Rep,2019-04-23,2019-05-07
+"Yu, Zhi (SFC:AIB283) 于志",None,sfclicrec.asp?p=84791,AIB283,http://www.sfc.hk/publicregWeb/indi/AIB283/licenceRecord,,,RO,2019-05-07,

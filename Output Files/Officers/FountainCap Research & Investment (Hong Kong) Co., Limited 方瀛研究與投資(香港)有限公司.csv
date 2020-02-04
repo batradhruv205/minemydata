@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ding, Xiaofang 丁晓方",sfclicrec.asp?p=72068,,,RO,2015-04-27,
-"Dong, Haitao (SFC:AZZ298) 董海韜",sfclicrec.asp?p=1934077,,,Rep,2019-11-15,2020-01-09
-"Dong, Haitao (SFC:AZZ298) 董海韜",sfclicrec.asp?p=1934077,,,RO,2020-01-09,
-"He, Mu (SFC:BOU421) 何睦",sfclicrec.asp?p=23699167,,,Rep,2019-09-24,
-"Jin, Yueqi 金悦奇",sfclicrec.asp?p=2416730,,,Rep,2017-10-30,
-"Li, Cheng (SFC:BIC748) 李铖",sfclicrec.asp?p=2626826,,,Rep,2019-05-06,
-"Li, Tieqiang 李鐵強",sfclicrec.asp?p=11651335,,,Rep,2019-07-03,
-"Luk, Man Tat 陸文達",sfclicrec.asp?p=13257187,,,Rep,2018-03-27,
-"Wang, Yuxuan 王宇軒",sfclicrec.asp?p=73655,,,Rep,2018-10-02,
-"Wong, Kin Hang (SFC:BKB381) 黃健行",sfclicrec.asp?p=23554030,,,RO,2019-08-15,
-"Wu, Hao (SFC:BBP022) 吳昊",sfclicrec.asp?p=2105135,,,Rep,2015-05-29,2018-03-08
-"Wu, Hao (SFC:BBP022) 吳昊",sfclicrec.asp?p=2105135,,,RO,2018-03-08,2019-07-12
-"Xu, Wenyin 許文胤",sfclicrec.asp?p=2705262,,,Rep,2017-03-03,2017-07-10
-"Xu, Ying (SFC:ANK771) 徐瑩",sfclicrec.asp?p=118618,,,Rep,2015-06-15,2017-02-09
-"Xu, Ying (SFC:ANK771) 徐瑩",sfclicrec.asp?p=118618,,,RO,2017-02-09,2019-08-30
-"Zhang, Ning (SFC:AGD246) 張宁",sfclicrec.asp?p=60534,52,M,RO,2015-04-27,2018-02-23
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ding, Xiaofang 丁晓方",None,sfclicrec.asp?p=72068,AEL268,http://www.sfc.hk/publicregWeb/indi/AEL268/licenceRecord,,,RO,2015-04-27,
+"Dong, Haitao (SFC:AZZ298) 董海韜",None,sfclicrec.asp?p=1934077,AZZ298,http://www.sfc.hk/publicregWeb/indi/AZZ298/licenceRecord,,,Rep,2019-11-15,2020-01-09
+"Dong, Haitao (SFC:AZZ298) 董海韜",None,sfclicrec.asp?p=1934077,AZZ298,http://www.sfc.hk/publicregWeb/indi/AZZ298/licenceRecord,,,RO,2020-01-09,
+"He, Mu (SFC:BOU421) 何睦",None,sfclicrec.asp?p=23699167,BOU421,http://www.sfc.hk/publicregWeb/indi/BOU421/licenceRecord,,,Rep,2019-09-24,
+"Jin, Yueqi 金悦奇",None,sfclicrec.asp?p=2416730,BFJ580,http://www.sfc.hk/publicregWeb/indi/BFJ580/licenceRecord,,,Rep,2017-10-30,
+"Li, Cheng (SFC:BIC748) 李铖",None,sfclicrec.asp?p=2626826,BIC748,http://www.sfc.hk/publicregWeb/indi/BIC748/licenceRecord,,,Rep,2019-05-06,
+"Li, Tieqiang 李鐵強",None,sfclicrec.asp?p=11651335,BJT718,http://www.sfc.hk/publicregWeb/indi/BJT718/licenceRecord,,,Rep,2019-07-03,
+"Luk, Man Tat 陸文達",None,sfclicrec.asp?p=13257187,BMQ091,http://www.sfc.hk/publicregWeb/indi/BMQ091/licenceRecord,,,Rep,2018-03-27,
+"Wang, Yuxuan 王宇軒",None,sfclicrec.asp?p=73655,AVS196,http://www.sfc.hk/publicregWeb/indi/AVS196/licenceRecord,,,Rep,2018-10-02,
+"Wong, Kin Hang (SFC:BKB381) 黃健行",None,sfclicrec.asp?p=23554030,BKB381,http://www.sfc.hk/publicregWeb/indi/BKB381/licenceRecord,,,RO,2019-08-15,
+"Wu, Hao (SFC:BBP022) 吳昊",None,sfclicrec.asp?p=2105135,BBP022,http://www.sfc.hk/publicregWeb/indi/BBP022/licenceRecord,,,Rep,2015-05-29,2018-03-08
+"Wu, Hao (SFC:BBP022) 吳昊",None,sfclicrec.asp?p=2105135,BBP022,http://www.sfc.hk/publicregWeb/indi/BBP022/licenceRecord,,,RO,2018-03-08,2019-07-12
+"Xu, Wenyin 許文胤",None,sfclicrec.asp?p=2705262,BJD206,http://www.sfc.hk/publicregWeb/indi/BJD206/licenceRecord,,,Rep,2017-03-03,2017-07-10
+"Xu, Ying (SFC:ANK771) 徐瑩",None,sfclicrec.asp?p=118618,ANK771,http://www.sfc.hk/publicregWeb/indi/ANK771/licenceRecord,,,Rep,2015-06-15,2017-02-09
+"Xu, Ying (SFC:ANK771) 徐瑩",None,sfclicrec.asp?p=118618,ANK771,http://www.sfc.hk/publicregWeb/indi/ANK771/licenceRecord,,,RO,2017-02-09,2019-08-30
+"Zhang, Ning (SFC:AGD246) 張宁",None,sfclicrec.asp?p=60534,AGD246,http://www.sfc.hk/publicregWeb/indi/AGD246/licenceRecord,52.0,M,RO,2015-04-27,2018-02-23

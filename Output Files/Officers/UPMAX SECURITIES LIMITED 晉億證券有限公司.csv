@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Tung Ching 陳冬青",sfclicrec.asp?p=96328,,,Rep,2017-12-22,
-"Cheng, Wing Hung (SFC:AMA065) 鄭永雄",sfclicrec.asp?p=77761,,,RO,2017-07-11,2018-02-28
-"Chiu, Yiu Wah 趙耀華",sfclicrec.asp?p=96329,,,Rep,2017-10-04,
-"Hui, Chun Kwok 許鎮國",sfclicrec.asp?p=11793172,,,Rep,2018-01-18,2019-01-16
-"Hui, Hok Suen 許學萱",sfclicrec.asp?p=96324,,,Rep,2017-10-04,2017-12-14
-"Hui, Hok Suen 許學萱",sfclicrec.asp?p=96324,,,RO,2017-12-14,
-"Lai, Kwok Kei 黎國基",sfclicrec.asp?p=2553979,,,Rep,2019-09-18,
-"Lee, Man Yu 李敏如",sfclicrec.asp?p=1947497,,,RO,2017-07-11,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Tung Ching 陳冬青",None,sfclicrec.asp?p=96328,AGO268,http://www.sfc.hk/publicregWeb/indi/AGO268/licenceRecord,,,Rep,2017-12-22,
+"Cheng, Wing Hung (SFC:AMA065) 鄭永雄",None,sfclicrec.asp?p=77761,AMA065,http://www.sfc.hk/publicregWeb/indi/AMA065/licenceRecord,,,RO,2017-07-11,2018-02-28
+"Chiu, Yiu Wah 趙耀華",None,sfclicrec.asp?p=96329,AAD106,http://www.sfc.hk/publicregWeb/indi/AAD106/licenceRecord,,,Rep,2017-10-04,
+"Hui, Chun Kwok 許鎮國",None,sfclicrec.asp?p=11793172,BKK679,http://www.sfc.hk/publicregWeb/indi/BKK679/licenceRecord,,,Rep,2018-01-18,2019-01-16
+"Hui, Hok Suen 許學萱",None,sfclicrec.asp?p=96324,AAD574,http://www.sfc.hk/publicregWeb/indi/AAD574/licenceRecord,,,Rep,2017-10-04,2017-12-14
+"Hui, Hok Suen 許學萱",None,sfclicrec.asp?p=96324,AAD574,http://www.sfc.hk/publicregWeb/indi/AAD574/licenceRecord,,,RO,2017-12-14,
+"Lai, Kwok Kei 黎國基",None,sfclicrec.asp?p=2553979,BGZ923,http://www.sfc.hk/publicregWeb/indi/BGZ923/licenceRecord,,,Rep,2019-09-18,
+"Lee, Man Yu 李敏如",None,sfclicrec.asp?p=1947497,BAC300,http://www.sfc.hk/publicregWeb/indi/BAC300/licenceRecord,,,RO,2017-07-11,

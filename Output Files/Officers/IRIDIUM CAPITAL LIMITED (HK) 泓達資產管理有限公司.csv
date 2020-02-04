@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Carman Wing Yan 陳詠欣",sfclicrec.asp?p=67936,41,F,RO,2015-01-29,2015-12-01
-"Chan, Hoi Yan (SFC:AFZ453) 陳凱茵",sfclicrec.asp?p=108178,,,Rep,2015-07-13,2016-04-30
-"Chan, Hoi Yan (SFC:AFZ453) 陳凱茵",sfclicrec.asp?p=108178,,,RO,2020-01-08,
-"Cheng, Kiu Fung (SFC:BLB610) 鄭橋烽",sfclicrec.asp?p=12111550,,,Rep,2017-10-18,2018-04-27
-"Deng, Songjun 鄧松君",sfclicrec.asp?p=20752072,,,Rep,2018-07-24,2019-06-14
-"Ho, Ka Pui 何家沛",sfclicrec.asp?p=2505391,,,Rep,2015-11-26,2017-11-07
-"Ho, Ka Pui 何家沛",sfclicrec.asp?p=2505391,,,RO,2017-11-07,2018-10-12
-"Hung, Chin Pang Peter 洪展鵬",sfclicrec.asp?p=12624335,,,Rep,2017-12-06,2018-09-05
-"Ko, Ka Chun (SFC:BGM542) 高嘉俊",sfclicrec.asp?p=2521650,,,Rep,2016-01-04,
-"Lee, Ming Tat 李明達",sfclicrec.asp?p=135393,,,RO,2015-01-29,
-"Lee, Wang Kwong 李泓廣",sfclicrec.asp?p=90557,,,RO,2015-06-15,
-"Suen, King Wan 宣瓊蕓",sfclicrec.asp?p=2446031,,,Rep,2016-09-09,2017-10-13
-"Tong, Tsz Chun 湯子俊",sfclicrec.asp?p=128569,,,Rep,2016-08-25,2016-09-15
-"Wong, Chung Keung 王仲強",sfclicrec.asp?p=2396300,,,Rep,2015-03-23,2016-08-19
-"Wong, Kwok Wing 黃國榮",sfclicrec.asp?p=2072099,,,Rep,2016-11-10,2017-01-27
-"Wong, Wing On 王永安",sfclicrec.asp?p=2317786,,,Rep,2017-08-04,2017-12-08
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Carman Wing Yan 陳詠欣",None,sfclicrec.asp?p=67936,AOX997,http://www.sfc.hk/publicregWeb/indi/AOX997/licenceRecord,41.0,F,RO,2015-01-29,2015-12-01
+"Chan, Hoi Yan (SFC:AFZ453) 陳凱茵",None,sfclicrec.asp?p=108178,AFZ453,http://www.sfc.hk/publicregWeb/indi/AFZ453/licenceRecord,,,Rep,2015-07-13,2016-04-30
+"Chan, Hoi Yan (SFC:AFZ453) 陳凱茵",None,sfclicrec.asp?p=108178,AFZ453,http://www.sfc.hk/publicregWeb/indi/AFZ453/licenceRecord,,,RO,2020-01-08,
+"Cheng, Kiu Fung (SFC:BLB610) 鄭橋烽",None,sfclicrec.asp?p=12111550,BLB610,http://www.sfc.hk/publicregWeb/indi/BLB610/licenceRecord,,,Rep,2017-10-18,2018-04-27
+"Deng, Songjun 鄧松君",None,sfclicrec.asp?p=20752072,BNC084,http://www.sfc.hk/publicregWeb/indi/BNC084/licenceRecord,,,Rep,2018-07-24,2019-06-14
+"Ho, Ka Pui 何家沛",None,sfclicrec.asp?p=2505391,BGL055,http://www.sfc.hk/publicregWeb/indi/BGL055/licenceRecord,,,Rep,2015-11-26,2017-11-07
+"Ho, Ka Pui 何家沛",None,sfclicrec.asp?p=2505391,BGL055,http://www.sfc.hk/publicregWeb/indi/BGL055/licenceRecord,,,RO,2017-11-07,2018-10-12
+"Hung, Chin Pang Peter 洪展鵬",None,sfclicrec.asp?p=12624335,BLL850,http://www.sfc.hk/publicregWeb/indi/BLL850/licenceRecord,,,Rep,2017-12-06,2018-09-05
+"Ko, Ka Chun (SFC:BGM542) 高嘉俊",None,sfclicrec.asp?p=2521650,BGM542,http://www.sfc.hk/publicregWeb/indi/BGM542/licenceRecord,,,Rep,2016-01-04,
+"Lee, Ming Tat 李明達",None,sfclicrec.asp?p=135393,AWP707,http://www.sfc.hk/publicregWeb/indi/AWP707/licenceRecord,,,RO,2015-01-29,
+"Lee, Wang Kwong 李泓廣",None,sfclicrec.asp?p=90557,AFS914,http://www.sfc.hk/publicregWeb/indi/AFS914/licenceRecord,,,RO,2015-06-15,
+"Suen, King Wan 宣瓊蕓",None,sfclicrec.asp?p=2446031,BFT525,http://www.sfc.hk/publicregWeb/indi/BFT525/licenceRecord,,,Rep,2016-09-09,2017-10-13
+"Tong, Tsz Chun 湯子俊",None,sfclicrec.asp?p=128569,ATS073,http://www.sfc.hk/publicregWeb/indi/ATS073/licenceRecord,,,Rep,2016-08-25,2016-09-15
+"Wong, Chung Keung 王仲強",None,sfclicrec.asp?p=2396300,BEZ140,http://www.sfc.hk/publicregWeb/indi/BEZ140/licenceRecord,,,Rep,2015-03-23,2016-08-19
+"Wong, Kwok Wing 黃國榮",None,sfclicrec.asp?p=2072099,BBH901,http://www.sfc.hk/publicregWeb/indi/BBH901/licenceRecord,,,Rep,2016-11-10,2017-01-27
+"Wong, Wing On 王永安",None,sfclicrec.asp?p=2317786,BEA130,http://www.sfc.hk/publicregWeb/indi/BEA130/licenceRecord,,,Rep,2017-08-04,2017-12-08

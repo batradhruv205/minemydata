@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cai, Wenjun 蔡文君",sfclicrec.asp?p=23380039,,,Rep,2019-07-03,
-"Chan, Eric Yau Kit 陳有傑",sfclicrec.asp?p=16047,72,M,RO,2017-04-27,
-"Chan, Kar Wah 陳家驊",sfclicrec.asp?p=78331,,,Rep,2018-03-01,2018-05-17
-"Chan, Kar Wah 陳家驊",sfclicrec.asp?p=78331,,,RO,2018-05-17,2018-09-30
-"Chen, Xiaofang (SFC:ARG412) 陳曉芳",sfclicrec.asp?p=80589,,,RO,2017-11-28,
-"Fu, Ting Ting 傅婷婷",sfclicrec.asp?p=99739,,,Rep,2017-07-18,2018-07-31
-"Leung, Terry Wai Wa 梁偉華",sfclicrec.asp?p=92501,,,RO,2017-04-27,2017-12-29
-"Pak, Tsz Hin 白子軒",sfclicrec.asp?p=71849,,,Rep,2019-10-14,2019-10-29
-"Pak, Tsz Hin 白子軒",sfclicrec.asp?p=71849,,,RO,2019-10-29,
-"Tam, Jack Kwok Wai 譚國偉",sfclicrec.asp?p=83003,,M,RO,2018-11-14,2019-10-15
-"Zhu, Yuxiu 朱玉秀",sfclicrec.asp?p=12601211,,,Rep,2017-11-27,2018-11-14
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cai, Wenjun 蔡文君",None,sfclicrec.asp?p=23380039,BOK496,http://www.sfc.hk/publicregWeb/indi/BOK496/licenceRecord,,,Rep,2019-07-03,
+"Chan, Eric Yau Kit 陳有傑",None,sfclicrec.asp?p=16047,AAD840,http://www.sfc.hk/publicregWeb/indi/AAD840/licenceRecord,72.0,M,RO,2017-04-27,
+"Chan, Kar Wah 陳家驊",None,sfclicrec.asp?p=78331,ADS842,http://www.sfc.hk/publicregWeb/indi/ADS842/licenceRecord,,,Rep,2018-03-01,2018-05-17
+"Chan, Kar Wah 陳家驊",None,sfclicrec.asp?p=78331,ADS842,http://www.sfc.hk/publicregWeb/indi/ADS842/licenceRecord,,,RO,2018-05-17,2018-09-30
+"Chen, Xiaofang (SFC:ARG412) 陳曉芳",None,sfclicrec.asp?p=80589,ARG412,http://www.sfc.hk/publicregWeb/indi/ARG412/licenceRecord,,,RO,2017-11-28,
+"Fu, Ting Ting 傅婷婷",None,sfclicrec.asp?p=99739,AAY612,http://www.sfc.hk/publicregWeb/indi/AAY612/licenceRecord,,,Rep,2017-07-18,2018-07-31
+"Leung, Terry Wai Wa 梁偉華",None,sfclicrec.asp?p=92501,AOJ441,http://www.sfc.hk/publicregWeb/indi/AOJ441/licenceRecord,,,RO,2017-04-27,2017-12-29
+"Pak, Tsz Hin 白子軒",None,sfclicrec.asp?p=71849,ARO895,http://www.sfc.hk/publicregWeb/indi/ARO895/licenceRecord,,,Rep,2019-10-14,2019-10-29
+"Pak, Tsz Hin 白子軒",None,sfclicrec.asp?p=71849,ARO895,http://www.sfc.hk/publicregWeb/indi/ARO895/licenceRecord,,,RO,2019-10-29,
+"Tam, Jack Kwok Wai 譚國偉",None,sfclicrec.asp?p=83003,AAA196,http://www.sfc.hk/publicregWeb/indi/AAA196/licenceRecord,,M,RO,2018-11-14,2019-10-15
+"Zhu, Yuxiu 朱玉秀",None,sfclicrec.asp?p=12601211,BLF263,http://www.sfc.hk/publicregWeb/indi/BLF263/licenceRecord,,,Rep,2017-11-27,2018-11-14

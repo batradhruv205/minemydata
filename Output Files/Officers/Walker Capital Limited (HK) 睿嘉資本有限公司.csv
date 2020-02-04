@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Nicholas Tat Hei 鄭達浠",sfclicrec.asp?p=1944961,,M,Rep,2018-02-15,2018-04-19
-"Cheng, Nicholas Tat Hei 鄭達浠",sfclicrec.asp?p=1944961,,M,RO,2018-04-19,
-"Guo, Tianxiao 郭天晓",sfclicrec.asp?p=22809167,,,Rep,2019-02-21,
-"Kwong, Wang Pok 鄺宏博",sfclicrec.asp?p=100954,,,RO,2017-07-28,
-"Tam, Yvonne Yuk Ching 譚玉青",sfclicrec.asp?p=122330,,F,RO,2014-09-24,2018-11-26
-"Wong, Andrew Yui Cheong 黃裔昌",sfclicrec.asp?p=2384861,,M,Rep,2015-02-16,2015-12-29
-"Yiu, Louis Chi Ming 姚志明",sfclicrec.asp?p=14418,60,M,RO,2014-09-24,2015-12-18
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Nicholas Tat Hei 鄭達浠",None,sfclicrec.asp?p=1944961,BAA429,http://www.sfc.hk/publicregWeb/indi/BAA429/licenceRecord,,M,Rep,2018-02-15,2018-04-19
+"Cheng, Nicholas Tat Hei 鄭達浠",None,sfclicrec.asp?p=1944961,BAA429,http://www.sfc.hk/publicregWeb/indi/BAA429/licenceRecord,,M,RO,2018-04-19,
+"Guo, Tianxiao 郭天晓",None,sfclicrec.asp?p=22809167,BOC664,http://www.sfc.hk/publicregWeb/indi/BOC664/licenceRecord,,,Rep,2019-02-21,
+"Kwong, Wang Pok 鄺宏博",None,sfclicrec.asp?p=100954,AAD943,http://www.sfc.hk/publicregWeb/indi/AAD943/licenceRecord,,,RO,2017-07-28,
+"Tam, Yvonne Yuk Ching 譚玉青",None,sfclicrec.asp?p=122330,APJ124,http://www.sfc.hk/publicregWeb/indi/APJ124/licenceRecord,,F,RO,2014-09-24,2018-11-26
+"Wong, Andrew Yui Cheong 黃裔昌",None,sfclicrec.asp?p=2384861,BDO256,http://www.sfc.hk/publicregWeb/indi/BDO256/licenceRecord,,M,Rep,2015-02-16,2015-12-29
+"Yiu, Louis Chi Ming 姚志明",None,sfclicrec.asp?p=14418,AEP392,http://www.sfc.hk/publicregWeb/indi/AEP392/licenceRecord,60.0,M,RO,2014-09-24,2015-12-18

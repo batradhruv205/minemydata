@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Pat Wing 陳弼榮",sfclicrec.asp?p=91032,,,RO,2019-10-21,
-"Cheung, Wing Keung (SFC:AXC714) 張永強",sfclicrec.asp?p=73161,,,Rep,2019-12-27,
-"Im, Stephen Kai Chuen 嚴啟銓",sfclicrec.asp?p=46940,48,M,Rep,2019-07-05,
-"Keung, Kam Chuen 姜錦全",sfclicrec.asp?p=100306,,,RO,2018-07-20,
-"Lee, Ka Him 李家謙",sfclicrec.asp?p=73253,,,RO,2019-12-24,
-"Orr, Joseph Wai Shing 柯偉聲",sfclicrec.asp?p=22923,60,M,RO,2016-08-18,2017-08-18
-"Tam, Arthur Kin Man 譚建文",sfclicrec.asp?p=85937,,M,RO,2017-11-07,
-"Tang, Andrew Ping Sum 鄧炳森",sfclicrec.asp?p=11917,63,M,RO,2016-08-18,2017-11-26
-"Ton, Suzanne To Quan 孫素君",sfclicrec.asp?p=101796,,F,Rep,2016-11-03,2018-01-02
-"Wong, Wai Sze (SFC:BAA860) 黃慧思",sfclicrec.asp?p=1964506,,,Rep,2016-10-04,2018-01-04
-"Xie, Weiquan 謝偉全",sfclicrec.asp?p=2203547,39,M,Rep,2016-10-14,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Pat Wing 陳弼榮",None,sfclicrec.asp?p=91032,AAV784,http://www.sfc.hk/publicregWeb/indi/AAV784/licenceRecord,,,RO,2019-10-21,
+"Cheung, Wing Keung (SFC:AXC714) 張永強",None,sfclicrec.asp?p=73161,AXC714,http://www.sfc.hk/publicregWeb/indi/AXC714/licenceRecord,,,Rep,2019-12-27,
+"Im, Stephen Kai Chuen 嚴啟銓",None,sfclicrec.asp?p=46940,APC198,http://www.sfc.hk/publicregWeb/indi/APC198/licenceRecord,48.0,M,Rep,2019-07-05,
+"Keung, Kam Chuen 姜錦全",None,sfclicrec.asp?p=100306,AAE998,http://www.sfc.hk/publicregWeb/indi/AAE998/licenceRecord,,,RO,2018-07-20,
+"Lee, Ka Him 李家謙",None,sfclicrec.asp?p=73253,AKV007,http://www.sfc.hk/publicregWeb/indi/AKV007/licenceRecord,,,RO,2019-12-24,
+"Orr, Joseph Wai Shing 柯偉聲",None,sfclicrec.asp?p=22923,AHF354,http://www.sfc.hk/publicregWeb/indi/AHF354/licenceRecord,60.0,M,RO,2016-08-18,2017-08-18
+"Tam, Arthur Kin Man 譚建文",None,sfclicrec.asp?p=85937,ANM878,http://www.sfc.hk/publicregWeb/indi/ANM878/licenceRecord,,M,RO,2017-11-07,
+"Tang, Andrew Ping Sum 鄧炳森",None,sfclicrec.asp?p=11917,AEL276,http://www.sfc.hk/publicregWeb/indi/AEL276/licenceRecord,63.0,M,RO,2016-08-18,2017-11-26
+"Ton, Suzanne To Quan 孫素君",None,sfclicrec.asp?p=101796,AAZ188,http://www.sfc.hk/publicregWeb/indi/AAZ188/licenceRecord,,F,Rep,2016-11-03,2018-01-02
+"Wong, Wai Sze (SFC:BAA860) 黃慧思",None,sfclicrec.asp?p=1964506,BAA860,http://www.sfc.hk/publicregWeb/indi/BAA860/licenceRecord,,,Rep,2016-10-04,2018-01-04
+"Xie, Weiquan 謝偉全",None,sfclicrec.asp?p=2203547,BCS746,http://www.sfc.hk/publicregWeb/indi/BCS746/licenceRecord,39.0,M,Rep,2016-10-14,

@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Choy, Yin Hing 蔡燕馨",sfclicrec.asp?p=104265,,,Rep,2005-03-03,
-"Fung, Sau Mei 馮秀美",sfclicrec.asp?p=103752,,,Rep,2005-03-03,
-"Fung, Yuen Mei 馮婉媚",sfclicrec.asp?p=104266,,,Rep,2005-03-03,2006-06-01
-"Lee, Lau Shek 李流錫",sfclicrec.asp?p=101188,,,RO,2005-03-03,
-"Lee, Shu Kuen 李樹權",sfclicrec.asp?p=101183,,,RO,2005-03-03,
-"Lee, Wai Leung Michael (SFC:ARF373) 李偉良",sfclicrec.asp?p=125763,,,Rep,2008-07-03,
-"Lee, Wilson Chi Ho 李志豪",sfclicrec.asp?p=116776,,M,Rep,2005-11-01,2017-10-26
-"Lee, Wilson Chi Ho 李志豪",sfclicrec.asp?p=116776,,M,RO,2017-10-26,
-"Ng, Chui Yuk 吳翠玉",sfclicrec.asp?p=101801,,,Rep,2005-03-03,
-"Tam, Jennifer Hoi Ling 譚凱寧",sfclicrec.asp?p=120137,,F,Rep,2012-01-09,2013-03-02
-"Wu, Kwok Chuen 胡國全",sfclicrec.asp?p=102182,,,Rep,2005-03-03,2007-03-01
-"Wu, Kwok Chuen 胡國全",sfclicrec.asp?p=102182,,,Rep,2007-08-28,2011-10-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Choy, Yin Hing 蔡燕馨",None,sfclicrec.asp?p=104265,ADV429,http://www.sfc.hk/publicregWeb/indi/ADV429/licenceRecord,,,Rep,2005-03-03,
+"Fung, Sau Mei 馮秀美",None,sfclicrec.asp?p=103752,ADH586,http://www.sfc.hk/publicregWeb/indi/ADH586/licenceRecord,,,Rep,2005-03-03,
+"Fung, Yuen Mei 馮婉媚",None,sfclicrec.asp?p=104266,ADV430,http://www.sfc.hk/publicregWeb/indi/ADV430/licenceRecord,,,Rep,2005-03-03,2006-06-01
+"Lee, Lau Shek 李流錫",None,sfclicrec.asp?p=101188,AAG062,http://www.sfc.hk/publicregWeb/indi/AAG062/licenceRecord,,,RO,2005-03-03,
+"Lee, Shu Kuen 李樹權",None,sfclicrec.asp?p=101183,AAG035,http://www.sfc.hk/publicregWeb/indi/AAG035/licenceRecord,,,RO,2005-03-03,
+"Lee, Wai Leung Michael (SFC:ARF373) 李偉良",None,sfclicrec.asp?p=125763,ARF373,http://www.sfc.hk/publicregWeb/indi/ARF373/licenceRecord,,,Rep,2008-07-03,
+"Lee, Wilson Chi Ho 李志豪",None,sfclicrec.asp?p=116776,AMK405,http://www.sfc.hk/publicregWeb/indi/AMK405/licenceRecord,,M,Rep,2005-11-01,2017-10-26
+"Lee, Wilson Chi Ho 李志豪",None,sfclicrec.asp?p=116776,AMK405,http://www.sfc.hk/publicregWeb/indi/AMK405/licenceRecord,,M,RO,2017-10-26,
+"Ng, Chui Yuk 吳翠玉",None,sfclicrec.asp?p=101801,AAZ358,http://www.sfc.hk/publicregWeb/indi/AAZ358/licenceRecord,,,Rep,2005-03-03,
+"Tam, Jennifer Hoi Ling 譚凱寧",None,sfclicrec.asp?p=120137,AOE539,http://www.sfc.hk/publicregWeb/indi/AOE539/licenceRecord,,F,Rep,2012-01-09,2013-03-02
+"Wu, Kwok Chuen 胡國全",None,sfclicrec.asp?p=102182,ABO012,http://www.sfc.hk/publicregWeb/indi/ABO012/licenceRecord,,,Rep,2005-03-03,2007-03-01
+"Wu, Kwok Chuen 胡國全",None,sfclicrec.asp?p=102182,ABO012,http://www.sfc.hk/publicregWeb/indi/ABO012/licenceRecord,,,Rep,2007-08-28,2011-10-31

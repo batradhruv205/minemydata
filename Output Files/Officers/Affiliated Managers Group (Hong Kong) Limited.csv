@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Collier, Sally Clare (SFC:AVV156) ",sfclicrec.asp?p=130266,,F,RO,2010-12-07,2013-06-27
-"Kang, In Do 姜寅都",sfclicrec.asp?p=2439281,,,Rep,2015-06-23,2016-06-15
-"Kang, In Do 姜寅都",sfclicrec.asp?p=2439281,,,RO,2016-06-15,
-"Sim, James Choon Wen 沈俊文",sfclicrec.asp?p=118543,,M,RO,2010-12-07,2019-04-04
-"Toh, Xing Yu 卓幸瑜",sfclicrec.asp?p=2144360,,,Rep,2017-12-28,2019-09-11
-"Toh, Xing Yu 卓幸瑜",sfclicrec.asp?p=2144360,,,RO,2019-09-11,
-"Wilmerding, Alexander (SFC:ASI434) ",sfclicrec.asp?p=127513,,M,RO,2013-06-14,2019-10-22
-"Wilmerding, Alexander (SFC:ASI434) ",sfclicrec.asp?p=127513,,M,Rep,2019-10-22,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Collier, Sally Clare (SFC:AVV156) ",None,sfclicrec.asp?p=130266,AVV156,http://www.sfc.hk/publicregWeb/indi/AVV156/licenceRecord,,F,RO,2010-12-07,2013-06-27
+"Kang, In Do 姜寅都",None,sfclicrec.asp?p=2439281,BFR476,http://www.sfc.hk/publicregWeb/indi/BFR476/licenceRecord,,,Rep,2015-06-23,2016-06-15
+"Kang, In Do 姜寅都",None,sfclicrec.asp?p=2439281,BFR476,http://www.sfc.hk/publicregWeb/indi/BFR476/licenceRecord,,,RO,2016-06-15,
+"Sim, James Choon Wen 沈俊文",None,sfclicrec.asp?p=118543,ANJ786,http://www.sfc.hk/publicregWeb/indi/ANJ786/licenceRecord,,M,RO,2010-12-07,2019-04-04
+"Toh, Xing Yu 卓幸瑜",None,sfclicrec.asp?p=2144360,BBX994,http://www.sfc.hk/publicregWeb/indi/BBX994/licenceRecord,,,Rep,2017-12-28,2019-09-11
+"Toh, Xing Yu 卓幸瑜",None,sfclicrec.asp?p=2144360,BBX994,http://www.sfc.hk/publicregWeb/indi/BBX994/licenceRecord,,,RO,2019-09-11,
+"Wilmerding, Alexander (SFC:ASI434) ",None,sfclicrec.asp?p=127513,ASI434,http://www.sfc.hk/publicregWeb/indi/ASI434/licenceRecord,,M,RO,2013-06-14,2019-10-22
+"Wilmerding, Alexander (SFC:ASI434) ",None,sfclicrec.asp?p=127513,ASI434,http://www.sfc.hk/publicregWeb/indi/ASI434/licenceRecord,,M,Rep,2019-10-22,

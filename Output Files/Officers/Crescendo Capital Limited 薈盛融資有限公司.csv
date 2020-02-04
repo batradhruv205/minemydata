@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Diu, Dave 刁麒成",sfclicrec.asp?p=2656154,,M,Rep,2019-01-18,2019-10-08
-"Fan, Helen Hoi Yan 范凱恩",sfclicrec.asp?p=82777,,F,RO,2017-05-08,
-"Lam, Tsz Kit (SFC:BJE766) 林子傑",sfclicrec.asp?p=2708298,,,Rep,2017-11-06,2018-10-23
-"Tsang, Amilia Wing Yee 曾詠儀",sfclicrec.asp?p=34103,49,F,RO,2017-05-08,
-"Yang, Susu 楊素愫",sfclicrec.asp?p=12585580,,,Rep,2017-11-20,2018-10-20
-"Yip, Ka Ki (SFC:BJR629) 葉嘉琪",sfclicrec.asp?p=11679637,,,Rep,2017-06-30,
-"Yu, Man Ho (SFC:BLF892) 余文浩",sfclicrec.asp?p=12495584,,,Rep,2017-11-10,2017-11-24
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Diu, Dave 刁麒成",None,sfclicrec.asp?p=2656154,BIN437,http://www.sfc.hk/publicregWeb/indi/BIN437/licenceRecord,,M,Rep,2019-01-18,2019-10-08
+"Fan, Helen Hoi Yan 范凱恩",None,sfclicrec.asp?p=82777,APF684,http://www.sfc.hk/publicregWeb/indi/APF684/licenceRecord,,F,RO,2017-05-08,
+"Lam, Tsz Kit (SFC:BJE766) 林子傑",None,sfclicrec.asp?p=2708298,BJE766,http://www.sfc.hk/publicregWeb/indi/BJE766/licenceRecord,,,Rep,2017-11-06,2018-10-23
+"Tsang, Amilia Wing Yee 曾詠儀",None,sfclicrec.asp?p=34103,ACX706,http://www.sfc.hk/publicregWeb/indi/ACX706/licenceRecord,49.0,F,RO,2017-05-08,
+"Yang, Susu 楊素愫",None,sfclicrec.asp?p=12585580,BLI005,http://www.sfc.hk/publicregWeb/indi/BLI005/licenceRecord,,,Rep,2017-11-20,2018-10-20
+"Yip, Ka Ki (SFC:BJR629) 葉嘉琪",None,sfclicrec.asp?p=11679637,BJR629,http://www.sfc.hk/publicregWeb/indi/BJR629/licenceRecord,,,Rep,2017-06-30,
+"Yu, Man Ho (SFC:BLF892) 余文浩",None,sfclicrec.asp?p=12495584,BLF892,http://www.sfc.hk/publicregWeb/indi/BLF892/licenceRecord,,,Rep,2017-11-10,2017-11-24

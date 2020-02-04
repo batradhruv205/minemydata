@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Guo, Dajiang 過大江",sfclicrec.asp?p=74170,,,RO,2018-07-20,
-"Liu, Wai Kuen 廖偉權",sfclicrec.asp?p=72089,,,RO,2018-07-20,2019-09-20
-"Lu, Yilin (SFC:AOG682) 呂禕麟",sfclicrec.asp?p=73437,39,M,RO,2018-07-20,2019-03-05
-"Lu, Yilin (SFC:AOG682) 呂禕麟",sfclicrec.asp?p=73437,39,M,RO,2019-08-14,2020-01-21
-"Tsang, Ming Fung 曾銘楓",sfclicrec.asp?p=81576,,,Rep,2019-03-18,2019-05-07
-"Tsang, Ming Fung 曾銘楓",sfclicrec.asp?p=81576,,,RO,2019-05-07,2019-06-17
-"Yiu, Tak Yin 姚得賢",sfclicrec.asp?p=93140,,,RO,2019-02-28,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Guo, Dajiang 過大江",None,sfclicrec.asp?p=74170,ATE173,http://www.sfc.hk/publicregWeb/indi/ATE173/licenceRecord,,,RO,2018-07-20,
+"Liu, Wai Kuen 廖偉權",None,sfclicrec.asp?p=72089,AAC325,http://www.sfc.hk/publicregWeb/indi/AAC325/licenceRecord,,,RO,2018-07-20,2019-09-20
+"Lu, Yilin (SFC:AOG682) 呂禕麟",None,sfclicrec.asp?p=73437,AOG682,http://www.sfc.hk/publicregWeb/indi/AOG682/licenceRecord,39.0,M,RO,2018-07-20,2019-03-05
+"Lu, Yilin (SFC:AOG682) 呂禕麟",None,sfclicrec.asp?p=73437,AOG682,http://www.sfc.hk/publicregWeb/indi/AOG682/licenceRecord,39.0,M,RO,2019-08-14,2020-01-21
+"Tsang, Ming Fung 曾銘楓",None,sfclicrec.asp?p=81576,ANR264,http://www.sfc.hk/publicregWeb/indi/ANR264/licenceRecord,,,Rep,2019-03-18,2019-05-07
+"Tsang, Ming Fung 曾銘楓",None,sfclicrec.asp?p=81576,ANR264,http://www.sfc.hk/publicregWeb/indi/ANR264/licenceRecord,,,RO,2019-05-07,2019-06-17
+"Yiu, Tak Yin 姚得賢",None,sfclicrec.asp?p=93140,AGK517,http://www.sfc.hk/publicregWeb/indi/AGK517/licenceRecord,,,RO,2019-02-28,

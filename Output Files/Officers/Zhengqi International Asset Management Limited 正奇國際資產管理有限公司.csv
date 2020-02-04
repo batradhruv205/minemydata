@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Yibiao (SFC:AXN055) 陳宜飆",sfclicrec.asp?p=100227,,,RO,2019-10-16,2019-10-31
-"Han, Lijun 韓立軍",sfclicrec.asp?p=23800605,,,RO,2019-10-16,
-"Shi, Faqi 時發奇",sfclicrec.asp?p=23800606,,,RO,2019-10-16,2020-01-17
-"Zhang, Feiran 張斐然",sfclicrec.asp?p=2446602,,,Rep,2019-11-25,2020-01-08
-"Zhang, Feiran 張斐然",sfclicrec.asp?p=2446602,,,RO,2020-01-08,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Yibiao (SFC:AXN055) 陳宜飆",None,sfclicrec.asp?p=100227,AXN055,http://www.sfc.hk/publicregWeb/indi/AXN055/licenceRecord,,,RO,2019-10-16,2019-10-31
+"Han, Lijun 韓立軍",None,sfclicrec.asp?p=23800605,BOM293,http://www.sfc.hk/publicregWeb/indi/BOM293/licenceRecord,,,RO,2019-10-16,
+"Shi, Faqi 時發奇",None,sfclicrec.asp?p=23800606,BOM314,http://www.sfc.hk/publicregWeb/indi/BOM314/licenceRecord,,,RO,2019-10-16,2020-01-17
+"Zhang, Feiran 張斐然",None,sfclicrec.asp?p=2446602,BFU387,http://www.sfc.hk/publicregWeb/indi/BFU387/licenceRecord,,,Rep,2019-11-25,2020-01-08
+"Zhang, Feiran 張斐然",None,sfclicrec.asp?p=2446602,BFU387,http://www.sfc.hk/publicregWeb/indi/BFU387/licenceRecord,,,RO,2020-01-08,

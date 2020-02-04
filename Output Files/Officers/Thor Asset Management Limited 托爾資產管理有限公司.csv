@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chow, Johnson Chung Shun 周忠信",sfclicrec.asp?p=72704,,M,RO,2018-05-04,
-"Ding, Qi (SFC:AWV316) 丁琪",sfclicrec.asp?p=12071042,,,Rep,2019-08-29,2019-10-30
-"Ding, Qi (SFC:AWV316) 丁琪",sfclicrec.asp?p=12071042,,,RO,2019-10-30,
-"Hung, Chun Kit 熊俊傑",sfclicrec.asp?p=12650980,,,Rep,2018-08-06,2019-01-27
-"Qiu, Kang 仇康",sfclicrec.asp?p=68591,,,Rep,2019-06-19,
-"Tong, Man Sang 湯文生",sfclicrec.asp?p=79921,,,Rep,2019-04-03,2019-04-08
-"Tong, Man Sang 湯文生",sfclicrec.asp?p=79921,,,RO,2019-04-08,
-"Tong, Tung Mui 唐冬梅",sfclicrec.asp?p=82037,,,Rep,2018-10-29,
-"Wong, Wai Keung (SFC:ACL006) 黃偉強",sfclicrec.asp?p=81978,,,RO,2018-05-04,2019-04-30
-"Wong, Wai Keung (SFC:ACL006) 黃偉強",sfclicrec.asp?p=81978,,,Rep,2019-06-28,
-"Wu, Tony Li Yang 吳立揚",sfclicrec.asp?p=82055,,M,Rep,2019-03-14,2019-07-16
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chow, Johnson Chung Shun 周忠信",None,sfclicrec.asp?p=72704,AEF857,http://www.sfc.hk/publicregWeb/indi/AEF857/licenceRecord,,M,RO,2018-05-04,
+"Ding, Qi (SFC:AWV316) 丁琪",None,sfclicrec.asp?p=12071042,AWV316,http://www.sfc.hk/publicregWeb/indi/AWV316/licenceRecord,,,Rep,2019-08-29,2019-10-30
+"Ding, Qi (SFC:AWV316) 丁琪",None,sfclicrec.asp?p=12071042,AWV316,http://www.sfc.hk/publicregWeb/indi/AWV316/licenceRecord,,,RO,2019-10-30,
+"Hung, Chun Kit 熊俊傑",None,sfclicrec.asp?p=12650980,BLM883,http://www.sfc.hk/publicregWeb/indi/BLM883/licenceRecord,,,Rep,2018-08-06,2019-01-27
+"Qiu, Kang 仇康",None,sfclicrec.asp?p=68591,AQX035,http://www.sfc.hk/publicregWeb/indi/AQX035/licenceRecord,,,Rep,2019-06-19,
+"Tong, Man Sang 湯文生",None,sfclicrec.asp?p=79921,ATR043,http://www.sfc.hk/publicregWeb/indi/ATR043/licenceRecord,,,Rep,2019-04-03,2019-04-08
+"Tong, Man Sang 湯文生",None,sfclicrec.asp?p=79921,ATR043,http://www.sfc.hk/publicregWeb/indi/ATR043/licenceRecord,,,RO,2019-04-08,
+"Tong, Tung Mui 唐冬梅",None,sfclicrec.asp?p=82037,AMY404,http://www.sfc.hk/publicregWeb/indi/AMY404/licenceRecord,,,Rep,2018-10-29,
+"Wong, Wai Keung (SFC:ACL006) 黃偉強",None,sfclicrec.asp?p=81978,ACL006,http://www.sfc.hk/publicregWeb/indi/ACL006/licenceRecord,,,RO,2018-05-04,2019-04-30
+"Wong, Wai Keung (SFC:ACL006) 黃偉強",None,sfclicrec.asp?p=81978,ACL006,http://www.sfc.hk/publicregWeb/indi/ACL006/licenceRecord,,,Rep,2019-06-28,
+"Wu, Tony Li Yang 吳立揚",None,sfclicrec.asp?p=82055,AWW749,http://www.sfc.hk/publicregWeb/indi/AWW749/licenceRecord,,M,Rep,2019-03-14,2019-07-16

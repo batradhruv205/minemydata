@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chow, Wing Cheong Wilson 周永昌",sfclicrec.asp?p=2554005,,,Rep,2016-04-01,
-"Fong, Christopher Kin-Fung 方健豐",sfclicrec.asp?p=2538813,,M,RO,2016-02-23,
-"Kong, Johnny Shan 江山",sfclicrec.asp?p=116758,,M,RO,2016-02-23,
-"Lam, Wing Man (SFC:BPF146) 林詠文",sfclicrec.asp?p=24024132,,,Rep,2019-12-16,
-"Leung, Jonathan Koon-Fung 梁冠峯",sfclicrec.asp?p=1849632,,M,Rep,2018-06-20,
-"Liang, Sai Yip Justino 梁世業",sfclicrec.asp?p=2539193,,,Rep,2016-02-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chow, Wing Cheong Wilson 周永昌",None,sfclicrec.asp?p=2554005,BHG392,http://www.sfc.hk/publicregWeb/indi/BHG392/licenceRecord,,,Rep,2016-04-01,
+"Fong, Christopher Kin-Fung 方健豐",None,sfclicrec.asp?p=2538813,BGH909,http://www.sfc.hk/publicregWeb/indi/BGH909/licenceRecord,,M,RO,2016-02-23,
+"Kong, Johnny Shan 江山",None,sfclicrec.asp?p=116758,AMK257,http://www.sfc.hk/publicregWeb/indi/AMK257/licenceRecord,,M,RO,2016-02-23,
+"Lam, Wing Man (SFC:BPF146) 林詠文",None,sfclicrec.asp?p=24024132,BPF146,http://www.sfc.hk/publicregWeb/indi/BPF146/licenceRecord,,,Rep,2019-12-16,
+"Leung, Jonathan Koon-Fung 梁冠峯",None,sfclicrec.asp?p=1849632,AYS657,http://www.sfc.hk/publicregWeb/indi/AYS657/licenceRecord,,M,Rep,2018-06-20,
+"Liang, Sai Yip Justino 梁世業",None,sfclicrec.asp?p=2539193,BGH913,http://www.sfc.hk/publicregWeb/indi/BGH913/licenceRecord,,,Rep,2016-02-24,

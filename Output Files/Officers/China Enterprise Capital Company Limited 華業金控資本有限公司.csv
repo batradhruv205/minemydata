@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ip, Tsz King 葉子敬",sfclicrec.asp?p=2434411,,,Rep,2019-02-04,2019-03-29
-"Lee, Man Wood 李文活",sfclicrec.asp?p=12647966,,,RO,2017-12-15,2018-06-15
-"Sam Chang, Segundo Willy 沈維理",sfclicrec.asp?p=111062,,M,RO,2017-12-15,2019-04-03
-"Sung, Ronald Hiu Fai 宋曉輝",sfclicrec.asp?p=64540,43,M,RO,2017-12-15,2018-06-30
-"Ying, Tak Sun Nelson 應德信",sfclicrec.asp?p=12647967,,,RO,2017-12-15,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ip, Tsz King 葉子敬",None,sfclicrec.asp?p=2434411,BFL255,http://www.sfc.hk/publicregWeb/indi/BFL255/licenceRecord,,,Rep,2019-02-04,2019-03-29
+"Lee, Man Wood 李文活",None,sfclicrec.asp?p=12647966,BKB920,http://www.sfc.hk/publicregWeb/indi/BKB920/licenceRecord,,,RO,2017-12-15,2018-06-15
+"Sam Chang, Segundo Willy 沈維理",None,sfclicrec.asp?p=111062,AHE451,http://www.sfc.hk/publicregWeb/indi/AHE451/licenceRecord,,M,RO,2017-12-15,2019-04-03
+"Sung, Ronald Hiu Fai 宋曉輝",None,sfclicrec.asp?p=64540,AIU569,http://www.sfc.hk/publicregWeb/indi/AIU569/licenceRecord,43.0,M,RO,2017-12-15,2018-06-30
+"Ying, Tak Sun Nelson 應德信",None,sfclicrec.asp?p=12647967,AMY780,http://www.sfc.hk/publicregWeb/indi/AMY780/licenceRecord,,,RO,2017-12-15,

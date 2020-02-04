@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au, Chi Ying 區姿瑩",sfclicrec.asp?p=92376,,F,RO,2014-05-27,2017-06-17
-"Bi, Congyang 畢叢楊",sfclicrec.asp?p=22996269,,,Rep,2019-04-04,
-"Chan, Chi Hang (SFC:ALH858) 陳志恆",sfclicrec.asp?p=93584,45,M,RO,2017-06-15,
-"Deng, Ling (SFC:BOG722) 鄧玲",sfclicrec.asp?p=23254461,,,Rep,2019-06-03,
-"Huang, Shao Hsuan 黃劭萱",sfclicrec.asp?p=92454,,,RO,2014-05-27,2015-06-09
-"Lee, Tsz Hin (SFC:ATN988) 李子軒",sfclicrec.asp?p=79898,,,Rep,2017-07-03,2019-02-28
-"Li, Hon Leung 李漢良",sfclicrec.asp?p=93038,,,RO,2018-01-10,2018-02-28
-"Lo, Hoi Ching 盧凱程",sfclicrec.asp?p=2482635,,,Rep,2015-10-05,2017-10-06
-"Lo, Hoi Ching 盧凱程",sfclicrec.asp?p=2482635,,,Rep,2019-04-29,2019-05-09
-"Lo, Hoi Ching 盧凱程",sfclicrec.asp?p=2482635,,,RO,2019-05-09,
-"Luk, Tai Choi 陸棣才",sfclicrec.asp?p=48954,58,M,RO,2015-11-02,2016-12-01
-"Xiong, Jing (SFC:BGH119) 熊靜",sfclicrec.asp?p=2479456,,,Rep,2019-08-29,
-"Yin, Jiahao 尹嘉豪",sfclicrec.asp?p=2401248,,,Rep,2015-04-01,2016-12-12
-"Yin, Jiahao 尹嘉豪",sfclicrec.asp?p=2401248,,,RO,2016-12-12,2019-03-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au, Chi Ying 區姿瑩",None,sfclicrec.asp?p=92376,ADJ878,http://www.sfc.hk/publicregWeb/indi/ADJ878/licenceRecord,,F,RO,2014-05-27,2017-06-17
+"Bi, Congyang 畢叢楊",None,sfclicrec.asp?p=22996269,BNJ708,http://www.sfc.hk/publicregWeb/indi/BNJ708/licenceRecord,,,Rep,2019-04-04,
+"Chan, Chi Hang (SFC:ALH858) 陳志恆",None,sfclicrec.asp?p=93584,ALH858,http://www.sfc.hk/publicregWeb/indi/ALH858/licenceRecord,45.0,M,RO,2017-06-15,
+"Deng, Ling (SFC:BOG722) 鄧玲",None,sfclicrec.asp?p=23254461,BOG722,http://www.sfc.hk/publicregWeb/indi/BOG722/licenceRecord,,,Rep,2019-06-03,
+"Huang, Shao Hsuan 黃劭萱",None,sfclicrec.asp?p=92454,AWY449,http://www.sfc.hk/publicregWeb/indi/AWY449/licenceRecord,,,RO,2014-05-27,2015-06-09
+"Lee, Tsz Hin (SFC:ATN988) 李子軒",None,sfclicrec.asp?p=79898,ATN988,http://www.sfc.hk/publicregWeb/indi/ATN988/licenceRecord,,,Rep,2017-07-03,2019-02-28
+"Li, Hon Leung 李漢良",None,sfclicrec.asp?p=93038,AJC118,http://www.sfc.hk/publicregWeb/indi/AJC118/licenceRecord,,,RO,2018-01-10,2018-02-28
+"Lo, Hoi Ching 盧凱程",None,sfclicrec.asp?p=2482635,BGD992,http://www.sfc.hk/publicregWeb/indi/BGD992/licenceRecord,,,Rep,2015-10-05,2017-10-06
+"Lo, Hoi Ching 盧凱程",None,sfclicrec.asp?p=2482635,BGD992,http://www.sfc.hk/publicregWeb/indi/BGD992/licenceRecord,,,Rep,2019-04-29,2019-05-09
+"Lo, Hoi Ching 盧凱程",None,sfclicrec.asp?p=2482635,BGD992,http://www.sfc.hk/publicregWeb/indi/BGD992/licenceRecord,,,RO,2019-05-09,
+"Luk, Tai Choi 陸棣才",None,sfclicrec.asp?p=48954,ACL643,http://www.sfc.hk/publicregWeb/indi/ACL643/licenceRecord,58.0,M,RO,2015-11-02,2016-12-01
+"Xiong, Jing (SFC:BGH119) 熊靜",None,sfclicrec.asp?p=2479456,BGH119,http://www.sfc.hk/publicregWeb/indi/BGH119/licenceRecord,,,Rep,2019-08-29,
+"Yin, Jiahao 尹嘉豪",None,sfclicrec.asp?p=2401248,BDD365,http://www.sfc.hk/publicregWeb/indi/BDD365/licenceRecord,,,Rep,2015-04-01,2016-12-12
+"Yin, Jiahao 尹嘉豪",None,sfclicrec.asp?p=2401248,BDD365,http://www.sfc.hk/publicregWeb/indi/BDD365/licenceRecord,,,RO,2016-12-12,2019-03-31

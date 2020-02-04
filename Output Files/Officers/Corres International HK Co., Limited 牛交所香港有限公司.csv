@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Wai Lung (SFC:AAC760) 陳偉隆",sfclicrec.asp?p=94841,,,RO,2019-03-29,
-"Fan, Yuen Yi 范婉儀",sfclicrec.asp?p=76149,,,RO,2018-09-07,2019-03-20
-"Fung, Pui Kin 馮培健",sfclicrec.asp?p=84732,,,RO,2018-09-07,2019-01-20
-"Leung, Man Fung 梁繼丰",sfclicrec.asp?p=121444,,,RO,2019-08-30,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Wai Lung (SFC:AAC760) 陳偉隆",None,sfclicrec.asp?p=94841,AAC760,http://www.sfc.hk/publicregWeb/indi/AAC760/licenceRecord,,,RO,2019-03-29,
+"Fan, Yuen Yi 范婉儀",None,sfclicrec.asp?p=76149,AEN524,http://www.sfc.hk/publicregWeb/indi/AEN524/licenceRecord,,,RO,2018-09-07,2019-03-20
+"Fung, Pui Kin 馮培健",None,sfclicrec.asp?p=84732,ALN323,http://www.sfc.hk/publicregWeb/indi/ALN323/licenceRecord,,,RO,2018-09-07,2019-01-20
+"Leung, Man Fung 梁繼丰",None,sfclicrec.asp?p=121444,AOX679,http://www.sfc.hk/publicregWeb/indi/AOX679/licenceRecord,,,RO,2019-08-30,

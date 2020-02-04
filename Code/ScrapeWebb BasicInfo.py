@@ -17,11 +17,6 @@ BasicInfo = pd.DataFrame()
 
 # This loop collects basic info for all companies
 for comp in range(0,len(companydata)):
-#    # These lines are controlling the parent loop
-#    if comp > 2:
-#        del comp
-#        break
-#    comp = 3
     
     code = companydata['SearchQ'][comp]
     print(code)

@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Angel Siu Ying 陳小熒",sfclicrec.asp?p=2409793,,F,Rep,2019-05-27,
-"Chan, Ka Ho (SFC:AWF460) 陳家豪",sfclicrec.asp?p=80265,,,RO,2019-11-12,
-"Kwok, Roy Oi Lung 郭凱龍",sfclicrec.asp?p=69654,44,M,RO,2018-11-26,2019-02-28
-"Leung, Kevin Hon Fai 梁漢輝",sfclicrec.asp?p=78813,,M,RO,2018-11-26,
-"Mak, Yin Ping (SFC:AGC695) 麥賢平",sfclicrec.asp?p=108451,,,RO,2019-11-12,
-"Wu, Xiyang 吳晞陽",sfclicrec.asp?p=2389936,,,Rep,2019-03-14,2019-06-14
-"Xu, Chongfan 許崇凡",sfclicrec.asp?p=2136520,,,Rep,2019-06-25,2019-06-26
-"Xu, Chongfan 許崇凡",sfclicrec.asp?p=2136520,,,RO,2019-06-26,
-"Yeung, Anthony Yiu Bong 楊燿邦",sfclicrec.asp?p=82622,56,M,RO,2019-11-12,
-"Zhu, Mengyu (SFC:BBS508) 朱梦娛",sfclicrec.asp?p=2115707,,,RO,2019-02-25,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Angel Siu Ying 陳小熒",None,sfclicrec.asp?p=2409793,BFH221,http://www.sfc.hk/publicregWeb/indi/BFH221/licenceRecord,,F,Rep,2019-05-27,
+"Chan, Ka Ho (SFC:AWF460) 陳家豪",None,sfclicrec.asp?p=80265,AWF460,http://www.sfc.hk/publicregWeb/indi/AWF460/licenceRecord,,,RO,2019-11-12,
+"Kwok, Roy Oi Lung 郭凱龍",None,sfclicrec.asp?p=69654,AFD745,http://www.sfc.hk/publicregWeb/indi/AFD745/licenceRecord,44.0,M,RO,2018-11-26,2019-02-28
+"Leung, Kevin Hon Fai 梁漢輝",None,sfclicrec.asp?p=78813,AOX681,http://www.sfc.hk/publicregWeb/indi/AOX681/licenceRecord,,M,RO,2018-11-26,
+"Mak, Yin Ping (SFC:AGC695) 麥賢平",None,sfclicrec.asp?p=108451,AGC695,http://www.sfc.hk/publicregWeb/indi/AGC695/licenceRecord,,,RO,2019-11-12,
+"Wu, Xiyang 吳晞陽",None,sfclicrec.asp?p=2389936,BFB077,http://www.sfc.hk/publicregWeb/indi/BFB077/licenceRecord,,,Rep,2019-03-14,2019-06-14
+"Xu, Chongfan 許崇凡",None,sfclicrec.asp?p=2136520,BBX582,http://www.sfc.hk/publicregWeb/indi/BBX582/licenceRecord,,,Rep,2019-06-25,2019-06-26
+"Xu, Chongfan 許崇凡",None,sfclicrec.asp?p=2136520,BBX582,http://www.sfc.hk/publicregWeb/indi/BBX582/licenceRecord,,,RO,2019-06-26,
+"Yeung, Anthony Yiu Bong 楊燿邦",None,sfclicrec.asp?p=82622,ADG059,http://www.sfc.hk/publicregWeb/indi/ADG059/licenceRecord,56.0,M,RO,2019-11-12,
+"Zhu, Mengyu (SFC:BBS508) 朱梦娛",None,sfclicrec.asp?p=2115707,BBS508,http://www.sfc.hk/publicregWeb/indi/BBS508/licenceRecord,,,RO,2019-02-25,

@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Wong, Ka Yi (SFC:AMX935) 黃嘉宜",sfclicrec.asp?p=99313,46,M,RO,2017-08-25,2017-09-29
-"Zhao, Qian (SFC:AOH251) 趙前",sfclicrec.asp?p=120306,,,RO,2017-08-25,2018-08-06
-"Zhao, Qian (SFC:AOH251) 趙前",sfclicrec.asp?p=120306,,,Rep,2018-09-27,2018-10-10
-"Zhao, Qian (SFC:AOH251) 趙前",sfclicrec.asp?p=120306,,,RO,2018-10-10,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Wong, Ka Yi (SFC:AMX935) 黃嘉宜",None,sfclicrec.asp?p=99313,AMX935,http://www.sfc.hk/publicregWeb/indi/AMX935/licenceRecord,46.0,M,RO,2017-08-25,2017-09-29
+"Zhao, Qian (SFC:AOH251) 趙前",None,sfclicrec.asp?p=120306,AOH251,http://www.sfc.hk/publicregWeb/indi/AOH251/licenceRecord,,,RO,2017-08-25,2018-08-06
+"Zhao, Qian (SFC:AOH251) 趙前",None,sfclicrec.asp?p=120306,AOH251,http://www.sfc.hk/publicregWeb/indi/AOH251/licenceRecord,,,Rep,2018-09-27,2018-10-10
+"Zhao, Qian (SFC:AOH251) 趙前",None,sfclicrec.asp?p=120306,AOH251,http://www.sfc.hk/publicregWeb/indi/AOH251/licenceRecord,,,RO,2018-10-10,

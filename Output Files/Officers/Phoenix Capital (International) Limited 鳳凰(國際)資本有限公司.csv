@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au, Pak Sze 歐柏斯",sfclicrec.asp?p=88684,,,Rep,2017-10-13,2019-03-04
-"Au, Pak Sze 歐柏斯",sfclicrec.asp?p=88684,,,RO,2019-03-04,
-"Chan, Lai Ying (SFC:BJM188) 陳麗盈",sfclicrec.asp?p=11543879,,,Rep,2017-06-12,2018-04-30
-"Cheung, Kevin (SFC:BOI082) 張嘉熙",sfclicrec.asp?p=23113713,,M,Rep,2019-04-30,
-"Lee, Siu Keung (SFC:AFG628) 李兆強",sfclicrec.asp?p=106090,,,Rep,2017-06-12,2018-04-18
-"Li, Dominic Song Ching 李崇正",sfclicrec.asp?p=100841,,M,RO,2016-11-29,2017-03-30
-"Liu, Manly Man Lai 廖文禮",sfclicrec.asp?p=89324,,,RO,2016-11-29,2019-01-25
-"Sit, Chi Keung 薛志強",sfclicrec.asp?p=102741,,,RO,2019-01-22,
-"Sung, Eileen Wai Man 宋慧敏",sfclicrec.asp?p=89605,,F,RO,2017-04-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au, Pak Sze 歐柏斯",None,sfclicrec.asp?p=88684,ARJ810,http://www.sfc.hk/publicregWeb/indi/ARJ810/licenceRecord,,,Rep,2017-10-13,2019-03-04
+"Au, Pak Sze 歐柏斯",None,sfclicrec.asp?p=88684,ARJ810,http://www.sfc.hk/publicregWeb/indi/ARJ810/licenceRecord,,,RO,2019-03-04,
+"Chan, Lai Ying (SFC:BJM188) 陳麗盈",None,sfclicrec.asp?p=11543879,BJM188,http://www.sfc.hk/publicregWeb/indi/BJM188/licenceRecord,,,Rep,2017-06-12,2018-04-30
+"Cheung, Kevin (SFC:BOI082) 張嘉熙",None,sfclicrec.asp?p=23113713,BOI082,http://www.sfc.hk/publicregWeb/indi/BOI082/licenceRecord,,M,Rep,2019-04-30,
+"Lee, Siu Keung (SFC:AFG628) 李兆強",None,sfclicrec.asp?p=106090,AFG628,http://www.sfc.hk/publicregWeb/indi/AFG628/licenceRecord,,,Rep,2017-06-12,2018-04-18
+"Li, Dominic Song Ching 李崇正",None,sfclicrec.asp?p=100841,AAC878,http://www.sfc.hk/publicregWeb/indi/AAC878/licenceRecord,,M,RO,2016-11-29,2017-03-30
+"Liu, Manly Man Lai 廖文禮",None,sfclicrec.asp?p=89324,ADI698,http://www.sfc.hk/publicregWeb/indi/ADI698/licenceRecord,,,RO,2016-11-29,2019-01-25
+"Sit, Chi Keung 薛志強",None,sfclicrec.asp?p=102741,ACG314,http://www.sfc.hk/publicregWeb/indi/ACG314/licenceRecord,,,RO,2019-01-22,
+"Sung, Eileen Wai Man 宋慧敏",None,sfclicrec.asp?p=89605,APA343,http://www.sfc.hk/publicregWeb/indi/APA343/licenceRecord,,F,RO,2017-04-26,

@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cannan, Katherine Ann ",sfclicrec.asp?p=2419461,,F,Rep,2015-05-12,2017-06-30
-"Cheung, Man Yee (SFC:AUZ865) 張敏儀",sfclicrec.asp?p=129620,,,Rep,2010-05-27,2012-05-02
-"Cheung, Man Yee (SFC:AUZ865) 張敏儀",sfclicrec.asp?p=129620,,,RO,2012-05-02,
-"Dwan, Kevin Michael ",sfclicrec.asp?p=1888513,,M,RO,2012-05-03,
-"Jessee, Thomas Alderson ",sfclicrec.asp?p=127560,,M,RO,2009-07-29,2012-06-01
-"Shing, Eleanor Yee Ling 盛綺玲",sfclicrec.asp?p=119257,,F,RO,2012-05-03,
-"Spratt, Nicholas Edward ",sfclicrec.asp?p=107387,,M,Rep,2018-01-25,
-"Tiu, Jonathan Beng Gie ",sfclicrec.asp?p=129619,,M,Rep,2010-07-05,2012-04-18
-"Tiu, Jonathan Beng Gie ",sfclicrec.asp?p=129619,,M,RO,2012-04-18,
-"Wong, Chun Wai (SFC:AJJ806) 黃鎮威",sfclicrec.asp?p=113363,,,RO,2009-07-29,2012-02-29
-"Yeoh, Kevin Wei-Cher ",sfclicrec.asp?p=2222432,,M,Rep,2015-10-13,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cannan, Katherine Ann ",None,sfclicrec.asp?p=2419461,BFI441,http://www.sfc.hk/publicregWeb/indi/BFI441/licenceRecord,,F,Rep,2015-05-12,2017-06-30
+"Cheung, Man Yee (SFC:AUZ865) 張敏儀",None,sfclicrec.asp?p=129620,AUZ865,http://www.sfc.hk/publicregWeb/indi/AUZ865/licenceRecord,,,Rep,2010-05-27,2012-05-02
+"Cheung, Man Yee (SFC:AUZ865) 張敏儀",None,sfclicrec.asp?p=129620,AUZ865,http://www.sfc.hk/publicregWeb/indi/AUZ865/licenceRecord,,,RO,2012-05-02,
+"Dwan, Kevin Michael ",None,sfclicrec.asp?p=1888513,AYR178,http://www.sfc.hk/publicregWeb/indi/AYR178/licenceRecord,,M,RO,2012-05-03,
+"Jessee, Thomas Alderson ",None,sfclicrec.asp?p=127560,ASK590,http://www.sfc.hk/publicregWeb/indi/ASK590/licenceRecord,,M,RO,2009-07-29,2012-06-01
+"Shing, Eleanor Yee Ling 盛綺玲",None,sfclicrec.asp?p=119257,ANT457,http://www.sfc.hk/publicregWeb/indi/ANT457/licenceRecord,,F,RO,2012-05-03,
+"Spratt, Nicholas Edward ",None,sfclicrec.asp?p=107387,AFR779,http://www.sfc.hk/publicregWeb/indi/AFR779/licenceRecord,,M,Rep,2018-01-25,
+"Tiu, Jonathan Beng Gie ",None,sfclicrec.asp?p=129619,AUZ862,http://www.sfc.hk/publicregWeb/indi/AUZ862/licenceRecord,,M,Rep,2010-07-05,2012-04-18
+"Tiu, Jonathan Beng Gie ",None,sfclicrec.asp?p=129619,AUZ862,http://www.sfc.hk/publicregWeb/indi/AUZ862/licenceRecord,,M,RO,2012-04-18,
+"Wong, Chun Wai (SFC:AJJ806) 黃鎮威",None,sfclicrec.asp?p=113363,AJJ806,http://www.sfc.hk/publicregWeb/indi/AJJ806/licenceRecord,,,RO,2009-07-29,2012-02-29
+"Yeoh, Kevin Wei-Cher ",None,sfclicrec.asp?p=2222432,BCF308,http://www.sfc.hk/publicregWeb/indi/BCF308/licenceRecord,,M,Rep,2015-10-13,

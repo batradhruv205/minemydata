@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bamber, Richard Mark Anthony ",sfclicrec.asp?p=109405,,M,RO,2012-10-29,2012-12-31
-"Brice, Christopher Richard ",sfclicrec.asp?p=2001196,,M,RO,2012-12-31,2018-04-30
-"Holloway, Mitchell Leslie ",sfclicrec.asp?p=2526898,,M,Rep,2017-06-09,2019-04-29
-"Kirton, Daniel Earle William ",sfclicrec.asp?p=75558,,M,RO,2012-10-29,
-"Ng, Jason Li Sheng ",sfclicrec.asp?p=2481346,,M,Rep,2019-04-16,
-"Shum, Katharine Ka Wai 沈嘉慧",sfclicrec.asp?p=1977156,,F,Rep,2012-11-07,2016-08-02
-"Shum, Katharine Ka Wai 沈嘉慧",sfclicrec.asp?p=1977156,,F,RO,2016-08-02,2018-03-30
-"White, Adam Craig Tremain ",sfclicrec.asp?p=88081,,M,Rep,2017-06-07,2017-11-14
-"White, Adam Craig Tremain ",sfclicrec.asp?p=88081,,M,RO,2017-11-14,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bamber, Richard Mark Anthony ",None,sfclicrec.asp?p=109405,AGM551,http://www.sfc.hk/publicregWeb/indi/AGM551/licenceRecord,,M,RO,2012-10-29,2012-12-31
+"Brice, Christopher Richard ",None,sfclicrec.asp?p=2001196,BAM422,http://www.sfc.hk/publicregWeb/indi/BAM422/licenceRecord,,M,RO,2012-12-31,2018-04-30
+"Holloway, Mitchell Leslie ",None,sfclicrec.asp?p=2526898,BGV233,http://www.sfc.hk/publicregWeb/indi/BGV233/licenceRecord,,M,Rep,2017-06-09,2019-04-29
+"Kirton, Daniel Earle William ",None,sfclicrec.asp?p=75558,ASH434,http://www.sfc.hk/publicregWeb/indi/ASH434/licenceRecord,,M,RO,2012-10-29,
+"Ng, Jason Li Sheng ",None,sfclicrec.asp?p=2481346,BGG975,http://www.sfc.hk/publicregWeb/indi/BGG975/licenceRecord,,M,Rep,2019-04-16,
+"Shum, Katharine Ka Wai 沈嘉慧",None,sfclicrec.asp?p=1977156,BAK931,http://www.sfc.hk/publicregWeb/indi/BAK931/licenceRecord,,F,Rep,2012-11-07,2016-08-02
+"Shum, Katharine Ka Wai 沈嘉慧",None,sfclicrec.asp?p=1977156,BAK931,http://www.sfc.hk/publicregWeb/indi/BAK931/licenceRecord,,F,RO,2016-08-02,2018-03-30
+"White, Adam Craig Tremain ",None,sfclicrec.asp?p=88081,ATF122,http://www.sfc.hk/publicregWeb/indi/ATF122/licenceRecord,,M,Rep,2017-06-07,2017-11-14
+"White, Adam Craig Tremain ",None,sfclicrec.asp?p=88081,ATF122,http://www.sfc.hk/publicregWeb/indi/ATF122/licenceRecord,,M,RO,2017-11-14,

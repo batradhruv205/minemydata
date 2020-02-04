@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Gary Kar Yin 陳嘉彥",sfclicrec.asp?p=104534,,M,RO,2018-10-24,
-"Deng, Yuqun 鄧雨群",sfclicrec.asp?p=2480772,,,Rep,2019-05-24,
-"Ho, Kai Yip 何啟業",sfclicrec.asp?p=91128,,,RO,2018-10-24,2019-12-19
-"Leung, Tat Lung 梁達龍",sfclicrec.asp?p=92882,,,Rep,2019-12-06,2019-12-17
-"Leung, Tat Lung 梁達龍",sfclicrec.asp?p=92882,,,RO,2019-12-17,
-"Ng, Ching Yee (SFC:BMW775) 吳靜儀",sfclicrec.asp?p=17639227,,,Rep,2019-03-14,2019-03-29
-"Tang, Wai Kay 鄧偉基",sfclicrec.asp?p=84032,,,Rep,2018-11-13,2018-12-27
-"Tang, Wai Kay 鄧偉基",sfclicrec.asp?p=84032,,,RO,2018-12-27,
-"Tsai, King Wa Kingsway 蔡經華",sfclicrec.asp?p=2660212,,,Rep,2018-11-27,2018-12-27
-"Wong, Chak Sang 王澤生",sfclicrec.asp?p=133891,,,Rep,2019-07-05,
-"Wong, Chung Hin (SFC:BID361) 黃仲軒",sfclicrec.asp?p=2642485,,,Rep,2018-11-27,
-"Wun, Duncan Wai Yee 溫偉儀",sfclicrec.asp?p=98357,,M,RO,2018-10-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Gary Kar Yin 陳嘉彥",None,sfclicrec.asp?p=104534,AEB044,http://www.sfc.hk/publicregWeb/indi/AEB044/licenceRecord,,M,RO,2018-10-24,
+"Deng, Yuqun 鄧雨群",None,sfclicrec.asp?p=2480772,BGG959,http://www.sfc.hk/publicregWeb/indi/BGG959/licenceRecord,,,Rep,2019-05-24,
+"Ho, Kai Yip 何啟業",None,sfclicrec.asp?p=91128,AVC717,http://www.sfc.hk/publicregWeb/indi/AVC717/licenceRecord,,,RO,2018-10-24,2019-12-19
+"Leung, Tat Lung 梁達龍",None,sfclicrec.asp?p=92882,AJN767,http://www.sfc.hk/publicregWeb/indi/AJN767/licenceRecord,,,Rep,2019-12-06,2019-12-17
+"Leung, Tat Lung 梁達龍",None,sfclicrec.asp?p=92882,AJN767,http://www.sfc.hk/publicregWeb/indi/AJN767/licenceRecord,,,RO,2019-12-17,
+"Ng, Ching Yee (SFC:BMW775) 吳靜儀",None,sfclicrec.asp?p=17639227,BMW775,http://www.sfc.hk/publicregWeb/indi/BMW775/licenceRecord,,,Rep,2019-03-14,2019-03-29
+"Tang, Wai Kay 鄧偉基",None,sfclicrec.asp?p=84032,AAY573,http://www.sfc.hk/publicregWeb/indi/AAY573/licenceRecord,,,Rep,2018-11-13,2018-12-27
+"Tang, Wai Kay 鄧偉基",None,sfclicrec.asp?p=84032,AAY573,http://www.sfc.hk/publicregWeb/indi/AAY573/licenceRecord,,,RO,2018-12-27,
+"Tsai, King Wa Kingsway 蔡經華",None,sfclicrec.asp?p=2660212,BIK695,http://www.sfc.hk/publicregWeb/indi/BIK695/licenceRecord,,,Rep,2018-11-27,2018-12-27
+"Wong, Chak Sang 王澤生",None,sfclicrec.asp?p=133891,AYM415,http://www.sfc.hk/publicregWeb/indi/AYM415/licenceRecord,,,Rep,2019-07-05,
+"Wong, Chung Hin (SFC:BID361) 黃仲軒",None,sfclicrec.asp?p=2642485,BID361,http://www.sfc.hk/publicregWeb/indi/BID361/licenceRecord,,,Rep,2018-11-27,
+"Wun, Duncan Wai Yee 溫偉儀",None,sfclicrec.asp?p=98357,AAD933,http://www.sfc.hk/publicregWeb/indi/AAD933/licenceRecord,,M,RO,2018-10-24,

@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chiu, Dicken 趙迪勤",sfclicrec.asp?p=22133536,,,Rep,2018-09-04,
-"Cho, Jung Hyung 趙正衡",sfclicrec.asp?p=121629,,,Rep,2018-09-04,2019-05-31
-"Frick, Thomas Rhoads ",sfclicrec.asp?p=22133537,,M,Rep,2018-09-04,
-"Lawrence, Gary Martin ",sfclicrec.asp?p=53791,,M,RO,,
-"Yang, John Kin Ping 楊建平",sfclicrec.asp?p=13120,,M,Rep,2005-01-10,2012-03-30
-"Yang, John Kin Ping 楊建平",sfclicrec.asp?p=13120,,M,RO,2012-03-30,
-"Yung, Kimberley Lai Yee 容麗兒",sfclicrec.asp?p=53792,,F,RO,2004-12-07,2012-03-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chiu, Dicken 趙迪勤",None,sfclicrec.asp?p=22133536,BNJ014,http://www.sfc.hk/publicregWeb/indi/BNJ014/licenceRecord,,,Rep,2018-09-04,
+"Cho, Jung Hyung 趙正衡",None,sfclicrec.asp?p=121629,APA430,http://www.sfc.hk/publicregWeb/indi/APA430/licenceRecord,,,Rep,2018-09-04,2019-05-31
+"Frick, Thomas Rhoads ",None,sfclicrec.asp?p=22133537,BFJ278,http://www.sfc.hk/publicregWeb/indi/BFJ278/licenceRecord,,M,Rep,2018-09-04,
+"Lawrence, Gary Martin ",None,sfclicrec.asp?p=53791,ACP336,http://www.sfc.hk/publicregWeb/indi/ACP336/licenceRecord,,M,RO,,
+"Yang, John Kin Ping 楊建平",None,sfclicrec.asp?p=13120,ADR897,http://www.sfc.hk/publicregWeb/indi/ADR897/licenceRecord,,M,Rep,2005-01-10,2012-03-30
+"Yang, John Kin Ping 楊建平",None,sfclicrec.asp?p=13120,ADR897,http://www.sfc.hk/publicregWeb/indi/ADR897/licenceRecord,,M,RO,2012-03-30,
+"Yung, Kimberley Lai Yee 容麗兒",None,sfclicrec.asp?p=53792,AIR507,http://www.sfc.hk/publicregWeb/indi/AIR507/licenceRecord,,F,RO,2004-12-07,2012-03-31

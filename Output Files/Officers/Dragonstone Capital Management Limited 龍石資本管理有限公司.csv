@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Han, Xue (SFC:BGM427) 韓雪",sfclicrec.asp?p=2591249,,,RO,2016-05-11,2018-09-26
-"You, Tao 由濤",sfclicrec.asp?p=2591250,,,RO,2016-05-11,2019-07-31
-"Zhang, Cong (SFC:BLX820) 張叢",sfclicrec.asp?p=20876449,,,Rep,2018-07-26,2018-09-21
-"Zhang, Cong (SFC:BLX820) 張叢",sfclicrec.asp?p=20876449,,,RO,2018-09-21,
-"Zhang, Ke (SFC:BEL956) 張鈳",sfclicrec.asp?p=2354648,,,RO,2019-07-05,
-"Zhu, Rongce 朱荣策",sfclicrec.asp?p=13909146,,,Rep,2019-06-03,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Han, Xue (SFC:BGM427) 韓雪",None,sfclicrec.asp?p=2591249,BGM427,http://www.sfc.hk/publicregWeb/indi/BGM427/licenceRecord,,,RO,2016-05-11,2018-09-26
+"You, Tao 由濤",None,sfclicrec.asp?p=2591250,BGM425,http://www.sfc.hk/publicregWeb/indi/BGM425/licenceRecord,,,RO,2016-05-11,2019-07-31
+"Zhang, Cong (SFC:BLX820) 張叢",None,sfclicrec.asp?p=20876449,BLX820,http://www.sfc.hk/publicregWeb/indi/BLX820/licenceRecord,,,Rep,2018-07-26,2018-09-21
+"Zhang, Cong (SFC:BLX820) 張叢",None,sfclicrec.asp?p=20876449,BLX820,http://www.sfc.hk/publicregWeb/indi/BLX820/licenceRecord,,,RO,2018-09-21,
+"Zhang, Ke (SFC:BEL956) 張鈳",None,sfclicrec.asp?p=2354648,BEL956,http://www.sfc.hk/publicregWeb/indi/BEL956/licenceRecord,,,RO,2019-07-05,
+"Zhu, Rongce 朱荣策",None,sfclicrec.asp?p=13909146,BMT422,http://www.sfc.hk/publicregWeb/indi/BMT422/licenceRecord,,,Rep,2019-06-03,

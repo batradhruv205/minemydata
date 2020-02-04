@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chu, Tsz Ying 朱子鷹",sfclicrec.asp?p=11796648,,,Rep,2017-09-06,
-"Hong, Youn Joung ",sfclicrec.asp?p=80932,,,RO,2015-09-18,2017-08-31
-"Kang, Mina ",sfclicrec.asp?p=2475345,,F,Rep,2018-11-29,
-"Kim, Jongwon ",sfclicrec.asp?p=2501370,,,Rep,2015-11-18,2018-07-18
-"Sachdeva, Amit ",sfclicrec.asp?p=2623308,,,RO,2019-01-02,
-"Van Maanen, Alexander Antonius ",sfclicrec.asp?p=13776693,,M,RO,2018-04-12,2018-12-31
-"Westerkamp, George Johannes Joseph ",sfclicrec.asp?p=2477135,,M,RO,2015-09-18,2019-01-02
-"Yang, Yiran (SFC:BKU216) 楊依然",sfclicrec.asp?p=12053045,,,Rep,2019-05-30,
-"Zhu, Wendy Wenwen 朱雯雯",sfclicrec.asp?p=116320,,F,Rep,2015-11-11,2017-11-24
-"Zhu, Wendy Wenwen 朱雯雯",sfclicrec.asp?p=116320,,F,RO,2017-11-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chu, Tsz Ying 朱子鷹",None,sfclicrec.asp?p=11796648,BKQ747,http://www.sfc.hk/publicregWeb/indi/BKQ747/licenceRecord,,,Rep,2017-09-06,
+"Hong, Youn Joung ",None,sfclicrec.asp?p=80932,ARD649,http://www.sfc.hk/publicregWeb/indi/ARD649/licenceRecord,,,RO,2015-09-18,2017-08-31
+"Kang, Mina ",None,sfclicrec.asp?p=2475345,BGE792,http://www.sfc.hk/publicregWeb/indi/BGE792/licenceRecord,,F,Rep,2018-11-29,
+"Kim, Jongwon ",None,sfclicrec.asp?p=2501370,BGM424,http://www.sfc.hk/publicregWeb/indi/BGM424/licenceRecord,,,Rep,2015-11-18,2018-07-18
+"Sachdeva, Amit ",None,sfclicrec.asp?p=2623308,BIB386,http://www.sfc.hk/publicregWeb/indi/BIB386/licenceRecord,,,RO,2019-01-02,
+"Van Maanen, Alexander Antonius ",None,sfclicrec.asp?p=13776693,BFP029,http://www.sfc.hk/publicregWeb/indi/BFP029/licenceRecord,,M,RO,2018-04-12,2018-12-31
+"Westerkamp, George Johannes Joseph ",None,sfclicrec.asp?p=2477135,BFP140,http://www.sfc.hk/publicregWeb/indi/BFP140/licenceRecord,,M,RO,2015-09-18,2019-01-02
+"Yang, Yiran (SFC:BKU216) 楊依然",None,sfclicrec.asp?p=12053045,BKU216,http://www.sfc.hk/publicregWeb/indi/BKU216/licenceRecord,,,Rep,2019-05-30,
+"Zhu, Wendy Wenwen 朱雯雯",None,sfclicrec.asp?p=116320,AMF185,http://www.sfc.hk/publicregWeb/indi/AMF185/licenceRecord,,F,Rep,2015-11-11,2017-11-24
+"Zhu, Wendy Wenwen 朱雯雯",None,sfclicrec.asp?p=116320,AMF185,http://www.sfc.hk/publicregWeb/indi/AMF185/licenceRecord,,F,RO,2017-11-24,

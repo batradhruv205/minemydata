@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Fang, Cheng (SFC:AKP392) 方征",sfclicrec.asp?p=93612,48,M,Rep,2016-10-28,2016-12-20
-"Fang, Cheng (SFC:AKP392) 方征",sfclicrec.asp?p=93612,48,M,RO,2016-12-20,2019-06-30
-"Huang, Yiping (SFC:BJF042) 黃易平",sfclicrec.asp?p=11262390,,,Rep,2017-05-31,
-"Lau, Hing Bun 劉慶斌",sfclicrec.asp?p=93614,,,RO,2016-07-08,2019-03-20
-"Lei, Yang 雷阳",sfclicrec.asp?p=2489924,,,Rep,2019-07-18,2019-09-03
-"Lei, Yang 雷阳",sfclicrec.asp?p=2489924,,,RO,2019-09-03,
-"Liu, Hanchen 劉漢琛",sfclicrec.asp?p=2664334,,,Rep,2016-11-25,2017-03-17
-"Raccah, Saul George ",sfclicrec.asp?p=89500,,M,Rep,2017-02-14,2017-09-30
-"Wu, Xiaodi 吳晓菂",sfclicrec.asp?p=12659301,,,Rep,2017-12-22,2019-03-31
-"Zhou, Peng (SFC:AUS211) 周鵬",sfclicrec.asp?p=129329,,,RO,2016-07-08,2017-01-08
-"Zhou, Peng (SFC:AUS211) 周鵬",sfclicrec.asp?p=129329,,,RO,2017-09-05,2018-05-04
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Fang, Cheng (SFC:AKP392) 方征",None,sfclicrec.asp?p=93612,AKP392,http://www.sfc.hk/publicregWeb/indi/AKP392/licenceRecord,48.0,M,Rep,2016-10-28,2016-12-20
+"Fang, Cheng (SFC:AKP392) 方征",None,sfclicrec.asp?p=93612,AKP392,http://www.sfc.hk/publicregWeb/indi/AKP392/licenceRecord,48.0,M,RO,2016-12-20,2019-06-30
+"Huang, Yiping (SFC:BJF042) 黃易平",None,sfclicrec.asp?p=11262390,BJF042,http://www.sfc.hk/publicregWeb/indi/BJF042/licenceRecord,,,Rep,2017-05-31,
+"Lau, Hing Bun 劉慶斌",None,sfclicrec.asp?p=93614,AGW616,http://www.sfc.hk/publicregWeb/indi/AGW616/licenceRecord,,,RO,2016-07-08,2019-03-20
+"Lei, Yang 雷阳",None,sfclicrec.asp?p=2489924,BGH895,http://www.sfc.hk/publicregWeb/indi/BGH895/licenceRecord,,,Rep,2019-07-18,2019-09-03
+"Lei, Yang 雷阳",None,sfclicrec.asp?p=2489924,BGH895,http://www.sfc.hk/publicregWeb/indi/BGH895/licenceRecord,,,RO,2019-09-03,
+"Liu, Hanchen 劉漢琛",None,sfclicrec.asp?p=2664334,BIO421,http://www.sfc.hk/publicregWeb/indi/BIO421/licenceRecord,,,Rep,2016-11-25,2017-03-17
+"Raccah, Saul George ",None,sfclicrec.asp?p=89500,APD694,http://www.sfc.hk/publicregWeb/indi/APD694/licenceRecord,,M,Rep,2017-02-14,2017-09-30
+"Wu, Xiaodi 吳晓菂",None,sfclicrec.asp?p=12659301,BLF418,http://www.sfc.hk/publicregWeb/indi/BLF418/licenceRecord,,,Rep,2017-12-22,2019-03-31
+"Zhou, Peng (SFC:AUS211) 周鵬",None,sfclicrec.asp?p=129329,AUS211,http://www.sfc.hk/publicregWeb/indi/AUS211/licenceRecord,,,RO,2016-07-08,2017-01-08
+"Zhou, Peng (SFC:AUS211) 周鵬",None,sfclicrec.asp?p=129329,AUS211,http://www.sfc.hk/publicregWeb/indi/AUS211/licenceRecord,,,RO,2017-09-05,2018-05-04

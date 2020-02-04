@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Hui, Kin Wai (SFC:ANT508) 許建威",sfclicrec.asp?p=22373990,,,Rep,2018-10-31,
-"Hui, Terence Chi Tat 許志達",sfclicrec.asp?p=49754,,M,Rep,2018-09-24,2018-11-22
-"Hui, Terence Chi Tat 許志達",sfclicrec.asp?p=49754,,M,RO,2018-11-22,
-"Lam, Chick Leung 林植良",sfclicrec.asp?p=98831,,,RO,2016-10-20,2018-03-01
-"Leung, Evelyn Yin Wah 梁燕華",sfclicrec.asp?p=80557,,,RO,2016-10-20,2017-11-29
-"Leung, Wai Hung (SFC:AAK493) 梁偉鴻",sfclicrec.asp?p=84667,,,RO,2018-06-20,
-"Qiu, Anohng 邱安紅",sfclicrec.asp?p=16081808,,,Rep,2018-05-29,
-"Wong, Hoi Kay 黃凱麒",sfclicrec.asp?p=94829,,,Rep,2017-09-15,2018-01-15
-"Wong, Hoi Kay 黃凱麒",sfclicrec.asp?p=94829,,,RO,2018-01-15,2018-06-29
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Hui, Kin Wai (SFC:ANT508) 許建威",None,sfclicrec.asp?p=22373990,ANT508,http://www.sfc.hk/publicregWeb/indi/ANT508/licenceRecord,,,Rep,2018-10-31,
+"Hui, Terence Chi Tat 許志達",None,sfclicrec.asp?p=49754,ALV077,http://www.sfc.hk/publicregWeb/indi/ALV077/licenceRecord,,M,Rep,2018-09-24,2018-11-22
+"Hui, Terence Chi Tat 許志達",None,sfclicrec.asp?p=49754,ALV077,http://www.sfc.hk/publicregWeb/indi/ALV077/licenceRecord,,M,RO,2018-11-22,
+"Lam, Chick Leung 林植良",None,sfclicrec.asp?p=98831,ACR785,http://www.sfc.hk/publicregWeb/indi/ACR785/licenceRecord,,,RO,2016-10-20,2018-03-01
+"Leung, Evelyn Yin Wah 梁燕華",None,sfclicrec.asp?p=80557,ADV790,http://www.sfc.hk/publicregWeb/indi/ADV790/licenceRecord,,,RO,2016-10-20,2017-11-29
+"Leung, Wai Hung (SFC:AAK493) 梁偉鴻",None,sfclicrec.asp?p=84667,AAK493,http://www.sfc.hk/publicregWeb/indi/AAK493/licenceRecord,,,RO,2018-06-20,
+"Qiu, Anohng 邱安紅",None,sfclicrec.asp?p=16081808,BLT266,http://www.sfc.hk/publicregWeb/indi/BLT266/licenceRecord,,,Rep,2018-05-29,
+"Wong, Hoi Kay 黃凱麒",None,sfclicrec.asp?p=94829,AXK443,http://www.sfc.hk/publicregWeb/indi/AXK443/licenceRecord,,,Rep,2017-09-15,2018-01-15
+"Wong, Hoi Kay 黃凱麒",None,sfclicrec.asp?p=94829,AXK443,http://www.sfc.hk/publicregWeb/indi/AXK443/licenceRecord,,,RO,2018-01-15,2018-06-29

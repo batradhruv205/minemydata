@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheon, Ernest 張兆暉",sfclicrec.asp?p=23934083,,M,Rep,2019-11-21,
-"Gao, Jiayang 高嘉陽",sfclicrec.asp?p=9408786,,,Rep,2019-11-18,
-"Grosperrin, Christophe Eric Pascal ",sfclicrec.asp?p=116248,,M,RO,2018-05-16,
-"Pham, John Le Hien ",sfclicrec.asp?p=75099,,M,Rep,2019-06-25,
-"Yuen, Darius Lai Yan 阮勵欣",sfclicrec.asp?p=103077,50,M,RO,2018-05-16,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheon, Ernest 張兆暉",None,sfclicrec.asp?p=23934083,BPC708,http://www.sfc.hk/publicregWeb/indi/BPC708/licenceRecord,,M,Rep,2019-11-21,
+"Gao, Jiayang 高嘉陽",None,sfclicrec.asp?p=9408786,BJI780,http://www.sfc.hk/publicregWeb/indi/BJI780/licenceRecord,,,Rep,2019-11-18,
+"Grosperrin, Christophe Eric Pascal ",None,sfclicrec.asp?p=116248,AME536,http://www.sfc.hk/publicregWeb/indi/AME536/licenceRecord,,M,RO,2018-05-16,
+"Pham, John Le Hien ",None,sfclicrec.asp?p=75099,AXQ759,http://www.sfc.hk/publicregWeb/indi/AXQ759/licenceRecord,,M,Rep,2019-06-25,
+"Yuen, Darius Lai Yan 阮勵欣",None,sfclicrec.asp?p=103077,ACO079,http://www.sfc.hk/publicregWeb/indi/ACO079/licenceRecord,50.0,M,RO,2018-05-16,

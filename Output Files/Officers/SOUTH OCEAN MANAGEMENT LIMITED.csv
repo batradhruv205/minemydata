@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"D'Silva, Anthony Hogest ",sfclicrec.asp?p=2666876,,M,Rep,2016-12-01,
-"D'Souza, Darren Karl ",sfclicrec.asp?p=22843042,,M,Rep,2019-03-01,
-"Lam, Simon Yiu Wing 林耀榮",sfclicrec.asp?p=41138,,M,Rep,2007-04-13,2007-08-31
-"McConnell, Richard Esterbrook Jr ",sfclicrec.asp?p=95013,,,RO,,
-"Schofield, John Cyril Lester ",sfclicrec.asp?p=78605,,M,RO,2005-07-29,2006-01-09
-"Taw, Stephen Richard ",sfclicrec.asp?p=95014,,M,RO,2006-06-07,
-"Yau, Sheung Kam 邱湘琴",sfclicrec.asp?p=103855,,,Rep,2013-03-12,2016-08-31
-"Yip, Pui Sze 葉佩思",sfclicrec.asp?p=2265437,,,Rep,2014-05-07,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"D'Silva, Anthony Hogest ",None,sfclicrec.asp?p=2666876,BIQ706,http://www.sfc.hk/publicregWeb/indi/BIQ706/licenceRecord,,M,Rep,2016-12-01,
+"D'Souza, Darren Karl ",None,sfclicrec.asp?p=22843042,BNG420,http://www.sfc.hk/publicregWeb/indi/BNG420/licenceRecord,,M,Rep,2019-03-01,
+"Lam, Simon Yiu Wing 林耀榮",None,sfclicrec.asp?p=41138,ABU046,http://www.sfc.hk/publicregWeb/indi/ABU046/licenceRecord,,M,Rep,2007-04-13,2007-08-31
+"McConnell, Richard Esterbrook Jr ",None,sfclicrec.asp?p=95013,ABH739,http://www.sfc.hk/publicregWeb/indi/ABH739/licenceRecord,,,RO,,
+"Schofield, John Cyril Lester ",None,sfclicrec.asp?p=78605,ADS542,http://www.sfc.hk/publicregWeb/indi/ADS542/licenceRecord,,M,RO,2005-07-29,2006-01-09
+"Taw, Stephen Richard ",None,sfclicrec.asp?p=95014,ANF300,http://www.sfc.hk/publicregWeb/indi/ANF300/licenceRecord,,M,RO,2006-06-07,
+"Yau, Sheung Kam 邱湘琴",None,sfclicrec.asp?p=103855,ADJ799,http://www.sfc.hk/publicregWeb/indi/ADJ799/licenceRecord,,,Rep,2013-03-12,2016-08-31
+"Yip, Pui Sze 葉佩思",None,sfclicrec.asp?p=2265437,BDH196,http://www.sfc.hk/publicregWeb/indi/BDH196/licenceRecord,,,Rep,2014-05-07,

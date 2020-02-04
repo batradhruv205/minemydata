@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Kwok Wai (SFC:BCW251) 陳國威",sfclicrec.asp?p=2213037,,,Rep,2017-09-26,2018-04-12
-"Chan, Kwok Wai (SFC:BCW251) 陳國威",sfclicrec.asp?p=2213037,,,RO,2018-04-12,2018-06-15
-"Chu, Chun Hung 朱俊雄",sfclicrec.asp?p=68915,,,RO,2017-02-24,
-"Fan, Kenneth King Chi 范敬智",sfclicrec.asp?p=99890,,M,RO,2017-02-24,
-"Fan, King Yip Felix 范敬業",sfclicrec.asp?p=131054,,,RO,2017-02-24,
-"Ho, Wing Leung 何永亮",sfclicrec.asp?p=113953,,,RO,2017-02-24,2018-08-02
-"Tsang, Sin Ki Cindy 曾倩琪",sfclicrec.asp?p=10001159,,,Rep,2017-05-10,
-"Weng, Linlin 翁琳琳",sfclicrec.asp?p=18609978,,,Rep,2018-07-05,2019-04-09
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Kwok Wai (SFC:BCW251) 陳國威",None,sfclicrec.asp?p=2213037,BCW251,http://www.sfc.hk/publicregWeb/indi/BCW251/licenceRecord,,,Rep,2017-09-26,2018-04-12
+"Chan, Kwok Wai (SFC:BCW251) 陳國威",None,sfclicrec.asp?p=2213037,BCW251,http://www.sfc.hk/publicregWeb/indi/BCW251/licenceRecord,,,RO,2018-04-12,2018-06-15
+"Chu, Chun Hung 朱俊雄",None,sfclicrec.asp?p=68915,AXK728,http://www.sfc.hk/publicregWeb/indi/AXK728/licenceRecord,,,RO,2017-02-24,
+"Fan, Kenneth King Chi 范敬智",None,sfclicrec.asp?p=99890,ANH531,http://www.sfc.hk/publicregWeb/indi/ANH531/licenceRecord,,M,RO,2017-02-24,
+"Fan, King Yip Felix 范敬業",None,sfclicrec.asp?p=131054,AXC707,http://www.sfc.hk/publicregWeb/indi/AXC707/licenceRecord,,,RO,2017-02-24,
+"Ho, Wing Leung 何永亮",None,sfclicrec.asp?p=113953,AKS665,http://www.sfc.hk/publicregWeb/indi/AKS665/licenceRecord,,,RO,2017-02-24,2018-08-02
+"Tsang, Sin Ki Cindy 曾倩琪",None,sfclicrec.asp?p=10001159,BJH716,http://www.sfc.hk/publicregWeb/indi/BJH716/licenceRecord,,,Rep,2017-05-10,
+"Weng, Linlin 翁琳琳",None,sfclicrec.asp?p=18609978,BNA779,http://www.sfc.hk/publicregWeb/indi/BNA779/licenceRecord,,,Rep,2018-07-05,2019-04-09

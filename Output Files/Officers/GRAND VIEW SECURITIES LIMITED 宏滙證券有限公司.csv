@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chau, Wing Ka 周榮嘉",sfclicrec.asp?p=117491,,,RO,2016-12-16,
-"Chow, Karen Ka Yan 鄒嘉恩",sfclicrec.asp?p=2521670,,F,Rep,2018-10-08,
-"Hu, Jiaying 胡嘉映",sfclicrec.asp?p=23341545,,,Rep,2019-06-24,
-"Huang, Jiahao 黃嘉豪",sfclicrec.asp?p=2519069,,,Rep,2017-01-20,
-"Leung, Ka Hin 梁嘉軒",sfclicrec.asp?p=11780234,,,Rep,2017-07-24,
-"Lok, Siu Kee 駱兆基",sfclicrec.asp?p=103199,,M,RO,2016-12-16,
-"Tai, Ka Chun Terence 戴家俊",sfclicrec.asp?p=2185872,,,Rep,2017-08-08,2017-10-06
-"Tai, Ka Chun Terence 戴家俊",sfclicrec.asp?p=2185872,,,RO,2017-10-06,2019-07-31
-"Tong, Tsz Chun 湯子俊",sfclicrec.asp?p=128569,,,Rep,2017-02-13,2019-11-01
-"Tong, Tsz Chun 湯子俊",sfclicrec.asp?p=128569,,,RO,2019-11-01,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chau, Wing Ka 周榮嘉",None,sfclicrec.asp?p=117491,AMT949,http://www.sfc.hk/publicregWeb/indi/AMT949/licenceRecord,,,RO,2016-12-16,
+"Chow, Karen Ka Yan 鄒嘉恩",None,sfclicrec.asp?p=2521670,BGP389,http://www.sfc.hk/publicregWeb/indi/BGP389/licenceRecord,,F,Rep,2018-10-08,
+"Hu, Jiaying 胡嘉映",None,sfclicrec.asp?p=23341545,BOI705,http://www.sfc.hk/publicregWeb/indi/BOI705/licenceRecord,,,Rep,2019-06-24,
+"Huang, Jiahao 黃嘉豪",None,sfclicrec.asp?p=2519069,BGT296,http://www.sfc.hk/publicregWeb/indi/BGT296/licenceRecord,,,Rep,2017-01-20,
+"Leung, Ka Hin 梁嘉軒",None,sfclicrec.asp?p=11780234,BJQ359,http://www.sfc.hk/publicregWeb/indi/BJQ359/licenceRecord,,,Rep,2017-07-24,
+"Lok, Siu Kee 駱兆基",None,sfclicrec.asp?p=103199,ACQ301,http://www.sfc.hk/publicregWeb/indi/ACQ301/licenceRecord,,M,RO,2016-12-16,
+"Tai, Ka Chun Terence 戴家俊",None,sfclicrec.asp?p=2185872,BCL286,http://www.sfc.hk/publicregWeb/indi/BCL286/licenceRecord,,,Rep,2017-08-08,2017-10-06
+"Tai, Ka Chun Terence 戴家俊",None,sfclicrec.asp?p=2185872,BCL286,http://www.sfc.hk/publicregWeb/indi/BCL286/licenceRecord,,,RO,2017-10-06,2019-07-31
+"Tong, Tsz Chun 湯子俊",None,sfclicrec.asp?p=128569,ATS073,http://www.sfc.hk/publicregWeb/indi/ATS073/licenceRecord,,,Rep,2017-02-13,2019-11-01
+"Tong, Tsz Chun 湯子俊",None,sfclicrec.asp?p=128569,ATS073,http://www.sfc.hk/publicregWeb/indi/ATS073/licenceRecord,,,RO,2019-11-01,

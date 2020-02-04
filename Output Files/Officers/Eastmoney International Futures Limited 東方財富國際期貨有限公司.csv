@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Chit Hong 陳哲慷",sfclicrec.asp?p=2172854,,,Rep,2018-02-27,2018-06-03
-"Chan, Kwing Wing 陳炯榮",sfclicrec.asp?p=2326468,,,Rep,2018-01-03,
-"Choy, Lee Lee 蔡莉莉",sfclicrec.asp?p=2415306,,,Rep,2018-02-27,2019-07-24
-"Chung, Tony 鍾立群",sfclicrec.asp?p=94662,,M,Rep,2017-12-27,
-"He, Lansi 賀蘭斯",sfclicrec.asp?p=2457250,,,Rep,2018-02-27,2018-04-13
-"Huang, Jingyuan (SFC:BHH628) 黃靜遠",sfclicrec.asp?p=2564892,,,Rep,2018-02-27,
-"Kwong, Andy Chi Kong 鄺志剛",sfclicrec.asp?p=74977,,,RO,2017-11-21,
-"Lam, Chi Wai (SFC:AKX862) 林智偉",sfclicrec.asp?p=114159,,,Rep,2018-01-03,
-"Leung, Tsz Kin (SFC:BFG540) 梁子鍵",sfclicrec.asp?p=2411895,,,Rep,2018-01-03,2018-04-13
-"Man, Tsz Ming 文子明",sfclicrec.asp?p=130557,,,Rep,2018-01-03,
-"Ng, Chi Hung (SFC:APK407) 吳子雄",sfclicrec.asp?p=85147,,,Rep,2018-01-18,
-"Poon, Ho Leung 潘可亮",sfclicrec.asp?p=94658,,,RO,2017-11-21,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Chit Hong 陳哲慷",None,sfclicrec.asp?p=2172854,BCK498,http://www.sfc.hk/publicregWeb/indi/BCK498/licenceRecord,,,Rep,2018-02-27,2018-06-03
+"Chan, Kwing Wing 陳炯榮",None,sfclicrec.asp?p=2326468,BEF691,http://www.sfc.hk/publicregWeb/indi/BEF691/licenceRecord,,,Rep,2018-01-03,
+"Choy, Lee Lee 蔡莉莉",None,sfclicrec.asp?p=2415306,BFH214,http://www.sfc.hk/publicregWeb/indi/BFH214/licenceRecord,,,Rep,2018-02-27,2019-07-24
+"Chung, Tony 鍾立群",None,sfclicrec.asp?p=94662,ACJ250,http://www.sfc.hk/publicregWeb/indi/ACJ250/licenceRecord,,M,Rep,2017-12-27,
+"He, Lansi 賀蘭斯",None,sfclicrec.asp?p=2457250,BFX501,http://www.sfc.hk/publicregWeb/indi/BFX501/licenceRecord,,,Rep,2018-02-27,2018-04-13
+"Huang, Jingyuan (SFC:BHH628) 黃靜遠",None,sfclicrec.asp?p=2564892,BHH628,http://www.sfc.hk/publicregWeb/indi/BHH628/licenceRecord,,,Rep,2018-02-27,
+"Kwong, Andy Chi Kong 鄺志剛",None,sfclicrec.asp?p=74977,ADV456,http://www.sfc.hk/publicregWeb/indi/ADV456/licenceRecord,,,RO,2017-11-21,
+"Lam, Chi Wai (SFC:AKX862) 林智偉",None,sfclicrec.asp?p=114159,AKX862,http://www.sfc.hk/publicregWeb/indi/AKX862/licenceRecord,,,Rep,2018-01-03,
+"Leung, Tsz Kin (SFC:BFG540) 梁子鍵",None,sfclicrec.asp?p=2411895,BFG540,http://www.sfc.hk/publicregWeb/indi/BFG540/licenceRecord,,,Rep,2018-01-03,2018-04-13
+"Man, Tsz Ming 文子明",None,sfclicrec.asp?p=130557,AWH563,http://www.sfc.hk/publicregWeb/indi/AWH563/licenceRecord,,,Rep,2018-01-03,
+"Ng, Chi Hung (SFC:APK407) 吳子雄",None,sfclicrec.asp?p=85147,APK407,http://www.sfc.hk/publicregWeb/indi/APK407/licenceRecord,,,Rep,2018-01-18,
+"Poon, Ho Leung 潘可亮",None,sfclicrec.asp?p=94658,AAK420,http://www.sfc.hk/publicregWeb/indi/AAK420/licenceRecord,,,RO,2017-11-21,

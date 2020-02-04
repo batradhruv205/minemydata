@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cao, Yu (SFC:BOS198) 曹裕",sfclicrec.asp?p=23605973,,,Rep,2019-08-30,
-"Chan, Oscar Ching Fan 陳政勳",sfclicrec.asp?p=84728,,M,RO,2019-04-17,
-"Chiu, Sheung Yuk 趙嫦玉",sfclicrec.asp?p=84731,,,Rep,2019-07-19,2019-08-14
-"Chiu, Sheung Yuk 趙嫦玉",sfclicrec.asp?p=84731,,,RO,2019-08-14,
-"Li, Gen (SFC:BNJ096) 李根",sfclicrec.asp?p=21801115,,,Rep,2019-12-31,
-"Li, Tinghui 李庭輝",sfclicrec.asp?p=8997246,,,Rep,2019-07-23,
-"Wong, Patrick (SFC:ACQ994) 黃保樂",sfclicrec.asp?p=14803034,,M,RO,2019-04-17,2019-12-13
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cao, Yu (SFC:BOS198) 曹裕",None,sfclicrec.asp?p=23605973,BOS198,http://www.sfc.hk/publicregWeb/indi/BOS198/licenceRecord,,,Rep,2019-08-30,
+"Chan, Oscar Ching Fan 陳政勳",None,sfclicrec.asp?p=84728,AJI806,http://www.sfc.hk/publicregWeb/indi/AJI806/licenceRecord,,M,RO,2019-04-17,
+"Chiu, Sheung Yuk 趙嫦玉",None,sfclicrec.asp?p=84731,AKU355,http://www.sfc.hk/publicregWeb/indi/AKU355/licenceRecord,,,Rep,2019-07-19,2019-08-14
+"Chiu, Sheung Yuk 趙嫦玉",None,sfclicrec.asp?p=84731,AKU355,http://www.sfc.hk/publicregWeb/indi/AKU355/licenceRecord,,,RO,2019-08-14,
+"Li, Gen (SFC:BNJ096) 李根",None,sfclicrec.asp?p=21801115,BNJ096,http://www.sfc.hk/publicregWeb/indi/BNJ096/licenceRecord,,,Rep,2019-12-31,
+"Li, Tinghui 李庭輝",None,sfclicrec.asp?p=8997246,BJL013,http://www.sfc.hk/publicregWeb/indi/BJL013/licenceRecord,,,Rep,2019-07-23,
+"Wong, Patrick (SFC:ACQ994) 黃保樂",None,sfclicrec.asp?p=14803034,ACQ994,http://www.sfc.hk/publicregWeb/indi/ACQ994/licenceRecord,,M,RO,2019-04-17,2019-12-13

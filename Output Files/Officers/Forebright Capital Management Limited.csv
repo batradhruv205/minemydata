@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"He, Ling (SFC:AGD927) 賀玲",sfclicrec.asp?p=93987,58,F,RO,2015-12-04,
-"He, Xiangli 何祥利",sfclicrec.asp?p=98791,45,M,Rep,2015-04-22,
-"Ip, Kun Wan 葉冠寰",sfclicrec.asp?p=93989,,,RO,2014-11-25,
-"Li, Chen (SFC:BIF179) 李晨",sfclicrec.asp?p=2645934,,,Rep,2016-10-18,
-"Liu, Cheng (SFC:AJM338) 劉誠",sfclicrec.asp?p=93990,,,RO,2014-11-25,
-"Luo, Wenan 羅文安",sfclicrec.asp?p=99168,,,Rep,2016-10-18,
-"Yang, Wen (SFC:BAL564) 楊文",sfclicrec.asp?p=1986019,,,Rep,2015-04-22,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"He, Ling (SFC:AGD927) 賀玲",None,sfclicrec.asp?p=93987,AGD927,http://www.sfc.hk/publicregWeb/indi/AGD927/licenceRecord,58.0,F,RO,2015-12-04,
+"He, Xiangli 何祥利",None,sfclicrec.asp?p=98791,ARV305,http://www.sfc.hk/publicregWeb/indi/ARV305/licenceRecord,45.0,M,Rep,2015-04-22,
+"Ip, Kun Wan 葉冠寰",None,sfclicrec.asp?p=93989,AJF693,http://www.sfc.hk/publicregWeb/indi/AJF693/licenceRecord,,,RO,2014-11-25,
+"Li, Chen (SFC:BIF179) 李晨",None,sfclicrec.asp?p=2645934,BIF179,http://www.sfc.hk/publicregWeb/indi/BIF179/licenceRecord,,,Rep,2016-10-18,
+"Liu, Cheng (SFC:AJM338) 劉誠",None,sfclicrec.asp?p=93990,AJM338,http://www.sfc.hk/publicregWeb/indi/AJM338/licenceRecord,,,RO,2014-11-25,
+"Luo, Wenan 羅文安",None,sfclicrec.asp?p=99168,AVT518,http://www.sfc.hk/publicregWeb/indi/AVT518/licenceRecord,,,Rep,2016-10-18,
+"Yang, Wen (SFC:BAL564) 楊文",None,sfclicrec.asp?p=1986019,BAL564,http://www.sfc.hk/publicregWeb/indi/BAL564/licenceRecord,,,Rep,2015-04-22,

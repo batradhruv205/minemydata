@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Hua, Ling 華玲",sfclicrec.asp?p=1863558,,,Rep,2015-08-05,2019-11-08
-"Hua, Ling 華玲",sfclicrec.asp?p=1863558,,,RO,2019-11-08,
-"Huang, Chengyang 黃成揚",sfclicrec.asp?p=2193821,,,Rep,2014-01-13,2017-07-28
-"Liu, Dongbo 劉東勃",sfclicrec.asp?p=2042977,,,Rep,2017-10-12,2018-07-30
-"Wang, Chao (SFC:BCH778) 王超",sfclicrec.asp?p=2222423,,,RO,2014-03-12,2019-12-04
-"Wu, Da 吳達",sfclicrec.asp?p=2132230,,,RO,2013-09-16,
-"Yeung, Ernest Sze Lok 楊思樂",sfclicrec.asp?p=103779,,M,RO,2013-09-16,2019-06-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Hua, Ling 華玲",None,sfclicrec.asp?p=1863558,AYQ547,http://www.sfc.hk/publicregWeb/indi/AYQ547/licenceRecord,,,Rep,2015-08-05,2019-11-08
+"Hua, Ling 華玲",None,sfclicrec.asp?p=1863558,AYQ547,http://www.sfc.hk/publicregWeb/indi/AYQ547/licenceRecord,,,RO,2019-11-08,
+"Huang, Chengyang 黃成揚",None,sfclicrec.asp?p=2193821,BCH777,http://www.sfc.hk/publicregWeb/indi/BCH777/licenceRecord,,,Rep,2014-01-13,2017-07-28
+"Liu, Dongbo 劉東勃",None,sfclicrec.asp?p=2042977,BAP245,http://www.sfc.hk/publicregWeb/indi/BAP245/licenceRecord,,,Rep,2017-10-12,2018-07-30
+"Wang, Chao (SFC:BCH778) 王超",None,sfclicrec.asp?p=2222423,BCH778,http://www.sfc.hk/publicregWeb/indi/BCH778/licenceRecord,,,RO,2014-03-12,2019-12-04
+"Wu, Da 吳達",None,sfclicrec.asp?p=2132230,BBJ029,http://www.sfc.hk/publicregWeb/indi/BBJ029/licenceRecord,,,RO,2013-09-16,
+"Yeung, Ernest Sze Lok 楊思樂",None,sfclicrec.asp?p=103779,ADI295,http://www.sfc.hk/publicregWeb/indi/ADI295/licenceRecord,,M,RO,2013-09-16,2019-06-30

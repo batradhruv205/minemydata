@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chiu, Sai Lun 招世麟",sfclicrec.asp?p=129513,,,Rep,2019-10-02,
-"Kuan, Tse Jen 關澤仁",sfclicrec.asp?p=23259573,,,RO,2019-06-03,
-"Li, Cho Kwong 李早光",sfclicrec.asp?p=82855,,,RO,2019-09-02,
-"Tsang, Chi Ming (SFC:AAC019) 曾智明",sfclicrec.asp?p=95195,,M,RO,2019-06-03,2019-12-18
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chiu, Sai Lun 招世麟",None,sfclicrec.asp?p=129513,AUX102,http://www.sfc.hk/publicregWeb/indi/AUX102/licenceRecord,,,Rep,2019-10-02,
+"Kuan, Tse Jen 關澤仁",None,sfclicrec.asp?p=23259573,BEW932,http://www.sfc.hk/publicregWeb/indi/BEW932/licenceRecord,,,RO,2019-06-03,
+"Li, Cho Kwong 李早光",None,sfclicrec.asp?p=82855,AEU474,http://www.sfc.hk/publicregWeb/indi/AEU474/licenceRecord,,,RO,2019-09-02,
+"Tsang, Chi Ming (SFC:AAC019) 曾智明",None,sfclicrec.asp?p=95195,AAC019,http://www.sfc.hk/publicregWeb/indi/AAC019/licenceRecord,,M,RO,2019-06-03,2019-12-18

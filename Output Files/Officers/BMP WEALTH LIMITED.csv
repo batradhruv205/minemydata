@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Clark-Burton, Howard ",sfclicrec.asp?p=99042,,M,RO,2017-06-05,
-"Marsh, Ian Forbes ",sfclicrec.asp?p=115188,,M,RO,2017-06-05,
-"Perez, Samuel John ",sfclicrec.asp?p=23772152,,M,Rep,2019-10-10,2019-10-28
-"Ramsey, James Lee ",sfclicrec.asp?p=13908794,,M,Rep,2018-06-14,
-"Reimann, Jahmaine Aderelli ",sfclicrec.asp?p=19379611,,,Rep,2019-09-04,
-"Wong, Nicholas Pui Chung 黃培琮",sfclicrec.asp?p=24131557,,M,Rep,2020-01-17,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Clark-Burton, Howard ",None,sfclicrec.asp?p=99042,AFE830,http://www.sfc.hk/publicregWeb/indi/AFE830/licenceRecord,,M,RO,2017-06-05,
+"Marsh, Ian Forbes ",None,sfclicrec.asp?p=115188,ALQ211,http://www.sfc.hk/publicregWeb/indi/ALQ211/licenceRecord,,M,RO,2017-06-05,
+"Perez, Samuel John ",None,sfclicrec.asp?p=23772152,BOS449,http://www.sfc.hk/publicregWeb/indi/BOS449/licenceRecord,,M,Rep,2019-10-10,2019-10-28
+"Ramsey, James Lee ",None,sfclicrec.asp?p=13908794,BMN687,http://www.sfc.hk/publicregWeb/indi/BMN687/licenceRecord,,M,Rep,2018-06-14,
+"Reimann, Jahmaine Aderelli ",None,sfclicrec.asp?p=19379611,BNA748,http://www.sfc.hk/publicregWeb/indi/BNA748/licenceRecord,,,Rep,2019-09-04,
+"Wong, Nicholas Pui Chung 黃培琮",None,sfclicrec.asp?p=24131557,BPG244,http://www.sfc.hk/publicregWeb/indi/BPG244/licenceRecord,,M,Rep,2020-01-17,

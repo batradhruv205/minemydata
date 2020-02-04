@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chung, Chak Man 鍾澤敏",sfclicrec.asp?p=73614,,,RO,2019-02-18,
-"Lee, Benjamin Tsi Bun 李錫斌",sfclicrec.asp?p=95546,,M,RO,2019-02-18,
-"Yan, Po Kwan 甄寶群",sfclicrec.asp?p=22766,58,F,RO,2019-09-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chung, Chak Man 鍾澤敏",None,sfclicrec.asp?p=73614,APH261,http://www.sfc.hk/publicregWeb/indi/APH261/licenceRecord,,,RO,2019-02-18,
+"Lee, Benjamin Tsi Bun 李錫斌",None,sfclicrec.asp?p=95546,AQM594,http://www.sfc.hk/publicregWeb/indi/AQM594/licenceRecord,,M,RO,2019-02-18,
+"Yan, Po Kwan 甄寶群",None,sfclicrec.asp?p=22766,ADP430,http://www.sfc.hk/publicregWeb/indi/ADP430/licenceRecord,58.0,F,RO,2019-09-26,

@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Sau Shan (SFC:AGC410) 陳秀山",sfclicrec.asp?p=22226063,,,Rep,2018-09-27,2019-06-12
-"Chan, Wan Yin Ada 陳韻妍",sfclicrec.asp?p=22763442,,,Rep,2019-02-11,2019-03-15
-"Cheung, Lai Fong (SFC:ARP127) 張麗芳",sfclicrec.asp?p=126662,,,Rep,2018-10-24,2019-05-03
-"Fang, Jianfeng (SFC:BNV382) 方建峰",sfclicrec.asp?p=22674974,,,Rep,2019-01-22,2019-05-14
-"Hau, Wai Tak 侯偉德",sfclicrec.asp?p=22950304,,,Rep,2019-03-26,2020-01-07
-"Hau, Wai Tak 侯偉德",sfclicrec.asp?p=22950304,,,RO,2020-01-07,
-"Lau, Yiu Bun 劉耀斌",sfclicrec.asp?p=2272035,,,Rep,2019-04-23,2019-05-09
-"Lau, Yiu Bun 劉耀斌",sfclicrec.asp?p=2272035,,,RO,2019-05-09,2019-08-27
-"Li, Chenchen (SFC:BOD527) 里辰辰",sfclicrec.asp?p=22875100,,,Rep,2019-03-08,2019-07-05
-"Mak, Wai Yip (SFC:BOD544) 麥偉業",sfclicrec.asp?p=23081092,,,Rep,2019-04-23,
-"Ng, Raymond Ying Wang 伍鷹宏",sfclicrec.asp?p=96127,,M,RO,2019-09-30,
-"Shiu, Paul Kin Ming 邵建銘",sfclicrec.asp?p=121315,,M,RO,2018-04-17,2019-05-10
-"Wang, Guanlong (SFC:BOT372) 王冠龍",sfclicrec.asp?p=23648957,,,Rep,2019-09-11,
-"Wong, Chi Tai 黃志泰",sfclicrec.asp?p=114111,,,RO,2018-04-17,2019-08-22
-"Yao, Patterson Kuo Yi 姚國儀",sfclicrec.asp?p=2496385,,,RO,2019-08-20,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Sau Shan (SFC:AGC410) 陳秀山",None,sfclicrec.asp?p=22226063,AGC410,http://www.sfc.hk/publicregWeb/indi/AGC410/licenceRecord,,,Rep,2018-09-27,2019-06-12
+"Chan, Wan Yin Ada 陳韻妍",None,sfclicrec.asp?p=22763442,BOB271,http://www.sfc.hk/publicregWeb/indi/BOB271/licenceRecord,,,Rep,2019-02-11,2019-03-15
+"Cheung, Lai Fong (SFC:ARP127) 張麗芳",None,sfclicrec.asp?p=126662,ARP127,http://www.sfc.hk/publicregWeb/indi/ARP127/licenceRecord,,,Rep,2018-10-24,2019-05-03
+"Fang, Jianfeng (SFC:BNV382) 方建峰",None,sfclicrec.asp?p=22674974,BNV382,http://www.sfc.hk/publicregWeb/indi/BNV382/licenceRecord,,,Rep,2019-01-22,2019-05-14
+"Hau, Wai Tak 侯偉德",None,sfclicrec.asp?p=22950304,BKV826,http://www.sfc.hk/publicregWeb/indi/BKV826/licenceRecord,,,Rep,2019-03-26,2020-01-07
+"Hau, Wai Tak 侯偉德",None,sfclicrec.asp?p=22950304,BKV826,http://www.sfc.hk/publicregWeb/indi/BKV826/licenceRecord,,,RO,2020-01-07,
+"Lau, Yiu Bun 劉耀斌",None,sfclicrec.asp?p=2272035,BDI052,http://www.sfc.hk/publicregWeb/indi/BDI052/licenceRecord,,,Rep,2019-04-23,2019-05-09
+"Lau, Yiu Bun 劉耀斌",None,sfclicrec.asp?p=2272035,BDI052,http://www.sfc.hk/publicregWeb/indi/BDI052/licenceRecord,,,RO,2019-05-09,2019-08-27
+"Li, Chenchen (SFC:BOD527) 里辰辰",None,sfclicrec.asp?p=22875100,BOD527,http://www.sfc.hk/publicregWeb/indi/BOD527/licenceRecord,,,Rep,2019-03-08,2019-07-05
+"Mak, Wai Yip (SFC:BOD544) 麥偉業",None,sfclicrec.asp?p=23081092,BOD544,http://www.sfc.hk/publicregWeb/indi/BOD544/licenceRecord,,,Rep,2019-04-23,
+"Ng, Raymond Ying Wang 伍鷹宏",None,sfclicrec.asp?p=96127,AEK090,http://www.sfc.hk/publicregWeb/indi/AEK090/licenceRecord,,M,RO,2019-09-30,
+"Shiu, Paul Kin Ming 邵建銘",None,sfclicrec.asp?p=121315,AOV858,http://www.sfc.hk/publicregWeb/indi/AOV858/licenceRecord,,M,RO,2018-04-17,2019-05-10
+"Wang, Guanlong (SFC:BOT372) 王冠龍",None,sfclicrec.asp?p=23648957,BOT372,http://www.sfc.hk/publicregWeb/indi/BOT372/licenceRecord,,,Rep,2019-09-11,
+"Wong, Chi Tai 黃志泰",None,sfclicrec.asp?p=114111,AKX258,http://www.sfc.hk/publicregWeb/indi/AKX258/licenceRecord,,,RO,2018-04-17,2019-08-22
+"Yao, Patterson Kuo Yi 姚國儀",None,sfclicrec.asp?p=2496385,AAH645,http://www.sfc.hk/publicregWeb/indi/AAH645/licenceRecord,,,RO,2019-08-20,

@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Fang, Wenhui (SFC:BNN921) 方文慧",sfclicrec.asp?p=22635274,,,Rep,2019-10-02,
-"Ke, Jingjing 柯菁菁",sfclicrec.asp?p=2121255,,,Rep,2018-11-12,2018-12-17
-"Kong, Raymond Chiu San 江朝新",sfclicrec.asp?p=10167,62,M,RO,2017-03-22,2018-08-31
-"Lam, Andy Ting Fung 林霆鋒",sfclicrec.asp?p=2067232,,,RO,2016-09-21,2018-01-31
-"Lam, Chin Ming 林展明",sfclicrec.asp?p=97946,,,RO,2014-07-03,2016-08-31
-"Ma, Shichao 馬世超",sfclicrec.asp?p=2385293,,,Rep,2015-02-17,2016-08-04
-"Pang, Chun Fai (SFC:AQJ528) 彭振輝",sfclicrec.asp?p=81931,,,Rep,2018-03-15,2018-05-14
-"Pang, Chun Fai (SFC:AQJ528) 彭振輝",sfclicrec.asp?p=81931,,,RO,2018-05-14,
-"Wong, Derek Yin Kui 黃賢駒",sfclicrec.asp?p=116063,,M,Rep,2016-08-30,2016-09-08
-"Wong, Derek Yin Kui 黃賢駒",sfclicrec.asp?p=116063,,M,RO,2016-09-08,2017-05-17
-"Yuen, Shing Kuen 袁承權",sfclicrec.asp?p=50369,,M,RO,2014-07-03,2017-03-06
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Fang, Wenhui (SFC:BNN921) 方文慧",None,sfclicrec.asp?p=22635274,BNN921,http://www.sfc.hk/publicregWeb/indi/BNN921/licenceRecord,,,Rep,2019-10-02,
+"Ke, Jingjing 柯菁菁",None,sfclicrec.asp?p=2121255,BBQ710,http://www.sfc.hk/publicregWeb/indi/BBQ710/licenceRecord,,,Rep,2018-11-12,2018-12-17
+"Kong, Raymond Chiu San 江朝新",None,sfclicrec.asp?p=10167,AAH157,http://www.sfc.hk/publicregWeb/indi/AAH157/licenceRecord,62.0,M,RO,2017-03-22,2018-08-31
+"Lam, Andy Ting Fung 林霆鋒",None,sfclicrec.asp?p=2067232,BBG375,http://www.sfc.hk/publicregWeb/indi/BBG375/licenceRecord,,,RO,2016-09-21,2018-01-31
+"Lam, Chin Ming 林展明",None,sfclicrec.asp?p=97946,AIL023,http://www.sfc.hk/publicregWeb/indi/AIL023/licenceRecord,,,RO,2014-07-03,2016-08-31
+"Ma, Shichao 馬世超",None,sfclicrec.asp?p=2385293,BEV326,http://www.sfc.hk/publicregWeb/indi/BEV326/licenceRecord,,,Rep,2015-02-17,2016-08-04
+"Pang, Chun Fai (SFC:AQJ528) 彭振輝",None,sfclicrec.asp?p=81931,AQJ528,http://www.sfc.hk/publicregWeb/indi/AQJ528/licenceRecord,,,Rep,2018-03-15,2018-05-14
+"Pang, Chun Fai (SFC:AQJ528) 彭振輝",None,sfclicrec.asp?p=81931,AQJ528,http://www.sfc.hk/publicregWeb/indi/AQJ528/licenceRecord,,,RO,2018-05-14,
+"Wong, Derek Yin Kui 黃賢駒",None,sfclicrec.asp?p=116063,AMB370,http://www.sfc.hk/publicregWeb/indi/AMB370/licenceRecord,,M,Rep,2016-08-30,2016-09-08
+"Wong, Derek Yin Kui 黃賢駒",None,sfclicrec.asp?p=116063,AMB370,http://www.sfc.hk/publicregWeb/indi/AMB370/licenceRecord,,M,RO,2016-09-08,2017-05-17
+"Yuen, Shing Kuen 袁承權",None,sfclicrec.asp?p=50369,AAG766,http://www.sfc.hk/publicregWeb/indi/AAG766/licenceRecord,,M,RO,2014-07-03,2017-03-06

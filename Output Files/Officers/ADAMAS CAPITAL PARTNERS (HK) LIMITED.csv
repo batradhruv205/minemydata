@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Fanjaud, Xavier Paul Christian ",sfclicrec.asp?p=67851,,M,RO,2017-07-03,2018-10-04
-"Hibbs, Mark Ashley ",sfclicrec.asp?p=1875846,,M,RO,2017-07-03,2019-03-10
-"Lai, Yee Yung 黎漪容",sfclicrec.asp?p=2555403,,,Rep,2017-07-13,2018-09-30
-"Lee, Yuen Wa 李婉華",sfclicrec.asp?p=2187336,,,Rep,2017-07-13,2018-05-11
-"Li, Douglas Yick Ho 李易豪",sfclicrec.asp?p=2476423,,M,Rep,2017-07-13,2018-10-04
-"Lu, Clark Chia-Chueh 呂佳學",sfclicrec.asp?p=106020,,M,RO,2019-05-03,
-"Sin, Yip Fung 冼業豐",sfclicrec.asp?p=7380864,,,Rep,2017-07-13,2018-10-04
-"Wong, Ka Man (SFC:BHH561) 黃嘉文",sfclicrec.asp?p=2573353,,,Rep,2017-07-13,2018-10-04
-"Yu, Benjamin Kwan Shun 余君信",sfclicrec.asp?p=67865,,M,Rep,2017-07-13,2018-10-04
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Fanjaud, Xavier Paul Christian ",None,sfclicrec.asp?p=67851,AJG155,http://www.sfc.hk/publicregWeb/indi/AJG155/licenceRecord,,M,RO,2017-07-03,2018-10-04
+"Hibbs, Mark Ashley ",None,sfclicrec.asp?p=1875846,ARF450,http://www.sfc.hk/publicregWeb/indi/ARF450/licenceRecord,,M,RO,2017-07-03,2019-03-10
+"Lai, Yee Yung 黎漪容",None,sfclicrec.asp?p=2555403,BHC251,http://www.sfc.hk/publicregWeb/indi/BHC251/licenceRecord,,,Rep,2017-07-13,2018-09-30
+"Lee, Yuen Wa 李婉華",None,sfclicrec.asp?p=2187336,BCP880,http://www.sfc.hk/publicregWeb/indi/BCP880/licenceRecord,,,Rep,2017-07-13,2018-05-11
+"Li, Douglas Yick Ho 李易豪",None,sfclicrec.asp?p=2476423,BGG170,http://www.sfc.hk/publicregWeb/indi/BGG170/licenceRecord,,M,Rep,2017-07-13,2018-10-04
+"Lu, Clark Chia-Chueh 呂佳學",None,sfclicrec.asp?p=106020,AFE990,http://www.sfc.hk/publicregWeb/indi/AFE990/licenceRecord,,M,RO,2019-05-03,
+"Sin, Yip Fung 冼業豐",None,sfclicrec.asp?p=7380864,BJG745,http://www.sfc.hk/publicregWeb/indi/BJG745/licenceRecord,,,Rep,2017-07-13,2018-10-04
+"Wong, Ka Man (SFC:BHH561) 黃嘉文",None,sfclicrec.asp?p=2573353,BHH561,http://www.sfc.hk/publicregWeb/indi/BHH561/licenceRecord,,,Rep,2017-07-13,2018-10-04
+"Yu, Benjamin Kwan Shun 余君信",None,sfclicrec.asp?p=67865,AXA343,http://www.sfc.hk/publicregWeb/indi/AXA343/licenceRecord,,M,Rep,2017-07-13,2018-10-04

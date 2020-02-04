@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lam, Pak Hi 林栢禧",sfclicrec.asp?p=12790381,,,Rep,2018-02-15,
-"Leung, Wai Man (SFC:ASK678) 梁偉民",sfclicrec.asp?p=127564,,,Rep,2018-06-05,
-"Lo, Iris Wing Chu 盧泳珠",sfclicrec.asp?p=93508,,F,RO,2016-09-20,
-"Lum, Sam Pak Sum 林柏森",sfclicrec.asp?p=21684,59,M,RO,2016-09-20,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lam, Pak Hi 林栢禧",None,sfclicrec.asp?p=12790381,BMB248,http://www.sfc.hk/publicregWeb/indi/BMB248/licenceRecord,,,Rep,2018-02-15,
+"Leung, Wai Man (SFC:ASK678) 梁偉民",None,sfclicrec.asp?p=127564,ASK678,http://www.sfc.hk/publicregWeb/indi/ASK678/licenceRecord,,,Rep,2018-06-05,
+"Lo, Iris Wing Chu 盧泳珠",None,sfclicrec.asp?p=93508,ANH324,http://www.sfc.hk/publicregWeb/indi/ANH324/licenceRecord,,F,RO,2016-09-20,
+"Lum, Sam Pak Sum 林柏森",None,sfclicrec.asp?p=21684,ACV231,http://www.sfc.hk/publicregWeb/indi/ACV231/licenceRecord,59.0,M,RO,2016-09-20,

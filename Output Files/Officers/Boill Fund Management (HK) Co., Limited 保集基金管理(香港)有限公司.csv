@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chong, Victor Yuk Fai 莊旭輝",sfclicrec.asp?p=2217331,39,M,RO,2019-05-03,2019-08-01
-"Wai, Chung 韋聰",sfclicrec.asp?p=12613754,,,RO,2017-11-30,2019-05-08
-"Zheng, Yongxiang (SFC:ALA552) 鄭永翔",sfclicrec.asp?p=114224,,,RO,2017-11-30,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chong, Victor Yuk Fai 莊旭輝",None,sfclicrec.asp?p=2217331,BCZ935,http://www.sfc.hk/publicregWeb/indi/BCZ935/licenceRecord,39.0,M,RO,2019-05-03,2019-08-01
+"Wai, Chung 韋聰",None,sfclicrec.asp?p=12613754,BJR215,http://www.sfc.hk/publicregWeb/indi/BJR215/licenceRecord,,,RO,2017-11-30,2019-05-08
+"Zheng, Yongxiang (SFC:ALA552) 鄭永翔",None,sfclicrec.asp?p=114224,ALA552,http://www.sfc.hk/publicregWeb/indi/ALA552/licenceRecord,,,RO,2017-11-30,

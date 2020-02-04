@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Kevin Ka Wai 鄭家維",sfclicrec.asp?p=2202866,,M,Rep,2014-02-04,
-"Cheung, Maisie Mee Sheung 張美湘",sfclicrec.asp?p=99408,,F,Rep,2007-07-16,
-"Descalzi, David Charles ",sfclicrec.asp?p=99406,,M,RO,2007-07-16,
-"Jim, Christopher Ho-Yin 詹浩賢",sfclicrec.asp?p=2435876,,M,Rep,2015-06-16,2018-09-17
-"Kong, Yuen Shan 江婉珊",sfclicrec.asp?p=99407,,,RO,2007-07-16,
-"Samant, Medha Aditya ",sfclicrec.asp?p=79473,,M,Rep,2008-06-25,2010-03-24
-"Wong, Carmen Choi Ying 黃彩英",sfclicrec.asp?p=99409,,F,Rep,2007-12-14,
-"Wong, Kwok Chung (SFC:ADP781) 黃國聰",sfclicrec.asp?p=99410,,,Rep,2008-11-11,
-"Yuen, Raymond Wai Pong (SFC:AOS058) 袁維邦",sfclicrec.asp?p=120942,,M,Rep,2007-07-16,2008-11-03
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Kevin Ka Wai 鄭家維",None,sfclicrec.asp?p=2202866,BCQ730,http://www.sfc.hk/publicregWeb/indi/BCQ730/licenceRecord,,M,Rep,2014-02-04,
+"Cheung, Maisie Mee Sheung 張美湘",None,sfclicrec.asp?p=99408,ACX283,http://www.sfc.hk/publicregWeb/indi/ACX283/licenceRecord,,F,Rep,2007-07-16,
+"Descalzi, David Charles ",None,sfclicrec.asp?p=99406,ACO444,http://www.sfc.hk/publicregWeb/indi/ACO444/licenceRecord,,M,RO,2007-07-16,
+"Jim, Christopher Ho-Yin 詹浩賢",None,sfclicrec.asp?p=2435876,BFQ082,http://www.sfc.hk/publicregWeb/indi/BFQ082/licenceRecord,,M,Rep,2015-06-16,2018-09-17
+"Kong, Yuen Shan 江婉珊",None,sfclicrec.asp?p=99407,ABA821,http://www.sfc.hk/publicregWeb/indi/ABA821/licenceRecord,,,RO,2007-07-16,
+"Samant, Medha Aditya ",None,sfclicrec.asp?p=79473,ACP452,http://www.sfc.hk/publicregWeb/indi/ACP452/licenceRecord,,M,Rep,2008-06-25,2010-03-24
+"Wong, Carmen Choi Ying 黃彩英",None,sfclicrec.asp?p=99409,AQD464,http://www.sfc.hk/publicregWeb/indi/AQD464/licenceRecord,,F,Rep,2007-12-14,
+"Wong, Kwok Chung (SFC:ADP781) 黃國聰",None,sfclicrec.asp?p=99410,ADP781,http://www.sfc.hk/publicregWeb/indi/ADP781/licenceRecord,,,Rep,2008-11-11,
+"Yuen, Raymond Wai Pong (SFC:AOS058) 袁維邦",None,sfclicrec.asp?p=120942,AOS058,http://www.sfc.hk/publicregWeb/indi/AOS058/licenceRecord,,M,Rep,2007-07-16,2008-11-03

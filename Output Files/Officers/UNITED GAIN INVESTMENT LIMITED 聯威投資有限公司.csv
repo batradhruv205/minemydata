@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Ka Ho (SFC:AUJ853) 鄭嘉豪",sfclicrec.asp?p=82118,,,Rep,2016-01-13,
-"Hui, Lok 許洛",sfclicrec.asp?p=2201321,,,Rep,2014-01-28,2016-09-02
-"Lau, Chi Yiu 劉志耀",sfclicrec.asp?p=26774,55,M,RO,2003-08-07,
-"Lum, Richard Chor Wah 林楚華",sfclicrec.asp?p=9723,60,M,RO,2003-08-07,
-"Shum, Kevin Chung Kiu 岑宗橋",sfclicrec.asp?p=119703,,M,Rep,2007-11-29,2011-04-05
-"Tsoi, Scott Kin Chung 蔡健聰",sfclicrec.asp?p=23388909,,M,Rep,2019-07-05,
-"Wong, Ying Ying (SFC:AVN303) 王盈盈",sfclicrec.asp?p=130065,,,Rep,2010-09-03,2019-11-29
-"Yan, Leo Kei Shui 甄祺瑞",sfclicrec.asp?p=120186,,M,Rep,2011-08-30,2013-01-11
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Ka Ho (SFC:AUJ853) 鄭嘉豪",None,sfclicrec.asp?p=82118,AUJ853,http://www.sfc.hk/publicregWeb/indi/AUJ853/licenceRecord,,,Rep,2016-01-13,
+"Hui, Lok 許洛",None,sfclicrec.asp?p=2201321,BCM911,http://www.sfc.hk/publicregWeb/indi/BCM911/licenceRecord,,,Rep,2014-01-28,2016-09-02
+"Lau, Chi Yiu 劉志耀",None,sfclicrec.asp?p=26774,AEM824,http://www.sfc.hk/publicregWeb/indi/AEM824/licenceRecord,55.0,M,RO,2003-08-07,
+"Lum, Richard Chor Wah 林楚華",None,sfclicrec.asp?p=9723,ABA078,http://www.sfc.hk/publicregWeb/indi/ABA078/licenceRecord,60.0,M,RO,2003-08-07,
+"Shum, Kevin Chung Kiu 岑宗橋",None,sfclicrec.asp?p=119703,ANZ639,http://www.sfc.hk/publicregWeb/indi/ANZ639/licenceRecord,,M,Rep,2007-11-29,2011-04-05
+"Tsoi, Scott Kin Chung 蔡健聰",None,sfclicrec.asp?p=23388909,BOJ201,http://www.sfc.hk/publicregWeb/indi/BOJ201/licenceRecord,,M,Rep,2019-07-05,
+"Wong, Ying Ying (SFC:AVN303) 王盈盈",None,sfclicrec.asp?p=130065,AVN303,http://www.sfc.hk/publicregWeb/indi/AVN303/licenceRecord,,,Rep,2010-09-03,2019-11-29
+"Yan, Leo Kei Shui 甄祺瑞",None,sfclicrec.asp?p=120186,AOG060,http://www.sfc.hk/publicregWeb/indi/AOG060/licenceRecord,,M,Rep,2011-08-30,2013-01-11

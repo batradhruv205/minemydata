@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Chi Wing (SFC:ATX898) 陳熾榮",sfclicrec.asp?p=128739,,,RO,2019-12-12,
-"Chan, Tsz Hon 陳子漢",sfclicrec.asp?p=119513,,,Rep,2018-09-18,2018-09-19
-"Chan, Tsz Hon 陳子漢",sfclicrec.asp?p=119513,,,RO,2018-09-19,2019-11-11
-"Choi, Wai King 蔡惠境",sfclicrec.asp?p=102982,57,M,RO,2014-09-02,2017-12-29
-"Li, Xu (SFC:AOX949) 李旭",sfclicrec.asp?p=121472,,,RO,2014-09-02,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Chi Wing (SFC:ATX898) 陳熾榮",None,sfclicrec.asp?p=128739,ATX898,http://www.sfc.hk/publicregWeb/indi/ATX898/licenceRecord,,,RO,2019-12-12,
+"Chan, Tsz Hon 陳子漢",None,sfclicrec.asp?p=119513,ANW417,http://www.sfc.hk/publicregWeb/indi/ANW417/licenceRecord,,,Rep,2018-09-18,2018-09-19
+"Chan, Tsz Hon 陳子漢",None,sfclicrec.asp?p=119513,ANW417,http://www.sfc.hk/publicregWeb/indi/ANW417/licenceRecord,,,RO,2018-09-19,2019-11-11
+"Choi, Wai King 蔡惠境",None,sfclicrec.asp?p=102982,ACL677,http://www.sfc.hk/publicregWeb/indi/ACL677/licenceRecord,57.0,M,RO,2014-09-02,2017-12-29
+"Li, Xu (SFC:AOX949) 李旭",None,sfclicrec.asp?p=121472,AOX949,http://www.sfc.hk/publicregWeb/indi/AOX949/licenceRecord,,,RO,2014-09-02,

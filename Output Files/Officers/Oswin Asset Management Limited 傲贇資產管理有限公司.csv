@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Libing 陳礼兵",sfclicrec.asp?p=121526,,,RO,2019-06-28,
-"Shea, Wing Kai 佘永佳",sfclicrec.asp?p=76557,,,RO,2019-06-28,
-"Wang, Kai (SFC:BBR122) 王凱",sfclicrec.asp?p=2124140,,,Rep,2019-12-05,
-"Wang, Yan (SFC:BOS518) 王妍",sfclicrec.asp?p=23679905,,,Rep,2019-09-19,
-"Wei, Yumou 魏雨繆",sfclicrec.asp?p=12601233,,,Rep,2019-08-15,
-"Wu, Yue (SFC:AFU292) 吳鉞",sfclicrec.asp?p=107678,,,Rep,2019-12-03,
-"Zhang, Qinrui 張欽銳",sfclicrec.asp?p=97627,,,Rep,2019-07-18,2019-10-17
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Libing 陳礼兵",None,sfclicrec.asp?p=121526,AOY490,http://www.sfc.hk/publicregWeb/indi/AOY490/licenceRecord,,,RO,2019-06-28,
+"Shea, Wing Kai 佘永佳",None,sfclicrec.asp?p=76557,AQV005,http://www.sfc.hk/publicregWeb/indi/AQV005/licenceRecord,,,RO,2019-06-28,
+"Wang, Kai (SFC:BBR122) 王凱",None,sfclicrec.asp?p=2124140,BBR122,http://www.sfc.hk/publicregWeb/indi/BBR122/licenceRecord,,,Rep,2019-12-05,
+"Wang, Yan (SFC:BOS518) 王妍",None,sfclicrec.asp?p=23679905,BOS518,http://www.sfc.hk/publicregWeb/indi/BOS518/licenceRecord,,,Rep,2019-09-19,
+"Wei, Yumou 魏雨繆",None,sfclicrec.asp?p=12601233,BLJ441,http://www.sfc.hk/publicregWeb/indi/BLJ441/licenceRecord,,,Rep,2019-08-15,
+"Wu, Yue (SFC:AFU292) 吳鉞",None,sfclicrec.asp?p=107678,AFU292,http://www.sfc.hk/publicregWeb/indi/AFU292/licenceRecord,,,Rep,2019-12-03,
+"Zhang, Qinrui 張欽銳",None,sfclicrec.asp?p=97627,AXQ582,http://www.sfc.hk/publicregWeb/indi/AXQ582/licenceRecord,,,Rep,2019-07-18,2019-10-17

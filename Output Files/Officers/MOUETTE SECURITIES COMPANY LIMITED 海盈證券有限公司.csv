@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Ching Yeung 陳正揚",sfclicrec.asp?p=12108000,,,Rep,2018-06-15,
-"Chung, Lai Yung 鍾麗容",sfclicrec.asp?p=80459,,,RO,2018-02-01,
-"Lui, Josaphat Chi Chung 呂志聰",sfclicrec.asp?p=80463,,,RO,2018-02-01,
-"Tsui, Kin Ling 徐健靈",sfclicrec.asp?p=80540,,,Rep,2018-02-14,
-"Wong, Mary Pak Ka 王柏嘉",sfclicrec.asp?p=1952664,31,F,Rep,2018-04-23,2018-05-17
-"Yeung, Gilbert Chin Kwan 楊展昆",sfclicrec.asp?p=12790391,,M,Rep,2018-02-15,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Ching Yeung 陳正揚",None,sfclicrec.asp?p=12108000,BKS757,http://www.sfc.hk/publicregWeb/indi/BKS757/licenceRecord,,,Rep,2018-06-15,
+"Chung, Lai Yung 鍾麗容",None,sfclicrec.asp?p=80459,AGM626,http://www.sfc.hk/publicregWeb/indi/AGM626/licenceRecord,,,RO,2018-02-01,
+"Lui, Josaphat Chi Chung 呂志聰",None,sfclicrec.asp?p=80463,AAD557,http://www.sfc.hk/publicregWeb/indi/AAD557/licenceRecord,,,RO,2018-02-01,
+"Tsui, Kin Ling 徐健靈",None,sfclicrec.asp?p=80540,AVY267,http://www.sfc.hk/publicregWeb/indi/AVY267/licenceRecord,,,Rep,2018-02-14,
+"Wong, Mary Pak Ka 王柏嘉",None,sfclicrec.asp?p=1952664,BAB535,http://www.sfc.hk/publicregWeb/indi/BAB535/licenceRecord,31.0,F,Rep,2018-04-23,2018-05-17
+"Yeung, Gilbert Chin Kwan 楊展昆",None,sfclicrec.asp?p=12790391,BMI041,http://www.sfc.hk/publicregWeb/indi/BMI041/licenceRecord,,M,Rep,2018-02-15,

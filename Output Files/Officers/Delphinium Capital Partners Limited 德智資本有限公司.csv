@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chow, Augustine Pok Yu 周博裕",sfclicrec.asp?p=2119,68,M,RO,2016-10-24,
-"Lau, Kai Yu Puri 劉佳儒",sfclicrec.asp?p=12690344,,,Rep,2018-01-18,
-"Wen, Zhigang 温志剛",sfclicrec.asp?p=2656755,,,Rep,2016-11-10,2018-05-25
-"Yan, Vivian 甄慧淙",sfclicrec.asp?p=131457,39,F,RO,2016-10-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chow, Augustine Pok Yu 周博裕",None,sfclicrec.asp?p=2119,AAN638,http://www.sfc.hk/publicregWeb/indi/AAN638/licenceRecord,68.0,M,RO,2016-10-24,
+"Lau, Kai Yu Puri 劉佳儒",None,sfclicrec.asp?p=12690344,BLU769,http://www.sfc.hk/publicregWeb/indi/BLU769/licenceRecord,,,Rep,2018-01-18,
+"Wen, Zhigang 温志剛",None,sfclicrec.asp?p=2656755,BIM633,http://www.sfc.hk/publicregWeb/indi/BIM633/licenceRecord,,,Rep,2016-11-10,2018-05-25
+"Yan, Vivian 甄慧淙",None,sfclicrec.asp?p=131457,AXW605,http://www.sfc.hk/publicregWeb/indi/AXW605/licenceRecord,39.0,F,RO,2016-10-24,

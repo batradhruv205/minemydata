@@ -1,18 +1,18 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chow, Eric Hon Kei 周漢祺",sfclicrec.asp?p=23341580,,M,Rep,2019-06-24,
-"Chung, Chi Ming (SFC:BOD505) 鍾志明",sfclicrec.asp?p=23064272,,,Rep,2019-04-18,
-"Chung, Chui Wah 鍾翠華",sfclicrec.asp?p=2609872,,,Rep,2019-10-08,2019-11-18
-"Chung, Chui Wah 鍾翠華",sfclicrec.asp?p=2609872,,,RO,2019-11-18,
-"Ha, Po Kwan 夏寶均",sfclicrec.asp?p=114279,,,RO,2018-02-22,2019-02-25
-"Lam, Yin Leung Joe 林彥良",sfclicrec.asp?p=1951469,,,Rep,2019-03-01,2019-06-18
-"Lam, Yin Leung Joe 林彥良",sfclicrec.asp?p=1951469,,,RO,2019-06-18,
-"Law, Wai Ming 羅偉明",sfclicrec.asp?p=11295924,,,Rep,2019-03-19,2019-05-02
-"Law, Wai Ming 羅偉明",sfclicrec.asp?p=11295924,,,RO,2019-05-02,
-"Leung, Chi Wah 梁志華",sfclicrec.asp?p=2591251,,,Rep,2018-05-09,2018-06-14
-"Leung, Chi Wah 梁志華",sfclicrec.asp?p=2591251,,,RO,2018-06-14,
-"Ng, Stephan Shun Heng 吳信衡",sfclicrec.asp?p=23910516,,M,Rep,2019-11-15,
-"Ng, Wing Chi (SFC:BOQ956) 吳詠慈",sfclicrec.asp?p=23676730,,,Rep,2019-09-18,
-"Pang, Pinky Siu Fun 彭少芬",sfclicrec.asp?p=23412840,,,Rep,2019-07-11,
-"Tsui, Kun Yu 徐貫宇",sfclicrec.asp?p=23441586,,,Rep,2019-07-18,
-"Wu, Yuen Man Judyanna 胡婉敏",sfclicrec.asp?p=83545,,,RO,2018-02-22,2019-07-13
-"Yung, Siu Wa 翁少華",sfclicrec.asp?p=2591252,,,RO,2019-05-22,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chow, Eric Hon Kei 周漢祺",None,sfclicrec.asp?p=23341580,BOI877,http://www.sfc.hk/publicregWeb/indi/BOI877/licenceRecord,,M,Rep,2019-06-24,
+"Chung, Chi Ming (SFC:BOD505) 鍾志明",None,sfclicrec.asp?p=23064272,BOD505,http://www.sfc.hk/publicregWeb/indi/BOD505/licenceRecord,,,Rep,2019-04-18,
+"Chung, Chui Wah 鍾翠華",None,sfclicrec.asp?p=2609872,BHL405,http://www.sfc.hk/publicregWeb/indi/BHL405/licenceRecord,,,Rep,2019-10-08,2019-11-18
+"Chung, Chui Wah 鍾翠華",None,sfclicrec.asp?p=2609872,BHL405,http://www.sfc.hk/publicregWeb/indi/BHL405/licenceRecord,,,RO,2019-11-18,
+"Ha, Po Kwan 夏寶均",None,sfclicrec.asp?p=114279,ALB254,http://www.sfc.hk/publicregWeb/indi/ALB254/licenceRecord,,,RO,2018-02-22,2019-02-25
+"Lam, Yin Leung Joe 林彥良",None,sfclicrec.asp?p=1951469,BAE136,http://www.sfc.hk/publicregWeb/indi/BAE136/licenceRecord,,,Rep,2019-03-01,2019-06-18
+"Lam, Yin Leung Joe 林彥良",None,sfclicrec.asp?p=1951469,BAE136,http://www.sfc.hk/publicregWeb/indi/BAE136/licenceRecord,,,RO,2019-06-18,
+"Law, Wai Ming 羅偉明",None,sfclicrec.asp?p=11295924,BJI431,http://www.sfc.hk/publicregWeb/indi/BJI431/licenceRecord,,,Rep,2019-03-19,2019-05-02
+"Law, Wai Ming 羅偉明",None,sfclicrec.asp?p=11295924,BJI431,http://www.sfc.hk/publicregWeb/indi/BJI431/licenceRecord,,,RO,2019-05-02,
+"Leung, Chi Wah 梁志華",None,sfclicrec.asp?p=2591251,BFR050,http://www.sfc.hk/publicregWeb/indi/BFR050/licenceRecord,,,Rep,2018-05-09,2018-06-14
+"Leung, Chi Wah 梁志華",None,sfclicrec.asp?p=2591251,BFR050,http://www.sfc.hk/publicregWeb/indi/BFR050/licenceRecord,,,RO,2018-06-14,
+"Ng, Stephan Shun Heng 吳信衡",None,sfclicrec.asp?p=23910516,BOZ613,http://www.sfc.hk/publicregWeb/indi/BOZ613/licenceRecord,,M,Rep,2019-11-15,
+"Ng, Wing Chi (SFC:BOQ956) 吳詠慈",None,sfclicrec.asp?p=23676730,BOQ956,http://www.sfc.hk/publicregWeb/indi/BOQ956/licenceRecord,,,Rep,2019-09-18,
+"Pang, Pinky Siu Fun 彭少芬",None,sfclicrec.asp?p=23412840,BOL145,http://www.sfc.hk/publicregWeb/indi/BOL145/licenceRecord,,,Rep,2019-07-11,
+"Tsui, Kun Yu 徐貫宇",None,sfclicrec.asp?p=23441586,BOL146,http://www.sfc.hk/publicregWeb/indi/BOL146/licenceRecord,,,Rep,2019-07-18,
+"Wu, Yuen Man Judyanna 胡婉敏",None,sfclicrec.asp?p=83545,AYA154,http://www.sfc.hk/publicregWeb/indi/AYA154/licenceRecord,,,RO,2018-02-22,2019-07-13
+"Yung, Siu Wa 翁少華",None,sfclicrec.asp?p=2591252,BFR053,http://www.sfc.hk/publicregWeb/indi/BFR053/licenceRecord,,,RO,2019-05-22,

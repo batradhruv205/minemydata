@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Dong, Xiao 董瀟",sfclicrec.asp?p=2335409,,,Rep,2019-09-27,
-"Hui, King Lung 許經隆",sfclicrec.asp?p=70984,,,RO,2019-03-07,2019-06-15
-"Li, Sisi (SFC:AWL795) 黎偲偲",sfclicrec.asp?p=93042,,,Rep,2019-09-12,2019-09-18
-"Li, Sisi (SFC:AWL795) 黎偲偲",sfclicrec.asp?p=93042,,,RO,2019-09-18,
-"Lin, Gary Gang 林鋼",sfclicrec.asp?p=2019095,,M,Rep,2019-06-05,2019-06-14
-"Lin, Gary Gang 林鋼",sfclicrec.asp?p=2019095,,M,RO,2019-06-14,
-"Mo, Chun Wan 武震寰",sfclicrec.asp?p=82279,,,Rep,2019-06-18,
-"Wang, Fengyu 王風雨",sfclicrec.asp?p=73587,,,RO,2019-03-07,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Dong, Xiao 董瀟",None,sfclicrec.asp?p=2335409,BEJ224,http://www.sfc.hk/publicregWeb/indi/BEJ224/licenceRecord,,,Rep,2019-09-27,
+"Hui, King Lung 許經隆",None,sfclicrec.asp?p=70984,ANJ588,http://www.sfc.hk/publicregWeb/indi/ANJ588/licenceRecord,,,RO,2019-03-07,2019-06-15
+"Li, Sisi (SFC:AWL795) 黎偲偲",None,sfclicrec.asp?p=93042,AWL795,http://www.sfc.hk/publicregWeb/indi/AWL795/licenceRecord,,,Rep,2019-09-12,2019-09-18
+"Li, Sisi (SFC:AWL795) 黎偲偲",None,sfclicrec.asp?p=93042,AWL795,http://www.sfc.hk/publicregWeb/indi/AWL795/licenceRecord,,,RO,2019-09-18,
+"Lin, Gary Gang 林鋼",None,sfclicrec.asp?p=2019095,BAV330,http://www.sfc.hk/publicregWeb/indi/BAV330/licenceRecord,,M,Rep,2019-06-05,2019-06-14
+"Lin, Gary Gang 林鋼",None,sfclicrec.asp?p=2019095,BAV330,http://www.sfc.hk/publicregWeb/indi/BAV330/licenceRecord,,M,RO,2019-06-14,
+"Mo, Chun Wan 武震寰",None,sfclicrec.asp?p=82279,APH784,http://www.sfc.hk/publicregWeb/indi/APH784/licenceRecord,,,Rep,2019-06-18,
+"Wang, Fengyu 王風雨",None,sfclicrec.asp?p=73587,APX278,http://www.sfc.hk/publicregWeb/indi/APX278/licenceRecord,,,RO,2019-03-07,

@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chung, Franki Ka Fai 鍾家輝",sfclicrec.asp?p=87310,,M,RO,2018-01-09,
-"Fung, Kin Tung 馮健彤",sfclicrec.asp?p=73581,,,RO,2018-01-09,2018-07-31
-"Kan, Don Lap Hung 簡立雄",sfclicrec.asp?p=99072,,,RO,2019-09-17,
-"Li, Sek Fu 李錫富",sfclicrec.asp?p=69905,,,Rep,2018-03-13,2018-04-03
-"Li, Sek Fu 李錫富",sfclicrec.asp?p=69905,,,RO,2018-04-03,2019-09-13
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chung, Franki Ka Fai 鍾家輝",None,sfclicrec.asp?p=87310,ACW769,http://www.sfc.hk/publicregWeb/indi/ACW769/licenceRecord,,M,RO,2018-01-09,
+"Fung, Kin Tung 馮健彤",None,sfclicrec.asp?p=73581,AKI222,http://www.sfc.hk/publicregWeb/indi/AKI222/licenceRecord,,,RO,2018-01-09,2018-07-31
+"Kan, Don Lap Hung 簡立雄",None,sfclicrec.asp?p=99072,AJI408,http://www.sfc.hk/publicregWeb/indi/AJI408/licenceRecord,,,RO,2019-09-17,
+"Li, Sek Fu 李錫富",None,sfclicrec.asp?p=69905,AAX343,http://www.sfc.hk/publicregWeb/indi/AAX343/licenceRecord,,,Rep,2018-03-13,2018-04-03
+"Li, Sek Fu 李錫富",None,sfclicrec.asp?p=69905,AAX343,http://www.sfc.hk/publicregWeb/indi/AAX343/licenceRecord,,,RO,2018-04-03,2019-09-13

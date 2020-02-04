@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Sau Him 陳守謙",sfclicrec.asp?p=78830,,,RO,2019-01-10,
-"Cheung, Kai Kwong 張啟光",sfclicrec.asp?p=82614,63,M,RO,2018-06-21,2018-12-31
-"Fu, Wang Kit 傅宏傑",sfclicrec.asp?p=73027,,,RO,2019-03-04,2019-09-09
-"Tsang, Samuel Chiu Wah 曾超華",sfclicrec.asp?p=81613,,M,RO,2018-06-21,2018-12-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Sau Him 陳守謙",None,sfclicrec.asp?p=78830,AQF608,http://www.sfc.hk/publicregWeb/indi/AQF608/licenceRecord,,,RO,2019-01-10,
+"Cheung, Kai Kwong 張啟光",None,sfclicrec.asp?p=82614,AAD666,http://www.sfc.hk/publicregWeb/indi/AAD666/licenceRecord,63.0,M,RO,2018-06-21,2018-12-31
+"Fu, Wang Kit 傅宏傑",None,sfclicrec.asp?p=73027,AVM406,http://www.sfc.hk/publicregWeb/indi/AVM406/licenceRecord,,,RO,2019-03-04,2019-09-09
+"Tsang, Samuel Chiu Wah 曾超華",None,sfclicrec.asp?p=81613,AAA566,http://www.sfc.hk/publicregWeb/indi/AAA566/licenceRecord,,M,RO,2018-06-21,2018-12-31

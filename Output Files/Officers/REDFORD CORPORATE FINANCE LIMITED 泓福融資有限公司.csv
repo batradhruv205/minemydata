@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Huang, Zhenkai 黃振凱",sfclicrec.asp?p=23026338,,,Rep,2019-04-08,
-"Kwong, Wang Pok 鄺宏博",sfclicrec.asp?p=100954,,,RO,2011-02-07,2012-03-15
-"Lam, Ting Lok 林庭樂",sfclicrec.asp?p=58311,48,M,RO,2012-02-17,2012-05-07
-"Lee, Eugene Tin Yau 李天佑",sfclicrec.asp?p=55340,48,M,RO,2012-03-28,2014-12-20
-"Li, Xin (SFC:BGI637) 李昕",sfclicrec.asp?p=2499455,,,Rep,2015-11-10,
-"Lo, Iris Wing Chu 盧泳珠",sfclicrec.asp?p=93508,,F,RO,2012-05-04,2016-09-15
-"Pak, Jin Fai 柏展輝",sfclicrec.asp?p=122446,,,Rep,2013-06-19,2014-12-18
-"Pak, Jin Fai 柏展輝",sfclicrec.asp?p=122446,,,RO,2014-12-18,
-"Tsang, Kwong Wan 曾廣雲",sfclicrec.asp?p=114090,47,F,RO,2011-02-07,2012-03-31
-"Tsang, Mo Chau (SFC:AQD777) 曾慕秋",sfclicrec.asp?p=11789138,,,RO,2017-08-15,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Huang, Zhenkai 黃振凱",None,sfclicrec.asp?p=23026338,BOD548,http://www.sfc.hk/publicregWeb/indi/BOD548/licenceRecord,,,Rep,2019-04-08,
+"Kwong, Wang Pok 鄺宏博",None,sfclicrec.asp?p=100954,AAD943,http://www.sfc.hk/publicregWeb/indi/AAD943/licenceRecord,,,RO,2011-02-07,2012-03-15
+"Lam, Ting Lok 林庭樂",None,sfclicrec.asp?p=58311,AFT214,http://www.sfc.hk/publicregWeb/indi/AFT214/licenceRecord,48.0,M,RO,2012-02-17,2012-05-07
+"Lee, Eugene Tin Yau 李天佑",None,sfclicrec.asp?p=55340,ADV918,http://www.sfc.hk/publicregWeb/indi/ADV918/licenceRecord,48.0,M,RO,2012-03-28,2014-12-20
+"Li, Xin (SFC:BGI637) 李昕",None,sfclicrec.asp?p=2499455,BGI637,http://www.sfc.hk/publicregWeb/indi/BGI637/licenceRecord,,,Rep,2015-11-10,
+"Lo, Iris Wing Chu 盧泳珠",None,sfclicrec.asp?p=93508,ANH324,http://www.sfc.hk/publicregWeb/indi/ANH324/licenceRecord,,F,RO,2012-05-04,2016-09-15
+"Pak, Jin Fai 柏展輝",None,sfclicrec.asp?p=122446,APJ739,http://www.sfc.hk/publicregWeb/indi/APJ739/licenceRecord,,,Rep,2013-06-19,2014-12-18
+"Pak, Jin Fai 柏展輝",None,sfclicrec.asp?p=122446,APJ739,http://www.sfc.hk/publicregWeb/indi/APJ739/licenceRecord,,,RO,2014-12-18,
+"Tsang, Kwong Wan 曾廣雲",None,sfclicrec.asp?p=114090,AKX048,http://www.sfc.hk/publicregWeb/indi/AKX048/licenceRecord,47.0,F,RO,2011-02-07,2012-03-31
+"Tsang, Mo Chau (SFC:AQD777) 曾慕秋",None,sfclicrec.asp?p=11789138,AQD777,http://www.sfc.hk/publicregWeb/indi/AQD777/licenceRecord,,,RO,2017-08-15,

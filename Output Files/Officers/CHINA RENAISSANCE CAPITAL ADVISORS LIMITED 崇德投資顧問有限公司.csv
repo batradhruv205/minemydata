@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Guan, Shan 關山",sfclicrec.asp?p=22475727,,,RO,2018-11-26,
-"Qiu, Mark 邱子磊",sfclicrec.asp?p=105696,,M,RO,2008-08-05,
-"Shih, Hung (SFC:AAX349) 石宏",sfclicrec.asp?p=101725,,,RO,2008-08-05,2018-11-27
-"Wu, Tao (SFC:BGQ271) 吳濤",sfclicrec.asp?p=22850514,,,RO,2019-03-04,
-"Yu, Choi Yan 余彩欣",sfclicrec.asp?p=113876,,,Rep,2008-08-08,2010-10-25
-"Yu, Choi Yan 余彩欣",sfclicrec.asp?p=113876,,,Rep,2014-11-03,2015-06-30
-"Yu, Ho Man (SFC:BAA224) 余浩文",sfclicrec.asp?p=1941107,,,Rep,2012-08-17,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Guan, Shan 關山",None,sfclicrec.asp?p=22475727,ACN841,http://www.sfc.hk/publicregWeb/indi/ACN841/licenceRecord,,,RO,2018-11-26,
+"Qiu, Mark 邱子磊",None,sfclicrec.asp?p=105696,AEZ891,http://www.sfc.hk/publicregWeb/indi/AEZ891/licenceRecord,,M,RO,2008-08-05,
+"Shih, Hung (SFC:AAX349) 石宏",None,sfclicrec.asp?p=101725,AAX349,http://www.sfc.hk/publicregWeb/indi/AAX349/licenceRecord,,,RO,2008-08-05,2018-11-27
+"Wu, Tao (SFC:BGQ271) 吳濤",None,sfclicrec.asp?p=22850514,BGQ271,http://www.sfc.hk/publicregWeb/indi/BGQ271/licenceRecord,,,RO,2019-03-04,
+"Yu, Choi Yan 余彩欣",None,sfclicrec.asp?p=113876,AKP037,http://www.sfc.hk/publicregWeb/indi/AKP037/licenceRecord,,,Rep,2008-08-08,2010-10-25
+"Yu, Choi Yan 余彩欣",None,sfclicrec.asp?p=113876,AKP037,http://www.sfc.hk/publicregWeb/indi/AKP037/licenceRecord,,,Rep,2014-11-03,2015-06-30
+"Yu, Ho Man (SFC:BAA224) 余浩文",None,sfclicrec.asp?p=1941107,BAA224,http://www.sfc.hk/publicregWeb/indi/BAA224/licenceRecord,,,Rep,2012-08-17,

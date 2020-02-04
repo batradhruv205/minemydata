@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bao, Jiakun 鮑佳坤",sfclicrec.asp?p=11788672,,,Rep,2017-08-14,2019-04-15
-"Chan, Pui Yi (SFC:AUM181) 陳佩儀",sfclicrec.asp?p=129158,,,RO,2017-10-31,
-"Chow, William Wai Chiu 曹偉超",sfclicrec.asp?p=97680,,M,RO,2017-09-28,2018-08-31
-"Garrett, Adam Guy Orlebar 蓋首男",sfclicrec.asp?p=115175,,M,Rep,2017-08-21,
-"Lee, Hsin-Ju 李欣儒",sfclicrec.asp?p=22625724,,,Rep,2019-01-09,2019-03-01
-"Maingard, De La Ville Es Offran Amedee Cory ",sfclicrec.asp?p=2585431,,,Rep,2018-02-05,2018-04-30
-"Ng, Raymond Jun Hing 吳駿興",sfclicrec.asp?p=105228,,M,RO,2017-05-12,
-"Pao, Michael Shihao 包始浩",sfclicrec.asp?p=69743,,M,Rep,2018-02-21,
-"Sze-To, Gilda May Ying 司徒美英",sfclicrec.asp?p=93619,,,RO,2017-05-12,2017-07-31
-"Yau, Chun Keung 邱鎮強",sfclicrec.asp?p=98845,,,Rep,2017-08-15,2017-10-26
-"Yau, Chun Keung 邱鎮強",sfclicrec.asp?p=98845,,,RO,2017-10-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bao, Jiakun 鮑佳坤",None,sfclicrec.asp?p=11788672,BKM142,http://www.sfc.hk/publicregWeb/indi/BKM142/licenceRecord,,,Rep,2017-08-14,2019-04-15
+"Chan, Pui Yi (SFC:AUM181) 陳佩儀",None,sfclicrec.asp?p=129158,AUM181,http://www.sfc.hk/publicregWeb/indi/AUM181/licenceRecord,,,RO,2017-10-31,
+"Chow, William Wai Chiu 曹偉超",None,sfclicrec.asp?p=97680,AKY161,http://www.sfc.hk/publicregWeb/indi/AKY161/licenceRecord,,M,RO,2017-09-28,2018-08-31
+"Garrett, Adam Guy Orlebar 蓋首男",None,sfclicrec.asp?p=115175,ALQ136,http://www.sfc.hk/publicregWeb/indi/ALQ136/licenceRecord,,M,Rep,2017-08-21,
+"Lee, Hsin-Ju 李欣儒",None,sfclicrec.asp?p=22625724,BNV168,http://www.sfc.hk/publicregWeb/indi/BNV168/licenceRecord,,,Rep,2019-01-09,2019-03-01
+"Maingard, De La Ville Es Offran Amedee Cory ",None,sfclicrec.asp?p=2585431,BHK684,http://www.sfc.hk/publicregWeb/indi/BHK684/licenceRecord,,,Rep,2018-02-05,2018-04-30
+"Ng, Raymond Jun Hing 吳駿興",None,sfclicrec.asp?p=105228,AEQ988,http://www.sfc.hk/publicregWeb/indi/AEQ988/licenceRecord,,M,RO,2017-05-12,
+"Pao, Michael Shihao 包始浩",None,sfclicrec.asp?p=69743,AVR356,http://www.sfc.hk/publicregWeb/indi/AVR356/licenceRecord,,M,Rep,2018-02-21,
+"Sze-To, Gilda May Ying 司徒美英",None,sfclicrec.asp?p=93619,ACG379,http://www.sfc.hk/publicregWeb/indi/ACG379/licenceRecord,,,RO,2017-05-12,2017-07-31
+"Yau, Chun Keung 邱鎮強",None,sfclicrec.asp?p=98845,APJ249,http://www.sfc.hk/publicregWeb/indi/APJ249/licenceRecord,,,Rep,2017-08-15,2017-10-26
+"Yau, Chun Keung 邱鎮強",None,sfclicrec.asp?p=98845,APJ249,http://www.sfc.hk/publicregWeb/indi/APJ249/licenceRecord,,,RO,2017-10-26,

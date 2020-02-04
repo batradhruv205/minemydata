@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Fang, Lin (SFC:ANQ365) 房林",sfclicrec.asp?p=118995,,,RO,2018-05-14,
-"Kui, Siu Yi 巨瀟怡",sfclicrec.asp?p=120842,,,Rep,2018-08-01,2019-05-15
-"Oei, Chun Kit Emerson 黃俊傑",sfclicrec.asp?p=23388908,,,Rep,2019-07-04,
-"Song, Kun 宋琨",sfclicrec.asp?p=87976,,,RO,2018-05-14,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Fang, Lin (SFC:ANQ365) 房林",None,sfclicrec.asp?p=118995,ANQ365,http://www.sfc.hk/publicregWeb/indi/ANQ365/licenceRecord,,,RO,2018-05-14,
+"Kui, Siu Yi 巨瀟怡",None,sfclicrec.asp?p=120842,AOQ777,http://www.sfc.hk/publicregWeb/indi/AOQ777/licenceRecord,,,Rep,2018-08-01,2019-05-15
+"Oei, Chun Kit Emerson 黃俊傑",None,sfclicrec.asp?p=23388908,BON908,http://www.sfc.hk/publicregWeb/indi/BON908/licenceRecord,,,Rep,2019-07-04,
+"Song, Kun 宋琨",None,sfclicrec.asp?p=87976,AJG893,http://www.sfc.hk/publicregWeb/indi/AJG893/licenceRecord,,,RO,2018-05-14,

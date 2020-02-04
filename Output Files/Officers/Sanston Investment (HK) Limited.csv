@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Fung Kit 鄭豐傑",sfclicrec.asp?p=99849,,,RO,2018-12-11,
-"Kwok, Wing Lun 郭詠麟",sfclicrec.asp?p=118018,,,RO,2017-01-05,2017-08-28
-"McDonald, Nicholas William ",sfclicrec.asp?p=2154211,,M,RO,2017-01-05,2018-05-18
-"Shea, Patrick Kwok Hing 佘國興",sfclicrec.asp?p=88219,,M,RO,2017-12-05,2018-11-09
-"Shum, Yuen Fai 沈遠輝",sfclicrec.asp?p=91814,,,RO,2018-07-24,2019-12-15
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Fung Kit 鄭豐傑",None,sfclicrec.asp?p=99849,AGL892,http://www.sfc.hk/publicregWeb/indi/AGL892/licenceRecord,,,RO,2018-12-11,
+"Kwok, Wing Lun 郭詠麟",None,sfclicrec.asp?p=118018,AND706,http://www.sfc.hk/publicregWeb/indi/AND706/licenceRecord,,,RO,2017-01-05,2017-08-28
+"McDonald, Nicholas William ",None,sfclicrec.asp?p=2154211,BBZ140,http://www.sfc.hk/publicregWeb/indi/BBZ140/licenceRecord,,M,RO,2017-01-05,2018-05-18
+"Shea, Patrick Kwok Hing 佘國興",None,sfclicrec.asp?p=88219,AAC349,http://www.sfc.hk/publicregWeb/indi/AAC349/licenceRecord,,M,RO,2017-12-05,2018-11-09
+"Shum, Yuen Fai 沈遠輝",None,sfclicrec.asp?p=91814,AXG206,http://www.sfc.hk/publicregWeb/indi/AXG206/licenceRecord,,,RO,2018-07-24,2019-12-15

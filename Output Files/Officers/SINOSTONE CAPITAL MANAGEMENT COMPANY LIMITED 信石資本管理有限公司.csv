@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Du, Qing 杜青",sfclicrec.asp?p=117481,,,Rep,2017-05-25,2018-07-31
-"Du, Qing 杜青",sfclicrec.asp?p=117481,,,Rep,2019-11-26,
-"He, Ling (SFC:BEO716) 何陵",sfclicrec.asp?p=2580526,,,RO,2015-03-06,
-"Lee, Ka Wai (SFC:BGH623) 李嘉偉",sfclicrec.asp?p=2580528,,,Rep,2015-10-02,2017-01-17
-"Li, Wenyi 李文怡",sfclicrec.asp?p=2580529,,,Rep,2016-05-17,
-"Li, Yiming 李一鳴",sfclicrec.asp?p=2681783,,,Rep,2017-01-04,
-"Song, Ci 宋辭",sfclicrec.asp?p=2197595,,,Rep,2017-02-20,
-"Song, Xiaobin 宋曉彬",sfclicrec.asp?p=2580530,,,Rep,2015-11-17,2018-08-30
-"Su, Zhiqiang 蘇志強",sfclicrec.asp?p=2580531,,,Rep,2015-11-17,2017-05-19
-"Wang, Zhengmin 王正民",sfclicrec.asp?p=2580532,,,Rep,2015-12-28,
-"Yu, Xiao (SFC:BEW622) 喻驍",sfclicrec.asp?p=2376599,,,Rep,2017-09-29,
-"Zhang, Kai (SFC:BEO652) 章凱",sfclicrec.asp?p=2580527,,,RO,2015-03-06,
-"Zhao, Yanchen 趙燕琛",sfclicrec.asp?p=1859688,,,Rep,2016-05-17,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Du, Qing 杜青",None,sfclicrec.asp?p=117481,AMT911,http://www.sfc.hk/publicregWeb/indi/AMT911/licenceRecord,,,Rep,2017-05-25,2018-07-31
+"Du, Qing 杜青",None,sfclicrec.asp?p=117481,AMT911,http://www.sfc.hk/publicregWeb/indi/AMT911/licenceRecord,,,Rep,2019-11-26,
+"He, Ling (SFC:BEO716) 何陵",None,sfclicrec.asp?p=2580526,BEO716,http://www.sfc.hk/publicregWeb/indi/BEO716/licenceRecord,,,RO,2015-03-06,
+"Lee, Ka Wai (SFC:BGH623) 李嘉偉",None,sfclicrec.asp?p=2580528,BGH623,http://www.sfc.hk/publicregWeb/indi/BGH623/licenceRecord,,,Rep,2015-10-02,2017-01-17
+"Li, Wenyi 李文怡",None,sfclicrec.asp?p=2580529,BHG351,http://www.sfc.hk/publicregWeb/indi/BHG351/licenceRecord,,,Rep,2016-05-17,
+"Li, Yiming 李一鳴",None,sfclicrec.asp?p=2681783,BIS555,http://www.sfc.hk/publicregWeb/indi/BIS555/licenceRecord,,,Rep,2017-01-04,
+"Song, Ci 宋辭",None,sfclicrec.asp?p=2197595,BCT672,http://www.sfc.hk/publicregWeb/indi/BCT672/licenceRecord,,,Rep,2017-02-20,
+"Song, Xiaobin 宋曉彬",None,sfclicrec.asp?p=2580530,BGH764,http://www.sfc.hk/publicregWeb/indi/BGH764/licenceRecord,,,Rep,2015-11-17,2018-08-30
+"Su, Zhiqiang 蘇志強",None,sfclicrec.asp?p=2580531,BGH639,http://www.sfc.hk/publicregWeb/indi/BGH639/licenceRecord,,,Rep,2015-11-17,2017-05-19
+"Wang, Zhengmin 王正民",None,sfclicrec.asp?p=2580532,BEO651,http://www.sfc.hk/publicregWeb/indi/BEO651/licenceRecord,,,Rep,2015-12-28,
+"Yu, Xiao (SFC:BEW622) 喻驍",None,sfclicrec.asp?p=2376599,BEW622,http://www.sfc.hk/publicregWeb/indi/BEW622/licenceRecord,,,Rep,2017-09-29,
+"Zhang, Kai (SFC:BEO652) 章凱",None,sfclicrec.asp?p=2580527,BEO652,http://www.sfc.hk/publicregWeb/indi/BEO652/licenceRecord,,,RO,2015-03-06,
+"Zhao, Yanchen 趙燕琛",None,sfclicrec.asp?p=1859688,AYS680,http://www.sfc.hk/publicregWeb/indi/AYS680/licenceRecord,,,Rep,2016-05-17,

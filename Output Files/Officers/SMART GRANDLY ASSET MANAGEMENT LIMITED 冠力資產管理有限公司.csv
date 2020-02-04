@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Tsz Hon 陳子漢",sfclicrec.asp?p=119513,,,RO,2015-02-12,2017-07-31
-"Chen, Yanqi 陳艷琪",sfclicrec.asp?p=132980,,,Rep,2015-08-21,2017-07-31
-"Ho, Lap Chi 何立志",sfclicrec.asp?p=96011,,,RO,2015-02-12,2015-09-01
-"Law, Chi Pang 羅志鵬",sfclicrec.asp?p=121306,,,Rep,2017-06-13,2017-07-24
-"Law, Chi Pang 羅志鵬",sfclicrec.asp?p=121306,,,RO,2017-07-24,2017-11-30
-"Lee, Inessa Suk Wah 李菽樺",sfclicrec.asp?p=84814,,F,RO,2015-09-18,2017-09-30
-"Liang, Xun 梁迅",sfclicrec.asp?p=12798584,,,Rep,2018-07-11,2019-04-18
-"Liang, Xun 梁迅",sfclicrec.asp?p=12798584,,,RO,2019-04-18,
-"Shang, Zihan 尚子涵",sfclicrec.asp?p=12661886,,,Rep,2018-03-12,
-"Tse, Ming Pong 謝明邦",sfclicrec.asp?p=2070539,,,Rep,2018-06-26,
-"Wong, Chun Yuen (SFC:AQA097) 黃振炫",sfclicrec.asp?p=81542,,,Rep,2017-08-03,2017-10-27
-"Young, Jeffrey (SFC:BKM800) ",sfclicrec.asp?p=12085918,,M,RO,2017-09-29,
-"Zhang, Minghua (SFC:ASP315) 張明華",sfclicrec.asp?p=2319950,,,RO,2019-10-17,
-"Zhen, Xu 甄旭",sfclicrec.asp?p=12641978,,,RO,2017-12-14,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Tsz Hon 陳子漢",None,sfclicrec.asp?p=119513,ANW417,http://www.sfc.hk/publicregWeb/indi/ANW417/licenceRecord,,,RO,2015-02-12,2017-07-31
+"Chen, Yanqi 陳艷琪",None,sfclicrec.asp?p=132980,AYI422,http://www.sfc.hk/publicregWeb/indi/AYI422/licenceRecord,,,Rep,2015-08-21,2017-07-31
+"Ho, Lap Chi 何立志",None,sfclicrec.asp?p=96011,AFD240,http://www.sfc.hk/publicregWeb/indi/AFD240/licenceRecord,,,RO,2015-02-12,2015-09-01
+"Law, Chi Pang 羅志鵬",None,sfclicrec.asp?p=121306,AOV816,http://www.sfc.hk/publicregWeb/indi/AOV816/licenceRecord,,,Rep,2017-06-13,2017-07-24
+"Law, Chi Pang 羅志鵬",None,sfclicrec.asp?p=121306,AOV816,http://www.sfc.hk/publicregWeb/indi/AOV816/licenceRecord,,,RO,2017-07-24,2017-11-30
+"Lee, Inessa Suk Wah 李菽樺",None,sfclicrec.asp?p=84814,ACH127,http://www.sfc.hk/publicregWeb/indi/ACH127/licenceRecord,,F,RO,2015-09-18,2017-09-30
+"Liang, Xun 梁迅",None,sfclicrec.asp?p=12798584,BLT156,http://www.sfc.hk/publicregWeb/indi/BLT156/licenceRecord,,,Rep,2018-07-11,2019-04-18
+"Liang, Xun 梁迅",None,sfclicrec.asp?p=12798584,BLT156,http://www.sfc.hk/publicregWeb/indi/BLT156/licenceRecord,,,RO,2019-04-18,
+"Shang, Zihan 尚子涵",None,sfclicrec.asp?p=12661886,BLW773,http://www.sfc.hk/publicregWeb/indi/BLW773/licenceRecord,,,Rep,2018-03-12,
+"Tse, Ming Pong 謝明邦",None,sfclicrec.asp?p=2070539,BBD859,http://www.sfc.hk/publicregWeb/indi/BBD859/licenceRecord,,,Rep,2018-06-26,
+"Wong, Chun Yuen (SFC:AQA097) 黃振炫",None,sfclicrec.asp?p=81542,AQA097,http://www.sfc.hk/publicregWeb/indi/AQA097/licenceRecord,,,Rep,2017-08-03,2017-10-27
+"Young, Jeffrey (SFC:BKM800) ",None,sfclicrec.asp?p=12085918,BKM800,http://www.sfc.hk/publicregWeb/indi/BKM800/licenceRecord,,M,RO,2017-09-29,
+"Zhang, Minghua (SFC:ASP315) 張明華",None,sfclicrec.asp?p=2319950,ASP315,http://www.sfc.hk/publicregWeb/indi/ASP315/licenceRecord,,,RO,2019-10-17,
+"Zhen, Xu 甄旭",None,sfclicrec.asp?p=12641978,BLH877,http://www.sfc.hk/publicregWeb/indi/BLH877/licenceRecord,,,RO,2017-12-14,

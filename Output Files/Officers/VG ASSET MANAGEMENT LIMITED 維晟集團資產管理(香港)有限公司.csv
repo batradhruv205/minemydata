@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Liu, Hui (SFC:BNP689) 劉暉",sfclicrec.asp?p=22890646,,,RO,2019-03-11,
-"Men, Jianzhao 門建召",sfclicrec.asp?p=89399,,,RO,2019-03-11,
-"Qi, Dechao 戚德超",sfclicrec.asp?p=23254649,,,Rep,2019-06-03,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Liu, Hui (SFC:BNP689) 劉暉",None,sfclicrec.asp?p=22890646,BNP689,http://www.sfc.hk/publicregWeb/indi/BNP689/licenceRecord,,,RO,2019-03-11,
+"Men, Jianzhao 門建召",None,sfclicrec.asp?p=89399,AXR149,http://www.sfc.hk/publicregWeb/indi/AXR149/licenceRecord,,,RO,2019-03-11,
+"Qi, Dechao 戚德超",None,sfclicrec.asp?p=23254649,BNQ428,http://www.sfc.hk/publicregWeb/indi/BNQ428/licenceRecord,,,Rep,2019-06-03,

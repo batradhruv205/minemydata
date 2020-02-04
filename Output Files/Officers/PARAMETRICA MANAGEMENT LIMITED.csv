@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Flora Ka Yan 張嘉恩",sfclicrec.asp?p=22190744,,,Rep,2018-09-17,
-"Huang, Chao (SFC:BBZ362) 黃超",sfclicrec.asp?p=2157306,,,Rep,2013-11-01,2015-08-01
-"Ju, Xiongwei 居雄偉",sfclicrec.asp?p=2157303,,,RO,2012-08-03,
-"Lam, Tsun Wang 林峻泓",sfclicrec.asp?p=12684165,,,Rep,2018-01-11,
-"Li, Zhiyi (SFC:ATC524) 李智一",sfclicrec.asp?p=128086,,,Rep,2013-11-01,2019-11-01
-"Li, Zhiyi (SFC:ATC524) 李智一",sfclicrec.asp?p=128086,,,RO,2019-11-01,
-"Min, Julia Min 閔敏",sfclicrec.asp?p=2372721,,F,Rep,2016-10-17,2019-04-15
-"Ng, Gabriel Ka Pui 吳家培",sfclicrec.asp?p=2157304,,M,RO,2012-08-03,2018-01-31
-"Wang, Wei (SFC:BOH300) 汪為",sfclicrec.asp?p=23149504,,,Rep,2019-05-08,
-"Wang, Weidong 王唯東",sfclicrec.asp?p=22426262,,,RO,2012-08-03,2013-07-26
-"Wei, Yumou 魏雨繆",sfclicrec.asp?p=12601233,,,Rep,2017-11-27,2018-06-30
-"Xie, Shuying 解書影",sfclicrec.asp?p=84280,,,Rep,2016-06-15,2018-06-01
-"Xu, Yuanjie 徐元杰",sfclicrec.asp?p=2208011,,,Rep,2016-11-08,2017-03-23
-"Yue, Xiaonan 岳瀟楠",sfclicrec.asp?p=2157307,,,Rep,2013-11-01,2018-03-19
-"Zhang, Endong 張恩棟",sfclicrec.asp?p=2157305,,,RO,2013-08-26,2019-11-14
-"Zhao, Zilong 趙子龍",sfclicrec.asp?p=2233440,,,Rep,2014-03-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Flora Ka Yan 張嘉恩",None,sfclicrec.asp?p=22190744,BJK926,http://www.sfc.hk/publicregWeb/indi/BJK926/licenceRecord,,,Rep,2018-09-17,
+"Huang, Chao (SFC:BBZ362) 黃超",None,sfclicrec.asp?p=2157306,BBZ362,http://www.sfc.hk/publicregWeb/indi/BBZ362/licenceRecord,,,Rep,2013-11-01,2015-08-01
+"Ju, Xiongwei 居雄偉",None,sfclicrec.asp?p=2157303,AZS365,http://www.sfc.hk/publicregWeb/indi/AZS365/licenceRecord,,,RO,2012-08-03,
+"Lam, Tsun Wang 林峻泓",None,sfclicrec.asp?p=12684165,BKQ462,http://www.sfc.hk/publicregWeb/indi/BKQ462/licenceRecord,,,Rep,2018-01-11,
+"Li, Zhiyi (SFC:ATC524) 李智一",None,sfclicrec.asp?p=128086,ATC524,http://www.sfc.hk/publicregWeb/indi/ATC524/licenceRecord,,,Rep,2013-11-01,2019-11-01
+"Li, Zhiyi (SFC:ATC524) 李智一",None,sfclicrec.asp?p=128086,ATC524,http://www.sfc.hk/publicregWeb/indi/ATC524/licenceRecord,,,RO,2019-11-01,
+"Min, Julia Min 閔敏",None,sfclicrec.asp?p=2372721,BEV694,http://www.sfc.hk/publicregWeb/indi/BEV694/licenceRecord,,F,Rep,2016-10-17,2019-04-15
+"Ng, Gabriel Ka Pui 吳家培",None,sfclicrec.asp?p=2157304,AZS372,http://www.sfc.hk/publicregWeb/indi/AZS372/licenceRecord,,M,RO,2012-08-03,2018-01-31
+"Wang, Wei (SFC:BOH300) 汪為",None,sfclicrec.asp?p=23149504,BOH300,http://www.sfc.hk/publicregWeb/indi/BOH300/licenceRecord,,,Rep,2019-05-08,
+"Wang, Weidong 王唯東",None,sfclicrec.asp?p=22426262,AZS369,http://www.sfc.hk/publicregWeb/indi/AZS369/licenceRecord,,,RO,2012-08-03,2013-07-26
+"Wei, Yumou 魏雨繆",None,sfclicrec.asp?p=12601233,BLJ441,http://www.sfc.hk/publicregWeb/indi/BLJ441/licenceRecord,,,Rep,2017-11-27,2018-06-30
+"Xie, Shuying 解書影",None,sfclicrec.asp?p=84280,AWX899,http://www.sfc.hk/publicregWeb/indi/AWX899/licenceRecord,,,Rep,2016-06-15,2018-06-01
+"Xu, Yuanjie 徐元杰",None,sfclicrec.asp?p=2208011,BCX231,http://www.sfc.hk/publicregWeb/indi/BCX231/licenceRecord,,,Rep,2016-11-08,2017-03-23
+"Yue, Xiaonan 岳瀟楠",None,sfclicrec.asp?p=2157307,BBZ356,http://www.sfc.hk/publicregWeb/indi/BBZ356/licenceRecord,,,Rep,2013-11-01,2018-03-19
+"Zhang, Endong 張恩棟",None,sfclicrec.asp?p=2157305,BBP730,http://www.sfc.hk/publicregWeb/indi/BBP730/licenceRecord,,,RO,2013-08-26,2019-11-14
+"Zhao, Zilong 趙子龍",None,sfclicrec.asp?p=2233440,BDA089,http://www.sfc.hk/publicregWeb/indi/BDA089/licenceRecord,,,Rep,2014-03-24,

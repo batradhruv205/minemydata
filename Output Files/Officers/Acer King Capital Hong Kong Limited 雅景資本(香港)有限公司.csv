@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Gao, Linda Hui Feng 高會風",sfclicrec.asp?p=2115269,,F,Rep,2017-09-22,
-"Ho, King Fai 何勁輝",sfclicrec.asp?p=119477,,,RO,2017-02-01,
-"Lo, Thomas Y Yu 盧韋耀",sfclicrec.asp?p=107325,,M,RO,2017-02-01,2017-06-02
-"Tang, Chi Bun 鄧芷賓",sfclicrec.asp?p=22108767,,,Rep,2018-08-29,
-"Tso, Alan Siu Lun 曹肇棆",sfclicrec.asp?p=120223,37,M,RO,2017-09-13,2019-08-31
-"Tsui, Gordon Luen On 徐聯安",sfclicrec.asp?p=50755,60,M,RO,2018-11-22,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Gao, Linda Hui Feng 高會風",None,sfclicrec.asp?p=2115269,BBP528,http://www.sfc.hk/publicregWeb/indi/BBP528/licenceRecord,,F,Rep,2017-09-22,
+"Ho, King Fai 何勁輝",None,sfclicrec.asp?p=119477,ANV293,http://www.sfc.hk/publicregWeb/indi/ANV293/licenceRecord,,,RO,2017-02-01,
+"Lo, Thomas Y Yu 盧韋耀",None,sfclicrec.asp?p=107325,AFR473,http://www.sfc.hk/publicregWeb/indi/AFR473/licenceRecord,,M,RO,2017-02-01,2017-06-02
+"Tang, Chi Bun 鄧芷賓",None,sfclicrec.asp?p=22108767,BNH654,http://www.sfc.hk/publicregWeb/indi/BNH654/licenceRecord,,,Rep,2018-08-29,
+"Tso, Alan Siu Lun 曹肇棆",None,sfclicrec.asp?p=120223,AOG305,http://www.sfc.hk/publicregWeb/indi/AOG305/licenceRecord,37.0,M,RO,2017-09-13,2019-08-31
+"Tsui, Gordon Luen On 徐聯安",None,sfclicrec.asp?p=50755,AIB800,http://www.sfc.hk/publicregWeb/indi/AIB800/licenceRecord,60.0,M,RO,2018-11-22,

@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Fan 陳藩",sfclicrec.asp?p=100556,,,Rep,,2007-12-27
-"Chan, Kwok Jui 陳國銳",sfclicrec.asp?p=101857,,,Rep,,
-"Cheung, King Chun 章琼珍",sfclicrec.asp?p=102400,,,Rep,,
-"Ho, Patty Po King 何寶琼",sfclicrec.asp?p=102345,,F,Rep,,
-"Ho, Ting Sik 何廷錫",sfclicrec.asp?p=100554,,M,RO,,
-"Ho, Winfred Kin Tak 何健德",sfclicrec.asp?p=100557,,,RO,,
-"Low, How Sun 羅厚燊",sfclicrec.asp?p=101860,,,Rep,,2004-01-21
-"Tam, Sandy Ching Lam 譚正林",sfclicrec.asp?p=127072,,,Rep,2008-12-16,2014-09-13
-"Tam, Sheung Ming 譚上明",sfclicrec.asp?p=100558,,,Rep,,
-"Tse, David Wai Kit 謝煒杰",sfclicrec.asp?p=101834,,M,Rep,,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Fan 陳藩",None,sfclicrec.asp?p=100556,AAA541,http://www.sfc.hk/publicregWeb/indi/AAA541/licenceRecord,,,Rep,,2007-12-27
+"Chan, Kwok Jui 陳國銳",None,sfclicrec.asp?p=101857,ABB481,http://www.sfc.hk/publicregWeb/indi/ABB481/licenceRecord,,,Rep,,
+"Cheung, King Chun 章琼珍",None,sfclicrec.asp?p=102400,ABW971,http://www.sfc.hk/publicregWeb/indi/ABW971/licenceRecord,,,Rep,,
+"Ho, Patty Po King 何寶琼",None,sfclicrec.asp?p=102345,ABT808,http://www.sfc.hk/publicregWeb/indi/ABT808/licenceRecord,,F,Rep,,
+"Ho, Ting Sik 何廷錫",None,sfclicrec.asp?p=100554,AAA538,http://www.sfc.hk/publicregWeb/indi/AAA538/licenceRecord,,M,RO,,
+"Ho, Winfred Kin Tak 何健德",None,sfclicrec.asp?p=100557,AAA547,http://www.sfc.hk/publicregWeb/indi/AAA547/licenceRecord,,,RO,,
+"Low, How Sun 羅厚燊",None,sfclicrec.asp?p=101860,ABB733,http://www.sfc.hk/publicregWeb/indi/ABB733/licenceRecord,,,Rep,,2004-01-21
+"Tam, Sandy Ching Lam 譚正林",None,sfclicrec.asp?p=127072,ARV560,http://www.sfc.hk/publicregWeb/indi/ARV560/licenceRecord,,,Rep,2008-12-16,2014-09-13
+"Tam, Sheung Ming 譚上明",None,sfclicrec.asp?p=100558,AAA554,http://www.sfc.hk/publicregWeb/indi/AAA554/licenceRecord,,,Rep,,
+"Tse, David Wai Kit 謝煒杰",None,sfclicrec.asp?p=101834,ABA367,http://www.sfc.hk/publicregWeb/indi/ABA367/licenceRecord,,M,Rep,,

@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chin, Chi Ho Stanley 錢志浩",sfclicrec.asp?p=12613756,,,Rep,2017-12-01,
-"Fu, Huihui 付慧慧",sfclicrec.asp?p=2396299,,,Rep,2019-06-24,2019-07-22
-"Fu, Ka Ho 傅家豪",sfclicrec.asp?p=92441,,,Rep,2019-09-23,2019-11-07
-"Fu, Ka Ho 傅家豪",sfclicrec.asp?p=92441,,,RO,2019-11-07,
-"Fung, Hon Kuen 馮漢權",sfclicrec.asp?p=95153,,,Rep,2017-09-29,2018-12-10
-"Fung, Hon Kuen 馮漢權",sfclicrec.asp?p=95153,,,RO,2018-12-10,
-"Lam, Hoi Tung 林海東",sfclicrec.asp?p=99543,,,RO,2017-07-07,2018-12-07
-"Wong, Howard Ho Kit 黃浩傑",sfclicrec.asp?p=97635,,M,RO,2017-07-07,2019-05-17
-"Yeung, Adrian (SFC:BOG580) 楊學深",sfclicrec.asp?p=23412789,,M,Rep,2019-07-11,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chin, Chi Ho Stanley 錢志浩",None,sfclicrec.asp?p=12613756,BIQ723,http://www.sfc.hk/publicregWeb/indi/BIQ723/licenceRecord,,,Rep,2017-12-01,
+"Fu, Huihui 付慧慧",None,sfclicrec.asp?p=2396299,BEJ105,http://www.sfc.hk/publicregWeb/indi/BEJ105/licenceRecord,,,Rep,2019-06-24,2019-07-22
+"Fu, Ka Ho 傅家豪",None,sfclicrec.asp?p=92441,AOT860,http://www.sfc.hk/publicregWeb/indi/AOT860/licenceRecord,,,Rep,2019-09-23,2019-11-07
+"Fu, Ka Ho 傅家豪",None,sfclicrec.asp?p=92441,AOT860,http://www.sfc.hk/publicregWeb/indi/AOT860/licenceRecord,,,RO,2019-11-07,
+"Fung, Hon Kuen 馮漢權",None,sfclicrec.asp?p=95153,ALP962,http://www.sfc.hk/publicregWeb/indi/ALP962/licenceRecord,,,Rep,2017-09-29,2018-12-10
+"Fung, Hon Kuen 馮漢權",None,sfclicrec.asp?p=95153,ALP962,http://www.sfc.hk/publicregWeb/indi/ALP962/licenceRecord,,,RO,2018-12-10,
+"Lam, Hoi Tung 林海東",None,sfclicrec.asp?p=99543,AXB352,http://www.sfc.hk/publicregWeb/indi/AXB352/licenceRecord,,,RO,2017-07-07,2018-12-07
+"Wong, Howard Ho Kit 黃浩傑",None,sfclicrec.asp?p=97635,AWK764,http://www.sfc.hk/publicregWeb/indi/AWK764/licenceRecord,,M,RO,2017-07-07,2019-05-17
+"Yeung, Adrian (SFC:BOG580) 楊學深",None,sfclicrec.asp?p=23412789,BOG580,http://www.sfc.hk/publicregWeb/indi/BOG580/licenceRecord,,M,Rep,2019-07-11,

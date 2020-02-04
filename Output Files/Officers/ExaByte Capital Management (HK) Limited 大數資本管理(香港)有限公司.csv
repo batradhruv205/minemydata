@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Cheuk Lun (SFC:AMF520) 陳卓倫",sfclicrec.asp?p=88732,,,Rep,2013-10-18,2013-12-28
-"Chan, Hung Ping 陳鴻平",sfclicrec.asp?p=73781,,,Rep,2014-04-03,2016-08-30
-"Li, Ying Wah 李應華",sfclicrec.asp?p=69034,,,Rep,2013-03-18,2013-04-16
-"Li, Ying Wah 李應華",sfclicrec.asp?p=69034,,,RO,2013-04-16,2013-06-02
-"Qian, Sam Zhongshan 錢中山",sfclicrec.asp?p=2081850,,,RO,2013-06-07,2019-10-31
-"Qu, Shiyu 曲時雨",sfclicrec.asp?p=2474100,,,Rep,2016-09-20,2018-09-07
-"Wang, Eric Bing 王兵",sfclicrec.asp?p=75412,,M,RO,2012-09-25,2015-03-20
-"Xing, Zhijia 邢志佳",sfclicrec.asp?p=2521643,,,RO,2016-01-04,
-"Zhong, Qiuyue 鐘秋月",sfclicrec.asp?p=1958766,,,RO,2012-09-25,2016-02-29
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Cheuk Lun (SFC:AMF520) 陳卓倫",None,sfclicrec.asp?p=88732,AMF520,http://www.sfc.hk/publicregWeb/indi/AMF520/licenceRecord,,,Rep,2013-10-18,2013-12-28
+"Chan, Hung Ping 陳鴻平",None,sfclicrec.asp?p=73781,ATG911,http://www.sfc.hk/publicregWeb/indi/ATG911/licenceRecord,,,Rep,2014-04-03,2016-08-30
+"Li, Ying Wah 李應華",None,sfclicrec.asp?p=69034,ALF027,http://www.sfc.hk/publicregWeb/indi/ALF027/licenceRecord,,,Rep,2013-03-18,2013-04-16
+"Li, Ying Wah 李應華",None,sfclicrec.asp?p=69034,ALF027,http://www.sfc.hk/publicregWeb/indi/ALF027/licenceRecord,,,RO,2013-04-16,2013-06-02
+"Qian, Sam Zhongshan 錢中山",None,sfclicrec.asp?p=2081850,BAB079,http://www.sfc.hk/publicregWeb/indi/BAB079/licenceRecord,,,RO,2013-06-07,2019-10-31
+"Qu, Shiyu 曲時雨",None,sfclicrec.asp?p=2474100,BGB422,http://www.sfc.hk/publicregWeb/indi/BGB422/licenceRecord,,,Rep,2016-09-20,2018-09-07
+"Wang, Eric Bing 王兵",None,sfclicrec.asp?p=75412,ASP107,http://www.sfc.hk/publicregWeb/indi/ASP107/licenceRecord,,M,RO,2012-09-25,2015-03-20
+"Xing, Zhijia 邢志佳",None,sfclicrec.asp?p=2521643,BGM617,http://www.sfc.hk/publicregWeb/indi/BGM617/licenceRecord,,,RO,2016-01-04,
+"Zhong, Qiuyue 鐘秋月",None,sfclicrec.asp?p=1958766,BAB065,http://www.sfc.hk/publicregWeb/indi/BAB065/licenceRecord,,,RO,2012-09-25,2016-02-29

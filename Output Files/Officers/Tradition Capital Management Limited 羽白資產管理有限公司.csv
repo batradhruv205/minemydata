@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Gough, Simon (SFC:BOG543) Nil",sfclicrec.asp?p=23580011,,M,RO,2019-08-22,
-"Ho, Pak Hang 何柏恒",sfclicrec.asp?p=84963,,,RO,2017-09-20,2018-11-30
-"Kwong, Toby Tse San 鄺紫珊",sfclicrec.asp?p=121919,,,Rep,2018-05-04,2018-11-14
-"Lane, Graeme John ",sfclicrec.asp?p=79392,55,M,RO,2019-07-09,
-"Leung, Yin Wing 梁彥頴",sfclicrec.asp?p=95864,,,RO,2018-12-13,2019-09-20
-"Lo, Mei Kan 盧尾根",sfclicrec.asp?p=85439,,,Rep,2018-10-02,2018-11-09
-"Lo, Mei Kan 盧尾根",sfclicrec.asp?p=85439,,,RO,2018-11-09,2019-07-03
-"Sin, Lilian Wai Yee 冼惠儀",sfclicrec.asp?p=72707,,F,RO,2017-09-20,2019-06-10
-"Wong, Julian Ho Man 王皓民",sfclicrec.asp?p=91243,,M,Rep,2018-05-07,2018-11-14
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Gough, Simon (SFC:BOG543) Nil",None,sfclicrec.asp?p=23580011,BOG543,http://www.sfc.hk/publicregWeb/indi/BOG543/licenceRecord,,M,RO,2019-08-22,
+"Ho, Pak Hang 何柏恒",None,sfclicrec.asp?p=84963,AOS315,http://www.sfc.hk/publicregWeb/indi/AOS315/licenceRecord,,,RO,2017-09-20,2018-11-30
+"Kwong, Toby Tse San 鄺紫珊",None,sfclicrec.asp?p=121919,APD289,http://www.sfc.hk/publicregWeb/indi/APD289/licenceRecord,,,Rep,2018-05-04,2018-11-14
+"Lane, Graeme John ",None,sfclicrec.asp?p=79392,AOG216,http://www.sfc.hk/publicregWeb/indi/AOG216/licenceRecord,55.0,M,RO,2019-07-09,
+"Leung, Yin Wing 梁彥頴",None,sfclicrec.asp?p=95864,ACD641,http://www.sfc.hk/publicregWeb/indi/ACD641/licenceRecord,,,RO,2018-12-13,2019-09-20
+"Lo, Mei Kan 盧尾根",None,sfclicrec.asp?p=85439,ARB097,http://www.sfc.hk/publicregWeb/indi/ARB097/licenceRecord,,,Rep,2018-10-02,2018-11-09
+"Lo, Mei Kan 盧尾根",None,sfclicrec.asp?p=85439,ARB097,http://www.sfc.hk/publicregWeb/indi/ARB097/licenceRecord,,,RO,2018-11-09,2019-07-03
+"Sin, Lilian Wai Yee 冼惠儀",None,sfclicrec.asp?p=72707,ALE708,http://www.sfc.hk/publicregWeb/indi/ALE708/licenceRecord,,F,RO,2017-09-20,2019-06-10
+"Wong, Julian Ho Man 王皓民",None,sfclicrec.asp?p=91243,AUA500,http://www.sfc.hk/publicregWeb/indi/AUA500/licenceRecord,,M,Rep,2018-05-07,2018-11-14

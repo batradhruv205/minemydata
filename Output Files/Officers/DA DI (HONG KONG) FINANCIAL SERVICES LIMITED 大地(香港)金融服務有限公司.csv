@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chow, Man Kin 鄒文健",sfclicrec.asp?p=2059151,,,Rep,2018-08-23,
-"Fu, Jinfeng 付錦鋒",sfclicrec.asp?p=99146,,,RO,2018-07-31,
-"Kwok, Tsan Ming 郭贊明",sfclicrec.asp?p=6710737,,,Rep,2018-09-24,
-"Lai, Chi Kit (SFC:BBQ037) 賴志杰",sfclicrec.asp?p=2104436,,,RO,2018-07-31,
-"Lai, Hiu Tung 黎曉東",sfclicrec.asp?p=2379144,,,Rep,2018-08-22,
-"Li, Haoting 李浩霆",sfclicrec.asp?p=128653,,,Rep,2018-11-02,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chow, Man Kin 鄒文健",None,sfclicrec.asp?p=2059151,BBE581,http://www.sfc.hk/publicregWeb/indi/BBE581/licenceRecord,,,Rep,2018-08-23,
+"Fu, Jinfeng 付錦鋒",None,sfclicrec.asp?p=99146,ATR255,http://www.sfc.hk/publicregWeb/indi/ATR255/licenceRecord,,,RO,2018-07-31,
+"Kwok, Tsan Ming 郭贊明",None,sfclicrec.asp?p=6710737,BJH985,http://www.sfc.hk/publicregWeb/indi/BJH985/licenceRecord,,,Rep,2018-09-24,
+"Lai, Chi Kit (SFC:BBQ037) 賴志杰",None,sfclicrec.asp?p=2104436,BBQ037,http://www.sfc.hk/publicregWeb/indi/BBQ037/licenceRecord,,,RO,2018-07-31,
+"Lai, Hiu Tung 黎曉東",None,sfclicrec.asp?p=2379144,BEU887,http://www.sfc.hk/publicregWeb/indi/BEU887/licenceRecord,,,Rep,2018-08-22,
+"Li, Haoting 李浩霆",None,sfclicrec.asp?p=128653,ATV659,http://www.sfc.hk/publicregWeb/indi/ATV659/licenceRecord,,,Rep,2018-11-02,

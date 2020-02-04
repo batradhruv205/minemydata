@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chang, Joseph Cho Yam 張祖蔭",sfclicrec.asp?p=68375,,M,RO,2017-09-29,
-"Foo, Wallace Tzi Chun 傅至真",sfclicrec.asp?p=103607,,M,RO,2017-09-29,
-"Lai, Eva Man Wa 賴雯華",sfclicrec.asp?p=2024816,,F,Rep,2017-10-18,
-"Liu, Shihuijun 劉詩卉君",sfclicrec.asp?p=12161753,,,Rep,2017-10-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chang, Joseph Cho Yam 張祖蔭",None,sfclicrec.asp?p=68375,AGB116,http://www.sfc.hk/publicregWeb/indi/AGB116/licenceRecord,,M,RO,2017-09-29,
+"Foo, Wallace Tzi Chun 傅至真",None,sfclicrec.asp?p=103607,ADC298,http://www.sfc.hk/publicregWeb/indi/ADC298/licenceRecord,,M,RO,2017-09-29,
+"Lai, Eva Man Wa 賴雯華",None,sfclicrec.asp?p=2024816,BAU789,http://www.sfc.hk/publicregWeb/indi/BAU789/licenceRecord,,F,Rep,2017-10-18,
+"Liu, Shihuijun 劉詩卉君",None,sfclicrec.asp?p=12161753,BLH483,http://www.sfc.hk/publicregWeb/indi/BLH483/licenceRecord,,,Rep,2017-10-26,

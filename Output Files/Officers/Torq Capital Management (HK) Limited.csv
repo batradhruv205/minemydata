@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Abraham, Avinash Thomas ",sfclicrec.asp?p=74969,,M,RO,2016-10-04,
-"Chan, Cammie Wing Kie 陳穎琪",sfclicrec.asp?p=11441382,,,Rep,2017-06-06,
-"Cherian, Josh ",sfclicrec.asp?p=119267,,,Rep,2016-11-16,
-"Hu, Wentao 胡文濤",sfclicrec.asp?p=2175047,,,Rep,2018-02-13,
-"Kinariwala, Mehul Vijaykumar ",sfclicrec.asp?p=128218,,M,Rep,2016-10-20,
-"Kirk, Bruce Stephen James ",sfclicrec.asp?p=128007,,M,RO,2016-10-04,2017-03-31
-"Konishi, Sojiro ",sfclicrec.asp?p=2359362,,,Rep,2016-11-07,
-"Kronborg, Martin Ulrich ",sfclicrec.asp?p=2500052,,M,Rep,2016-11-09,
-"Leung, Richard Chi Wing 梁志榮",sfclicrec.asp?p=75728,,M,Rep,2016-11-07,2018-01-15
-"Liu, Jia (SFC:AVX016) 劉佳",sfclicrec.asp?p=130314,,,Rep,2018-04-09,
-"Tow, Terence Michael ",sfclicrec.asp?p=2411892,,M,Rep,2017-03-01,
-"Wong, Jeffrey Shek Chuen 黃碩俊",sfclicrec.asp?p=96321,,M,Rep,2016-10-25,2017-01-23
-"Wong, Jeffrey Shek Chuen 黃碩俊",sfclicrec.asp?p=96321,,M,RO,2017-01-23,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Abraham, Avinash Thomas ",None,sfclicrec.asp?p=74969,AMW974,http://www.sfc.hk/publicregWeb/indi/AMW974/licenceRecord,,M,RO,2016-10-04,
+"Chan, Cammie Wing Kie 陳穎琪",None,sfclicrec.asp?p=11441382,BJR655,http://www.sfc.hk/publicregWeb/indi/BJR655/licenceRecord,,,Rep,2017-06-06,
+"Cherian, Josh ",None,sfclicrec.asp?p=119267,ANT539,http://www.sfc.hk/publicregWeb/indi/ANT539/licenceRecord,,,Rep,2016-11-16,
+"Hu, Wentao 胡文濤",None,sfclicrec.asp?p=2175047,BCK317,http://www.sfc.hk/publicregWeb/indi/BCK317/licenceRecord,,,Rep,2018-02-13,
+"Kinariwala, Mehul Vijaykumar ",None,sfclicrec.asp?p=128218,ATI284,http://www.sfc.hk/publicregWeb/indi/ATI284/licenceRecord,,M,Rep,2016-10-20,
+"Kirk, Bruce Stephen James ",None,sfclicrec.asp?p=128007,ASZ619,http://www.sfc.hk/publicregWeb/indi/ASZ619/licenceRecord,,M,RO,2016-10-04,2017-03-31
+"Konishi, Sojiro ",None,sfclicrec.asp?p=2359362,BEP086,http://www.sfc.hk/publicregWeb/indi/BEP086/licenceRecord,,,Rep,2016-11-07,
+"Kronborg, Martin Ulrich ",None,sfclicrec.asp?p=2500052,BGN047,http://www.sfc.hk/publicregWeb/indi/BGN047/licenceRecord,,M,Rep,2016-11-09,
+"Leung, Richard Chi Wing 梁志榮",None,sfclicrec.asp?p=75728,APZ101,http://www.sfc.hk/publicregWeb/indi/APZ101/licenceRecord,,M,Rep,2016-11-07,2018-01-15
+"Liu, Jia (SFC:AVX016) 劉佳",None,sfclicrec.asp?p=130314,AVX016,http://www.sfc.hk/publicregWeb/indi/AVX016/licenceRecord,,,Rep,2018-04-09,
+"Tow, Terence Michael ",None,sfclicrec.asp?p=2411892,BFE450,http://www.sfc.hk/publicregWeb/indi/BFE450/licenceRecord,,M,Rep,2017-03-01,
+"Wong, Jeffrey Shek Chuen 黃碩俊",None,sfclicrec.asp?p=96321,AHX034,http://www.sfc.hk/publicregWeb/indi/AHX034/licenceRecord,,M,Rep,2016-10-25,2017-01-23
+"Wong, Jeffrey Shek Chuen 黃碩俊",None,sfclicrec.asp?p=96321,AHX034,http://www.sfc.hk/publicregWeb/indi/AHX034/licenceRecord,,M,RO,2017-01-23,

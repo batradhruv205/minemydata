@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chau, Yee Man (SFC:AEO603) 周綺雯",sfclicrec.asp?p=98413,,,RO,2015-09-10,
-"Choy, Patrick Puiyui 蔡沛叡",sfclicrec.asp?p=2488667,,M,Rep,2015-10-20,2016-08-31
-"Hu, Shuxin 胡愫心",sfclicrec.asp?p=95102,,,Rep,2016-05-09,
-"Lam, Fong 林方",sfclicrec.asp?p=2480127,,,Rep,2015-09-25,
-"Mo, Matthew Wai Hong 毛偉康",sfclicrec.asp?p=98420,,M,RO,2015-09-10,
-"Tung, Wai Fan 董惠芬",sfclicrec.asp?p=2654219,,,Rep,2016-11-07,
-"Yang, Xiaoyu (SFC:BJW364) 楊曉宇",sfclicrec.asp?p=11783308,,,Rep,2018-05-30,
-"Yim, Hoi Wai 嚴凱慧",sfclicrec.asp?p=2480766,,,Rep,2015-09-29,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chau, Yee Man (SFC:AEO603) 周綺雯",None,sfclicrec.asp?p=98413,AEO603,http://www.sfc.hk/publicregWeb/indi/AEO603/licenceRecord,,,RO,2015-09-10,
+"Choy, Patrick Puiyui 蔡沛叡",None,sfclicrec.asp?p=2488667,BGH500,http://www.sfc.hk/publicregWeb/indi/BGH500/licenceRecord,,M,Rep,2015-10-20,2016-08-31
+"Hu, Shuxin 胡愫心",None,sfclicrec.asp?p=95102,ACT509,http://www.sfc.hk/publicregWeb/indi/ACT509/licenceRecord,,,Rep,2016-05-09,
+"Lam, Fong 林方",None,sfclicrec.asp?p=2480127,BGH038,http://www.sfc.hk/publicregWeb/indi/BGH038/licenceRecord,,,Rep,2015-09-25,
+"Mo, Matthew Wai Hong 毛偉康",None,sfclicrec.asp?p=98420,ABY694,http://www.sfc.hk/publicregWeb/indi/ABY694/licenceRecord,,M,RO,2015-09-10,
+"Tung, Wai Fan 董惠芬",None,sfclicrec.asp?p=2654219,BII030,http://www.sfc.hk/publicregWeb/indi/BII030/licenceRecord,,,Rep,2016-11-07,
+"Yang, Xiaoyu (SFC:BJW364) 楊曉宇",None,sfclicrec.asp?p=11783308,BJW364,http://www.sfc.hk/publicregWeb/indi/BJW364/licenceRecord,,,Rep,2018-05-30,
+"Yim, Hoi Wai 嚴凱慧",None,sfclicrec.asp?p=2480766,BGH338,http://www.sfc.hk/publicregWeb/indi/BGH338/licenceRecord,,,Rep,2015-09-29,

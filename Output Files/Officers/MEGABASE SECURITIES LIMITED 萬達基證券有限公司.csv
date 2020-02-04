@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Derek Sai Ki 陳世麒",sfclicrec.asp?p=87341,,M,RO,,
-"Chan, Mei Ching 陳美程",sfclicrec.asp?p=87340,,,Rep,,2013-01-22
-"Chan, Mei Ching 陳美程",sfclicrec.asp?p=87340,,,RO,2013-01-22,
-"Chan, Pui Keung 陳沛強",sfclicrec.asp?p=71449,,,Rep,,2006-01-27
-"Lai, Po Lin 黎寶蓮",sfclicrec.asp?p=87344,,,Rep,2007-05-21,2018-11-15
-"Lam, Ho Fai 林浩輝",sfclicrec.asp?p=110860,,,Rep,2003-12-22,2004-07-06
-"Lau, Ping Chuen 劉聘全",sfclicrec.asp?p=87342,,,RO,,2013-03-19
-"Lee, Kelvin Kwun Fan 李冠勳",sfclicrec.asp?p=127950,,M,Rep,2009-06-17,2011-04-30
-"Tsui, Yau Wan 徐幼雲",sfclicrec.asp?p=101599,,,Rep,,2003-06-02
-"Wong, Lui (SFC:ADN449) 王磊",sfclicrec.asp?p=85538,,,Rep,,2003-05-01
-"Yung, Michael Kwok On 容國安",sfclicrec.asp?p=87343,,M,Rep,,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Derek Sai Ki 陳世麒",None,sfclicrec.asp?p=87341,ABF142,http://www.sfc.hk/publicregWeb/indi/ABF142/licenceRecord,,M,RO,,
+"Chan, Mei Ching 陳美程",None,sfclicrec.asp?p=87340,ACJ755,http://www.sfc.hk/publicregWeb/indi/ACJ755/licenceRecord,,,Rep,,2013-01-22
+"Chan, Mei Ching 陳美程",None,sfclicrec.asp?p=87340,ACJ755,http://www.sfc.hk/publicregWeb/indi/ACJ755/licenceRecord,,,RO,2013-01-22,
+"Chan, Pui Keung 陳沛強",None,sfclicrec.asp?p=71449,ACE317,http://www.sfc.hk/publicregWeb/indi/ACE317/licenceRecord,,,Rep,,2006-01-27
+"Lai, Po Lin 黎寶蓮",None,sfclicrec.asp?p=87344,AAB698,http://www.sfc.hk/publicregWeb/indi/AAB698/licenceRecord,,,Rep,2007-05-21,2018-11-15
+"Lam, Ho Fai 林浩輝",None,sfclicrec.asp?p=110860,AGX411,http://www.sfc.hk/publicregWeb/indi/AGX411/licenceRecord,,,Rep,2003-12-22,2004-07-06
+"Lau, Ping Chuen 劉聘全",None,sfclicrec.asp?p=87342,AAB940,http://www.sfc.hk/publicregWeb/indi/AAB940/licenceRecord,,,RO,,2013-03-19
+"Lee, Kelvin Kwun Fan 李冠勳",None,sfclicrec.asp?p=127950,ASY378,http://www.sfc.hk/publicregWeb/indi/ASY378/licenceRecord,,M,Rep,2009-06-17,2011-04-30
+"Tsui, Yau Wan 徐幼雲",None,sfclicrec.asp?p=101599,AAP144,http://www.sfc.hk/publicregWeb/indi/AAP144/licenceRecord,,,Rep,,2003-06-02
+"Wong, Lui (SFC:ADN449) 王磊",None,sfclicrec.asp?p=85538,ADN449,http://www.sfc.hk/publicregWeb/indi/ADN449/licenceRecord,,,Rep,,2003-05-01
+"Yung, Michael Kwok On 容國安",None,sfclicrec.asp?p=87343,ABS176,http://www.sfc.hk/publicregWeb/indi/ABS176/licenceRecord,,M,Rep,,

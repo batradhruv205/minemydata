@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Arthur Kuan-Chung ",sfclicrec.asp?p=2304572,,M,Rep,2014-08-07,2017-04-12
-"Egashira, Nobuyuki 江頭信幸",sfclicrec.asp?p=134038,,,Rep,2015-09-07,
-"Eshleman, Lucas Lyndon ",sfclicrec.asp?p=12511654,,M,Rep,2017-11-17,
-"Ge, Xin (SFC:ALI170) 葛欣",sfclicrec.asp?p=70330,,,Rep,2015-07-06,
-"Hui, Hoi Wan 許海雲",sfclicrec.asp?p=100240,,,Rep,2019-11-07,
-"Ie, Kuen Ning Natalie 余堃寧",sfclicrec.asp?p=2258710,,,Rep,2015-04-01,2019-03-31
-"Lee, Daycee Anaksia ",sfclicrec.asp?p=23188744,,,Rep,2019-05-17,
-"Lee, Kenneth Sea Leong 李思亮",sfclicrec.asp?p=135676,,M,RO,2014-06-13,
-"Liang, Hans 梁涵",sfclicrec.asp?p=1850025,,M,Rep,2016-10-31,
-"Meau, Ambrose Yin Hung 苗延鴻",sfclicrec.asp?p=84127,,M,Rep,2014-08-28,2019-11-30
-"Ohira, Yoshihiko 大平吉彥",sfclicrec.asp?p=1976590,,M,Rep,2014-07-07,2019-01-31
-"Pang, Howard Gar Wai 彭家威",sfclicrec.asp?p=80190,,M,Rep,2018-04-18,
-"Taniguchi, Masaki 谷口正樹",sfclicrec.asp?p=95026,,,RO,2014-06-13,
-"Umezawa, Naoto ",sfclicrec.asp?p=2683240,,,Rep,2017-01-06,
-"Yoshino, Michael Stephen ",sfclicrec.asp?p=130895,,M,RO,2014-06-13,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Arthur Kuan-Chung ",None,sfclicrec.asp?p=2304572,BDR805,http://www.sfc.hk/publicregWeb/indi/BDR805/licenceRecord,,M,Rep,2014-08-07,2017-04-12
+"Egashira, Nobuyuki 江頭信幸",None,sfclicrec.asp?p=134038,AYI128,http://www.sfc.hk/publicregWeb/indi/AYI128/licenceRecord,,,Rep,2015-09-07,
+"Eshleman, Lucas Lyndon ",None,sfclicrec.asp?p=12511654,BLM741,http://www.sfc.hk/publicregWeb/indi/BLM741/licenceRecord,,M,Rep,2017-11-17,
+"Ge, Xin (SFC:ALI170) 葛欣",None,sfclicrec.asp?p=70330,ALI170,http://www.sfc.hk/publicregWeb/indi/ALI170/licenceRecord,,,Rep,2015-07-06,
+"Hui, Hoi Wan 許海雲",None,sfclicrec.asp?p=100240,ALV421,http://www.sfc.hk/publicregWeb/indi/ALV421/licenceRecord,,,Rep,2019-11-07,
+"Ie, Kuen Ning Natalie 余堃寧",None,sfclicrec.asp?p=2258710,BDH695,http://www.sfc.hk/publicregWeb/indi/BDH695/licenceRecord,,,Rep,2015-04-01,2019-03-31
+"Lee, Daycee Anaksia ",None,sfclicrec.asp?p=23188744,BOF946,http://www.sfc.hk/publicregWeb/indi/BOF946/licenceRecord,,,Rep,2019-05-17,
+"Lee, Kenneth Sea Leong 李思亮",None,sfclicrec.asp?p=135676,AYS141,http://www.sfc.hk/publicregWeb/indi/AYS141/licenceRecord,,M,RO,2014-06-13,
+"Liang, Hans 梁涵",None,sfclicrec.asp?p=1850025,AYS659,http://www.sfc.hk/publicregWeb/indi/AYS659/licenceRecord,,M,Rep,2016-10-31,
+"Meau, Ambrose Yin Hung 苗延鴻",None,sfclicrec.asp?p=84127,ALY778,http://www.sfc.hk/publicregWeb/indi/ALY778/licenceRecord,,M,Rep,2014-08-28,2019-11-30
+"Ohira, Yoshihiko 大平吉彥",None,sfclicrec.asp?p=1976590,BAE517,http://www.sfc.hk/publicregWeb/indi/BAE517/licenceRecord,,M,Rep,2014-07-07,2019-01-31
+"Pang, Howard Gar Wai 彭家威",None,sfclicrec.asp?p=80190,AMT925,http://www.sfc.hk/publicregWeb/indi/AMT925/licenceRecord,,M,Rep,2018-04-18,
+"Taniguchi, Masaki 谷口正樹",None,sfclicrec.asp?p=95026,AOD538,http://www.sfc.hk/publicregWeb/indi/AOD538/licenceRecord,,,RO,2014-06-13,
+"Umezawa, Naoto ",None,sfclicrec.asp?p=2683240,BIW833,http://www.sfc.hk/publicregWeb/indi/BIW833/licenceRecord,,,Rep,2017-01-06,
+"Yoshino, Michael Stephen ",None,sfclicrec.asp?p=130895,AWX474,http://www.sfc.hk/publicregWeb/indi/AWX474/licenceRecord,,M,RO,2014-06-13,

@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Liye 陳禮燁",sfclicrec.asp?p=131104,,,RO,2018-04-17,
-"Cui, Yue (SFC:BOP952) 崔悦",sfclicrec.asp?p=23469088,,,Rep,2019-07-25,
-"Han, Zhiming 韓志明",sfclicrec.asp?p=135107,,,Rep,2018-10-04,2019-02-22
-"Mei, Wenjing 梅文靜",sfclicrec.asp?p=153542,,,Rep,2018-06-26,2018-08-22
-"Mei, Wenjing 梅文靜",sfclicrec.asp?p=153542,,,RO,2018-08-22,
-"Tan, Shuyue 譚姝玥",sfclicrec.asp?p=130712,,,RO,2018-04-17,2019-01-16
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Liye 陳禮燁",None,sfclicrec.asp?p=131104,AXF909,http://www.sfc.hk/publicregWeb/indi/AXF909/licenceRecord,,,RO,2018-04-17,
+"Cui, Yue (SFC:BOP952) 崔悦",None,sfclicrec.asp?p=23469088,BOP952,http://www.sfc.hk/publicregWeb/indi/BOP952/licenceRecord,,,Rep,2019-07-25,
+"Han, Zhiming 韓志明",None,sfclicrec.asp?p=135107,AYR367,http://www.sfc.hk/publicregWeb/indi/AYR367/licenceRecord,,,Rep,2018-10-04,2019-02-22
+"Mei, Wenjing 梅文靜",None,sfclicrec.asp?p=153542,AYU557,http://www.sfc.hk/publicregWeb/indi/AYU557/licenceRecord,,,Rep,2018-06-26,2018-08-22
+"Mei, Wenjing 梅文靜",None,sfclicrec.asp?p=153542,AYU557,http://www.sfc.hk/publicregWeb/indi/AYU557/licenceRecord,,,RO,2018-08-22,
+"Tan, Shuyue 譚姝玥",None,sfclicrec.asp?p=130712,AWP011,http://www.sfc.hk/publicregWeb/indi/AWP011/licenceRecord,,,RO,2018-04-17,2019-01-16

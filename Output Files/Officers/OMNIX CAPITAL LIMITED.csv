@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Stephen Kwok Wai 鄭國偉",sfclicrec.asp?p=65739,51,M,RO,2009-03-19,
-"Cheung, Elisa Leung 張亮",sfclicrec.asp?p=115988,,,Rep,2009-04-30,2010-05-31
-"Gupta, Rahul (SFC:AGZ998) ",sfclicrec.asp?p=110900,,,Rep,2009-05-21,2011-03-31
-"Ng, Jason W H 伍偉雄",sfclicrec.asp?p=65743,,M,Rep,2010-11-19,2016-12-30
-"O'Connell, Carl Manning ",sfclicrec.asp?p=65740,,M,RO,2009-06-16,2012-06-14
-"Penkett, Paul Alexis ",sfclicrec.asp?p=65738,50,M,RO,2009-03-19,
-"Qian, Hao (SFC:BHC779) 錢昊",sfclicrec.asp?p=2559757,,,Rep,2016-04-12,2016-12-16
-"Stopford Sackville, Charlotte Louise ",sfclicrec.asp?p=65741,,F,Rep,2010-09-16,2012-06-29
-"Yuen, Miu Ling (SFC:BJE487) 袁妙玲",sfclicrec.asp?p=10560335,,,Rep,2017-05-18,2017-08-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Stephen Kwok Wai 鄭國偉",None,sfclicrec.asp?p=65739,ADS285,http://www.sfc.hk/publicregWeb/indi/ADS285/licenceRecord,51.0,M,RO,2009-03-19,
+"Cheung, Elisa Leung 張亮",None,sfclicrec.asp?p=115988,ALZ916,http://www.sfc.hk/publicregWeb/indi/ALZ916/licenceRecord,,,Rep,2009-04-30,2010-05-31
+"Gupta, Rahul (SFC:AGZ998) ",None,sfclicrec.asp?p=110900,AGZ998,http://www.sfc.hk/publicregWeb/indi/AGZ998/licenceRecord,,,Rep,2009-05-21,2011-03-31
+"Ng, Jason W H 伍偉雄",None,sfclicrec.asp?p=65743,AWD539,http://www.sfc.hk/publicregWeb/indi/AWD539/licenceRecord,,M,Rep,2010-11-19,2016-12-30
+"O'Connell, Carl Manning ",None,sfclicrec.asp?p=65740,AQF131,http://www.sfc.hk/publicregWeb/indi/AQF131/licenceRecord,,M,RO,2009-06-16,2012-06-14
+"Penkett, Paul Alexis ",None,sfclicrec.asp?p=65738,AMQ694,http://www.sfc.hk/publicregWeb/indi/AMQ694/licenceRecord,50.0,M,RO,2009-03-19,
+"Qian, Hao (SFC:BHC779) 錢昊",None,sfclicrec.asp?p=2559757,BHC779,http://www.sfc.hk/publicregWeb/indi/BHC779/licenceRecord,,,Rep,2016-04-12,2016-12-16
+"Stopford Sackville, Charlotte Louise ",None,sfclicrec.asp?p=65741,AQQ114,http://www.sfc.hk/publicregWeb/indi/AQQ114/licenceRecord,,F,Rep,2010-09-16,2012-06-29
+"Yuen, Miu Ling (SFC:BJE487) 袁妙玲",None,sfclicrec.asp?p=10560335,BJE487,http://www.sfc.hk/publicregWeb/indi/BJE487/licenceRecord,,,Rep,2017-05-18,2017-08-31

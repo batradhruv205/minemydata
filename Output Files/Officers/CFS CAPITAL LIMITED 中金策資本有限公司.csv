@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Ka Lai (SFC:BHJ633) 陳嘉麗",sfclicrec.asp?p=2570298,,,Rep,2019-08-28,
-"Hua, Fengmao 華風茂",sfclicrec.asp?p=35513,52,M,RO,2018-02-15,2018-07-01
-"Lo, Man Un 羅文遠",sfclicrec.asp?p=116954,,,RO,2018-02-15,2018-11-30
-"Lo, Man Un 羅文遠",sfclicrec.asp?p=116954,,,RO,2019-07-17,
-"Tam, Christopher Siu Tong 譚兆棠",sfclicrec.asp?p=128475,,M,RO,2018-12-03,2019-06-27
-"Toche, Patrick ",sfclicrec.asp?p=2589654,,M,Rep,2019-03-04,2019-03-13
-"Toche, Patrick ",sfclicrec.asp?p=2589654,,M,RO,2019-03-13,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Ka Lai (SFC:BHJ633) 陳嘉麗",None,sfclicrec.asp?p=2570298,BHJ633,http://www.sfc.hk/publicregWeb/indi/BHJ633/licenceRecord,,,Rep,2019-08-28,
+"Hua, Fengmao 華風茂",None,sfclicrec.asp?p=35513,AFJ365,http://www.sfc.hk/publicregWeb/indi/AFJ365/licenceRecord,52.0,M,RO,2018-02-15,2018-07-01
+"Lo, Man Un 羅文遠",None,sfclicrec.asp?p=116954,AMM283,http://www.sfc.hk/publicregWeb/indi/AMM283/licenceRecord,,,RO,2018-02-15,2018-11-30
+"Lo, Man Un 羅文遠",None,sfclicrec.asp?p=116954,AMM283,http://www.sfc.hk/publicregWeb/indi/AMM283/licenceRecord,,,RO,2019-07-17,
+"Tam, Christopher Siu Tong 譚兆棠",None,sfclicrec.asp?p=128475,ATO898,http://www.sfc.hk/publicregWeb/indi/ATO898/licenceRecord,,M,RO,2018-12-03,2019-06-27
+"Toche, Patrick ",None,sfclicrec.asp?p=2589654,BGV097,http://www.sfc.hk/publicregWeb/indi/BGV097/licenceRecord,,M,Rep,2019-03-04,2019-03-13
+"Toche, Patrick ",None,sfclicrec.asp?p=2589654,BGV097,http://www.sfc.hk/publicregWeb/indi/BGV097/licenceRecord,,M,RO,2019-03-13,

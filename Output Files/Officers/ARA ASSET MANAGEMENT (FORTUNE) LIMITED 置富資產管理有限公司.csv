@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ang, Anthony Meng Huat 洪明發",sfclicrec.asp?p=57511,65,M,RO,2010-03-30,2015-02-02
-"Cheung, Hang Chin 張恆展",sfclicrec.asp?p=99102,,,Rep,2015-07-06,2015-07-16
-"Cheung, Magdalen Wing Yee 張穎儀",sfclicrec.asp?p=1967300,,,Rep,2012-10-17,2017-08-04
-"Cheung, Magdalen Wing Yee 張穎儀",sfclicrec.asp?p=1967300,,,Rep,2019-01-04,
-"Chiu, Justina Yu 趙宇",sfclicrec.asp?p=57513,40,F,RO,2010-03-30,
-"Hung, Jenny Yuen Chun 孔元真",sfclicrec.asp?p=129474,,F,RO,2010-03-30,
-"Lau, Wing Han Vivian 劉詠嫻",sfclicrec.asp?p=129617,,F,RO,2010-10-29,2015-03-03
-"Leung, Tim Pak 梁添栢",sfclicrec.asp?p=129820,,M,Rep,2010-06-09,2012-10-27
-"Ng, Yuk Ting 吳玉婷",sfclicrec.asp?p=129887,,,Rep,2010-07-07,2015-03-26
-"Ng, Yuk Ting 吳玉婷",sfclicrec.asp?p=129887,,,RO,2015-03-26,
-"Wong, Kwan Leung 黃鈞樑",sfclicrec.asp?p=12511638,,,Rep,2017-11-17,
-"Wong, Matthew Shui Yan 王瑞恩",sfclicrec.asp?p=129939,,,Rep,2010-07-26,2015-01-07
-"Yeun, Man Yee 袁敏兒",sfclicrec.asp?p=129862,,,Rep,2010-06-10,2012-06-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ang, Anthony Meng Huat 洪明發",None,sfclicrec.asp?p=57511,AOB736,http://www.sfc.hk/publicregWeb/indi/AOB736/licenceRecord,65.0,M,RO,2010-03-30,2015-02-02
+"Cheung, Hang Chin 張恆展",None,sfclicrec.asp?p=99102,AOX089,http://www.sfc.hk/publicregWeb/indi/AOX089/licenceRecord,,,Rep,2015-07-06,2015-07-16
+"Cheung, Magdalen Wing Yee 張穎儀",None,sfclicrec.asp?p=1967300,BAH299,http://www.sfc.hk/publicregWeb/indi/BAH299/licenceRecord,,,Rep,2012-10-17,2017-08-04
+"Cheung, Magdalen Wing Yee 張穎儀",None,sfclicrec.asp?p=1967300,BAH299,http://www.sfc.hk/publicregWeb/indi/BAH299/licenceRecord,,,Rep,2019-01-04,
+"Chiu, Justina Yu 趙宇",None,sfclicrec.asp?p=57513,ANI924,http://www.sfc.hk/publicregWeb/indi/ANI924/licenceRecord,40.0,F,RO,2010-03-30,
+"Hung, Jenny Yuen Chun 孔元真",None,sfclicrec.asp?p=129474,AUW719,http://www.sfc.hk/publicregWeb/indi/AUW719/licenceRecord,,F,RO,2010-03-30,
+"Lau, Wing Han Vivian 劉詠嫻",None,sfclicrec.asp?p=129617,AUZ802,http://www.sfc.hk/publicregWeb/indi/AUZ802/licenceRecord,,F,RO,2010-10-29,2015-03-03
+"Leung, Tim Pak 梁添栢",None,sfclicrec.asp?p=129820,AVG896,http://www.sfc.hk/publicregWeb/indi/AVG896/licenceRecord,,M,Rep,2010-06-09,2012-10-27
+"Ng, Yuk Ting 吳玉婷",None,sfclicrec.asp?p=129887,AVI452,http://www.sfc.hk/publicregWeb/indi/AVI452/licenceRecord,,,Rep,2010-07-07,2015-03-26
+"Ng, Yuk Ting 吳玉婷",None,sfclicrec.asp?p=129887,AVI452,http://www.sfc.hk/publicregWeb/indi/AVI452/licenceRecord,,,RO,2015-03-26,
+"Wong, Kwan Leung 黃鈞樑",None,sfclicrec.asp?p=12511638,BLG367,http://www.sfc.hk/publicregWeb/indi/BLG367/licenceRecord,,,Rep,2017-11-17,
+"Wong, Matthew Shui Yan 王瑞恩",None,sfclicrec.asp?p=129939,AVK549,http://www.sfc.hk/publicregWeb/indi/AVK549/licenceRecord,,,Rep,2010-07-26,2015-01-07
+"Yeun, Man Yee 袁敏兒",None,sfclicrec.asp?p=129862,AVH947,http://www.sfc.hk/publicregWeb/indi/AVH947/licenceRecord,,,Rep,2010-06-10,2012-06-30

@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Brady, Michael Scott ",sfclicrec.asp?p=78809,,M,RO,2006-10-31,
-"Cheung, Amanda Man Wah 張敏華",sfclicrec.asp?p=78811,,F,Rep,2008-04-23,2017-01-31
-"Chiu, Cheryl Hoi Yan 趙愷欣",sfclicrec.asp?p=78812,,F,Rep,2007-04-30,2019-08-30
-"Chung, Man Wing (SFC:ABG697) 鍾民穎",sfclicrec.asp?p=28683,56,M,Rep,2012-02-07,2012-03-02
-"Chung, Man Wing (SFC:ABG697) 鍾民穎",sfclicrec.asp?p=28683,56,M,RO,2012-03-02,2016-08-31
-"Ellis, Roger Peter Frederick ",sfclicrec.asp?p=78810,,M,RO,2006-10-31,
-"Jacobson, John Brennan ",sfclicrec.asp?p=74736,,M,Rep,2006-12-18,2008-01-05
-"Leung, Kevin Hon Fai 梁漢輝",sfclicrec.asp?p=78813,,M,Rep,2009-08-24,2016-06-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Brady, Michael Scott ",None,sfclicrec.asp?p=78809,ACM349,http://www.sfc.hk/publicregWeb/indi/ACM349/licenceRecord,,M,RO,2006-10-31,
+"Cheung, Amanda Man Wah 張敏華",None,sfclicrec.asp?p=78811,AQX929,http://www.sfc.hk/publicregWeb/indi/AQX929/licenceRecord,,F,Rep,2008-04-23,2017-01-31
+"Chiu, Cheryl Hoi Yan 趙愷欣",None,sfclicrec.asp?p=78812,AOS419,http://www.sfc.hk/publicregWeb/indi/AOS419/licenceRecord,,F,Rep,2007-04-30,2019-08-30
+"Chung, Man Wing (SFC:ABG697) 鍾民穎",None,sfclicrec.asp?p=28683,ABG697,http://www.sfc.hk/publicregWeb/indi/ABG697/licenceRecord,56.0,M,Rep,2012-02-07,2012-03-02
+"Chung, Man Wing (SFC:ABG697) 鍾民穎",None,sfclicrec.asp?p=28683,ABG697,http://www.sfc.hk/publicregWeb/indi/ABG697/licenceRecord,56.0,M,RO,2012-03-02,2016-08-31
+"Ellis, Roger Peter Frederick ",None,sfclicrec.asp?p=78810,AAI295,http://www.sfc.hk/publicregWeb/indi/AAI295/licenceRecord,,M,RO,2006-10-31,
+"Jacobson, John Brennan ",None,sfclicrec.asp?p=74736,ACV752,http://www.sfc.hk/publicregWeb/indi/ACV752/licenceRecord,,M,Rep,2006-12-18,2008-01-05
+"Leung, Kevin Hon Fai 梁漢輝",None,sfclicrec.asp?p=78813,AOX681,http://www.sfc.hk/publicregWeb/indi/AOX681/licenceRecord,,M,Rep,2009-08-24,2016-06-30

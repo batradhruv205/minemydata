@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Chau Lik 張秋瓅",sfclicrec.asp?p=2694550,,,Rep,2017-02-09,2017-07-06
-"Pang, Jeff Chung Yiu 彭宗耀",sfclicrec.asp?p=121310,,M,RO,2016-11-15,
-"Shen, Weiguang 沈偉光",sfclicrec.asp?p=2659638,,,RO,2016-11-15,
-"Xu, Jianming 許建明",sfclicrec.asp?p=2659639,,,RO,2016-11-15,2019-03-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Chau Lik 張秋瓅",None,sfclicrec.asp?p=2694550,BIW792,http://www.sfc.hk/publicregWeb/indi/BIW792/licenceRecord,,,Rep,2017-02-09,2017-07-06
+"Pang, Jeff Chung Yiu 彭宗耀",None,sfclicrec.asp?p=121310,AOV829,http://www.sfc.hk/publicregWeb/indi/AOV829/licenceRecord,,M,RO,2016-11-15,
+"Shen, Weiguang 沈偉光",None,sfclicrec.asp?p=2659638,BHR626,http://www.sfc.hk/publicregWeb/indi/BHR626/licenceRecord,,,RO,2016-11-15,
+"Xu, Jianming 許建明",None,sfclicrec.asp?p=2659639,BHR630,http://www.sfc.hk/publicregWeb/indi/BHR630/licenceRecord,,,RO,2016-11-15,2019-03-31

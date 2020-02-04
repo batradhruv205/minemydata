@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cui, Xuan (SFC:BOH597) 崔萱",sfclicrec.asp?p=24018569,,,Rep,2019-12-13,
-"Kuang, Xiaoming 匡曉明",sfclicrec.asp?p=22985228,,,RO,2019-04-01,
-"Loo, Celene Peck Hwee ",sfclicrec.asp?p=15444,52,F,RO,2019-04-01,
-"Wang, Xinlin 王昕琳",sfclicrec.asp?p=24018570,,,Rep,2019-12-13,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cui, Xuan (SFC:BOH597) 崔萱",None,sfclicrec.asp?p=24018569,BOH597,http://www.sfc.hk/publicregWeb/indi/BOH597/licenceRecord,,,Rep,2019-12-13,
+"Kuang, Xiaoming 匡曉明",None,sfclicrec.asp?p=22985228,BNW127,http://www.sfc.hk/publicregWeb/indi/BNW127/licenceRecord,,,RO,2019-04-01,
+"Loo, Celene Peck Hwee ",None,sfclicrec.asp?p=15444,AFC204,http://www.sfc.hk/publicregWeb/indi/AFC204/licenceRecord,52.0,F,RO,2019-04-01,
+"Wang, Xinlin 王昕琳",None,sfclicrec.asp?p=24018570,BOS517,http://www.sfc.hk/publicregWeb/indi/BOS517/licenceRecord,,,Rep,2019-12-13,

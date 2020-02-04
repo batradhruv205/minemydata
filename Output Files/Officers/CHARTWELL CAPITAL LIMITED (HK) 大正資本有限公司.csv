@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bong, Boris Ding Yue 龐定宇",sfclicrec.asp?p=42709,49,M,Rep,2015-09-29,2019-10-31
-"Chan, Ronald Wai Yan 陳惠仁",sfclicrec.asp?p=120230,40,M,RO,2008-02-05,
-"Cheung, Lik Ping (SFC:AFJ470) 張力平",sfclicrec.asp?p=74145,,,Rep,2014-01-13,2017-06-30
-"Choi, Carmen Wai Ching 蔡慧貞",sfclicrec.asp?p=116748,,F,Rep,2013-08-08,2014-06-21
-"Chu, Hin Chun 朱衍雋",sfclicrec.asp?p=2640887,,M,Rep,2016-10-04,
-"Lui, Brian Chun Kong 雷振江",sfclicrec.asp?p=113770,,M,RO,2008-02-05,2019-07-03
-"Lui, Brian Chun Kong 雷振江",sfclicrec.asp?p=113770,,M,Rep,2019-07-03,2019-12-31
-"Ng, Evan Kwun Wa 吳冠樺",sfclicrec.asp?p=82987,,M,Rep,2013-02-20,2019-11-19
-"Ng, Evan Kwun Wa 吳冠樺",sfclicrec.asp?p=82987,,M,RO,2019-11-19,
-"Salim, Aditya -",sfclicrec.asp?p=12107987,,M,Rep,2017-10-12,
-"Tjandra, Ricky 張奕基",sfclicrec.asp?p=2144290,,M,Rep,2013-10-10,2016-12-16
-"Tsang, William Wai Nang 曾偉能",sfclicrec.asp?p=2023941,,M,Rep,2013-02-22,2018-12-21
-"Tsang, William Wai Nang 曾偉能",sfclicrec.asp?p=2023941,,M,RO,2018-12-21,
-"Wan, Joe Pui Lun 溫佩麟",sfclicrec.asp?p=92631,,,Rep,2014-08-05,2016-06-02
-"Yuen, Darren Kevin 阮永熙",sfclicrec.asp?p=23666642,,M,Rep,2019-09-16,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bong, Boris Ding Yue 龐定宇",None,sfclicrec.asp?p=42709,AEA678,http://www.sfc.hk/publicregWeb/indi/AEA678/licenceRecord,49.0,M,Rep,2015-09-29,2019-10-31
+"Chan, Ronald Wai Yan 陳惠仁",None,sfclicrec.asp?p=120230,AOG463,http://www.sfc.hk/publicregWeb/indi/AOG463/licenceRecord,40.0,M,RO,2008-02-05,
+"Cheung, Lik Ping (SFC:AFJ470) 張力平",None,sfclicrec.asp?p=74145,AFJ470,http://www.sfc.hk/publicregWeb/indi/AFJ470/licenceRecord,,,Rep,2014-01-13,2017-06-30
+"Choi, Carmen Wai Ching 蔡慧貞",None,sfclicrec.asp?p=116748,AMK228,http://www.sfc.hk/publicregWeb/indi/AMK228/licenceRecord,,F,Rep,2013-08-08,2014-06-21
+"Chu, Hin Chun 朱衍雋",None,sfclicrec.asp?p=2640887,BID123,http://www.sfc.hk/publicregWeb/indi/BID123/licenceRecord,,M,Rep,2016-10-04,
+"Lui, Brian Chun Kong 雷振江",None,sfclicrec.asp?p=113770,AKL706,http://www.sfc.hk/publicregWeb/indi/AKL706/licenceRecord,,M,RO,2008-02-05,2019-07-03
+"Lui, Brian Chun Kong 雷振江",None,sfclicrec.asp?p=113770,AKL706,http://www.sfc.hk/publicregWeb/indi/AKL706/licenceRecord,,M,Rep,2019-07-03,2019-12-31
+"Ng, Evan Kwun Wa 吳冠樺",None,sfclicrec.asp?p=82987,AMP580,http://www.sfc.hk/publicregWeb/indi/AMP580/licenceRecord,,M,Rep,2013-02-20,2019-11-19
+"Ng, Evan Kwun Wa 吳冠樺",None,sfclicrec.asp?p=82987,AMP580,http://www.sfc.hk/publicregWeb/indi/AMP580/licenceRecord,,M,RO,2019-11-19,
+"Salim, Aditya -",None,sfclicrec.asp?p=12107987,BLF579,http://www.sfc.hk/publicregWeb/indi/BLF579/licenceRecord,,M,Rep,2017-10-12,
+"Tjandra, Ricky 張奕基",None,sfclicrec.asp?p=2144290,BBW310,http://www.sfc.hk/publicregWeb/indi/BBW310/licenceRecord,,M,Rep,2013-10-10,2016-12-16
+"Tsang, William Wai Nang 曾偉能",None,sfclicrec.asp?p=2023941,BAT627,http://www.sfc.hk/publicregWeb/indi/BAT627/licenceRecord,,M,Rep,2013-02-22,2018-12-21
+"Tsang, William Wai Nang 曾偉能",None,sfclicrec.asp?p=2023941,BAT627,http://www.sfc.hk/publicregWeb/indi/BAT627/licenceRecord,,M,RO,2018-12-21,
+"Wan, Joe Pui Lun 溫佩麟",None,sfclicrec.asp?p=92631,AWK219,http://www.sfc.hk/publicregWeb/indi/AWK219/licenceRecord,,,Rep,2014-08-05,2016-06-02
+"Yuen, Darren Kevin 阮永熙",None,sfclicrec.asp?p=23666642,BOS225,http://www.sfc.hk/publicregWeb/indi/BOS225/licenceRecord,,M,Rep,2019-09-16,

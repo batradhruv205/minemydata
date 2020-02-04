@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Kong, Chuk Lun 江卓倫",sfclicrec.asp?p=100566,,,RO,,2016-07-29
-"Kong, Emily Wing Yin 江穎妍",sfclicrec.asp?p=102759,,F,Rep,,2006-11-17
-"Kong, Mo Nga 江務雅",sfclicrec.asp?p=102096,,,Rep,,2004-07-15
-"Kong, Mo Nga 江務雅",sfclicrec.asp?p=102096,,,RO,2004-07-15,
-"Kong, Sinclair 江務醒",sfclicrec.asp?p=101989,,,RO,,
-"Leung, Po Chu (SFC:AAI214) 梁寶珠",sfclicrec.asp?p=101377,,,Rep,,2010-11-04
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Kong, Chuk Lun 江卓倫",None,sfclicrec.asp?p=100566,AAA609,http://www.sfc.hk/publicregWeb/indi/AAA609/licenceRecord,,,RO,,2016-07-29
+"Kong, Emily Wing Yin 江穎妍",None,sfclicrec.asp?p=102759,ACG770,http://www.sfc.hk/publicregWeb/indi/ACG770/licenceRecord,,F,Rep,,2006-11-17
+"Kong, Mo Nga 江務雅",None,sfclicrec.asp?p=102096,ABM473,http://www.sfc.hk/publicregWeb/indi/ABM473/licenceRecord,,,Rep,,2004-07-15
+"Kong, Mo Nga 江務雅",None,sfclicrec.asp?p=102096,ABM473,http://www.sfc.hk/publicregWeb/indi/ABM473/licenceRecord,,,RO,2004-07-15,
+"Kong, Sinclair 江務醒",None,sfclicrec.asp?p=101989,ABG660,http://www.sfc.hk/publicregWeb/indi/ABG660/licenceRecord,,,RO,,
+"Leung, Po Chu (SFC:AAI214) 梁寶珠",None,sfclicrec.asp?p=101377,AAI214,http://www.sfc.hk/publicregWeb/indi/AAI214/licenceRecord,,,Rep,,2010-11-04

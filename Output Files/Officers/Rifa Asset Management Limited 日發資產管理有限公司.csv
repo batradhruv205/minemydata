@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chai, Jun (SFC:BID608) 柴俊",sfclicrec.asp?p=2630441,,,Rep,2017-12-11,
-"Chan, Stephen Ka Fai 陳家輝",sfclicrec.asp?p=121018,,M,RO,2017-10-27,
-"Kong, Ming Fai 江明輝",sfclicrec.asp?p=18894,,,RO,2017-10-27,2018-11-11
-"Lee, William Yuk Nam 李育南",sfclicrec.asp?p=132839,,M,Rep,2017-12-15,
-"Leung, Kai Hung (SFC:AMX297) 梁啟洪",sfclicrec.asp?p=79191,,,RO,2017-10-27,2018-07-31
-"Li, Gengrong 李庚融",sfclicrec.asp?p=2470791,,,Rep,2017-11-28,
-"Li, Sai Hung (SFC:BKT393) 李世雄",sfclicrec.asp?p=11796549,,,Rep,2017-11-28,
-"Liu, Jialu 劉佳璐",sfclicrec.asp?p=12052081,,,Rep,2018-01-09,2019-08-22
-"Mak, Tsz Kin (SFC:BFN917) 麥子健",sfclicrec.asp?p=2431859,,,Rep,2019-02-04,
-"Tang, Kai Shing 鄧啟成",sfclicrec.asp?p=74346,,,RO,2017-10-27,
-"Tang, Wai Hong 鄧維康",sfclicrec.asp?p=80531,,,Rep,2017-12-06,2018-11-23
-"Tang, Wai Hong 鄧維康",sfclicrec.asp?p=80531,,,RO,2018-11-23,
-"Yan, Ming Cheung 甄銘璋",sfclicrec.asp?p=11416159,,,Rep,2017-12-11,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chai, Jun (SFC:BID608) 柴俊",None,sfclicrec.asp?p=2630441,BID608,http://www.sfc.hk/publicregWeb/indi/BID608/licenceRecord,,,Rep,2017-12-11,
+"Chan, Stephen Ka Fai 陳家輝",None,sfclicrec.asp?p=121018,AOS673,http://www.sfc.hk/publicregWeb/indi/AOS673/licenceRecord,,M,RO,2017-10-27,
+"Kong, Ming Fai 江明輝",None,sfclicrec.asp?p=18894,ADZ902,http://www.sfc.hk/publicregWeb/indi/ADZ902/licenceRecord,,,RO,2017-10-27,2018-11-11
+"Lee, William Yuk Nam 李育南",None,sfclicrec.asp?p=132839,ABF182,http://www.sfc.hk/publicregWeb/indi/ABF182/licenceRecord,,M,Rep,2017-12-15,
+"Leung, Kai Hung (SFC:AMX297) 梁啟洪",None,sfclicrec.asp?p=79191,AMX297,http://www.sfc.hk/publicregWeb/indi/AMX297/licenceRecord,,,RO,2017-10-27,2018-07-31
+"Li, Gengrong 李庚融",None,sfclicrec.asp?p=2470791,BGD432,http://www.sfc.hk/publicregWeb/indi/BGD432/licenceRecord,,,Rep,2017-11-28,
+"Li, Sai Hung (SFC:BKT393) 李世雄",None,sfclicrec.asp?p=11796549,BKT393,http://www.sfc.hk/publicregWeb/indi/BKT393/licenceRecord,,,Rep,2017-11-28,
+"Liu, Jialu 劉佳璐",None,sfclicrec.asp?p=12052081,BKX396,http://www.sfc.hk/publicregWeb/indi/BKX396/licenceRecord,,,Rep,2018-01-09,2019-08-22
+"Mak, Tsz Kin (SFC:BFN917) 麥子健",None,sfclicrec.asp?p=2431859,BFN917,http://www.sfc.hk/publicregWeb/indi/BFN917/licenceRecord,,,Rep,2019-02-04,
+"Tang, Kai Shing 鄧啟成",None,sfclicrec.asp?p=74346,AEH397,http://www.sfc.hk/publicregWeb/indi/AEH397/licenceRecord,,,RO,2017-10-27,
+"Tang, Wai Hong 鄧維康",None,sfclicrec.asp?p=80531,AWH057,http://www.sfc.hk/publicregWeb/indi/AWH057/licenceRecord,,,Rep,2017-12-06,2018-11-23
+"Tang, Wai Hong 鄧維康",None,sfclicrec.asp?p=80531,AWH057,http://www.sfc.hk/publicregWeb/indi/AWH057/licenceRecord,,,RO,2018-11-23,
+"Yan, Ming Cheung 甄銘璋",None,sfclicrec.asp?p=11416159,AEA354,http://www.sfc.hk/publicregWeb/indi/AEA354/licenceRecord,,,Rep,2017-12-11,

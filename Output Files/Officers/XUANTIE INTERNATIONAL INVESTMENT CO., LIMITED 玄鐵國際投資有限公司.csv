@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au, Jester Kin Hong 區健康",sfclicrec.asp?p=16061,,M,RO,2019-03-15,
-"Choy, Siu Kwan 蔡小軍",sfclicrec.asp?p=91596,,,RO,2019-01-03,2019-03-17
-"Fung, Chun Yu 馮震宇",sfclicrec.asp?p=132612,,,Rep,2019-01-17,2019-03-27
-"Fung, Chun Yu 馮震宇",sfclicrec.asp?p=132612,,,RO,2019-03-27,
-"Lee, Wai Leung (SFC:ACJ656) 李偉樑",sfclicrec.asp?p=95548,,,RO,2019-01-03,2019-04-03
-"Leung, Soi Chi 梁瑞芝",sfclicrec.asp?p=12053088,,,Rep,2019-02-18,2019-11-30
-"Man, Chun Wai (SFC:BEX763) 文俊偉",sfclicrec.asp?p=2390455,,,Rep,2019-01-17,2019-07-31
-"Tsang, Kwong Yat (SFC:BOC394) 曾廣溢",sfclicrec.asp?p=22890647,,,Rep,2019-03-12,2019-06-21
-"Wong, Wan Vanness 王贇",sfclicrec.asp?p=12773613,,,Rep,2019-03-01,2020-01-17
-"Yim, Wing Yu 嚴穎瑜",sfclicrec.asp?p=2535722,,,Rep,2019-04-09,2019-06-28
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au, Jester Kin Hong 區健康",None,sfclicrec.asp?p=16061,AAC877,http://www.sfc.hk/publicregWeb/indi/AAC877/licenceRecord,,M,RO,2019-03-15,
+"Choy, Siu Kwan 蔡小軍",None,sfclicrec.asp?p=91596,AVJ413,http://www.sfc.hk/publicregWeb/indi/AVJ413/licenceRecord,,,RO,2019-01-03,2019-03-17
+"Fung, Chun Yu 馮震宇",None,sfclicrec.asp?p=132612,AYD269,http://www.sfc.hk/publicregWeb/indi/AYD269/licenceRecord,,,Rep,2019-01-17,2019-03-27
+"Fung, Chun Yu 馮震宇",None,sfclicrec.asp?p=132612,AYD269,http://www.sfc.hk/publicregWeb/indi/AYD269/licenceRecord,,,RO,2019-03-27,
+"Lee, Wai Leung (SFC:ACJ656) 李偉樑",None,sfclicrec.asp?p=95548,ACJ656,http://www.sfc.hk/publicregWeb/indi/ACJ656/licenceRecord,,,RO,2019-01-03,2019-04-03
+"Leung, Soi Chi 梁瑞芝",None,sfclicrec.asp?p=12053088,BKW301,http://www.sfc.hk/publicregWeb/indi/BKW301/licenceRecord,,,Rep,2019-02-18,2019-11-30
+"Man, Chun Wai (SFC:BEX763) 文俊偉",None,sfclicrec.asp?p=2390455,BEX763,http://www.sfc.hk/publicregWeb/indi/BEX763/licenceRecord,,,Rep,2019-01-17,2019-07-31
+"Tsang, Kwong Yat (SFC:BOC394) 曾廣溢",None,sfclicrec.asp?p=22890647,BOC394,http://www.sfc.hk/publicregWeb/indi/BOC394/licenceRecord,,,Rep,2019-03-12,2019-06-21
+"Wong, Wan Vanness 王贇",None,sfclicrec.asp?p=12773613,BLU269,http://www.sfc.hk/publicregWeb/indi/BLU269/licenceRecord,,,Rep,2019-03-01,2020-01-17
+"Yim, Wing Yu 嚴穎瑜",None,sfclicrec.asp?p=2535722,BGZ419,http://www.sfc.hk/publicregWeb/indi/BGZ419/licenceRecord,,,Rep,2019-04-09,2019-06-28

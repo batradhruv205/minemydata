@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Fan, Kenneth King Chi 范敬智",sfclicrec.asp?p=99890,,M,Rep,2006-06-02,2009-11-09
-"Fan, Kenneth King Chi 范敬智",sfclicrec.asp?p=99890,,M,RO,2009-11-09,2013-03-01
-"Huang, Gang (SFC:AJH293) 黃剛",sfclicrec.asp?p=31648,54,M,RO,2006-01-19,2012-09-25
-"Lee, David (SFC:AHX965) 李家偉",sfclicrec.asp?p=99892,,M,RO,2008-09-29,2013-05-13
-"Sun, Nong 孫農",sfclicrec.asp?p=105320,,,RO,,2005-01-04
-"Tam, Karen Yuen Yee 譚婉儀",sfclicrec.asp?p=112941,,F,RO,2003-11-07,2005-12-06
-"Tao, Zhengyi 陶正毅",sfclicrec.asp?p=2451774,,,RO,2015-07-21,
-"Tsui, Agnes Miu Shan 徐妙珊",sfclicrec.asp?p=2169051,,F,Rep,2013-11-25,
-"Yau, Henry Sung Chuen 邱崧泉",sfclicrec.asp?p=99894,,M,Rep,2008-08-26,2013-08-15
-"Yau, Henry Sung Chuen 邱崧泉",sfclicrec.asp?p=99894,,M,RO,2013-08-15,2014-07-07
-"Yiu, Ming Yee 姚明義",sfclicrec.asp?p=78615,,,RO,,2010-02-02
-"Zhang, Lei (SFC:AUW918) 張磊",sfclicrec.asp?p=99893,52,M,RO,2010-07-12,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Fan, Kenneth King Chi 范敬智",None,sfclicrec.asp?p=99890,ANH531,http://www.sfc.hk/publicregWeb/indi/ANH531/licenceRecord,,M,Rep,2006-06-02,2009-11-09
+"Fan, Kenneth King Chi 范敬智",None,sfclicrec.asp?p=99890,ANH531,http://www.sfc.hk/publicregWeb/indi/ANH531/licenceRecord,,M,RO,2009-11-09,2013-03-01
+"Huang, Gang (SFC:AJH293) 黃剛",None,sfclicrec.asp?p=31648,AJH293,http://www.sfc.hk/publicregWeb/indi/AJH293/licenceRecord,54.0,M,RO,2006-01-19,2012-09-25
+"Lee, David (SFC:AHX965) 李家偉",None,sfclicrec.asp?p=99892,AHX965,http://www.sfc.hk/publicregWeb/indi/AHX965/licenceRecord,,M,RO,2008-09-29,2013-05-13
+"Sun, Nong 孫農",None,sfclicrec.asp?p=105320,AES354,http://www.sfc.hk/publicregWeb/indi/AES354/licenceRecord,,,RO,,2005-01-04
+"Tam, Karen Yuen Yee 譚婉儀",None,sfclicrec.asp?p=112941,AJD526,http://www.sfc.hk/publicregWeb/indi/AJD526/licenceRecord,,F,RO,2003-11-07,2005-12-06
+"Tao, Zhengyi 陶正毅",None,sfclicrec.asp?p=2451774,BEV315,http://www.sfc.hk/publicregWeb/indi/BEV315/licenceRecord,,,RO,2015-07-21,
+"Tsui, Agnes Miu Shan 徐妙珊",None,sfclicrec.asp?p=2169051,AJL124,http://www.sfc.hk/publicregWeb/indi/AJL124/licenceRecord,,F,Rep,2013-11-25,
+"Yau, Henry Sung Chuen 邱崧泉",None,sfclicrec.asp?p=99894,ARJ655,http://www.sfc.hk/publicregWeb/indi/ARJ655/licenceRecord,,M,Rep,2008-08-26,2013-08-15
+"Yau, Henry Sung Chuen 邱崧泉",None,sfclicrec.asp?p=99894,ARJ655,http://www.sfc.hk/publicregWeb/indi/ARJ655/licenceRecord,,M,RO,2013-08-15,2014-07-07
+"Yiu, Ming Yee 姚明義",None,sfclicrec.asp?p=78615,ACS672,http://www.sfc.hk/publicregWeb/indi/ACS672/licenceRecord,,,RO,,2010-02-02
+"Zhang, Lei (SFC:AUW918) 張磊",None,sfclicrec.asp?p=99893,AUW918,http://www.sfc.hk/publicregWeb/indi/AUW918/licenceRecord,52.0,M,RO,2010-07-12,

@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Guan, Yu (SFC:AXS402) 管宇",sfclicrec.asp?p=98964,,,RO,2014-09-23,
-"Hon, Ka Yi 韓珈誼",sfclicrec.asp?p=2357334,,,Rep,2014-12-10,
-"Xie, Yanqing 謝彥青",sfclicrec.asp?p=2351537,,,Rep,2014-11-27,2019-03-20
-"Zhang, Yingbiao 張英飈",sfclicrec.asp?p=2323806,,,RO,2014-09-23,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Guan, Yu (SFC:AXS402) 管宇",None,sfclicrec.asp?p=98964,AXS402,http://www.sfc.hk/publicregWeb/indi/AXS402/licenceRecord,,,RO,2014-09-23,
+"Hon, Ka Yi 韓珈誼",None,sfclicrec.asp?p=2357334,BEN080,http://www.sfc.hk/publicregWeb/indi/BEN080/licenceRecord,,,Rep,2014-12-10,
+"Xie, Yanqing 謝彥青",None,sfclicrec.asp?p=2351537,BEM822,http://www.sfc.hk/publicregWeb/indi/BEM822/licenceRecord,,,Rep,2014-11-27,2019-03-20
+"Zhang, Yingbiao 張英飈",None,sfclicrec.asp?p=2323806,BDH059,http://www.sfc.hk/publicregWeb/indi/BDH059/licenceRecord,,,RO,2014-09-23,

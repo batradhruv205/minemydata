@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ho, Ricky Shui Fai 何瑞輝",sfclicrec.asp?p=102201,,M,RO,2015-04-30,2016-04-01
-"Ho, Ricky Shui Fai 何瑞輝",sfclicrec.asp?p=102201,,M,Rep,2018-10-16,2018-12-06
-"Ho, Ricky Shui Fai 何瑞輝",sfclicrec.asp?p=102201,,M,RO,2018-12-06,
-"Jiang, Maolin 姜茂林",sfclicrec.asp?p=72223,55,M,RO,2015-04-30,
-"Lee, Yam Hang 李欽恆",sfclicrec.asp?p=88326,,,RO,2020-01-07,
-"Mak, Ka Yee 麥家儀",sfclicrec.asp?p=105226,,,RO,2016-08-03,
-"Tse, Wing Keung 謝永強",sfclicrec.asp?p=88266,,,RO,2016-03-08,2018-09-20
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ho, Ricky Shui Fai 何瑞輝",None,sfclicrec.asp?p=102201,ABP466,http://www.sfc.hk/publicregWeb/indi/ABP466/licenceRecord,,M,RO,2015-04-30,2016-04-01
+"Ho, Ricky Shui Fai 何瑞輝",None,sfclicrec.asp?p=102201,ABP466,http://www.sfc.hk/publicregWeb/indi/ABP466/licenceRecord,,M,Rep,2018-10-16,2018-12-06
+"Ho, Ricky Shui Fai 何瑞輝",None,sfclicrec.asp?p=102201,ABP466,http://www.sfc.hk/publicregWeb/indi/ABP466/licenceRecord,,M,RO,2018-12-06,
+"Jiang, Maolin 姜茂林",None,sfclicrec.asp?p=72223,ARE474,http://www.sfc.hk/publicregWeb/indi/ARE474/licenceRecord,55.0,M,RO,2015-04-30,
+"Lee, Yam Hang 李欽恆",None,sfclicrec.asp?p=88326,AKO237,http://www.sfc.hk/publicregWeb/indi/AKO237/licenceRecord,,,RO,2020-01-07,
+"Mak, Ka Yee 麥家儀",None,sfclicrec.asp?p=105226,AEQ948,http://www.sfc.hk/publicregWeb/indi/AEQ948/licenceRecord,,,RO,2016-08-03,
+"Tse, Wing Keung 謝永強",None,sfclicrec.asp?p=88266,ACJ320,http://www.sfc.hk/publicregWeb/indi/ACJ320/licenceRecord,,,RO,2016-03-08,2018-09-20

@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Chi Kong (SFC:ACX510) 陳志光",sfclicrec.asp?p=1864642,,,Rep,2012-03-13,2019-03-11
-"Cheng, Nicole Pui Kei 鄭佩姬",sfclicrec.asp?p=81641,,F,Rep,2013-08-19,2014-02-27
-"Fu, Curtis Chen 符辰",sfclicrec.asp?p=81643,,M,Rep,2013-09-16,2014-02-27
-"Kwan, David Tak Wai 關德瑋",sfclicrec.asp?p=81647,,M,Rep,2013-04-17,2014-02-27
-"Lam, Graham Ka Wai 林家威",sfclicrec.asp?p=16325,52,M,RO,2013-08-28,2014-01-29
-"Lau, Wai Fong (SFC:AHL933) 劉惠芳",sfclicrec.asp?p=57336,,,RO,2007-10-16,
-"Leung, Alvin Heung Ying 梁享英",sfclicrec.asp?p=15826,58,M,RO,2007-10-16,
-"Leung, Anthea Chui San 梁翠珊",sfclicrec.asp?p=57337,,F,Rep,2009-08-31,2009-10-12
-"Leung, Anthea Chui San 梁翠珊",sfclicrec.asp?p=57337,,F,RO,2009-10-12,2010-06-01
-"Sing, Doris Ruoh Chi 忻若琪",sfclicrec.asp?p=49366,,F,Rep,2013-07-09,2013-08-06
-"Sing, Doris Ruoh Chi 忻若琪",sfclicrec.asp?p=49366,,F,RO,2013-08-06,2014-02-27
-"So, Chiu (SFC:AYO973) 蘇昭",sfclicrec.asp?p=134371,,,Rep,2011-12-02,2018-01-22
-"Sun, Patrick Ting Wah 辛定華",sfclicrec.asp?p=1437,62,M,Rep,2010-03-31,2010-05-13
-"Sun, Patrick Ting Wah 辛定華",sfclicrec.asp?p=1437,62,M,RO,2010-05-13,2019-06-17
-"Tam, Chi Choi 譚志才",sfclicrec.asp?p=12787466,56,M,RO,2018-02-14,2018-09-14
-"Yan, Frankie Man Sing 甄文星",sfclicrec.asp?p=37344,63,M,RO,2013-08-28,2013-12-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Chi Kong (SFC:ACX510) 陳志光",None,sfclicrec.asp?p=1864642,ACX510,http://www.sfc.hk/publicregWeb/indi/ACX510/licenceRecord,,,Rep,2012-03-13,2019-03-11
+"Cheng, Nicole Pui Kei 鄭佩姬",None,sfclicrec.asp?p=81641,AXG218,http://www.sfc.hk/publicregWeb/indi/AXG218/licenceRecord,,F,Rep,2013-08-19,2014-02-27
+"Fu, Curtis Chen 符辰",None,sfclicrec.asp?p=81643,AWR689,http://www.sfc.hk/publicregWeb/indi/AWR689/licenceRecord,,M,Rep,2013-09-16,2014-02-27
+"Kwan, David Tak Wai 關德瑋",None,sfclicrec.asp?p=81647,AOE445,http://www.sfc.hk/publicregWeb/indi/AOE445/licenceRecord,,M,Rep,2013-04-17,2014-02-27
+"Lam, Graham Ka Wai 林家威",None,sfclicrec.asp?p=16325,ACO473,http://www.sfc.hk/publicregWeb/indi/ACO473/licenceRecord,52.0,M,RO,2013-08-28,2014-01-29
+"Lau, Wai Fong (SFC:AHL933) 劉惠芳",None,sfclicrec.asp?p=57336,AHL933,http://www.sfc.hk/publicregWeb/indi/AHL933/licenceRecord,,,RO,2007-10-16,
+"Leung, Alvin Heung Ying 梁享英",None,sfclicrec.asp?p=15826,ACG472,http://www.sfc.hk/publicregWeb/indi/ACG472/licenceRecord,58.0,M,RO,2007-10-16,
+"Leung, Anthea Chui San 梁翠珊",None,sfclicrec.asp?p=57337,APQ283,http://www.sfc.hk/publicregWeb/indi/APQ283/licenceRecord,,F,Rep,2009-08-31,2009-10-12
+"Leung, Anthea Chui San 梁翠珊",None,sfclicrec.asp?p=57337,APQ283,http://www.sfc.hk/publicregWeb/indi/APQ283/licenceRecord,,F,RO,2009-10-12,2010-06-01
+"Sing, Doris Ruoh Chi 忻若琪",None,sfclicrec.asp?p=49366,AJK773,http://www.sfc.hk/publicregWeb/indi/AJK773/licenceRecord,,F,Rep,2013-07-09,2013-08-06
+"Sing, Doris Ruoh Chi 忻若琪",None,sfclicrec.asp?p=49366,AJK773,http://www.sfc.hk/publicregWeb/indi/AJK773/licenceRecord,,F,RO,2013-08-06,2014-02-27
+"So, Chiu (SFC:AYO973) 蘇昭",None,sfclicrec.asp?p=134371,AYO973,http://www.sfc.hk/publicregWeb/indi/AYO973/licenceRecord,,,Rep,2011-12-02,2018-01-22
+"Sun, Patrick Ting Wah 辛定華",None,sfclicrec.asp?p=1437,AAI271,http://www.sfc.hk/publicregWeb/indi/AAI271/licenceRecord,62.0,M,Rep,2010-03-31,2010-05-13
+"Sun, Patrick Ting Wah 辛定華",None,sfclicrec.asp?p=1437,AAI271,http://www.sfc.hk/publicregWeb/indi/AAI271/licenceRecord,62.0,M,RO,2010-05-13,2019-06-17
+"Tam, Chi Choi 譚志才",None,sfclicrec.asp?p=12787466,BKC149,http://www.sfc.hk/publicregWeb/indi/BKC149/licenceRecord,56.0,M,RO,2018-02-14,2018-09-14
+"Yan, Frankie Man Sing 甄文星",None,sfclicrec.asp?p=37344,AGF408,http://www.sfc.hk/publicregWeb/indi/AGF408/licenceRecord,63.0,M,RO,2013-08-28,2013-12-31

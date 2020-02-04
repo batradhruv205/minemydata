@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Po Chun (SFC:AGC297) 陳寶珍",sfclicrec.asp?p=108427,,,RO,2005-05-09,
-"Chew, Yi Tung 趙苡彤",sfclicrec.asp?p=110606,,,Rep,2006-08-03,2008-09-01
-"Choy, Chun Nam 蔡鎮南",sfclicrec.asp?p=122814,,,Rep,2007-10-27,
-"Hau, Vivian Wing Han 侯詠嫻",sfclicrec.asp?p=127472,,F,Rep,2009-02-17,2015-09-01
-"Kwok, Siu Fong 郭小芳",sfclicrec.asp?p=124786,,,Rep,2008-04-15,2014-01-15
-"Lai, Alex Chun Hung 賴振鴻",sfclicrec.asp?p=32752,,M,RO,2005-05-09,
-"Lau, Bianca Tze Lan 劉紫蘭",sfclicrec.asp?p=125210,,,Rep,2011-06-02,2012-03-28
-"Lau, Chiu Ming 劉昭明",sfclicrec.asp?p=128277,,,Rep,2009-08-18,
-"Lau, Yin Fun 劉燕芬",sfclicrec.asp?p=121734,,,Rep,2008-05-06,2014-04-04
-"Lin, Christine Shui Kwan 林瑞君",sfclicrec.asp?p=121078,,F,Rep,2012-08-15,2014-09-01
-"Ma, Alisha Hsiao-Hung 馬奕彤",sfclicrec.asp?p=115969,,,Rep,2009-03-18,2010-09-01
-"Mak, Yin Chong 麥燕莊",sfclicrec.asp?p=128700,,,Rep,2009-10-30,2016-09-01
-"Wong, Mee Lee 黃美莉",sfclicrec.asp?p=117815,,,Rep,2006-02-27,
-"Xie, Jie 謝潔",sfclicrec.asp?p=128281,,,Rep,2009-08-06,2011-09-01
-"Yim, Ping Cheung 嚴秉章",sfclicrec.asp?p=124587,,,Rep,2008-03-31,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Po Chun (SFC:AGC297) 陳寶珍",None,sfclicrec.asp?p=108427,AGC297,http://www.sfc.hk/publicregWeb/indi/AGC297/licenceRecord,,,RO,2005-05-09,
+"Chew, Yi Tung 趙苡彤",None,sfclicrec.asp?p=110606,AGQ332,http://www.sfc.hk/publicregWeb/indi/AGQ332/licenceRecord,,,Rep,2006-08-03,2008-09-01
+"Choy, Chun Nam 蔡鎮南",None,sfclicrec.asp?p=122814,APP031,http://www.sfc.hk/publicregWeb/indi/APP031/licenceRecord,,,Rep,2007-10-27,
+"Hau, Vivian Wing Han 侯詠嫻",None,sfclicrec.asp?p=127472,ASH884,http://www.sfc.hk/publicregWeb/indi/ASH884/licenceRecord,,F,Rep,2009-02-17,2015-09-01
+"Kwok, Siu Fong 郭小芳",None,sfclicrec.asp?p=124786,AQR963,http://www.sfc.hk/publicregWeb/indi/AQR963/licenceRecord,,,Rep,2008-04-15,2014-01-15
+"Lai, Alex Chun Hung 賴振鴻",None,sfclicrec.asp?p=32752,AGJ167,http://www.sfc.hk/publicregWeb/indi/AGJ167/licenceRecord,,M,RO,2005-05-09,
+"Lau, Bianca Tze Lan 劉紫蘭",None,sfclicrec.asp?p=125210,AQY040,http://www.sfc.hk/publicregWeb/indi/AQY040/licenceRecord,,,Rep,2011-06-02,2012-03-28
+"Lau, Chiu Ming 劉昭明",None,sfclicrec.asp?p=128277,ATJ284,http://www.sfc.hk/publicregWeb/indi/ATJ284/licenceRecord,,,Rep,2009-08-18,
+"Lau, Yin Fun 劉燕芬",None,sfclicrec.asp?p=121734,APB686,http://www.sfc.hk/publicregWeb/indi/APB686/licenceRecord,,,Rep,2008-05-06,2014-04-04
+"Lin, Christine Shui Kwan 林瑞君",None,sfclicrec.asp?p=121078,AOT760,http://www.sfc.hk/publicregWeb/indi/AOT760/licenceRecord,,F,Rep,2012-08-15,2014-09-01
+"Ma, Alisha Hsiao-Hung 馬奕彤",None,sfclicrec.asp?p=115969,ALZ814,http://www.sfc.hk/publicregWeb/indi/ALZ814/licenceRecord,,,Rep,2009-03-18,2010-09-01
+"Mak, Yin Chong 麥燕莊",None,sfclicrec.asp?p=128700,ATX309,http://www.sfc.hk/publicregWeb/indi/ATX309/licenceRecord,,,Rep,2009-10-30,2016-09-01
+"Wong, Mee Lee 黃美莉",None,sfclicrec.asp?p=117815,AMZ266,http://www.sfc.hk/publicregWeb/indi/AMZ266/licenceRecord,,,Rep,2006-02-27,
+"Xie, Jie 謝潔",None,sfclicrec.asp?p=128281,ATL409,http://www.sfc.hk/publicregWeb/indi/ATL409/licenceRecord,,,Rep,2009-08-06,2011-09-01
+"Yim, Ping Cheung 嚴秉章",None,sfclicrec.asp?p=124587,AQP716,http://www.sfc.hk/publicregWeb/indi/AQP716/licenceRecord,,,Rep,2008-03-31,

@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Anand, Amarjyot Singh ",sfclicrec.asp?p=7876190,,,RO,2017-04-13,
-"Bosshart, Stephan Louis ",sfclicrec.asp?p=22831987,,M,RO,2019-02-27,
-"Gupta, Gaurav (SFC:BHK454) ",sfclicrec.asp?p=2571850,,M,Rep,2018-02-22,
-"Hui, Hoi Wan 許海雲",sfclicrec.asp?p=100240,,,Rep,2017-07-04,2018-01-04
-"Hui, Hoi Wan 許海雲",sfclicrec.asp?p=100240,,,RO,2018-01-04,2019-02-28
-"Khoo, Terence Boo Kheng 邱武慶",sfclicrec.asp?p=44695,56,M,RO,2017-04-13,2017-10-31
-"Srinivasan, Pavithra (SFC:BLX083) ",sfclicrec.asp?p=12804831,,,Rep,2018-02-22,2018-11-05
-"Tsuchida, Mariko 土田真理子",sfclicrec.asp?p=11791434,,,Rep,2017-08-21,2017-11-21
-"Wills, David Richard ",sfclicrec.asp?p=90962,,M,Rep,2017-05-04,2017-06-15
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Anand, Amarjyot Singh ",None,sfclicrec.asp?p=7876190,BIW617,http://www.sfc.hk/publicregWeb/indi/BIW617/licenceRecord,,,RO,2017-04-13,
+"Bosshart, Stephan Louis ",None,sfclicrec.asp?p=22831987,BOB203,http://www.sfc.hk/publicregWeb/indi/BOB203/licenceRecord,,M,RO,2019-02-27,
+"Gupta, Gaurav (SFC:BHK454) ",None,sfclicrec.asp?p=2571850,BHK454,http://www.sfc.hk/publicregWeb/indi/BHK454/licenceRecord,,M,Rep,2018-02-22,
+"Hui, Hoi Wan 許海雲",None,sfclicrec.asp?p=100240,ALV421,http://www.sfc.hk/publicregWeb/indi/ALV421/licenceRecord,,,Rep,2017-07-04,2018-01-04
+"Hui, Hoi Wan 許海雲",None,sfclicrec.asp?p=100240,ALV421,http://www.sfc.hk/publicregWeb/indi/ALV421/licenceRecord,,,RO,2018-01-04,2019-02-28
+"Khoo, Terence Boo Kheng 邱武慶",None,sfclicrec.asp?p=44695,ACZ723,http://www.sfc.hk/publicregWeb/indi/ACZ723/licenceRecord,56.0,M,RO,2017-04-13,2017-10-31
+"Srinivasan, Pavithra (SFC:BLX083) ",None,sfclicrec.asp?p=12804831,BLX083,http://www.sfc.hk/publicregWeb/indi/BLX083/licenceRecord,,,Rep,2018-02-22,2018-11-05
+"Tsuchida, Mariko 土田真理子",None,sfclicrec.asp?p=11791434,BKE006,http://www.sfc.hk/publicregWeb/indi/BKE006/licenceRecord,,,Rep,2017-08-21,2017-11-21
+"Wills, David Richard ",None,sfclicrec.asp?p=90962,ANE567,http://www.sfc.hk/publicregWeb/indi/ANE567/licenceRecord,,M,Rep,2017-05-04,2017-06-15

@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Hop Mo 陳合武",sfclicrec.asp?p=80360,,,Rep,2015-02-13,2015-07-16
-"Chan, Hop Mo 陳合武",sfclicrec.asp?p=80360,,,RO,2015-07-16,2016-02-22
-"Cheung, Sun Hei 張晨熙",sfclicrec.asp?p=2083279,,,Rep,2016-03-07,2017-10-11
-"Cheung, Sun Hei 張晨熙",sfclicrec.asp?p=2083279,,,RO,2017-10-11,2018-06-18
-"Demler, Frederick Russel ",sfclicrec.asp?p=2289100,,M,RO,2014-07-03,2015-06-30
-"Feng, Jing (SFC:APZ397) 馮晶",sfclicrec.asp?p=123484,,,RO,2014-07-03,
-"Ho, Sai Ho (SFC:AOH660) 何世豪",sfclicrec.asp?p=90120,,,Rep,2018-08-07,2019-09-02
-"Ho, Sai Ho (SFC:AOH660) 何世豪",sfclicrec.asp?p=90120,,,RO,2019-09-02,
-"Huang, Songbo 黃松博",sfclicrec.asp?p=72835,,,Rep,2015-05-06,2015-07-10
-"Huang, Songbo 黃松博",sfclicrec.asp?p=72835,,,RO,2015-07-10,
-"Long, Lizhi 龍麗質",sfclicrec.asp?p=1894918,,,Rep,2014-07-14,2015-03-14
-"Rizzo, Peter William ",sfclicrec.asp?p=2289101,,M,RO,2014-07-03,2015-12-16
-"Zheng, Qin (SFC:ASP724) 鄭沁",sfclicrec.asp?p=99928,,,Rep,2014-07-16,2015-02-06
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Hop Mo 陳合武",None,sfclicrec.asp?p=80360,ASO653,http://www.sfc.hk/publicregWeb/indi/ASO653/licenceRecord,,,Rep,2015-02-13,2015-07-16
+"Chan, Hop Mo 陳合武",None,sfclicrec.asp?p=80360,ASO653,http://www.sfc.hk/publicregWeb/indi/ASO653/licenceRecord,,,RO,2015-07-16,2016-02-22
+"Cheung, Sun Hei 張晨熙",None,sfclicrec.asp?p=2083279,BBG387,http://www.sfc.hk/publicregWeb/indi/BBG387/licenceRecord,,,Rep,2016-03-07,2017-10-11
+"Cheung, Sun Hei 張晨熙",None,sfclicrec.asp?p=2083279,BBG387,http://www.sfc.hk/publicregWeb/indi/BBG387/licenceRecord,,,RO,2017-10-11,2018-06-18
+"Demler, Frederick Russel ",None,sfclicrec.asp?p=2289100,BCQ164,http://www.sfc.hk/publicregWeb/indi/BCQ164/licenceRecord,,M,RO,2014-07-03,2015-06-30
+"Feng, Jing (SFC:APZ397) 馮晶",None,sfclicrec.asp?p=123484,APZ397,http://www.sfc.hk/publicregWeb/indi/APZ397/licenceRecord,,,RO,2014-07-03,
+"Ho, Sai Ho (SFC:AOH660) 何世豪",None,sfclicrec.asp?p=90120,AOH660,http://www.sfc.hk/publicregWeb/indi/AOH660/licenceRecord,,,Rep,2018-08-07,2019-09-02
+"Ho, Sai Ho (SFC:AOH660) 何世豪",None,sfclicrec.asp?p=90120,AOH660,http://www.sfc.hk/publicregWeb/indi/AOH660/licenceRecord,,,RO,2019-09-02,
+"Huang, Songbo 黃松博",None,sfclicrec.asp?p=72835,ARS092,http://www.sfc.hk/publicregWeb/indi/ARS092/licenceRecord,,,Rep,2015-05-06,2015-07-10
+"Huang, Songbo 黃松博",None,sfclicrec.asp?p=72835,ARS092,http://www.sfc.hk/publicregWeb/indi/ARS092/licenceRecord,,,RO,2015-07-10,
+"Long, Lizhi 龍麗質",None,sfclicrec.asp?p=1894918,AZB938,http://www.sfc.hk/publicregWeb/indi/AZB938/licenceRecord,,,Rep,2014-07-14,2015-03-14
+"Rizzo, Peter William ",None,sfclicrec.asp?p=2289101,BCQ166,http://www.sfc.hk/publicregWeb/indi/BCQ166/licenceRecord,,M,RO,2014-07-03,2015-12-16
+"Zheng, Qin (SFC:ASP724) 鄭沁",None,sfclicrec.asp?p=99928,ASP724,http://www.sfc.hk/publicregWeb/indi/ASP724/licenceRecord,,,Rep,2014-07-16,2015-02-06

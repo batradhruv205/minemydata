@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bednarski, Derek Joseph Lee ",sfclicrec.asp?p=23058238,,M,Rep,2019-04-17,2019-12-23
-"Bednarski, Derek Joseph Lee ",sfclicrec.asp?p=23058238,,M,RO,2019-12-23,
-"Leong, Jonathan Raymond 梁健寧",sfclicrec.asp?p=63137,,M,RO,2015-10-20,2017-09-29
-"Li, Wan 李婉",sfclicrec.asp?p=2580533,,,Rep,2016-05-20,2016-11-09
-"Li, Wan 李婉",sfclicrec.asp?p=2580533,,,RO,2016-11-09,
-"Werner, Joel David ",sfclicrec.asp?p=2488680,,M,RO,2015-10-20,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bednarski, Derek Joseph Lee ",None,sfclicrec.asp?p=23058238,BKA610,http://www.sfc.hk/publicregWeb/indi/BKA610/licenceRecord,,M,Rep,2019-04-17,2019-12-23
+"Bednarski, Derek Joseph Lee ",None,sfclicrec.asp?p=23058238,BKA610,http://www.sfc.hk/publicregWeb/indi/BKA610/licenceRecord,,M,RO,2019-12-23,
+"Leong, Jonathan Raymond 梁健寧",None,sfclicrec.asp?p=63137,AVM644,http://www.sfc.hk/publicregWeb/indi/AVM644/licenceRecord,,M,RO,2015-10-20,2017-09-29
+"Li, Wan 李婉",None,sfclicrec.asp?p=2580533,BHG406,http://www.sfc.hk/publicregWeb/indi/BHG406/licenceRecord,,,Rep,2016-05-20,2016-11-09
+"Li, Wan 李婉",None,sfclicrec.asp?p=2580533,BHG406,http://www.sfc.hk/publicregWeb/indi/BHG406/licenceRecord,,,RO,2016-11-09,
+"Werner, Joel David ",None,sfclicrec.asp?p=2488680,BGD861,http://www.sfc.hk/publicregWeb/indi/BGD861/licenceRecord,,M,RO,2015-10-20,

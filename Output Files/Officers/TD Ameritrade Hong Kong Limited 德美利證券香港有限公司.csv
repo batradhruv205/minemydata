@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Nok Yan 陳諾恩",sfclicrec.asp?p=22547297,,,Rep,2018-12-17,
-"Cheung, William Wai Yin 張偉彥",sfclicrec.asp?p=22600857,,M,Rep,2019-01-02,
-"Chik, Upton Pui Cheong 戚培昌",sfclicrec.asp?p=72933,,,Rep,2017-11-14,2018-09-21
-"Evans, Adam Daniel ",sfclicrec.asp?p=12111561,,M,RO,2017-10-17,
-"Kahling, Andrew James ",sfclicrec.asp?p=23430888,,M,Rep,2019-07-16,2019-11-25
-"Kahling, Andrew James ",sfclicrec.asp?p=23430888,,M,RO,2019-11-25,
-"Lao, Yee Wun 劉苡媛",sfclicrec.asp?p=12499018,,,Rep,2017-11-13,
-"Leung, Gary Wai Kei 梁偉基",sfclicrec.asp?p=102144,,M,RO,2017-10-17,
-"Ng, Kenneth Cheuk Hang 吳卓衡",sfclicrec.asp?p=2565020,,M,Rep,2017-12-04,2019-10-31
-"Siu, Chi Shing 蕭自成",sfclicrec.asp?p=22353809,,,Rep,2018-10-25,
-"Tsui, Chun Fung 徐振峯",sfclicrec.asp?p=24060928,,,Rep,2019-12-30,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Nok Yan 陳諾恩",None,sfclicrec.asp?p=22547297,BNX030,http://www.sfc.hk/publicregWeb/indi/BNX030/licenceRecord,,,Rep,2018-12-17,
+"Cheung, William Wai Yin 張偉彥",None,sfclicrec.asp?p=22600857,BNY428,http://www.sfc.hk/publicregWeb/indi/BNY428/licenceRecord,,M,Rep,2019-01-02,
+"Chik, Upton Pui Cheong 戚培昌",None,sfclicrec.asp?p=72933,AEF322,http://www.sfc.hk/publicregWeb/indi/AEF322/licenceRecord,,,Rep,2017-11-14,2018-09-21
+"Evans, Adam Daniel ",None,sfclicrec.asp?p=12111561,BJR581,http://www.sfc.hk/publicregWeb/indi/BJR581/licenceRecord,,M,RO,2017-10-17,
+"Kahling, Andrew James ",None,sfclicrec.asp?p=23430888,BNR871,http://www.sfc.hk/publicregWeb/indi/BNR871/licenceRecord,,M,Rep,2019-07-16,2019-11-25
+"Kahling, Andrew James ",None,sfclicrec.asp?p=23430888,BNR871,http://www.sfc.hk/publicregWeb/indi/BNR871/licenceRecord,,M,RO,2019-11-25,
+"Lao, Yee Wun 劉苡媛",None,sfclicrec.asp?p=12499018,BLL813,http://www.sfc.hk/publicregWeb/indi/BLL813/licenceRecord,,,Rep,2017-11-13,
+"Leung, Gary Wai Kei 梁偉基",None,sfclicrec.asp?p=102144,ABN422,http://www.sfc.hk/publicregWeb/indi/ABN422/licenceRecord,,M,RO,2017-10-17,
+"Ng, Kenneth Cheuk Hang 吳卓衡",None,sfclicrec.asp?p=2565020,BHH773,http://www.sfc.hk/publicregWeb/indi/BHH773/licenceRecord,,M,Rep,2017-12-04,2019-10-31
+"Siu, Chi Shing 蕭自成",None,sfclicrec.asp?p=22353809,BNP475,http://www.sfc.hk/publicregWeb/indi/BNP475/licenceRecord,,,Rep,2018-10-25,
+"Tsui, Chun Fung 徐振峯",None,sfclicrec.asp?p=24060928,BPF656,http://www.sfc.hk/publicregWeb/indi/BPF656/licenceRecord,,,Rep,2019-12-30,

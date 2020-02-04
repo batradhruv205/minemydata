@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Abuali, Hani ",sfclicrec.asp?p=104901,,,Rep,2015-06-16,2018-10-02
-"Abuali, Hani ",sfclicrec.asp?p=104901,,,RO,2018-10-02,
-"Alomran, Abdulmohsin Omran M ",sfclicrec.asp?p=130483,,M,RO,2011-05-19,
-"Jiao, Yang (SFC:BDV920) 焦揚",sfclicrec.asp?p=2303964,,,Rep,2016-11-11,
-"Lau, Jonathan Kui Bong 劉巨邦",sfclicrec.asp?p=127400,,M,Rep,2016-07-25,
-"Lu, Chunyi 呂春奕",sfclicrec.asp?p=2499461,,,Rep,2015-11-13,2016-05-24
-"Ng, Philip Ka Wah 吳嘉華",sfclicrec.asp?p=110779,,M,RO,2011-05-19,
-"Peng, Haiting 彭海婷",sfclicrec.asp?p=1989376,,,Rep,2015-03-30,2015-05-05
-"Peng, Haiting 彭海婷",sfclicrec.asp?p=1989376,,,Rep,2015-05-28,2016-09-09
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Abuali, Hani ",None,sfclicrec.asp?p=104901,AEK136,http://www.sfc.hk/publicregWeb/indi/AEK136/licenceRecord,,,Rep,2015-06-16,2018-10-02
+"Abuali, Hani ",None,sfclicrec.asp?p=104901,AEK136,http://www.sfc.hk/publicregWeb/indi/AEK136/licenceRecord,,,RO,2018-10-02,
+"Alomran, Abdulmohsin Omran M ",None,sfclicrec.asp?p=130483,AWE715,http://www.sfc.hk/publicregWeb/indi/AWE715/licenceRecord,,M,RO,2011-05-19,
+"Jiao, Yang (SFC:BDV920) 焦揚",None,sfclicrec.asp?p=2303964,BDV920,http://www.sfc.hk/publicregWeb/indi/BDV920/licenceRecord,,,Rep,2016-11-11,
+"Lau, Jonathan Kui Bong 劉巨邦",None,sfclicrec.asp?p=127400,ASF492,http://www.sfc.hk/publicregWeb/indi/ASF492/licenceRecord,,M,Rep,2016-07-25,
+"Lu, Chunyi 呂春奕",None,sfclicrec.asp?p=2499461,BGI809,http://www.sfc.hk/publicregWeb/indi/BGI809/licenceRecord,,,Rep,2015-11-13,2016-05-24
+"Ng, Philip Ka Wah 吳嘉華",None,sfclicrec.asp?p=110779,AGU760,http://www.sfc.hk/publicregWeb/indi/AGU760/licenceRecord,,M,RO,2011-05-19,
+"Peng, Haiting 彭海婷",None,sfclicrec.asp?p=1989376,AWP093,http://www.sfc.hk/publicregWeb/indi/AWP093/licenceRecord,,,Rep,2015-03-30,2015-05-05
+"Peng, Haiting 彭海婷",None,sfclicrec.asp?p=1989376,AWP093,http://www.sfc.hk/publicregWeb/indi/AWP093/licenceRecord,,,Rep,2015-05-28,2016-09-09

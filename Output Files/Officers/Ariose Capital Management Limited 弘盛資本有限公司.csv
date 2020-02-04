@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Blake, Anthony Peter ",sfclicrec.asp?p=2712001,,M,Rep,2017-03-14,2017-11-06
-"Blake, Anthony Peter ",sfclicrec.asp?p=2712001,,M,RO,2017-11-06,
-"Du, Weifeng (SFC:AVV544) ",sfclicrec.asp?p=69568,,,Rep,2014-02-11,2014-04-25
-"Du, Weifeng (SFC:AVV544) ",sfclicrec.asp?p=69568,,,RO,2014-04-25,
-"Kwok, Yik Ki 郭奕琪",sfclicrec.asp?p=95034,,,RO,2014-12-10,2016-12-08
-"Lau, Wing Chung 劉榮忠",sfclicrec.asp?p=21571655,,,Rep,2018-08-07,2019-12-31
-"Wong, Pok Him 黃博謙",sfclicrec.asp?p=2458380,,,Rep,2017-05-16,2018-08-16
-"Xin, Yi (SFC:AZP147) 忻怡",sfclicrec.asp?p=2204993,,,RO,2012-09-12,
-"Yu, Yang (SFC:AZP157) 余洋",sfclicrec.asp?p=2204994,,,RO,2012-09-12,2014-05-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Blake, Anthony Peter ",None,sfclicrec.asp?p=2712001,AFK724,http://www.sfc.hk/publicregWeb/indi/AFK724/licenceRecord,,M,Rep,2017-03-14,2017-11-06
+"Blake, Anthony Peter ",None,sfclicrec.asp?p=2712001,AFK724,http://www.sfc.hk/publicregWeb/indi/AFK724/licenceRecord,,M,RO,2017-11-06,
+"Du, Weifeng (SFC:AVV544) ",None,sfclicrec.asp?p=69568,AVV544,http://www.sfc.hk/publicregWeb/indi/AVV544/licenceRecord,,,Rep,2014-02-11,2014-04-25
+"Du, Weifeng (SFC:AVV544) ",None,sfclicrec.asp?p=69568,AVV544,http://www.sfc.hk/publicregWeb/indi/AVV544/licenceRecord,,,RO,2014-04-25,
+"Kwok, Yik Ki 郭奕琪",None,sfclicrec.asp?p=95034,APF296,http://www.sfc.hk/publicregWeb/indi/APF296/licenceRecord,,,RO,2014-12-10,2016-12-08
+"Lau, Wing Chung 劉榮忠",None,sfclicrec.asp?p=21571655,BNI132,http://www.sfc.hk/publicregWeb/indi/BNI132/licenceRecord,,,Rep,2018-08-07,2019-12-31
+"Wong, Pok Him 黃博謙",None,sfclicrec.asp?p=2458380,BFY285,http://www.sfc.hk/publicregWeb/indi/BFY285/licenceRecord,,,Rep,2017-05-16,2018-08-16
+"Xin, Yi (SFC:AZP147) 忻怡",None,sfclicrec.asp?p=2204993,AZP147,http://www.sfc.hk/publicregWeb/indi/AZP147/licenceRecord,,,RO,2012-09-12,
+"Yu, Yang (SFC:AZP157) 余洋",None,sfclicrec.asp?p=2204994,AZP157,http://www.sfc.hk/publicregWeb/indi/AZP157/licenceRecord,,,RO,2012-09-12,2014-05-31

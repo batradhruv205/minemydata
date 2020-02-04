@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ahn, Seh Joon 安世埈",sfclicrec.asp?p=78798,,,Rep,2017-09-28,
-"Jeng, Tzung Tza 鄭棕澤",sfclicrec.asp?p=22815448,,,Rep,2019-02-25,
-"Lam, Sai Hou 林世孝",sfclicrec.asp?p=127252,,,Rep,2015-11-19,
-"Lau, Arthur Tak Kei 劉德基",sfclicrec.asp?p=78801,39,M,RO,2014-06-20,
-"Ng, Kenneth Chi Keung 吳志強",sfclicrec.asp?p=78803,,M,RO,2014-06-20,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ahn, Seh Joon 安世埈",None,sfclicrec.asp?p=78798,AQR040,http://www.sfc.hk/publicregWeb/indi/AQR040/licenceRecord,,,Rep,2017-09-28,
+"Jeng, Tzung Tza 鄭棕澤",None,sfclicrec.asp?p=22815448,BOB237,http://www.sfc.hk/publicregWeb/indi/BOB237/licenceRecord,,,Rep,2019-02-25,
+"Lam, Sai Hou 林世孝",None,sfclicrec.asp?p=127252,ASD200,http://www.sfc.hk/publicregWeb/indi/ASD200/licenceRecord,,,Rep,2015-11-19,
+"Lau, Arthur Tak Kei 劉德基",None,sfclicrec.asp?p=78801,ANA187,http://www.sfc.hk/publicregWeb/indi/ANA187/licenceRecord,39.0,M,RO,2014-06-20,
+"Ng, Kenneth Chi Keung 吳志強",None,sfclicrec.asp?p=78803,AJM684,http://www.sfc.hk/publicregWeb/indi/AJM684/licenceRecord,,M,RO,2014-06-20,

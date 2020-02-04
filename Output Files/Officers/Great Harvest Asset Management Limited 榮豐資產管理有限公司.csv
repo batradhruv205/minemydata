@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Kenneth Kin Wah 陳建華",sfclicrec.asp?p=1991959,,M,RO,2018-06-05,2019-06-11
-"Kong, Chun On 江俊安",sfclicrec.asp?p=1919481,,,RO,2017-05-08,2018-06-30
-"Lee, Raymond Siu Kuen 李紹權",sfclicrec.asp?p=93513,,M,Rep,2017-03-15,2017-04-11
-"Lee, Raymond Siu Kuen 李紹權",sfclicrec.asp?p=93513,,M,RO,2017-04-11,2017-12-31
-"Leung, Hung Piu 梁鴻標",sfclicrec.asp?p=113137,,,RO,2015-04-24,2017-05-31
-"Li, Ming Keung 李明強",sfclicrec.asp?p=75893,,,Rep,2018-04-30,
-"Tsang, Dale Melvin Hing Gay 曾慶基",sfclicrec.asp?p=15787,,M,Rep,2017-12-11,2018-01-25
-"Tsang, Dale Melvin Hing Gay 曾慶基",sfclicrec.asp?p=15787,,M,RO,2018-01-25,
-"Wong, Ka Yi (SFC:AMX935) 黃嘉宜",sfclicrec.asp?p=99313,46,M,RO,2015-04-24,2017-05-02
-"Yan, Yui Ham 殷睿涵",sfclicrec.asp?p=16002257,,,Rep,2020-01-15,
-"Yip, To Hang 葉韜恆",sfclicrec.asp?p=2602047,,,Rep,2018-06-05,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Kenneth Kin Wah 陳建華",None,sfclicrec.asp?p=1991959,BAL896,http://www.sfc.hk/publicregWeb/indi/BAL896/licenceRecord,,M,RO,2018-06-05,2019-06-11
+"Kong, Chun On 江俊安",None,sfclicrec.asp?p=1919481,AZO335,http://www.sfc.hk/publicregWeb/indi/AZO335/licenceRecord,,,RO,2017-05-08,2018-06-30
+"Lee, Raymond Siu Kuen 李紹權",None,sfclicrec.asp?p=93513,ACK153,http://www.sfc.hk/publicregWeb/indi/ACK153/licenceRecord,,M,Rep,2017-03-15,2017-04-11
+"Lee, Raymond Siu Kuen 李紹權",None,sfclicrec.asp?p=93513,ACK153,http://www.sfc.hk/publicregWeb/indi/ACK153/licenceRecord,,M,RO,2017-04-11,2017-12-31
+"Leung, Hung Piu 梁鴻標",None,sfclicrec.asp?p=113137,AJF234,http://www.sfc.hk/publicregWeb/indi/AJF234/licenceRecord,,,RO,2015-04-24,2017-05-31
+"Li, Ming Keung 李明強",None,sfclicrec.asp?p=75893,AVD367,http://www.sfc.hk/publicregWeb/indi/AVD367/licenceRecord,,,Rep,2018-04-30,
+"Tsang, Dale Melvin Hing Gay 曾慶基",None,sfclicrec.asp?p=15787,ACC100,http://www.sfc.hk/publicregWeb/indi/ACC100/licenceRecord,,M,Rep,2017-12-11,2018-01-25
+"Tsang, Dale Melvin Hing Gay 曾慶基",None,sfclicrec.asp?p=15787,ACC100,http://www.sfc.hk/publicregWeb/indi/ACC100/licenceRecord,,M,RO,2018-01-25,
+"Wong, Ka Yi (SFC:AMX935) 黃嘉宜",None,sfclicrec.asp?p=99313,AMX935,http://www.sfc.hk/publicregWeb/indi/AMX935/licenceRecord,46.0,M,RO,2015-04-24,2017-05-02
+"Yan, Yui Ham 殷睿涵",None,sfclicrec.asp?p=16002257,BMX954,http://www.sfc.hk/publicregWeb/indi/BMX954/licenceRecord,,,Rep,2020-01-15,
+"Yip, To Hang 葉韜恆",None,sfclicrec.asp?p=2602047,BHP785,http://www.sfc.hk/publicregWeb/indi/BHP785/licenceRecord,,,Rep,2018-06-05,

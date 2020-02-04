@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au, Winnie Sin Kwan 區倩筠",sfclicrec.asp?p=15295,,F,Rep,2017-10-04,
-"Cheung, Shui Han 張穗嫻",sfclicrec.asp?p=2431918,,,Rep,2017-01-05,
-"Chung, James Man Him 鍾文謙",sfclicrec.asp?p=100275,,M,Rep,2016-07-21,2017-01-19
-"Chung, James Man Him 鍾文謙",sfclicrec.asp?p=100275,,M,RO,2017-01-19,2019-05-14
-"Ho, Tony Chi Ming 何志銘",sfclicrec.asp?p=83455,,M,RO,2016-06-02,2017-01-09
-"Lam, Charles Fat 林發",sfclicrec.asp?p=70135,,M,Rep,2016-12-20,2017-01-09
-"Lam, Charles Fat 林發",sfclicrec.asp?p=70135,,M,RO,2017-01-09,
-"Liu, Wai Hung 廖偉鴻",sfclicrec.asp?p=97320,,,Rep,2017-06-21,2019-05-06
-"Lo, Helen Pik Ha 勞碧霞",sfclicrec.asp?p=80516,,F,RO,2019-07-26,2019-08-19
-"Ng, Amanda Suk Yee 吳淑儀",sfclicrec.asp?p=91421,,F,Rep,2017-09-13,
-"Ngan, Kwai Kwok (SFC:AAB095) 顏貴國",sfclicrec.asp?p=91422,,,Rep,2017-10-25,
-"Siu, Jimmy Kai Chi 蕭啟智",sfclicrec.asp?p=103674,,M,RO,2016-06-02,2017-02-01
-"Szeto, Karen Yuk Kit 司徒玉潔",sfclicrec.asp?p=91429,,F,Rep,2017-10-04,
-"Yip, Ho Pak 葉浩柏",sfclicrec.asp?p=2458870,,,Rep,2019-10-10,2019-10-25
-"Yip, Ho Pak 葉浩柏",sfclicrec.asp?p=2458870,,,RO,2019-10-25,
-"Zhang, Qingyan 章晴雁",sfclicrec.asp?p=20880838,,,Rep,2018-07-26,2019-01-01
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au, Winnie Sin Kwan 區倩筠",None,sfclicrec.asp?p=15295,ABY624,http://www.sfc.hk/publicregWeb/indi/ABY624/licenceRecord,,F,Rep,2017-10-04,
+"Cheung, Shui Han 張穗嫻",None,sfclicrec.asp?p=2431918,BFJ996,http://www.sfc.hk/publicregWeb/indi/BFJ996/licenceRecord,,,Rep,2017-01-05,
+"Chung, James Man Him 鍾文謙",None,sfclicrec.asp?p=100275,ANK917,http://www.sfc.hk/publicregWeb/indi/ANK917/licenceRecord,,M,Rep,2016-07-21,2017-01-19
+"Chung, James Man Him 鍾文謙",None,sfclicrec.asp?p=100275,ANK917,http://www.sfc.hk/publicregWeb/indi/ANK917/licenceRecord,,M,RO,2017-01-19,2019-05-14
+"Ho, Tony Chi Ming 何志銘",None,sfclicrec.asp?p=83455,APH801,http://www.sfc.hk/publicregWeb/indi/APH801/licenceRecord,,M,RO,2016-06-02,2017-01-09
+"Lam, Charles Fat 林發",None,sfclicrec.asp?p=70135,AGQ583,http://www.sfc.hk/publicregWeb/indi/AGQ583/licenceRecord,,M,Rep,2016-12-20,2017-01-09
+"Lam, Charles Fat 林發",None,sfclicrec.asp?p=70135,AGQ583,http://www.sfc.hk/publicregWeb/indi/AGQ583/licenceRecord,,M,RO,2017-01-09,
+"Liu, Wai Hung 廖偉鴻",None,sfclicrec.asp?p=97320,ANK399,http://www.sfc.hk/publicregWeb/indi/ANK399/licenceRecord,,,Rep,2017-06-21,2019-05-06
+"Lo, Helen Pik Ha 勞碧霞",None,sfclicrec.asp?p=80516,ANA705,http://www.sfc.hk/publicregWeb/indi/ANA705/licenceRecord,,F,RO,2019-07-26,2019-08-19
+"Ng, Amanda Suk Yee 吳淑儀",None,sfclicrec.asp?p=91421,ATO201,http://www.sfc.hk/publicregWeb/indi/ATO201/licenceRecord,,F,Rep,2017-09-13,
+"Ngan, Kwai Kwok (SFC:AAB095) 顏貴國",None,sfclicrec.asp?p=91422,AAB095,http://www.sfc.hk/publicregWeb/indi/AAB095/licenceRecord,,,Rep,2017-10-25,
+"Siu, Jimmy Kai Chi 蕭啟智",None,sfclicrec.asp?p=103674,ADF274,http://www.sfc.hk/publicregWeb/indi/ADF274/licenceRecord,,M,RO,2016-06-02,2017-02-01
+"Szeto, Karen Yuk Kit 司徒玉潔",None,sfclicrec.asp?p=91429,ABE390,http://www.sfc.hk/publicregWeb/indi/ABE390/licenceRecord,,F,Rep,2017-10-04,
+"Yip, Ho Pak 葉浩柏",None,sfclicrec.asp?p=2458870,BFU720,http://www.sfc.hk/publicregWeb/indi/BFU720/licenceRecord,,,Rep,2019-10-10,2019-10-25
+"Yip, Ho Pak 葉浩柏",None,sfclicrec.asp?p=2458870,BFU720,http://www.sfc.hk/publicregWeb/indi/BFU720/licenceRecord,,,RO,2019-10-25,
+"Zhang, Qingyan 章晴雁",None,sfclicrec.asp?p=20880838,BNG961,http://www.sfc.hk/publicregWeb/indi/BNG961/licenceRecord,,,Rep,2018-07-26,2019-01-01

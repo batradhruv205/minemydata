@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bo, Shuk Chee 布淑芝",sfclicrec.asp?p=99644,,,RO,2014-01-02,2015-07-31
-"Cheng, Chun Ching 鄭俊清",sfclicrec.asp?p=83537,,,RO,2016-05-10,2018-09-30
-"Fu, Chak 傅澤",sfclicrec.asp?p=9076916,,,Rep,2017-04-28,2017-07-12
-"Gao, Qiao 高俏",sfclicrec.asp?p=12108006,,,Rep,2017-10-12,
-"Hui, Stanely 許業成",sfclicrec.asp?p=7148558,,M,Rep,2017-04-10,
-"Hung, Iris Mei Ha 孔美霞",sfclicrec.asp?p=75392,,F,RO,2015-08-04,2016-05-01
-"Kwan, Keith Kin Man 關建文",sfclicrec.asp?p=2282465,32,M,Rep,2016-09-12,2018-01-17
-"Lee, Pui Yee (SFC:BJZ506) 李佩儀",sfclicrec.asp?p=18458203,,,Rep,2018-07-04,2018-09-10
-"Lee, Pui Yee (SFC:BJZ506) 李佩儀",sfclicrec.asp?p=18458203,,,RO,2018-09-10,
-"Mai, Yingqi 麥穎琪",sfclicrec.asp?p=10629128,,,Rep,2017-05-19,
-"Ng, Wang To (SFC:ADH937) 吳宏圖",sfclicrec.asp?p=91343,52,M,RO,2016-04-20,
-"Wong, Chi Tai 黃志泰",sfclicrec.asp?p=114111,,,RO,2014-01-02,2016-04-24
-"Zhang, Yi Jie 张以杰",sfclicrec.asp?p=22014972,,,Rep,2018-08-15,2018-12-07
-"Zhang, Yi Jie 张以杰",sfclicrec.asp?p=22014972,,,RO,2018-12-07,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bo, Shuk Chee 布淑芝",None,sfclicrec.asp?p=99644,ACN969,http://www.sfc.hk/publicregWeb/indi/ACN969/licenceRecord,,,RO,2014-01-02,2015-07-31
+"Cheng, Chun Ching 鄭俊清",None,sfclicrec.asp?p=83537,AVH393,http://www.sfc.hk/publicregWeb/indi/AVH393/licenceRecord,,,RO,2016-05-10,2018-09-30
+"Fu, Chak 傅澤",None,sfclicrec.asp?p=9076916,BJL314,http://www.sfc.hk/publicregWeb/indi/BJL314/licenceRecord,,,Rep,2017-04-28,2017-07-12
+"Gao, Qiao 高俏",None,sfclicrec.asp?p=12108006,BLC830,http://www.sfc.hk/publicregWeb/indi/BLC830/licenceRecord,,,Rep,2017-10-12,
+"Hui, Stanely 許業成",None,sfclicrec.asp?p=7148558,BJH981,http://www.sfc.hk/publicregWeb/indi/BJH981/licenceRecord,,M,Rep,2017-04-10,
+"Hung, Iris Mei Ha 孔美霞",None,sfclicrec.asp?p=75392,AEC989,http://www.sfc.hk/publicregWeb/indi/AEC989/licenceRecord,,F,RO,2015-08-04,2016-05-01
+"Kwan, Keith Kin Man 關建文",None,sfclicrec.asp?p=2282465,BDL724,http://www.sfc.hk/publicregWeb/indi/BDL724/licenceRecord,32.0,M,Rep,2016-09-12,2018-01-17
+"Lee, Pui Yee (SFC:BJZ506) 李佩儀",None,sfclicrec.asp?p=18458203,BJZ506,http://www.sfc.hk/publicregWeb/indi/BJZ506/licenceRecord,,,Rep,2018-07-04,2018-09-10
+"Lee, Pui Yee (SFC:BJZ506) 李佩儀",None,sfclicrec.asp?p=18458203,BJZ506,http://www.sfc.hk/publicregWeb/indi/BJZ506/licenceRecord,,,RO,2018-09-10,
+"Mai, Yingqi 麥穎琪",None,sfclicrec.asp?p=10629128,BJN547,http://www.sfc.hk/publicregWeb/indi/BJN547/licenceRecord,,,Rep,2017-05-19,
+"Ng, Wang To (SFC:ADH937) 吳宏圖",None,sfclicrec.asp?p=91343,ADH937,http://www.sfc.hk/publicregWeb/indi/ADH937/licenceRecord,52.0,M,RO,2016-04-20,
+"Wong, Chi Tai 黃志泰",None,sfclicrec.asp?p=114111,AKX258,http://www.sfc.hk/publicregWeb/indi/AKX258/licenceRecord,,,RO,2014-01-02,2016-04-24
+"Zhang, Yi Jie 张以杰",None,sfclicrec.asp?p=22014972,BNF430,http://www.sfc.hk/publicregWeb/indi/BNF430/licenceRecord,,,Rep,2018-08-15,2018-12-07
+"Zhang, Yi Jie 张以杰",None,sfclicrec.asp?p=22014972,BNF430,http://www.sfc.hk/publicregWeb/indi/BNF430/licenceRecord,,,RO,2018-12-07,

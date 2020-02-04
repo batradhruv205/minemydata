@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Kwong Wai (SFC:AAC828) 張廣偉",sfclicrec.asp?p=100830,,,Rep,,2010-05-01
-"Chong, Kam Muk 莊金木",sfclicrec.asp?p=100833,,,RO,,
-"Chong, Sau Chu 莊秀珠",sfclicrec.asp?p=100827,,,Rep,,
-"Chuang, Hsi Chih 莊細只",sfclicrec.asp?p=100831,,,RO,,
-"Oi, Alan Fung Ling 柯烽翎",sfclicrec.asp?p=127478,,M,Rep,2009-01-21,2018-04-20
-"Oi, Alan Fung Ling 柯烽翎",sfclicrec.asp?p=127478,,M,RO,2018-04-20,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Kwong Wai (SFC:AAC828) 張廣偉",None,sfclicrec.asp?p=100830,AAC828,http://www.sfc.hk/publicregWeb/indi/AAC828/licenceRecord,,,Rep,,2010-05-01
+"Chong, Kam Muk 莊金木",None,sfclicrec.asp?p=100833,AAC836,http://www.sfc.hk/publicregWeb/indi/AAC836/licenceRecord,,,RO,,
+"Chong, Sau Chu 莊秀珠",None,sfclicrec.asp?p=100827,AAC814,http://www.sfc.hk/publicregWeb/indi/AAC814/licenceRecord,,,Rep,,
+"Chuang, Hsi Chih 莊細只",None,sfclicrec.asp?p=100831,AAC830,http://www.sfc.hk/publicregWeb/indi/AAC830/licenceRecord,,,RO,,
+"Oi, Alan Fung Ling 柯烽翎",None,sfclicrec.asp?p=127478,ASH961,http://www.sfc.hk/publicregWeb/indi/ASH961/licenceRecord,,M,Rep,2009-01-21,2018-04-20
+"Oi, Alan Fung Ling 柯烽翎",None,sfclicrec.asp?p=127478,ASH961,http://www.sfc.hk/publicregWeb/indi/ASH961/licenceRecord,,M,RO,2018-04-20,

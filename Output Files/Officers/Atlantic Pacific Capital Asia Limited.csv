@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Li, Chang (SFC:BGP595) 李暢",sfclicrec.asp?p=2519062,,,Rep,2015-12-28,
-"Manley, James E ",sfclicrec.asp?p=126486,,M,RO,2008-11-14,
-"Ng, Vincent Wing Chung 伍穎聰",sfclicrec.asp?p=120099,41,M,RO,2008-11-14,
-"Wan, Charles Bradley 尹澤淳",sfclicrec.asp?p=125689,,M,Rep,2013-09-17,
-"Ye, Tong Hee ",sfclicrec.asp?p=22524832,,,Rep,2018-12-07,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Li, Chang (SFC:BGP595) 李暢",None,sfclicrec.asp?p=2519062,BGP595,http://www.sfc.hk/publicregWeb/indi/BGP595/licenceRecord,,,Rep,2015-12-28,
+"Manley, James E ",None,sfclicrec.asp?p=126486,ARN802,http://www.sfc.hk/publicregWeb/indi/ARN802/licenceRecord,,M,RO,2008-11-14,
+"Ng, Vincent Wing Chung 伍穎聰",None,sfclicrec.asp?p=120099,AOE221,http://www.sfc.hk/publicregWeb/indi/AOE221/licenceRecord,41.0,M,RO,2008-11-14,
+"Wan, Charles Bradley 尹澤淳",None,sfclicrec.asp?p=125689,ARE664,http://www.sfc.hk/publicregWeb/indi/ARE664/licenceRecord,,M,Rep,2013-09-17,
+"Ye, Tong Hee ",None,sfclicrec.asp?p=22524832,BNV865,http://www.sfc.hk/publicregWeb/indi/BNV865/licenceRecord,,,Rep,2018-12-07,

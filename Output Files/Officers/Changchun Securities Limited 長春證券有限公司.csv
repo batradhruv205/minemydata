@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chui, Tat Fai 徐達輝",sfclicrec.asp?p=110028,,,RO,2018-06-11,
-"Dong, Xuqing 董徐晴",sfclicrec.asp?p=22246037,,,Rep,2018-10-10,
-"Gu, Erdong 顧爾東",sfclicrec.asp?p=1916641,,,RO,2018-06-11,2019-04-30
-"Lu, Shuai (SFC:BNO894) 盧帥",sfclicrec.asp?p=22348501,,,Rep,2018-10-24,
-"Wang, Chen (SFC:BLX771) 王晨",sfclicrec.asp?p=17138118,,,RO,2018-06-11,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chui, Tat Fai 徐達輝",None,sfclicrec.asp?p=110028,AGO748,http://www.sfc.hk/publicregWeb/indi/AGO748/licenceRecord,,,RO,2018-06-11,
+"Dong, Xuqing 董徐晴",None,sfclicrec.asp?p=22246037,BNK123,http://www.sfc.hk/publicregWeb/indi/BNK123/licenceRecord,,,Rep,2018-10-10,
+"Gu, Erdong 顧爾東",None,sfclicrec.asp?p=1916641,AZT025,http://www.sfc.hk/publicregWeb/indi/AZT025/licenceRecord,,,RO,2018-06-11,2019-04-30
+"Lu, Shuai (SFC:BNO894) 盧帥",None,sfclicrec.asp?p=22348501,BNO894,http://www.sfc.hk/publicregWeb/indi/BNO894/licenceRecord,,,Rep,2018-10-24,
+"Wang, Chen (SFC:BLX771) 王晨",None,sfclicrec.asp?p=17138118,BLX771,http://www.sfc.hk/publicregWeb/indi/BLX771/licenceRecord,,,RO,2018-06-11,

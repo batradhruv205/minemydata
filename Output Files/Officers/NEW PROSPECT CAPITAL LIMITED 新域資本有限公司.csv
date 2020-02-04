@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lai, Pei-Chun 賴佩君",sfclicrec.asp?p=89167,,F,Rep,2018-07-06,
-"Lim, Sen Ming ",sfclicrec.asp?p=81081,,,RO,2017-11-29,2018-06-01
-"Tu, Yu-hui 凃玉慧",sfclicrec.asp?p=77743,,,RO,2018-05-24,
-"Wang, Hui (SFC:BJU212) 王暉",sfclicrec.asp?p=12610456,,,RO,2017-11-29,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lai, Pei-Chun 賴佩君",None,sfclicrec.asp?p=89167,ARO383,http://www.sfc.hk/publicregWeb/indi/ARO383/licenceRecord,,F,Rep,2018-07-06,
+"Lim, Sen Ming ",None,sfclicrec.asp?p=81081,ATC356,http://www.sfc.hk/publicregWeb/indi/ATC356/licenceRecord,,,RO,2017-11-29,2018-06-01
+"Tu, Yu-hui 凃玉慧",None,sfclicrec.asp?p=77743,AEA467,http://www.sfc.hk/publicregWeb/indi/AEA467/licenceRecord,,,RO,2018-05-24,
+"Wang, Hui (SFC:BJU212) 王暉",None,sfclicrec.asp?p=12610456,BJU212,http://www.sfc.hk/publicregWeb/indi/BJU212/licenceRecord,,,RO,2017-11-29,

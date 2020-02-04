@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chang, Yan Wing 張潤榮",sfclicrec.asp?p=82696,,,RO,2018-03-19,
-"Cheung, Chun Fai (SFC:AQD310) 張振輝",sfclicrec.asp?p=91270,,,Rep,2019-07-03,
-"He, Fan (SFC:BOU608) 何帆",sfclicrec.asp?p=23724471,,,Rep,2019-09-30,2019-10-31
-"Huang, Hexiao 黄河啸",sfclicrec.asp?p=12633220,,,Rep,2018-10-29,
-"Leung, Kim Hong 梁劍康",sfclicrec.asp?p=95879,40,M,Rep,2018-07-12,
-"Li, Xiaoyan (SFC:BIB928) 李晓琰",sfclicrec.asp?p=2627441,,,Rep,2018-05-15,
-"Ng, Howard Ho Yuen 伍浩源",sfclicrec.asp?p=63947,,M,RO,2018-03-19,
-"Wu, Jiajun 吳家俊",sfclicrec.asp?p=22217351,,,Rep,2018-09-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chang, Yan Wing 張潤榮",None,sfclicrec.asp?p=82696,ADX897,http://www.sfc.hk/publicregWeb/indi/ADX897/licenceRecord,,,RO,2018-03-19,
+"Cheung, Chun Fai (SFC:AQD310) 張振輝",None,sfclicrec.asp?p=91270,AQD310,http://www.sfc.hk/publicregWeb/indi/AQD310/licenceRecord,,,Rep,2019-07-03,
+"He, Fan (SFC:BOU608) 何帆",None,sfclicrec.asp?p=23724471,BOU608,http://www.sfc.hk/publicregWeb/indi/BOU608/licenceRecord,,,Rep,2019-09-30,2019-10-31
+"Huang, Hexiao 黄河啸",None,sfclicrec.asp?p=12633220,BLS753,http://www.sfc.hk/publicregWeb/indi/BLS753/licenceRecord,,,Rep,2018-10-29,
+"Leung, Kim Hong 梁劍康",None,sfclicrec.asp?p=95879,APB996,http://www.sfc.hk/publicregWeb/indi/APB996/licenceRecord,40.0,M,Rep,2018-07-12,
+"Li, Xiaoyan (SFC:BIB928) 李晓琰",None,sfclicrec.asp?p=2627441,BIB928,http://www.sfc.hk/publicregWeb/indi/BIB928/licenceRecord,,,Rep,2018-05-15,
+"Ng, Howard Ho Yuen 伍浩源",None,sfclicrec.asp?p=63947,AEZ250,http://www.sfc.hk/publicregWeb/indi/AEZ250/licenceRecord,,M,RO,2018-03-19,
+"Wu, Jiajun 吳家俊",None,sfclicrec.asp?p=22217351,BMQ963,http://www.sfc.hk/publicregWeb/indi/BMQ963/licenceRecord,,,Rep,2018-09-24,

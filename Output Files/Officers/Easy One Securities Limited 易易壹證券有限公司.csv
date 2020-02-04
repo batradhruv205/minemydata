@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Alex Chi Hung 陳志雄",sfclicrec.asp?p=16008,,M,RO,2016-08-31,2017-07-31
-"Cheung, Yu Foon 張儒歡",sfclicrec.asp?p=85390,,,Rep,2018-01-04,2018-04-17
-"Cheung, Yu Foon 張儒歡",sfclicrec.asp?p=85390,,,RO,2018-04-17,
-"Choi, Coey Ho Yin 蔡可然",sfclicrec.asp?p=2579082,,,Rep,2016-12-19,
-"Choy, Yau Fai 蔡佑徽",sfclicrec.asp?p=92983,,,RO,2016-08-31,
-"Ho, Yui 何銳",sfclicrec.asp?p=128240,,,Rep,2019-12-23,2020-01-16
-"Ho, Yui 何銳",sfclicrec.asp?p=128240,,,RO,2020-01-16,
-"Leung, Ausca Wai Lan 梁惠蘭",sfclicrec.asp?p=81664,,,Rep,2017-09-11,2017-11-10
-"Leung, Ausca Wai Lan 梁惠蘭",sfclicrec.asp?p=81664,,,RO,2017-11-10,
-"Leung, Kwok Fai 梁國輝",sfclicrec.asp?p=2676110,,,Rep,2016-12-23,2018-03-26
-"Poon, Wing Man 潘詠雯",sfclicrec.asp?p=71633,,,Rep,2019-08-01,2019-09-06
-"U, Pou Keong 余寶強",sfclicrec.asp?p=96215,,,Rep,2018-09-03,
-"Wong, Mei Ning 黃美寧",sfclicrec.asp?p=71918,,,Rep,2018-09-14,2019-06-10
-"Yip, Kai Pong 葉啟邦",sfclicrec.asp?p=128200,,M,Rep,2017-01-17,2017-03-17
-"Yip, Kai Pong 葉啟邦",sfclicrec.asp?p=128200,,M,RO,2017-03-17,
-"Yu, Peter Yat Ming 余日明",sfclicrec.asp?p=94710,,M,Rep,2017-01-18,2017-03-13
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Alex Chi Hung 陳志雄",None,sfclicrec.asp?p=16008,AAB402,http://www.sfc.hk/publicregWeb/indi/AAB402/licenceRecord,,M,RO,2016-08-31,2017-07-31
+"Cheung, Yu Foon 張儒歡",None,sfclicrec.asp?p=85390,ABR632,http://www.sfc.hk/publicregWeb/indi/ABR632/licenceRecord,,,Rep,2018-01-04,2018-04-17
+"Cheung, Yu Foon 張儒歡",None,sfclicrec.asp?p=85390,ABR632,http://www.sfc.hk/publicregWeb/indi/ABR632/licenceRecord,,,RO,2018-04-17,
+"Choi, Coey Ho Yin 蔡可然",None,sfclicrec.asp?p=2579082,BHL667,http://www.sfc.hk/publicregWeb/indi/BHL667/licenceRecord,,,Rep,2016-12-19,
+"Choy, Yau Fai 蔡佑徽",None,sfclicrec.asp?p=92983,AQQ237,http://www.sfc.hk/publicregWeb/indi/AQQ237/licenceRecord,,,RO,2016-08-31,
+"Ho, Yui 何銳",None,sfclicrec.asp?p=128240,ATI748,http://www.sfc.hk/publicregWeb/indi/ATI748/licenceRecord,,,Rep,2019-12-23,2020-01-16
+"Ho, Yui 何銳",None,sfclicrec.asp?p=128240,ATI748,http://www.sfc.hk/publicregWeb/indi/ATI748/licenceRecord,,,RO,2020-01-16,
+"Leung, Ausca Wai Lan 梁惠蘭",None,sfclicrec.asp?p=81664,AMF450,http://www.sfc.hk/publicregWeb/indi/AMF450/licenceRecord,,,Rep,2017-09-11,2017-11-10
+"Leung, Ausca Wai Lan 梁惠蘭",None,sfclicrec.asp?p=81664,AMF450,http://www.sfc.hk/publicregWeb/indi/AMF450/licenceRecord,,,RO,2017-11-10,
+"Leung, Kwok Fai 梁國輝",None,sfclicrec.asp?p=2676110,BIQ782,http://www.sfc.hk/publicregWeb/indi/BIQ782/licenceRecord,,,Rep,2016-12-23,2018-03-26
+"Poon, Wing Man 潘詠雯",None,sfclicrec.asp?p=71633,ARC143,http://www.sfc.hk/publicregWeb/indi/ARC143/licenceRecord,,,Rep,2019-08-01,2019-09-06
+"U, Pou Keong 余寶強",None,sfclicrec.asp?p=96215,AWY617,http://www.sfc.hk/publicregWeb/indi/AWY617/licenceRecord,,,Rep,2018-09-03,
+"Wong, Mei Ning 黃美寧",None,sfclicrec.asp?p=71918,AXJ864,http://www.sfc.hk/publicregWeb/indi/AXJ864/licenceRecord,,,Rep,2018-09-14,2019-06-10
+"Yip, Kai Pong 葉啟邦",None,sfclicrec.asp?p=128200,ATH923,http://www.sfc.hk/publicregWeb/indi/ATH923/licenceRecord,,M,Rep,2017-01-17,2017-03-17
+"Yip, Kai Pong 葉啟邦",None,sfclicrec.asp?p=128200,ATH923,http://www.sfc.hk/publicregWeb/indi/ATH923/licenceRecord,,M,RO,2017-03-17,
+"Yu, Peter Yat Ming 余日明",None,sfclicrec.asp?p=94710,ABR455,http://www.sfc.hk/publicregWeb/indi/ABR455/licenceRecord,,M,Rep,2017-01-18,2017-03-13

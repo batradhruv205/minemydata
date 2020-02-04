@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Ricky Kai Ming 陳啟明",sfclicrec.asp?p=81945,,M,RO,2019-12-12,
-"Choi, Sheung Hang 蔡尚衡",sfclicrec.asp?p=129232,,,RO,2018-02-13,2018-08-24
-"Lau, Tse Fung 劉子峯",sfclicrec.asp?p=101515,,,RO,2019-07-16,
-"Ma, Jingjing 馬晶晶",sfclicrec.asp?p=1957432,,,RO,2018-10-24,2019-04-12
-"Tso, Alan Siu Lun 曹肇棆",sfclicrec.asp?p=120223,37,M,Rep,2019-09-30,2019-11-01
-"Tso, Alan Siu Lun 曹肇棆",sfclicrec.asp?p=120223,37,M,RO,2019-11-01,
-"Yao, Patterson Kuo Yi 姚國儀",sfclicrec.asp?p=2496385,,,RO,2018-02-13,2019-06-01
-"Yip, Chung Hang Sunny 葉仲衡",sfclicrec.asp?p=22588773,,,Rep,2018-12-27,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Ricky Kai Ming 陳啟明",None,sfclicrec.asp?p=81945,AOU629,http://www.sfc.hk/publicregWeb/indi/AOU629/licenceRecord,,M,RO,2019-12-12,
+"Choi, Sheung Hang 蔡尚衡",None,sfclicrec.asp?p=129232,AUP568,http://www.sfc.hk/publicregWeb/indi/AUP568/licenceRecord,,,RO,2018-02-13,2018-08-24
+"Lau, Tse Fung 劉子峯",None,sfclicrec.asp?p=101515,AAJ835,http://www.sfc.hk/publicregWeb/indi/AAJ835/licenceRecord,,,RO,2019-07-16,
+"Ma, Jingjing 馬晶晶",None,sfclicrec.asp?p=1957432,BAF630,http://www.sfc.hk/publicregWeb/indi/BAF630/licenceRecord,,,RO,2018-10-24,2019-04-12
+"Tso, Alan Siu Lun 曹肇棆",None,sfclicrec.asp?p=120223,AOG305,http://www.sfc.hk/publicregWeb/indi/AOG305/licenceRecord,37.0,M,Rep,2019-09-30,2019-11-01
+"Tso, Alan Siu Lun 曹肇棆",None,sfclicrec.asp?p=120223,AOG305,http://www.sfc.hk/publicregWeb/indi/AOG305/licenceRecord,37.0,M,RO,2019-11-01,
+"Yao, Patterson Kuo Yi 姚國儀",None,sfclicrec.asp?p=2496385,AAH645,http://www.sfc.hk/publicregWeb/indi/AAH645/licenceRecord,,,RO,2018-02-13,2019-06-01
+"Yip, Chung Hang Sunny 葉仲衡",None,sfclicrec.asp?p=22588773,BNN487,http://www.sfc.hk/publicregWeb/indi/BNN487/licenceRecord,,,Rep,2018-12-27,

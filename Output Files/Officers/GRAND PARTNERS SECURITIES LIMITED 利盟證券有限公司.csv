@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Pat Wing 陳弼榮",sfclicrec.asp?p=91032,,,Rep,2019-03-12,2019-07-22
-"Chan, Pat Wing 陳弼榮",sfclicrec.asp?p=91032,,,RO,2019-07-22,
-"Cheung, Wing Keung (SFC:AXC714) 張永強",sfclicrec.asp?p=73161,,,Rep,2019-12-27,
-"Ho, May Yuen May 何婉薇",sfclicrec.asp?p=67837,,F,RO,2016-12-29,2017-06-24
-"Im, Stephen Kai Chuen 嚴啟銓",sfclicrec.asp?p=46940,48,M,Rep,2018-10-08,
-"Keung, Kam Chuen 姜錦全",sfclicrec.asp?p=100306,,,RO,2016-12-29,
-"Lee, Ka Him 李家謙",sfclicrec.asp?p=73253,,,RO,2019-12-24,
-"Tam, Arthur Kin Man 譚建文",sfclicrec.asp?p=85937,,M,RO,2017-06-29,
-"Tsoi, Derek Kang Wong 蔡耿煌",sfclicrec.asp?p=24036871,,M,Rep,2019-12-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Pat Wing 陳弼榮",None,sfclicrec.asp?p=91032,AAV784,http://www.sfc.hk/publicregWeb/indi/AAV784/licenceRecord,,,Rep,2019-03-12,2019-07-22
+"Chan, Pat Wing 陳弼榮",None,sfclicrec.asp?p=91032,AAV784,http://www.sfc.hk/publicregWeb/indi/AAV784/licenceRecord,,,RO,2019-07-22,
+"Cheung, Wing Keung (SFC:AXC714) 張永強",None,sfclicrec.asp?p=73161,AXC714,http://www.sfc.hk/publicregWeb/indi/AXC714/licenceRecord,,,Rep,2019-12-27,
+"Ho, May Yuen May 何婉薇",None,sfclicrec.asp?p=67837,AWD112,http://www.sfc.hk/publicregWeb/indi/AWD112/licenceRecord,,F,RO,2016-12-29,2017-06-24
+"Im, Stephen Kai Chuen 嚴啟銓",None,sfclicrec.asp?p=46940,APC198,http://www.sfc.hk/publicregWeb/indi/APC198/licenceRecord,48.0,M,Rep,2018-10-08,
+"Keung, Kam Chuen 姜錦全",None,sfclicrec.asp?p=100306,AAE998,http://www.sfc.hk/publicregWeb/indi/AAE998/licenceRecord,,,RO,2016-12-29,
+"Lee, Ka Him 李家謙",None,sfclicrec.asp?p=73253,AKV007,http://www.sfc.hk/publicregWeb/indi/AKV007/licenceRecord,,,RO,2019-12-24,
+"Tam, Arthur Kin Man 譚建文",None,sfclicrec.asp?p=85937,ANM878,http://www.sfc.hk/publicregWeb/indi/ANM878/licenceRecord,,M,RO,2017-06-29,
+"Tsoi, Derek Kang Wong 蔡耿煌",None,sfclicrec.asp?p=24036871,BAQ281,http://www.sfc.hk/publicregWeb/indi/BAQ281/licenceRecord,,M,Rep,2019-12-19,

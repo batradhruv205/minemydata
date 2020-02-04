@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Deng, Jun (SFC:APZ630) 鄧駿",sfclicrec.asp?p=73272,,,RO,2019-09-06,
-"Li, Shuqi 李舒琪",sfclicrec.asp?p=23946769,,,Rep,2019-11-25,
-"Su, Ling (SFC:BJN297) 蘇玲",sfclicrec.asp?p=12085917,,,RO,2019-09-06,
-"Zhao, Tao (SFC:AZX096) 趙濤",sfclicrec.asp?p=1929683,,,Rep,2019-11-19,
-"Zou, Liyi 鄒立义",sfclicrec.asp?p=2588276,,,Rep,2019-11-18,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Deng, Jun (SFC:APZ630) 鄧駿",None,sfclicrec.asp?p=73272,APZ630,http://www.sfc.hk/publicregWeb/indi/APZ630/licenceRecord,,,RO,2019-09-06,
+"Li, Shuqi 李舒琪",None,sfclicrec.asp?p=23946769,BPA516,http://www.sfc.hk/publicregWeb/indi/BPA516/licenceRecord,,,Rep,2019-11-25,
+"Su, Ling (SFC:BJN297) 蘇玲",None,sfclicrec.asp?p=12085917,BJN297,http://www.sfc.hk/publicregWeb/indi/BJN297/licenceRecord,,,RO,2019-09-06,
+"Zhao, Tao (SFC:AZX096) 趙濤",None,sfclicrec.asp?p=1929683,AZX096,http://www.sfc.hk/publicregWeb/indi/AZX096/licenceRecord,,,Rep,2019-11-19,
+"Zou, Liyi 鄒立义",None,sfclicrec.asp?p=2588276,BHO982,http://www.sfc.hk/publicregWeb/indi/BHO982/licenceRecord,,,Rep,2019-11-18,

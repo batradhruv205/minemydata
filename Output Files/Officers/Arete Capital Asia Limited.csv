@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lam, David Man Kwong 林文光",sfclicrec.asp?p=80164,,M,Rep,2018-05-10,2018-07-23
-"Leeworthy, Terence Vincent ",sfclicrec.asp?p=2689984,,M,RO,2017-01-20,
-"Luchangco, Charles Ramon ",sfclicrec.asp?p=1926968,,M,RO,2017-01-20,
-"Mao, Yuan-Chieh 毛元杰",sfclicrec.asp?p=1870186,,,Rep,2018-05-02,2018-05-30
-"Mao, Yuan-Chieh 毛元杰",sfclicrec.asp?p=1870186,,,RO,2018-05-30,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lam, David Man Kwong 林文光",None,sfclicrec.asp?p=80164,ADI854,http://www.sfc.hk/publicregWeb/indi/ADI854/licenceRecord,,M,Rep,2018-05-10,2018-07-23
+"Leeworthy, Terence Vincent ",None,sfclicrec.asp?p=2689984,BIJ386,http://www.sfc.hk/publicregWeb/indi/BIJ386/licenceRecord,,M,RO,2017-01-20,
+"Luchangco, Charles Ramon ",None,sfclicrec.asp?p=1926968,ACN576,http://www.sfc.hk/publicregWeb/indi/ACN576/licenceRecord,,M,RO,2017-01-20,
+"Mao, Yuan-Chieh 毛元杰",None,sfclicrec.asp?p=1870186,AZD539,http://www.sfc.hk/publicregWeb/indi/AZD539/licenceRecord,,,Rep,2018-05-02,2018-05-30
+"Mao, Yuan-Chieh 毛元杰",None,sfclicrec.asp?p=1870186,AZD539,http://www.sfc.hk/publicregWeb/indi/AZD539/licenceRecord,,,RO,2018-05-30,

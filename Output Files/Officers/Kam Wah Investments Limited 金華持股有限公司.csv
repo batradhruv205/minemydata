@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Chik Yuen (SFC:AFR911) 陳夕圓",sfclicrec.asp?p=107408,,,Rep,,2014-08-31
-"Li, Ping Wah 李炳華",sfclicrec.asp?p=102206,,,RO,,2004-03-15
-"Li, Ping Wah 李炳華",sfclicrec.asp?p=102206,,,Rep,2004-03-15,2014-08-31
-"Wong, Hoi Shin 黃凱璇",sfclicrec.asp?p=101449,,,Rep,,2014-01-01
-"Yuen, Fat Sun 袁法新",sfclicrec.asp?p=102511,,,RO,,
-"Zee, Warrun Je Men 徐子敏",sfclicrec.asp?p=100985,,,RO,,2014-08-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Chik Yuen (SFC:AFR911) 陳夕圓",None,sfclicrec.asp?p=107408,AFR911,http://www.sfc.hk/publicregWeb/indi/AFR911/licenceRecord,,,Rep,,2014-08-31
+"Li, Ping Wah 李炳華",None,sfclicrec.asp?p=102206,ABP570,http://www.sfc.hk/publicregWeb/indi/ABP570/licenceRecord,,,RO,,2004-03-15
+"Li, Ping Wah 李炳華",None,sfclicrec.asp?p=102206,ABP570,http://www.sfc.hk/publicregWeb/indi/ABP570/licenceRecord,,,Rep,2004-03-15,2014-08-31
+"Wong, Hoi Shin 黃凱璇",None,sfclicrec.asp?p=101449,AAJ137,http://www.sfc.hk/publicregWeb/indi/AAJ137/licenceRecord,,,Rep,,2014-01-01
+"Yuen, Fat Sun 袁法新",None,sfclicrec.asp?p=102511,ABZ932,http://www.sfc.hk/publicregWeb/indi/ABZ932/licenceRecord,,,RO,,
+"Zee, Warrun Je Men 徐子敏",None,sfclicrec.asp?p=100985,AAE222,http://www.sfc.hk/publicregWeb/indi/AAE222/licenceRecord,,,RO,,2014-08-31

@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chou, Hui Chen 周慧珍",sfclicrec.asp?p=53665,55,F,RO,2016-10-04,
-"Lei, Zhongren 雷忠仁",sfclicrec.asp?p=97849,,,RO,2016-10-04,2019-04-28
-"Yam, Kam Shing 任錦成",sfclicrec.asp?p=51591,,,RO,2019-08-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chou, Hui Chen 周慧珍",None,sfclicrec.asp?p=53665,AKO712,http://www.sfc.hk/publicregWeb/indi/AKO712/licenceRecord,55.0,F,RO,2016-10-04,
+"Lei, Zhongren 雷忠仁",None,sfclicrec.asp?p=97849,ASS916,http://www.sfc.hk/publicregWeb/indi/ASS916/licenceRecord,,,RO,2016-10-04,2019-04-28
+"Yam, Kam Shing 任錦成",None,sfclicrec.asp?p=51591,AGE094,http://www.sfc.hk/publicregWeb/indi/AGE094/licenceRecord,,,RO,2019-08-19,

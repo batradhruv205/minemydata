@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ching, Andy Seih Hong 程燮康",sfclicrec.asp?p=103328,,,RO,2011-10-25,
-"Ho, Siu Lam 何兆霖",sfclicrec.asp?p=2383977,,,Rep,2015-02-12,
-"Hu, Yi Ding 胡以定",sfclicrec.asp?p=102613,,,RO,2011-10-25,2012-08-07
-"Hu, Yi Ding 胡以定",sfclicrec.asp?p=102613,,,RO,2013-09-13,2017-09-14
-"Liu, Tai Yum 廖大任",sfclicrec.asp?p=86362,,,RO,2016-08-09,
-"Pang, Shun Tak Borody 彭順德",sfclicrec.asp?p=18750055,,,Rep,2018-07-06,
-"Tse, Wai Lin 謝威廉",sfclicrec.asp?p=2132130,,,Rep,2013-09-13,2017-09-14
-"Wong, Kok Fai 黃國輝",sfclicrec.asp?p=114527,,,RO,2012-08-06,2013-09-25
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ching, Andy Seih Hong 程燮康",None,sfclicrec.asp?p=103328,ACT591,http://www.sfc.hk/publicregWeb/indi/ACT591/licenceRecord,,,RO,2011-10-25,
+"Ho, Siu Lam 何兆霖",None,sfclicrec.asp?p=2383977,BEZ475,http://www.sfc.hk/publicregWeb/indi/BEZ475/licenceRecord,,,Rep,2015-02-12,
+"Hu, Yi Ding 胡以定",None,sfclicrec.asp?p=102613,ACC228,http://www.sfc.hk/publicregWeb/indi/ACC228/licenceRecord,,,RO,2011-10-25,2012-08-07
+"Hu, Yi Ding 胡以定",None,sfclicrec.asp?p=102613,ACC228,http://www.sfc.hk/publicregWeb/indi/ACC228/licenceRecord,,,RO,2013-09-13,2017-09-14
+"Liu, Tai Yum 廖大任",None,sfclicrec.asp?p=86362,ACP059,http://www.sfc.hk/publicregWeb/indi/ACP059/licenceRecord,,,RO,2016-08-09,
+"Pang, Shun Tak Borody 彭順德",None,sfclicrec.asp?p=18750055,BIT755,http://www.sfc.hk/publicregWeb/indi/BIT755/licenceRecord,,,Rep,2018-07-06,
+"Tse, Wai Lin 謝威廉",None,sfclicrec.asp?p=2132130,AXN012,http://www.sfc.hk/publicregWeb/indi/AXN012/licenceRecord,,,Rep,2013-09-13,2017-09-14
+"Wong, Kok Fai 黃國輝",None,sfclicrec.asp?p=114527,ALG045,http://www.sfc.hk/publicregWeb/indi/ALG045/licenceRecord,,,RO,2012-08-06,2013-09-25

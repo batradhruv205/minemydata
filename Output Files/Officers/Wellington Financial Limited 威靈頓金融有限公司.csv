@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chow, Mai 周邁",sfclicrec.asp?p=84532,,,Rep,2017-09-20,
-"Lai, King Man (SFC:ABX825) 黎景文",sfclicrec.asp?p=84528,,,RO,2017-03-08,
-"Li, Cheuk Tat 李卓達",sfclicrec.asp?p=11263441,,,Rep,2017-05-31,2019-06-30
-"Man, Lai Sun 文黎新",sfclicrec.asp?p=84537,,,Rep,2017-06-08,
-"Wong, Kin Sun (SFC:APA699) 黃健燊",sfclicrec.asp?p=84527,,,RO,2017-03-08,
-"Yan, Wing Tung (SFC:BJR816) 任詠彤",sfclicrec.asp?p=11732710,,,Rep,2018-05-02,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chow, Mai 周邁",None,sfclicrec.asp?p=84532,AFT456,http://www.sfc.hk/publicregWeb/indi/AFT456/licenceRecord,,,Rep,2017-09-20,
+"Lai, King Man (SFC:ABX825) 黎景文",None,sfclicrec.asp?p=84528,ABX825,http://www.sfc.hk/publicregWeb/indi/ABX825/licenceRecord,,,RO,2017-03-08,
+"Li, Cheuk Tat 李卓達",None,sfclicrec.asp?p=11263441,BJK554,http://www.sfc.hk/publicregWeb/indi/BJK554/licenceRecord,,,Rep,2017-05-31,2019-06-30
+"Man, Lai Sun 文黎新",None,sfclicrec.asp?p=84537,AJE796,http://www.sfc.hk/publicregWeb/indi/AJE796/licenceRecord,,,Rep,2017-06-08,
+"Wong, Kin Sun (SFC:APA699) 黃健燊",None,sfclicrec.asp?p=84527,APA699,http://www.sfc.hk/publicregWeb/indi/APA699/licenceRecord,,,RO,2017-03-08,
+"Yan, Wing Tung (SFC:BJR816) 任詠彤",None,sfclicrec.asp?p=11732710,BJR816,http://www.sfc.hk/publicregWeb/indi/BJR816/licenceRecord,,,Rep,2018-05-02,

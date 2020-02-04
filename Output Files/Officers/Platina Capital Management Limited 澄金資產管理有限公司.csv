@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cui, Yuting (SFC:BHV550) 崔宇婷",sfclicrec.asp?p=2622672,,,Rep,2019-10-17,
-"Fang, Weiwei 方微微",sfclicrec.asp?p=12827715,,,Rep,2019-12-23,
-"Hu, Carol 胡家鎏",sfclicrec.asp?p=92639,,F,RO,2016-06-20,2019-09-15
-"Hu, Dongmin 胡東民",sfclicrec.asp?p=92640,,,RO,2016-06-20,
-"Liu, Xucheng 劉旭城",sfclicrec.asp?p=2499450,,,Rep,2017-02-24,2019-04-30
-"Ng, Chi Fung (SFC:BMH483) 吳子楓",sfclicrec.asp?p=12838482,,,Rep,2018-03-09,2019-02-01
-"Yang, Zhuangrui 楊壯銳",sfclicrec.asp?p=81656,,,Rep,2016-08-02,2019-09-13
-"Yang, Zhuangrui 楊壯銳",sfclicrec.asp?p=81656,,,RO,2019-09-13,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cui, Yuting (SFC:BHV550) 崔宇婷",None,sfclicrec.asp?p=2622672,BHV550,http://www.sfc.hk/publicregWeb/indi/BHV550/licenceRecord,,,Rep,2019-10-17,
+"Fang, Weiwei 方微微",None,sfclicrec.asp?p=12827715,BML869,http://www.sfc.hk/publicregWeb/indi/BML869/licenceRecord,,,Rep,2019-12-23,
+"Hu, Carol 胡家鎏",None,sfclicrec.asp?p=92639,AWD991,http://www.sfc.hk/publicregWeb/indi/AWD991/licenceRecord,,F,RO,2016-06-20,2019-09-15
+"Hu, Dongmin 胡東民",None,sfclicrec.asp?p=92640,AXS379,http://www.sfc.hk/publicregWeb/indi/AXS379/licenceRecord,,,RO,2016-06-20,
+"Liu, Xucheng 劉旭城",None,sfclicrec.asp?p=2499450,BGI072,http://www.sfc.hk/publicregWeb/indi/BGI072/licenceRecord,,,Rep,2017-02-24,2019-04-30
+"Ng, Chi Fung (SFC:BMH483) 吳子楓",None,sfclicrec.asp?p=12838482,BMH483,http://www.sfc.hk/publicregWeb/indi/BMH483/licenceRecord,,,Rep,2018-03-09,2019-02-01
+"Yang, Zhuangrui 楊壯銳",None,sfclicrec.asp?p=81656,AVG750,http://www.sfc.hk/publicregWeb/indi/AVG750/licenceRecord,,,Rep,2016-08-02,2019-09-13
+"Yang, Zhuangrui 楊壯銳",None,sfclicrec.asp?p=81656,AVG750,http://www.sfc.hk/publicregWeb/indi/AVG750/licenceRecord,,,RO,2019-09-13,

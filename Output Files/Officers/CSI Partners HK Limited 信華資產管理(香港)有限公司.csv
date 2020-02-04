@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"He, Diana Liu ",sfclicrec.asp?p=2300403,54,F,Rep,2018-06-05,2018-08-21
-"Kao, David Sheue-Song 高雪松",sfclicrec.asp?p=2586788,,M,Rep,2015-12-11,2017-03-24
-"Kao, David Sheue-Song 高雪松",sfclicrec.asp?p=2586788,,M,RO,2017-03-24,2018-05-01
-"Qian, Haochen 錢灝宸",sfclicrec.asp?p=23347245,,,Rep,2019-06-25,
-"Shen, Gujing 沈谷菁",sfclicrec.asp?p=2586789,,,Rep,2016-04-12,
-"Tan, Mi 譚米",sfclicrec.asp?p=2610514,,,Rep,2016-07-25,2016-08-19
-"Xie, Yi (SFC:BFZ396) 謝懿",sfclicrec.asp?p=2460747,34,F,Rep,2018-09-20,
-"Yang, Anbang 楊安邦",sfclicrec.asp?p=13908536,,,Rep,2018-04-17,2019-07-30
-"Yang, Yihua 楊一華",sfclicrec.asp?p=2586786,,,RO,2015-11-06,2019-12-31
-"Yue, Xiaowei 岳效巍",sfclicrec.asp?p=77675,,,Rep,2016-06-01,2019-04-01
-"Zhang, Hongyi (SFC:BIZ596) 張弘毅",sfclicrec.asp?p=2696070,,,Rep,2017-02-14,
-"Zhao, Rui (SFC:BFX655) 趙瑞",sfclicrec.asp?p=2586787,,,RO,2015-11-06,2019-12-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"He, Diana Liu ",None,sfclicrec.asp?p=2300403,BEW504,http://www.sfc.hk/publicregWeb/indi/BEW504/licenceRecord,54.0,F,Rep,6/5/2018,8/21/2018
+"Kao, David Sheue-Song 高雪松",None,sfclicrec.asp?p=2586788,BGQ852,http://www.sfc.hk/publicregWeb/indi/BGQ852/licenceRecord,,M,Rep,12/11/2015,3/24/2017
+"Kao, David Sheue-Song 高雪松",None,sfclicrec.asp?p=2586788,BGQ852,http://www.sfc.hk/publicregWeb/indi/BGQ852/licenceRecord,,M,RO,3/24/2017,5/1/2018
+"Qian, Haochen 錢灝宸",None,sfclicrec.asp?p=23347245,BOM673,http://www.sfc.hk/publicregWeb/indi/BOM673/licenceRecord,,,Rep,6/25/2019,
+"Shen, Gujing 沈谷菁",None,sfclicrec.asp?p=2586789,BHH475,http://www.sfc.hk/publicregWeb/indi/BHH475/licenceRecord,,,Rep,4/12/2016,
+"Tan, Mi 譚米",None,sfclicrec.asp?p=2610514,BHW841,http://www.sfc.hk/publicregWeb/indi/BHW841/licenceRecord,,,Rep,7/25/2016,8/19/2016
+"Xie, Yi (SFC:BFZ396) 謝懿",None,sfclicrec.asp?p=2460747,BFZ396,http://www.sfc.hk/publicregWeb/indi/BFZ396/licenceRecord,34.0,F,Rep,9/20/2018,
+"Yang, Anbang 楊安邦",None,sfclicrec.asp?p=13908536,BMU941,http://www.sfc.hk/publicregWeb/indi/BMU941/licenceRecord,,,Rep,4/17/2018,7/30/2019
+"Yang, Yihua 楊一華",None,sfclicrec.asp?p=2586786,BFX656,http://www.sfc.hk/publicregWeb/indi/BFX656/licenceRecord,,,RO,11/6/2015,12/31/2019
+"Yue, Xiaowei 岳效巍",None,sfclicrec.asp?p=77675,AVZ069,http://www.sfc.hk/publicregWeb/indi/AVZ069/licenceRecord,,,Rep,6/1/2016,4/1/2019
+"Zhang, Hongyi (SFC:BIZ596) 張弘毅",None,sfclicrec.asp?p=2696070,BIZ596,http://www.sfc.hk/publicregWeb/indi/BIZ596/licenceRecord,,,Rep,2/14/2017,
+"Zhao, Rui (SFC:BFX655) 趙瑞",None,sfclicrec.asp?p=2586787,BFX655,http://www.sfc.hk/publicregWeb/indi/BFX655/licenceRecord,,,RO,11/6/2015,12/31/2019

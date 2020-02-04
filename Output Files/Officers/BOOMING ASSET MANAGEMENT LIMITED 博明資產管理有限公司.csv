@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Bai Cao 陳柏操",sfclicrec.asp?p=81639,,,RO,2019-09-13,
-"Chung, Mei Wah 鍾美華",sfclicrec.asp?p=2517222,,F,RO,2019-02-13,2019-06-28
-"Liu, Ke (SFC:BEZ142) 劉科",sfclicrec.asp?p=2384339,,,Rep,2019-09-27,
-"Liu, Yan (SFC:BAC176) 劉艷",sfclicrec.asp?p=2352939,49,F,RO,2019-02-13,
-"Tang, Mei Kam 鄧美琴",sfclicrec.asp?p=12656111,,,Rep,2019-07-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Bai Cao 陳柏操",None,sfclicrec.asp?p=81639,AUZ662,http://www.sfc.hk/publicregWeb/indi/AUZ662/licenceRecord,,,RO,2019-09-13,
+"Chung, Mei Wah 鍾美華",None,sfclicrec.asp?p=2517222,AFL982,http://www.sfc.hk/publicregWeb/indi/AFL982/licenceRecord,,F,RO,2019-02-13,2019-06-28
+"Liu, Ke (SFC:BEZ142) 劉科",None,sfclicrec.asp?p=2384339,BEZ142,http://www.sfc.hk/publicregWeb/indi/BEZ142/licenceRecord,,,Rep,2019-09-27,
+"Liu, Yan (SFC:BAC176) 劉艷",None,sfclicrec.asp?p=2352939,BAC176,http://www.sfc.hk/publicregWeb/indi/BAC176/licenceRecord,49.0,F,RO,2019-02-13,
+"Tang, Mei Kam 鄧美琴",None,sfclicrec.asp?p=12656111,BLU324,http://www.sfc.hk/publicregWeb/indi/BLU324/licenceRecord,,,Rep,2019-07-26,

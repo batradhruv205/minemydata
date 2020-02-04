@@ -1,3 +1,3 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Huang, Wei (SFC:AQE086) 黃巍",sfclicrec.asp?p=72908,,,RO,2017-04-07,
-"Kang, Kai (SFC:AYJ298) 康凱",sfclicrec.asp?p=133433,,,RO,2017-04-07,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Huang, Wei (SFC:AQE086) 黃巍",None,sfclicrec.asp?p=72908,AQE086,http://www.sfc.hk/publicregWeb/indi/AQE086/licenceRecord,,,RO,2017-04-07,
+"Kang, Kai (SFC:AYJ298) 康凱",None,sfclicrec.asp?p=133433,AYJ298,http://www.sfc.hk/publicregWeb/indi/AYJ298/licenceRecord,,,RO,2017-04-07,

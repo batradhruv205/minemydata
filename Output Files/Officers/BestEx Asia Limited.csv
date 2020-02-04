@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Allen, William David Macdonald ",sfclicrec.asp?p=2088372,,M,Rep,2019-06-14,
-"Brown, Anthony George ",sfclicrec.asp?p=78384,,M,RO,2017-02-09,
-"Lee, Chung Wing Alfred 李頌榮",sfclicrec.asp?p=99533,,,Rep,2017-03-08,2017-08-08
-"Macfarlane, Richard James ",sfclicrec.asp?p=2334299,,M,RO,2017-01-17,2019-02-01
-"Macfarlane, Richard James ",sfclicrec.asp?p=2334299,,M,Rep,2019-02-01,
-"Moss, Adam Alexander Guy ",sfclicrec.asp?p=93419,,M,Rep,2019-05-20,
-"Weinberg, Phillip Aaron ",sfclicrec.asp?p=2688099,,M,RO,2017-01-17,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Allen, William David Macdonald ",None,sfclicrec.asp?p=2088372,BBH972,http://www.sfc.hk/publicregWeb/indi/BBH972/licenceRecord,,M,Rep,2019-06-14,
+"Brown, Anthony George ",None,sfclicrec.asp?p=78384,APU473,http://www.sfc.hk/publicregWeb/indi/APU473/licenceRecord,,M,RO,2017-02-09,
+"Lee, Chung Wing Alfred 李頌榮",None,sfclicrec.asp?p=99533,ATT542,http://www.sfc.hk/publicregWeb/indi/ATT542/licenceRecord,,,Rep,2017-03-08,2017-08-08
+"Macfarlane, Richard James ",None,sfclicrec.asp?p=2334299,AAY378,http://www.sfc.hk/publicregWeb/indi/AAY378/licenceRecord,,M,RO,2017-01-17,2019-02-01
+"Macfarlane, Richard James ",None,sfclicrec.asp?p=2334299,AAY378,http://www.sfc.hk/publicregWeb/indi/AAY378/licenceRecord,,M,Rep,2019-02-01,
+"Moss, Adam Alexander Guy ",None,sfclicrec.asp?p=93419,AEI504,http://www.sfc.hk/publicregWeb/indi/AEI504/licenceRecord,,M,Rep,2019-05-20,
+"Weinberg, Phillip Aaron ",None,sfclicrec.asp?p=2688099,BIC624,http://www.sfc.hk/publicregWeb/indi/BIC624/licenceRecord,,M,RO,2017-01-17,

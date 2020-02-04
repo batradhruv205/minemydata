@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Bing (SFC:BFX975) 陳冰",sfclicrec.asp?p=2485403,,,Rep,2015-10-12,2016-01-14
-"Chen, Bing (SFC:BFX975) 陳冰",sfclicrec.asp?p=2485403,,,RO,2016-01-14,
-"Demirian, Nejteh Movses ",sfclicrec.asp?p=2538433,,,Rep,2016-02-22,
-"Gao, Gehong 高戈紅",sfclicrec.asp?p=22402963,,,Rep,2018-11-07,
-"Liu, Min (SFC:AWI092) 劉敏",sfclicrec.asp?p=73295,,,Rep,2015-11-24,2016-01-06
-"Liu, Min (SFC:AWI092) 劉敏",sfclicrec.asp?p=73295,,,RO,2016-01-06,
-"Liu, Wen (SFC:BLV389) 劉雯",sfclicrec.asp?p=12741756,,,Rep,2018-01-26,2019-10-31
-"Lu, Gloria Yi 陸奕",sfclicrec.asp?p=40953,50,F,RO,2015-10-12,2016-02-03
-"Min, Ji Hong ",sfclicrec.asp?p=98832,,,RO,2015-10-12,2016-10-01
-"Pang, Heng 龐亨",sfclicrec.asp?p=104564,,,Rep,2015-10-12,2016-01-14
-"Pang, Heng 龐亨",sfclicrec.asp?p=104564,,,RO,2016-01-14,
-"Pu, Yonghao 浦永灝",sfclicrec.asp?p=109031,,,RO,2015-10-12,2017-04-06
-"Pu, Yonghao 浦永灝",sfclicrec.asp?p=109031,,,Rep,2017-04-06,2018-02-01
-"Tung, Peter Tze Chung 童致中",sfclicrec.asp?p=103114,55,M,RO,2015-10-12,2016-02-15
-"Wong, Yvonne Yuen Kee 王琬琪",sfclicrec.asp?p=105686,,F,Rep,2016-04-01,2016-05-05
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Bing (SFC:BFX975) 陳冰",None,sfclicrec.asp?p=2485403,BFX975,http://www.sfc.hk/publicregWeb/indi/BFX975/licenceRecord,,,Rep,2015-10-12,2016-01-14
+"Chen, Bing (SFC:BFX975) 陳冰",None,sfclicrec.asp?p=2485403,BFX975,http://www.sfc.hk/publicregWeb/indi/BFX975/licenceRecord,,,RO,2016-01-14,
+"Demirian, Nejteh Movses ",None,sfclicrec.asp?p=2538433,BGX061,http://www.sfc.hk/publicregWeb/indi/BGX061/licenceRecord,,,Rep,2016-02-22,
+"Gao, Gehong 高戈紅",None,sfclicrec.asp?p=22402963,BNT987,http://www.sfc.hk/publicregWeb/indi/BNT987/licenceRecord,,,Rep,2018-11-07,
+"Liu, Min (SFC:AWI092) 劉敏",None,sfclicrec.asp?p=73295,AWI092,http://www.sfc.hk/publicregWeb/indi/AWI092/licenceRecord,,,Rep,2015-11-24,2016-01-06
+"Liu, Min (SFC:AWI092) 劉敏",None,sfclicrec.asp?p=73295,AWI092,http://www.sfc.hk/publicregWeb/indi/AWI092/licenceRecord,,,RO,2016-01-06,
+"Liu, Wen (SFC:BLV389) 劉雯",None,sfclicrec.asp?p=12741756,BLV389,http://www.sfc.hk/publicregWeb/indi/BLV389/licenceRecord,,,Rep,2018-01-26,2019-10-31
+"Lu, Gloria Yi 陸奕",None,sfclicrec.asp?p=40953,ADA784,http://www.sfc.hk/publicregWeb/indi/ADA784/licenceRecord,50.0,F,RO,2015-10-12,2016-02-03
+"Min, Ji Hong ",None,sfclicrec.asp?p=98832,ADU316,http://www.sfc.hk/publicregWeb/indi/ADU316/licenceRecord,,,RO,2015-10-12,2016-10-01
+"Pang, Heng 龐亨",None,sfclicrec.asp?p=104564,AEC581,http://www.sfc.hk/publicregWeb/indi/AEC581/licenceRecord,,,Rep,2015-10-12,2016-01-14
+"Pang, Heng 龐亨",None,sfclicrec.asp?p=104564,AEC581,http://www.sfc.hk/publicregWeb/indi/AEC581/licenceRecord,,,RO,2016-01-14,
+"Pu, Yonghao 浦永灝",None,sfclicrec.asp?p=109031,AGI869,http://www.sfc.hk/publicregWeb/indi/AGI869/licenceRecord,,,RO,2015-10-12,2017-04-06
+"Pu, Yonghao 浦永灝",None,sfclicrec.asp?p=109031,AGI869,http://www.sfc.hk/publicregWeb/indi/AGI869/licenceRecord,,,Rep,2017-04-06,2018-02-01
+"Tung, Peter Tze Chung 童致中",None,sfclicrec.asp?p=103114,ACO908,http://www.sfc.hk/publicregWeb/indi/ACO908/licenceRecord,55.0,M,RO,2015-10-12,2016-02-15
+"Wong, Yvonne Yuen Kee 王琬琪",None,sfclicrec.asp?p=105686,AEZ573,http://www.sfc.hk/publicregWeb/indi/AEZ573/licenceRecord,,F,Rep,2016-04-01,2016-05-05

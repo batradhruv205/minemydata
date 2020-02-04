@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Burrows, Quentin Charles ",sfclicrec.asp?p=102681,,M,Rep,2019-06-05,
-"Leung, Vincent Gar Gene 梁家進",sfclicrec.asp?p=4260232,35,M,Rep,2019-07-19,
-"McCann, David John ",sfclicrec.asp?p=12110153,,M,RO,2017-10-13,
-"Neave, Lionel Digby Sheffield 小獅子",sfclicrec.asp?p=87880,,M,Rep,2019-07-19,
-"Ormerod, Myles Weihao 鄂暐顥",sfclicrec.asp?p=12838461,,M,Rep,2018-03-09,
-"Upton, Adam Boyd ",sfclicrec.asp?p=84502,,M,RO,2017-10-13,
-"Wannan, Charles Peter ",sfclicrec.asp?p=24060758,,M,Rep,2019-12-30,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Burrows, Quentin Charles ",None,sfclicrec.asp?p=102681,ACE375,http://www.sfc.hk/publicregWeb/indi/ACE375/licenceRecord,,M,Rep,2019-06-05,
+"Leung, Vincent Gar Gene 梁家進",None,sfclicrec.asp?p=4260232,BJH154,http://www.sfc.hk/publicregWeb/indi/BJH154/licenceRecord,35.0,M,Rep,2019-07-19,
+"McCann, David John ",None,sfclicrec.asp?p=12110153,BJO460,http://www.sfc.hk/publicregWeb/indi/BJO460/licenceRecord,,M,RO,2017-10-13,
+"Neave, Lionel Digby Sheffield 小獅子",None,sfclicrec.asp?p=87880,ASD187,http://www.sfc.hk/publicregWeb/indi/ASD187/licenceRecord,,M,Rep,2019-07-19,
+"Ormerod, Myles Weihao 鄂暐顥",None,sfclicrec.asp?p=12838461,BMM213,http://www.sfc.hk/publicregWeb/indi/BMM213/licenceRecord,,M,Rep,2018-03-09,
+"Upton, Adam Boyd ",None,sfclicrec.asp?p=84502,AOS564,http://www.sfc.hk/publicregWeb/indi/AOS564/licenceRecord,,M,RO,2017-10-13,
+"Wannan, Charles Peter ",None,sfclicrec.asp?p=24060758,BPF040,http://www.sfc.hk/publicregWeb/indi/BPF040/licenceRecord,,M,Rep,2019-12-30,

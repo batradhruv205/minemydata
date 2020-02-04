@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chun, Vic Man Kit 秦文傑",sfclicrec.asp?p=70750,,,Rep,2013-02-18,
-"Song, Qing (SFC:BGP258) 宋青",sfclicrec.asp?p=2533985,,,RO,2016-02-01,
-"Wang, Sui 王穗",sfclicrec.asp?p=2461274,,,Rep,2015-08-12,
-"Yang, Gu 楊谷",sfclicrec.asp?p=1991286,,,RO,2012-12-06,
-"Yang, Wen (SFC:BCE788) 楊文",sfclicrec.asp?p=2196888,,,RO,2014-01-17,
-"Zhu, Fulin 朱富林",sfclicrec.asp?p=128069,,,RO,2012-12-06,2013-09-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chun, Vic Man Kit 秦文傑",None,sfclicrec.asp?p=70750,AWE774,http://www.sfc.hk/publicregWeb/indi/AWE774/licenceRecord,,,Rep,2013-02-18,
+"Song, Qing (SFC:BGP258) 宋青",None,sfclicrec.asp?p=2533985,BGP258,http://www.sfc.hk/publicregWeb/indi/BGP258/licenceRecord,,,RO,2016-02-01,
+"Wang, Sui 王穗",None,sfclicrec.asp?p=2461274,BFT362,http://www.sfc.hk/publicregWeb/indi/BFT362/licenceRecord,,,Rep,2015-08-12,
+"Yang, Gu 楊谷",None,sfclicrec.asp?p=1991286,AXQ600,http://www.sfc.hk/publicregWeb/indi/AXQ600/licenceRecord,,,RO,2012-12-06,
+"Yang, Wen (SFC:BCE788) 楊文",None,sfclicrec.asp?p=2196888,BCE788,http://www.sfc.hk/publicregWeb/indi/BCE788/licenceRecord,,,RO,2014-01-17,
+"Zhu, Fulin 朱富林",None,sfclicrec.asp?p=128069,ATC122,http://www.sfc.hk/publicregWeb/indi/ATC122/licenceRecord,,,RO,2012-12-06,2013-09-30

@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Akimoto, Junko ",sfclicrec.asp?p=99085,,,Rep,2010-04-13,2012-11-30
-"Chiu, Shih-Liang 邱世梁",sfclicrec.asp?p=92585,,,RO,2017-04-26,2018-07-01
-"Kalyan, Madhav Bandepalli ",sfclicrec.asp?p=125478,,,RO,2008-07-04,2009-10-16
-"Mohanty, Chandrakant ",sfclicrec.asp?p=99083,,,RO,2008-07-04,2016-12-01
-"Nagaraj, Padma Priya ",sfclicrec.asp?p=120715,,,Rep,2010-03-10,2010-04-01
-"Peng, Stevens Pauyuan 彭柏元",sfclicrec.asp?p=129140,,,Rep,2010-01-21,2010-11-18
-"Sarthou, Ramon Jose Trillo ",sfclicrec.asp?p=99084,,,RO,2009-11-05,2017-05-31
-"Tam, Leslie Nai Him 譚乃謙",sfclicrec.asp?p=88003,,,Rep,2009-05-26,2009-10-02
-"Yiu, Ka Lam 姚家霖",sfclicrec.asp?p=92613,,,RO,2017-04-26,2019-06-11
-"Zhou, Haigong 周海功",sfclicrec.asp?p=114456,,,Rep,2018-11-23,2018-12-06
-"Zhou, Haigong 周海功",sfclicrec.asp?p=114456,,,RO,2018-12-06,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Akimoto, Junko ",None,sfclicrec.asp?p=99085,AUW219,http://www.sfc.hk/publicregWeb/indi/AUW219/licenceRecord,,,Rep,2010-04-13,2012-11-30
+"Chiu, Shih-Liang 邱世梁",None,sfclicrec.asp?p=92585,AOB284,http://www.sfc.hk/publicregWeb/indi/AOB284/licenceRecord,,,RO,2017-04-26,2018-07-01
+"Kalyan, Madhav Bandepalli ",None,sfclicrec.asp?p=125478,ARB823,http://www.sfc.hk/publicregWeb/indi/ARB823/licenceRecord,,,RO,2008-07-04,2009-10-16
+"Mohanty, Chandrakant ",None,sfclicrec.asp?p=99083,AMJ707,http://www.sfc.hk/publicregWeb/indi/AMJ707/licenceRecord,,,RO,2008-07-04,2016-12-01
+"Nagaraj, Padma Priya ",None,sfclicrec.asp?p=120715,AOO180,http://www.sfc.hk/publicregWeb/indi/AOO180/licenceRecord,,,Rep,2010-03-10,2010-04-01
+"Peng, Stevens Pauyuan 彭柏元",None,sfclicrec.asp?p=129140,AUL631,http://www.sfc.hk/publicregWeb/indi/AUL631/licenceRecord,,,Rep,2010-01-21,2010-11-18
+"Sarthou, Ramon Jose Trillo ",None,sfclicrec.asp?p=99084,ATR803,http://www.sfc.hk/publicregWeb/indi/ATR803/licenceRecord,,,RO,2009-11-05,2017-05-31
+"Tam, Leslie Nai Him 譚乃謙",None,sfclicrec.asp?p=88003,AOM784,http://www.sfc.hk/publicregWeb/indi/AOM784/licenceRecord,,,Rep,2009-05-26,2009-10-02
+"Yiu, Ka Lam 姚家霖",None,sfclicrec.asp?p=92613,APP686,http://www.sfc.hk/publicregWeb/indi/APP686/licenceRecord,,,RO,2017-04-26,2019-06-11
+"Zhou, Haigong 周海功",None,sfclicrec.asp?p=114456,ALF311,http://www.sfc.hk/publicregWeb/indi/ALF311/licenceRecord,,,Rep,2018-11-23,2018-12-06
+"Zhou, Haigong 周海功",None,sfclicrec.asp?p=114456,ALF311,http://www.sfc.hk/publicregWeb/indi/ALF311/licenceRecord,,,RO,2018-12-06,

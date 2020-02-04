@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Ka Ming (SFC:BAK267) 陳嘉銘",sfclicrec.asp?p=1973763,,,RO,2017-12-13,
-"Kim, Yong Moon ",sfclicrec.asp?p=105495,,,RO,2017-12-13,2019-01-25
-"Lo, Helen Kam Yan 勞錦欣",sfclicrec.asp?p=120978,,F,RO,2019-04-18,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Ka Ming (SFC:BAK267) 陳嘉銘",None,sfclicrec.asp?p=1973763,BAK267,http://www.sfc.hk/publicregWeb/indi/BAK267/licenceRecord,,,RO,2017-12-13,
+"Kim, Yong Moon ",None,sfclicrec.asp?p=105495,AEW096,http://www.sfc.hk/publicregWeb/indi/AEW096/licenceRecord,,,RO,2017-12-13,2019-01-25
+"Lo, Helen Kam Yan 勞錦欣",None,sfclicrec.asp?p=120978,AOS365,http://www.sfc.hk/publicregWeb/indi/AOS365/licenceRecord,,F,RO,2019-04-18,

@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Junsong 陳俊松",sfclicrec.asp?p=12665651,,,RO,2017-12-28,
-"Kwok, Yik Ki 郭奕琪",sfclicrec.asp?p=95034,,,Rep,2018-07-06,2018-08-31
-"Kwok, Yik Ki 郭奕琪",sfclicrec.asp?p=95034,,,RO,2018-08-31,
-"Li, Ming (SFC:BET762) 李明",sfclicrec.asp?p=2376600,,,Rep,2018-01-17,2019-05-12
-"Li, Yixia 李宜夏",sfclicrec.asp?p=2467083,,,Rep,2018-01-17,
-"Liu, Wing Yi 廖詠怡",sfclicrec.asp?p=98445,,,Rep,2018-01-15,2018-03-06
-"Peng, Jianguo 彭建國",sfclicrec.asp?p=12665652,,,RO,2017-12-28,
-"Xie, Jin (SFC:BBG987) 謝今",sfclicrec.asp?p=2068809,,,Rep,2018-01-15,
-"Yan, Peide 閆沛德",sfclicrec.asp?p=12749385,,,Rep,2018-01-30,
-"Yang, Fan (SFC:BDD668) 楊帆",sfclicrec.asp?p=2247388,,,Rep,2018-06-05,
-"Zhu, Hengqiu 朱恆秋",sfclicrec.asp?p=73557,,,RO,2017-12-28,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Junsong 陳俊松",None,sfclicrec.asp?p=12665651,BLC857,http://www.sfc.hk/publicregWeb/indi/BLC857/licenceRecord,,,RO,2017-12-28,
+"Kwok, Yik Ki 郭奕琪",None,sfclicrec.asp?p=95034,APF296,http://www.sfc.hk/publicregWeb/indi/APF296/licenceRecord,,,Rep,2018-07-06,2018-08-31
+"Kwok, Yik Ki 郭奕琪",None,sfclicrec.asp?p=95034,APF296,http://www.sfc.hk/publicregWeb/indi/APF296/licenceRecord,,,RO,2018-08-31,
+"Li, Ming (SFC:BET762) 李明",None,sfclicrec.asp?p=2376600,BET762,http://www.sfc.hk/publicregWeb/indi/BET762/licenceRecord,,,Rep,2018-01-17,2019-05-12
+"Li, Yixia 李宜夏",None,sfclicrec.asp?p=2467083,BGB573,http://www.sfc.hk/publicregWeb/indi/BGB573/licenceRecord,,,Rep,2018-01-17,
+"Liu, Wing Yi 廖詠怡",None,sfclicrec.asp?p=98445,ARC090,http://www.sfc.hk/publicregWeb/indi/ARC090/licenceRecord,,,Rep,2018-01-15,2018-03-06
+"Peng, Jianguo 彭建國",None,sfclicrec.asp?p=12665652,BLC860,http://www.sfc.hk/publicregWeb/indi/BLC860/licenceRecord,,,RO,2017-12-28,
+"Xie, Jin (SFC:BBG987) 謝今",None,sfclicrec.asp?p=2068809,BBG987,http://www.sfc.hk/publicregWeb/indi/BBG987/licenceRecord,,,Rep,2018-01-15,
+"Yan, Peide 閆沛德",None,sfclicrec.asp?p=12749385,BIC436,http://www.sfc.hk/publicregWeb/indi/BIC436/licenceRecord,,,Rep,2018-01-30,
+"Yang, Fan (SFC:BDD668) 楊帆",None,sfclicrec.asp?p=2247388,BDD668,http://www.sfc.hk/publicregWeb/indi/BDD668/licenceRecord,,,Rep,2018-06-05,
+"Zhu, Hengqiu 朱恆秋",None,sfclicrec.asp?p=73557,ALZ610,http://www.sfc.hk/publicregWeb/indi/ALZ610/licenceRecord,,,RO,2017-12-28,

@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Kirkby, Matthew (SFC:ADY177) ",sfclicrec.asp?p=93266,,M,RO,2019-01-16,2019-07-16
-"Liu, Dongheng 劉東恒",sfclicrec.asp?p=136168,,,RO,2018-06-05,
-"Liu, Sherry Xiaoyu 劉肖俞",sfclicrec.asp?p=93303,,F,RO,2018-06-05,
-"Wang, Jun Ping 王君平",sfclicrec.asp?p=89715,,,Rep,2019-12-13,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Kirkby, Matthew (SFC:ADY177) ",None,sfclicrec.asp?p=93266,ADY177,http://www.sfc.hk/publicregWeb/indi/ADY177/licenceRecord,,M,RO,2019-01-16,2019-07-16
+"Liu, Dongheng 劉東恒",None,sfclicrec.asp?p=136168,AYT455,http://www.sfc.hk/publicregWeb/indi/AYT455/licenceRecord,,,RO,2018-06-05,
+"Liu, Sherry Xiaoyu 劉肖俞",None,sfclicrec.asp?p=93303,AHA564,http://www.sfc.hk/publicregWeb/indi/AHA564/licenceRecord,,F,RO,2018-06-05,
+"Wang, Jun Ping 王君平",None,sfclicrec.asp?p=89715,ADW638,http://www.sfc.hk/publicregWeb/indi/ADW638/licenceRecord,,,Rep,2019-12-13,

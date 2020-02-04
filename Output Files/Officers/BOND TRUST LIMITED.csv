@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Paul Mun Keung 陳滿強",sfclicrec.asp?p=98622,,M,Rep,2006-12-21,2017-04-13
-"Huang, Charles Qin 黃沁",sfclicrec.asp?p=98619,,M,RO,2004-08-04,
-"Hui, Tsan Hing 許燦卿",sfclicrec.asp?p=98623,,,Rep,2010-07-26,
-"Liu, Zhao (SFC:AQW343) 劉釗",sfclicrec.asp?p=125091,,,Rep,2008-05-21,2011-06-01
-"Lu, Gloria Yi 陸奕",sfclicrec.asp?p=40953,50,F,Rep,2013-09-24,2013-10-29
-"Lu, Gloria Yi 陸奕",sfclicrec.asp?p=40953,50,F,RO,2013-10-29,2014-03-10
-"Lu, Min (SFC:AJE091) ",sfclicrec.asp?p=98620,,,RO,2010-08-18,2013-09-09
-"Luo, Shan 羅山",sfclicrec.asp?p=126191,,,RO,2008-09-10,2010-02-28
-"Mookerjee, Rahul ",sfclicrec.asp?p=2344803,,,RO,2014-11-12,
-"Ren, Frank Yonggang 任永剛",sfclicrec.asp?p=94250,,M,RO,2009-06-01,2009-09-22
-"Shen, Michael Koping 沈可平",sfclicrec.asp?p=15845,52,M,Rep,2016-07-14,
-"Xu, Hang (SFC:AJL688) 徐行",sfclicrec.asp?p=98621,,,RO,2004-08-04,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Paul Mun Keung 陳滿強",None,sfclicrec.asp?p=98622,AOD276,http://www.sfc.hk/publicregWeb/indi/AOD276/licenceRecord,,M,Rep,2006-12-21,2017-04-13
+"Huang, Charles Qin 黃沁",None,sfclicrec.asp?p=98619,AEE727,http://www.sfc.hk/publicregWeb/indi/AEE727/licenceRecord,,M,RO,2004-08-04,
+"Hui, Tsan Hing 許燦卿",None,sfclicrec.asp?p=98623,AUD570,http://www.sfc.hk/publicregWeb/indi/AUD570/licenceRecord,,,Rep,2010-07-26,
+"Liu, Zhao (SFC:AQW343) 劉釗",None,sfclicrec.asp?p=125091,AQW343,http://www.sfc.hk/publicregWeb/indi/AQW343/licenceRecord,,,Rep,2008-05-21,2011-06-01
+"Lu, Gloria Yi 陸奕",None,sfclicrec.asp?p=40953,ADA784,http://www.sfc.hk/publicregWeb/indi/ADA784/licenceRecord,50.0,F,Rep,2013-09-24,2013-10-29
+"Lu, Gloria Yi 陸奕",None,sfclicrec.asp?p=40953,ADA784,http://www.sfc.hk/publicregWeb/indi/ADA784/licenceRecord,50.0,F,RO,2013-10-29,2014-03-10
+"Lu, Min (SFC:AJE091) ",None,sfclicrec.asp?p=98620,AJE091,http://www.sfc.hk/publicregWeb/indi/AJE091/licenceRecord,,,RO,2010-08-18,2013-09-09
+"Luo, Shan 羅山",None,sfclicrec.asp?p=126191,ARJ350,http://www.sfc.hk/publicregWeb/indi/ARJ350/licenceRecord,,,RO,2008-09-10,2010-02-28
+"Mookerjee, Rahul ",None,sfclicrec.asp?p=2344803,ACW569,http://www.sfc.hk/publicregWeb/indi/ACW569/licenceRecord,,,RO,2014-11-12,
+"Ren, Frank Yonggang 任永剛",None,sfclicrec.asp?p=94250,ALF631,http://www.sfc.hk/publicregWeb/indi/ALF631/licenceRecord,,M,RO,2009-06-01,2009-09-22
+"Shen, Michael Koping 沈可平",None,sfclicrec.asp?p=15845,AEE687,http://www.sfc.hk/publicregWeb/indi/AEE687/licenceRecord,52.0,M,Rep,2016-07-14,
+"Xu, Hang (SFC:AJL688) 徐行",None,sfclicrec.asp?p=98621,AJL688,http://www.sfc.hk/publicregWeb/indi/AJL688/licenceRecord,,,RO,2004-08-04,

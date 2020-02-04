@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Burger, Max ",sfclicrec.asp?p=123587,,,RO,2008-01-21,2011-09-30
-"Gruss, Ralf ",sfclicrec.asp?p=128699,,,RO,2010-01-07,2010-07-07
-"Liu, Yuanmo 劉苑茉",sfclicrec.asp?p=126228,,,RO,2010-10-15,2011-09-30
-"Prahl, Michael ",sfclicrec.asp?p=123588,,M,RO,2008-01-21,2009-09-30
-"Shi, Xiaoni 史曉妮",sfclicrec.asp?p=116654,,,RO,2019-10-16,
-"Wang, He (SFC:AHS591) 王赫",sfclicrec.asp?p=111518,,,RO,2008-01-21,2009-08-14
-"Zhang, Richard Xike 張曦軻",sfclicrec.asp?p=129108,50,M,RO,2011-07-22,2011-09-30
-"Zhang, Richard Xike 張曦軻",sfclicrec.asp?p=129108,50,M,RO,2019-10-16,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Burger, Max ",None,sfclicrec.asp?p=123587,AQA400,http://www.sfc.hk/publicregWeb/indi/AQA400/licenceRecord,,,RO,2008-01-21,2011-09-30
+"Gruss, Ralf ",None,sfclicrec.asp?p=128699,ATX204,http://www.sfc.hk/publicregWeb/indi/ATX204/licenceRecord,,,RO,2010-01-07,2010-07-07
+"Liu, Yuanmo 劉苑茉",None,sfclicrec.asp?p=126228,ARJ807,http://www.sfc.hk/publicregWeb/indi/ARJ807/licenceRecord,,,RO,2010-10-15,2011-09-30
+"Prahl, Michael ",None,sfclicrec.asp?p=123588,AQA402,http://www.sfc.hk/publicregWeb/indi/AQA402/licenceRecord,,M,RO,2008-01-21,2009-09-30
+"Shi, Xiaoni 史曉妮",None,sfclicrec.asp?p=116654,AMJ724,http://www.sfc.hk/publicregWeb/indi/AMJ724/licenceRecord,,,RO,2019-10-16,
+"Wang, He (SFC:AHS591) 王赫",None,sfclicrec.asp?p=111518,AHS591,http://www.sfc.hk/publicregWeb/indi/AHS591/licenceRecord,,,RO,2008-01-21,2009-08-14
+"Zhang, Richard Xike 張曦軻",None,sfclicrec.asp?p=129108,AUJ912,http://www.sfc.hk/publicregWeb/indi/AUJ912/licenceRecord,50.0,M,RO,2011-07-22,2011-09-30
+"Zhang, Richard Xike 張曦軻",None,sfclicrec.asp?p=129108,AUJ912,http://www.sfc.hk/publicregWeb/indi/AUJ912/licenceRecord,50.0,M,RO,2019-10-16,

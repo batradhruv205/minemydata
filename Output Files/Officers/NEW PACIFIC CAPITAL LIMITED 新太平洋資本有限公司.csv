@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Berg, Paul Nicholas Louis ",sfclicrec.asp?p=112801,,M,RO,2018-04-12,2018-11-14
-"Huang, Yiting 黃奕亭",sfclicrec.asp?p=111789,,,RO,2016-04-11,
-"Li, Yaoqi 李堯琦",sfclicrec.asp?p=2184423,,,RO,2013-12-23,2016-06-15
-"Lin, Dateng 林達騰",sfclicrec.asp?p=2172855,,,Rep,2013-12-02,2015-06-30
-"Wang, Yi (SFC:AVK801) 王一",sfclicrec.asp?p=129944,,,RO,2010-09-17,2016-04-25
-"Zhang, Jing (SFC:AOL061) 張晶",sfclicrec.asp?p=120527,,,RO,2016-04-26,
-"Zhou, Yong (SFC:APG180) 周勇",sfclicrec.asp?p=122085,53,M,RO,2010-09-17,2015-03-12
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Berg, Paul Nicholas Louis ",None,sfclicrec.asp?p=112801,AJB792,http://www.sfc.hk/publicregWeb/indi/AJB792/licenceRecord,,M,RO,2018-04-12,2018-11-14
+"Huang, Yiting 黃奕亭",None,sfclicrec.asp?p=111789,AHZ630,http://www.sfc.hk/publicregWeb/indi/AHZ630/licenceRecord,,,RO,2016-04-11,
+"Li, Yaoqi 李堯琦",None,sfclicrec.asp?p=2184423,BCF785,http://www.sfc.hk/publicregWeb/indi/BCF785/licenceRecord,,,RO,2013-12-23,2016-06-15
+"Lin, Dateng 林達騰",None,sfclicrec.asp?p=2172855,BCF786,http://www.sfc.hk/publicregWeb/indi/BCF786/licenceRecord,,,Rep,2013-12-02,2015-06-30
+"Wang, Yi (SFC:AVK801) 王一",None,sfclicrec.asp?p=129944,AVK801,http://www.sfc.hk/publicregWeb/indi/AVK801/licenceRecord,,,RO,2010-09-17,2016-04-25
+"Zhang, Jing (SFC:AOL061) 張晶",None,sfclicrec.asp?p=120527,AOL061,http://www.sfc.hk/publicregWeb/indi/AOL061/licenceRecord,,,RO,2016-04-26,
+"Zhou, Yong (SFC:APG180) 周勇",None,sfclicrec.asp?p=122085,APG180,http://www.sfc.hk/publicregWeb/indi/APG180/licenceRecord,53.0,M,RO,2010-09-17,2015-03-12

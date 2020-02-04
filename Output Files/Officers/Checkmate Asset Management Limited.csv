@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chak, Alan Wing Kai 翟永基",sfclicrec.asp?p=88728,,M,RO,2016-01-28,
-"Cheng, Dominic Tin Han 鄭天行",sfclicrec.asp?p=92219,,M,RO,2016-01-28,
-"Kam, Shou Him Thomas 甘守謙",sfclicrec.asp?p=133660,,,RO,2016-01-28,
-"Kwan, Man Yee 關文懿",sfclicrec.asp?p=2564886,,,Rep,2017-07-12,2018-04-30
-"Lo, Lok Hang 盧諾恒",sfclicrec.asp?p=2707068,,,Rep,2017-03-07,
-"Tang, Winnie Wing Sze 鄧詠詩",sfclicrec.asp?p=89642,,F,Rep,2017-07-11,2018-05-31
-"Tse, Wai Ming (SFC:AMZ184) 謝慧明",sfclicrec.asp?p=117810,,,RO,2016-01-28,2017-08-13
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chak, Alan Wing Kai 翟永基",None,sfclicrec.asp?p=88728,ADB786,http://www.sfc.hk/publicregWeb/indi/ADB786/licenceRecord,,M,RO,2016-01-28,
+"Cheng, Dominic Tin Han 鄭天行",None,sfclicrec.asp?p=92219,AOH350,http://www.sfc.hk/publicregWeb/indi/AOH350/licenceRecord,,M,RO,2016-01-28,
+"Kam, Shou Him Thomas 甘守謙",None,sfclicrec.asp?p=133660,AYG344,http://www.sfc.hk/publicregWeb/indi/AYG344/licenceRecord,,,RO,2016-01-28,
+"Kwan, Man Yee 關文懿",None,sfclicrec.asp?p=2564886,BHH745,http://www.sfc.hk/publicregWeb/indi/BHH745/licenceRecord,,,Rep,2017-07-12,2018-04-30
+"Lo, Lok Hang 盧諾恒",None,sfclicrec.asp?p=2707068,BJB226,http://www.sfc.hk/publicregWeb/indi/BJB226/licenceRecord,,,Rep,2017-03-07,
+"Tang, Winnie Wing Sze 鄧詠詩",None,sfclicrec.asp?p=89642,AGF374,http://www.sfc.hk/publicregWeb/indi/AGF374/licenceRecord,,F,Rep,2017-07-11,2018-05-31
+"Tse, Wai Ming (SFC:AMZ184) 謝慧明",None,sfclicrec.asp?p=117810,AMZ184,http://www.sfc.hk/publicregWeb/indi/AMZ184/licenceRecord,,,RO,2016-01-28,2017-08-13

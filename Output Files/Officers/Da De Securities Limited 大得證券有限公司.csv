@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chun, Ka Wing (SFC:BOT644) 秦嘉嶸",sfclicrec.asp?p=23766370,,,Rep,2019-10-09,
-"Lee, Chun Bong (SFC:ALR864) 李鎮邦",sfclicrec.asp?p=115330,,,RO,2019-02-20,2020-01-05
-"Lee, Hung Kwong 李鴻光",sfclicrec.asp?p=95275,,,RO,2019-12-13,
-"Leung, Ho Yin (SFC:ATY751) 梁浩然",sfclicrec.asp?p=79375,,,Rep,2019-05-20,
-"Li, Wing Leung 李永良",sfclicrec.asp?p=94635,,,Rep,2020-01-02,
-"Ma, Man Hon 馬文瀚",sfclicrec.asp?p=79820,,,RO,2019-02-20,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chun, Ka Wing (SFC:BOT644) 秦嘉嶸",None,sfclicrec.asp?p=23766370,BOT644,http://www.sfc.hk/publicregWeb/indi/BOT644/licenceRecord,,,Rep,2019-10-09,
+"Lee, Chun Bong (SFC:ALR864) 李鎮邦",None,sfclicrec.asp?p=115330,ALR864,http://www.sfc.hk/publicregWeb/indi/ALR864/licenceRecord,,,RO,2019-02-20,2020-01-05
+"Lee, Hung Kwong 李鴻光",None,sfclicrec.asp?p=95275,AAJ756,http://www.sfc.hk/publicregWeb/indi/AAJ756/licenceRecord,,,RO,2019-12-13,
+"Leung, Ho Yin (SFC:ATY751) 梁浩然",None,sfclicrec.asp?p=79375,ATY751,http://www.sfc.hk/publicregWeb/indi/ATY751/licenceRecord,,,Rep,2019-05-20,
+"Li, Wing Leung 李永良",None,sfclicrec.asp?p=94635,AAF400,http://www.sfc.hk/publicregWeb/indi/AAF400/licenceRecord,,,Rep,2020-01-02,
+"Ma, Man Hon 馬文瀚",None,sfclicrec.asp?p=79820,APH454,http://www.sfc.hk/publicregWeb/indi/APH454/licenceRecord,,,RO,2019-02-20,

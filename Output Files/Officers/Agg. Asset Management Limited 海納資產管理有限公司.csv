@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chow, Tsz Lam 周梓霖",sfclicrec.asp?p=92981,,,RO,2017-05-04,2019-04-11
-"Ng, Ka Shun 吳家順",sfclicrec.asp?p=93064,,,RO,2017-05-04,
-"Wong, Pak Kan 王柏勤",sfclicrec.asp?p=83667,,,Rep,2019-06-04,2019-10-04
-"Wong, Pak Kan 王柏勤",sfclicrec.asp?p=83667,,,RO,2019-10-04,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chow, Tsz Lam 周梓霖",None,sfclicrec.asp?p=92981,AXK450,http://www.sfc.hk/publicregWeb/indi/AXK450/licenceRecord,,,RO,2017-05-04,2019-04-11
+"Ng, Ka Shun 吳家順",None,sfclicrec.asp?p=93064,AIX164,http://www.sfc.hk/publicregWeb/indi/AIX164/licenceRecord,,,RO,2017-05-04,
+"Wong, Pak Kan 王柏勤",None,sfclicrec.asp?p=83667,AXK066,http://www.sfc.hk/publicregWeb/indi/AXK066/licenceRecord,,,Rep,2019-06-04,2019-10-04
+"Wong, Pak Kan 王柏勤",None,sfclicrec.asp?p=83667,AXK066,http://www.sfc.hk/publicregWeb/indi/AXK066/licenceRecord,,,RO,2019-10-04,

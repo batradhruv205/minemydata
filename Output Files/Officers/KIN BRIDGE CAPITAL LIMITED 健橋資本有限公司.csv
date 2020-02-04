@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Wing Chiu (SFC:ADT876) 陳榮照",sfclicrec.asp?p=70721,,,RO,2016-03-04,2018-05-31
-"Cheng, Chao-mu 鄭朝木",sfclicrec.asp?p=99071,,,RO,2016-03-04,2018-07-31
-"Ho, Ying-Chih 何英志",sfclicrec.asp?p=113556,,,RO,2018-04-12,
-"Hui, Pik Yung 許碧容",sfclicrec.asp?p=100589,,,Rep,2018-01-12,2018-07-20
-"Hui, Pik Yung 許碧容",sfclicrec.asp?p=100589,,,RO,2018-07-20,
-"Li, Kangning 李康凝",sfclicrec.asp?p=22252462,,,Rep,2018-10-16,2019-05-20
-"Yeung, Pui Yan 楊佩恩",sfclicrec.asp?p=71878,,,Rep,2018-06-29,2018-11-23
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Wing Chiu (SFC:ADT876) 陳榮照",None,sfclicrec.asp?p=70721,ADT876,http://www.sfc.hk/publicregWeb/indi/ADT876/licenceRecord,,,RO,2016-03-04,2018-05-31
+"Cheng, Chao-mu 鄭朝木",None,sfclicrec.asp?p=99071,AQP762,http://www.sfc.hk/publicregWeb/indi/AQP762/licenceRecord,,,RO,2016-03-04,2018-07-31
+"Ho, Ying-Chih 何英志",None,sfclicrec.asp?p=113556,AJN374,http://www.sfc.hk/publicregWeb/indi/AJN374/licenceRecord,,,RO,2018-04-12,
+"Hui, Pik Yung 許碧容",None,sfclicrec.asp?p=100589,AAA803,http://www.sfc.hk/publicregWeb/indi/AAA803/licenceRecord,,,Rep,2018-01-12,2018-07-20
+"Hui, Pik Yung 許碧容",None,sfclicrec.asp?p=100589,AAA803,http://www.sfc.hk/publicregWeb/indi/AAA803/licenceRecord,,,RO,2018-07-20,
+"Li, Kangning 李康凝",None,sfclicrec.asp?p=22252462,BNP418,http://www.sfc.hk/publicregWeb/indi/BNP418/licenceRecord,,,Rep,2018-10-16,2019-05-20
+"Yeung, Pui Yan 楊佩恩",None,sfclicrec.asp?p=71878,AVE023,http://www.sfc.hk/publicregWeb/indi/AVE023/licenceRecord,,,Rep,2018-06-29,2018-11-23

@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Dennis Kwok Leung 陳國樑",sfclicrec.asp?p=105105,,M,RO,2016-11-02,
-"Chiu, Man Hon (SFC:AAA833) 趙文康",sfclicrec.asp?p=85491,,,Rep,2017-01-13,2017-10-06
-"Li, Ying Kin (SFC:BBE439) 李應健",sfclicrec.asp?p=2059147,,,Rep,2016-11-23,2017-02-14
-"Lo, Chi Man (SFC:AJB649) 羅志文",sfclicrec.asp?p=112789,,,RO,2018-05-10,
-"Tang, Wai Yi 鄧惠儀",sfclicrec.asp?p=72827,,,Rep,2017-04-06,2017-05-26
-"Tang, Wai Yi 鄧惠儀",sfclicrec.asp?p=72827,,,RO,2017-05-26,
-"Wong, Man Chun (SFC:APQ127) 黃文俊",sfclicrec.asp?p=97355,,,Rep,2017-10-27,2018-01-22
-"Yiu, Chi Wah (SFC:ACT308) 姚志華",sfclicrec.asp?p=92386,,M,RO,2016-11-02,2017-05-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Dennis Kwok Leung 陳國樑",None,sfclicrec.asp?p=105105,AEO546,http://www.sfc.hk/publicregWeb/indi/AEO546/licenceRecord,,M,RO,2016-11-02,
+"Chiu, Man Hon (SFC:AAA833) 趙文康",None,sfclicrec.asp?p=85491,AAA833,http://www.sfc.hk/publicregWeb/indi/AAA833/licenceRecord,,,Rep,2017-01-13,2017-10-06
+"Li, Ying Kin (SFC:BBE439) 李應健",None,sfclicrec.asp?p=2059147,BBE439,http://www.sfc.hk/publicregWeb/indi/BBE439/licenceRecord,,,Rep,2016-11-23,2017-02-14
+"Lo, Chi Man (SFC:AJB649) 羅志文",None,sfclicrec.asp?p=112789,AJB649,http://www.sfc.hk/publicregWeb/indi/AJB649/licenceRecord,,,RO,2018-05-10,
+"Tang, Wai Yi 鄧惠儀",None,sfclicrec.asp?p=72827,AJM660,http://www.sfc.hk/publicregWeb/indi/AJM660/licenceRecord,,,Rep,2017-04-06,2017-05-26
+"Tang, Wai Yi 鄧惠儀",None,sfclicrec.asp?p=72827,AJM660,http://www.sfc.hk/publicregWeb/indi/AJM660/licenceRecord,,,RO,2017-05-26,
+"Wong, Man Chun (SFC:APQ127) 黃文俊",None,sfclicrec.asp?p=97355,APQ127,http://www.sfc.hk/publicregWeb/indi/APQ127/licenceRecord,,,Rep,2017-10-27,2018-01-22
+"Yiu, Chi Wah (SFC:ACT308) 姚志華",None,sfclicrec.asp?p=92386,ACT308,http://www.sfc.hk/publicregWeb/indi/ACT308/licenceRecord,,M,RO,2016-11-02,2017-05-31

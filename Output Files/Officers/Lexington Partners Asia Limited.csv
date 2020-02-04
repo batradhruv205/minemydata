@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Beaton, Kirk Macdonald ",sfclicrec.asp?p=2117963,,M,RO,2013-08-16,
-"Huang, Timothy C 黃謙勤",sfclicrec.asp?p=122373,,M,Rep,2013-08-16,
-"Lee, John Yong Suk 李鎔碩",sfclicrec.asp?p=89226,,M,Rep,2014-10-15,
-"Risberg, Niklas Johan ",sfclicrec.asp?p=12758985,,M,Rep,2018-02-02,
-"Sang, Yunyan 桑芸燕",sfclicrec.asp?p=89520,,,Rep,2015-08-06,
-"Shen, Zhiqian 沈旨千",sfclicrec.asp?p=2117964,,,RO,2013-08-16,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Beaton, Kirk Macdonald ",None,sfclicrec.asp?p=2117963,BBH318,http://www.sfc.hk/publicregWeb/indi/BBH318/licenceRecord,,M,RO,2013-08-16,
+"Huang, Timothy C 黃謙勤",None,sfclicrec.asp?p=122373,APJ306,http://www.sfc.hk/publicregWeb/indi/APJ306/licenceRecord,,M,Rep,2013-08-16,
+"Lee, John Yong Suk 李鎔碩",None,sfclicrec.asp?p=89226,ANR202,http://www.sfc.hk/publicregWeb/indi/ANR202/licenceRecord,,M,Rep,2014-10-15,
+"Risberg, Niklas Johan ",None,sfclicrec.asp?p=12758985,BMF013,http://www.sfc.hk/publicregWeb/indi/BMF013/licenceRecord,,M,Rep,2018-02-02,
+"Sang, Yunyan 桑芸燕",None,sfclicrec.asp?p=89520,AXN061,http://www.sfc.hk/publicregWeb/indi/AXN061/licenceRecord,,,Rep,2015-08-06,
+"Shen, Zhiqian 沈旨千",None,sfclicrec.asp?p=2117964,BBH319,http://www.sfc.hk/publicregWeb/indi/BBH319/licenceRecord,,,RO,2013-08-16,

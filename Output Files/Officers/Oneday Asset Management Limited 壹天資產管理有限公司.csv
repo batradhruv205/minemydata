@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Youjia 陳尤佳",sfclicrec.asp?p=2111474,,,Rep,2014-10-27,2017-06-30
-"Cheng, Charles Yo-chuan 鄭又銓",sfclicrec.asp?p=70661,,M,Rep,2014-10-28,2017-06-30
-"Cheng, Tsz Tsun 鄭子俊",sfclicrec.asp?p=97921,,,Rep,2018-03-21,2018-06-13
-"Cheng, Tsz Tsun 鄭子俊",sfclicrec.asp?p=97921,,,RO,2018-06-13,2018-09-16
-"Cheung, Chi Ho (SFC:BEE471) 張志豪",sfclicrec.asp?p=2320617,,,Rep,2014-09-16,2017-11-20
-"Cheung, Chi Ho (SFC:BEE471) 張志豪",sfclicrec.asp?p=2320617,,,RO,2017-11-20,2018-02-04
-"Chung, Mei Wah 鍾美華",sfclicrec.asp?p=2517222,,F,RO,2017-04-20,2017-12-31
-"Lam, Fu Ming 林富明",sfclicrec.asp?p=100323,,,RO,2014-09-04,2017-04-20
-"Lau, Chi Ching 劉智菁",sfclicrec.asp?p=121991,,,RO,2019-01-22,
-"Liu, Jia Kung 劉家鋼",sfclicrec.asp?p=12086938,,,Rep,2017-10-03,2018-03-01
-"Ng, Pan (SFC:BKB930) 吳斌",sfclicrec.asp?p=12780602,,,RO,2018-02-12,
-"So, Man Hui 蘇文煦",sfclicrec.asp?p=77767,,,RO,2014-09-04,2017-08-31
-"Tsui, Cheuk Chi 徐卓志",sfclicrec.asp?p=99545,,,RO,2017-08-31,2019-01-07
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Youjia 陳尤佳",None,sfclicrec.asp?p=2111474,BBN545,http://www.sfc.hk/publicregWeb/indi/BBN545/licenceRecord,,,Rep,2014-10-27,2017-06-30
+"Cheng, Charles Yo-chuan 鄭又銓",None,sfclicrec.asp?p=70661,ALG172,http://www.sfc.hk/publicregWeb/indi/ALG172/licenceRecord,,M,Rep,2014-10-28,2017-06-30
+"Cheng, Tsz Tsun 鄭子俊",None,sfclicrec.asp?p=97921,APP183,http://www.sfc.hk/publicregWeb/indi/APP183/licenceRecord,,,Rep,2018-03-21,2018-06-13
+"Cheng, Tsz Tsun 鄭子俊",None,sfclicrec.asp?p=97921,APP183,http://www.sfc.hk/publicregWeb/indi/APP183/licenceRecord,,,RO,2018-06-13,2018-09-16
+"Cheung, Chi Ho (SFC:BEE471) 張志豪",None,sfclicrec.asp?p=2320617,BEE471,http://www.sfc.hk/publicregWeb/indi/BEE471/licenceRecord,,,Rep,2014-09-16,2017-11-20
+"Cheung, Chi Ho (SFC:BEE471) 張志豪",None,sfclicrec.asp?p=2320617,BEE471,http://www.sfc.hk/publicregWeb/indi/BEE471/licenceRecord,,,RO,2017-11-20,2018-02-04
+"Chung, Mei Wah 鍾美華",None,sfclicrec.asp?p=2517222,AFL982,http://www.sfc.hk/publicregWeb/indi/AFL982/licenceRecord,,F,RO,2017-04-20,2017-12-31
+"Lam, Fu Ming 林富明",None,sfclicrec.asp?p=100323,ADW923,http://www.sfc.hk/publicregWeb/indi/ADW923/licenceRecord,,,RO,2014-09-04,2017-04-20
+"Lau, Chi Ching 劉智菁",None,sfclicrec.asp?p=121991,APF062,http://www.sfc.hk/publicregWeb/indi/APF062/licenceRecord,,,RO,2019-01-22,
+"Liu, Jia Kung 劉家鋼",None,sfclicrec.asp?p=12086938,BKM275,http://www.sfc.hk/publicregWeb/indi/BKM275/licenceRecord,,,Rep,2017-10-03,2018-03-01
+"Ng, Pan (SFC:BKB930) 吳斌",None,sfclicrec.asp?p=12780602,BKB930,http://www.sfc.hk/publicregWeb/indi/BKB930/licenceRecord,,,RO,2018-02-12,
+"So, Man Hui 蘇文煦",None,sfclicrec.asp?p=77767,ARI456,http://www.sfc.hk/publicregWeb/indi/ARI456/licenceRecord,,,RO,2014-09-04,2017-08-31
+"Tsui, Cheuk Chi 徐卓志",None,sfclicrec.asp?p=99545,ARV914,http://www.sfc.hk/publicregWeb/indi/ARV914/licenceRecord,,,RO,2017-08-31,2019-01-07

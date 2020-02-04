@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Chi Ip 陳志業",sfclicrec.asp?p=73137,,,Rep,2019-02-19,2019-03-01
-"Chan, Chi Ip 陳志業",sfclicrec.asp?p=73137,,,RO,2019-03-01,2019-11-05
-"Chan, Jennifer Pui Kwan 陳佩君",sfclicrec.asp?p=2289898,53,F,Rep,2015-09-09,
-"Fung, Peter Yiu Fai 馮耀輝",sfclicrec.asp?p=787,75,M,RO,,2008-05-28
-"Lam, Bowie Mei Kwan 林美群",sfclicrec.asp?p=71540,,,Rep,2019-04-30,2019-06-21
-"Lam, Bowie Mei Kwan 林美群",sfclicrec.asp?p=71540,,,RO,2019-06-21,2020-01-16
-"Lam, Tsz Chung (SFC:BFP838) 林子聰",sfclicrec.asp?p=2446016,47,M,RO,2019-03-18,
-"Lang, Chunmei 郎春梅",sfclicrec.asp?p=2443867,,,Rep,2015-07-03,2016-03-01
-"Lau, Lap Kwan 劉立君",sfclicrec.asp?p=16993,69,M,RO,,2017-05-11
-"Lee, Warren Wa Lun 李華倫",sfclicrec.asp?p=5518,57,M,RO,,2007-07-18
-"Leong, Chi Wai 梁治維",sfclicrec.asp?p=38657,45,M,RO,2010-03-09,
-"Ma, Chun Fai 馬進輝",sfclicrec.asp?p=2289895,49,M,Rep,2015-07-03,
-"Wang, Yinan (SFC:ADB202) 王一楠",sfclicrec.asp?p=99316,,,RO,,2015-11-30
-"Wong, Becky Siu Kuen 黃少娟",sfclicrec.asp?p=103589,,,RO,2015-10-06,2018-11-07
-"Wong, Gregory Lok Tin 黃樂天",sfclicrec.asp?p=2455317,,M,Rep,2015-07-29,2019-07-24
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Chi Ip 陳志業",None,sfclicrec.asp?p=73137,ACN933,http://www.sfc.hk/publicregWeb/indi/ACN933/licenceRecord,,,Rep,2019-02-19,2019-03-01
+"Chan, Chi Ip 陳志業",None,sfclicrec.asp?p=73137,ACN933,http://www.sfc.hk/publicregWeb/indi/ACN933/licenceRecord,,,RO,2019-03-01,2019-11-05
+"Chan, Jennifer Pui Kwan 陳佩君",None,sfclicrec.asp?p=2289898,BBG437,http://www.sfc.hk/publicregWeb/indi/BBG437/licenceRecord,53.0,F,Rep,2015-09-09,
+"Fung, Peter Yiu Fai 馮耀輝",None,sfclicrec.asp?p=787,AAW867,http://www.sfc.hk/publicregWeb/indi/AAW867/licenceRecord,75.0,M,RO,,2008-05-28
+"Lam, Bowie Mei Kwan 林美群",None,sfclicrec.asp?p=71540,AAV921,http://www.sfc.hk/publicregWeb/indi/AAV921/licenceRecord,,,Rep,2019-04-30,2019-06-21
+"Lam, Bowie Mei Kwan 林美群",None,sfclicrec.asp?p=71540,AAV921,http://www.sfc.hk/publicregWeb/indi/AAV921/licenceRecord,,,RO,2019-06-21,2020-01-16
+"Lam, Tsz Chung (SFC:BFP838) 林子聰",None,sfclicrec.asp?p=2446016,BFP838,http://www.sfc.hk/publicregWeb/indi/BFP838/licenceRecord,47.0,M,RO,2019-03-18,
+"Lang, Chunmei 郎春梅",None,sfclicrec.asp?p=2443867,BFS176,http://www.sfc.hk/publicregWeb/indi/BFS176/licenceRecord,,,Rep,2015-07-03,2016-03-01
+"Lau, Lap Kwan 劉立君",None,sfclicrec.asp?p=16993,AEU810,http://www.sfc.hk/publicregWeb/indi/AEU810/licenceRecord,69.0,M,RO,,2017-05-11
+"Lee, Warren Wa Lun 李華倫",None,sfclicrec.asp?p=5518,ABS166,http://www.sfc.hk/publicregWeb/indi/ABS166/licenceRecord,57.0,M,RO,,2007-07-18
+"Leong, Chi Wai 梁治維",None,sfclicrec.asp?p=38657,AEM496,http://www.sfc.hk/publicregWeb/indi/AEM496/licenceRecord,45.0,M,RO,2010-03-09,
+"Ma, Chun Fai 馬進輝",None,sfclicrec.asp?p=2289895,BCM858,http://www.sfc.hk/publicregWeb/indi/BCM858/licenceRecord,49.0,M,Rep,2015-07-03,
+"Wang, Yinan (SFC:ADB202) 王一楠",None,sfclicrec.asp?p=99316,ADB202,http://www.sfc.hk/publicregWeb/indi/ADB202/licenceRecord,,,RO,,2015-11-30
+"Wong, Becky Siu Kuen 黃少娟",None,sfclicrec.asp?p=103589,ADB986,http://www.sfc.hk/publicregWeb/indi/ADB986/licenceRecord,,,RO,2015-10-06,2018-11-07
+"Wong, Gregory Lok Tin 黃樂天",None,sfclicrec.asp?p=2455317,BFW636,http://www.sfc.hk/publicregWeb/indi/BFW636/licenceRecord,,M,Rep,2015-07-29,2019-07-24

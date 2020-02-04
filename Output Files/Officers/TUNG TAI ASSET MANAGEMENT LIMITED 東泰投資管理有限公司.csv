@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chin, Ching Yue 錢澄宇",sfclicrec.asp?p=96606,,,Rep,,2005-11-10
-"Kwok, Stanley Wai Leung 郭偉良",sfclicrec.asp?p=99529,45,M,RO,2016-07-06,2016-10-17
-"Lee, Loretta Si Kar 李斯嘉",sfclicrec.asp?p=35683,,F,RO,,
-"Lee, Vincent Marshall Kwan Ho 李君豪",sfclicrec.asp?p=10814,65,M,RO,,
-"Leung, Patricia Wing Yin 梁穎賢",sfclicrec.asp?p=113377,,F,Rep,2004-01-29,2004-09-16
-"Tang, Kenny Sing Hing 鄧聲興",sfclicrec.asp?p=19410,51,M,Rep,,2008-10-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chin, Ching Yue 錢澄宇",None,sfclicrec.asp?p=96606,AAJ214,http://www.sfc.hk/publicregWeb/indi/AAJ214/licenceRecord,,,Rep,,2005-11-10
+"Kwok, Stanley Wai Leung 郭偉良",None,sfclicrec.asp?p=99529,AFT305,http://www.sfc.hk/publicregWeb/indi/AFT305/licenceRecord,45.0,M,RO,2016-07-06,2016-10-17
+"Lee, Loretta Si Kar 李斯嘉",None,sfclicrec.asp?p=35683,AAG212,http://www.sfc.hk/publicregWeb/indi/AAG212/licenceRecord,,F,RO,,
+"Lee, Vincent Marshall Kwan Ho 李君豪",None,sfclicrec.asp?p=10814,AAK213,http://www.sfc.hk/publicregWeb/indi/AAK213/licenceRecord,65.0,M,RO,,
+"Leung, Patricia Wing Yin 梁穎賢",None,sfclicrec.asp?p=113377,AJK505,http://www.sfc.hk/publicregWeb/indi/AJK505/licenceRecord,,F,Rep,2004-01-29,2004-09-16
+"Tang, Kenny Sing Hing 鄧聲興",None,sfclicrec.asp?p=19410,AAC176,http://www.sfc.hk/publicregWeb/indi/AAC176/licenceRecord,51.0,M,Rep,,2008-10-30

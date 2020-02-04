@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Tsz Lung 陳子龍",sfclicrec.asp?p=1907410,,,Rep,2020-01-13,
-"Gloel, Markus Andreas (SFC:BOP425) ",sfclicrec.asp?p=23976398,,M,RO,2019-11-29,
-"Lau, Wing Ki Winnie 劉穎琪",sfclicrec.asp?p=2264288,,,Rep,2019-12-11,
-"Tao, Shi (SFC:AGS762) 陶石",sfclicrec.asp?p=73101,,,RO,2019-11-29,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Tsz Lung 陳子龍",None,sfclicrec.asp?p=1907410,AYR507,http://www.sfc.hk/publicregWeb/indi/AYR507/licenceRecord,,,Rep,2020-01-13,
+"Gloel, Markus Andreas (SFC:BOP425) ",None,sfclicrec.asp?p=23976398,BOP425,http://www.sfc.hk/publicregWeb/indi/BOP425/licenceRecord,,M,RO,2019-11-29,
+"Lau, Wing Ki Winnie 劉穎琪",None,sfclicrec.asp?p=2264288,BDJ457,http://www.sfc.hk/publicregWeb/indi/BDJ457/licenceRecord,,,Rep,2019-12-11,
+"Tao, Shi (SFC:AGS762) 陶石",None,sfclicrec.asp?p=73101,AGS762,http://www.sfc.hk/publicregWeb/indi/AGS762/licenceRecord,,,RO,2019-11-29,

@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Charles, Keiren ",sfclicrec.asp?p=129399,,,RO,2010-03-31,
-"Lau, Yi Wang Ivan 柳意旺",sfclicrec.asp?p=12644833,,,Rep,2017-12-15,
-"Li, Licong 李麗聰",sfclicrec.asp?p=2675358,,,Rep,2016-12-19,
-"Lim, Shueh Yung ",sfclicrec.asp?p=129400,,,RO,2010-03-31,
-"Orchard, Andrew John (SFC:AVG755) ",sfclicrec.asp?p=93421,,M,Rep,2019-08-19,
-"Tse, Phoebe Yuen Ting 謝宛庭",sfclicrec.asp?p=69822,,F,Rep,2015-12-18,
-"Wang, Lixiao 王黎晓",sfclicrec.asp?p=2255044,,,Rep,2014-04-07,2015-06-28
-"Wang, Rui (SFC:BFZ379) 王睿",sfclicrec.asp?p=2468300,,,Rep,2015-08-28,2016-07-22
-"Yip, Ka Man 葉家旻",sfclicrec.asp?p=69025,,,Rep,2013-01-14,2015-07-03
-"Yip, Shiu Lun 葉兆麟",sfclicrec.asp?p=97621,,,Rep,2015-05-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Charles, Keiren ",None,sfclicrec.asp?p=129399,AUV598,http://www.sfc.hk/publicregWeb/indi/AUV598/licenceRecord,,,RO,2010-03-31,
+"Lau, Yi Wang Ivan 柳意旺",None,sfclicrec.asp?p=12644833,BLO501,http://www.sfc.hk/publicregWeb/indi/BLO501/licenceRecord,,,Rep,2017-12-15,
+"Li, Licong 李麗聰",None,sfclicrec.asp?p=2675358,BIQ846,http://www.sfc.hk/publicregWeb/indi/BIQ846/licenceRecord,,,Rep,2016-12-19,
+"Lim, Shueh Yung ",None,sfclicrec.asp?p=129400,AUV601,http://www.sfc.hk/publicregWeb/indi/AUV601/licenceRecord,,,RO,2010-03-31,
+"Orchard, Andrew John (SFC:AVG755) ",None,sfclicrec.asp?p=93421,AVG755,http://www.sfc.hk/publicregWeb/indi/AVG755/licenceRecord,,M,Rep,2019-08-19,
+"Tse, Phoebe Yuen Ting 謝宛庭",None,sfclicrec.asp?p=69822,APH924,http://www.sfc.hk/publicregWeb/indi/APH924/licenceRecord,,F,Rep,2015-12-18,
+"Wang, Lixiao 王黎晓",None,sfclicrec.asp?p=2255044,BDC360,http://www.sfc.hk/publicregWeb/indi/BDC360/licenceRecord,,,Rep,2014-04-07,2015-06-28
+"Wang, Rui (SFC:BFZ379) 王睿",None,sfclicrec.asp?p=2468300,BFZ379,http://www.sfc.hk/publicregWeb/indi/BFZ379/licenceRecord,,,Rep,2015-08-28,2016-07-22
+"Yip, Ka Man 葉家旻",None,sfclicrec.asp?p=69025,AVK955,http://www.sfc.hk/publicregWeb/indi/AVK955/licenceRecord,,,Rep,2013-01-14,2015-07-03
+"Yip, Shiu Lun 葉兆麟",None,sfclicrec.asp?p=97621,AOB531,http://www.sfc.hk/publicregWeb/indi/AOB531/licenceRecord,,,Rep,2015-05-19,

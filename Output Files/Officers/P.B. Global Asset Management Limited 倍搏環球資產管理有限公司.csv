@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Chi Ip 陳志業",sfclicrec.asp?p=73137,,,Rep,2020-01-07,
-"Chau, Yee Tin 鄒倚天",sfclicrec.asp?p=2347419,,,RO,2014-11-18,2016-04-05
-"Cheng, Yao 程瑶",sfclicrec.asp?p=2443171,,,Rep,2015-07-02,2015-09-18
-"Huang, Guang (SFC:AVS141) 黃廣",sfclicrec.asp?p=130174,,,RO,2016-04-28,2018-04-15
-"Huang, Jiansheng ",sfclicrec.asp?p=2538426,,,RO,2016-02-22,2016-06-08
-"Kang, Kai (SFC:AYJ298) 康凱",sfclicrec.asp?p=133433,,,Rep,2015-11-27,2016-04-05
-"Li, Hiu Lam 李晓林",sfclicrec.asp?p=2688107,,,Rep,2017-01-18,
-"Li, Pan Wing 李斌穎",sfclicrec.asp?p=2642480,,,Rep,2016-10-07,
-"So, Kwok Keung 蘇國強",sfclicrec.asp?p=40702,59,M,RO,2018-05-02,
-"Tang, Chunhua 唐春華",sfclicrec.asp?p=130735,,,RO,2014-11-18,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Chi Ip 陳志業",None,sfclicrec.asp?p=73137,ACN933,http://www.sfc.hk/publicregWeb/indi/ACN933/licenceRecord,,,Rep,2020-01-07,
+"Chau, Yee Tin 鄒倚天",None,sfclicrec.asp?p=2347419,BDV831,http://www.sfc.hk/publicregWeb/indi/BDV831/licenceRecord,,,RO,2014-11-18,2016-04-05
+"Cheng, Yao 程瑶",None,sfclicrec.asp?p=2443171,BFN104,http://www.sfc.hk/publicregWeb/indi/BFN104/licenceRecord,,,Rep,2015-07-02,2015-09-18
+"Huang, Guang (SFC:AVS141) 黃廣",None,sfclicrec.asp?p=130174,AVS141,http://www.sfc.hk/publicregWeb/indi/AVS141/licenceRecord,,,RO,2016-04-28,2018-04-15
+"Huang, Jiansheng ",None,sfclicrec.asp?p=2538426,BGM244,http://www.sfc.hk/publicregWeb/indi/BGM244/licenceRecord,,,RO,2016-02-22,2016-06-08
+"Kang, Kai (SFC:AYJ298) 康凱",None,sfclicrec.asp?p=133433,AYJ298,http://www.sfc.hk/publicregWeb/indi/AYJ298/licenceRecord,,,Rep,2015-11-27,2016-04-05
+"Li, Hiu Lam 李晓林",None,sfclicrec.asp?p=2688107,BIY475,http://www.sfc.hk/publicregWeb/indi/BIY475/licenceRecord,,,Rep,2017-01-18,
+"Li, Pan Wing 李斌穎",None,sfclicrec.asp?p=2642480,BIH304,http://www.sfc.hk/publicregWeb/indi/BIH304/licenceRecord,,,Rep,2016-10-07,
+"So, Kwok Keung 蘇國強",None,sfclicrec.asp?p=40702,ABP335,http://www.sfc.hk/publicregWeb/indi/ABP335/licenceRecord,59.0,M,RO,2018-05-02,
+"Tang, Chunhua 唐春華",None,sfclicrec.asp?p=130735,AWP783,http://www.sfc.hk/publicregWeb/indi/AWP783/licenceRecord,,,RO,2014-11-18,

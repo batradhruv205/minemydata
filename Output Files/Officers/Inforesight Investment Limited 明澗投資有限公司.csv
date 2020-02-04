@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Gao, Ping (SFC:ALB387) 高平",sfclicrec.asp?p=114289,,,RO,2017-02-10,
-"Ni, Xiaodong 倪晓东",sfclicrec.asp?p=12814204,,,Rep,2018-02-27,2018-03-14
-"Ni, Xiaodong 倪晓东",sfclicrec.asp?p=12814204,,,RO,2018-03-14,
-"Zong, Xing 宗兴",sfclicrec.asp?p=136051,,,RO,2017-02-10,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Gao, Ping (SFC:ALB387) 高平",None,sfclicrec.asp?p=114289,ALB387,http://www.sfc.hk/publicregWeb/indi/ALB387/licenceRecord,,,RO,2017-02-10,
+"Ni, Xiaodong 倪晓东",None,sfclicrec.asp?p=12814204,BJW524,http://www.sfc.hk/publicregWeb/indi/BJW524/licenceRecord,,,Rep,2018-02-27,2018-03-14
+"Ni, Xiaodong 倪晓东",None,sfclicrec.asp?p=12814204,BJW524,http://www.sfc.hk/publicregWeb/indi/BJW524/licenceRecord,,,RO,2018-03-14,
+"Zong, Xing 宗兴",None,sfclicrec.asp?p=136051,AYU389,http://www.sfc.hk/publicregWeb/indi/AYU389/licenceRecord,,,RO,2017-02-10,

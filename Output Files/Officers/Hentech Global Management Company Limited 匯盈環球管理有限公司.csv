@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chiu, Francis 趙伯琛",sfclicrec.asp?p=56593,58,M,RO,2018-12-06,
-"Li, Cheuk Fai 李卓輝",sfclicrec.asp?p=134218,,,RO,2018-12-06,2019-11-01
-"Wong, Albert Ka Wah 黃家華",sfclicrec.asp?p=97629,46,M,Rep,2019-10-04,2019-10-31
-"Wong, Albert Ka Wah 黃家華",sfclicrec.asp?p=97629,46,M,RO,2019-10-31,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chiu, Francis 趙伯琛",None,sfclicrec.asp?p=56593,AUV238,http://www.sfc.hk/publicregWeb/indi/AUV238/licenceRecord,58.0,M,RO,2018-12-06,
+"Li, Cheuk Fai 李卓輝",None,sfclicrec.asp?p=134218,AYK176,http://www.sfc.hk/publicregWeb/indi/AYK176/licenceRecord,,,RO,2018-12-06,2019-11-01
+"Wong, Albert Ka Wah 黃家華",None,sfclicrec.asp?p=97629,AEK108,http://www.sfc.hk/publicregWeb/indi/AEK108/licenceRecord,46.0,M,Rep,2019-10-04,2019-10-31
+"Wong, Albert Ka Wah 黃家華",None,sfclicrec.asp?p=97629,AEK108,http://www.sfc.hk/publicregWeb/indi/AEK108/licenceRecord,46.0,M,RO,2019-10-31,

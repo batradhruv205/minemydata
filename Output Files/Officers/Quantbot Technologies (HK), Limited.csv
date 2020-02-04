@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Botlo, Michael ",sfclicrec.asp?p=12492552,,M,RO,2017-11-09,
-"Chin, Edward Chi Kin 錢志健",sfclicrec.asp?p=38558,,M,RO,2016-05-24,
-"Leung, Chui Shan 梁翠珊",sfclicrec.asp?p=2613665,,,Rep,2016-08-01,2017-08-06
-"Sum, Sung Fung 岑崇峯",sfclicrec.asp?p=22353806,,,Rep,2018-10-25,
-"Tam, Hiu Ching 譚曉晴",sfclicrec.asp?p=13749443,,,Rep,2018-04-11,2018-07-16
-"Wu, Johnson 胡宗迅",sfclicrec.asp?p=103412,,M,RO,2016-05-24,
-"Wu, Kai Chiu 胡棨朝",sfclicrec.asp?p=12656109,,,Rep,2017-12-21,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Botlo, Michael ",None,sfclicrec.asp?p=12492552,BGY996,http://www.sfc.hk/publicregWeb/indi/BGY996/licenceRecord,,M,RO,2017-11-09,
+"Chin, Edward Chi Kin 錢志健",None,sfclicrec.asp?p=38558,AFY839,http://www.sfc.hk/publicregWeb/indi/AFY839/licenceRecord,,M,RO,2016-05-24,
+"Leung, Chui Shan 梁翠珊",None,sfclicrec.asp?p=2613665,BHT572,http://www.sfc.hk/publicregWeb/indi/BHT572/licenceRecord,,,Rep,2016-08-01,2017-08-06
+"Sum, Sung Fung 岑崇峯",None,sfclicrec.asp?p=22353806,BNO988,http://www.sfc.hk/publicregWeb/indi/BNO988/licenceRecord,,,Rep,2018-10-25,
+"Tam, Hiu Ching 譚曉晴",None,sfclicrec.asp?p=13749443,BMO581,http://www.sfc.hk/publicregWeb/indi/BMO581/licenceRecord,,,Rep,2018-04-11,2018-07-16
+"Wu, Johnson 胡宗迅",None,sfclicrec.asp?p=103412,ACX408,http://www.sfc.hk/publicregWeb/indi/ACX408/licenceRecord,,M,RO,2016-05-24,
+"Wu, Kai Chiu 胡棨朝",None,sfclicrec.asp?p=12656109,BLM743,http://www.sfc.hk/publicregWeb/indi/BLM743/licenceRecord,,,Rep,2017-12-21,

@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chang, Timothy Chi-Ming 張墀鳴",sfclicrec.asp?p=103773,,M,Rep,2012-02-01,2013-10-18
-"Chang, Timothy Chi-Ming 張墀鳴",sfclicrec.asp?p=103773,,M,RO,2013-10-18,2019-06-05
-"Chang, Timothy Chi-Ming 張墀鳴",sfclicrec.asp?p=103773,,M,Rep,2019-06-05,
-"Chik, Yin Yan 植彥昕",sfclicrec.asp?p=2117948,,,Rep,2018-08-02,2019-07-31
-"Chin, Genny Kwan Yiu 錢隽瑤",sfclicrec.asp?p=2310860,,,Rep,2019-02-22,
-"Chin, Gordon Louis ",sfclicrec.asp?p=2356123,,M,Rep,2014-12-08,2015-09-30
-"Gong, Lixun 宮力迅",sfclicrec.asp?p=114161,,,RO,2010-02-17,2010-11-01
-"King, Kalina Shaw Tsang-Jia ",sfclicrec.asp?p=126287,,,Rep,2012-02-22,2013-05-21
-"Lau, Tony Yik Tung 劉奕彤",sfclicrec.asp?p=95113,,M,Rep,2015-11-23,2017-10-31
-"Ng, Michael Hoi Kit 吳海傑",sfclicrec.asp?p=128778,,M,RO,2010-02-17,2011-09-19
-"Sulger Leung, Michelle Anne Quan Yue 梁琨如",sfclicrec.asp?p=104334,,F,RO,2010-02-17,2013-10-21
-"Sulger, Derek Nelsen 蘇丹瑞",sfclicrec.asp?p=128777,,M,RO,2010-02-17,
-"Tang, Stephen Tin Lok 鄧天樂",sfclicrec.asp?p=2143852,44,M,Rep,2013-10-09,2017-08-18
-"Wong, Wai (SFC:BMO007) 王瑋",sfclicrec.asp?p=13932337,,,Rep,2018-04-18,
-"Wu, Hongping (SFC:BOH489) ",sfclicrec.asp?p=23287874,,,Rep,2019-06-11,2019-08-09
-"Wu, Hongping (SFC:BOH489) ",sfclicrec.asp?p=23287874,,,RO,2019-08-09,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chang, Timothy Chi-Ming 張墀鳴",None,sfclicrec.asp?p=103773,ADI191,http://www.sfc.hk/publicregWeb/indi/ADI191/licenceRecord,,M,Rep,2012-02-01,2013-10-18
+"Chang, Timothy Chi-Ming 張墀鳴",None,sfclicrec.asp?p=103773,ADI191,http://www.sfc.hk/publicregWeb/indi/ADI191/licenceRecord,,M,RO,2013-10-18,2019-06-05
+"Chang, Timothy Chi-Ming 張墀鳴",None,sfclicrec.asp?p=103773,ADI191,http://www.sfc.hk/publicregWeb/indi/ADI191/licenceRecord,,M,Rep,2019-06-05,
+"Chik, Yin Yan 植彥昕",None,sfclicrec.asp?p=2117948,BBS682,http://www.sfc.hk/publicregWeb/indi/BBS682/licenceRecord,,,Rep,2018-08-02,2019-07-31
+"Chin, Genny Kwan Yiu 錢隽瑤",None,sfclicrec.asp?p=2310860,BDY727,http://www.sfc.hk/publicregWeb/indi/BDY727/licenceRecord,,,Rep,2019-02-22,
+"Chin, Gordon Louis ",None,sfclicrec.asp?p=2356123,BEM050,http://www.sfc.hk/publicregWeb/indi/BEM050/licenceRecord,,M,Rep,2014-12-08,2015-09-30
+"Gong, Lixun 宮力迅",None,sfclicrec.asp?p=114161,AKX873,http://www.sfc.hk/publicregWeb/indi/AKX873/licenceRecord,,,RO,2010-02-17,2010-11-01
+"King, Kalina Shaw Tsang-Jia ",None,sfclicrec.asp?p=126287,ARL029,http://www.sfc.hk/publicregWeb/indi/ARL029/licenceRecord,,,Rep,2012-02-22,2013-05-21
+"Lau, Tony Yik Tung 劉奕彤",None,sfclicrec.asp?p=95113,ARM315,http://www.sfc.hk/publicregWeb/indi/ARM315/licenceRecord,,M,Rep,2015-11-23,2017-10-31
+"Ng, Michael Hoi Kit 吳海傑",None,sfclicrec.asp?p=128778,ATY490,http://www.sfc.hk/publicregWeb/indi/ATY490/licenceRecord,,M,RO,2010-02-17,2011-09-19
+"Sulger Leung, Michelle Anne Quan Yue 梁琨如",None,sfclicrec.asp?p=104334,ADW966,http://www.sfc.hk/publicregWeb/indi/ADW966/licenceRecord,,F,RO,2010-02-17,2013-10-21
+"Sulger, Derek Nelsen 蘇丹瑞",None,sfclicrec.asp?p=128777,ATY489,http://www.sfc.hk/publicregWeb/indi/ATY489/licenceRecord,,M,RO,2010-02-17,
+"Tang, Stephen Tin Lok 鄧天樂",None,sfclicrec.asp?p=2143852,BBW647,http://www.sfc.hk/publicregWeb/indi/BBW647/licenceRecord,44.0,M,Rep,2013-10-09,2017-08-18
+"Wong, Wai (SFC:BMO007) 王瑋",None,sfclicrec.asp?p=13932337,BMO007,http://www.sfc.hk/publicregWeb/indi/BMO007/licenceRecord,,,Rep,2018-04-18,
+"Wu, Hongping (SFC:BOH489) ",None,sfclicrec.asp?p=23287874,BOH489,http://www.sfc.hk/publicregWeb/indi/BOH489/licenceRecord,,,Rep,2019-06-11,2019-08-09
+"Wu, Hongping (SFC:BOH489) ",None,sfclicrec.asp?p=23287874,BOH489,http://www.sfc.hk/publicregWeb/indi/BOH489/licenceRecord,,,RO,2019-08-09,

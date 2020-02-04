@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Ka Ho (SFC:AWL141) 陳家浩",sfclicrec.asp?p=73835,,,Rep,2018-11-30,
-"Cheung, Shing Kit 張成杰",sfclicrec.asp?p=2267095,,,Rep,2016-12-02,2017-04-27
-"Ching, Kwok Leung (SFC:AIX142) 程國樑",sfclicrec.asp?p=98600,,,RO,2015-03-19,2019-04-09
-"Choi, Pik Chi 蔡碧芝",sfclicrec.asp?p=83846,,,Rep,2015-04-22,2015-08-14
-"Hui, Kit Chiu 許傑超",sfclicrec.asp?p=135070,,,Rep,2016-10-19,
-"Lam, Juliana Wang Key 林宏姬",sfclicrec.asp?p=75019,,F,Rep,2015-12-10,2016-10-31
-"Lee, Lip Yee 李聶而",sfclicrec.asp?p=2593801,,,Rep,2017-07-26,
-"Lui, Hera 雷熹樺",sfclicrec.asp?p=2486238,,,Rep,2015-10-14,2015-10-28
-"Tse, Wai Biu 謝偉標",sfclicrec.asp?p=72184,,,Rep,2019-08-09,2019-09-20
-"Tse, Wai Biu 謝偉標",sfclicrec.asp?p=72184,,,RO,2019-09-20,
-"Wong, Kim Kiu 黃劍翹",sfclicrec.asp?p=99993,,,RO,2015-03-19,
-"Wong, Wai San 黃偉新",sfclicrec.asp?p=72997,,,Rep,2019-03-15,2019-04-08
-"Wong, Wai San 黃偉新",sfclicrec.asp?p=72997,,,RO,2019-04-08,2019-09-23
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Ka Ho (SFC:AWL141) 陳家浩",None,sfclicrec.asp?p=73835,AWL141,http://www.sfc.hk/publicregWeb/indi/AWL141/licenceRecord,,,Rep,2018-11-30,
+"Cheung, Shing Kit 張成杰",None,sfclicrec.asp?p=2267095,BDF108,http://www.sfc.hk/publicregWeb/indi/BDF108/licenceRecord,,,Rep,2016-12-02,2017-04-27
+"Ching, Kwok Leung (SFC:AIX142) 程國樑",None,sfclicrec.asp?p=98600,AIX142,http://www.sfc.hk/publicregWeb/indi/AIX142/licenceRecord,,,RO,2015-03-19,2019-04-09
+"Choi, Pik Chi 蔡碧芝",None,sfclicrec.asp?p=83846,ADW996,http://www.sfc.hk/publicregWeb/indi/ADW996/licenceRecord,,,Rep,2015-04-22,2015-08-14
+"Hui, Kit Chiu 許傑超",None,sfclicrec.asp?p=135070,AYQ846,http://www.sfc.hk/publicregWeb/indi/AYQ846/licenceRecord,,,Rep,2016-10-19,
+"Lam, Juliana Wang Key 林宏姬",None,sfclicrec.asp?p=75019,AHK937,http://www.sfc.hk/publicregWeb/indi/AHK937/licenceRecord,,F,Rep,2015-12-10,2016-10-31
+"Lee, Lip Yee 李聶而",None,sfclicrec.asp?p=2593801,BHM087,http://www.sfc.hk/publicregWeb/indi/BHM087/licenceRecord,,,Rep,2017-07-26,
+"Lui, Hera 雷熹樺",None,sfclicrec.asp?p=2486238,BGC219,http://www.sfc.hk/publicregWeb/indi/BGC219/licenceRecord,,,Rep,2015-10-14,2015-10-28
+"Tse, Wai Biu 謝偉標",None,sfclicrec.asp?p=72184,AQQ123,http://www.sfc.hk/publicregWeb/indi/AQQ123/licenceRecord,,,Rep,2019-08-09,2019-09-20
+"Tse, Wai Biu 謝偉標",None,sfclicrec.asp?p=72184,AQQ123,http://www.sfc.hk/publicregWeb/indi/AQQ123/licenceRecord,,,RO,2019-09-20,
+"Wong, Kim Kiu 黃劍翹",None,sfclicrec.asp?p=99993,ARE702,http://www.sfc.hk/publicregWeb/indi/ARE702/licenceRecord,,,RO,2015-03-19,
+"Wong, Wai San 黃偉新",None,sfclicrec.asp?p=72997,AHP442,http://www.sfc.hk/publicregWeb/indi/AHP442/licenceRecord,,,Rep,2019-03-15,2019-04-08
+"Wong, Wai San 黃偉新",None,sfclicrec.asp?p=72997,AHP442,http://www.sfc.hk/publicregWeb/indi/AHP442/licenceRecord,,,RO,2019-04-08,2019-09-23

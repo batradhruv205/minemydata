@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Alex King Fai 陳敬輝",sfclicrec.asp?p=2330794,,,RO,2014-10-10,2015-11-01
-"Cheng, Chi Yuet 鄭子越",sfclicrec.asp?p=88798,,,RO,2014-10-10,
-"Chong, Wai Wang 莊為宏",sfclicrec.asp?p=17301882,,,Rep,2018-06-14,
-"Lam, Sum Yuen 林琛源",sfclicrec.asp?p=17301884,,,Rep,2018-06-14,
-"Leung, Kwok Wai (SFC:AFB193) 梁國威",sfclicrec.asp?p=73294,,,RO,2019-02-20,
-"Tam, George Chi Ming 譚志明",sfclicrec.asp?p=51623,45,M,Rep,2015-04-30,2017-12-29
-"Tung, Thomas Yiu Kwong 董耀光",sfclicrec.asp?p=102625,,M,RO,2015-11-05,
-"Wong, Matthew Chung-Yuen 黃宗源",sfclicrec.asp?p=17301887,,M,Rep,2018-06-14,2019-12-14
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Alex King Fai 陳敬輝",None,sfclicrec.asp?p=2330794,BDY278,http://www.sfc.hk/publicregWeb/indi/BDY278/licenceRecord,,,RO,2014-10-10,2015-11-01
+"Cheng, Chi Yuet 鄭子越",None,sfclicrec.asp?p=88798,AHN578,http://www.sfc.hk/publicregWeb/indi/AHN578/licenceRecord,,,RO,2014-10-10,
+"Chong, Wai Wang 莊為宏",None,sfclicrec.asp?p=17301882,BMV878,http://www.sfc.hk/publicregWeb/indi/BMV878/licenceRecord,,,Rep,2018-06-14,
+"Lam, Sum Yuen 林琛源",None,sfclicrec.asp?p=17301884,BJK798,http://www.sfc.hk/publicregWeb/indi/BJK798/licenceRecord,,,Rep,2018-06-14,
+"Leung, Kwok Wai (SFC:AFB193) 梁國威",None,sfclicrec.asp?p=73294,AFB193,http://www.sfc.hk/publicregWeb/indi/AFB193/licenceRecord,,,RO,2019-02-20,
+"Tam, George Chi Ming 譚志明",None,sfclicrec.asp?p=51623,AIO002,http://www.sfc.hk/publicregWeb/indi/AIO002/licenceRecord,45.0,M,Rep,2015-04-30,2017-12-29
+"Tung, Thomas Yiu Kwong 董耀光",None,sfclicrec.asp?p=102625,ACC602,http://www.sfc.hk/publicregWeb/indi/ACC602/licenceRecord,,M,RO,2015-11-05,
+"Wong, Matthew Chung-Yuen 黃宗源",None,sfclicrec.asp?p=17301887,BMV879,http://www.sfc.hk/publicregWeb/indi/BMV879/licenceRecord,,M,Rep,2018-06-14,2019-12-14

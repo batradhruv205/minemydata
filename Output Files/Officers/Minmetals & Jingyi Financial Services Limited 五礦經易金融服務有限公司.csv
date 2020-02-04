@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Wing Sze (SFC:BNS771) 陳詠斯",sfclicrec.asp?p=22503608,,,Rep,2018-12-03,
-"Cheung, Kit Shing 張傑成",sfclicrec.asp?p=2338028,,,Rep,2018-12-11,2020-01-03
-"Cheung, Kit Shing 張傑成",sfclicrec.asp?p=2338028,,,RO,2020-01-03,
-"Fung, Shing Wai 馮承偉",sfclicrec.asp?p=73566,,,Rep,2018-12-11,
-"Kwan, Lim Pong 關念邦",sfclicrec.asp?p=72949,,,RO,2018-10-08,
-"Li, Gang (SFC:AOU897) 李剛",sfclicrec.asp?p=73563,,,RO,2018-10-08,
-"Lin, Weichun 林偉純",sfclicrec.asp?p=22885061,,,Rep,2019-03-11,
-"Shao, Weiliang 邵維亮",sfclicrec.asp?p=22244398,,,RO,2018-10-08,2019-11-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Wing Sze (SFC:BNS771) 陳詠斯",None,sfclicrec.asp?p=22503608,BNS771,http://www.sfc.hk/publicregWeb/indi/BNS771/licenceRecord,,,Rep,2018-12-03,
+"Cheung, Kit Shing 張傑成",None,sfclicrec.asp?p=2338028,BEJ868,http://www.sfc.hk/publicregWeb/indi/BEJ868/licenceRecord,,,Rep,2018-12-11,2020-01-03
+"Cheung, Kit Shing 張傑成",None,sfclicrec.asp?p=2338028,BEJ868,http://www.sfc.hk/publicregWeb/indi/BEJ868/licenceRecord,,,RO,2020-01-03,
+"Fung, Shing Wai 馮承偉",None,sfclicrec.asp?p=73566,AWJ859,http://www.sfc.hk/publicregWeb/indi/AWJ859/licenceRecord,,,Rep,2018-12-11,
+"Kwan, Lim Pong 關念邦",None,sfclicrec.asp?p=72949,ALL139,http://www.sfc.hk/publicregWeb/indi/ALL139/licenceRecord,,,RO,2018-10-08,
+"Li, Gang (SFC:AOU897) 李剛",None,sfclicrec.asp?p=73563,AOU897,http://www.sfc.hk/publicregWeb/indi/AOU897/licenceRecord,,,RO,2018-10-08,
+"Lin, Weichun 林偉純",None,sfclicrec.asp?p=22885061,BOC248,http://www.sfc.hk/publicregWeb/indi/BOC248/licenceRecord,,,Rep,2019-03-11,
+"Shao, Weiliang 邵維亮",None,sfclicrec.asp?p=22244398,BMV934,http://www.sfc.hk/publicregWeb/indi/BMV934/licenceRecord,,,RO,2018-10-08,2019-11-30

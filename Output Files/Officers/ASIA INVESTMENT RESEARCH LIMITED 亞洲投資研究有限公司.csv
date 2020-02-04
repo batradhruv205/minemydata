@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chow, Chun Kit (SFC:ALI715) 周俊傑",sfclicrec.asp?p=114753,,,Rep,2015-10-16,2017-03-02
-"Kan, Alice Lai Kuen 簡麗娟",sfclicrec.asp?p=14922,65,F,RO,2002-06-27,2016-09-28
-"Kan, Phyllis Lai Ping 簡麗萍",sfclicrec.asp?p=107567,,F,RO,2005-01-17,2007-03-06
-"Lee, Ka Lun (SFC:AGM564) 李家麟",sfclicrec.asp?p=8575,65,M,Rep,2008-03-17,2008-07-07
-"Lee, Ka Lun (SFC:AGM564) 李家麟",sfclicrec.asp?p=8575,65,M,RO,2008-07-07,2016-09-28
-"Lee, Mei Chi 李美芝",sfclicrec.asp?p=98626,,,RO,2016-09-22,
-"Lee, Ming Tak (SFC:ANT235) 李明德",sfclicrec.asp?p=119229,,,Rep,2016-08-02,2016-09-22
-"Lee, Ming Tak (SFC:ANT235) 李明德",sfclicrec.asp?p=119229,,,RO,2016-09-22,2018-07-15
-"Li, Alfa Yong (SFC:AJG548) 李勇",sfclicrec.asp?p=113207,,,Rep,2004-10-29,2007-01-25
-"Lu, Zhuo (SFC:AVC087) 呂卓",sfclicrec.asp?p=74417,37,F,Rep,2014-08-14,2015-08-01
-"Ma, Wai Fong 馬惠芳",sfclicrec.asp?p=69064,,,Rep,2007-04-23,2007-05-28
-"Ma, Wai Fong 馬惠芳",sfclicrec.asp?p=69064,,,RO,2007-05-28,2007-11-28
-"Ma, Wai Fong 馬惠芳",sfclicrec.asp?p=69064,,,Rep,2008-02-01,2016-09-28
-"Poon, Cheuk Fai 潘卓輝",sfclicrec.asp?p=91373,,,Rep,2005-05-17,2005-10-31
-"Tse, Wing Keung 謝永強",sfclicrec.asp?p=88266,,,RO,2018-10-08,
-"Wong, Kun Kim 黃鈞黔",sfclicrec.asp?p=16120,76,M,RO,2008-02-29,2016-09-28
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chow, Chun Kit (SFC:ALI715) 周俊傑",None,sfclicrec.asp?p=114753,ALI715,http://www.sfc.hk/publicregWeb/indi/ALI715/licenceRecord,,,Rep,2015-10-16,2017-03-02
+"Kan, Alice Lai Kuen 簡麗娟",None,sfclicrec.asp?p=14922,AAW446,http://www.sfc.hk/publicregWeb/indi/AAW446/licenceRecord,65.0,F,RO,2002-06-27,2016-09-28
+"Kan, Phyllis Lai Ping 簡麗萍",None,sfclicrec.asp?p=107567,AFT395,http://www.sfc.hk/publicregWeb/indi/AFT395/licenceRecord,,F,RO,2005-01-17,2007-03-06
+"Lee, Ka Lun (SFC:AGM564) 李家麟",None,sfclicrec.asp?p=8575,AGM564,http://www.sfc.hk/publicregWeb/indi/AGM564/licenceRecord,65.0,M,Rep,2008-03-17,2008-07-07
+"Lee, Ka Lun (SFC:AGM564) 李家麟",None,sfclicrec.asp?p=8575,AGM564,http://www.sfc.hk/publicregWeb/indi/AGM564/licenceRecord,65.0,M,RO,2008-07-07,2016-09-28
+"Lee, Mei Chi 李美芝",None,sfclicrec.asp?p=98626,ALL205,http://www.sfc.hk/publicregWeb/indi/ALL205/licenceRecord,,,RO,2016-09-22,
+"Lee, Ming Tak (SFC:ANT235) 李明德",None,sfclicrec.asp?p=119229,ANT235,http://www.sfc.hk/publicregWeb/indi/ANT235/licenceRecord,,,Rep,2016-08-02,2016-09-22
+"Lee, Ming Tak (SFC:ANT235) 李明德",None,sfclicrec.asp?p=119229,ANT235,http://www.sfc.hk/publicregWeb/indi/ANT235/licenceRecord,,,RO,2016-09-22,2018-07-15
+"Li, Alfa Yong (SFC:AJG548) 李勇",None,sfclicrec.asp?p=113207,AJG548,http://www.sfc.hk/publicregWeb/indi/AJG548/licenceRecord,,,Rep,2004-10-29,2007-01-25
+"Lu, Zhuo (SFC:AVC087) 呂卓",None,sfclicrec.asp?p=74417,AVC087,http://www.sfc.hk/publicregWeb/indi/AVC087/licenceRecord,37.0,F,Rep,2014-08-14,2015-08-01
+"Ma, Wai Fong 馬惠芳",None,sfclicrec.asp?p=69064,AHU150,http://www.sfc.hk/publicregWeb/indi/AHU150/licenceRecord,,,Rep,2007-04-23,2007-05-28
+"Ma, Wai Fong 馬惠芳",None,sfclicrec.asp?p=69064,AHU150,http://www.sfc.hk/publicregWeb/indi/AHU150/licenceRecord,,,RO,2007-05-28,2007-11-28
+"Ma, Wai Fong 馬惠芳",None,sfclicrec.asp?p=69064,AHU150,http://www.sfc.hk/publicregWeb/indi/AHU150/licenceRecord,,,Rep,2008-02-01,2016-09-28
+"Poon, Cheuk Fai 潘卓輝",None,sfclicrec.asp?p=91373,ALV009,http://www.sfc.hk/publicregWeb/indi/ALV009/licenceRecord,,,Rep,2005-05-17,2005-10-31
+"Tse, Wing Keung 謝永強",None,sfclicrec.asp?p=88266,ACJ320,http://www.sfc.hk/publicregWeb/indi/ACJ320/licenceRecord,,,RO,2018-10-08,
+"Wong, Kun Kim 黃鈞黔",None,sfclicrec.asp?p=16120,AAG781,http://www.sfc.hk/publicregWeb/indi/AAG781/licenceRecord,76.0,M,RO,2008-02-29,2016-09-28

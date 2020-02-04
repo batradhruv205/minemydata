@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Amy Wai Bik 陳慧碧",sfclicrec.asp?p=100108,,F,Rep,2019-03-22,
-"Chan, Wai Shun (SFC:ADN090) 陳威信",sfclicrec.asp?p=100398,,,Rep,2005-07-05,
-"Chan, Wun (SFC:AAB396) 陳垣",sfclicrec.asp?p=85780,,,Rep,2017-04-24,2019-11-04
-"Choi, Yuet Wah 蔡月華",sfclicrec.asp?p=99202,,,Rep,,2007-01-02
-"Hung, Chiu Kan 洪僑根",sfclicrec.asp?p=99223,,,Rep,,2008-06-06
-"Lau, Wai Yin (SFC:ABN751) 劉偉賢",sfclicrec.asp?p=102170,,,Rep,,2005-03-18
-"Lau, Wai Yin (SFC:ABN751) 劉偉賢",sfclicrec.asp?p=102170,,,Rep,2008-03-31,2008-07-10
-"Lau, Wai Yin (SFC:ABN751) 劉偉賢",sfclicrec.asp?p=102170,,,RO,2008-07-10,2009-03-31
-"Lo, Mun Yuen 盧滿圓",sfclicrec.asp?p=100396,,,RO,,
-"Lo, Shuk Fan 羅淑芬",sfclicrec.asp?p=100399,,,Rep,2005-04-11,
-"Lo, Tsui Lan 盧翠蘭",sfclicrec.asp?p=100401,,,Rep,,
-"Tsui, Chung Ho (SFC:AEF492) 徐仲豪",sfclicrec.asp?p=104718,,,Rep,,2006-05-31
-"Wong, Hou Yu 黃孝耀",sfclicrec.asp?p=102306,,,Rep,2005-04-01,2007-03-28
-"Yeung, Yee Fai 楊怡輝",sfclicrec.asp?p=100402,,,Rep,,2011-10-14
-"Yeung, Yee Fai 楊怡輝",sfclicrec.asp?p=100402,,,RO,2011-10-14,
-"Yeung, Yee Hing 楊怡興",sfclicrec.asp?p=100397,,,RO,,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Amy Wai Bik 陳慧碧",None,sfclicrec.asp?p=100108,AAB421,http://www.sfc.hk/publicregWeb/indi/AAB421/licenceRecord,,F,Rep,2019-03-22,
+"Chan, Wai Shun (SFC:ADN090) 陳威信",None,sfclicrec.asp?p=100398,ADN090,http://www.sfc.hk/publicregWeb/indi/ADN090/licenceRecord,,,Rep,2005-07-05,
+"Chan, Wun (SFC:AAB396) 陳垣",None,sfclicrec.asp?p=85780,AAB396,http://www.sfc.hk/publicregWeb/indi/AAB396/licenceRecord,,,Rep,2017-04-24,2019-11-04
+"Choi, Yuet Wah 蔡月華",None,sfclicrec.asp?p=99202,ACE033,http://www.sfc.hk/publicregWeb/indi/ACE033/licenceRecord,,,Rep,,2007-01-02
+"Hung, Chiu Kan 洪僑根",None,sfclicrec.asp?p=99223,AAB115,http://www.sfc.hk/publicregWeb/indi/AAB115/licenceRecord,,,Rep,,2008-06-06
+"Lau, Wai Yin (SFC:ABN751) 劉偉賢",None,sfclicrec.asp?p=102170,ABN751,http://www.sfc.hk/publicregWeb/indi/ABN751/licenceRecord,,,Rep,,2005-03-18
+"Lau, Wai Yin (SFC:ABN751) 劉偉賢",None,sfclicrec.asp?p=102170,ABN751,http://www.sfc.hk/publicregWeb/indi/ABN751/licenceRecord,,,Rep,2008-03-31,2008-07-10
+"Lau, Wai Yin (SFC:ABN751) 劉偉賢",None,sfclicrec.asp?p=102170,ABN751,http://www.sfc.hk/publicregWeb/indi/ABN751/licenceRecord,,,RO,2008-07-10,2009-03-31
+"Lo, Mun Yuen 盧滿圓",None,sfclicrec.asp?p=100396,AAH773,http://www.sfc.hk/publicregWeb/indi/AAH773/licenceRecord,,,RO,,
+"Lo, Shuk Fan 羅淑芬",None,sfclicrec.asp?p=100399,ABA569,http://www.sfc.hk/publicregWeb/indi/ABA569/licenceRecord,,,Rep,2005-04-11,
+"Lo, Tsui Lan 盧翠蘭",None,sfclicrec.asp?p=100401,AAH776,http://www.sfc.hk/publicregWeb/indi/AAH776/licenceRecord,,,Rep,,
+"Tsui, Chung Ho (SFC:AEF492) 徐仲豪",None,sfclicrec.asp?p=104718,AEF492,http://www.sfc.hk/publicregWeb/indi/AEF492/licenceRecord,,,Rep,,2006-05-31
+"Wong, Hou Yu 黃孝耀",None,sfclicrec.asp?p=102306,ABS843,http://www.sfc.hk/publicregWeb/indi/ABS843/licenceRecord,,,Rep,2005-04-01,2007-03-28
+"Yeung, Yee Fai 楊怡輝",None,sfclicrec.asp?p=100402,ACY972,http://www.sfc.hk/publicregWeb/indi/ACY972/licenceRecord,,,Rep,,2011-10-14
+"Yeung, Yee Fai 楊怡輝",None,sfclicrec.asp?p=100402,ACY972,http://www.sfc.hk/publicregWeb/indi/ACY972/licenceRecord,,,RO,2011-10-14,
+"Yeung, Yee Hing 楊怡興",None,sfclicrec.asp?p=100397,ABQ896,http://www.sfc.hk/publicregWeb/indi/ABQ896/licenceRecord,,,RO,,

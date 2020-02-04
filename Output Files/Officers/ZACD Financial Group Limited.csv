@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Baur, Darin Daniel ",sfclicrec.asp?p=124513,,M,RO,2016-12-02,2019-05-31
-"Choi, Jerry Wai Lam 蔡偉霖",sfclicrec.asp?p=2667700,,M,RO,2016-12-02,2018-09-28
-"Hsiao, Roy ",sfclicrec.asp?p=2152434,,M,RO,2019-03-01,
-"Li, Qinglin (SFC:BJT269) 李青林",sfclicrec.asp?p=11669329,,,Rep,2017-06-27,
-"Siew, Chen Yei 蕭勁毅",sfclicrec.asp?p=90720,43,M,RO,2016-12-02,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Baur, Darin Daniel ",None,sfclicrec.asp?p=124513,AQO190,http://www.sfc.hk/publicregWeb/indi/AQO190/licenceRecord,,M,RO,2016-12-02,2019-05-31
+"Choi, Jerry Wai Lam 蔡偉霖",None,sfclicrec.asp?p=2667700,ACP667,http://www.sfc.hk/publicregWeb/indi/ACP667/licenceRecord,,M,RO,2016-12-02,2018-09-28
+"Hsiao, Roy ",None,sfclicrec.asp?p=2152434,BCD423,http://www.sfc.hk/publicregWeb/indi/BCD423/licenceRecord,,M,RO,2019-03-01,
+"Li, Qinglin (SFC:BJT269) 李青林",None,sfclicrec.asp?p=11669329,BJT269,http://www.sfc.hk/publicregWeb/indi/BJT269/licenceRecord,,,Rep,2017-06-27,
+"Siew, Chen Yei 蕭勁毅",None,sfclicrec.asp?p=90720,AUL981,http://www.sfc.hk/publicregWeb/indi/AUL981/licenceRecord,43.0,M,RO,2016-12-02,

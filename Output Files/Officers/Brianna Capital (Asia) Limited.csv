@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lam, Yi Wang 林怡泓",sfclicrec.asp?p=2260139,,,RO,2018-08-24,
-"Wang, Daniel Hua-chang ",sfclicrec.asp?p=97859,,M,RO,2018-08-24,
-"Zhang, Jie (SFC:BJL754) 張洁",sfclicrec.asp?p=9408005,,,Rep,2018-09-18,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lam, Yi Wang 林怡泓",None,sfclicrec.asp?p=2260139,BDE258,http://www.sfc.hk/publicregWeb/indi/BDE258/licenceRecord,,,RO,2018-08-24,
+"Wang, Daniel Hua-chang ",None,sfclicrec.asp?p=97859,AIO089,http://www.sfc.hk/publicregWeb/indi/AIO089/licenceRecord,,M,RO,2018-08-24,
+"Zhang, Jie (SFC:BJL754) 張洁",None,sfclicrec.asp?p=9408005,BJL754,http://www.sfc.hk/publicregWeb/indi/BJL754/licenceRecord,,,Rep,2018-09-18,

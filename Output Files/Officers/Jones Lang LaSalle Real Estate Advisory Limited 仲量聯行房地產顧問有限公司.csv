@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Oliver Ying Bin 陳穎斌",sfclicrec.asp?p=19277185,,M,RO,2018-07-09,
-"Fu, Kexin 富可心",sfclicrec.asp?p=21577732,,,Rep,2018-08-07,2019-12-31
-"Narayan, Shashank ",sfclicrec.asp?p=22249164,,,Rep,2018-10-12,2019-10-11
-"Van Eldik, Martijn ",sfclicrec.asp?p=2062552,,,RO,2019-01-21,
-"Wu, Clinton Yumo 吳雨墨",sfclicrec.asp?p=21577733,,M,Rep,2018-08-07,2019-05-21
-"Yeh, Eddie Shang-Yun 葉尚允",sfclicrec.asp?p=120017,,M,RO,2018-07-09,
-"Yip, Chun Pang 葉振鵬",sfclicrec.asp?p=22108807,,,Rep,2018-08-29,2019-10-11
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Oliver Ying Bin 陳穎斌",None,sfclicrec.asp?p=19277185,BMR953,http://www.sfc.hk/publicregWeb/indi/BMR953/licenceRecord,,M,RO,2018-07-09,
+"Fu, Kexin 富可心",None,sfclicrec.asp?p=21577732,BNI539,http://www.sfc.hk/publicregWeb/indi/BNI539/licenceRecord,,,Rep,2018-08-07,2019-12-31
+"Narayan, Shashank ",None,sfclicrec.asp?p=22249164,BNP372,http://www.sfc.hk/publicregWeb/indi/BNP372/licenceRecord,,,Rep,2018-10-12,2019-10-11
+"Van Eldik, Martijn ",None,sfclicrec.asp?p=2062552,BBF265,http://www.sfc.hk/publicregWeb/indi/BBF265/licenceRecord,,,RO,2019-01-21,
+"Wu, Clinton Yumo 吳雨墨",None,sfclicrec.asp?p=21577733,BNH160,http://www.sfc.hk/publicregWeb/indi/BNH160/licenceRecord,,M,Rep,2018-08-07,2019-05-21
+"Yeh, Eddie Shang-Yun 葉尚允",None,sfclicrec.asp?p=120017,AOD271,http://www.sfc.hk/publicregWeb/indi/AOD271/licenceRecord,,M,RO,2018-07-09,
+"Yip, Chun Pang 葉振鵬",None,sfclicrec.asp?p=22108807,BNJ918,http://www.sfc.hk/publicregWeb/indi/BNJ918/licenceRecord,,,Rep,2018-08-29,2019-10-11

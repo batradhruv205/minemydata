@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chang, Ioi Tim 曾銳添",sfclicrec.asp?p=88542,,,Rep,2019-03-06,2019-05-02
-"Chang, Ioi Tim 曾銳添",sfclicrec.asp?p=88542,,,RO,2019-05-02,
-"Ho, Kenneth Kar Loong 何家隆",sfclicrec.asp?p=79672,,M,RO,2018-12-13,
-"Lam, Paul Chi Yung 林智勇",sfclicrec.asp?p=79647,,M,Rep,2019-11-01,
-"Yu, Man Ting Loretta 余敏婷",sfclicrec.asp?p=83440,,,RO,2018-12-13,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chang, Ioi Tim 曾銳添",None,sfclicrec.asp?p=88542,ADZ296,http://www.sfc.hk/publicregWeb/indi/ADZ296/licenceRecord,,,Rep,2019-03-06,2019-05-02
+"Chang, Ioi Tim 曾銳添",None,sfclicrec.asp?p=88542,ADZ296,http://www.sfc.hk/publicregWeb/indi/ADZ296/licenceRecord,,,RO,2019-05-02,
+"Ho, Kenneth Kar Loong 何家隆",None,sfclicrec.asp?p=79672,ANA703,http://www.sfc.hk/publicregWeb/indi/ANA703/licenceRecord,,M,RO,2018-12-13,
+"Lam, Paul Chi Yung 林智勇",None,sfclicrec.asp?p=79647,AFT913,http://www.sfc.hk/publicregWeb/indi/AFT913/licenceRecord,,M,Rep,2019-11-01,
+"Yu, Man Ting Loretta 余敏婷",None,sfclicrec.asp?p=83440,AWE558,http://www.sfc.hk/publicregWeb/indi/AWE558/licenceRecord,,,RO,2018-12-13,

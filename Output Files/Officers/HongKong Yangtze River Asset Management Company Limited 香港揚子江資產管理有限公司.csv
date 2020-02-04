@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Li, Liu (SFC:BLR922) 李柳",sfclicrec.asp?p=20574090,,,RO,2018-05-08,
-"Tao, Ye (SFC:BLR930) 陶冶",sfclicrec.asp?p=20574091,,,RO,2018-05-08,
-"Wu, Lishan 吳莉珊",sfclicrec.asp?p=2380851,,,RO,2019-02-14,
-"Yang, Yi (SFC:BHA126) 楊奕",sfclicrec.asp?p=2549694,,,Rep,2018-07-20,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Li, Liu (SFC:BLR922) 李柳",None,sfclicrec.asp?p=20574090,BLR922,http://www.sfc.hk/publicregWeb/indi/BLR922/licenceRecord,,,RO,2018-05-08,
+"Tao, Ye (SFC:BLR930) 陶冶",None,sfclicrec.asp?p=20574091,BLR930,http://www.sfc.hk/publicregWeb/indi/BLR930/licenceRecord,,,RO,2018-05-08,
+"Wu, Lishan 吳莉珊",None,sfclicrec.asp?p=2380851,BEX966,http://www.sfc.hk/publicregWeb/indi/BEX966/licenceRecord,,,RO,2019-02-14,
+"Yang, Yi (SFC:BHA126) 楊奕",None,sfclicrec.asp?p=2549694,BHA126,http://www.sfc.hk/publicregWeb/indi/BHA126/licenceRecord,,,Rep,2018-07-20,

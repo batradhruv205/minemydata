@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Youjia 陳尤佳",sfclicrec.asp?p=2111474,,,RO,2017-09-26,
-"Cheng, Charles Yo-chuan 鄭又銓",sfclicrec.asp?p=70661,,M,RO,2017-09-26,
-"Dong, Zhen 董震",sfclicrec.asp?p=117225,,,Rep,2018-11-30,
-"Liang, Danlin 梁丹林",sfclicrec.asp?p=23293895,,,Rep,2019-06-12,
-"Luo, John Zhan ",sfclicrec.asp?p=2480123,,M,Rep,2018-12-17,2019-01-14
-"Luo, John Zhan ",sfclicrec.asp?p=2480123,,M,RO,2019-01-14,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Youjia 陳尤佳",None,sfclicrec.asp?p=2111474,BBN545,http://www.sfc.hk/publicregWeb/indi/BBN545/licenceRecord,,,RO,2017-09-26,
+"Cheng, Charles Yo-chuan 鄭又銓",None,sfclicrec.asp?p=70661,ALG172,http://www.sfc.hk/publicregWeb/indi/ALG172/licenceRecord,,M,RO,2017-09-26,
+"Dong, Zhen 董震",None,sfclicrec.asp?p=117225,AMP550,http://www.sfc.hk/publicregWeb/indi/AMP550/licenceRecord,,,Rep,2018-11-30,
+"Liang, Danlin 梁丹林",None,sfclicrec.asp?p=23293895,BOK627,http://www.sfc.hk/publicregWeb/indi/BOK627/licenceRecord,,,Rep,2019-06-12,
+"Luo, John Zhan ",None,sfclicrec.asp?p=2480123,BFX644,http://www.sfc.hk/publicregWeb/indi/BFX644/licenceRecord,,M,Rep,2018-12-17,2019-01-14
+"Luo, John Zhan ",None,sfclicrec.asp?p=2480123,BFX644,http://www.sfc.hk/publicregWeb/indi/BFX644/licenceRecord,,M,RO,2019-01-14,

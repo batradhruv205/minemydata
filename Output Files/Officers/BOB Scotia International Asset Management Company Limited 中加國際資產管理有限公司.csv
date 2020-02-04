@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ao, Yiyu 敖乙玉",sfclicrec.asp?p=2380256,,,Rep,2016-11-22,2019-01-04
-"Fan, Xiaotong 樊晓彤",sfclicrec.asp?p=23281177,,,Rep,2019-06-10,
-"Hong, Yaxin 洪雅馨",sfclicrec.asp?p=23715908,,,Rep,2019-09-27,
-"Ji, Haiming 季海明",sfclicrec.asp?p=2448673,,,RO,2015-07-14,2017-02-23
-"Liu, Shuang (SFC:AHO649) 劉爽",sfclicrec.asp?p=91081,,,RO,2015-07-14,
-"Liu, Xiaohang 劉曉航",sfclicrec.asp?p=2686994,,,Rep,2017-01-16,2017-10-26
-"Liu, Yue (SFC:BIT642) 劉悅",sfclicrec.asp?p=2693885,,,Rep,2017-02-07,
-"Tseng, Ko 曾科",sfclicrec.asp?p=88349,,,RO,2015-07-14,
-"Yang, Bin (SFC:BKA584) 楊斌",sfclicrec.asp?p=12585574,,,RO,2017-11-20,
-"Yang, Yufei (SFC:BAO939) 楊宇飛",sfclicrec.asp?p=1992739,,,Rep,2018-03-08,
-"Yao, Yingqi 姚英奇",sfclicrec.asp?p=2468311,,,Rep,2019-02-25,2019-05-17
-"Yao, Yingqi 姚英奇",sfclicrec.asp?p=2468311,,,RO,2019-05-17,
-"Zhao, Wenxiu 趙文秀",sfclicrec.asp?p=2124136,,,Rep,2015-08-04,2016-12-01
-"Zong, Fang 宗芳",sfclicrec.asp?p=6714324,,,Rep,2017-03-30,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ao, Yiyu 敖乙玉",None,sfclicrec.asp?p=2380256,BEX794,http://www.sfc.hk/publicregWeb/indi/BEX794/licenceRecord,,,Rep,2016-11-22,2019-01-04
+"Fan, Xiaotong 樊晓彤",None,sfclicrec.asp?p=23281177,BOI302,http://www.sfc.hk/publicregWeb/indi/BOI302/licenceRecord,,,Rep,2019-06-10,
+"Hong, Yaxin 洪雅馨",None,sfclicrec.asp?p=23715908,BOG800,http://www.sfc.hk/publicregWeb/indi/BOG800/licenceRecord,,,Rep,2019-09-27,
+"Ji, Haiming 季海明",None,sfclicrec.asp?p=2448673,BFL342,http://www.sfc.hk/publicregWeb/indi/BFL342/licenceRecord,,,RO,2015-07-14,2017-02-23
+"Liu, Shuang (SFC:AHO649) 劉爽",None,sfclicrec.asp?p=91081,AHO649,http://www.sfc.hk/publicregWeb/indi/AHO649/licenceRecord,,,RO,2015-07-14,
+"Liu, Xiaohang 劉曉航",None,sfclicrec.asp?p=2686994,BIV279,http://www.sfc.hk/publicregWeb/indi/BIV279/licenceRecord,,,Rep,2017-01-16,2017-10-26
+"Liu, Yue (SFC:BIT642) 劉悅",None,sfclicrec.asp?p=2693885,BIT642,http://www.sfc.hk/publicregWeb/indi/BIT642/licenceRecord,,,Rep,2017-02-07,
+"Tseng, Ko 曾科",None,sfclicrec.asp?p=88349,AQH113,http://www.sfc.hk/publicregWeb/indi/AQH113/licenceRecord,,,RO,2015-07-14,
+"Yang, Bin (SFC:BKA584) 楊斌",None,sfclicrec.asp?p=12585574,BKA584,http://www.sfc.hk/publicregWeb/indi/BKA584/licenceRecord,,,RO,2017-11-20,
+"Yang, Yufei (SFC:BAO939) 楊宇飛",None,sfclicrec.asp?p=1992739,BAO939,http://www.sfc.hk/publicregWeb/indi/BAO939/licenceRecord,,,Rep,2018-03-08,
+"Yao, Yingqi 姚英奇",None,sfclicrec.asp?p=2468311,BDM677,http://www.sfc.hk/publicregWeb/indi/BDM677/licenceRecord,,,Rep,2019-02-25,2019-05-17
+"Yao, Yingqi 姚英奇",None,sfclicrec.asp?p=2468311,BDM677,http://www.sfc.hk/publicregWeb/indi/BDM677/licenceRecord,,,RO,2019-05-17,
+"Zhao, Wenxiu 趙文秀",None,sfclicrec.asp?p=2124136,BBU280,http://www.sfc.hk/publicregWeb/indi/BBU280/licenceRecord,,,Rep,2015-08-04,2016-12-01
+"Zong, Fang 宗芳",None,sfclicrec.asp?p=6714324,BJD918,http://www.sfc.hk/publicregWeb/indi/BJD918/licenceRecord,,,Rep,2017-03-30,

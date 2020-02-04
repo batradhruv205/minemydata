@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Cho Yan 鄭祖茵",sfclicrec.asp?p=2712004,,,Rep,2018-04-03,2018-07-28
-"Lam, Wai Keung (SFC:AFG006) 林偉強",sfclicrec.asp?p=106069,,,RO,2018-03-20,
-"Yeung, Hey Wai 楊起威",sfclicrec.asp?p=2713037,,,Rep,2019-01-11,2019-01-31
-"Yeung, Wai Kei (SFC:AOX999) 楊偉基",sfclicrec.asp?p=91107,,,RO,2018-03-20,2019-11-16
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Cho Yan 鄭祖茵",None,sfclicrec.asp?p=2712004,BJC695,http://www.sfc.hk/publicregWeb/indi/BJC695/licenceRecord,,,Rep,2018-04-03,2018-07-28
+"Lam, Wai Keung (SFC:AFG006) 林偉強",None,sfclicrec.asp?p=106069,AFG006,http://www.sfc.hk/publicregWeb/indi/AFG006/licenceRecord,,,RO,2018-03-20,
+"Yeung, Hey Wai 楊起威",None,sfclicrec.asp?p=2713037,BJG207,http://www.sfc.hk/publicregWeb/indi/BJG207/licenceRecord,,,Rep,2019-01-11,2019-01-31
+"Yeung, Wai Kei (SFC:AOX999) 楊偉基",None,sfclicrec.asp?p=91107,AOX999,http://www.sfc.hk/publicregWeb/indi/AOX999/licenceRecord,,,RO,2018-03-20,2019-11-16

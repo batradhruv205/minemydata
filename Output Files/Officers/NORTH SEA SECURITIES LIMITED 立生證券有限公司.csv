@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Wah Nam 陳華南",sfclicrec.asp?p=90888,,,Rep,,2004-12-01
-"Chen, Wah Nam 陳華南",sfclicrec.asp?p=90888,,,Rep,2008-06-18,
-"Ho, Shuk Fun 何淑芬",sfclicrec.asp?p=90889,,,Rep,,
-"Kwan, Kit Hing 關潔馨",sfclicrec.asp?p=80286,,,Rep,,2010-05-08
-"Lau, Maria Man Yee 劉曼儀",sfclicrec.asp?p=90886,,F,RO,,
-"Leung, Kiu Fung 梁翹峯",sfclicrec.asp?p=1987966,,,Rep,2012-11-29,2017-10-13
-"Mak, Kwei Hai 麥桂禧",sfclicrec.asp?p=90887,,,RO,,
-"Mak, Shui Bun 麥紹彬",sfclicrec.asp?p=101896,,,Rep,,2003-04-30
-"Mok, Athena 莫菀蘭",sfclicrec.asp?p=109287,,,Rep,,2004-08-03
-"Sun, Polly Chor Fun 孫楚芬",sfclicrec.asp?p=55522,45,F,Rep,,2003-04-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Wah Nam 陳華南",None,sfclicrec.asp?p=90888,AAA030,http://www.sfc.hk/publicregWeb/indi/AAA030/licenceRecord,,,Rep,,2004-12-01
+"Chen, Wah Nam 陳華南",None,sfclicrec.asp?p=90888,AAA030,http://www.sfc.hk/publicregWeb/indi/AAA030/licenceRecord,,,Rep,2008-06-18,
+"Ho, Shuk Fun 何淑芬",None,sfclicrec.asp?p=90889,ABL512,http://www.sfc.hk/publicregWeb/indi/ABL512/licenceRecord,,,Rep,,
+"Kwan, Kit Hing 關潔馨",None,sfclicrec.asp?p=80286,AAA039,http://www.sfc.hk/publicregWeb/indi/AAA039/licenceRecord,,,Rep,,2010-05-08
+"Lau, Maria Man Yee 劉曼儀",None,sfclicrec.asp?p=90886,AAA051,http://www.sfc.hk/publicregWeb/indi/AAA051/licenceRecord,,F,RO,,
+"Leung, Kiu Fung 梁翹峯",None,sfclicrec.asp?p=1987966,BAK497,http://www.sfc.hk/publicregWeb/indi/BAK497/licenceRecord,,,Rep,2012-11-29,2017-10-13
+"Mak, Kwei Hai 麥桂禧",None,sfclicrec.asp?p=90887,ABG049,http://www.sfc.hk/publicregWeb/indi/ABG049/licenceRecord,,,RO,,
+"Mak, Shui Bun 麥紹彬",None,sfclicrec.asp?p=101896,ABE389,http://www.sfc.hk/publicregWeb/indi/ABE389/licenceRecord,,,Rep,,2003-04-30
+"Mok, Athena 莫菀蘭",None,sfclicrec.asp?p=109287,AGK968,http://www.sfc.hk/publicregWeb/indi/AGK968/licenceRecord,,,Rep,,2004-08-03
+"Sun, Polly Chor Fun 孫楚芬",None,sfclicrec.asp?p=55522,AEO591,http://www.sfc.hk/publicregWeb/indi/AEO591/licenceRecord,45.0,F,Rep,,2003-04-30

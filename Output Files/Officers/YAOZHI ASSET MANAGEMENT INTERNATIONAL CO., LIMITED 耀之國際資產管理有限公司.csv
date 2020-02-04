@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Luo, Xiaorui 羅晓睿",sfclicrec.asp?p=2543626,,,RO,2019-02-12,2019-12-10
-"Wang, Yingfeng (SFC:BFJ344) 王影峰",sfclicrec.asp?p=2590682,,,RO,2015-09-17,2017-08-29
-"Wang, Yingfeng (SFC:BFJ344) 王影峰",sfclicrec.asp?p=2590682,,,Rep,2017-12-11,2018-02-08
-"Wang, Yingfeng (SFC:BFJ344) 王影峰",sfclicrec.asp?p=2590682,,,RO,2018-02-08,2018-10-31
-"Xiong, Yun 熊贇",sfclicrec.asp?p=12752470,,,RO,2015-09-17,2016-03-31
-"Yang, Jian (SFC:AVN518) ",sfclicrec.asp?p=75291,,,Rep,2016-08-15,2016-11-30
-"Yang, Jian (SFC:AVN518) ",sfclicrec.asp?p=75291,,,RO,2016-11-30,
-"Zeng, Jie (SFC:BHD483) 曾杰",sfclicrec.asp?p=2590683,,,RO,2016-05-11,2018-08-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Luo, Xiaorui 羅晓睿",None,sfclicrec.asp?p=2543626,BHC710,http://www.sfc.hk/publicregWeb/indi/BHC710/licenceRecord,,,RO,2019-02-12,2019-12-10
+"Wang, Yingfeng (SFC:BFJ344) 王影峰",None,sfclicrec.asp?p=2590682,BFJ344,http://www.sfc.hk/publicregWeb/indi/BFJ344/licenceRecord,,,RO,2015-09-17,2017-08-29
+"Wang, Yingfeng (SFC:BFJ344) 王影峰",None,sfclicrec.asp?p=2590682,BFJ344,http://www.sfc.hk/publicregWeb/indi/BFJ344/licenceRecord,,,Rep,2017-12-11,2018-02-08
+"Wang, Yingfeng (SFC:BFJ344) 王影峰",None,sfclicrec.asp?p=2590682,BFJ344,http://www.sfc.hk/publicregWeb/indi/BFJ344/licenceRecord,,,RO,2018-02-08,2018-10-31
+"Xiong, Yun 熊贇",None,sfclicrec.asp?p=12752470,BFJ343,http://www.sfc.hk/publicregWeb/indi/BFJ343/licenceRecord,,,RO,2015-09-17,2016-03-31
+"Yang, Jian (SFC:AVN518) ",None,sfclicrec.asp?p=75291,AVN518,http://www.sfc.hk/publicregWeb/indi/AVN518/licenceRecord,,,Rep,2016-08-15,2016-11-30
+"Yang, Jian (SFC:AVN518) ",None,sfclicrec.asp?p=75291,AVN518,http://www.sfc.hk/publicregWeb/indi/AVN518/licenceRecord,,,RO,2016-11-30,
+"Zeng, Jie (SFC:BHD483) 曾杰",None,sfclicrec.asp?p=2590683,BHD483,http://www.sfc.hk/publicregWeb/indi/BHD483/licenceRecord,,,RO,2016-05-11,2018-08-31

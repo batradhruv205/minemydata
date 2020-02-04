@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Song (SFC:BOK270) 陳松",sfclicrec.asp?p=23380105,,,Rep,2019-07-03,
-"Lee, Simon Kin Chung 李建中",sfclicrec.asp?p=16564,60,M,RO,2019-12-17,
-"Leung, Ho Fai 梁昊輝",sfclicrec.asp?p=2562176,,,Rep,2019-03-13,2019-04-11
-"Leung, Ho Fai 梁昊輝",sfclicrec.asp?p=2562176,,,RO,2019-04-11,
-"Liu, Luchan 劉璐嬋",sfclicrec.asp?p=2512082,,,Rep,2019-04-10,
-"Lu, Yiu Kit 呂耀傑",sfclicrec.asp?p=77017,,,Rep,2019-03-05,2019-10-04
-"Ng, Chak Chung 吳澤松",sfclicrec.asp?p=109274,,,RO,2018-11-15,2019-12-01
-"Shea, Patrick Kwok Hing 佘國興",sfclicrec.asp?p=88219,,M,RO,2018-11-15,2019-05-10
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Song (SFC:BOK270) 陳松",None,sfclicrec.asp?p=23380105,BOK270,http://www.sfc.hk/publicregWeb/indi/BOK270/licenceRecord,,,Rep,2019-07-03,
+"Lee, Simon Kin Chung 李建中",None,sfclicrec.asp?p=16564,AAF803,http://www.sfc.hk/publicregWeb/indi/AAF803/licenceRecord,60.0,M,RO,2019-12-17,
+"Leung, Ho Fai 梁昊輝",None,sfclicrec.asp?p=2562176,BHC867,http://www.sfc.hk/publicregWeb/indi/BHC867/licenceRecord,,,Rep,2019-03-13,2019-04-11
+"Leung, Ho Fai 梁昊輝",None,sfclicrec.asp?p=2562176,BHC867,http://www.sfc.hk/publicregWeb/indi/BHC867/licenceRecord,,,RO,2019-04-11,
+"Liu, Luchan 劉璐嬋",None,sfclicrec.asp?p=2512082,BGQ378,http://www.sfc.hk/publicregWeb/indi/BGQ378/licenceRecord,,,Rep,2019-04-10,
+"Lu, Yiu Kit 呂耀傑",None,sfclicrec.asp?p=77017,AQQ035,http://www.sfc.hk/publicregWeb/indi/AQQ035/licenceRecord,,,Rep,2019-03-05,2019-10-04
+"Ng, Chak Chung 吳澤松",None,sfclicrec.asp?p=109274,AGK907,http://www.sfc.hk/publicregWeb/indi/AGK907/licenceRecord,,,RO,2018-11-15,2019-12-01
+"Shea, Patrick Kwok Hing 佘國興",None,sfclicrec.asp?p=88219,AAC349,http://www.sfc.hk/publicregWeb/indi/AAC349/licenceRecord,,M,RO,2018-11-15,2019-05-10

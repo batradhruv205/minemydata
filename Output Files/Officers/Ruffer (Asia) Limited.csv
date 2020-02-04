@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Barnett, Alexander (SFC:BAT745) ",sfclicrec.asp?p=2021993,,M,Rep,2013-02-15,2019-08-31
-"Cecil, Camilla Kate (SFC:BIH185) ",sfclicrec.asp?p=2652274,,F,Rep,2016-11-01,2017-07-31
-"Choegyal, Rinchen Harry Charles 孔力",sfclicrec.asp?p=1954809,,,Rep,2019-10-25,
-"Donati, Edward Corso Nelson ",sfclicrec.asp?p=130843,,M,Rep,2011-03-10,2013-11-01
-"Guo, Jing (SFC:BMM555) JingGuo",sfclicrec.asp?p=13749476,,,Rep,2018-04-11,2019-10-08
-"Ko, Wendy Wai Yee 高慧儀",sfclicrec.asp?p=70996,,F,Rep,2013-10-15,2015-07-31
-"Li, Zhiran 李之然",sfclicrec.asp?p=2541294,,,Rep,2016-03-01,
-"Marmion, Myles Columba ",sfclicrec.asp?p=2282446,,M,RO,2014-06-18,
-"McBain, Mary Charlotte ",sfclicrec.asp?p=102131,,F,RO,2008-06-05,
-"Thornewill, Guy Alexander Pelham ",sfclicrec.asp?p=1919515,,M,Rep,2012-07-03,2017-12-30
-"Tufnell, Rosina Jane (SFC:AQU120) ",sfclicrec.asp?p=124942,,F,RO,2008-06-05,2014-06-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Barnett, Alexander (SFC:BAT745) ",None,sfclicrec.asp?p=2021993,BAT745,http://www.sfc.hk/publicregWeb/indi/BAT745/licenceRecord,,M,Rep,2013-02-15,2019-08-31
+"Cecil, Camilla Kate (SFC:BIH185) ",None,sfclicrec.asp?p=2652274,BIH185,http://www.sfc.hk/publicregWeb/indi/BIH185/licenceRecord,,F,Rep,2016-11-01,2017-07-31
+"Choegyal, Rinchen Harry Charles 孔力",None,sfclicrec.asp?p=1954809,BAE535,http://www.sfc.hk/publicregWeb/indi/BAE535/licenceRecord,,,Rep,2019-10-25,
+"Donati, Edward Corso Nelson ",None,sfclicrec.asp?p=130843,AWU582,http://www.sfc.hk/publicregWeb/indi/AWU582/licenceRecord,,M,Rep,2011-03-10,2013-11-01
+"Guo, Jing (SFC:BMM555) JingGuo",None,sfclicrec.asp?p=13749476,BMM555,http://www.sfc.hk/publicregWeb/indi/BMM555/licenceRecord,,,Rep,2018-04-11,2019-10-08
+"Ko, Wendy Wai Yee 高慧儀",None,sfclicrec.asp?p=70996,ABN704,http://www.sfc.hk/publicregWeb/indi/ABN704/licenceRecord,,F,Rep,2013-10-15,2015-07-31
+"Li, Zhiran 李之然",None,sfclicrec.asp?p=2541294,BGZ095,http://www.sfc.hk/publicregWeb/indi/BGZ095/licenceRecord,,,Rep,2016-03-01,
+"Marmion, Myles Columba ",None,sfclicrec.asp?p=2282446,BDM368,http://www.sfc.hk/publicregWeb/indi/BDM368/licenceRecord,,M,RO,2014-06-18,
+"McBain, Mary Charlotte ",None,sfclicrec.asp?p=102131,ABN143,http://www.sfc.hk/publicregWeb/indi/ABN143/licenceRecord,,F,RO,2008-06-05,
+"Thornewill, Guy Alexander Pelham ",None,sfclicrec.asp?p=1919515,AZQ420,http://www.sfc.hk/publicregWeb/indi/AZQ420/licenceRecord,,M,Rep,2012-07-03,2017-12-30
+"Tufnell, Rosina Jane (SFC:AQU120) ",None,sfclicrec.asp?p=124942,AQU120,http://www.sfc.hk/publicregWeb/indi/AQU120/licenceRecord,,F,RO,2008-06-05,2014-06-30

@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Chao-mu 鄭朝木",sfclicrec.asp?p=99071,,,RO,2018-11-14,
-"Fei, Peng 費鵬",sfclicrec.asp?p=98962,,,RO,2015-02-05,2018-10-26
-"Hao, Wenli Williams 郝文利",sfclicrec.asp?p=83851,,,RO,2015-02-05,2018-09-21
-"Liang, Zhao 梁釗",sfclicrec.asp?p=23479742,,,Rep,2019-07-29,
-"Wei, Keqing 魏柯青",sfclicrec.asp?p=2017996,,,RO,2016-10-11,2018-09-21
-"Wong, Chi Hui 黃志栩",sfclicrec.asp?p=83348,,,RO,2019-06-21,
-"Wu, Kwong Chau 胡廣宙",sfclicrec.asp?p=80548,,,RO,2018-09-17,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Chao-mu 鄭朝木",None,sfclicrec.asp?p=99071,AQP762,http://www.sfc.hk/publicregWeb/indi/AQP762/licenceRecord,,,RO,2018-11-14,
+"Fei, Peng 費鵬",None,sfclicrec.asp?p=98962,AWH287,http://www.sfc.hk/publicregWeb/indi/AWH287/licenceRecord,,,RO,2015-02-05,2018-10-26
+"Hao, Wenli Williams 郝文利",None,sfclicrec.asp?p=83851,AVX211,http://www.sfc.hk/publicregWeb/indi/AVX211/licenceRecord,,,RO,2015-02-05,2018-09-21
+"Liang, Zhao 梁釗",None,sfclicrec.asp?p=23479742,BOP908,http://www.sfc.hk/publicregWeb/indi/BOP908/licenceRecord,,,Rep,2019-07-29,
+"Wei, Keqing 魏柯青",None,sfclicrec.asp?p=2017996,BAV558,http://www.sfc.hk/publicregWeb/indi/BAV558/licenceRecord,,,RO,2016-10-11,2018-09-21
+"Wong, Chi Hui 黃志栩",None,sfclicrec.asp?p=83348,APD168,http://www.sfc.hk/publicregWeb/indi/APD168/licenceRecord,,,RO,2019-06-21,
+"Wu, Kwong Chau 胡廣宙",None,sfclicrec.asp?p=80548,AGH135,http://www.sfc.hk/publicregWeb/indi/AGH135/licenceRecord,,,RO,2018-09-17,

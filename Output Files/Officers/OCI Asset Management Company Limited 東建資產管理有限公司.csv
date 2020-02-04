@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Ricky Kai Ming 陳啟明",sfclicrec.asp?p=81945,,M,RO,2018-05-09,2019-04-05
-"Guo, Qiang (SFC:AYW017) 郭強",sfclicrec.asp?p=153626,,,Rep,2018-07-30,2019-11-13
-"Kwok, Heung Yan 郭香恩",sfclicrec.asp?p=2533280,,,RO,2018-05-09,2019-11-28
-"Li, Chengzhen 李成臻",sfclicrec.asp?p=2374529,,,Rep,2018-07-23,2019-02-28
-"Li, Yi (SFC:BIO106) 李毅",sfclicrec.asp?p=14935618,,,RO,2018-05-09,
-"Ng, Lu Yan 吳露恩",sfclicrec.asp?p=133442,,,Rep,2019-12-27,2020-01-08
-"Ng, Lu Yan 吳露恩",sfclicrec.asp?p=133442,,,RO,2020-01-08,
-"Wang, Binran 王彬然",sfclicrec.asp?p=1965669,,,Rep,2018-07-23,
-"Wang, Ye Yin 王叶蔭",sfclicrec.asp?p=21059838,,,Rep,2018-07-30,2019-09-06
-"Yam, Yin Chuk 任妍竺",sfclicrec.asp?p=2579101,,,Rep,2018-06-25,2019-08-02
-"Yin, Yuran 尹禺然",sfclicrec.asp?p=2642593,,,Rep,2018-10-30,2019-03-31
-"Zhao, Guodong (SFC:BNF142) 赵国栋",sfclicrec.asp?p=22374005,,,Rep,2018-10-31,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Ricky Kai Ming 陳啟明",None,sfclicrec.asp?p=81945,AOU629,http://www.sfc.hk/publicregWeb/indi/AOU629/licenceRecord,,M,RO,2018-05-09,2019-04-05
+"Guo, Qiang (SFC:AYW017) 郭強",None,sfclicrec.asp?p=153626,AYW017,http://www.sfc.hk/publicregWeb/indi/AYW017/licenceRecord,,,Rep,2018-07-30,2019-11-13
+"Kwok, Heung Yan 郭香恩",None,sfclicrec.asp?p=2533280,BGM315,http://www.sfc.hk/publicregWeb/indi/BGM315/licenceRecord,,,RO,2018-05-09,2019-11-28
+"Li, Chengzhen 李成臻",None,sfclicrec.asp?p=2374529,BEW378,http://www.sfc.hk/publicregWeb/indi/BEW378/licenceRecord,,,Rep,2018-07-23,2019-02-28
+"Li, Yi (SFC:BIO106) 李毅",None,sfclicrec.asp?p=14935618,BIO106,http://www.sfc.hk/publicregWeb/indi/BIO106/licenceRecord,,,RO,2018-05-09,
+"Ng, Lu Yan 吳露恩",None,sfclicrec.asp?p=133442,AYG297,http://www.sfc.hk/publicregWeb/indi/AYG297/licenceRecord,,,Rep,2019-12-27,2020-01-08
+"Ng, Lu Yan 吳露恩",None,sfclicrec.asp?p=133442,AYG297,http://www.sfc.hk/publicregWeb/indi/AYG297/licenceRecord,,,RO,2020-01-08,
+"Wang, Binran 王彬然",None,sfclicrec.asp?p=1965669,BAF174,http://www.sfc.hk/publicregWeb/indi/BAF174/licenceRecord,,,Rep,2018-07-23,
+"Wang, Ye Yin 王叶蔭",None,sfclicrec.asp?p=21059838,BNF370,http://www.sfc.hk/publicregWeb/indi/BNF370/licenceRecord,,,Rep,2018-07-30,2019-09-06
+"Yam, Yin Chuk 任妍竺",None,sfclicrec.asp?p=2579101,BHL705,http://www.sfc.hk/publicregWeb/indi/BHL705/licenceRecord,,,Rep,2018-06-25,2019-08-02
+"Yin, Yuran 尹禺然",None,sfclicrec.asp?p=2642593,BIG092,http://www.sfc.hk/publicregWeb/indi/BIG092/licenceRecord,,,Rep,2018-10-30,2019-03-31
+"Zhao, Guodong (SFC:BNF142) 赵国栋",None,sfclicrec.asp?p=22374005,BNF142,http://www.sfc.hk/publicregWeb/indi/BNF142/licenceRecord,,,Rep,2018-10-31,

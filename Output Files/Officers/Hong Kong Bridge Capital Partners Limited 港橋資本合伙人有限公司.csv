@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lei, Yang 雷阳",sfclicrec.asp?p=2489924,,,RO,2018-02-06,2019-02-16
-"Li, Chiu Yee 李昭儀",sfclicrec.asp?p=98375,,,Rep,2019-10-30,2019-12-19
-"Li, Chiu Yee 李昭儀",sfclicrec.asp?p=98375,,,RO,2019-12-19,
-"Liu, Chang (SFC:BGX757) 劉暢",sfclicrec.asp?p=2531540,,,Rep,2018-03-19,2019-04-12
-"Qiu, Yun (SFC:BMI518) 邱韵",sfclicrec.asp?p=12869678,,,Rep,2018-03-19,2018-09-17
-"Shan, Yongxin (SFC:BOZ991) 单用鑫",sfclicrec.asp?p=24036886,,,RO,2019-12-19,
-"Zhang, Feng (SFC:AVE823) 張鋒",sfclicrec.asp?p=88187,,,RO,2018-02-06,2019-02-16
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lei, Yang 雷阳",None,sfclicrec.asp?p=2489924,BGH895,http://www.sfc.hk/publicregWeb/indi/BGH895/licenceRecord,,,RO,2018-02-06,2019-02-16
+"Li, Chiu Yee 李昭儀",None,sfclicrec.asp?p=98375,AJY016,http://www.sfc.hk/publicregWeb/indi/AJY016/licenceRecord,,,Rep,2019-10-30,2019-12-19
+"Li, Chiu Yee 李昭儀",None,sfclicrec.asp?p=98375,AJY016,http://www.sfc.hk/publicregWeb/indi/AJY016/licenceRecord,,,RO,2019-12-19,
+"Liu, Chang (SFC:BGX757) 劉暢",None,sfclicrec.asp?p=2531540,BGX757,http://www.sfc.hk/publicregWeb/indi/BGX757/licenceRecord,,,Rep,2018-03-19,2019-04-12
+"Qiu, Yun (SFC:BMI518) 邱韵",None,sfclicrec.asp?p=12869678,BMI518,http://www.sfc.hk/publicregWeb/indi/BMI518/licenceRecord,,,Rep,2018-03-19,2018-09-17
+"Shan, Yongxin (SFC:BOZ991) 单用鑫",None,sfclicrec.asp?p=24036886,BOZ991,http://www.sfc.hk/publicregWeb/indi/BOZ991/licenceRecord,,,RO,2019-12-19,
+"Zhang, Feng (SFC:AVE823) 張鋒",None,sfclicrec.asp?p=88187,AVE823,http://www.sfc.hk/publicregWeb/indi/AVE823/licenceRecord,,,RO,2018-02-06,2019-02-16

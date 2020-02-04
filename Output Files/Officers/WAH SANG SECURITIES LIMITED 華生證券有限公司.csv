@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Kwan (SFC:AAE525) 陳坤",sfclicrec.asp?p=101025,,,Rep,,2015-06-01
-"Lee, Andrew Lock Wai 李樂維",sfclicrec.asp?p=104198,,M,RO,,
-"Lee, King Yeung (SFC:AAE556) 李景楊",sfclicrec.asp?p=101032,,,RO,,
-"Luk, Chow Sing 陸秋成",sfclicrec.asp?p=101030,,,Rep,,
-"Or, Kui Hung 柯舉雄",sfclicrec.asp?p=101147,,,Rep,,2011-04-11
-"Or, Kui Hung 柯舉雄",sfclicrec.asp?p=101147,,,RO,2011-04-11,
-"Wong, Chi Kit (SFC:AOE662) 黃志杰",sfclicrec.asp?p=120154,,,Rep,2007-01-16,2010-06-15
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Kwan (SFC:AAE525) 陳坤",None,sfclicrec.asp?p=101025,AAE525,http://www.sfc.hk/publicregWeb/indi/AAE525/licenceRecord,,,Rep,,2015-06-01
+"Lee, Andrew Lock Wai 李樂維",None,sfclicrec.asp?p=104198,ADU454,http://www.sfc.hk/publicregWeb/indi/ADU454/licenceRecord,,M,RO,,
+"Lee, King Yeung (SFC:AAE556) 李景楊",None,sfclicrec.asp?p=101032,AAE556,http://www.sfc.hk/publicregWeb/indi/AAE556/licenceRecord,,,RO,,
+"Luk, Chow Sing 陸秋成",None,sfclicrec.asp?p=101030,AAE546,http://www.sfc.hk/publicregWeb/indi/AAE546/licenceRecord,,,Rep,,
+"Or, Kui Hung 柯舉雄",None,sfclicrec.asp?p=101147,AAF741,http://www.sfc.hk/publicregWeb/indi/AAF741/licenceRecord,,,Rep,,2011-04-11
+"Or, Kui Hung 柯舉雄",None,sfclicrec.asp?p=101147,AAF741,http://www.sfc.hk/publicregWeb/indi/AAF741/licenceRecord,,,RO,2011-04-11,
+"Wong, Chi Kit (SFC:AOE662) 黃志杰",None,sfclicrec.asp?p=120154,AOE662,http://www.sfc.hk/publicregWeb/indi/AOE662/licenceRecord,,,Rep,2007-01-16,2010-06-15

@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Choy, Rose Wing Sze 蔡永思",sfclicrec.asp?p=112557,,F,RO,2017-03-17,2019-06-30
-"Chu, Brenda Ka Ling 朱嘉玲",sfclicrec.asp?p=4498025,,F,RO,2017-03-17,2019-08-17
-"Jiang, Ziqi 蔣子祺",sfclicrec.asp?p=11670444,,,Rep,2019-07-04,2019-07-29
-"Jiang, Ziqi 蔣子祺",sfclicrec.asp?p=11670444,,,RO,2019-07-29,
-"Kwok, Chor Man 郭楚雯",sfclicrec.asp?p=109331,,,RO,2017-11-28,2019-03-31
-"Zhang, Yeshuang 張燁驦",sfclicrec.asp?p=8824581,,,RO,2019-03-25,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Choy, Rose Wing Sze 蔡永思",None,sfclicrec.asp?p=112557,AIX156,http://www.sfc.hk/publicregWeb/indi/AIX156/licenceRecord,,F,RO,2017-03-17,2019-06-30
+"Chu, Brenda Ka Ling 朱嘉玲",None,sfclicrec.asp?p=4498025,BIY961,http://www.sfc.hk/publicregWeb/indi/BIY961/licenceRecord,,F,RO,2017-03-17,2019-08-17
+"Jiang, Ziqi 蔣子祺",None,sfclicrec.asp?p=11670444,BHX700,http://www.sfc.hk/publicregWeb/indi/BHX700/licenceRecord,,,Rep,2019-07-04,2019-07-29
+"Jiang, Ziqi 蔣子祺",None,sfclicrec.asp?p=11670444,BHX700,http://www.sfc.hk/publicregWeb/indi/BHX700/licenceRecord,,,RO,2019-07-29,
+"Kwok, Chor Man 郭楚雯",None,sfclicrec.asp?p=109331,AGL485,http://www.sfc.hk/publicregWeb/indi/AGL485/licenceRecord,,,RO,2017-11-28,2019-03-31
+"Zhang, Yeshuang 張燁驦",None,sfclicrec.asp?p=8824581,BHD212,http://www.sfc.hk/publicregWeb/indi/BHD212/licenceRecord,,,RO,2019-03-25,

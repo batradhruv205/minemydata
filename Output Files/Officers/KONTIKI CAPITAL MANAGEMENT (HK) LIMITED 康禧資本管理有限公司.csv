@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Banszky Von Ambroz, Antonella Maria Caroline ",sfclicrec.asp?p=2145741,,F,Rep,2014-10-24,2019-12-31
-"Chan, Jovia Ho Kiu 陳可翹",sfclicrec.asp?p=1868010,,,Rep,2014-05-07,2015-04-02
-"Chen, Xiaodong (SFC:APF268) 陳曉棟",sfclicrec.asp?p=122013,,,Rep,2014-05-07,2015-11-09
-"Chen, Xiaodong (SFC:APF268) 陳曉棟",sfclicrec.asp?p=122013,,,RO,2015-11-09,
-"Guo, Qiu Lin ",sfclicrec.asp?p=130045,,,Rep,2014-05-07,
-"Hee, Huan Wei 許環偉",sfclicrec.asp?p=129739,,,RO,2014-04-11,2018-03-16
-"Heje, Gregard Knutson ",sfclicrec.asp?p=129032,,M,RO,2014-04-11,
-"Henderson, Scott Michael ",sfclicrec.asp?p=125040,,M,Rep,2014-08-05,
-"Landgraff, Erik Wilson ",sfclicrec.asp?p=8452152,,M,Rep,2017-04-21,
-"Lee, Kihyuck ",sfclicrec.asp?p=129655,,,Rep,2014-05-07,2016-05-31
-"Ngan, Yee Man 顏綺雯",sfclicrec.asp?p=2440566,,,Rep,2015-06-25,2019-04-19
-"Peck, Young Min ",sfclicrec.asp?p=2628799,,,Rep,2019-05-09,
-"Takahashi, Kenichi 高橋賢一",sfclicrec.asp?p=2300832,,,Rep,2014-08-01,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Banszky Von Ambroz, Antonella Maria Caroline ",None,sfclicrec.asp?p=2145741,BBZ712,http://www.sfc.hk/publicregWeb/indi/BBZ712/licenceRecord,,F,Rep,2014-10-24,2019-12-31
+"Chan, Jovia Ho Kiu 陳可翹",None,sfclicrec.asp?p=1868010,AZB961,http://www.sfc.hk/publicregWeb/indi/AZB961/licenceRecord,,,Rep,2014-05-07,2015-04-02
+"Chen, Xiaodong (SFC:APF268) 陳曉棟",None,sfclicrec.asp?p=122013,APF268,http://www.sfc.hk/publicregWeb/indi/APF268/licenceRecord,,,Rep,2014-05-07,2015-11-09
+"Chen, Xiaodong (SFC:APF268) 陳曉棟",None,sfclicrec.asp?p=122013,APF268,http://www.sfc.hk/publicregWeb/indi/APF268/licenceRecord,,,RO,2015-11-09,
+"Guo, Qiu Lin ",None,sfclicrec.asp?p=130045,AVM882,http://www.sfc.hk/publicregWeb/indi/AVM882/licenceRecord,,,Rep,2014-05-07,
+"Hee, Huan Wei 許環偉",None,sfclicrec.asp?p=129739,AVD514,http://www.sfc.hk/publicregWeb/indi/AVD514/licenceRecord,,,RO,2014-04-11,2018-03-16
+"Heje, Gregard Knutson ",None,sfclicrec.asp?p=129032,AUH701,http://www.sfc.hk/publicregWeb/indi/AUH701/licenceRecord,,M,RO,2014-04-11,
+"Henderson, Scott Michael ",None,sfclicrec.asp?p=125040,AQU952,http://www.sfc.hk/publicregWeb/indi/AQU952/licenceRecord,,M,Rep,2014-08-05,
+"Landgraff, Erik Wilson ",None,sfclicrec.asp?p=8452152,BJJ279,http://www.sfc.hk/publicregWeb/indi/BJJ279/licenceRecord,,M,Rep,2017-04-21,
+"Lee, Kihyuck ",None,sfclicrec.asp?p=129655,AVA556,http://www.sfc.hk/publicregWeb/indi/AVA556/licenceRecord,,,Rep,2014-05-07,2016-05-31
+"Ngan, Yee Man 顏綺雯",None,sfclicrec.asp?p=2440566,APC659,http://www.sfc.hk/publicregWeb/indi/APC659/licenceRecord,,,Rep,2015-06-25,2019-04-19
+"Peck, Young Min ",None,sfclicrec.asp?p=2628799,BID336,http://www.sfc.hk/publicregWeb/indi/BID336/licenceRecord,,,Rep,2019-05-09,
+"Takahashi, Kenichi 高橋賢一",None,sfclicrec.asp?p=2300832,BDX721,http://www.sfc.hk/publicregWeb/indi/BDX721/licenceRecord,,,Rep,2014-08-01,

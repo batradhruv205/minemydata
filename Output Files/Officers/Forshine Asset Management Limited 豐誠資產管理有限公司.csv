@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bai, Yang (SFC:BDQ057) 白楊",sfclicrec.asp?p=2286042,,,Rep,2018-08-01,2019-01-15
-"Chung, Kai Chiu (SFC:AAV230) 鍾啟超",sfclicrec.asp?p=65031,,M,RO,2017-11-09,
-"Hamaguchi, Koichi ",sfclicrec.asp?p=2505387,,,RO,2017-11-09,2019-08-31
-"Kuang, Tingting 鄺婷婷",sfclicrec.asp?p=22752521,,,Rep,2019-02-08,
-"Leung, Hiu Yan (SFC:AUY597) 梁曉欣",sfclicrec.asp?p=129557,,,RO,2019-08-29,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bai, Yang (SFC:BDQ057) 白楊",None,sfclicrec.asp?p=2286042,BDQ057,http://www.sfc.hk/publicregWeb/indi/BDQ057/licenceRecord,,,Rep,2018-08-01,2019-01-15
+"Chung, Kai Chiu (SFC:AAV230) 鍾啟超",None,sfclicrec.asp?p=65031,AAV230,http://www.sfc.hk/publicregWeb/indi/AAV230/licenceRecord,,M,RO,2017-11-09,
+"Hamaguchi, Koichi ",None,sfclicrec.asp?p=2505387,BGL494,http://www.sfc.hk/publicregWeb/indi/BGL494/licenceRecord,,,RO,2017-11-09,2019-08-31
+"Kuang, Tingting 鄺婷婷",None,sfclicrec.asp?p=22752521,BNX298,http://www.sfc.hk/publicregWeb/indi/BNX298/licenceRecord,,,Rep,2019-02-08,
+"Leung, Hiu Yan (SFC:AUY597) 梁曉欣",None,sfclicrec.asp?p=129557,AUY597,http://www.sfc.hk/publicregWeb/indi/AUY597/licenceRecord,,,RO,2019-08-29,

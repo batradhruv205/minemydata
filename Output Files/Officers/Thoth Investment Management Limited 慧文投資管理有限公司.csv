@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Angela Fang 陳方",sfclicrec.asp?p=2070527,,F,Rep,2017-12-18,2018-07-03
-"Ho, Dick Wai Leung 何偉良",sfclicrec.asp?p=99624,,M,RO,2016-11-22,2018-10-06
-"Luk, Simon 陸東全",sfclicrec.asp?p=72021,54,M,RO,2016-11-22,
-"Zhang, Ningxiang 章宁翔",sfclicrec.asp?p=84283,,,Rep,2017-09-26,2017-10-26
-"Zhang, Ningxiang 章宁翔",sfclicrec.asp?p=84283,,,RO,2017-10-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Angela Fang 陳方",None,sfclicrec.asp?p=2070527,BBH657,http://www.sfc.hk/publicregWeb/indi/BBH657/licenceRecord,,F,Rep,2017-12-18,2018-07-03
+"Ho, Dick Wai Leung 何偉良",None,sfclicrec.asp?p=99624,AGL919,http://www.sfc.hk/publicregWeb/indi/AGL919/licenceRecord,,M,RO,2016-11-22,2018-10-06
+"Luk, Simon 陸東全",None,sfclicrec.asp?p=72021,AAV295,http://www.sfc.hk/publicregWeb/indi/AAV295/licenceRecord,54.0,M,RO,2016-11-22,
+"Zhang, Ningxiang 章宁翔",None,sfclicrec.asp?p=84283,APZ631,http://www.sfc.hk/publicregWeb/indi/APZ631/licenceRecord,,,Rep,2017-09-26,2017-10-26
+"Zhang, Ningxiang 章宁翔",None,sfclicrec.asp?p=84283,APZ631,http://www.sfc.hk/publicregWeb/indi/APZ631/licenceRecord,,,RO,2017-10-26,

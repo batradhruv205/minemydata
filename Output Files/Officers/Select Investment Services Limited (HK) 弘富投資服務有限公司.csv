@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Hung Ling 陳洪齡",sfclicrec.asp?p=101192,,,RO,2012-03-07,2013-06-14
-"Giles, Peter Andrew ",sfclicrec.asp?p=80609,,M,Rep,2019-08-08,
-"Ketterer, Edward 何猷良",sfclicrec.asp?p=103656,,M,Rep,2017-11-10,
-"Koo, Ka Lai 古嘉麗",sfclicrec.asp?p=57526,,,RO,2011-09-16,2012-03-09
-"Kwong, Teddy Tat Tak 鄺達德",sfclicrec.asp?p=2592882,,M,Rep,2016-06-16,2017-01-13
-"Lam, Yuk Chiu 林育超",sfclicrec.asp?p=102628,,,RO,2014-12-08,2015-09-30
-"Lau, Wing Shan 劉詠珊",sfclicrec.asp?p=73986,,,RO,2013-03-06,2014-12-16
-"Lee, Soo Kai 李書楷",sfclicrec.asp?p=94009,,,RO,2011-09-16,2012-03-16
-"Liu, Xiaoying (SFC:BBQ330) 劉曉穎",sfclicrec.asp?p=2185037,,,Rep,2013-12-24,2015-10-13
-"Lo, Geoffrey Chun Fai 羅俊輝",sfclicrec.asp?p=94010,,M,RO,2011-09-16,
-"Ng, Ka Kin 吳家健",sfclicrec.asp?p=1925096,,,Rep,2012-07-13,2015-12-16
-"So, Jimmy Chi Ming 蘇志明",sfclicrec.asp?p=95232,,M,RO,2015-10-02,
-"Yeung, Hilda Yiu Hung 楊曉虹",sfclicrec.asp?p=78308,,F,Rep,2016-01-13,2016-05-27
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Hung Ling 陳洪齡",None,sfclicrec.asp?p=101192,AAG115,http://www.sfc.hk/publicregWeb/indi/AAG115/licenceRecord,,,RO,2012-03-07,2013-06-14
+"Giles, Peter Andrew ",None,sfclicrec.asp?p=80609,AUE560,http://www.sfc.hk/publicregWeb/indi/AUE560/licenceRecord,,M,Rep,2019-08-08,
+"Ketterer, Edward 何猷良",None,sfclicrec.asp?p=103656,ADE566,http://www.sfc.hk/publicregWeb/indi/ADE566/licenceRecord,,M,Rep,2017-11-10,
+"Koo, Ka Lai 古嘉麗",None,sfclicrec.asp?p=57526,ABY402,http://www.sfc.hk/publicregWeb/indi/ABY402/licenceRecord,,,RO,2011-09-16,2012-03-09
+"Kwong, Teddy Tat Tak 鄺達德",None,sfclicrec.asp?p=2592882,BBM575,http://www.sfc.hk/publicregWeb/indi/BBM575/licenceRecord,,M,Rep,2016-06-16,2017-01-13
+"Lam, Yuk Chiu 林育超",None,sfclicrec.asp?p=102628,ACC796,http://www.sfc.hk/publicregWeb/indi/ACC796/licenceRecord,,,RO,2014-12-08,2015-09-30
+"Lau, Wing Shan 劉詠珊",None,sfclicrec.asp?p=73986,AFE210,http://www.sfc.hk/publicregWeb/indi/AFE210/licenceRecord,,,RO,2013-03-06,2014-12-16
+"Lee, Soo Kai 李書楷",None,sfclicrec.asp?p=94009,ANT716,http://www.sfc.hk/publicregWeb/indi/ANT716/licenceRecord,,,RO,2011-09-16,2012-03-16
+"Liu, Xiaoying (SFC:BBQ330) 劉曉穎",None,sfclicrec.asp?p=2185037,BBQ330,http://www.sfc.hk/publicregWeb/indi/BBQ330/licenceRecord,,,Rep,2013-12-24,2015-10-13
+"Lo, Geoffrey Chun Fai 羅俊輝",None,sfclicrec.asp?p=94010,APU210,http://www.sfc.hk/publicregWeb/indi/APU210/licenceRecord,,M,RO,2011-09-16,
+"Ng, Ka Kin 吳家健",None,sfclicrec.asp?p=1925096,AZS026,http://www.sfc.hk/publicregWeb/indi/AZS026/licenceRecord,,,Rep,2012-07-13,2015-12-16
+"So, Jimmy Chi Ming 蘇志明",None,sfclicrec.asp?p=95232,AAB915,http://www.sfc.hk/publicregWeb/indi/AAB915/licenceRecord,,M,RO,2015-10-02,
+"Yeung, Hilda Yiu Hung 楊曉虹",None,sfclicrec.asp?p=78308,ABY136,http://www.sfc.hk/publicregWeb/indi/ABY136/licenceRecord,,F,Rep,2016-01-13,2016-05-27

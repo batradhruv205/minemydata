@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Xun (SFC:BBN856) 陳迅",sfclicrec.asp?p=2115291,,,Rep,2018-10-12,2019-02-04
-"Chen, Xun (SFC:BBN856) 陳迅",sfclicrec.asp?p=2115291,,,RO,2019-02-04,
-"Li, Quan (SFC:BBI004) 李全",sfclicrec.asp?p=2287241,57,M,RO,2017-07-06,
-"Shen, Dayou 沈達友",sfclicrec.asp?p=92278,,,RO,2017-07-06,
-"Wang, Zhenxing 王振興",sfclicrec.asp?p=1983888,,,Rep,2017-10-03,
-"Zhang, Qi (SFC:AVA621) 張琦",sfclicrec.asp?p=70810,,,Rep,2017-09-04,2019-01-18
-"Zhao, Na (SFC:BLD603) 趙娜",sfclicrec.asp?p=12641973,,,Rep,2017-12-14,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Xun (SFC:BBN856) 陳迅",None,sfclicrec.asp?p=2115291,BBN856,http://www.sfc.hk/publicregWeb/indi/BBN856/licenceRecord,,,Rep,2018-10-12,2019-02-04
+"Chen, Xun (SFC:BBN856) 陳迅",None,sfclicrec.asp?p=2115291,BBN856,http://www.sfc.hk/publicregWeb/indi/BBN856/licenceRecord,,,RO,2019-02-04,
+"Li, Quan (SFC:BBI004) 李全",None,sfclicrec.asp?p=2287241,BBI004,http://www.sfc.hk/publicregWeb/indi/BBI004/licenceRecord,57.0,M,RO,2017-07-06,
+"Shen, Dayou 沈達友",None,sfclicrec.asp?p=92278,AOZ004,http://www.sfc.hk/publicregWeb/indi/AOZ004/licenceRecord,,,RO,2017-07-06,
+"Wang, Zhenxing 王振興",None,sfclicrec.asp?p=1983888,BAJ275,http://www.sfc.hk/publicregWeb/indi/BAJ275/licenceRecord,,,Rep,2017-10-03,
+"Zhang, Qi (SFC:AVA621) 張琦",None,sfclicrec.asp?p=70810,AVA621,http://www.sfc.hk/publicregWeb/indi/AVA621/licenceRecord,,,Rep,2017-09-04,2019-01-18
+"Zhao, Na (SFC:BLD603) 趙娜",None,sfclicrec.asp?p=12641973,BLD603,http://www.sfc.hk/publicregWeb/indi/BLD603/licenceRecord,,,Rep,2017-12-14,

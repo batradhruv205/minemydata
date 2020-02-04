@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Amundsson, Niklas Kostadin (SFC:AYK125) ",sfclicrec.asp?p=2109894,,M,Rep,2015-02-12,2015-02-25
-"Amundsson, Niklas Kostadin (SFC:AYK125) ",sfclicrec.asp?p=2109894,,M,RO,2015-02-25,
-"Brooks, Janet Kim (SFC:BCD644) ",sfclicrec.asp?p=2383999,,F,RO,2014-01-24,
-"Jun, Sung Wook ",sfclicrec.asp?p=2475895,,,Rep,2015-09-16,
-"Mast Jr, Robert Edward ",sfclicrec.asp?p=2384000,,M,RO,2014-01-24,
-"Meng, Yuanyuan 孟圓圓",sfclicrec.asp?p=133293,,,Rep,2015-10-16,2018-03-07
-"Park, Joo Han ",sfclicrec.asp?p=18402646,,,Rep,2018-07-03,
-"Zou, Keith Ke 鄒科",sfclicrec.asp?p=2641809,,M,Rep,2018-12-12,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Amundsson, Niklas Kostadin (SFC:AYK125) ",None,sfclicrec.asp?p=2109894,AYK125,http://www.sfc.hk/publicregWeb/indi/AYK125/licenceRecord,,M,Rep,2015-02-12,2015-02-25
+"Amundsson, Niklas Kostadin (SFC:AYK125) ",None,sfclicrec.asp?p=2109894,AYK125,http://www.sfc.hk/publicregWeb/indi/AYK125/licenceRecord,,M,RO,2015-02-25,
+"Brooks, Janet Kim (SFC:BCD644) ",None,sfclicrec.asp?p=2383999,BCD644,http://www.sfc.hk/publicregWeb/indi/BCD644/licenceRecord,,F,RO,2014-01-24,
+"Jun, Sung Wook ",None,sfclicrec.asp?p=2475895,BGE392,http://www.sfc.hk/publicregWeb/indi/BGE392/licenceRecord,,,Rep,2015-09-16,
+"Mast Jr, Robert Edward ",None,sfclicrec.asp?p=2384000,BCD646,http://www.sfc.hk/publicregWeb/indi/BCD646/licenceRecord,,M,RO,2014-01-24,
+"Meng, Yuanyuan 孟圓圓",None,sfclicrec.asp?p=133293,AYJ251,http://www.sfc.hk/publicregWeb/indi/AYJ251/licenceRecord,,,Rep,2015-10-16,2018-03-07
+"Park, Joo Han ",None,sfclicrec.asp?p=18402646,BND586,http://www.sfc.hk/publicregWeb/indi/BND586/licenceRecord,,,Rep,2018-07-03,
+"Zou, Keith Ke 鄒科",None,sfclicrec.asp?p=2641809,BIE434,http://www.sfc.hk/publicregWeb/indi/BIE434/licenceRecord,,M,Rep,2018-12-12,

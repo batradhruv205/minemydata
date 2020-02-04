@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Barnard, Gawain Meredith ",sfclicrec.asp?p=113571,,F,RO,2010-01-13,
-"Chang, Haeyoon Aileen 張鏸允",sfclicrec.asp?p=113261,,,Rep,2011-11-11,2013-01-23
-"Choong, Han Ching 鍾漢青",sfclicrec.asp?p=103776,,,RO,2010-01-08,2017-11-03
-"Coates, Michael Stuart ",sfclicrec.asp?p=90407,,M,Rep,2013-02-01,2018-08-22
-"Leung, Stephanie Wing Ying 梁穎瑩",sfclicrec.asp?p=81057,,F,Rep,2013-06-10,2015-08-14
-"Murray, John Bernard ",sfclicrec.asp?p=120541,,M,RO,2010-01-08,
-"Parmet, Andrew Charles ",sfclicrec.asp?p=102437,,M,Rep,2016-12-21,2018-08-01
-"Parrott, Laurence Richard ",sfclicrec.asp?p=2135854,,M,Rep,2013-09-23,
-"Satnurak, Manussavee ",sfclicrec.asp?p=2692585,,,Rep,2017-02-01,
-"Yi, Huan (SFC:AMH263) 易峘",sfclicrec.asp?p=67630,,,Rep,2013-06-20,2015-03-10
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Barnard, Gawain Meredith ",None,sfclicrec.asp?p=113571,AJO022,http://www.sfc.hk/publicregWeb/indi/AJO022/licenceRecord,,F,RO,2010-01-13,
+"Chang, Haeyoon Aileen 張鏸允",None,sfclicrec.asp?p=113261,AJH217,http://www.sfc.hk/publicregWeb/indi/AJH217/licenceRecord,,,Rep,2011-11-11,2013-01-23
+"Choong, Han Ching 鍾漢青",None,sfclicrec.asp?p=103776,ADI243,http://www.sfc.hk/publicregWeb/indi/ADI243/licenceRecord,,,RO,2010-01-08,2017-11-03
+"Coates, Michael Stuart ",None,sfclicrec.asp?p=90407,AQE074,http://www.sfc.hk/publicregWeb/indi/AQE074/licenceRecord,,M,Rep,2013-02-01,2018-08-22
+"Leung, Stephanie Wing Ying 梁穎瑩",None,sfclicrec.asp?p=81057,ANG578,http://www.sfc.hk/publicregWeb/indi/ANG578/licenceRecord,,F,Rep,2013-06-10,2015-08-14
+"Murray, John Bernard ",None,sfclicrec.asp?p=120541,AOL180,http://www.sfc.hk/publicregWeb/indi/AOL180/licenceRecord,,M,RO,2010-01-08,
+"Parmet, Andrew Charles ",None,sfclicrec.asp?p=102437,ABY125,http://www.sfc.hk/publicregWeb/indi/ABY125/licenceRecord,,M,Rep,2016-12-21,2018-08-01
+"Parrott, Laurence Richard ",None,sfclicrec.asp?p=2135854,AEY601,http://www.sfc.hk/publicregWeb/indi/AEY601/licenceRecord,,M,Rep,2013-09-23,
+"Satnurak, Manussavee ",None,sfclicrec.asp?p=2692585,BIO697,http://www.sfc.hk/publicregWeb/indi/BIO697/licenceRecord,,,Rep,2017-02-01,
+"Yi, Huan (SFC:AMH263) 易峘",None,sfclicrec.asp?p=67630,AMH263,http://www.sfc.hk/publicregWeb/indi/AMH263/licenceRecord,,,Rep,2013-06-20,2015-03-10

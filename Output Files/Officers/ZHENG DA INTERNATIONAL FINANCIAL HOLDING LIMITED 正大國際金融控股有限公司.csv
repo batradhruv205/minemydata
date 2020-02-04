@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Choy, Siu Kwan 蔡小軍",sfclicrec.asp?p=91596,,,RO,2019-11-04,
-"Leung, Yun Fuk 梁潤福",sfclicrec.asp?p=98427,,,RO,2019-11-04,
-"Tang, Jiwei 唐繼偉",sfclicrec.asp?p=23995764,,,Rep,2019-12-06,
-"Zhong, Hao (SFC:BDB919) 鍾浩",sfclicrec.asp?p=2220472,,,RO,2020-01-15,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Choy, Siu Kwan 蔡小軍",None,sfclicrec.asp?p=91596,AVJ413,http://www.sfc.hk/publicregWeb/indi/AVJ413/licenceRecord,,,RO,2019-11-04,
+"Leung, Yun Fuk 梁潤福",None,sfclicrec.asp?p=98427,AFC126,http://www.sfc.hk/publicregWeb/indi/AFC126/licenceRecord,,,RO,2019-11-04,
+"Tang, Jiwei 唐繼偉",None,sfclicrec.asp?p=23995764,BPE889,http://www.sfc.hk/publicregWeb/indi/BPE889/licenceRecord,,,Rep,2019-12-06,
+"Zhong, Hao (SFC:BDB919) 鍾浩",None,sfclicrec.asp?p=2220472,BDB919,http://www.sfc.hk/publicregWeb/indi/BDB919/licenceRecord,,,RO,2020-01-15,

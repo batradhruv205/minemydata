@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Li, Xiaoxiao (SFC:BFR070) 李瀟瀟",sfclicrec.asp?p=2519741,,,RO,2015-12-29,
-"Li, Zengyi 李增奕",sfclicrec.asp?p=77428,,,RO,2015-09-09,
-"Wang, Yi (SFC:AUW136) 王翼",sfclicrec.asp?p=129432,,,RO,2015-09-09,2017-03-31
-"Wu, Qiong (SFC:ATQ759) 吳穹",sfclicrec.asp?p=69858,,,Rep,2018-11-14,2019-03-15
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Li, Xiaoxiao (SFC:BFR070) 李瀟瀟",None,sfclicrec.asp?p=2519741,BFR070,http://www.sfc.hk/publicregWeb/indi/BFR070/licenceRecord,,,RO,2015-12-29,
+"Li, Zengyi 李增奕",None,sfclicrec.asp?p=77428,ATQ757,http://www.sfc.hk/publicregWeb/indi/ATQ757/licenceRecord,,,RO,2015-09-09,
+"Wang, Yi (SFC:AUW136) 王翼",None,sfclicrec.asp?p=129432,AUW136,http://www.sfc.hk/publicregWeb/indi/AUW136/licenceRecord,,,RO,2015-09-09,2017-03-31
+"Wu, Qiong (SFC:ATQ759) 吳穹",None,sfclicrec.asp?p=69858,ATQ759,http://www.sfc.hk/publicregWeb/indi/ATQ759/licenceRecord,,,Rep,2018-11-14,2019-03-15

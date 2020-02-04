@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au, Fung Ping 區鳳萍",sfclicrec.asp?p=73768,,,Rep,2013-09-18,
-"Bokhary-Arculli, Rhoda Mariam ",sfclicrec.asp?p=27401,84,F,RO,,
-"Bokhary, Syed Bagh Ali Shah ",sfclicrec.asp?p=1421,,M,RO,1996-06-27,
-"Ching, David Tai Lung 程大龍",sfclicrec.asp?p=71726,,M,Rep,,
-"Ching, Gregory Tai Kong 程大剛",sfclicrec.asp?p=100913,,M,Rep,2016-07-07,
-"Kam, Patrick Chun Chung 甘振中",sfclicrec.asp?p=71727,,M,Rep,,
-"Kwan, Ida Siu Hung 關小紅",sfclicrec.asp?p=73981,,,Rep,2013-02-22,2014-09-27
-"Lam, Yick Kin 林奕乾",sfclicrec.asp?p=103173,,,Rep,,2005-01-31
-"Lau, Mandy Lai Wa 劉麗華",sfclicrec.asp?p=69097,,F,Rep,2005-06-01,2007-08-16
-"Li, Man Ying 李敏櫻",sfclicrec.asp?p=71728,,,Rep,,
-"Shek, Jee Fan 石稚芬",sfclicrec.asp?p=71729,,,Rep,,
-"Sim, Yuen Ying 沈婉影",sfclicrec.asp?p=71730,,,Rep,,
-"Suen, Avis 孫雅蕙",sfclicrec.asp?p=77113,,,Rep,2014-11-11,2015-04-17
-"Wong, Lancy Mee Yuk 王美玉",sfclicrec.asp?p=71731,,,Rep,,
-"Yuen, Dennis Wing Kum 袁榮錦",sfclicrec.asp?p=82852,,M,Rep,2015-04-22,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au, Fung Ping 區鳳萍",None,sfclicrec.asp?p=73768,AAW408,http://www.sfc.hk/publicregWeb/indi/AAW408/licenceRecord,,,Rep,2013-09-18,
+"Bokhary-Arculli, Rhoda Mariam ",None,sfclicrec.asp?p=27401,ABS894,http://www.sfc.hk/publicregWeb/indi/ABS894/licenceRecord,84.0,F,RO,,
+"Bokhary, Syed Bagh Ali Shah ",None,sfclicrec.asp?p=1421,AAB697,http://www.sfc.hk/publicregWeb/indi/AAB697/licenceRecord,,M,RO,1996-06-27,
+"Ching, David Tai Lung 程大龍",None,sfclicrec.asp?p=71726,ACF622,http://www.sfc.hk/publicregWeb/indi/ACF622/licenceRecord,,M,Rep,,
+"Ching, Gregory Tai Kong 程大剛",None,sfclicrec.asp?p=100913,AAD522,http://www.sfc.hk/publicregWeb/indi/AAD522/licenceRecord,,M,Rep,2016-07-07,
+"Kam, Patrick Chun Chung 甘振中",None,sfclicrec.asp?p=71727,ADP111,http://www.sfc.hk/publicregWeb/indi/ADP111/licenceRecord,,M,Rep,,
+"Kwan, Ida Siu Hung 關小紅",None,sfclicrec.asp?p=73981,AAC128,http://www.sfc.hk/publicregWeb/indi/AAC128/licenceRecord,,,Rep,2013-02-22,2014-09-27
+"Lam, Yick Kin 林奕乾",None,sfclicrec.asp?p=103173,ACP865,http://www.sfc.hk/publicregWeb/indi/ACP865/licenceRecord,,,Rep,,2005-01-31
+"Lau, Mandy Lai Wa 劉麗華",None,sfclicrec.asp?p=69097,AAD897,http://www.sfc.hk/publicregWeb/indi/AAD897/licenceRecord,,F,Rep,2005-06-01,2007-08-16
+"Li, Man Ying 李敏櫻",None,sfclicrec.asp?p=71728,AEY859,http://www.sfc.hk/publicregWeb/indi/AEY859/licenceRecord,,,Rep,,
+"Shek, Jee Fan 石稚芬",None,sfclicrec.asp?p=71729,AAB687,http://www.sfc.hk/publicregWeb/indi/AAB687/licenceRecord,,,Rep,,
+"Sim, Yuen Ying 沈婉影",None,sfclicrec.asp?p=71730,AAA484,http://www.sfc.hk/publicregWeb/indi/AAA484/licenceRecord,,,Rep,,
+"Suen, Avis 孫雅蕙",None,sfclicrec.asp?p=77113,AFM301,http://www.sfc.hk/publicregWeb/indi/AFM301/licenceRecord,,,Rep,2014-11-11,2015-04-17
+"Wong, Lancy Mee Yuk 王美玉",None,sfclicrec.asp?p=71731,AEY858,http://www.sfc.hk/publicregWeb/indi/AEY858/licenceRecord,,,Rep,,
+"Yuen, Dennis Wing Kum 袁榮錦",None,sfclicrec.asp?p=82852,AAB487,http://www.sfc.hk/publicregWeb/indi/AAB487/licenceRecord,,M,Rep,2015-04-22,

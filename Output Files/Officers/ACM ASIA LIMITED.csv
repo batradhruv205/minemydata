@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bowen, Louis McDaniel ",sfclicrec.asp?p=100328,,M,RO,,
-"Cheng, Ronie Yun Chung 鄭潤聰",sfclicrec.asp?p=59137,48,M,Rep,2004-08-09,2007-04-02
-"Cheng, Ronie Yun Chung 鄭潤聰",sfclicrec.asp?p=59137,48,M,RO,2007-04-02,2008-09-08
-"Collins-Taylor, James Desmond (SFC:ABO257) ",sfclicrec.asp?p=99611,,M,RO,,
-"Dickson, Roderick Mcewan ",sfclicrec.asp?p=111039,,M,RO,2005-09-02,2006-04-20
-"Moser, Kent Sanford ",sfclicrec.asp?p=100329,,M,Rep,2011-08-04,2011-11-01
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bowen, Louis McDaniel ",None,sfclicrec.asp?p=100328,AAD224,http://www.sfc.hk/publicregWeb/indi/AAD224/licenceRecord,,M,RO,,
+"Cheng, Ronie Yun Chung 鄭潤聰",None,sfclicrec.asp?p=59137,AKW439,http://www.sfc.hk/publicregWeb/indi/AKW439/licenceRecord,48.0,M,Rep,2004-08-09,2007-04-02
+"Cheng, Ronie Yun Chung 鄭潤聰",None,sfclicrec.asp?p=59137,AKW439,http://www.sfc.hk/publicregWeb/indi/AKW439/licenceRecord,48.0,M,RO,2007-04-02,2008-09-08
+"Collins-Taylor, James Desmond (SFC:ABO257) ",None,sfclicrec.asp?p=99611,ABO257,http://www.sfc.hk/publicregWeb/indi/ABO257/licenceRecord,,M,RO,,
+"Dickson, Roderick Mcewan ",None,sfclicrec.asp?p=111039,AHD924,http://www.sfc.hk/publicregWeb/indi/AHD924/licenceRecord,,M,RO,2005-09-02,2006-04-20
+"Moser, Kent Sanford ",None,sfclicrec.asp?p=100329,ALF653,http://www.sfc.hk/publicregWeb/indi/ALF653/licenceRecord,,M,Rep,2011-08-04,2011-11-01

@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Yunzhang 陳雲章",sfclicrec.asp?p=2295502,,,Rep,2016-06-20,
-"Fang, Ruofan 方若凡",sfclicrec.asp?p=119032,,,RO,2014-11-28,
-"Mui, Harry Ho Cheung 梅浩祥",sfclicrec.asp?p=121253,,M,Rep,2016-04-15,2018-12-12
-"Mui, Harry Ho Cheung 梅浩祥",sfclicrec.asp?p=121253,,M,RO,2018-12-12,
-"Sun, Yilin (SFC:BHZ452) 孫藝林",sfclicrec.asp?p=2625686,,,Rep,2018-07-24,
-"Wang, Yuchen (SFC:BAZ727) 王宇晨",sfclicrec.asp?p=2032495,,,Rep,2015-10-29,
-"Wong, Alex Yu Tsang 黃宇錚",sfclicrec.asp?p=115772,42,M,RO,2014-11-28,2019-11-29
-"Xing, Tianyou 邢天猷",sfclicrec.asp?p=2442468,,,Rep,2016-05-16,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Yunzhang 陳雲章",None,sfclicrec.asp?p=2295502,BDU721,http://www.sfc.hk/publicregWeb/indi/BDU721/licenceRecord,,,Rep,2016-06-20,
+"Fang, Ruofan 方若凡",None,sfclicrec.asp?p=119032,ANQ625,http://www.sfc.hk/publicregWeb/indi/ANQ625/licenceRecord,,,RO,2014-11-28,
+"Mui, Harry Ho Cheung 梅浩祥",None,sfclicrec.asp?p=121253,AOV495,http://www.sfc.hk/publicregWeb/indi/AOV495/licenceRecord,,M,Rep,2016-04-15,2018-12-12
+"Mui, Harry Ho Cheung 梅浩祥",None,sfclicrec.asp?p=121253,AOV495,http://www.sfc.hk/publicregWeb/indi/AOV495/licenceRecord,,M,RO,2018-12-12,
+"Sun, Yilin (SFC:BHZ452) 孫藝林",None,sfclicrec.asp?p=2625686,BHZ452,http://www.sfc.hk/publicregWeb/indi/BHZ452/licenceRecord,,,Rep,2018-07-24,
+"Wang, Yuchen (SFC:BAZ727) 王宇晨",None,sfclicrec.asp?p=2032495,BAZ727,http://www.sfc.hk/publicregWeb/indi/BAZ727/licenceRecord,,,Rep,2015-10-29,
+"Wong, Alex Yu Tsang 黃宇錚",None,sfclicrec.asp?p=115772,ALY116,http://www.sfc.hk/publicregWeb/indi/ALY116/licenceRecord,42.0,M,RO,2014-11-28,2019-11-29
+"Xing, Tianyou 邢天猷",None,sfclicrec.asp?p=2442468,BFL527,http://www.sfc.hk/publicregWeb/indi/BFL527/licenceRecord,,,Rep,2016-05-16,

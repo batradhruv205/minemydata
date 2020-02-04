@@ -4,6 +4,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 import re
+import os
 
 # Start with the League Table
 leaguetable = pd.read_csv("Output Files/LeagueTable.csv")
@@ -21,6 +22,12 @@ for i in leaguetable['SFCLink']:
     page = requests.get(url)
     page.encoding = 'utf8'
     soup = BeautifulSoup(page.text, 'lxml')
+    
+    # Prevent double work
+    filename = soup.find('h2').text + '.csv'
+    if filename in os.listdir('Output Files/Officers/'):
+        print ('done'+filename)
+        continue
     
     # Print Company name for tracking during scraping
     print(soup.find('h2').text)
@@ -66,4 +73,3 @@ for i in leaguetable['SFCLink']:
     sampledf = sampledf.drop(sampledf.index[0])
     outputfile = "Output Files/Officers/" + soup.find('h2').text + ".csv"
     sampledf.to_csv(outputfile, index = None)
-

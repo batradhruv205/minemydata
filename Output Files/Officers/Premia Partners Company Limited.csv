@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Choi, Kong Wing 蔡港榮",sfclicrec.asp?p=82141,,,Rep,2019-01-18,
-"Chu, Wing Hei 朱榮熙",sfclicrec.asp?p=97682,,,Rep,2017-07-13,
-"Chua, Sui Yee 蔡瑞怡",sfclicrec.asp?p=2039852,,,RO,2017-03-09,
-"Fung, Paak Khui 馮百駒",sfclicrec.asp?p=70241,,,Rep,2018-02-15,
-"Hsu, Tsung En 徐琮恩",sfclicrec.asp?p=22374006,,,Rep,2018-10-31,
-"Kwok, Sze Ho 郭子豪",sfclicrec.asp?p=98779,,,Rep,2018-02-27,
-"Lai, Chi Kin (SFC:AIR705) 賴子健",sfclicrec.asp?p=98780,,,RO,2017-03-09,
-"Lam, Chi Kwan 林志坤",sfclicrec.asp?p=70255,,,Rep,2017-05-29,2019-01-11
-"Lee, In-Gyu 李仁揆",sfclicrec.asp?p=2195985,,,Rep,2018-07-25,
-"Lui, Laura 呂靄華",sfclicrec.asp?p=93414,,F,RO,2017-03-09,
-"Mironenko, Aleksey ",sfclicrec.asp?p=2020314,,,Rep,2017-04-03,2017-08-01
-"Mironenko, Aleksey ",sfclicrec.asp?p=2020314,,,RO,2017-08-01,
-"Pan, Hailin (SFC:BHC186) 潘海琳",sfclicrec.asp?p=2540746,,,Rep,2017-10-06,
-"Tsang, Siu Wah (SFC:AIO026) 曾少華",sfclicrec.asp?p=93434,,,Rep,2018-09-04,2018-11-28
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Choi, Kong Wing 蔡港榮",None,sfclicrec.asp?p=82141,ANN039,http://www.sfc.hk/publicregWeb/indi/ANN039/licenceRecord,,,Rep,2019-01-18,
+"Chu, Wing Hei 朱榮熙",None,sfclicrec.asp?p=97682,ATO638,http://www.sfc.hk/publicregWeb/indi/ATO638/licenceRecord,,,Rep,2017-07-13,
+"Chua, Sui Yee 蔡瑞怡",None,sfclicrec.asp?p=2039852,BBA488,http://www.sfc.hk/publicregWeb/indi/BBA488/licenceRecord,,,RO,2017-03-09,
+"Fung, Paak Khui 馮百駒",None,sfclicrec.asp?p=70241,APZ423,http://www.sfc.hk/publicregWeb/indi/APZ423/licenceRecord,,,Rep,2018-02-15,
+"Hsu, Tsung En 徐琮恩",None,sfclicrec.asp?p=22374006,BNO998,http://www.sfc.hk/publicregWeb/indi/BNO998/licenceRecord,,,Rep,2018-10-31,
+"Kwok, Sze Ho 郭子豪",None,sfclicrec.asp?p=98779,ALO530,http://www.sfc.hk/publicregWeb/indi/ALO530/licenceRecord,,,Rep,2018-02-27,
+"Lai, Chi Kin (SFC:AIR705) 賴子健",None,sfclicrec.asp?p=98780,AIR705,http://www.sfc.hk/publicregWeb/indi/AIR705/licenceRecord,,,RO,2017-03-09,
+"Lam, Chi Kwan 林志坤",None,sfclicrec.asp?p=70255,AGA429,http://www.sfc.hk/publicregWeb/indi/AGA429/licenceRecord,,,Rep,2017-05-29,2019-01-11
+"Lee, In-Gyu 李仁揆",None,sfclicrec.asp?p=2195985,BBQ892,http://www.sfc.hk/publicregWeb/indi/BBQ892/licenceRecord,,,Rep,2018-07-25,
+"Lui, Laura 呂靄華",None,sfclicrec.asp?p=93414,ANA993,http://www.sfc.hk/publicregWeb/indi/ANA993/licenceRecord,,F,RO,2017-03-09,
+"Mironenko, Aleksey ",None,sfclicrec.asp?p=2020314,BAV577,http://www.sfc.hk/publicregWeb/indi/BAV577/licenceRecord,,,Rep,2017-04-03,2017-08-01
+"Mironenko, Aleksey ",None,sfclicrec.asp?p=2020314,BAV577,http://www.sfc.hk/publicregWeb/indi/BAV577/licenceRecord,,,RO,2017-08-01,
+"Pan, Hailin (SFC:BHC186) 潘海琳",None,sfclicrec.asp?p=2540746,BHC186,http://www.sfc.hk/publicregWeb/indi/BHC186/licenceRecord,,,Rep,2017-10-06,
+"Tsang, Siu Wah (SFC:AIO026) 曾少華",None,sfclicrec.asp?p=93434,AIO026,http://www.sfc.hk/publicregWeb/indi/AIO026/licenceRecord,,,Rep,2018-09-04,2018-11-28

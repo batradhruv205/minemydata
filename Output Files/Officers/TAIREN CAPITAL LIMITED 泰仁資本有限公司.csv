@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Liren 陳立人",sfclicrec.asp?p=121643,,,RO,2008-07-08,2010-01-20
-"Chen, Liren 陳立人",sfclicrec.asp?p=121643,,,RO,2011-06-22,
-"Chu, Pauline Po Lin 朱寶蓮",sfclicrec.asp?p=129933,,F,Rep,2010-06-28,2010-12-01
-"Fang, Fang (SFC:BFX004) 方芳",sfclicrec.asp?p=2477752,,,Rep,2018-07-09,
-"Huang, Lihui 黃利輝",sfclicrec.asp?p=125324,,,RO,2008-07-08,
-"Jiang, Christopher 蔣肖慶",sfclicrec.asp?p=128226,,M,RO,2009-11-16,
-"Tan, Zhizhi 譚智郅",sfclicrec.asp?p=134994,,,Rep,2019-07-16,2019-08-09
-"Tan, Zhizhi 譚智郅",sfclicrec.asp?p=134994,,,RO,2019-08-09,
-"Wang, C C Clark 王崇智",sfclicrec.asp?p=80193,,,Rep,2019-04-01,
-"Zhang, Tianshu 張天舒",sfclicrec.asp?p=125323,,,RO,2008-07-08,2011-03-01
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Liren 陳立人",None,sfclicrec.asp?p=121643,APA620,http://www.sfc.hk/publicregWeb/indi/APA620/licenceRecord,,,RO,2008-07-08,2010-01-20
+"Chen, Liren 陳立人",None,sfclicrec.asp?p=121643,APA620,http://www.sfc.hk/publicregWeb/indi/APA620/licenceRecord,,,RO,2011-06-22,
+"Chu, Pauline Po Lin 朱寶蓮",None,sfclicrec.asp?p=129933,AVJ709,http://www.sfc.hk/publicregWeb/indi/AVJ709/licenceRecord,,F,Rep,2010-06-28,2010-12-01
+"Fang, Fang (SFC:BFX004) 方芳",None,sfclicrec.asp?p=2477752,BFX004,http://www.sfc.hk/publicregWeb/indi/BFX004/licenceRecord,,,Rep,2018-07-09,
+"Huang, Lihui 黃利輝",None,sfclicrec.asp?p=125324,AQZ960,http://www.sfc.hk/publicregWeb/indi/AQZ960/licenceRecord,,,RO,2008-07-08,
+"Jiang, Christopher 蔣肖慶",None,sfclicrec.asp?p=128226,ATI411,http://www.sfc.hk/publicregWeb/indi/ATI411/licenceRecord,,M,RO,2009-11-16,
+"Tan, Zhizhi 譚智郅",None,sfclicrec.asp?p=134994,AYQ567,http://www.sfc.hk/publicregWeb/indi/AYQ567/licenceRecord,,,Rep,2019-07-16,2019-08-09
+"Tan, Zhizhi 譚智郅",None,sfclicrec.asp?p=134994,AYQ567,http://www.sfc.hk/publicregWeb/indi/AYQ567/licenceRecord,,,RO,2019-08-09,
+"Wang, C C Clark 王崇智",None,sfclicrec.asp?p=80193,ANG377,http://www.sfc.hk/publicregWeb/indi/ANG377/licenceRecord,,,Rep,2019-04-01,
+"Zhang, Tianshu 張天舒",None,sfclicrec.asp?p=125323,AQZ957,http://www.sfc.hk/publicregWeb/indi/AQZ957/licenceRecord,,,RO,2008-07-08,2011-03-01

@@ -1,18 +1,18 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Astrom, Lars Marcus ",sfclicrec.asp?p=12678149,,M,RO,2018-01-04,
-"Bhalla, Sumeet Kumar ",sfclicrec.asp?p=12149729,,M,Rep,2019-07-11,
-"Dahlgren, Rickard Hakan Nikodemus ",sfclicrec.asp?p=130861,,,Rep,2011-03-09,2013-09-01
-"Gandon, Sebastien Gervais Emmanuel ",sfclicrec.asp?p=2380847,,M,Rep,2015-02-05,2017-10-24
-"Hanson-Lawson, Michael John ",sfclicrec.asp?p=105493,,M,RO,2007-04-04,
-"Harris, Richard (SFC:AAK411) ",sfclicrec.asp?p=92918,,M,RO,2015-05-13,
-"Hirn, Karine Christine ",sfclicrec.asp?p=2420085,,F,RO,2015-05-13,
-"Hong, Fei (SFC:AXW474) 洪斐",sfclicrec.asp?p=90477,,,Rep,2015-06-04,
-"Lai, Ka Yee (SFC:AFR013) 黎家儀",sfclicrec.asp?p=107259,,,Rep,2008-01-28,2008-11-17
-"Madhabushi, Santoshi Roopaswati ",sfclicrec.asp?p=2430259,,,Rep,2015-06-04,2019-03-22
-"Mowbray, Stuart Maxwell ",sfclicrec.asp?p=103815,,M,RO,2010-02-09,2010-11-12
-"Perrin, Francois Jean Bernard ",sfclicrec.asp?p=70628,,M,Rep,2015-11-23,
-"Pop, Adrian Emanuel ",sfclicrec.asp?p=2430260,,M,Rep,2015-06-04,2018-08-07
-"Silva, Joseph Edward (SFC:AAI904) ",sfclicrec.asp?p=101430,,M,RO,2007-04-04,2009-11-23
-"Silva, Joseph Edward (SFC:AAI904) ",sfclicrec.asp?p=101430,,M,RO,2010-11-12,2015-10-27
-"Vlasov, Dmitriy 傅迪明",sfclicrec.asp?p=2430261,,,Rep,2015-06-04,
-"Wilson, Christopher Geoffrey ",sfclicrec.asp?p=102497,,M,RO,2007-04-04,2007-07-20
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Astrom, Lars Marcus ",None,sfclicrec.asp?p=12678149,BKB303,http://www.sfc.hk/publicregWeb/indi/BKB303/licenceRecord,,M,RO,2018-01-04,
+"Bhalla, Sumeet Kumar ",None,sfclicrec.asp?p=12149729,BLH891,http://www.sfc.hk/publicregWeb/indi/BLH891/licenceRecord,,M,Rep,2019-07-11,
+"Dahlgren, Rickard Hakan Nikodemus ",None,sfclicrec.asp?p=130861,AWV274,http://www.sfc.hk/publicregWeb/indi/AWV274/licenceRecord,,,Rep,2011-03-09,2013-09-01
+"Gandon, Sebastien Gervais Emmanuel ",None,sfclicrec.asp?p=2380847,BEW370,http://www.sfc.hk/publicregWeb/indi/BEW370/licenceRecord,,M,Rep,2015-02-05,2017-10-24
+"Hanson-Lawson, Michael John ",None,sfclicrec.asp?p=105493,AEW093,http://www.sfc.hk/publicregWeb/indi/AEW093/licenceRecord,,M,RO,2007-04-04,
+"Harris, Richard (SFC:AAK411) ",None,sfclicrec.asp?p=92918,AAK411,http://www.sfc.hk/publicregWeb/indi/AAK411/licenceRecord,,M,RO,2015-05-13,
+"Hirn, Karine Christine ",None,sfclicrec.asp?p=2420085,AOG947,http://www.sfc.hk/publicregWeb/indi/AOG947/licenceRecord,,F,RO,2015-05-13,
+"Hong, Fei (SFC:AXW474) 洪斐",None,sfclicrec.asp?p=90477,AXW474,http://www.sfc.hk/publicregWeb/indi/AXW474/licenceRecord,,,Rep,2015-06-04,
+"Lai, Ka Yee (SFC:AFR013) 黎家儀",None,sfclicrec.asp?p=107259,AFR013,http://www.sfc.hk/publicregWeb/indi/AFR013/licenceRecord,,,Rep,2008-01-28,2008-11-17
+"Madhabushi, Santoshi Roopaswati ",None,sfclicrec.asp?p=2430259,BFK377,http://www.sfc.hk/publicregWeb/indi/BFK377/licenceRecord,,,Rep,2015-06-04,2019-03-22
+"Mowbray, Stuart Maxwell ",None,sfclicrec.asp?p=103815,ADI945,http://www.sfc.hk/publicregWeb/indi/ADI945/licenceRecord,,M,RO,2010-02-09,2010-11-12
+"Perrin, Francois Jean Bernard ",None,sfclicrec.asp?p=70628,AVD963,http://www.sfc.hk/publicregWeb/indi/AVD963/licenceRecord,,M,Rep,2015-11-23,
+"Pop, Adrian Emanuel ",None,sfclicrec.asp?p=2430260,BFK466,http://www.sfc.hk/publicregWeb/indi/BFK466/licenceRecord,,M,Rep,2015-06-04,2018-08-07
+"Silva, Joseph Edward (SFC:AAI904) ",None,sfclicrec.asp?p=101430,AAI904,http://www.sfc.hk/publicregWeb/indi/AAI904/licenceRecord,,M,RO,2007-04-04,2009-11-23
+"Silva, Joseph Edward (SFC:AAI904) ",None,sfclicrec.asp?p=101430,AAI904,http://www.sfc.hk/publicregWeb/indi/AAI904/licenceRecord,,M,RO,2010-11-12,2015-10-27
+"Vlasov, Dmitriy 傅迪明",None,sfclicrec.asp?p=2430261,BFK461,http://www.sfc.hk/publicregWeb/indi/BFK461/licenceRecord,,,Rep,2015-06-04,
+"Wilson, Christopher Geoffrey ",None,sfclicrec.asp?p=102497,ABZ541,http://www.sfc.hk/publicregWeb/indi/ABZ541/licenceRecord,,M,RO,2007-04-04,2007-07-20

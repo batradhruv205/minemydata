@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au, Kwong Hoi 區光海",sfclicrec.asp?p=63225,,,RO,2017-04-03,
-"Kwan, Chung Yan 關頌恩",sfclicrec.asp?p=71801,,,Rep,2017-08-09,
-"Ngan, Ka Sing 顏嘉昇",sfclicrec.asp?p=95817,,,Rep,2017-08-04,
-"Wang, Boshen 王鉑深",sfclicrec.asp?p=12690350,,,Rep,2019-05-15,
-"Wu, Lawrence Wai Kong 胡偉剛",sfclicrec.asp?p=91256,,M,RO,2017-04-03,
-"Yeung, Gary Kim Ting 楊劍庭",sfclicrec.asp?p=2558796,54,M,Rep,2018-04-13,2019-07-05
-"Zhang, Qiang (SFC:BCH678) 張强",sfclicrec.asp?p=2177632,,,Rep,2017-11-03,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au, Kwong Hoi 區光海",None,sfclicrec.asp?p=63225,ABM765,http://www.sfc.hk/publicregWeb/indi/ABM765/licenceRecord,,,RO,2017-04-03,
+"Kwan, Chung Yan 關頌恩",None,sfclicrec.asp?p=71801,AFQ218,http://www.sfc.hk/publicregWeb/indi/AFQ218/licenceRecord,,,Rep,2017-08-09,
+"Ngan, Ka Sing 顏嘉昇",None,sfclicrec.asp?p=95817,AUM483,http://www.sfc.hk/publicregWeb/indi/AUM483/licenceRecord,,,Rep,2017-08-04,
+"Wang, Boshen 王鉑深",None,sfclicrec.asp?p=12690350,BMA941,http://www.sfc.hk/publicregWeb/indi/BMA941/licenceRecord,,,Rep,2019-05-15,
+"Wu, Lawrence Wai Kong 胡偉剛",None,sfclicrec.asp?p=91256,ACO383,http://www.sfc.hk/publicregWeb/indi/ACO383/licenceRecord,,M,RO,2017-04-03,
+"Yeung, Gary Kim Ting 楊劍庭",None,sfclicrec.asp?p=2558796,BHC525,http://www.sfc.hk/publicregWeb/indi/BHC525/licenceRecord,54.0,M,Rep,2018-04-13,2019-07-05
+"Zhang, Qiang (SFC:BCH678) 張强",None,sfclicrec.asp?p=2177632,BCH678,http://www.sfc.hk/publicregWeb/indi/BCH678/licenceRecord,,,Rep,2017-11-03,

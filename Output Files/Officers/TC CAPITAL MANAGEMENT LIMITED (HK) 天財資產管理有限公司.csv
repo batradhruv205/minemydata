@@ -1,18 +1,18 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chai, Yee Choong ",sfclicrec.asp?p=63123,,M,Rep,2012-04-10,2014-09-23
-"Chai, Yee Choong ",sfclicrec.asp?p=63123,,M,RO,2014-09-23,2015-10-31
-"Chan, Dennis Wan Pan 陳泓斌",sfclicrec.asp?p=2415322,,M,Rep,2015-05-04,2015-11-04
-"Chan, Dennis Wan Pan 陳泓斌",sfclicrec.asp?p=2415322,,M,Rep,2016-02-03,
-"Ma, Pui Keung 馬沛強",sfclicrec.asp?p=2415323,,,Rep,2015-05-04,2015-10-31
-"Moeller, Gerhard ",sfclicrec.asp?p=127803,,,RO,2011-10-24,2012-11-02
-"Ng, Fung Nga 吳豐雅",sfclicrec.asp?p=53668,,F,RO,2011-10-24,2011-12-31
-"Orr, Joseph Wai Shing 柯偉聲",sfclicrec.asp?p=22923,60,M,Rep,2019-04-16,2019-04-24
-"Orr, Joseph Wai Shing 柯偉聲",sfclicrec.asp?p=22923,60,M,RO,2019-04-24,
-"Wong, Sony Siu Keung 黃紹強",sfclicrec.asp?p=92593,,,RO,2012-02-01,2013-08-31
-"Wu, Benjamin Wen Jing 吳文京",sfclicrec.asp?p=16686,52,M,Rep,2011-12-20,2013-07-03
-"Wu, Benjamin Wen Jing 吳文京",sfclicrec.asp?p=16686,52,M,RO,2013-07-03,2015-03-10
-"Wu, Edward Wen Guang 吳文廣",sfclicrec.asp?p=63122,,M,Rep,2013-11-11,2015-10-30
-"Wu, Edward Wen Guang 吳文廣",sfclicrec.asp?p=63122,,M,RO,2015-10-30,
-"Wu, Man Kit (SFC:BBQ056) 胡文傑",sfclicrec.asp?p=2115292,,,Rep,2014-10-03,2015-10-16
-"Yang, Jia (SFC:BCH643) 楊嘉",sfclicrec.asp?p=2164199,,,Rep,2015-09-01,2016-05-31
-"Yu, Zhi (SFC:AIB283) 于志",sfclicrec.asp?p=84791,,,RO,2012-11-06,2019-03-29
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chai, Yee Choong ",None,sfclicrec.asp?p=63123,AQD839,http://www.sfc.hk/publicregWeb/indi/AQD839/licenceRecord,,M,Rep,2012-04-10,2014-09-23
+"Chai, Yee Choong ",None,sfclicrec.asp?p=63123,AQD839,http://www.sfc.hk/publicregWeb/indi/AQD839/licenceRecord,,M,RO,2014-09-23,2015-10-31
+"Chan, Dennis Wan Pan 陳泓斌",None,sfclicrec.asp?p=2415322,BFE802,http://www.sfc.hk/publicregWeb/indi/BFE802/licenceRecord,,M,Rep,2015-05-04,2015-11-04
+"Chan, Dennis Wan Pan 陳泓斌",None,sfclicrec.asp?p=2415322,BFE802,http://www.sfc.hk/publicregWeb/indi/BFE802/licenceRecord,,M,Rep,2016-02-03,
+"Ma, Pui Keung 馬沛強",None,sfclicrec.asp?p=2415323,BFE801,http://www.sfc.hk/publicregWeb/indi/BFE801/licenceRecord,,,Rep,2015-05-04,2015-10-31
+"Moeller, Gerhard ",None,sfclicrec.asp?p=127803,ASS612,http://www.sfc.hk/publicregWeb/indi/ASS612/licenceRecord,,,RO,2011-10-24,2012-11-02
+"Ng, Fung Nga 吳豐雅",None,sfclicrec.asp?p=53668,AHE261,http://www.sfc.hk/publicregWeb/indi/AHE261/licenceRecord,,F,RO,2011-10-24,2011-12-31
+"Orr, Joseph Wai Shing 柯偉聲",None,sfclicrec.asp?p=22923,AHF354,http://www.sfc.hk/publicregWeb/indi/AHF354/licenceRecord,60.0,M,Rep,2019-04-16,2019-04-24
+"Orr, Joseph Wai Shing 柯偉聲",None,sfclicrec.asp?p=22923,AHF354,http://www.sfc.hk/publicregWeb/indi/AHF354/licenceRecord,60.0,M,RO,2019-04-24,
+"Wong, Sony Siu Keung 黃紹強",None,sfclicrec.asp?p=92593,ALE802,http://www.sfc.hk/publicregWeb/indi/ALE802/licenceRecord,,,RO,2012-02-01,2013-08-31
+"Wu, Benjamin Wen Jing 吳文京",None,sfclicrec.asp?p=16686,AEM784,http://www.sfc.hk/publicregWeb/indi/AEM784/licenceRecord,52.0,M,Rep,2011-12-20,2013-07-03
+"Wu, Benjamin Wen Jing 吳文京",None,sfclicrec.asp?p=16686,AEM784,http://www.sfc.hk/publicregWeb/indi/AEM784/licenceRecord,52.0,M,RO,2013-07-03,2015-03-10
+"Wu, Edward Wen Guang 吳文廣",None,sfclicrec.asp?p=63122,AHC681,http://www.sfc.hk/publicregWeb/indi/AHC681/licenceRecord,,M,Rep,2013-11-11,2015-10-30
+"Wu, Edward Wen Guang 吳文廣",None,sfclicrec.asp?p=63122,AHC681,http://www.sfc.hk/publicregWeb/indi/AHC681/licenceRecord,,M,RO,2015-10-30,
+"Wu, Man Kit (SFC:BBQ056) 胡文傑",None,sfclicrec.asp?p=2115292,BBQ056,http://www.sfc.hk/publicregWeb/indi/BBQ056/licenceRecord,,,Rep,2014-10-03,2015-10-16
+"Yang, Jia (SFC:BCH643) 楊嘉",None,sfclicrec.asp?p=2164199,BCH643,http://www.sfc.hk/publicregWeb/indi/BCH643/licenceRecord,,,Rep,2015-09-01,2016-05-31
+"Yu, Zhi (SFC:AIB283) 于志",None,sfclicrec.asp?p=84791,AIB283,http://www.sfc.hk/publicregWeb/indi/AIB283/licenceRecord,,,RO,2012-11-06,2019-03-29

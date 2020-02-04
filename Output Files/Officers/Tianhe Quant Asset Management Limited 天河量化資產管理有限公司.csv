@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Kak Chi 陳格致",sfclicrec.asp?p=19623677,,,Rep,2019-09-04,
-"D'Souza, Felix Otto ",sfclicrec.asp?p=105076,,M,RO,2013-06-11,
-"Jamet, Nicolas Jean-Claude Bernard ",sfclicrec.asp?p=121661,,M,Rep,2013-06-18,2014-08-28
-"Jamet, Nicolas Jean-Claude Bernard ",sfclicrec.asp?p=121661,,M,RO,2014-08-28,2016-08-31
-"Mercer, Alan Kenneth ",sfclicrec.asp?p=1336,64,M,RO,2013-06-11,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Kak Chi 陳格致",None,sfclicrec.asp?p=19623677,BNE795,http://www.sfc.hk/publicregWeb/indi/BNE795/licenceRecord,,,Rep,2019-09-04,
+"D'Souza, Felix Otto ",None,sfclicrec.asp?p=105076,AEN822,http://www.sfc.hk/publicregWeb/indi/AEN822/licenceRecord,,M,RO,2013-06-11,
+"Jamet, Nicolas Jean-Claude Bernard ",None,sfclicrec.asp?p=121661,APB267,http://www.sfc.hk/publicregWeb/indi/APB267/licenceRecord,,M,Rep,2013-06-18,2014-08-28
+"Jamet, Nicolas Jean-Claude Bernard ",None,sfclicrec.asp?p=121661,APB267,http://www.sfc.hk/publicregWeb/indi/APB267/licenceRecord,,M,RO,2014-08-28,2016-08-31
+"Mercer, Alan Kenneth ",None,sfclicrec.asp?p=1336,ABX208,http://www.sfc.hk/publicregWeb/indi/ABX208/licenceRecord,64.0,M,RO,2013-06-11,

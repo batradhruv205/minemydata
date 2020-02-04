@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Chi Chow 陳致洲",sfclicrec.asp?p=86602,,,Rep,2009-03-18,2009-08-16
-"Ehrhardt, Jens Alfred Karl ",sfclicrec.asp?p=99090,,M,RO,2007-05-16,2013-09-04
-"Gooding, Nial Dennis Henry 劉國誠",sfclicrec.asp?p=63933,61,M,Rep,2014-05-05,2014-10-22
-"Gooding, Nial Dennis Henry 劉國誠",sfclicrec.asp?p=63933,61,M,RO,2014-10-22,
-"Kan, Wing Yan (SFC:AWI755) 簡潁甄",sfclicrec.asp?p=99091,,,Rep,2010-12-23,2013-07-16
-"Kihm, Lutz Hans Michael ",sfclicrec.asp?p=45374,59,M,RO,2007-05-16,
-"Roberts, Christopher Fenton 羅弼時",sfclicrec.asp?p=88526,,M,RO,2007-07-19,2009-12-11
-"Snelgrove, Paul Rodger ",sfclicrec.asp?p=88426,,M,Rep,2013-06-07,2013-08-27
-"Snelgrove, Paul Rodger ",sfclicrec.asp?p=88426,,M,RO,2013-08-27,2014-09-26
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Chi Chow 陳致洲",None,sfclicrec.asp?p=86602,ADY284,http://www.sfc.hk/publicregWeb/indi/ADY284/licenceRecord,,,Rep,2009-03-18,2009-08-16
+"Ehrhardt, Jens Alfred Karl ",None,sfclicrec.asp?p=99090,ALV119,http://www.sfc.hk/publicregWeb/indi/ALV119/licenceRecord,,M,RO,2007-05-16,2013-09-04
+"Gooding, Nial Dennis Henry 劉國誠",None,sfclicrec.asp?p=63933,ABS538,http://www.sfc.hk/publicregWeb/indi/ABS538/licenceRecord,61.0,M,Rep,2014-05-05,2014-10-22
+"Gooding, Nial Dennis Henry 劉國誠",None,sfclicrec.asp?p=63933,ABS538,http://www.sfc.hk/publicregWeb/indi/ABS538/licenceRecord,61.0,M,RO,2014-10-22,
+"Kan, Wing Yan (SFC:AWI755) 簡潁甄",None,sfclicrec.asp?p=99091,AWI755,http://www.sfc.hk/publicregWeb/indi/AWI755/licenceRecord,,,Rep,2010-12-23,2013-07-16
+"Kihm, Lutz Hans Michael ",None,sfclicrec.asp?p=45374,ADC898,http://www.sfc.hk/publicregWeb/indi/ADC898/licenceRecord,59.0,M,RO,2007-05-16,
+"Roberts, Christopher Fenton 羅弼時",None,sfclicrec.asp?p=88526,AAD528,http://www.sfc.hk/publicregWeb/indi/AAD528/licenceRecord,,M,RO,2007-07-19,2009-12-11
+"Snelgrove, Paul Rodger ",None,sfclicrec.asp?p=88426,AEE375,http://www.sfc.hk/publicregWeb/indi/AEE375/licenceRecord,,M,Rep,2013-06-07,2013-08-27
+"Snelgrove, Paul Rodger ",None,sfclicrec.asp?p=88426,AEE375,http://www.sfc.hk/publicregWeb/indi/AEE375/licenceRecord,,M,RO,2013-08-27,2014-09-26

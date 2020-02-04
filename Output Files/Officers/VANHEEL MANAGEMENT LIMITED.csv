@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Dudok Van Heel, Harald Frederik ",sfclicrec.asp?p=101064,,M,RO,,
-"Dudok Van Heel, Robert Frederik ",sfclicrec.asp?p=2406800,,M,Rep,2018-07-31,2018-11-12
-"Kundert, Jurg Mathias ",sfclicrec.asp?p=1853279,,M,Rep,2012-02-15,
-"Lee, Lu Ping 李魯冰",sfclicrec.asp?p=24099690,,,RO,2020-01-10,
-"Liang, Andrew Kwan Wah 梁冠華",sfclicrec.asp?p=58111,,M,Rep,2006-07-10,2009-11-16
-"Von Cannon, Bruce Douglas ",sfclicrec.asp?p=2373453,,M,Rep,2015-01-20,2015-02-11
-"Von Cannon, Bruce Douglas ",sfclicrec.asp?p=2373453,,M,RO,2015-02-11,
-"Wurfbain, Lucas Hendrik ",sfclicrec.asp?p=101266,,M,RO,2004-12-15,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Dudok Van Heel, Harald Frederik ",None,sfclicrec.asp?p=101064,AAE929,http://www.sfc.hk/publicregWeb/indi/AAE929/licenceRecord,,M,RO,,
+"Dudok Van Heel, Robert Frederik ",None,sfclicrec.asp?p=2406800,BFF029,http://www.sfc.hk/publicregWeb/indi/BFF029/licenceRecord,,M,Rep,2018-07-31,2018-11-12
+"Kundert, Jurg Mathias ",None,sfclicrec.asp?p=1853279,AYZ337,http://www.sfc.hk/publicregWeb/indi/AYZ337/licenceRecord,,M,Rep,2012-02-15,
+"Lee, Lu Ping 李魯冰",None,sfclicrec.asp?p=24099690,BJT653,http://www.sfc.hk/publicregWeb/indi/BJT653/licenceRecord,,,RO,2020-01-10,
+"Liang, Andrew Kwan Wah 梁冠華",None,sfclicrec.asp?p=58111,AEF380,http://www.sfc.hk/publicregWeb/indi/AEF380/licenceRecord,,M,Rep,2006-07-10,2009-11-16
+"Von Cannon, Bruce Douglas ",None,sfclicrec.asp?p=2373453,AWC777,http://www.sfc.hk/publicregWeb/indi/AWC777/licenceRecord,,M,Rep,2015-01-20,2015-02-11
+"Von Cannon, Bruce Douglas ",None,sfclicrec.asp?p=2373453,AWC777,http://www.sfc.hk/publicregWeb/indi/AWC777/licenceRecord,,M,RO,2015-02-11,
+"Wurfbain, Lucas Hendrik ",None,sfclicrec.asp?p=101266,AAH179,http://www.sfc.hk/publicregWeb/indi/AAH179/licenceRecord,,M,RO,2004-12-15,

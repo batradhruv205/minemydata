@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Jonathan Ming Sun 陳銘燊",sfclicrec.asp?p=21963,48,M,RO,2015-05-21,
-"Wang, Lian (SFC:AFL878) 王煉",sfclicrec.asp?p=106609,,,RO,2015-05-21,
-"Wat, Hiu Ching 屈曉晴",sfclicrec.asp?p=117812,,,Rep,2015-08-04,2018-05-28
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Jonathan Ming Sun 陳銘燊",None,sfclicrec.asp?p=21963,AGH221,http://www.sfc.hk/publicregWeb/indi/AGH221/licenceRecord,48.0,M,RO,2015-05-21,
+"Wang, Lian (SFC:AFL878) 王煉",None,sfclicrec.asp?p=106609,AFL878,http://www.sfc.hk/publicregWeb/indi/AFL878/licenceRecord,,,RO,2015-05-21,
+"Wat, Hiu Ching 屈曉晴",None,sfclicrec.asp?p=117812,AMZ188,http://www.sfc.hk/publicregWeb/indi/AMZ188/licenceRecord,,,Rep,2015-08-04,2018-05-28

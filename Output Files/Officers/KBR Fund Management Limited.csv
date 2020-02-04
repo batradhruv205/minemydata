@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Bob Yau Ching 陳友正",sfclicrec.asp?p=7881,58,M,Rep,2014-09-10,2014-11-17
-"Chan, Bob Yau Ching 陳友正",sfclicrec.asp?p=7881,58,M,RO,2014-11-17,
-"Chan, Man Hung (SFC:ARL935) 陳文洪",sfclicrec.asp?p=75976,,,Rep,2018-05-21,2019-05-31
-"Chan, Yat Keung 陳日強",sfclicrec.asp?p=2429154,,,Rep,2019-02-04,
-"Kwan, Dick Bo Ren 關博仁",sfclicrec.asp?p=13587,59,M,RO,2008-01-08,2017-03-01
-"Lau, Yin Wing 劉燕穎",sfclicrec.asp?p=44638,,F,RO,2008-01-08,2016-07-08
-"Li, Dominic Song Ching 李崇正",sfclicrec.asp?p=100841,,M,Rep,2017-09-25,2017-11-24
-"Li, Dominic Song Ching 李崇正",sfclicrec.asp?p=100841,,M,RO,2017-11-24,2019-08-31
-"Li, Wai Lam 李韋霖",sfclicrec.asp?p=17481873,,,Rep,2018-06-15,2019-08-19
-"O, San Wing 柯燊榮",sfclicrec.asp?p=2337398,,,Rep,2014-10-27,2019-09-02
-"O, San Wing 柯燊榮",sfclicrec.asp?p=2337398,,,RO,2019-09-02,
-"Tai, Patricia Yuen Fai 戴婉暉",sfclicrec.asp?p=6706542,,F,Rep,2017-09-01,2018-11-05
-"Wang, Xionghui 王雄輝",sfclicrec.asp?p=125634,,,RO,2017-04-12,
-"Yeung Leung, Monica Yuen Fun 楊梁婉芬",sfclicrec.asp?p=76762,,F,RO,2016-04-18,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Bob Yau Ching 陳友正",None,sfclicrec.asp?p=7881,AFB219,http://www.sfc.hk/publicregWeb/indi/AFB219/licenceRecord,58.0,M,Rep,2014-09-10,2014-11-17
+"Chan, Bob Yau Ching 陳友正",None,sfclicrec.asp?p=7881,AFB219,http://www.sfc.hk/publicregWeb/indi/AFB219/licenceRecord,58.0,M,RO,2014-11-17,
+"Chan, Man Hung (SFC:ARL935) 陳文洪",None,sfclicrec.asp?p=75976,ARL935,http://www.sfc.hk/publicregWeb/indi/ARL935/licenceRecord,,,Rep,2018-05-21,2019-05-31
+"Chan, Yat Keung 陳日強",None,sfclicrec.asp?p=2429154,BFK744,http://www.sfc.hk/publicregWeb/indi/BFK744/licenceRecord,,,Rep,2019-02-04,
+"Kwan, Dick Bo Ren 關博仁",None,sfclicrec.asp?p=13587,ACO109,http://www.sfc.hk/publicregWeb/indi/ACO109/licenceRecord,59.0,M,RO,2008-01-08,2017-03-01
+"Lau, Yin Wing 劉燕穎",None,sfclicrec.asp?p=44638,AIU473,http://www.sfc.hk/publicregWeb/indi/AIU473/licenceRecord,,F,RO,2008-01-08,2016-07-08
+"Li, Dominic Song Ching 李崇正",None,sfclicrec.asp?p=100841,AAC878,http://www.sfc.hk/publicregWeb/indi/AAC878/licenceRecord,,M,Rep,2017-09-25,2017-11-24
+"Li, Dominic Song Ching 李崇正",None,sfclicrec.asp?p=100841,AAC878,http://www.sfc.hk/publicregWeb/indi/AAC878/licenceRecord,,M,RO,2017-11-24,2019-08-31
+"Li, Wai Lam 李韋霖",None,sfclicrec.asp?p=17481873,BMV715,http://www.sfc.hk/publicregWeb/indi/BMV715/licenceRecord,,,Rep,2018-06-15,2019-08-19
+"O, San Wing 柯燊榮",None,sfclicrec.asp?p=2337398,BEI242,http://www.sfc.hk/publicregWeb/indi/BEI242/licenceRecord,,,Rep,2014-10-27,2019-09-02
+"O, San Wing 柯燊榮",None,sfclicrec.asp?p=2337398,BEI242,http://www.sfc.hk/publicregWeb/indi/BEI242/licenceRecord,,,RO,2019-09-02,
+"Tai, Patricia Yuen Fai 戴婉暉",None,sfclicrec.asp?p=6706542,BJE911,http://www.sfc.hk/publicregWeb/indi/BJE911/licenceRecord,,F,Rep,2017-09-01,2018-11-05
+"Wang, Xionghui 王雄輝",None,sfclicrec.asp?p=125634,ARE183,http://www.sfc.hk/publicregWeb/indi/ARE183/licenceRecord,,,RO,2017-04-12,
+"Yeung Leung, Monica Yuen Fun 楊梁婉芬",None,sfclicrec.asp?p=76762,AXC562,http://www.sfc.hk/publicregWeb/indi/AXC562/licenceRecord,,F,RO,2016-04-18,

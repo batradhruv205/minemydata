@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Broomhead, Robert Peter ",sfclicrec.asp?p=135821,,M,Rep,2019-07-25,
-"Brown, Andrew Ollie ",sfclicrec.asp?p=103468,,M,RO,2019-07-05,
-"Campbell, Job Ezra ",sfclicrec.asp?p=83749,,M,Rep,2019-10-10,
-"Chen, Michael Huang 陳仁傑",sfclicrec.asp?p=23397659,,M,RO,2019-07-05,
-"Lam, Fong Tat 林方達",sfclicrec.asp?p=98781,,,RO,2019-07-05,
-"Stanley, Robert Charles ",sfclicrec.asp?p=90730,,M,Rep,2019-10-15,
-"Studholme-Wilson, Nicholas Claude ",sfclicrec.asp?p=122022,,M,RO,2019-07-05,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Broomhead, Robert Peter ",None,sfclicrec.asp?p=135821,AYT249,http://www.sfc.hk/publicregWeb/indi/AYT249/licenceRecord,,M,Rep,2019-07-25,
+"Brown, Andrew Ollie ",None,sfclicrec.asp?p=103468,ACZ477,http://www.sfc.hk/publicregWeb/indi/ACZ477/licenceRecord,,M,RO,2019-07-05,
+"Campbell, Job Ezra ",None,sfclicrec.asp?p=83749,AFU889,http://www.sfc.hk/publicregWeb/indi/AFU889/licenceRecord,,M,Rep,2019-10-10,
+"Chen, Michael Huang 陳仁傑",None,sfclicrec.asp?p=23397659,BOI039,http://www.sfc.hk/publicregWeb/indi/BOI039/licenceRecord,,M,RO,2019-07-05,
+"Lam, Fong Tat 林方達",None,sfclicrec.asp?p=98781,AJM293,http://www.sfc.hk/publicregWeb/indi/AJM293/licenceRecord,,,RO,2019-07-05,
+"Stanley, Robert Charles ",None,sfclicrec.asp?p=90730,AOQ941,http://www.sfc.hk/publicregWeb/indi/AOQ941/licenceRecord,,M,Rep,2019-10-15,
+"Studholme-Wilson, Nicholas Claude ",None,sfclicrec.asp?p=122022,APF339,http://www.sfc.hk/publicregWeb/indi/APF339/licenceRecord,,M,RO,2019-07-05,

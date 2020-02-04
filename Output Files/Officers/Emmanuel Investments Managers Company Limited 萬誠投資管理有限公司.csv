@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Lai Yin (SFC:BIV615) 陳麗賢",sfclicrec.asp?p=2692064,,,RO,2017-01-26,2018-08-15
-"Chan, Vivian Rivera ",sfclicrec.asp?p=22704600,,,RO,2019-01-28,
-"Cheung, Tommy Tin Lok 張天樂",sfclicrec.asp?p=2692065,,M,RO,2017-01-26,
-"Leung, Ping Fai (SFC:ARG750) 梁炳輝",sfclicrec.asp?p=125882,,,Rep,2017-09-29,2018-01-31
-"Leung, Ping Fai (SFC:ARG750) 梁炳輝",sfclicrec.asp?p=125882,,,RO,2018-01-31,2018-06-06
-"Tam, Alan Tsz Yeung 譚梓洋",sfclicrec.asp?p=114681,,M,Rep,2019-08-14,
-"Yuen, Kin Yuk 阮健毓",sfclicrec.asp?p=122596,,,Rep,2018-10-19,2018-11-26
-"Yuen, Kin Yuk 阮健毓",sfclicrec.asp?p=122596,,,RO,2018-11-26,2019-01-21
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Lai Yin (SFC:BIV615) 陳麗賢",None,sfclicrec.asp?p=2692064,BIV615,http://www.sfc.hk/publicregWeb/indi/BIV615/licenceRecord,,,RO,2017-01-26,2018-08-15
+"Chan, Vivian Rivera ",None,sfclicrec.asp?p=22704600,BNU407,http://www.sfc.hk/publicregWeb/indi/BNU407/licenceRecord,,,RO,2019-01-28,
+"Cheung, Tommy Tin Lok 張天樂",None,sfclicrec.asp?p=2692065,AFE195,http://www.sfc.hk/publicregWeb/indi/AFE195/licenceRecord,,M,RO,2017-01-26,
+"Leung, Ping Fai (SFC:ARG750) 梁炳輝",None,sfclicrec.asp?p=125882,ARG750,http://www.sfc.hk/publicregWeb/indi/ARG750/licenceRecord,,,Rep,2017-09-29,2018-01-31
+"Leung, Ping Fai (SFC:ARG750) 梁炳輝",None,sfclicrec.asp?p=125882,ARG750,http://www.sfc.hk/publicregWeb/indi/ARG750/licenceRecord,,,RO,2018-01-31,2018-06-06
+"Tam, Alan Tsz Yeung 譚梓洋",None,sfclicrec.asp?p=114681,ALI351,http://www.sfc.hk/publicregWeb/indi/ALI351/licenceRecord,,M,Rep,2019-08-14,
+"Yuen, Kin Yuk 阮健毓",None,sfclicrec.asp?p=122596,APL591,http://www.sfc.hk/publicregWeb/indi/APL591/licenceRecord,,,Rep,2018-10-19,2018-11-26
+"Yuen, Kin Yuk 阮健毓",None,sfclicrec.asp?p=122596,APL591,http://www.sfc.hk/publicregWeb/indi/APL591/licenceRecord,,,RO,2018-11-26,2019-01-21

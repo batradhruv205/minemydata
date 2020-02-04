@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Man Yan (SFC:AMF587) 陳文欣",sfclicrec.asp?p=95259,,,Rep,2018-06-20,2018-09-20
-"Chan, Tom Pak Lam 陳柏楠",sfclicrec.asp?p=7530,57,M,RO,2013-08-29,
-"Chen, Ding (SFC:BCW248) 陳鼎",sfclicrec.asp?p=2222435,,,Rep,2014-03-12,2016-02-05
-"Chiao, Li 喬立",sfclicrec.asp?p=29102,54,M,Rep,2014-03-31,2017-10-17
-"Chiao, Li 喬立",sfclicrec.asp?p=29102,54,M,RO,2017-10-17,2019-12-01
-"Chiu, Miranda Oi Yee 招藹怡",sfclicrec.asp?p=2684430,,F,Rep,2018-02-13,
-"Choi, King Long 蔡經龍",sfclicrec.asp?p=2350397,,,Rep,2017-06-26,
-"Fong, Tak Yee 方德義",sfclicrec.asp?p=25387,,,RO,2019-04-26,
-"Kwong, Wai Chung 鄺韋璁",sfclicrec.asp?p=2008170,,,Rep,2019-01-28,
-"Lai, Yui Ben 黎銳斌",sfclicrec.asp?p=113320,,,RO,2013-08-29,2019-11-29
-"Tang, Wilson Wing Yin 鄧永然",sfclicrec.asp?p=17898037,,M,Rep,2018-06-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Man Yan (SFC:AMF587) 陳文欣",None,sfclicrec.asp?p=95259,AMF587,http://www.sfc.hk/publicregWeb/indi/AMF587/licenceRecord,,,Rep,2018-06-20,2018-09-20
+"Chan, Tom Pak Lam 陳柏楠",None,sfclicrec.asp?p=7530,ACJ830,http://www.sfc.hk/publicregWeb/indi/ACJ830/licenceRecord,57.0,M,RO,2013-08-29,
+"Chen, Ding (SFC:BCW248) 陳鼎",None,sfclicrec.asp?p=2222435,BCW248,http://www.sfc.hk/publicregWeb/indi/BCW248/licenceRecord,,,Rep,2014-03-12,2016-02-05
+"Chiao, Li 喬立",None,sfclicrec.asp?p=29102,AEC714,http://www.sfc.hk/publicregWeb/indi/AEC714/licenceRecord,54.0,M,Rep,2014-03-31,2017-10-17
+"Chiao, Li 喬立",None,sfclicrec.asp?p=29102,AEC714,http://www.sfc.hk/publicregWeb/indi/AEC714/licenceRecord,54.0,M,RO,2017-10-17,2019-12-01
+"Chiu, Miranda Oi Yee 招藹怡",None,sfclicrec.asp?p=2684430,BIS572,http://www.sfc.hk/publicregWeb/indi/BIS572/licenceRecord,,F,Rep,2018-02-13,
+"Choi, King Long 蔡經龍",None,sfclicrec.asp?p=2350397,BEJ353,http://www.sfc.hk/publicregWeb/indi/BEJ353/licenceRecord,,,Rep,2017-06-26,
+"Fong, Tak Yee 方德義",None,sfclicrec.asp?p=25387,AFA617,http://www.sfc.hk/publicregWeb/indi/AFA617/licenceRecord,,,RO,2019-04-26,
+"Kwong, Wai Chung 鄺韋璁",None,sfclicrec.asp?p=2008170,BAQ958,http://www.sfc.hk/publicregWeb/indi/BAQ958/licenceRecord,,,Rep,2019-01-28,
+"Lai, Yui Ben 黎銳斌",None,sfclicrec.asp?p=113320,AJI707,http://www.sfc.hk/publicregWeb/indi/AJI707/licenceRecord,,,RO,2013-08-29,2019-11-29
+"Tang, Wilson Wing Yin 鄧永然",None,sfclicrec.asp?p=17898037,BMW181,http://www.sfc.hk/publicregWeb/indi/BMW181/licenceRecord,,M,Rep,2018-06-26,

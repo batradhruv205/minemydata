@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Keung, Kelvin 姜登華",sfclicrec.asp?p=18893,,M,RO,2018-01-17,
-"Tse, Benjamin Bun 謝彬",sfclicrec.asp?p=102932,,M,Rep,2018-03-26,
-"Yip, Sau Hoi 葉秀開",sfclicrec.asp?p=85451,,,RO,2018-01-17,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Keung, Kelvin 姜登華",None,sfclicrec.asp?p=18893,AEI320,http://www.sfc.hk/publicregWeb/indi/AEI320/licenceRecord,,M,RO,2018-01-17,
+"Tse, Benjamin Bun 謝彬",None,sfclicrec.asp?p=102932,ACL001,http://www.sfc.hk/publicregWeb/indi/ACL001/licenceRecord,,M,Rep,2018-03-26,
+"Yip, Sau Hoi 葉秀開",None,sfclicrec.asp?p=85451,AEO868,http://www.sfc.hk/publicregWeb/indi/AEO868/licenceRecord,,,RO,2018-01-17,

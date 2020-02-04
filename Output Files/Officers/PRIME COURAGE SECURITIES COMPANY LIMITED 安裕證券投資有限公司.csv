@@ -1,18 +1,18 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Janet Vai Ha 陳惠霞",sfclicrec.asp?p=100496,,F,RO,2011-09-19,2011-11-23
-"Chow, Wing Hong (SFC:ACI634) 周永康",sfclicrec.asp?p=75499,,,Rep,2013-05-27,
-"Kao, Chi Hung 高志雄",sfclicrec.asp?p=2005074,,,Rep,2013-01-07,2014-01-14
-"Kwong, Keith Chin Cheung 鄺展翔",sfclicrec.asp?p=81529,,M,Rep,2015-09-02,2016-01-04
-"Kwong, Keith Chin Cheung 鄺展翔",sfclicrec.asp?p=81529,,M,RO,2016-01-04,2016-09-01
-"Lau, Yuk Cheong 劉育璋",sfclicrec.asp?p=14856,53,M,RO,2011-09-19,
-"Li, Timothy Sze Tsun 李思儁",sfclicrec.asp?p=85761,,M,Rep,2015-06-01,2015-09-29
-"Li, Timothy Sze Tsun 李思儁",sfclicrec.asp?p=85761,,M,RO,2015-09-29,
-"Poon, Ben Shu Fai 潘樹輝",sfclicrec.asp?p=93424,,M,Rep,2012-10-16,
-"Shih, Yi Wang 施貽弘",sfclicrec.asp?p=133336,,,Rep,2011-11-03,
-"Sze, Wing Yee 施永儀",sfclicrec.asp?p=79298,,,Rep,2011-09-28,
-"Tam, William Chi Kwong 譚志光",sfclicrec.asp?p=75881,,M,Rep,2011-11-07,2011-11-16
-"Tam, William Chi Kwong 譚志光",sfclicrec.asp?p=75881,,M,RO,2011-11-16,2015-09-14
-"Tiu Co, Rodrigo Chua ",sfclicrec.asp?p=2477123,,M,Rep,2015-09-18,
-"Tung, Wah Ying 董華英",sfclicrec.asp?p=33292,,M,Rep,2016-08-10,2016-10-26
-"Tung, Wah Ying 董華英",sfclicrec.asp?p=33292,,M,RO,2016-10-26,
-"Yeung, Wilson Wai Keung 楊偉強",sfclicrec.asp?p=123227,,M,Rep,2012-07-06,2012-11-16
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Janet Vai Ha 陳惠霞",None,sfclicrec.asp?p=100496,AAA111,http://www.sfc.hk/publicregWeb/indi/AAA111/licenceRecord,,F,RO,2011-09-19,2011-11-23
+"Chow, Wing Hong (SFC:ACI634) 周永康",None,sfclicrec.asp?p=75499,ACI634,http://www.sfc.hk/publicregWeb/indi/ACI634/licenceRecord,,,Rep,2013-05-27,
+"Kao, Chi Hung 高志雄",None,sfclicrec.asp?p=2005074,ACP947,http://www.sfc.hk/publicregWeb/indi/ACP947/licenceRecord,,,Rep,2013-01-07,2014-01-14
+"Kwong, Keith Chin Cheung 鄺展翔",None,sfclicrec.asp?p=81529,AAA318,http://www.sfc.hk/publicregWeb/indi/AAA318/licenceRecord,,M,Rep,2015-09-02,2016-01-04
+"Kwong, Keith Chin Cheung 鄺展翔",None,sfclicrec.asp?p=81529,AAA318,http://www.sfc.hk/publicregWeb/indi/AAA318/licenceRecord,,M,RO,2016-01-04,2016-09-01
+"Lau, Yuk Cheong 劉育璋",None,sfclicrec.asp?p=14856,AAD603,http://www.sfc.hk/publicregWeb/indi/AAD603/licenceRecord,53.0,M,RO,2011-09-19,
+"Li, Timothy Sze Tsun 李思儁",None,sfclicrec.asp?p=85761,AEM702,http://www.sfc.hk/publicregWeb/indi/AEM702/licenceRecord,,M,Rep,2015-06-01,2015-09-29
+"Li, Timothy Sze Tsun 李思儁",None,sfclicrec.asp?p=85761,AEM702,http://www.sfc.hk/publicregWeb/indi/AEM702/licenceRecord,,M,RO,2015-09-29,
+"Poon, Ben Shu Fai 潘樹輝",None,sfclicrec.asp?p=93424,AAE969,http://www.sfc.hk/publicregWeb/indi/AAE969/licenceRecord,,M,Rep,2012-10-16,
+"Shih, Yi Wang 施貽弘",None,sfclicrec.asp?p=133336,AYE645,http://www.sfc.hk/publicregWeb/indi/AYE645/licenceRecord,,,Rep,2011-11-03,
+"Sze, Wing Yee 施永儀",None,sfclicrec.asp?p=79298,AAD628,http://www.sfc.hk/publicregWeb/indi/AAD628/licenceRecord,,,Rep,2011-09-28,
+"Tam, William Chi Kwong 譚志光",None,sfclicrec.asp?p=75881,AFG390,http://www.sfc.hk/publicregWeb/indi/AFG390/licenceRecord,,M,Rep,2011-11-07,2011-11-16
+"Tam, William Chi Kwong 譚志光",None,sfclicrec.asp?p=75881,AFG390,http://www.sfc.hk/publicregWeb/indi/AFG390/licenceRecord,,M,RO,2011-11-16,2015-09-14
+"Tiu Co, Rodrigo Chua ",None,sfclicrec.asp?p=2477123,BFZ617,http://www.sfc.hk/publicregWeb/indi/BFZ617/licenceRecord,,M,Rep,2015-09-18,
+"Tung, Wah Ying 董華英",None,sfclicrec.asp?p=33292,AAE225,http://www.sfc.hk/publicregWeb/indi/AAE225/licenceRecord,,M,Rep,2016-08-10,2016-10-26
+"Tung, Wah Ying 董華英",None,sfclicrec.asp?p=33292,AAE225,http://www.sfc.hk/publicregWeb/indi/AAE225/licenceRecord,,M,RO,2016-10-26,
+"Yeung, Wilson Wai Keung 楊偉強",None,sfclicrec.asp?p=123227,APV166,http://www.sfc.hk/publicregWeb/indi/APV166/licenceRecord,,M,Rep,2012-07-06,2012-11-16

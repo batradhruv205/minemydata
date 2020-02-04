@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"He, Hua (SFC:AOV195) 何華",sfclicrec.asp?p=73372,,,RO,2016-05-03,
-"Lin, Ning (SFC:ASF476) 林宁",sfclicrec.asp?p=127390,,,RO,2016-09-05,2017-03-22
-"Wu, Ruojun 吳若君",sfclicrec.asp?p=126493,,,RO,2016-05-03,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"He, Hua (SFC:AOV195) 何華",None,sfclicrec.asp?p=73372,AOV195,http://www.sfc.hk/publicregWeb/indi/AOV195/licenceRecord,,,RO,2016-05-03,
+"Lin, Ning (SFC:ASF476) 林宁",None,sfclicrec.asp?p=127390,ASF476,http://www.sfc.hk/publicregWeb/indi/ASF476/licenceRecord,,,RO,2016-09-05,2017-03-22
+"Wu, Ruojun 吳若君",None,sfclicrec.asp?p=126493,ARN824,http://www.sfc.hk/publicregWeb/indi/ARN824/licenceRecord,,,RO,2016-05-03,

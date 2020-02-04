@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheang, Yee Chung 張而重",sfclicrec.asp?p=92622,,,Rep,2017-08-02,
-"Chui, Ka Lung (SFC:BOA075) 徐嘉隆",sfclicrec.asp?p=22649234,,,Rep,2019-05-27,
-"Ho, Chi Ho (SFC:AEH818) 何治豪",sfclicrec.asp?p=73105,,,RO,2017-03-01,
-"Lee, Hei Shing 李禧盛",sfclicrec.asp?p=2623255,,,Rep,2017-04-05,2019-07-31
-"Lee, Michael Cho Wing 李祖榮",sfclicrec.asp?p=106157,,M,Rep,2019-03-14,2019-05-23
-"Lee, Michael Cho Wing 李祖榮",sfclicrec.asp?p=106157,,M,RO,2019-05-23,
-"Ng, Ka Wai (SFC:BLB476) 吳家偉",sfclicrec.asp?p=12073059,,,Rep,2017-09-26,2019-10-31
-"Si, Wen (SFC:BMK022) 斯文",sfclicrec.asp?p=12807763,,,Rep,2018-02-23,2018-03-21
-"Sin, Tak Keung 單德强",sfclicrec.asp?p=6717582,,,Rep,2017-03-31,2017-05-26
-"Sin, Tak Keung 單德强",sfclicrec.asp?p=6717582,,,RO,2017-05-26,2019-06-30
-"Tam, Kwok Leung (SFC:AFT103) 譚國樑",sfclicrec.asp?p=72258,,,RO,2017-03-01,
-"Wong, Yui Wah 黃銳華",sfclicrec.asp?p=75809,,,Rep,2018-06-28,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheang, Yee Chung 張而重",None,sfclicrec.asp?p=92622,AHV027,http://www.sfc.hk/publicregWeb/indi/AHV027/licenceRecord,,,Rep,2017-08-02,
+"Chui, Ka Lung (SFC:BOA075) 徐嘉隆",None,sfclicrec.asp?p=22649234,BOA075,http://www.sfc.hk/publicregWeb/indi/BOA075/licenceRecord,,,Rep,2019-05-27,
+"Ho, Chi Ho (SFC:AEH818) 何治豪",None,sfclicrec.asp?p=73105,AEH818,http://www.sfc.hk/publicregWeb/indi/AEH818/licenceRecord,,,RO,2017-03-01,
+"Lee, Hei Shing 李禧盛",None,sfclicrec.asp?p=2623255,BIB598,http://www.sfc.hk/publicregWeb/indi/BIB598/licenceRecord,,,Rep,2017-04-05,2019-07-31
+"Lee, Michael Cho Wing 李祖榮",None,sfclicrec.asp?p=106157,AFI576,http://www.sfc.hk/publicregWeb/indi/AFI576/licenceRecord,,M,Rep,2019-03-14,2019-05-23
+"Lee, Michael Cho Wing 李祖榮",None,sfclicrec.asp?p=106157,AFI576,http://www.sfc.hk/publicregWeb/indi/AFI576/licenceRecord,,M,RO,2019-05-23,
+"Ng, Ka Wai (SFC:BLB476) 吳家偉",None,sfclicrec.asp?p=12073059,BLB476,http://www.sfc.hk/publicregWeb/indi/BLB476/licenceRecord,,,Rep,2017-09-26,2019-10-31
+"Si, Wen (SFC:BMK022) 斯文",None,sfclicrec.asp?p=12807763,BMK022,http://www.sfc.hk/publicregWeb/indi/BMK022/licenceRecord,,,Rep,2018-02-23,2018-03-21
+"Sin, Tak Keung 單德强",None,sfclicrec.asp?p=6717582,BJG757,http://www.sfc.hk/publicregWeb/indi/BJG757/licenceRecord,,,Rep,2017-03-31,2017-05-26
+"Sin, Tak Keung 單德强",None,sfclicrec.asp?p=6717582,BJG757,http://www.sfc.hk/publicregWeb/indi/BJG757/licenceRecord,,,RO,2017-05-26,2019-06-30
+"Tam, Kwok Leung (SFC:AFT103) 譚國樑",None,sfclicrec.asp?p=72258,AFT103,http://www.sfc.hk/publicregWeb/indi/AFT103/licenceRecord,,,RO,2017-03-01,
+"Wong, Yui Wah 黃銳華",None,sfclicrec.asp?p=75809,AJG600,http://www.sfc.hk/publicregWeb/indi/AJG600/licenceRecord,,,Rep,2018-06-28,

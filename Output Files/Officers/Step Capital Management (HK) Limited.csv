@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chow, Joel Chin Hang 周展恆",sfclicrec.asp?p=84560,,,RO,2018-09-06,2019-06-30
-"Gao, Ying (SFC:BHF149) 高莹",sfclicrec.asp?p=2622688,,,Rep,2019-05-09,2019-07-09
-"Gao, Ying (SFC:BHF149) 高莹",sfclicrec.asp?p=2622688,,,RO,2019-07-09,
-"Shen, Yingbing 沈影冰",sfclicrec.asp?p=2200261,,,RO,2018-09-06,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chow, Joel Chin Hang 周展恆",None,sfclicrec.asp?p=84560,ALA520,http://www.sfc.hk/publicregWeb/indi/ALA520/licenceRecord,,,RO,2018-09-06,2019-06-30
+"Gao, Ying (SFC:BHF149) 高莹",None,sfclicrec.asp?p=2622688,BHF149,http://www.sfc.hk/publicregWeb/indi/BHF149/licenceRecord,,,Rep,2019-05-09,2019-07-09
+"Gao, Ying (SFC:BHF149) 高莹",None,sfclicrec.asp?p=2622688,BHF149,http://www.sfc.hk/publicregWeb/indi/BHF149/licenceRecord,,,RO,2019-07-09,
+"Shen, Yingbing 沈影冰",None,sfclicrec.asp?p=2200261,BCL484,http://www.sfc.hk/publicregWeb/indi/BCL484/licenceRecord,,,RO,2018-09-06,

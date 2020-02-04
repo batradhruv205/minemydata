@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Kwan, Wai Man 關惠文",sfclicrec.asp?p=81943,,M,RO,2017-07-21,2018-05-31
-"Lau, Chester Cheuk Lam 劉卓林",sfclicrec.asp?p=82222,,M,RO,2017-07-21,2019-06-04
-"Liu, Yakun ",sfclicrec.asp?p=22383314,,,Rep,2018-11-02,
-"Mah, Wei Siang Kenny ",sfclicrec.asp?p=2703547,,M,Rep,2018-01-03,2018-04-10
-"Mah, Wei Siang Kenny ",sfclicrec.asp?p=2703547,,M,RO,2018-04-10,
-"Miranda, Brett Andrew ",sfclicrec.asp?p=22798706,,M,Rep,2019-02-19,
-"Ongko, Frederick Kesuma ",sfclicrec.asp?p=22408255,,M,Rep,2018-11-08,
-"Phoon, Wing Kit ",sfclicrec.asp?p=12999634,,,Rep,2018-03-22,
-"Poon, Chun Ming 潘俊銘",sfclicrec.asp?p=2437161,,,Rep,2017-08-02,2018-11-18
-"Yam, Wai Tak 任偉德",sfclicrec.asp?p=90170,,,RO,2018-03-16,
-"Zhang, Xinzhi ",sfclicrec.asp?p=12834480,,,Rep,2018-03-08,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Kwan, Wai Man 關惠文",None,sfclicrec.asp?p=81943,ACJ105,http://www.sfc.hk/publicregWeb/indi/ACJ105/licenceRecord,,M,RO,2017-07-21,2018-05-31
+"Lau, Chester Cheuk Lam 劉卓林",None,sfclicrec.asp?p=82222,AQN200,http://www.sfc.hk/publicregWeb/indi/AQN200/licenceRecord,,M,RO,2017-07-21,2019-06-04
+"Liu, Yakun ",None,sfclicrec.asp?p=22383314,BNN913,http://www.sfc.hk/publicregWeb/indi/BNN913/licenceRecord,,,Rep,2018-11-02,
+"Mah, Wei Siang Kenny ",None,sfclicrec.asp?p=2703547,BHU656,http://www.sfc.hk/publicregWeb/indi/BHU656/licenceRecord,,M,Rep,2018-01-03,2018-04-10
+"Mah, Wei Siang Kenny ",None,sfclicrec.asp?p=2703547,BHU656,http://www.sfc.hk/publicregWeb/indi/BHU656/licenceRecord,,M,RO,2018-04-10,
+"Miranda, Brett Andrew ",None,sfclicrec.asp?p=22798706,BNV321,http://www.sfc.hk/publicregWeb/indi/BNV321/licenceRecord,,M,Rep,2019-02-19,
+"Ongko, Frederick Kesuma ",None,sfclicrec.asp?p=22408255,BNR240,http://www.sfc.hk/publicregWeb/indi/BNR240/licenceRecord,,M,Rep,2018-11-08,
+"Phoon, Wing Kit ",None,sfclicrec.asp?p=12999634,BME179,http://www.sfc.hk/publicregWeb/indi/BME179/licenceRecord,,,Rep,2018-03-22,
+"Poon, Chun Ming 潘俊銘",None,sfclicrec.asp?p=2437161,BFR074,http://www.sfc.hk/publicregWeb/indi/BFR074/licenceRecord,,,Rep,2017-08-02,2018-11-18
+"Yam, Wai Tak 任偉德",None,sfclicrec.asp?p=90170,AMK311,http://www.sfc.hk/publicregWeb/indi/AMK311/licenceRecord,,,RO,2018-03-16,
+"Zhang, Xinzhi ",None,sfclicrec.asp?p=12834480,BLV455,http://www.sfc.hk/publicregWeb/indi/BLV455/licenceRecord,,,Rep,2018-03-08,

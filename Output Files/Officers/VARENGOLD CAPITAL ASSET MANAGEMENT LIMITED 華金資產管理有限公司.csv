@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bellingham, Alexander Bruce ",sfclicrec.asp?p=109377,,M,RO,2017-12-06,2018-08-31
-"Chan, Wai Sze (SFC:BIN990) 陳慧詩",sfclicrec.asp?p=2673002,,,Rep,2017-03-28,2018-08-31
-"Chan, Yue Tat Andy 陳裕達",sfclicrec.asp?p=2638851,,,Rep,2016-09-29,2017-11-21
-"Chen, Yanqing 陳燕青",sfclicrec.asp?p=2675373,,,Rep,2016-12-19,2018-05-18
-"Ip, Hak Shiu 葉克紹",sfclicrec.asp?p=2697724,,,Rep,2017-02-17,2018-08-31
-"Lai, Hoi Lee 黎凱莉",sfclicrec.asp?p=1913744,,,Rep,2017-04-19,2018-08-31
-"Ling, Maximilian Shui Hung 林瑞鴻",sfclicrec.asp?p=2475901,,M,Rep,2016-04-26,2018-12-14
-"Lui, Darren Wang Yip 雷宏業",sfclicrec.asp?p=2390460,,M,RO,2016-03-21,2017-09-05
-"Suen, Tsz Ching 孫芷晴",sfclicrec.asp?p=2690019,,,Rep,2017-01-23,2020-01-22
-"Suen, Tsz Ching 孫芷晴",sfclicrec.asp?p=2690019,,,RO,2020-01-22,
-"Tanisaka, Miho ",sfclicrec.asp?p=105129,,,RO,2016-03-21,2020-01-01
-"Wong, Shirley Shing Kit 黃成潔",sfclicrec.asp?p=122632,,F,Rep,2018-07-23,2018-08-14
-"Wong, Shirley Shing Kit 黃成潔",sfclicrec.asp?p=122632,,F,RO,2018-08-14,
-"Yan, Kar Kee 甄家祺",sfclicrec.asp?p=127536,,,Rep,2016-04-26,2018-05-09
-"Yau, Chung Wai 丘頌偉",sfclicrec.asp?p=132843,,,RO,2016-03-21,2017-09-23
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bellingham, Alexander Bruce ",None,sfclicrec.asp?p=109377,AGM004,http://www.sfc.hk/publicregWeb/indi/AGM004/licenceRecord,,M,RO,2017-12-06,2018-08-31
+"Chan, Wai Sze (SFC:BIN990) 陳慧詩",None,sfclicrec.asp?p=2673002,BIN990,http://www.sfc.hk/publicregWeb/indi/BIN990/licenceRecord,,,Rep,2017-03-28,2018-08-31
+"Chan, Yue Tat Andy 陳裕達",None,sfclicrec.asp?p=2638851,BHY880,http://www.sfc.hk/publicregWeb/indi/BHY880/licenceRecord,,,Rep,2016-09-29,2017-11-21
+"Chen, Yanqing 陳燕青",None,sfclicrec.asp?p=2675373,BIO886,http://www.sfc.hk/publicregWeb/indi/BIO886/licenceRecord,,,Rep,2016-12-19,2018-05-18
+"Ip, Hak Shiu 葉克紹",None,sfclicrec.asp?p=2697724,BIX995,http://www.sfc.hk/publicregWeb/indi/BIX995/licenceRecord,,,Rep,2017-02-17,2018-08-31
+"Lai, Hoi Lee 黎凱莉",None,sfclicrec.asp?p=1913744,AYQ271,http://www.sfc.hk/publicregWeb/indi/AYQ271/licenceRecord,,,Rep,2017-04-19,2018-08-31
+"Ling, Maximilian Shui Hung 林瑞鴻",None,sfclicrec.asp?p=2475901,BGA793,http://www.sfc.hk/publicregWeb/indi/BGA793/licenceRecord,,M,Rep,2016-04-26,2018-12-14
+"Lui, Darren Wang Yip 雷宏業",None,sfclicrec.asp?p=2390460,BER581,http://www.sfc.hk/publicregWeb/indi/BER581/licenceRecord,,M,RO,2016-03-21,2017-09-05
+"Suen, Tsz Ching 孫芷晴",None,sfclicrec.asp?p=2690019,BIT861,http://www.sfc.hk/publicregWeb/indi/BIT861/licenceRecord,,,Rep,2017-01-23,2020-01-22
+"Suen, Tsz Ching 孫芷晴",None,sfclicrec.asp?p=2690019,BIT861,http://www.sfc.hk/publicregWeb/indi/BIT861/licenceRecord,,,RO,2020-01-22,
+"Tanisaka, Miho ",None,sfclicrec.asp?p=105129,AEO785,http://www.sfc.hk/publicregWeb/indi/AEO785/licenceRecord,,,RO,2016-03-21,2020-01-01
+"Wong, Shirley Shing Kit 黃成潔",None,sfclicrec.asp?p=122632,APL786,http://www.sfc.hk/publicregWeb/indi/APL786/licenceRecord,,F,Rep,2018-07-23,2018-08-14
+"Wong, Shirley Shing Kit 黃成潔",None,sfclicrec.asp?p=122632,APL786,http://www.sfc.hk/publicregWeb/indi/APL786/licenceRecord,,F,RO,2018-08-14,
+"Yan, Kar Kee 甄家祺",None,sfclicrec.asp?p=127536,ASK152,http://www.sfc.hk/publicregWeb/indi/ASK152/licenceRecord,,,Rep,2016-04-26,2018-05-09
+"Yau, Chung Wai 丘頌偉",None,sfclicrec.asp?p=132843,AYF518,http://www.sfc.hk/publicregWeb/indi/AYF518/licenceRecord,,,RO,2016-03-21,2017-09-23

@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Ka Kit 陳家傑",sfclicrec.asp?p=22252512,,,Rep,2018-10-16,
-"Chung, Hiu Lam 鍾曉林",sfclicrec.asp?p=12601236,,,Rep,2017-11-27,
-"Ip, Wang Hoi 葉耘開",sfclicrec.asp?p=115010,,,RO,2017-09-15,
-"Lee, Hin Pong 李顯邦",sfclicrec.asp?p=2107755,,,Rep,2018-11-05,2018-12-19
-"Lee, Hin Pong 李顯邦",sfclicrec.asp?p=2107755,,,RO,2018-12-19,
-"Lee, Michael Cho Wing 李祖榮",sfclicrec.asp?p=106157,,M,RO,2017-09-15,2018-02-28
-"Liu, Yiyan (SFC:BNY064) 劉一言",sfclicrec.asp?p=22575521,,,Rep,2018-12-21,2019-07-01
-"Ngai, To Nam 倪圖南",sfclicrec.asp?p=92316,,,RO,2018-05-10,
-"Ngai, Wui Tung 倪滙東",sfclicrec.asp?p=2350935,,,Rep,2018-09-24,2018-11-19
-"Ngai, Wui Tung 倪滙東",sfclicrec.asp?p=2350935,,,RO,2018-11-19,
-"Tse, Kai Kong 謝啟剛",sfclicrec.asp?p=2523003,,,Rep,2019-04-11,
-"Wang, Xingyuan 王星原",sfclicrec.asp?p=23575423,,,Rep,2019-08-20,
-"Wong, Lai Yue 黃麗洳",sfclicrec.asp?p=57351,,,Rep,2018-01-24,2018-03-01
-"Wong, Lai Yue 黃麗洳",sfclicrec.asp?p=57351,,,RO,2018-03-01,2018-12-20
-"Ye, Qianzhi 叶芊枝",sfclicrec.asp?p=24149524,,,Rep,2020-01-22,
-"Yu, Jessy Yanqi ",sfclicrec.asp?p=12627271,,,Rep,2017-12-07,2019-03-01
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Ka Kit 陳家傑",None,sfclicrec.asp?p=22252512,BNO619,http://www.sfc.hk/publicregWeb/indi/BNO619/licenceRecord,,,Rep,2018-10-16,
+"Chung, Hiu Lam 鍾曉林",None,sfclicrec.asp?p=12601236,BLG285,http://www.sfc.hk/publicregWeb/indi/BLG285/licenceRecord,,,Rep,2017-11-27,
+"Ip, Wang Hoi 葉耘開",None,sfclicrec.asp?p=115010,ALN577,http://www.sfc.hk/publicregWeb/indi/ALN577/licenceRecord,,,RO,2017-09-15,
+"Lee, Hin Pong 李顯邦",None,sfclicrec.asp?p=2107755,BBQ604,http://www.sfc.hk/publicregWeb/indi/BBQ604/licenceRecord,,,Rep,2018-11-05,2018-12-19
+"Lee, Hin Pong 李顯邦",None,sfclicrec.asp?p=2107755,BBQ604,http://www.sfc.hk/publicregWeb/indi/BBQ604/licenceRecord,,,RO,2018-12-19,
+"Lee, Michael Cho Wing 李祖榮",None,sfclicrec.asp?p=106157,AFI576,http://www.sfc.hk/publicregWeb/indi/AFI576/licenceRecord,,M,RO,2017-09-15,2018-02-28
+"Liu, Yiyan (SFC:BNY064) 劉一言",None,sfclicrec.asp?p=22575521,BNY064,http://www.sfc.hk/publicregWeb/indi/BNY064/licenceRecord,,,Rep,2018-12-21,2019-07-01
+"Ngai, To Nam 倪圖南",None,sfclicrec.asp?p=92316,AVV214,http://www.sfc.hk/publicregWeb/indi/AVV214/licenceRecord,,,RO,2018-05-10,
+"Ngai, Wui Tung 倪滙東",None,sfclicrec.asp?p=2350935,BEL021,http://www.sfc.hk/publicregWeb/indi/BEL021/licenceRecord,,,Rep,2018-09-24,2018-11-19
+"Ngai, Wui Tung 倪滙東",None,sfclicrec.asp?p=2350935,BEL021,http://www.sfc.hk/publicregWeb/indi/BEL021/licenceRecord,,,RO,2018-11-19,
+"Tse, Kai Kong 謝啟剛",None,sfclicrec.asp?p=2523003,BGU232,http://www.sfc.hk/publicregWeb/indi/BGU232/licenceRecord,,,Rep,2019-04-11,
+"Wang, Xingyuan 王星原",None,sfclicrec.asp?p=23575423,BOS314,http://www.sfc.hk/publicregWeb/indi/BOS314/licenceRecord,,,Rep,2019-08-20,
+"Wong, Lai Yue 黃麗洳",None,sfclicrec.asp?p=57351,AFE038,http://www.sfc.hk/publicregWeb/indi/AFE038/licenceRecord,,,Rep,2018-01-24,2018-03-01
+"Wong, Lai Yue 黃麗洳",None,sfclicrec.asp?p=57351,AFE038,http://www.sfc.hk/publicregWeb/indi/AFE038/licenceRecord,,,RO,2018-03-01,2018-12-20
+"Ye, Qianzhi 叶芊枝",None,sfclicrec.asp?p=24149524,BPJ675,http://www.sfc.hk/publicregWeb/indi/BPJ675/licenceRecord,,,Rep,2020-01-22,
+"Yu, Jessy Yanqi ",None,sfclicrec.asp?p=12627271,BLG286,http://www.sfc.hk/publicregWeb/indi/BLG286/licenceRecord,,,Rep,2017-12-07,2019-03-01

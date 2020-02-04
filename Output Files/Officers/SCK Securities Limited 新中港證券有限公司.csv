@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Jacky Yu Kit 陳宇傑",sfclicrec.asp?p=77716,,,Rep,2018-09-04,2018-10-11
-"Chan, Jacky Yu Kit 陳宇傑",sfclicrec.asp?p=77716,,,RO,2018-10-11,
-"Hui, Kwai Ming 許癸明",sfclicrec.asp?p=91630,,,RO,2018-04-11,
-"Wong, Shing Ho (SFC:AKJ167) 黃盛豪",sfclicrec.asp?p=91883,,,RO,2018-04-11,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Jacky Yu Kit 陳宇傑",None,sfclicrec.asp?p=77716,ARO061,http://www.sfc.hk/publicregWeb/indi/ARO061/licenceRecord,,,Rep,2018-09-04,2018-10-11
+"Chan, Jacky Yu Kit 陳宇傑",None,sfclicrec.asp?p=77716,ARO061,http://www.sfc.hk/publicregWeb/indi/ARO061/licenceRecord,,,RO,2018-10-11,
+"Hui, Kwai Ming 許癸明",None,sfclicrec.asp?p=91630,AKX675,http://www.sfc.hk/publicregWeb/indi/AKX675/licenceRecord,,,RO,2018-04-11,
+"Wong, Shing Ho (SFC:AKJ167) 黃盛豪",None,sfclicrec.asp?p=91883,AKJ167,http://www.sfc.hk/publicregWeb/indi/AKJ167/licenceRecord,,,RO,2018-04-11,

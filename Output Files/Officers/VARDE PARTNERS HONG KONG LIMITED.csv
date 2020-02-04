@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chang, Tzy Fay ",sfclicrec.asp?p=90939,,,RO,2016-10-03,2019-12-31
-"Fox, Jonathan Andrew ",sfclicrec.asp?p=2640896,,M,RO,2016-10-03,
-"Koo, Da Wan 丘多完",sfclicrec.asp?p=77375,,,Rep,2017-08-24,
-"Kwong, Alexandra Hok Yan 鄺學欣",sfclicrec.asp?p=119315,,F,RO,2019-10-16,
-"Pradeep, Vasundhara ",sfclicrec.asp?p=77509,,,Rep,2019-05-15,
-"Rydqvist, Craig Ivan (SFC:BOM591) ",sfclicrec.asp?p=23795865,,M,RO,2019-10-16,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chang, Tzy Fay ",None,sfclicrec.asp?p=90939,AUV944,http://www.sfc.hk/publicregWeb/indi/AUV944/licenceRecord,,,RO,2016-10-03,2019-12-31
+"Fox, Jonathan Andrew ",None,sfclicrec.asp?p=2640896,BHT404,http://www.sfc.hk/publicregWeb/indi/BHT404/licenceRecord,,M,RO,2016-10-03,
+"Koo, Da Wan 丘多完",None,sfclicrec.asp?p=77375,AXR520,http://www.sfc.hk/publicregWeb/indi/AXR520/licenceRecord,,,Rep,2017-08-24,
+"Kwong, Alexandra Hok Yan 鄺學欣",None,sfclicrec.asp?p=119315,ANT892,http://www.sfc.hk/publicregWeb/indi/ANT892/licenceRecord,,F,RO,2019-10-16,
+"Pradeep, Vasundhara ",None,sfclicrec.asp?p=77509,ALZ462,http://www.sfc.hk/publicregWeb/indi/ALZ462/licenceRecord,,,Rep,2019-05-15,
+"Rydqvist, Craig Ivan (SFC:BOM591) ",None,sfclicrec.asp?p=23795865,BOM591,http://www.sfc.hk/publicregWeb/indi/BOM591/licenceRecord,,M,RO,2019-10-16,

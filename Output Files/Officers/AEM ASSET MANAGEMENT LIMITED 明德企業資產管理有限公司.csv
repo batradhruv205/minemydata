@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Chun Tsung 張振棕",sfclicrec.asp?p=82574,,,RO,2019-08-01,
-"Chong, Terrence 莊日宙",sfclicrec.asp?p=23693483,,M,Rep,2019-09-23,
-"Hung, Alan Hing Lun 孔慶倫",sfclicrec.asp?p=12598464,46,M,Rep,2019-06-03,
-"Kwan, David Yi Fan ",sfclicrec.asp?p=1971602,,M,RO,2018-03-26,
-"Soong, Gary Yuk Lun 宋煜麟",sfclicrec.asp?p=76582,,M,RO,2018-03-26,2018-06-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Chun Tsung 張振棕",None,sfclicrec.asp?p=82574,AXZ233,http://www.sfc.hk/publicregWeb/indi/AXZ233/licenceRecord,,,RO,2019-08-01,
+"Chong, Terrence 莊日宙",None,sfclicrec.asp?p=23693483,BOJ296,http://www.sfc.hk/publicregWeb/indi/BOJ296/licenceRecord,,M,Rep,2019-09-23,
+"Hung, Alan Hing Lun 孔慶倫",None,sfclicrec.asp?p=12598464,AEA163,http://www.sfc.hk/publicregWeb/indi/AEA163/licenceRecord,46.0,M,Rep,2019-06-03,
+"Kwan, David Yi Fan ",None,sfclicrec.asp?p=1971602,BAJ162,http://www.sfc.hk/publicregWeb/indi/BAJ162/licenceRecord,,M,RO,2018-03-26,
+"Soong, Gary Yuk Lun 宋煜麟",None,sfclicrec.asp?p=76582,ADP887,http://www.sfc.hk/publicregWeb/indi/ADP887/licenceRecord,,M,RO,2018-03-26,2018-06-30

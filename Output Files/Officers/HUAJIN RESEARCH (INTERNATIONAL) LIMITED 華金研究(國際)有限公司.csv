@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cai, Jingyan 蔡景彥",sfclicrec.asp?p=8114011,,,Rep,2017-04-18,2017-04-25
-"Chan, Fung Chu 陳鳳珠",sfclicrec.asp?p=94305,,,RO,2016-01-20,2017-02-19
-"Chan, Hing Wah 陳慶華",sfclicrec.asp?p=105332,,,RO,2016-01-20,2016-05-03
-"Chen, Zhuofeng 陳卓楓",sfclicrec.asp?p=15010652,,,Rep,2018-05-14,2019-02-10
-"Choi, Kaiser Wing Kai 蔡榮楷",sfclicrec.asp?p=94987,,M,Rep,2016-04-25,2016-06-13
-"Choi, Kaiser Wing Kai 蔡榮楷",sfclicrec.asp?p=94987,,M,RO,2016-06-13,
-"Kwong, Toby Tse San 鄺紫珊",sfclicrec.asp?p=121919,,,Rep,2016-04-20,2017-04-07
-"Liu, Christina Lai Sum 廖麗心",sfclicrec.asp?p=38555,,F,RO,2016-04-27,2019-04-08
-"Lo, Chi Yan 盧紫茵",sfclicrec.asp?p=79580,,,Rep,2019-04-04,2019-04-17
-"Lo, Chi Yan 盧紫茵",sfclicrec.asp?p=79580,,,RO,2019-04-17,
-"Man, Kam Chiu 文錦超",sfclicrec.asp?p=101724,,,Rep,2016-05-26,2017-10-16
-"Ngai, Man Fai 倪文輝",sfclicrec.asp?p=83056,,,Rep,2016-07-07,2018-10-15
-"Tsang, Man Shun 曾文舜",sfclicrec.asp?p=74030,,,RO,2017-10-18,
-"Xu, Man (SFC:BBB349) 徐曼",sfclicrec.asp?p=2098491,,,Rep,2016-04-05,2017-04-25
-"Yam, Chin Pang 任展鵬",sfclicrec.asp?p=118672,,,Rep,2017-04-10,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cai, Jingyan 蔡景彥",None,sfclicrec.asp?p=8114011,BJG895,http://www.sfc.hk/publicregWeb/indi/BJG895/licenceRecord,,,Rep,2017-04-18,2017-04-25
+"Chan, Fung Chu 陳鳳珠",None,sfclicrec.asp?p=94305,ANW378,http://www.sfc.hk/publicregWeb/indi/ANW378/licenceRecord,,,RO,2016-01-20,2017-02-19
+"Chan, Hing Wah 陳慶華",None,sfclicrec.asp?p=105332,AET272,http://www.sfc.hk/publicregWeb/indi/AET272/licenceRecord,,,RO,2016-01-20,2016-05-03
+"Chen, Zhuofeng 陳卓楓",None,sfclicrec.asp?p=15010652,BMR110,http://www.sfc.hk/publicregWeb/indi/BMR110/licenceRecord,,,Rep,2018-05-14,2019-02-10
+"Choi, Kaiser Wing Kai 蔡榮楷",None,sfclicrec.asp?p=94987,AMV034,http://www.sfc.hk/publicregWeb/indi/AMV034/licenceRecord,,M,Rep,2016-04-25,2016-06-13
+"Choi, Kaiser Wing Kai 蔡榮楷",None,sfclicrec.asp?p=94987,AMV034,http://www.sfc.hk/publicregWeb/indi/AMV034/licenceRecord,,M,RO,2016-06-13,
+"Kwong, Toby Tse San 鄺紫珊",None,sfclicrec.asp?p=121919,APD289,http://www.sfc.hk/publicregWeb/indi/APD289/licenceRecord,,,Rep,2016-04-20,2017-04-07
+"Liu, Christina Lai Sum 廖麗心",None,sfclicrec.asp?p=38555,AAH544,http://www.sfc.hk/publicregWeb/indi/AAH544/licenceRecord,,F,RO,2016-04-27,2019-04-08
+"Lo, Chi Yan 盧紫茵",None,sfclicrec.asp?p=79580,AFT126,http://www.sfc.hk/publicregWeb/indi/AFT126/licenceRecord,,,Rep,2019-04-04,2019-04-17
+"Lo, Chi Yan 盧紫茵",None,sfclicrec.asp?p=79580,AFT126,http://www.sfc.hk/publicregWeb/indi/AFT126/licenceRecord,,,RO,2019-04-17,
+"Man, Kam Chiu 文錦超",None,sfclicrec.asp?p=101724,AAX339,http://www.sfc.hk/publicregWeb/indi/AAX339/licenceRecord,,,Rep,2016-05-26,2017-10-16
+"Ngai, Man Fai 倪文輝",None,sfclicrec.asp?p=83056,AEE761,http://www.sfc.hk/publicregWeb/indi/AEE761/licenceRecord,,,Rep,2016-07-07,2018-10-15
+"Tsang, Man Shun 曾文舜",None,sfclicrec.asp?p=74030,AFS253,http://www.sfc.hk/publicregWeb/indi/AFS253/licenceRecord,,,RO,2017-10-18,
+"Xu, Man (SFC:BBB349) 徐曼",None,sfclicrec.asp?p=2098491,BBB349,http://www.sfc.hk/publicregWeb/indi/BBB349/licenceRecord,,,Rep,2016-04-05,2017-04-25
+"Yam, Chin Pang 任展鵬",None,sfclicrec.asp?p=118672,ANL963,http://www.sfc.hk/publicregWeb/indi/ANL963/licenceRecord,,,Rep,2017-04-10,

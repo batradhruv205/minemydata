@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Gang (SFC:BFE331) 陳剛",sfclicrec.asp?p=2590970,,,RO,2015-08-27,
-"He, Leqiang 何樂強",sfclicrec.asp?p=2590971,,,RO,2015-12-15,
-"Liu, Wei (SFC:ALG199) 劉煒",sfclicrec.asp?p=82552,,,Rep,2016-06-16,2016-07-06
-"Liu, Wei (SFC:ALG199) 劉煒",sfclicrec.asp?p=82552,,,RO,2016-07-06,2017-07-20
-"Yao, Jun (SFC:BFE334) 姚俊",sfclicrec.asp?p=2590972,,,RO,2015-08-27,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Gang (SFC:BFE331) 陳剛",None,sfclicrec.asp?p=2590970,BFE331,http://www.sfc.hk/publicregWeb/indi/BFE331/licenceRecord,,,RO,2015-08-27,
+"He, Leqiang 何樂強",None,sfclicrec.asp?p=2590971,BGK550,http://www.sfc.hk/publicregWeb/indi/BGK550/licenceRecord,,,RO,2015-12-15,
+"Liu, Wei (SFC:ALG199) 劉煒",None,sfclicrec.asp?p=82552,ALG199,http://www.sfc.hk/publicregWeb/indi/ALG199/licenceRecord,,,Rep,2016-06-16,2016-07-06
+"Liu, Wei (SFC:ALG199) 劉煒",None,sfclicrec.asp?p=82552,ALG199,http://www.sfc.hk/publicregWeb/indi/ALG199/licenceRecord,,,RO,2016-07-06,2017-07-20
+"Yao, Jun (SFC:BFE334) 姚俊",None,sfclicrec.asp?p=2590972,BFE334,http://www.sfc.hk/publicregWeb/indi/BFE334/licenceRecord,,,RO,2015-08-27,

@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Guo, Jianpeng 郭健鵬",sfclicrec.asp?p=2008163,,,Rep,2019-05-06,2019-06-25
-"Guo, Jianpeng 郭健鵬",sfclicrec.asp?p=2008163,,,RO,2019-06-25,
-"Keung, Ming Hoi 姜明海",sfclicrec.asp?p=121290,,,RO,2018-05-08,2019-04-15
-"Leung, Andrew Ka Yee 梁家怡",sfclicrec.asp?p=92346,,M,Rep,2019-05-23,2019-06-28
-"Lui, Kin Wai 呂健威",sfclicrec.asp?p=94605,,,RO,2018-05-08,2019-03-25
-"Wang, Xiaoxuan (SFC:BJI011) 王小軒",sfclicrec.asp?p=6710740,,,Rep,2018-09-27,2018-12-31
-"Zong, Qi 宗旗",sfclicrec.asp?p=22720106,,,RO,2019-01-31,2019-08-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Guo, Jianpeng 郭健鵬",None,sfclicrec.asp?p=2008163,BAP669,http://www.sfc.hk/publicregWeb/indi/BAP669/licenceRecord,,,Rep,2019-05-06,2019-06-25
+"Guo, Jianpeng 郭健鵬",None,sfclicrec.asp?p=2008163,BAP669,http://www.sfc.hk/publicregWeb/indi/BAP669/licenceRecord,,,RO,2019-06-25,
+"Keung, Ming Hoi 姜明海",None,sfclicrec.asp?p=121290,AOV715,http://www.sfc.hk/publicregWeb/indi/AOV715/licenceRecord,,,RO,2018-05-08,2019-04-15
+"Leung, Andrew Ka Yee 梁家怡",None,sfclicrec.asp?p=92346,ALK461,http://www.sfc.hk/publicregWeb/indi/ALK461/licenceRecord,,M,Rep,2019-05-23,2019-06-28
+"Lui, Kin Wai 呂健威",None,sfclicrec.asp?p=94605,ANM045,http://www.sfc.hk/publicregWeb/indi/ANM045/licenceRecord,,,RO,2018-05-08,2019-03-25
+"Wang, Xiaoxuan (SFC:BJI011) 王小軒",None,sfclicrec.asp?p=6710740,BJI011,http://www.sfc.hk/publicregWeb/indi/BJI011/licenceRecord,,,Rep,2018-09-27,2018-12-31
+"Zong, Qi 宗旗",None,sfclicrec.asp?p=22720106,BNJ899,http://www.sfc.hk/publicregWeb/indi/BNJ899/licenceRecord,,,RO,2019-01-31,2019-08-31

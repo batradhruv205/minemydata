@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Huang, Zizhuo 黃子灼",sfclicrec.asp?p=23616791,,,Rep,2019-09-03,
-"Lau, Kam Pong 劉錦邦",sfclicrec.asp?p=94734,,,RO,2018-12-04,
-"Lo, Thomas Y Yu 盧韋耀",sfclicrec.asp?p=107325,,M,RO,2018-12-04,
-"Soo, Joon Shern 蘇駿昇",sfclicrec.asp?p=2385294,,,Rep,2019-08-16,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Huang, Zizhuo 黃子灼",None,sfclicrec.asp?p=23616791,BOL680,http://www.sfc.hk/publicregWeb/indi/BOL680/licenceRecord,,,Rep,2019-09-03,
+"Lau, Kam Pong 劉錦邦",None,sfclicrec.asp?p=94734,ACA472,http://www.sfc.hk/publicregWeb/indi/ACA472/licenceRecord,,,RO,2018-12-04,
+"Lo, Thomas Y Yu 盧韋耀",None,sfclicrec.asp?p=107325,AFR473,http://www.sfc.hk/publicregWeb/indi/AFR473/licenceRecord,,M,RO,2018-12-04,
+"Soo, Joon Shern 蘇駿昇",None,sfclicrec.asp?p=2385294,BEZ017,http://www.sfc.hk/publicregWeb/indi/BEZ017/licenceRecord,,,Rep,2019-08-16,

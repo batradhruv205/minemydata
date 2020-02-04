@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Wilson Zhong Wai 陳重威",sfclicrec.asp?p=2391470,,M,Rep,2016-11-04,2017-05-26
-"Cheng, Hong (SFC:ASO010) 鄭泓",sfclicrec.asp?p=69030,,,Rep,2016-10-31,2017-01-06
-"Chou, Chien-Hwa 周建華",sfclicrec.asp?p=2637091,,,RO,2016-09-23,2017-03-23
-"Kwok, Suk Kum 郭淑琴",sfclicrec.asp?p=69028,,,RO,2016-09-23,
-"Li, Yee Ki (SFC:BKF279) ",sfclicrec.asp?p=12585573,,,Rep,2017-11-20,2019-03-27
-"Lo, Terence (SFC:BFP325) ",sfclicrec.asp?p=2445286,,M,Rep,2016-10-31,
-"Tong, Cheuk Kwan 唐焯均",sfclicrec.asp?p=12738352,,,Rep,2018-01-25,2018-07-31
-"Umali, Jonathan Espinili ",sfclicrec.asp?p=68237,,M,Rep,2016-12-01,
-"Wong, Jin Lian 黄锦莲",sfclicrec.asp?p=15669098,,,Rep,2018-05-25,
-"Yeung, Wai Man (SFC:BBK287) 楊偉文",sfclicrec.asp?p=2097757,,,RO,2016-09-23,
-"Zhang, Sijun (SFC:BPE808) 張思筠",sfclicrec.asp?p=24050054,,,Rep,2019-12-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Wilson Zhong Wai 陳重威",None,sfclicrec.asp?p=2391470,BEZ871,http://www.sfc.hk/publicregWeb/indi/BEZ871/licenceRecord,,M,Rep,2016-11-04,2017-05-26
+"Cheng, Hong (SFC:ASO010) 鄭泓",None,sfclicrec.asp?p=69030,ASO010,http://www.sfc.hk/publicregWeb/indi/ASO010/licenceRecord,,,Rep,2016-10-31,2017-01-06
+"Chou, Chien-Hwa 周建華",None,sfclicrec.asp?p=2637091,BHK743,http://www.sfc.hk/publicregWeb/indi/BHK743/licenceRecord,,,RO,2016-09-23,2017-03-23
+"Kwok, Suk Kum 郭淑琴",None,sfclicrec.asp?p=69028,ARW225,http://www.sfc.hk/publicregWeb/indi/ARW225/licenceRecord,,,RO,2016-09-23,
+"Li, Yee Ki (SFC:BKF279) ",None,sfclicrec.asp?p=12585573,BKF279,http://www.sfc.hk/publicregWeb/indi/BKF279/licenceRecord,,,Rep,2017-11-20,2019-03-27
+"Lo, Terence (SFC:BFP325) ",None,sfclicrec.asp?p=2445286,BFP325,http://www.sfc.hk/publicregWeb/indi/BFP325/licenceRecord,,M,Rep,2016-10-31,
+"Tong, Cheuk Kwan 唐焯均",None,sfclicrec.asp?p=12738352,BLW923,http://www.sfc.hk/publicregWeb/indi/BLW923/licenceRecord,,,Rep,2018-01-25,2018-07-31
+"Umali, Jonathan Espinili ",None,sfclicrec.asp?p=68237,AYA900,http://www.sfc.hk/publicregWeb/indi/AYA900/licenceRecord,,M,Rep,2016-12-01,
+"Wong, Jin Lian 黄锦莲",None,sfclicrec.asp?p=15669098,BMV722,http://www.sfc.hk/publicregWeb/indi/BMV722/licenceRecord,,,Rep,2018-05-25,
+"Yeung, Wai Man (SFC:BBK287) 楊偉文",None,sfclicrec.asp?p=2097757,BBK287,http://www.sfc.hk/publicregWeb/indi/BBK287/licenceRecord,,,RO,2016-09-23,
+"Zhang, Sijun (SFC:BPE808) 張思筠",None,sfclicrec.asp?p=24050054,BPE808,http://www.sfc.hk/publicregWeb/indi/BPE808/licenceRecord,,,Rep,2019-12-24,

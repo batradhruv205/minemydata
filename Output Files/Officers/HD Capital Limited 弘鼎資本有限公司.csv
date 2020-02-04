@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Huang, Chiao Lin 黃巧玲",sfclicrec.asp?p=2200239,,,Rep,2016-10-31,
-"Lam, Sai Wing (SFC:AVL286) 林世榮",sfclicrec.asp?p=99163,,,Rep,2015-12-15,2018-07-15
-"Li, Ke (SFC:ATB528) 李可",sfclicrec.asp?p=128029,,,RO,2015-12-14,
-"Tse, Wai Ming (SFC:AMZ184) 謝慧明",sfclicrec.asp?p=117810,,,Rep,2017-09-28,2017-12-06
-"Tse, Wai Ming (SFC:AMZ184) 謝慧明",sfclicrec.asp?p=117810,,,RO,2017-12-06,
-"Wang, Yeqing 王叶青",sfclicrec.asp?p=111103,,,RO,2015-12-14,
-"Zhang, Tuofu 張拓夫",sfclicrec.asp?p=22237749,,,Rep,2018-10-04,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Huang, Chiao Lin 黃巧玲",None,sfclicrec.asp?p=2200239,BCP482,http://www.sfc.hk/publicregWeb/indi/BCP482/licenceRecord,,,Rep,2016-10-31,
+"Lam, Sai Wing (SFC:AVL286) 林世榮",None,sfclicrec.asp?p=99163,AVL286,http://www.sfc.hk/publicregWeb/indi/AVL286/licenceRecord,,,Rep,2015-12-15,2018-07-15
+"Li, Ke (SFC:ATB528) 李可",None,sfclicrec.asp?p=128029,ATB528,http://www.sfc.hk/publicregWeb/indi/ATB528/licenceRecord,,,RO,2015-12-14,
+"Tse, Wai Ming (SFC:AMZ184) 謝慧明",None,sfclicrec.asp?p=117810,AMZ184,http://www.sfc.hk/publicregWeb/indi/AMZ184/licenceRecord,,,Rep,2017-09-28,2017-12-06
+"Tse, Wai Ming (SFC:AMZ184) 謝慧明",None,sfclicrec.asp?p=117810,AMZ184,http://www.sfc.hk/publicregWeb/indi/AMZ184/licenceRecord,,,RO,2017-12-06,
+"Wang, Yeqing 王叶青",None,sfclicrec.asp?p=111103,AHF673,http://www.sfc.hk/publicregWeb/indi/AHF673/licenceRecord,,,RO,2015-12-14,
+"Zhang, Tuofu 張拓夫",None,sfclicrec.asp?p=22237749,BNP604,http://www.sfc.hk/publicregWeb/indi/BNP604/licenceRecord,,,Rep,2018-10-04,

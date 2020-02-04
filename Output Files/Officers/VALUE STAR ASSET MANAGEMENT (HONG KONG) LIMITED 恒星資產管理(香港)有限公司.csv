@@ -1,18 +1,18 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Elaine Ling Wen 陳鈴文",sfclicrec.asp?p=106333,,F,RO,2008-04-01,2011-03-01
-"Chan, Elaine Ling Wen 陳鈴文",sfclicrec.asp?p=106333,,F,RO,2014-10-17,
-"Kwok, Alex Yiu Chung 郭耀聰",sfclicrec.asp?p=2673001,,,Rep,2016-12-14,
-"Lam, Yuen Hei (SFC:AXF651) 林婉琋",sfclicrec.asp?p=81858,,,Rep,2015-07-16,2016-05-17
-"Shi, Tingting 施婷婷",sfclicrec.asp?p=84485,,,Rep,2008-06-30,2010-06-21
-"Tang, Maggie Wing Chi 鄧穎芝",sfclicrec.asp?p=71068,,F,Rep,2010-11-01,2011-03-01
-"Tse, Wai Ming (SFC:AMZ184) 謝慧明",sfclicrec.asp?p=117810,,,Rep,2013-11-29,2015-06-14
-"Tsui, Mandy Chung Yan 崔頌茵",sfclicrec.asp?p=2024405,,F,Rep,2013-02-25,2013-11-25
-"Wan, Nga Sze Janice 溫雅詩",sfclicrec.asp?p=22237814,,,Rep,2018-10-04,2018-11-23
-"Wan, Nga Sze Janice 溫雅詩",sfclicrec.asp?p=22237814,,,RO,2018-11-23,2019-01-20
-"Wang, Wei Lin (SFC:AMV337) 王偉林",sfclicrec.asp?p=117598,,,RO,2008-04-01,2009-03-31
-"Xiang, Xiaolei 項嘯磊",sfclicrec.asp?p=2468323,,,Rep,2020-01-08,
-"Xie, Lizhi 謝立志",sfclicrec.asp?p=130302,,,Rep,2010-10-18,2011-03-01
-"Xie, Xuefeng 謝學峰",sfclicrec.asp?p=114437,,,RO,2008-04-01,2011-03-01
-"Xie, Xuefeng 謝學峰",sfclicrec.asp?p=114437,,,RO,2012-05-25,
-"Yip, Benjamin Ying Chi 葉熒志",sfclicrec.asp?p=45093,57,M,RO,2012-05-25,2014-09-30
-"Zhang, Yunfang 張云芳",sfclicrec.asp?p=2625057,,,Rep,2019-08-30,2020-01-04
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Elaine Ling Wen 陳鈴文",None,sfclicrec.asp?p=106333,AFK674,http://www.sfc.hk/publicregWeb/indi/AFK674/licenceRecord,,F,RO,2008-04-01,2011-03-01
+"Chan, Elaine Ling Wen 陳鈴文",None,sfclicrec.asp?p=106333,AFK674,http://www.sfc.hk/publicregWeb/indi/AFK674/licenceRecord,,F,RO,2014-10-17,
+"Kwok, Alex Yiu Chung 郭耀聰",None,sfclicrec.asp?p=2673001,BIR488,http://www.sfc.hk/publicregWeb/indi/BIR488/licenceRecord,,,Rep,2016-12-14,
+"Lam, Yuen Hei (SFC:AXF651) 林婉琋",None,sfclicrec.asp?p=81858,AXF651,http://www.sfc.hk/publicregWeb/indi/AXF651/licenceRecord,,,Rep,2015-07-16,2016-05-17
+"Shi, Tingting 施婷婷",None,sfclicrec.asp?p=84485,ARA347,http://www.sfc.hk/publicregWeb/indi/ARA347/licenceRecord,,,Rep,2008-06-30,2010-06-21
+"Tang, Maggie Wing Chi 鄧穎芝",None,sfclicrec.asp?p=71068,AQE994,http://www.sfc.hk/publicregWeb/indi/AQE994/licenceRecord,,F,Rep,2010-11-01,2011-03-01
+"Tse, Wai Ming (SFC:AMZ184) 謝慧明",None,sfclicrec.asp?p=117810,AMZ184,http://www.sfc.hk/publicregWeb/indi/AMZ184/licenceRecord,,,Rep,2013-11-29,2015-06-14
+"Tsui, Mandy Chung Yan 崔頌茵",None,sfclicrec.asp?p=2024405,BAU890,http://www.sfc.hk/publicregWeb/indi/BAU890/licenceRecord,,F,Rep,2013-02-25,2013-11-25
+"Wan, Nga Sze Janice 溫雅詩",None,sfclicrec.asp?p=22237814,BNO895,http://www.sfc.hk/publicregWeb/indi/BNO895/licenceRecord,,,Rep,2018-10-04,2018-11-23
+"Wan, Nga Sze Janice 溫雅詩",None,sfclicrec.asp?p=22237814,BNO895,http://www.sfc.hk/publicregWeb/indi/BNO895/licenceRecord,,,RO,2018-11-23,2019-01-20
+"Wang, Wei Lin (SFC:AMV337) 王偉林",None,sfclicrec.asp?p=117598,AMV337,http://www.sfc.hk/publicregWeb/indi/AMV337/licenceRecord,,,RO,2008-04-01,2009-03-31
+"Xiang, Xiaolei 項嘯磊",None,sfclicrec.asp?p=2468323,BFR751,http://www.sfc.hk/publicregWeb/indi/BFR751/licenceRecord,,,Rep,2020-01-08,
+"Xie, Lizhi 謝立志",None,sfclicrec.asp?p=130302,AVW448,http://www.sfc.hk/publicregWeb/indi/AVW448/licenceRecord,,,Rep,2010-10-18,2011-03-01
+"Xie, Xuefeng 謝學峰",None,sfclicrec.asp?p=114437,ALE981,http://www.sfc.hk/publicregWeb/indi/ALE981/licenceRecord,,,RO,2008-04-01,2011-03-01
+"Xie, Xuefeng 謝學峰",None,sfclicrec.asp?p=114437,ALE981,http://www.sfc.hk/publicregWeb/indi/ALE981/licenceRecord,,,RO,2012-05-25,
+"Yip, Benjamin Ying Chi 葉熒志",None,sfclicrec.asp?p=45093,AFL246,http://www.sfc.hk/publicregWeb/indi/AFL246/licenceRecord,57.0,M,RO,2012-05-25,2014-09-30
+"Zhang, Yunfang 張云芳",None,sfclicrec.asp?p=2625057,BHY180,http://www.sfc.hk/publicregWeb/indi/BHY180/licenceRecord,,,Rep,2019-08-30,2020-01-04

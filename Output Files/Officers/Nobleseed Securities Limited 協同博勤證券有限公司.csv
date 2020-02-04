@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Hsieh, Alvin Wai Yin 謝偉賢",sfclicrec.asp?p=68925,,M,Rep,2018-02-27,
-"Lo, Helen Pik Ha 勞碧霞",sfclicrec.asp?p=80516,,F,RO,2017-10-27,2019-07-02
-"Ng, Wai Hong (SFC:BJV752) 吳偉雄",sfclicrec.asp?p=11788675,,,Rep,2018-01-26,
-"Tai, Ka Chun Terence 戴家俊",sfclicrec.asp?p=2185872,,,Rep,2019-09-17,
-"Tang, Fu Kin Dodphen 鄧富堅",sfclicrec.asp?p=80529,,,Rep,2018-07-12,
-"Tsang, Wing Kin 曾永堅",sfclicrec.asp?p=77710,,,RO,2017-10-27,
-"Tsoi, Kwok Keung 蔡國強",sfclicrec.asp?p=100932,,,RO,2017-10-27,2018-11-10
-"Tung, Ka Hing 董嘉慶",sfclicrec.asp?p=73653,,,Rep,2018-01-10,2018-04-09
-"Tung, Ka Hing 董嘉慶",sfclicrec.asp?p=73653,,,RO,2018-04-09,
-"Wong, Hon Yeung 黃漢陽",sfclicrec.asp?p=23401799,,,Rep,2020-01-15,
-"Yiu, Chi Wai (SFC:AUB977) 姚智威",sfclicrec.asp?p=92866,,,Rep,2018-09-03,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Hsieh, Alvin Wai Yin 謝偉賢",None,sfclicrec.asp?p=68925,AXC624,http://www.sfc.hk/publicregWeb/indi/AXC624/licenceRecord,,M,Rep,2018-02-27,
+"Lo, Helen Pik Ha 勞碧霞",None,sfclicrec.asp?p=80516,ANA705,http://www.sfc.hk/publicregWeb/indi/ANA705/licenceRecord,,F,RO,2017-10-27,2019-07-02
+"Ng, Wai Hong (SFC:BJV752) 吳偉雄",None,sfclicrec.asp?p=11788675,BJV752,http://www.sfc.hk/publicregWeb/indi/BJV752/licenceRecord,,,Rep,2018-01-26,
+"Tai, Ka Chun Terence 戴家俊",None,sfclicrec.asp?p=2185872,BCL286,http://www.sfc.hk/publicregWeb/indi/BCL286/licenceRecord,,,Rep,2019-09-17,
+"Tang, Fu Kin Dodphen 鄧富堅",None,sfclicrec.asp?p=80529,ATL831,http://www.sfc.hk/publicregWeb/indi/ATL831/licenceRecord,,,Rep,2018-07-12,
+"Tsang, Wing Kin 曾永堅",None,sfclicrec.asp?p=77710,AEV250,http://www.sfc.hk/publicregWeb/indi/AEV250/licenceRecord,,,RO,2017-10-27,
+"Tsoi, Kwok Keung 蔡國強",None,sfclicrec.asp?p=100932,AAD694,http://www.sfc.hk/publicregWeb/indi/AAD694/licenceRecord,,,RO,2017-10-27,2018-11-10
+"Tung, Ka Hing 董嘉慶",None,sfclicrec.asp?p=73653,ANU680,http://www.sfc.hk/publicregWeb/indi/ANU680/licenceRecord,,,Rep,2018-01-10,2018-04-09
+"Tung, Ka Hing 董嘉慶",None,sfclicrec.asp?p=73653,ANU680,http://www.sfc.hk/publicregWeb/indi/ANU680/licenceRecord,,,RO,2018-04-09,
+"Wong, Hon Yeung 黃漢陽",None,sfclicrec.asp?p=23401799,BMN644,http://www.sfc.hk/publicregWeb/indi/BMN644/licenceRecord,,,Rep,2020-01-15,
+"Yiu, Chi Wai (SFC:AUB977) 姚智威",None,sfclicrec.asp?p=92866,AUB977,http://www.sfc.hk/publicregWeb/indi/AUB977/licenceRecord,,,Rep,2018-09-03,

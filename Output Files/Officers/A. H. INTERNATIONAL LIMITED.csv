@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Eurwongpravit, Praphant ",sfclicrec.asp?p=88898,,M,RO,2006-03-22,2006-07-01
-"Lam, Pui Ming 林沛明",sfclicrec.asp?p=108312,,,RO,2006-03-22,2011-03-14
-"Ota, Takamaru ",sfclicrec.asp?p=68431,,M,Rep,2007-11-08,2011-04-07
-"Ota, Takamaru ",sfclicrec.asp?p=68431,,M,RO,2011-04-07,
-"Yu, James Chun Man 余鎮民",sfclicrec.asp?p=68432,,M,RO,2006-07-03,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Eurwongpravit, Praphant ",None,sfclicrec.asp?p=88898,ABI394,http://www.sfc.hk/publicregWeb/indi/ABI394/licenceRecord,,M,RO,2006-03-22,2006-07-01
+"Lam, Pui Ming 林沛明",None,sfclicrec.asp?p=108312,AGB110,http://www.sfc.hk/publicregWeb/indi/AGB110/licenceRecord,,,RO,2006-03-22,2011-03-14
+"Ota, Takamaru ",None,sfclicrec.asp?p=68431,AMK303,http://www.sfc.hk/publicregWeb/indi/AMK303/licenceRecord,,M,Rep,2007-11-08,2011-04-07
+"Ota, Takamaru ",None,sfclicrec.asp?p=68431,AMK303,http://www.sfc.hk/publicregWeb/indi/AMK303/licenceRecord,,M,RO,2011-04-07,
+"Yu, James Chun Man 余鎮民",None,sfclicrec.asp?p=68432,AET445,http://www.sfc.hk/publicregWeb/indi/AET445/licenceRecord,,M,RO,2006-07-03,

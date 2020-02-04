@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ho, Tin Shing 何天成",sfclicrec.asp?p=91446,,,Rep,2015-12-21,2016-01-04
-"Ho, Tin Shing 何天成",sfclicrec.asp?p=91446,,,RO,2016-01-04,2018-01-15
-"Lao, Susan Woon Yu 劉媛瑜",sfclicrec.asp?p=91449,,F,Rep,2017-01-03,2018-01-09
-"Lao, Susan Woon Yu 劉媛瑜",sfclicrec.asp?p=91449,,F,RO,2018-01-09,2019-03-29
-"Lo, Kwok Wa 盧國華",sfclicrec.asp?p=65248,,,RO,2015-02-02,
-"Lo, Sharon Suet Ting 盧雪婷",sfclicrec.asp?p=65250,,F,RO,2015-07-02,2016-05-01
-"Luo, Shanshan 羅山山",sfclicrec.asp?p=2379155,,,RO,2015-02-02,2015-07-02
-"Wan, Chengshui 万成水",sfclicrec.asp?p=114591,,,Rep,2019-06-04,2019-09-25
-"Wan, Chengshui 万成水",sfclicrec.asp?p=114591,,,RO,2019-09-25,
-"Wang, Kevin Haigeng ",sfclicrec.asp?p=2438650,,M,Rep,2015-06-22,2017-11-22
-"Wang, Kevin Haigeng ",sfclicrec.asp?p=2438650,,M,RO,2017-11-22,
-"Yip, Chui Ying 葉翠盈",sfclicrec.asp?p=2421409,,,Rep,2015-05-15,
-"Zhang, Ru (SFC:BBB822) 張如",sfclicrec.asp?p=2048318,,,RO,2018-11-06,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ho, Tin Shing 何天成",None,sfclicrec.asp?p=91446,AQW224,http://www.sfc.hk/publicregWeb/indi/AQW224/licenceRecord,,,Rep,2015-12-21,2016-01-04
+"Ho, Tin Shing 何天成",None,sfclicrec.asp?p=91446,AQW224,http://www.sfc.hk/publicregWeb/indi/AQW224/licenceRecord,,,RO,2016-01-04,2018-01-15
+"Lao, Susan Woon Yu 劉媛瑜",None,sfclicrec.asp?p=91449,ADF381,http://www.sfc.hk/publicregWeb/indi/ADF381/licenceRecord,,F,Rep,2017-01-03,2018-01-09
+"Lao, Susan Woon Yu 劉媛瑜",None,sfclicrec.asp?p=91449,ADF381,http://www.sfc.hk/publicregWeb/indi/ADF381/licenceRecord,,F,RO,2018-01-09,2019-03-29
+"Lo, Kwok Wa 盧國華",None,sfclicrec.asp?p=65248,AMW513,http://www.sfc.hk/publicregWeb/indi/AMW513/licenceRecord,,,RO,2015-02-02,
+"Lo, Sharon Suet Ting 盧雪婷",None,sfclicrec.asp?p=65250,AWH053,http://www.sfc.hk/publicregWeb/indi/AWH053/licenceRecord,,F,RO,2015-07-02,2016-05-01
+"Luo, Shanshan 羅山山",None,sfclicrec.asp?p=2379155,BEM051,http://www.sfc.hk/publicregWeb/indi/BEM051/licenceRecord,,,RO,2015-02-02,2015-07-02
+"Wan, Chengshui 万成水",None,sfclicrec.asp?p=114591,ALH700,http://www.sfc.hk/publicregWeb/indi/ALH700/licenceRecord,,,Rep,2019-06-04,2019-09-25
+"Wan, Chengshui 万成水",None,sfclicrec.asp?p=114591,ALH700,http://www.sfc.hk/publicregWeb/indi/ALH700/licenceRecord,,,RO,2019-09-25,
+"Wang, Kevin Haigeng ",None,sfclicrec.asp?p=2438650,BFN403,http://www.sfc.hk/publicregWeb/indi/BFN403/licenceRecord,,M,Rep,2015-06-22,2017-11-22
+"Wang, Kevin Haigeng ",None,sfclicrec.asp?p=2438650,BFN403,http://www.sfc.hk/publicregWeb/indi/BFN403/licenceRecord,,M,RO,2017-11-22,
+"Yip, Chui Ying 葉翠盈",None,sfclicrec.asp?p=2421409,BFI295,http://www.sfc.hk/publicregWeb/indi/BFI295/licenceRecord,,,Rep,2015-05-15,
+"Zhang, Ru (SFC:BBB822) 張如",None,sfclicrec.asp?p=2048318,BBB822,http://www.sfc.hk/publicregWeb/indi/BBB822/licenceRecord,,,RO,2018-11-06,

@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Wai Yan Judy 陳慧茵",sfclicrec.asp?p=20636540,,,Rep,2018-07-23,
-"Choi, Coey Ho Yin 蔡可然",sfclicrec.asp?p=2579082,,,Rep,2016-06-22,2016-09-06
-"Chow, Ka Man 周家文",sfclicrec.asp?p=101742,54,M,RO,2016-06-13,2016-08-23
-"Ho, Yuk Kuen 何玉娟",sfclicrec.asp?p=73244,,F,Rep,2018-08-28,2018-11-14
-"Kwok, Felix Wing Ho 郭永晧",sfclicrec.asp?p=73778,,M,RO,2016-08-24,
-"Kwong, Kai Hong 鄺啟康",sfclicrec.asp?p=73779,,,RO,2016-06-13,
-"Li, Andy Chi On 李志安",sfclicrec.asp?p=99674,,,RO,2016-06-13,
-"Ma, Chengjunyi 馬程俊譯",sfclicrec.asp?p=2138612,,,Rep,2016-08-16,2017-10-17
-"Tsang, Mo Chi 曾慕芝",sfclicrec.asp?p=2412589,,,Rep,2017-01-05,
-"Wong, Sze Ip 王思燁",sfclicrec.asp?p=97357,,,Rep,2017-07-07,2017-09-07
-"Wong, Sze Ip 王思燁",sfclicrec.asp?p=97357,,,RO,2017-09-07,
-"Yuen, Tan 袁丹",sfclicrec.asp?p=2155563,,,Rep,2016-10-14,2017-07-14
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Wai Yan Judy 陳慧茵",None,sfclicrec.asp?p=20636540,BNC669,http://www.sfc.hk/publicregWeb/indi/BNC669/licenceRecord,,,Rep,7/23/2018,
+"Choi, Coey Ho Yin 蔡可然",None,sfclicrec.asp?p=2579082,BHL667,http://www.sfc.hk/publicregWeb/indi/BHL667/licenceRecord,,,Rep,6/22/2016,9/6/2016
+"Chow, Ka Man 周家文",None,sfclicrec.asp?p=101742,AAY115,http://www.sfc.hk/publicregWeb/indi/AAY115/licenceRecord,54.0,M,RO,6/13/2016,8/23/2016
+"Ho, Yuk Kuen 何玉娟",None,sfclicrec.asp?p=73244,ABU329,http://www.sfc.hk/publicregWeb/indi/ABU329/licenceRecord,,F,Rep,8/28/2018,11/14/2018
+"Kwok, Felix Wing Ho 郭永晧",None,sfclicrec.asp?p=73778,ADQ206,http://www.sfc.hk/publicregWeb/indi/ADQ206/licenceRecord,,M,RO,8/24/2016,
+"Kwong, Kai Hong 鄺啟康",None,sfclicrec.asp?p=73779,AAB666,http://www.sfc.hk/publicregWeb/indi/AAB666/licenceRecord,,,RO,6/13/2016,
+"Li, Andy Chi On 李志安",None,sfclicrec.asp?p=99674,ABH933,http://www.sfc.hk/publicregWeb/indi/ABH933/licenceRecord,,,RO,6/13/2016,
+"Ma, Chengjunyi 馬程俊譯",None,sfclicrec.asp?p=2138612,BBU459,http://www.sfc.hk/publicregWeb/indi/BBU459/licenceRecord,,,Rep,8/16/2016,10/17/2017
+"Tsang, Mo Chi 曾慕芝",None,sfclicrec.asp?p=2412589,BFI060,http://www.sfc.hk/publicregWeb/indi/BFI060/licenceRecord,,,Rep,1/5/2017,
+"Wong, Sze Ip 王思燁",None,sfclicrec.asp?p=97357,AQU491,http://www.sfc.hk/publicregWeb/indi/AQU491/licenceRecord,,,Rep,7/7/2017,9/7/2017
+"Wong, Sze Ip 王思燁",None,sfclicrec.asp?p=97357,AQU491,http://www.sfc.hk/publicregWeb/indi/AQU491/licenceRecord,,,RO,9/7/2017,
+"Yuen, Tan 袁丹",None,sfclicrec.asp?p=2155563,BCE755,http://www.sfc.hk/publicregWeb/indi/BCE755/licenceRecord,,,Rep,10/14/2016,7/14/2017

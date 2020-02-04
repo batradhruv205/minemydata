@@ -1,15 +1,15 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Patrick Chi Kin 鄭子堅",sfclicrec.asp?p=2692955,52,M,RO,2017-05-31,2018-08-31
-"Cui, Jian (SFC:BIC651) 崔劍",sfclicrec.asp?p=2628246,,,Rep,2016-09-02,2017-05-12
-"Huang, Weixuan (SFC:BGL130) 黃偉璇",sfclicrec.asp?p=2524953,,,Rep,2016-05-27,2017-09-30
-"Jiang, Zhiwei (SFC:AZJ522) 蔣志偉",sfclicrec.asp?p=1884726,,,Rep,2016-07-07,2018-02-20
-"Jiang, Zhiwei (SFC:AZJ522) 蔣志偉",sfclicrec.asp?p=1884726,,,RO,2018-02-20,
-"Kwong, Kei Man 鄺紀民",sfclicrec.asp?p=1852317,,,RO,2016-04-11,2017-05-15
-"Li, Po Yi (SFC:AWQ112) 李寶兒",sfclicrec.asp?p=93040,,,Rep,2017-08-09,
-"Ling, Man Ping 凌曼冰",sfclicrec.asp?p=1854937,,,Rep,2018-09-05,2018-10-15
-"Ling, Man Ping 凌曼冰",sfclicrec.asp?p=1854937,,,RO,2018-10-15,
-"Liu, Ruisi 劉瑞思",sfclicrec.asp?p=23580021,,,Rep,2019-08-22,
-"Sum, Poon Yun 岑本訢",sfclicrec.asp?p=104626,,M,RO,2016-11-14,2017-03-12
-"Wong, Foelan 黃富仁",sfclicrec.asp?p=65927,,M,RO,2016-04-11,2016-10-19
-"Zhao, Ming (SFC:BND562) 趙明",sfclicrec.asp?p=21216349,,,Rep,2018-08-01,
-"Zong, Dong 宗東",sfclicrec.asp?p=2652276,,,Rep,2016-11-01,2017-03-14
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Patrick Chi Kin 鄭子堅",None,sfclicrec.asp?p=2692955,AZL565,http://www.sfc.hk/publicregWeb/indi/AZL565/licenceRecord,52.0,M,RO,2017-05-31,2018-08-31
+"Cui, Jian (SFC:BIC651) 崔劍",None,sfclicrec.asp?p=2628246,BIC651,http://www.sfc.hk/publicregWeb/indi/BIC651/licenceRecord,,,Rep,2016-09-02,2017-05-12
+"Huang, Weixuan (SFC:BGL130) 黃偉璇",None,sfclicrec.asp?p=2524953,BGL130,http://www.sfc.hk/publicregWeb/indi/BGL130/licenceRecord,,,Rep,2016-05-27,2017-09-30
+"Jiang, Zhiwei (SFC:AZJ522) 蔣志偉",None,sfclicrec.asp?p=1884726,AZJ522,http://www.sfc.hk/publicregWeb/indi/AZJ522/licenceRecord,,,Rep,2016-07-07,2018-02-20
+"Jiang, Zhiwei (SFC:AZJ522) 蔣志偉",None,sfclicrec.asp?p=1884726,AZJ522,http://www.sfc.hk/publicregWeb/indi/AZJ522/licenceRecord,,,RO,2018-02-20,
+"Kwong, Kei Man 鄺紀民",None,sfclicrec.asp?p=1852317,AXO770,http://www.sfc.hk/publicregWeb/indi/AXO770/licenceRecord,,,RO,2016-04-11,2017-05-15
+"Li, Po Yi (SFC:AWQ112) 李寶兒",None,sfclicrec.asp?p=93040,AWQ112,http://www.sfc.hk/publicregWeb/indi/AWQ112/licenceRecord,,,Rep,2017-08-09,
+"Ling, Man Ping 凌曼冰",None,sfclicrec.asp?p=1854937,AZB304,http://www.sfc.hk/publicregWeb/indi/AZB304/licenceRecord,,,Rep,2018-09-05,2018-10-15
+"Ling, Man Ping 凌曼冰",None,sfclicrec.asp?p=1854937,AZB304,http://www.sfc.hk/publicregWeb/indi/AZB304/licenceRecord,,,RO,2018-10-15,
+"Liu, Ruisi 劉瑞思",None,sfclicrec.asp?p=23580021,BND559,http://www.sfc.hk/publicregWeb/indi/BND559/licenceRecord,,,Rep,2019-08-22,
+"Sum, Poon Yun 岑本訢",None,sfclicrec.asp?p=104626,AED718,http://www.sfc.hk/publicregWeb/indi/AED718/licenceRecord,,M,RO,2016-11-14,2017-03-12
+"Wong, Foelan 黃富仁",None,sfclicrec.asp?p=65927,ADQ592,http://www.sfc.hk/publicregWeb/indi/ADQ592/licenceRecord,,M,RO,2016-04-11,2016-10-19
+"Zhao, Ming (SFC:BND562) 趙明",None,sfclicrec.asp?p=21216349,BND562,http://www.sfc.hk/publicregWeb/indi/BND562/licenceRecord,,,Rep,2018-08-01,
+"Zong, Dong 宗東",None,sfclicrec.asp?p=2652276,BIM216,http://www.sfc.hk/publicregWeb/indi/BIM216/licenceRecord,,,Rep,2016-11-01,2017-03-14

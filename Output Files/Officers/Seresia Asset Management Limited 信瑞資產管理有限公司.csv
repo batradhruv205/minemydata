@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Wei (SFC:BOE543) 陳威",sfclicrec.asp?p=23081093,,,Rep,2019-04-23,
-"Cheng, Conrad Kam Wah 鄭錦華",sfclicrec.asp?p=99528,,M,RO,2019-02-01,
-"Ding, Xiaoke 丁小珂",sfclicrec.asp?p=23352536,,,Rep,2019-06-26,
-"Law, Kin Fat 羅建發",sfclicrec.asp?p=78487,52,M,Rep,2019-10-21,
-"Pan, Yongxu 潘永旭",sfclicrec.asp?p=2441127,,,RO,2019-02-01,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Wei (SFC:BOE543) 陳威",None,sfclicrec.asp?p=23081093,BOE543,http://www.sfc.hk/publicregWeb/indi/BOE543/licenceRecord,,,Rep,2019-04-23,
+"Cheng, Conrad Kam Wah 鄭錦華",None,sfclicrec.asp?p=99528,ACT428,http://www.sfc.hk/publicregWeb/indi/ACT428/licenceRecord,,M,RO,2019-02-01,
+"Ding, Xiaoke 丁小珂",None,sfclicrec.asp?p=23352536,BOE964,http://www.sfc.hk/publicregWeb/indi/BOE964/licenceRecord,,,Rep,2019-06-26,
+"Law, Kin Fat 羅建發",None,sfclicrec.asp?p=78487,ABL850,http://www.sfc.hk/publicregWeb/indi/ABL850/licenceRecord,52.0,M,Rep,2019-10-21,
+"Pan, Yongxu 潘永旭",None,sfclicrec.asp?p=2441127,BFP846,http://www.sfc.hk/publicregWeb/indi/BFP846/licenceRecord,,,RO,2019-02-01,

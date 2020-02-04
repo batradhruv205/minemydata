@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Pou Gim Lucien 張蒲劍",sfclicrec.asp?p=21577903,,,Rep,2018-08-06,
-"Choi, Hojun 崔豪埈",sfclicrec.asp?p=22704608,,,Rep,2019-01-28,
-"Cohen, Eyal ",sfclicrec.asp?p=2438659,,,Rep,2018-08-01,
-"La, Yixin 喇意欣",sfclicrec.asp?p=18609996,,,RO,2018-07-04,
-"Shih, Jonathan Hung-yee 石鴻毅",sfclicrec.asp?p=100246,,M,RO,2018-07-04,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Pou Gim Lucien 張蒲劍",None,sfclicrec.asp?p=21577903,BNG374,http://www.sfc.hk/publicregWeb/indi/BNG374/licenceRecord,,,Rep,2018-08-06,
+"Choi, Hojun 崔豪埈",None,sfclicrec.asp?p=22704608,BNY511,http://www.sfc.hk/publicregWeb/indi/BNY511/licenceRecord,,,Rep,2019-01-28,
+"Cohen, Eyal ",None,sfclicrec.asp?p=2438659,BFS116,http://www.sfc.hk/publicregWeb/indi/BFS116/licenceRecord,,,Rep,2018-08-01,
+"La, Yixin 喇意欣",None,sfclicrec.asp?p=18609996,BMV228,http://www.sfc.hk/publicregWeb/indi/BMV228/licenceRecord,,,RO,2018-07-04,
+"Shih, Jonathan Hung-yee 石鴻毅",None,sfclicrec.asp?p=100246,AFI801,http://www.sfc.hk/publicregWeb/indi/AFI801/licenceRecord,,M,RO,2018-07-04,

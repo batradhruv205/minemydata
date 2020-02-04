@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Stephen Wen Ping 張穩平",sfclicrec.asp?p=2016480,,M,RO,2013-01-30,2013-08-12
-"Chun, Chul Uk 田喆旭",sfclicrec.asp?p=2002626,,,RO,2016-03-14,
-"Dunn, Simon Paul ",sfclicrec.asp?p=130851,,M,RO,2011-05-20,2018-01-04
-"Hattori, Akito ",sfclicrec.asp?p=22251008,,,Rep,2018-10-15,2019-01-02
-"Hattori, Akito ",sfclicrec.asp?p=22251008,,,RO,2019-01-02,
-"Liao, Debbie Vida ",sfclicrec.asp?p=10001174,,F,Rep,2017-05-10,
-"Mason, Mark Evan ",sfclicrec.asp?p=130850,,M,RO,2011-05-20,
-"Wong, Wendy Man Yee 黃文儀",sfclicrec.asp?p=104018,,F,RO,2011-05-20,2016-12-15
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Stephen Wen Ping 張穩平",None,sfclicrec.asp?p=2016480,AUY930,http://www.sfc.hk/publicregWeb/indi/AUY930/licenceRecord,,M,RO,2013-01-30,2013-08-12
+"Chun, Chul Uk 田喆旭",None,sfclicrec.asp?p=2002626,BAP752,http://www.sfc.hk/publicregWeb/indi/BAP752/licenceRecord,,,RO,2016-03-14,
+"Dunn, Simon Paul ",None,sfclicrec.asp?p=130851,AWV090,http://www.sfc.hk/publicregWeb/indi/AWV090/licenceRecord,,M,RO,2011-05-20,2018-01-04
+"Hattori, Akito ",None,sfclicrec.asp?p=22251008,BNN819,http://www.sfc.hk/publicregWeb/indi/BNN819/licenceRecord,,,Rep,2018-10-15,2019-01-02
+"Hattori, Akito ",None,sfclicrec.asp?p=22251008,BNN819,http://www.sfc.hk/publicregWeb/indi/BNN819/licenceRecord,,,RO,2019-01-02,
+"Liao, Debbie Vida ",None,sfclicrec.asp?p=10001174,BJO070,http://www.sfc.hk/publicregWeb/indi/BJO070/licenceRecord,,F,Rep,2017-05-10,
+"Mason, Mark Evan ",None,sfclicrec.asp?p=130850,AWV089,http://www.sfc.hk/publicregWeb/indi/AWV089/licenceRecord,,M,RO,2011-05-20,
+"Wong, Wendy Man Yee 黃文儀",None,sfclicrec.asp?p=104018,ADQ858,http://www.sfc.hk/publicregWeb/indi/ADQ858/licenceRecord,,F,RO,2011-05-20,2016-12-15

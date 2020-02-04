@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bhatt, Jay Hemant ",sfclicrec.asp?p=72903,,,Rep,2005-07-20,2008-06-01
-"Chan, Lok Tin (SFC:AQA322) 陳樂天",sfclicrec.asp?p=123586,,,Rep,2010-11-26,2011-08-19
-"Clark, Stephen Edward (1950-03-07) 祈立德",sfclicrec.asp?p=7542,70,M,RO,,
-"Forbes, Andrew Stephen ",sfclicrec.asp?p=69008,,M,Rep,2014-07-16,2017-05-01
-"Howe, Christopher John (1955-09-20) ",sfclicrec.asp?p=38838,65,M,RO,,
-"Huang, Siew Mei 黃雪梅",sfclicrec.asp?p=106663,,,Rep,2003-05-12,2005-03-22
-"Lam, Darren Shun Kit 林淳傑",sfclicrec.asp?p=23259554,,M,Rep,2019-06-04,
-"Lam, Yuk Cheung 林沃祥",sfclicrec.asp?p=101664,,,Rep,,2004-12-31
-"Lau, Pui Kit 劉佩傑",sfclicrec.asp?p=117015,,,Rep,2006-09-25,2010-09-22
-"Mawdsley, Nicholas Edward ",sfclicrec.asp?p=70068,,M,Rep,2005-06-28,2008-03-03
-"Mawdsley, Nicholas Edward ",sfclicrec.asp?p=70068,,M,RO,2008-03-03,
-"McBain, Mary Charlotte ",sfclicrec.asp?p=102131,,F,RO,,2003-10-20
-"So, Shun Wah 蘇順華",sfclicrec.asp?p=130841,,,Rep,2011-10-14,2013-02-15
-"Yim, Charles 嚴儲文",sfclicrec.asp?p=1860681,,M,Rep,2015-06-03,
-"Yuen, Wilfred Wai Chak 袁瑋澤",sfclicrec.asp?p=132668,,M,Rep,2013-03-11,2015-02-12
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bhatt, Jay Hemant ",None,sfclicrec.asp?p=72903,ADR152,http://www.sfc.hk/publicregWeb/indi/ADR152/licenceRecord,,,Rep,2005-07-20,2008-06-01
+"Chan, Lok Tin (SFC:AQA322) 陳樂天",None,sfclicrec.asp?p=123586,AQA322,http://www.sfc.hk/publicregWeb/indi/AQA322/licenceRecord,,,Rep,2010-11-26,2011-08-19
+"Clark, Stephen Edward (1950-03-07) 祈立德",None,sfclicrec.asp?p=7542,AAD300,http://www.sfc.hk/publicregWeb/indi/AAD300/licenceRecord,70.0,M,RO,,
+"Forbes, Andrew Stephen ",None,sfclicrec.asp?p=69008,AVS672,http://www.sfc.hk/publicregWeb/indi/AVS672/licenceRecord,,M,Rep,2014-07-16,2017-05-01
+"Howe, Christopher John (1955-09-20) ",None,sfclicrec.asp?p=38838,AAD322,http://www.sfc.hk/publicregWeb/indi/AAD322/licenceRecord,65.0,M,RO,,
+"Huang, Siew Mei 黃雪梅",None,sfclicrec.asp?p=106663,AFM126,http://www.sfc.hk/publicregWeb/indi/AFM126/licenceRecord,,,Rep,2003-05-12,2005-03-22
+"Lam, Darren Shun Kit 林淳傑",None,sfclicrec.asp?p=23259554,BOJ062,http://www.sfc.hk/publicregWeb/indi/BOJ062/licenceRecord,,M,Rep,2019-06-04,
+"Lam, Yuk Cheung 林沃祥",None,sfclicrec.asp?p=101664,AAV886,http://www.sfc.hk/publicregWeb/indi/AAV886/licenceRecord,,,Rep,,2004-12-31
+"Lau, Pui Kit 劉佩傑",None,sfclicrec.asp?p=117015,AMN578,http://www.sfc.hk/publicregWeb/indi/AMN578/licenceRecord,,,Rep,2006-09-25,2010-09-22
+"Mawdsley, Nicholas Edward ",None,sfclicrec.asp?p=70068,AEZ089,http://www.sfc.hk/publicregWeb/indi/AEZ089/licenceRecord,,M,Rep,2005-06-28,2008-03-03
+"Mawdsley, Nicholas Edward ",None,sfclicrec.asp?p=70068,AEZ089,http://www.sfc.hk/publicregWeb/indi/AEZ089/licenceRecord,,M,RO,2008-03-03,
+"McBain, Mary Charlotte ",None,sfclicrec.asp?p=102131,ABN143,http://www.sfc.hk/publicregWeb/indi/ABN143/licenceRecord,,F,RO,,2003-10-20
+"So, Shun Wah 蘇順華",None,sfclicrec.asp?p=130841,AWU568,http://www.sfc.hk/publicregWeb/indi/AWU568/licenceRecord,,,Rep,2011-10-14,2013-02-15
+"Yim, Charles 嚴儲文",None,sfclicrec.asp?p=1860681,AZB751,http://www.sfc.hk/publicregWeb/indi/AZB751/licenceRecord,,M,Rep,2015-06-03,
+"Yuen, Wilfred Wai Chak 袁瑋澤",None,sfclicrec.asp?p=132668,AYF330,http://www.sfc.hk/publicregWeb/indi/AYF330/licenceRecord,,M,Rep,2013-03-11,2015-02-12

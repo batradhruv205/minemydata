@@ -1,14 +1,14 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chien, Li Min 簡利珉",sfclicrec.asp?p=96020,,,Rep,2016-07-29,2016-09-29
-"Chien, Li Min 簡利珉",sfclicrec.asp?p=96020,,,RO,2016-09-29,2017-03-20
-"Han, Tianting 韓天婷",sfclicrec.asp?p=15233209,,,Rep,2018-05-18,
-"Ho, Yuan-Pang 何原榜",sfclicrec.asp?p=122108,,,RO,2016-03-29,2018-04-30
-"Hong, Tsz Leung 康子亮",sfclicrec.asp?p=118202,,,Rep,2018-11-13,2019-06-18
-"Jiang, Ting (SFC:BFL046) 江汀",sfclicrec.asp?p=2420089,,,Rep,2019-10-31,
-"Lee, Rosa Wai Tsang 李惟琤",sfclicrec.asp?p=20652,42,F,RO,2019-02-04,2019-10-08
-"Tian, Jue 田玨",sfclicrec.asp?p=2666881,,,Rep,2016-12-01,2018-12-21
-"Wan, Yifang (SFC:BMI866) 萬一方",sfclicrec.asp?p=16167167,,,RO,2018-05-30,
-"Wu, Haoye 呉昊燁",sfclicrec.asp?p=23848745,,,Rep,2019-10-30,
-"Zheng, Kexun 鄭克勛",sfclicrec.asp?p=2458377,,,Rep,2017-10-24,
-"Zhu, Xuejun 朱雪軍",sfclicrec.asp?p=92636,,,RO,2016-03-29,
-"Zou, Bingfeng 鄒冰峰",sfclicrec.asp?p=21982842,,,Rep,2018-08-13,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chien, Li Min 簡利珉",None,sfclicrec.asp?p=96020,APR338,http://www.sfc.hk/publicregWeb/indi/APR338/licenceRecord,,,Rep,2016-07-29,2016-09-29
+"Chien, Li Min 簡利珉",None,sfclicrec.asp?p=96020,APR338,http://www.sfc.hk/publicregWeb/indi/APR338/licenceRecord,,,RO,2016-09-29,2017-03-20
+"Han, Tianting 韓天婷",None,sfclicrec.asp?p=15233209,BMW876,http://www.sfc.hk/publicregWeb/indi/BMW876/licenceRecord,,,Rep,2018-05-18,
+"Ho, Yuan-Pang 何原榜",None,sfclicrec.asp?p=122108,APG491,http://www.sfc.hk/publicregWeb/indi/APG491/licenceRecord,,,RO,2016-03-29,2018-04-30
+"Hong, Tsz Leung 康子亮",None,sfclicrec.asp?p=118202,ANG331,http://www.sfc.hk/publicregWeb/indi/ANG331/licenceRecord,,,Rep,2018-11-13,2019-06-18
+"Jiang, Ting (SFC:BFL046) 江汀",None,sfclicrec.asp?p=2420089,BFL046,http://www.sfc.hk/publicregWeb/indi/BFL046/licenceRecord,,,Rep,2019-10-31,
+"Lee, Rosa Wai Tsang 李惟琤",None,sfclicrec.asp?p=20652,AIZ436,http://www.sfc.hk/publicregWeb/indi/AIZ436/licenceRecord,42.0,F,RO,2019-02-04,2019-10-08
+"Tian, Jue 田玨",None,sfclicrec.asp?p=2666881,BIN450,http://www.sfc.hk/publicregWeb/indi/BIN450/licenceRecord,,,Rep,2016-12-01,2018-12-21
+"Wan, Yifang (SFC:BMI866) 萬一方",None,sfclicrec.asp?p=16167167,BMI866,http://www.sfc.hk/publicregWeb/indi/BMI866/licenceRecord,,,RO,2018-05-30,
+"Wu, Haoye 呉昊燁",None,sfclicrec.asp?p=23848745,BPA616,http://www.sfc.hk/publicregWeb/indi/BPA616/licenceRecord,,,Rep,2019-10-30,
+"Zheng, Kexun 鄭克勛",None,sfclicrec.asp?p=2458377,BFU394,http://www.sfc.hk/publicregWeb/indi/BFU394/licenceRecord,,,Rep,2017-10-24,
+"Zhu, Xuejun 朱雪軍",None,sfclicrec.asp?p=92636,ANQ582,http://www.sfc.hk/publicregWeb/indi/ANQ582/licenceRecord,,,RO,2016-03-29,
+"Zou, Bingfeng 鄒冰峰",None,sfclicrec.asp?p=21982842,BNG012,http://www.sfc.hk/publicregWeb/indi/BNG012/licenceRecord,,,Rep,2018-08-13,

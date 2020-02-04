@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chow, Dennis Wing Kit 周榮傑",sfclicrec.asp?p=35254,,M,RO,2009-05-22,2009-08-13
-"Ficheux, Veronique Marcelle ",sfclicrec.asp?p=102629,,,RO,2013-05-23,2013-05-25
-"Ho, Kim Kwong 何劍剛",sfclicrec.asp?p=130527,,,Rep,2013-07-02,2013-07-08
-"Ho, Kim Kwong 何劍剛",sfclicrec.asp?p=130527,,,RO,2013-07-08,2014-02-15
-"Law, Sandy Yin Ping 羅燕萍",sfclicrec.asp?p=78793,,,RO,,2014-11-27
-"Lee, Annie Yuk Chun 李玉珍",sfclicrec.asp?p=87274,,F,Rep,2013-06-06,2013-06-08
-"Tsui, Chun Kuen Ken 徐振權",sfclicrec.asp?p=87284,,,Rep,2013-06-06,2013-06-08
-"Wong, Ho Tat 黃浩達",sfclicrec.asp?p=87287,,,Rep,2013-06-06,2013-06-08
-"Wong, Kam Bun 王錦斌",sfclicrec.asp?p=68990,,,RO,2018-10-30,2019-11-01
-"Wong, Man Wai (SFC:AON653) 黃文偉",sfclicrec.asp?p=87289,,,Rep,2013-06-06,2013-06-08
-"Yip, Ka Lam 葉嘉霖",sfclicrec.asp?p=100035,,,RO,2017-03-23,2017-09-23
-"Yuen, Jackson Kam Lun 袁金倫",sfclicrec.asp?p=78794,,M,RO,2004-01-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chow, Dennis Wing Kit 周榮傑",None,sfclicrec.asp?p=35254,ABN739,http://www.sfc.hk/publicregWeb/indi/ABN739/licenceRecord,,M,RO,2009-05-22,2009-08-13
+"Ficheux, Veronique Marcelle ",None,sfclicrec.asp?p=102629,ACC804,http://www.sfc.hk/publicregWeb/indi/ACC804/licenceRecord,,,RO,2013-05-23,2013-05-25
+"Ho, Kim Kwong 何劍剛",None,sfclicrec.asp?p=130527,AWG904,http://www.sfc.hk/publicregWeb/indi/AWG904/licenceRecord,,,Rep,2013-07-02,2013-07-08
+"Ho, Kim Kwong 何劍剛",None,sfclicrec.asp?p=130527,AWG904,http://www.sfc.hk/publicregWeb/indi/AWG904/licenceRecord,,,RO,2013-07-08,2014-02-15
+"Law, Sandy Yin Ping 羅燕萍",None,sfclicrec.asp?p=78793,ADB146,http://www.sfc.hk/publicregWeb/indi/ADB146/licenceRecord,,,RO,,2014-11-27
+"Lee, Annie Yuk Chun 李玉珍",None,sfclicrec.asp?p=87274,ANG471,http://www.sfc.hk/publicregWeb/indi/ANG471/licenceRecord,,F,Rep,2013-06-06,2013-06-08
+"Tsui, Chun Kuen Ken 徐振權",None,sfclicrec.asp?p=87284,AJY009,http://www.sfc.hk/publicregWeb/indi/AJY009/licenceRecord,,,Rep,2013-06-06,2013-06-08
+"Wong, Ho Tat 黃浩達",None,sfclicrec.asp?p=87287,ANN280,http://www.sfc.hk/publicregWeb/indi/ANN280/licenceRecord,,,Rep,2013-06-06,2013-06-08
+"Wong, Kam Bun 王錦斌",None,sfclicrec.asp?p=68990,AQQ323,http://www.sfc.hk/publicregWeb/indi/AQQ323/licenceRecord,,,RO,2018-10-30,2019-11-01
+"Wong, Man Wai (SFC:AON653) 黃文偉",None,sfclicrec.asp?p=87289,AON653,http://www.sfc.hk/publicregWeb/indi/AON653/licenceRecord,,,Rep,2013-06-06,2013-06-08
+"Yip, Ka Lam 葉嘉霖",None,sfclicrec.asp?p=100035,AJA184,http://www.sfc.hk/publicregWeb/indi/AJA184/licenceRecord,,,RO,2017-03-23,2017-09-23
+"Yuen, Jackson Kam Lun 袁金倫",None,sfclicrec.asp?p=78794,AFE588,http://www.sfc.hk/publicregWeb/indi/AFE588/licenceRecord,,M,RO,2004-01-26,

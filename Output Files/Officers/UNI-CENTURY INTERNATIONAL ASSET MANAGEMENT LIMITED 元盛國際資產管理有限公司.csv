@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Law, Kenneth Kin Wah 羅建華",sfclicrec.asp?p=119628,47,M,RO,2018-10-03,
-"Liu, Sit Lun 廖薛倫",sfclicrec.asp?p=119634,44,M,RO,2018-10-03,
-"Wong, Anthony Chun Tung 黃俊東",sfclicrec.asp?p=70714,,M,RO,2018-10-03,2019-10-18
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Law, Kenneth Kin Wah 羅建華",None,sfclicrec.asp?p=119628,ANY057,http://www.sfc.hk/publicregWeb/indi/ANY057/licenceRecord,47.0,M,RO,2018-10-03,
+"Liu, Sit Lun 廖薛倫",None,sfclicrec.asp?p=119634,ANY108,http://www.sfc.hk/publicregWeb/indi/ANY108/licenceRecord,44.0,M,RO,2018-10-03,
+"Wong, Anthony Chun Tung 黃俊東",None,sfclicrec.asp?p=70714,AQJ979,http://www.sfc.hk/publicregWeb/indi/AQJ979/licenceRecord,,M,RO,2018-10-03,2019-10-18

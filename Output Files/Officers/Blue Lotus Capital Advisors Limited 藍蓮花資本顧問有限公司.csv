@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ge, Nan 葛楠",sfclicrec.asp?p=2347921,,,Rep,2015-10-20,2016-07-01
-"Ng, Hoi Ki 吳海祺",sfclicrec.asp?p=1920881,,,Rep,2015-12-09,2016-02-17
-"Ng, Hoi Ki 吳海祺",sfclicrec.asp?p=1920881,,,RO,2016-02-17,
-"Pan, Ying (SFC:BGE440) 潘穎",sfclicrec.asp?p=22144274,,,Rep,2018-09-06,
-"Sam Chang, Segundo Willy 沈維理",sfclicrec.asp?p=111062,,M,RO,2015-10-12,2016-02-19
-"Wen, Tianli 溫天力",sfclicrec.asp?p=88431,,,RO,2015-10-12,
-"Yang, Zixiao 楊子瀟",sfclicrec.asp?p=11458753,,,Rep,2017-06-07,2018-11-25
-"Yang, Zixiao 楊子瀟",sfclicrec.asp?p=11458753,,,Rep,2019-05-02,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ge, Nan 葛楠",None,sfclicrec.asp?p=2347921,BEM810,http://www.sfc.hk/publicregWeb/indi/BEM810/licenceRecord,,,Rep,2015-10-20,2016-07-01
+"Ng, Hoi Ki 吳海祺",None,sfclicrec.asp?p=1920881,AZR917,http://www.sfc.hk/publicregWeb/indi/AZR917/licenceRecord,,,Rep,2015-12-09,2016-02-17
+"Ng, Hoi Ki 吳海祺",None,sfclicrec.asp?p=1920881,AZR917,http://www.sfc.hk/publicregWeb/indi/AZR917/licenceRecord,,,RO,2016-02-17,
+"Pan, Ying (SFC:BGE440) 潘穎",None,sfclicrec.asp?p=22144274,BGE440,http://www.sfc.hk/publicregWeb/indi/BGE440/licenceRecord,,,Rep,2018-09-06,
+"Sam Chang, Segundo Willy 沈維理",None,sfclicrec.asp?p=111062,AHE451,http://www.sfc.hk/publicregWeb/indi/AHE451/licenceRecord,,M,RO,2015-10-12,2016-02-19
+"Wen, Tianli 溫天力",None,sfclicrec.asp?p=88431,ALB748,http://www.sfc.hk/publicregWeb/indi/ALB748/licenceRecord,,,RO,2015-10-12,
+"Yang, Zixiao 楊子瀟",None,sfclicrec.asp?p=11458753,BJN959,http://www.sfc.hk/publicregWeb/indi/BJN959/licenceRecord,,,Rep,2017-06-07,2018-11-25
+"Yang, Zixiao 楊子瀟",None,sfclicrec.asp?p=11458753,BJN959,http://www.sfc.hk/publicregWeb/indi/BJN959/licenceRecord,,,Rep,2019-05-02,

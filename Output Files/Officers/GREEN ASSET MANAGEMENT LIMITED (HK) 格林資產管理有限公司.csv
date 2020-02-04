@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Choi, Chung Tin 蔡仲天",sfclicrec.asp?p=68565,,,RO,2016-10-18,2017-03-31
-"Ho, Ting Kay 何定錤",sfclicrec.asp?p=104760,,,RO,2016-05-10,2016-06-30
-"Kwok, Wai Shun (SFC:AFM346) 郭偉信",sfclicrec.asp?p=49320,,M,RO,2019-01-15,2019-04-13
-"Kwok, Ying Cheuk 郭英卓",sfclicrec.asp?p=99551,,,RO,2016-05-27,2016-10-17
-"Mok, Tak Ming 莫德明",sfclicrec.asp?p=91232,61,,RO,2017-07-06,
-"Ng, Stephen Siu Fai 吳兆輝",sfclicrec.asp?p=128706,,M,RO,2019-04-18,
-"Or, Siu Kam 柯小琴",sfclicrec.asp?p=112996,,,RO,2015-10-26,2016-01-29
-"Shih, Yuen Chi 施婉智",sfclicrec.asp?p=127352,,,RO,2016-06-29,2018-12-31
-"Tung, William Chung Yin 童忠賢",sfclicrec.asp?p=97890,,M,RO,2015-10-26,2016-01-20
-"Wu, Hiu Man 鄔曉敏",sfclicrec.asp?p=110060,,,Rep,2016-01-07,2016-01-26
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Choi, Chung Tin 蔡仲天",None,sfclicrec.asp?p=68565,ALQ216,http://www.sfc.hk/publicregWeb/indi/ALQ216/licenceRecord,,,RO,2016-10-18,2017-03-31
+"Ho, Ting Kay 何定錤",None,sfclicrec.asp?p=104760,AEH400,http://www.sfc.hk/publicregWeb/indi/AEH400/licenceRecord,,,RO,2016-05-10,2016-06-30
+"Kwok, Wai Shun (SFC:AFM346) 郭偉信",None,sfclicrec.asp?p=49320,AFM346,http://www.sfc.hk/publicregWeb/indi/AFM346/licenceRecord,,M,RO,2019-01-15,2019-04-13
+"Kwok, Ying Cheuk 郭英卓",None,sfclicrec.asp?p=99551,AKU150,http://www.sfc.hk/publicregWeb/indi/AKU150/licenceRecord,,,RO,2016-05-27,2016-10-17
+"Mok, Tak Ming 莫德明",None,sfclicrec.asp?p=91232,AAD913,http://www.sfc.hk/publicregWeb/indi/AAD913/licenceRecord,61.0,,RO,2017-07-06,
+"Ng, Stephen Siu Fai 吳兆輝",None,sfclicrec.asp?p=128706,ATX477,http://www.sfc.hk/publicregWeb/indi/ATX477/licenceRecord,,M,RO,2019-04-18,
+"Or, Siu Kam 柯小琴",None,sfclicrec.asp?p=112996,AJD975,http://www.sfc.hk/publicregWeb/indi/AJD975/licenceRecord,,,RO,2015-10-26,2016-01-29
+"Shih, Yuen Chi 施婉智",None,sfclicrec.asp?p=127352,ASE819,http://www.sfc.hk/publicregWeb/indi/ASE819/licenceRecord,,,RO,2016-06-29,2018-12-31
+"Tung, William Chung Yin 童忠賢",None,sfclicrec.asp?p=97890,AAY751,http://www.sfc.hk/publicregWeb/indi/AAY751/licenceRecord,,M,RO,2015-10-26,2016-01-20
+"Wu, Hiu Man 鄔曉敏",None,sfclicrec.asp?p=110060,AGO828,http://www.sfc.hk/publicregWeb/indi/AGO828/licenceRecord,,,Rep,2016-01-07,2016-01-26

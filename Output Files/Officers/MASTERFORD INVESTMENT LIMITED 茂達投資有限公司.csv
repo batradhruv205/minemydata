@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Ka Wing (SFC:AIB365) 鍾嘉榮",sfclicrec.asp?p=70663,40,M,Rep,,2004-03-24
-"Cheung, Andrew Shing Nin 張勝年",sfclicrec.asp?p=87203,,M,RO,,2019-10-31
-"Chiu, Eva Cheuk Wai 趙卓慧",sfclicrec.asp?p=78970,,F,RO,2006-02-10,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Ka Wing (SFC:AIB365) 鍾嘉榮",None,sfclicrec.asp?p=70663,AIB365,http://www.sfc.hk/publicregWeb/indi/AIB365/licenceRecord,40.0,M,Rep,,2004-03-24
+"Cheung, Andrew Shing Nin 張勝年",None,sfclicrec.asp?p=87203,AAH712,http://www.sfc.hk/publicregWeb/indi/AAH712/licenceRecord,,M,RO,,2019-10-31
+"Chiu, Eva Cheuk Wai 趙卓慧",None,sfclicrec.asp?p=78970,ACL606,http://www.sfc.hk/publicregWeb/indi/ACL606/licenceRecord,,F,RO,2006-02-10,

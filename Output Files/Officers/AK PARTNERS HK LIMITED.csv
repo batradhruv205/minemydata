@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bardwell, Timothy John ",sfclicrec.asp?p=103202,,M,RO,2018-05-09,
-"Churchouse, Frederick Peter 卓百德",sfclicrec.asp?p=53918,71,M,RO,2018-05-09,
-"Saxena, Puru 薛普魯",sfclicrec.asp?p=105553,,,RO,2018-05-09,2018-05-16
-"Wood, Antony Winstone ",sfclicrec.asp?p=68548,,M,RO,2018-05-09,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bardwell, Timothy John ",None,sfclicrec.asp?p=103202,ACQ420,http://www.sfc.hk/publicregWeb/indi/ACQ420/licenceRecord,,M,RO,2018-05-09,
+"Churchouse, Frederick Peter 卓百德",None,sfclicrec.asp?p=53918,AAD152,http://www.sfc.hk/publicregWeb/indi/AAD152/licenceRecord,71.0,M,RO,2018-05-09,
+"Saxena, Puru 薛普魯",None,sfclicrec.asp?p=105553,AEX198,http://www.sfc.hk/publicregWeb/indi/AEX198/licenceRecord,,,RO,2018-05-09,2018-05-16
+"Wood, Antony Winstone ",None,sfclicrec.asp?p=68548,ACG215,http://www.sfc.hk/publicregWeb/indi/ACG215/licenceRecord,,M,RO,2018-05-09,

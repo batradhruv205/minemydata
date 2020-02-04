@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cho, Taejung ",sfclicrec.asp?p=11789183,,,Rep,2019-07-04,2019-09-30
-"Horowitz, Barry Alan ",sfclicrec.asp?p=130437,,M,RO,2019-06-10,
-"Liu, Yongqiang (SFC:BFL027) 劉永強",sfclicrec.asp?p=2421404,,,Rep,2019-11-22,
-"Siu, Ruby Pui Kay 蕭珮琪",sfclicrec.asp?p=110836,,F,RO,2019-06-10,2019-09-30
-"Thomson, Charles Rupert Edward ",sfclicrec.asp?p=23699008,,M,RO,2019-09-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cho, Taejung ",None,sfclicrec.asp?p=11789183,BKM785,http://www.sfc.hk/publicregWeb/indi/BKM785/licenceRecord,,,Rep,2019-07-04,2019-09-30
+"Horowitz, Barry Alan ",None,sfclicrec.asp?p=130437,AWC497,http://www.sfc.hk/publicregWeb/indi/AWC497/licenceRecord,,M,RO,2019-06-10,
+"Liu, Yongqiang (SFC:BFL027) 劉永強",None,sfclicrec.asp?p=2421404,BFL027,http://www.sfc.hk/publicregWeb/indi/BFL027/licenceRecord,,,Rep,2019-11-22,
+"Siu, Ruby Pui Kay 蕭珮琪",None,sfclicrec.asp?p=110836,AGW561,http://www.sfc.hk/publicregWeb/indi/AGW561/licenceRecord,,F,RO,2019-06-10,2019-09-30
+"Thomson, Charles Rupert Edward ",None,sfclicrec.asp?p=23699008,ABZ129,http://www.sfc.hk/publicregWeb/indi/ABZ129/licenceRecord,,M,RO,2019-09-24,

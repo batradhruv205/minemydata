@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chau, Edmond Heung Wing 周向榮",sfclicrec.asp?p=82830,,M,RO,2018-01-02,
-"Lai, Kam Wo 黎錦和",sfclicrec.asp?p=51727,,,RO,2018-01-02,
-"Pun, Chun Fung 潘振鋒",sfclicrec.asp?p=96213,,,Rep,2018-03-08,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chau, Edmond Heung Wing 周向榮",None,sfclicrec.asp?p=82830,AAA895,http://www.sfc.hk/publicregWeb/indi/AAA895/licenceRecord,,M,RO,2018-01-02,
+"Lai, Kam Wo 黎錦和",None,sfclicrec.asp?p=51727,ABQ024,http://www.sfc.hk/publicregWeb/indi/ABQ024/licenceRecord,,,RO,2018-01-02,
+"Pun, Chun Fung 潘振鋒",None,sfclicrec.asp?p=96213,AXD515,http://www.sfc.hk/publicregWeb/indi/AXD515/licenceRecord,,,Rep,2018-03-08,

@@ -1,5 +1,5 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Michael Chi Fung 陳志豐",sfclicrec.asp?p=89993,,M,RO,2015-09-11,
-"Lee, Edmond Chi Hang 李智恆",sfclicrec.asp?p=89995,,M,RO,2015-09-11,
-"Li, Chun Hei (SFC:BMV012) 李俊熙",sfclicrec.asp?p=13984145,,,Rep,2018-04-20,
-"Suen, Kar Man Christine 孫嘉文",sfclicrec.asp?p=22223678,,,Rep,2018-09-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Michael Chi Fung 陳志豐",None,sfclicrec.asp?p=89993,ADI587,http://www.sfc.hk/publicregWeb/indi/ADI587/licenceRecord,,M,RO,2015-09-11,
+"Lee, Edmond Chi Hang 李智恆",None,sfclicrec.asp?p=89995,AEE304,http://www.sfc.hk/publicregWeb/indi/AEE304/licenceRecord,,M,RO,2015-09-11,
+"Li, Chun Hei (SFC:BMV012) 李俊熙",None,sfclicrec.asp?p=13984145,BMV012,http://www.sfc.hk/publicregWeb/indi/BMV012/licenceRecord,,,Rep,2018-04-20,
+"Suen, Kar Man Christine 孫嘉文",None,sfclicrec.asp?p=22223678,BNO921,http://www.sfc.hk/publicregWeb/indi/BNO921/licenceRecord,,,Rep,2018-09-26,

@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Law, Chuk Man 羅竹文",sfclicrec.asp?p=93024,,,RO,2017-05-05,2019-09-30
-"Leung, Chin Hung 梁展鴻",sfclicrec.asp?p=100261,,,Rep,2019-02-26,2019-02-28
-"Leung, Chin Hung 梁展鴻",sfclicrec.asp?p=100261,,,RO,2019-02-28,
-"Lui, Hin Chuo Aaron 雷衍操",sfclicrec.asp?p=69939,,M,RO,2017-05-05,
-"Tse, Sze Ming 謝思明",sfclicrec.asp?p=88609,,,RO,2018-02-06,
-"Zhao, Gang (SFC:BLN644) 赵罡",sfclicrec.asp?p=12641971,,,Rep,2017-12-14,2018-08-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Law, Chuk Man 羅竹文",None,sfclicrec.asp?p=93024,AXS857,http://www.sfc.hk/publicregWeb/indi/AXS857/licenceRecord,,,RO,2017-05-05,2019-09-30
+"Leung, Chin Hung 梁展鴻",None,sfclicrec.asp?p=100261,ANF148,http://www.sfc.hk/publicregWeb/indi/ANF148/licenceRecord,,,Rep,2019-02-26,2019-02-28
+"Leung, Chin Hung 梁展鴻",None,sfclicrec.asp?p=100261,ANF148,http://www.sfc.hk/publicregWeb/indi/ANF148/licenceRecord,,,RO,2019-02-28,
+"Lui, Hin Chuo Aaron 雷衍操",None,sfclicrec.asp?p=69939,ARG567,http://www.sfc.hk/publicregWeb/indi/ARG567/licenceRecord,,M,RO,2017-05-05,
+"Tse, Sze Ming 謝思明",None,sfclicrec.asp?p=88609,ALR679,http://www.sfc.hk/publicregWeb/indi/ALR679/licenceRecord,,,RO,2018-02-06,
+"Zhao, Gang (SFC:BLN644) 赵罡",None,sfclicrec.asp?p=12641971,BLN644,http://www.sfc.hk/publicregWeb/indi/BLN644/licenceRecord,,,Rep,2017-12-14,2018-08-31

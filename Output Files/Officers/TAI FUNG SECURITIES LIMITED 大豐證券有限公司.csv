@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Callum Haylock 陳晞洛",sfclicrec.asp?p=12798595,,M,Rep,2018-02-20,
-"Chan, Ho Hin (SFC:BNC275) 陳浩軒",sfclicrec.asp?p=19119490,,,Rep,2019-01-07,
-"Cheung, Judy Ping Ping 張萍萍",sfclicrec.asp?p=100991,,F,Rep,,2017-02-28
-"Cheung, Sau Lai (SFC:AAB136) 張秀麗",sfclicrec.asp?p=100634,,,Rep,,2018-07-20
-"Chiu, Fook Woo 招福和",sfclicrec.asp?p=100995,,M,RO,,2019-07-31
-"Chow, Ming Kit (SFC:BMX591) 周銘傑",sfclicrec.asp?p=17613657,,,Rep,2018-06-19,2019-06-02
-"Do, Kevin 涂遠峻",sfclicrec.asp?p=12780606,,M,Rep,2018-02-12,2019-05-11
-"Fu, Lai King 傅麗瓊",sfclicrec.asp?p=101748,,,Rep,,2018-07-20
-"Fu, Prean Lai Kam 傅麗琴",sfclicrec.asp?p=106334,,,Rep,,2017-02-28
-"Leung, Chi Hang (SFC:AKO773) 梁志恆",sfclicrec.asp?p=113842,,,Rep,2018-04-19,2018-06-20
-"Leung, Chi Hang (SFC:AKO773) 梁志恆",sfclicrec.asp?p=113842,,,RO,2018-06-20,
-"Lo, Shuk Sui 盧淑穗",sfclicrec.asp?p=12053031,,,Rep,2019-07-08,
-"Pong Law, Kong Tune 劉廣端",sfclicrec.asp?p=102582,,,RO,,2018-06-26
-"Pong, Eileen 劉淑芳",sfclicrec.asp?p=125781,,F,Rep,2008-08-18,2017-06-09
-"Yu, Jing (SFC:BDU557) 于靜",sfclicrec.asp?p=2294933,,,RO,2018-10-18,
-"Zuo, Lesi 左仂思",sfclicrec.asp?p=22246159,,,RO,2018-10-10,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Callum Haylock 陳晞洛",None,sfclicrec.asp?p=12798595,BMF391,http://www.sfc.hk/publicregWeb/indi/BMF391/licenceRecord,,M,Rep,2018-02-20,
+"Chan, Ho Hin (SFC:BNC275) 陳浩軒",None,sfclicrec.asp?p=19119490,BNC275,http://www.sfc.hk/publicregWeb/indi/BNC275/licenceRecord,,,Rep,2019-01-07,
+"Cheung, Judy Ping Ping 張萍萍",None,sfclicrec.asp?p=100991,AAE285,http://www.sfc.hk/publicregWeb/indi/AAE285/licenceRecord,,F,Rep,,2017-02-28
+"Cheung, Sau Lai (SFC:AAB136) 張秀麗",None,sfclicrec.asp?p=100634,AAB136,http://www.sfc.hk/publicregWeb/indi/AAB136/licenceRecord,,,Rep,,2018-07-20
+"Chiu, Fook Woo 招福和",None,sfclicrec.asp?p=100995,AAE293,http://www.sfc.hk/publicregWeb/indi/AAE293/licenceRecord,,M,RO,,2019-07-31
+"Chow, Ming Kit (SFC:BMX591) 周銘傑",None,sfclicrec.asp?p=17613657,BMX591,http://www.sfc.hk/publicregWeb/indi/BMX591/licenceRecord,,,Rep,2018-06-19,2019-06-02
+"Do, Kevin 涂遠峻",None,sfclicrec.asp?p=12780606,BMF389,http://www.sfc.hk/publicregWeb/indi/BMF389/licenceRecord,,M,Rep,2018-02-12,2019-05-11
+"Fu, Lai King 傅麗瓊",None,sfclicrec.asp?p=101748,AAY155,http://www.sfc.hk/publicregWeb/indi/AAY155/licenceRecord,,,Rep,,2018-07-20
+"Fu, Prean Lai Kam 傅麗琴",None,sfclicrec.asp?p=106334,AFK684,http://www.sfc.hk/publicregWeb/indi/AFK684/licenceRecord,,,Rep,,2017-02-28
+"Leung, Chi Hang (SFC:AKO773) 梁志恆",None,sfclicrec.asp?p=113842,AKO773,http://www.sfc.hk/publicregWeb/indi/AKO773/licenceRecord,,,Rep,2018-04-19,2018-06-20
+"Leung, Chi Hang (SFC:AKO773) 梁志恆",None,sfclicrec.asp?p=113842,AKO773,http://www.sfc.hk/publicregWeb/indi/AKO773/licenceRecord,,,RO,2018-06-20,
+"Lo, Shuk Sui 盧淑穗",None,sfclicrec.asp?p=12053031,BKM815,http://www.sfc.hk/publicregWeb/indi/BKM815/licenceRecord,,,Rep,2019-07-08,
+"Pong Law, Kong Tune 劉廣端",None,sfclicrec.asp?p=102582,ACB582,http://www.sfc.hk/publicregWeb/indi/ACB582/licenceRecord,,,RO,,2018-06-26
+"Pong, Eileen 劉淑芳",None,sfclicrec.asp?p=125781,ARF662,http://www.sfc.hk/publicregWeb/indi/ARF662/licenceRecord,,F,Rep,2008-08-18,2017-06-09
+"Yu, Jing (SFC:BDU557) 于靜",None,sfclicrec.asp?p=2294933,BDU557,http://www.sfc.hk/publicregWeb/indi/BDU557/licenceRecord,,,RO,2018-10-18,
+"Zuo, Lesi 左仂思",None,sfclicrec.asp?p=22246159,AJK660,http://www.sfc.hk/publicregWeb/indi/AJK660/licenceRecord,,,RO,2018-10-10,

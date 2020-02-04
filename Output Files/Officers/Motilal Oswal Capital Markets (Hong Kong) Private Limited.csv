@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Kedia, Gaurav Pradip ",sfclicrec.asp?p=22600852,,M,Rep,2019-01-02,2019-01-09
-"Kedia, Gaurav Pradip ",sfclicrec.asp?p=22600852,,M,RO,2019-01-09,
-"Marnick, Martin Brendan ",sfclicrec.asp?p=98508,,M,RO,2014-06-24,
-"Sanghvi, Ankit Kumarpal ",sfclicrec.asp?p=2463115,,M,Rep,2015-08-17,2018-08-06
-"Tare, Abhijit Anil ",sfclicrec.asp?p=2285397,,M,RO,2014-06-24,
-"Verma, Pranav ",sfclicrec.asp?p=2463116,,,Rep,2015-08-17,2015-12-28
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Kedia, Gaurav Pradip ",None,sfclicrec.asp?p=22600852,BNO405,http://www.sfc.hk/publicregWeb/indi/BNO405/licenceRecord,,M,Rep,2019-01-02,2019-01-09
+"Kedia, Gaurav Pradip ",None,sfclicrec.asp?p=22600852,BNO405,http://www.sfc.hk/publicregWeb/indi/BNO405/licenceRecord,,M,RO,2019-01-09,
+"Marnick, Martin Brendan ",None,sfclicrec.asp?p=98508,AEF576,http://www.sfc.hk/publicregWeb/indi/AEF576/licenceRecord,,M,RO,2014-06-24,
+"Sanghvi, Ankit Kumarpal ",None,sfclicrec.asp?p=2463115,BFX338,http://www.sfc.hk/publicregWeb/indi/BFX338/licenceRecord,,M,Rep,2015-08-17,2018-08-06
+"Tare, Abhijit Anil ",None,sfclicrec.asp?p=2285397,AYY297,http://www.sfc.hk/publicregWeb/indi/AYY297/licenceRecord,,M,RO,2014-06-24,
+"Verma, Pranav ",None,sfclicrec.asp?p=2463116,BFX337,http://www.sfc.hk/publicregWeb/indi/BFX337/licenceRecord,,,Rep,2015-08-17,2015-12-28

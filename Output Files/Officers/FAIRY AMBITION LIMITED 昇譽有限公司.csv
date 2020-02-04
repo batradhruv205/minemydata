@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Yik Lun 陳奕倫",sfclicrec.asp?p=83358,,,Rep,2019-09-25,2019-10-14
-"Chan, Yik Lun 陳奕倫",sfclicrec.asp?p=83358,,,RO,2019-10-14,
-"Cheung, Rachel Lok Ching 張樂澄",sfclicrec.asp?p=2629885,,F,Rep,2018-06-21,2019-08-01
-"Lam, Chi Shing (SFC:AKO943) 林志成",sfclicrec.asp?p=95198,,,RO,2019-08-09,2019-10-16
-"Lau, Chun Tung (SFC:AWB700) 劉震東",sfclicrec.asp?p=1907401,,,Rep,2019-08-20,
-"Tsang, Chi Ming (SFC:AAC019) 曾智明",sfclicrec.asp?p=95195,,M,RO,2017-06-12,2018-07-11
-"Tsang, Tsz Ho 曾子浩",sfclicrec.asp?p=85205,,,Rep,2018-07-03,2018-07-23
-"Tsang, Tsz Ho 曾子浩",sfclicrec.asp?p=85205,,,RO,2018-07-23,
-"Woo, Chi Wai 胡志偉",sfclicrec.asp?p=74124,,,RO,2017-06-12,2017-09-08
-"Wu, Kwok Leung 胡國良",sfclicrec.asp?p=82370,,,Rep,2018-04-23,2018-06-11
-"Wu, Kwok Leung 胡國良",sfclicrec.asp?p=82370,,,RO,2018-06-11,2018-12-07
-"Yuen, Ka Chung 阮家聰",sfclicrec.asp?p=125570,,,RO,2019-10-23,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Yik Lun 陳奕倫",None,sfclicrec.asp?p=83358,AOR284,http://www.sfc.hk/publicregWeb/indi/AOR284/licenceRecord,,,Rep,2019-09-25,2019-10-14
+"Chan, Yik Lun 陳奕倫",None,sfclicrec.asp?p=83358,AOR284,http://www.sfc.hk/publicregWeb/indi/AOR284/licenceRecord,,,RO,2019-10-14,
+"Cheung, Rachel Lok Ching 張樂澄",None,sfclicrec.asp?p=2629885,BHX763,http://www.sfc.hk/publicregWeb/indi/BHX763/licenceRecord,,F,Rep,2018-06-21,2019-08-01
+"Lam, Chi Shing (SFC:AKO943) 林志成",None,sfclicrec.asp?p=95198,AKO943,http://www.sfc.hk/publicregWeb/indi/AKO943/licenceRecord,,,RO,2019-08-09,2019-10-16
+"Lau, Chun Tung (SFC:AWB700) 劉震東",None,sfclicrec.asp?p=1907401,AWB700,http://www.sfc.hk/publicregWeb/indi/AWB700/licenceRecord,,,Rep,2019-08-20,
+"Tsang, Chi Ming (SFC:AAC019) 曾智明",None,sfclicrec.asp?p=95195,AAC019,http://www.sfc.hk/publicregWeb/indi/AAC019/licenceRecord,,M,RO,2017-06-12,2018-07-11
+"Tsang, Tsz Ho 曾子浩",None,sfclicrec.asp?p=85205,AWE361,http://www.sfc.hk/publicregWeb/indi/AWE361/licenceRecord,,,Rep,2018-07-03,2018-07-23
+"Tsang, Tsz Ho 曾子浩",None,sfclicrec.asp?p=85205,AWE361,http://www.sfc.hk/publicregWeb/indi/AWE361/licenceRecord,,,RO,2018-07-23,
+"Woo, Chi Wai 胡志偉",None,sfclicrec.asp?p=74124,AFC530,http://www.sfc.hk/publicregWeb/indi/AFC530/licenceRecord,,,RO,2017-06-12,2017-09-08
+"Wu, Kwok Leung 胡國良",None,sfclicrec.asp?p=82370,AJB638,http://www.sfc.hk/publicregWeb/indi/AJB638/licenceRecord,,,Rep,2018-04-23,2018-06-11
+"Wu, Kwok Leung 胡國良",None,sfclicrec.asp?p=82370,AJB638,http://www.sfc.hk/publicregWeb/indi/AJB638/licenceRecord,,,RO,2018-06-11,2018-12-07
+"Yuen, Ka Chung 阮家聰",None,sfclicrec.asp?p=125570,ARD624,http://www.sfc.hk/publicregWeb/indi/ARD624/licenceRecord,,,RO,2019-10-23,

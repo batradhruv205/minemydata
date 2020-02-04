@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chu, Wai Ming (SFC:AAE367) 朱偉明",sfclicrec.asp?p=101007,,,RO,,2017-09-01
-"Lee Chiu, Teresa Dah Bin 李邱達平",sfclicrec.asp?p=103598,,,Rep,,
-"Lee, Humphrey Hang Fai 李恆輝",sfclicrec.asp?p=127198,,M,Rep,2008-12-02,2009-02-06
-"Lee, Humphrey Hang Fai 李恆輝",sfclicrec.asp?p=127198,,M,RO,2009-02-06,
-"Lee, Matthew Man Fai 李文輝",sfclicrec.asp?p=89231,,M,Rep,2012-07-06,2017-12-18
-"Lee, Matthew Man Fai 李文輝",sfclicrec.asp?p=89231,,M,RO,2017-12-18,
-"Lee, Siu Lun (SFC:AAE396) 李兆麟",sfclicrec.asp?p=101010,,,RO,,
-"Leung, Shuet Ping 梁雪平",sfclicrec.asp?p=101008,,,Rep,,
-"Shek, Ching 石晶",sfclicrec.asp?p=112144,,,Rep,,2008-02-29
-"Wan, Kit Yi 溫潔兒",sfclicrec.asp?p=112146,,,Rep,,2018-04-27
-"Wan, Kit Yi 溫潔兒",sfclicrec.asp?p=112146,,,RO,2018-04-27,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chu, Wai Ming (SFC:AAE367) 朱偉明",None,sfclicrec.asp?p=101007,AAE367,http://www.sfc.hk/publicregWeb/indi/AAE367/licenceRecord,,,RO,,2017-09-01
+"Lee Chiu, Teresa Dah Bin 李邱達平",None,sfclicrec.asp?p=103598,ADC098,http://www.sfc.hk/publicregWeb/indi/ADC098/licenceRecord,,,Rep,,
+"Lee, Humphrey Hang Fai 李恆輝",None,sfclicrec.asp?p=127198,ASC547,http://www.sfc.hk/publicregWeb/indi/ASC547/licenceRecord,,M,Rep,2008-12-02,2009-02-06
+"Lee, Humphrey Hang Fai 李恆輝",None,sfclicrec.asp?p=127198,ASC547,http://www.sfc.hk/publicregWeb/indi/ASC547/licenceRecord,,M,RO,2009-02-06,
+"Lee, Matthew Man Fai 李文輝",None,sfclicrec.asp?p=89231,AVS016,http://www.sfc.hk/publicregWeb/indi/AVS016/licenceRecord,,M,Rep,2012-07-06,2017-12-18
+"Lee, Matthew Man Fai 李文輝",None,sfclicrec.asp?p=89231,AVS016,http://www.sfc.hk/publicregWeb/indi/AVS016/licenceRecord,,M,RO,2017-12-18,
+"Lee, Siu Lun (SFC:AAE396) 李兆麟",None,sfclicrec.asp?p=101010,AAE396,http://www.sfc.hk/publicregWeb/indi/AAE396/licenceRecord,,,RO,,
+"Leung, Shuet Ping 梁雪平",None,sfclicrec.asp?p=101008,AAE387,http://www.sfc.hk/publicregWeb/indi/AAE387/licenceRecord,,,Rep,,
+"Shek, Ching 石晶",None,sfclicrec.asp?p=112144,AIJ730,http://www.sfc.hk/publicregWeb/indi/AIJ730/licenceRecord,,,Rep,,2008-02-29
+"Wan, Kit Yi 溫潔兒",None,sfclicrec.asp?p=112146,AIJ782,http://www.sfc.hk/publicregWeb/indi/AIJ782/licenceRecord,,,Rep,,2018-04-27
+"Wan, Kit Yi 溫潔兒",None,sfclicrec.asp?p=112146,AIJ782,http://www.sfc.hk/publicregWeb/indi/AIJ782/licenceRecord,,,RO,2018-04-27,

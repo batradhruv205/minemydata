@@ -1,12 +1,12 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Kairui 陳愷睿",sfclicrec.asp?p=2271429,,,Rep,2014-05-21,
-"Cheng, Wai Man (SFC:ANK374) 鄭偉民",sfclicrec.asp?p=118579,,,RO,2014-03-06,2018-04-30
-"Chow, Shuk Ki 周淑琪",sfclicrec.asp?p=2349243,,,Rep,2014-11-21,2016-08-26
-"Duanmu, Yongshan 端木雍山",sfclicrec.asp?p=92283,,,Rep,2018-06-20,2018-09-20
-"Duanmu, Yongshan 端木雍山",sfclicrec.asp?p=92283,,,RO,2018-09-20,
-"Huang, Yong (SFC:AOD620) 黃勇",sfclicrec.asp?p=120056,,,RO,2014-03-06,
-"Jiang, Yu (SFC:BCB741) 蔣煜",sfclicrec.asp?p=2218676,,,RO,2014-03-06,
-"Liu, Ting Chih 劉庭芝",sfclicrec.asp?p=2701839,,,Rep,2017-02-27,2018-02-16
-"Tsang, Fiona Siu Fong 曾小芳",sfclicrec.asp?p=2632255,,F,Rep,2016-09-13,2018-06-11
-"Wang, Yanni (SFC:BGO988) 王艷妮",sfclicrec.asp?p=2518386,,,Rep,2015-12-24,2016-01-19
-"Wong, Ka Tsz 黃家慈",sfclicrec.asp?p=2633428,,,Rep,2016-09-15,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Kairui 陳愷睿",None,sfclicrec.asp?p=2271429,BDL737,http://www.sfc.hk/publicregWeb/indi/BDL737/licenceRecord,,,Rep,2014-05-21,
+"Cheng, Wai Man (SFC:ANK374) 鄭偉民",None,sfclicrec.asp?p=118579,ANK374,http://www.sfc.hk/publicregWeb/indi/ANK374/licenceRecord,,,RO,2014-03-06,2018-04-30
+"Chow, Shuk Ki 周淑琪",None,sfclicrec.asp?p=2349243,BEL274,http://www.sfc.hk/publicregWeb/indi/BEL274/licenceRecord,,,Rep,2014-11-21,2016-08-26
+"Duanmu, Yongshan 端木雍山",None,sfclicrec.asp?p=92283,ANK158,http://www.sfc.hk/publicregWeb/indi/ANK158/licenceRecord,,,Rep,2018-06-20,2018-09-20
+"Duanmu, Yongshan 端木雍山",None,sfclicrec.asp?p=92283,ANK158,http://www.sfc.hk/publicregWeb/indi/ANK158/licenceRecord,,,RO,2018-09-20,
+"Huang, Yong (SFC:AOD620) 黃勇",None,sfclicrec.asp?p=120056,AOD620,http://www.sfc.hk/publicregWeb/indi/AOD620/licenceRecord,,,RO,2014-03-06,
+"Jiang, Yu (SFC:BCB741) 蔣煜",None,sfclicrec.asp?p=2218676,BCB741,http://www.sfc.hk/publicregWeb/indi/BCB741/licenceRecord,,,RO,2014-03-06,
+"Liu, Ting Chih 劉庭芝",None,sfclicrec.asp?p=2701839,BJA732,http://www.sfc.hk/publicregWeb/indi/BJA732/licenceRecord,,,Rep,2017-02-27,2018-02-16
+"Tsang, Fiona Siu Fong 曾小芳",None,sfclicrec.asp?p=2632255,BID690,http://www.sfc.hk/publicregWeb/indi/BID690/licenceRecord,,F,Rep,2016-09-13,2018-06-11
+"Wang, Yanni (SFC:BGO988) 王艷妮",None,sfclicrec.asp?p=2518386,BGO988,http://www.sfc.hk/publicregWeb/indi/BGO988/licenceRecord,,,Rep,2015-12-24,2016-01-19
+"Wong, Ka Tsz 黃家慈",None,sfclicrec.asp?p=2633428,BID684,http://www.sfc.hk/publicregWeb/indi/BID684/licenceRecord,,,Rep,2016-09-15,

@@ -1,13 +1,13 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Beirne, Colin Seamus ",sfclicrec.asp?p=22897561,,M,Rep,2019-03-13,2019-03-15
-"Fong, Bonnie Shin Tsing 方善政",sfclicrec.asp?p=43082,40,F,Rep,2017-02-17,2017-11-27
-"Fong, Bonnie Shin Tsing 方善政",sfclicrec.asp?p=43082,40,F,RO,2017-11-27,2018-07-31
-"Jacobs, Joseph David ",sfclicrec.asp?p=2499462,,M,Rep,2015-11-13,2015-12-04
-"Lam, Kwok Fung Kenny 林國灃",sfclicrec.asp?p=23430889,,M,RO,2019-07-16,
-"Lee, Suzanna Soh 束晉蘭",sfclicrec.asp?p=22649318,,F,Rep,2019-01-15,2019-01-21
-"Lyons, Carter M ",sfclicrec.asp?p=2256697,,,RO,2014-04-08,
-"Mizuno, Goshin ",sfclicrec.asp?p=2534000,,,Rep,2016-02-01,2017-06-18
-"Robbins, Benjamin David ",sfclicrec.asp?p=2257123,,M,Rep,2014-04-09,2017-02-04
-"Tan, Juan Edward 陳德源",sfclicrec.asp?p=78379,,,RO,2014-04-08,
-"Verlaque, Renaud Jean-Michel ",sfclicrec.asp?p=2256698,,M,RO,2014-04-08,
-"Xu, Simin (SFC:BFC852) 許思敏",sfclicrec.asp?p=2396967,,,Rep,2017-07-11,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Beirne, Colin Seamus ",None,sfclicrec.asp?p=22897561,BOD572,http://www.sfc.hk/publicregWeb/indi/BOD572/licenceRecord,,M,Rep,2019-03-13,2019-03-15
+"Fong, Bonnie Shin Tsing 方善政",None,sfclicrec.asp?p=43082,AIY237,http://www.sfc.hk/publicregWeb/indi/AIY237/licenceRecord,40.0,F,Rep,2017-02-17,2017-11-27
+"Fong, Bonnie Shin Tsing 方善政",None,sfclicrec.asp?p=43082,AIY237,http://www.sfc.hk/publicregWeb/indi/AIY237/licenceRecord,40.0,F,RO,2017-11-27,2018-07-31
+"Jacobs, Joseph David ",None,sfclicrec.asp?p=2499462,BGM140,http://www.sfc.hk/publicregWeb/indi/BGM140/licenceRecord,,M,Rep,2015-11-13,2015-12-04
+"Lam, Kwok Fung Kenny 林國灃",None,sfclicrec.asp?p=23430889,BIX396,http://www.sfc.hk/publicregWeb/indi/BIX396/licenceRecord,,M,RO,2019-07-16,
+"Lee, Suzanna Soh 束晉蘭",None,sfclicrec.asp?p=22649318,BNZ992,http://www.sfc.hk/publicregWeb/indi/BNZ992/licenceRecord,,F,Rep,2019-01-15,2019-01-21
+"Lyons, Carter M ",None,sfclicrec.asp?p=2256697,BBK142,http://www.sfc.hk/publicregWeb/indi/BBK142/licenceRecord,,,RO,2014-04-08,
+"Mizuno, Goshin ",None,sfclicrec.asp?p=2534000,BGX058,http://www.sfc.hk/publicregWeb/indi/BGX058/licenceRecord,,,Rep,2016-02-01,2017-06-18
+"Robbins, Benjamin David ",None,sfclicrec.asp?p=2257123,BBK145,http://www.sfc.hk/publicregWeb/indi/BBK145/licenceRecord,,M,Rep,2014-04-09,2017-02-04
+"Tan, Juan Edward 陳德源",None,sfclicrec.asp?p=78379,ANN256,http://www.sfc.hk/publicregWeb/indi/ANN256/licenceRecord,,,RO,2014-04-08,
+"Verlaque, Renaud Jean-Michel ",None,sfclicrec.asp?p=2256698,BBK144,http://www.sfc.hk/publicregWeb/indi/BBK144/licenceRecord,,M,RO,2014-04-08,
+"Xu, Simin (SFC:BFC852) 許思敏",None,sfclicrec.asp?p=2396967,BFC852,http://www.sfc.hk/publicregWeb/indi/BFC852/licenceRecord,,,Rep,2017-07-11,

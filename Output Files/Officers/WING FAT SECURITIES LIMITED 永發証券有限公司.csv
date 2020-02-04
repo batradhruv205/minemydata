@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Boo, Shiu Kai 布兆佳",sfclicrec.asp?p=91353,,,Rep,2013-04-03,2019-12-20
-"Fok, Chan Fun 霍燦勳",sfclicrec.asp?p=100265,,,Rep,,2013-02-27
-"Fung, Fook Wing 馮福榮",sfclicrec.asp?p=100266,,,Rep,,2014-12-31
-"Fung, Kwok Hoi 馮國海",sfclicrec.asp?p=100262,,,RO,,2019-10-14
-"Fung, Peter Wai Ling 馮偉靈",sfclicrec.asp?p=100263,,M,RO,,
-"Fung, Wing Yeung 馮永揚",sfclicrec.asp?p=91213,,,Rep,2015-09-08,2018-02-28
-"Ho, Tai Yu 何大愉",sfclicrec.asp?p=100267,,,Rep,,2014-12-31
-"Kam, Yin Ping (SFC:ANU855) 甘燕萍",sfclicrec.asp?p=100268,,,Rep,2011-04-12,2015-04-13
-"Kwan, Fuk Shing 關福成",sfclicrec.asp?p=100726,,,Rep,,2010-12-31
-"Kwan, Richard Fook Lam 關福林",sfclicrec.asp?p=100264,,M,RO,,
-"Lau, Kwei Yee 劉桂儀",sfclicrec.asp?p=100269,,,Rep,,
-"Li, Ching Kai 李靜佳",sfclicrec.asp?p=100270,,,Rep,,2019-12-12
-"Sin, Wai Keung 冼偉強",sfclicrec.asp?p=100271,,,Rep,2008-09-19,2020-01-19
-"Tang, Tsz Wang 鄧子宏",sfclicrec.asp?p=100272,,,Rep,,
-"Wan, Kwai Leung 溫季良",sfclicrec.asp?p=100273,,,Rep,,2019-12-20
-"Wu, Tai Chuen 胡泰全",sfclicrec.asp?p=80086,,M,Rep,,2008-12-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Boo, Shiu Kai 布兆佳",None,sfclicrec.asp?p=91353,AAE663,http://www.sfc.hk/publicregWeb/indi/AAE663/licenceRecord,,,Rep,2013-04-03,2019-12-20
+"Fok, Chan Fun 霍燦勳",None,sfclicrec.asp?p=100265,AAB587,http://www.sfc.hk/publicregWeb/indi/AAB587/licenceRecord,,,Rep,,2013-02-27
+"Fung, Fook Wing 馮福榮",None,sfclicrec.asp?p=100266,AAB816,http://www.sfc.hk/publicregWeb/indi/AAB816/licenceRecord,,,Rep,,2014-12-31
+"Fung, Kwok Hoi 馮國海",None,sfclicrec.asp?p=100262,AAB835,http://www.sfc.hk/publicregWeb/indi/AAB835/licenceRecord,,,RO,,2019-10-14
+"Fung, Peter Wai Ling 馮偉靈",None,sfclicrec.asp?p=100263,ACZ784,http://www.sfc.hk/publicregWeb/indi/ACZ784/licenceRecord,,M,RO,,
+"Fung, Wing Yeung 馮永揚",None,sfclicrec.asp?p=91213,AGN727,http://www.sfc.hk/publicregWeb/indi/AGN727/licenceRecord,,,Rep,2015-09-08,2018-02-28
+"Ho, Tai Yu 何大愉",None,sfclicrec.asp?p=100267,AAB802,http://www.sfc.hk/publicregWeb/indi/AAB802/licenceRecord,,,Rep,,2014-12-31
+"Kam, Yin Ping (SFC:ANU855) 甘燕萍",None,sfclicrec.asp?p=100268,ANU855,http://www.sfc.hk/publicregWeb/indi/ANU855/licenceRecord,,,Rep,2011-04-12,2015-04-13
+"Kwan, Fuk Shing 關福成",None,sfclicrec.asp?p=100726,AAB793,http://www.sfc.hk/publicregWeb/indi/AAB793/licenceRecord,,,Rep,,2010-12-31
+"Kwan, Richard Fook Lam 關福林",None,sfclicrec.asp?p=100264,AEK237,http://www.sfc.hk/publicregWeb/indi/AEK237/licenceRecord,,M,RO,,
+"Lau, Kwei Yee 劉桂儀",None,sfclicrec.asp?p=100269,AHR020,http://www.sfc.hk/publicregWeb/indi/AHR020/licenceRecord,,,Rep,,
+"Li, Ching Kai 李靜佳",None,sfclicrec.asp?p=100270,AAB790,http://www.sfc.hk/publicregWeb/indi/AAB790/licenceRecord,,,Rep,,2019-12-12
+"Sin, Wai Keung 冼偉強",None,sfclicrec.asp?p=100271,ARJ606,http://www.sfc.hk/publicregWeb/indi/ARJ606/licenceRecord,,,Rep,2008-09-19,2020-01-19
+"Tang, Tsz Wang 鄧子宏",None,sfclicrec.asp?p=100272,ADT710,http://www.sfc.hk/publicregWeb/indi/ADT710/licenceRecord,,,Rep,,
+"Wan, Kwai Leung 溫季良",None,sfclicrec.asp?p=100273,ABG471,http://www.sfc.hk/publicregWeb/indi/ABG471/licenceRecord,,,Rep,,2019-12-20
+"Wu, Tai Chuen 胡泰全",None,sfclicrec.asp?p=80086,AAB784,http://www.sfc.hk/publicregWeb/indi/AAB784/licenceRecord,,M,Rep,,2008-12-31

@@ -1,17 +1,17 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Dong (SFC:AUI402) 陳東",sfclicrec.asp?p=73577,,,RO,2017-06-08,
-"Chen, Fei (SFC:AYB045) 陳飛",sfclicrec.asp?p=132605,,,Rep,2019-08-01,2019-11-08
-"Chen, Fei (SFC:AYB045) 陳飛",sfclicrec.asp?p=132605,,,RO,2019-11-08,
-"Huang, Yuhong 黃宇紅",sfclicrec.asp?p=13806378,,,Rep,2018-04-13,
-"Kong, Xiangyu 孔祥宇",sfclicrec.asp?p=12687397,,,Rep,2018-01-15,2018-02-28
-"Li, Guangchen (SFC:BNY840) 李光宸",sfclicrec.asp?p=22604455,,,Rep,2019-01-03,
-"Liang, Zhipeng 梁志鵬",sfclicrec.asp?p=11782172,,,Rep,2017-07-27,2018-01-17
-"Liang, Zhipeng 梁志鵬",sfclicrec.asp?p=11782172,,,Rep,2018-03-12,2018-12-08
-"Liu, Bing (SFC:BKY745) 劉冰",sfclicrec.asp?p=12053055,,,Rep,2017-09-18,
-"Liu, Na (SFC:BEC575) 劉鈉",sfclicrec.asp?p=2315951,,,Rep,2017-07-27,2018-04-16
-"Liu, Na (SFC:BEC575) 劉鈉",sfclicrec.asp?p=2315951,,,RO,2018-04-16,2018-12-31
-"Tam, Sin Bun 譚善斌",sfclicrec.asp?p=94965,,,RO,2017-06-08,
-"Wang, Zhaoqiang 王兆强",sfclicrec.asp?p=22123099,,,Rep,2018-09-03,
-"Wen, Fan 溫凡",sfclicrec.asp?p=2638842,,,Rep,2018-12-24,
-"Xie, Shangyu 謝尚宇",sfclicrec.asp?p=15010934,,,Rep,2018-05-14,
-"Zhang, Yingyi 張穎藝",sfclicrec.asp?p=22715558,,,Rep,2019-01-30,2019-10-11
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Dong (SFC:AUI402) 陳東",None,sfclicrec.asp?p=73577,AUI402,http://www.sfc.hk/publicregWeb/indi/AUI402/licenceRecord,,,RO,2017-06-08,
+"Chen, Fei (SFC:AYB045) 陳飛",None,sfclicrec.asp?p=132605,AYB045,http://www.sfc.hk/publicregWeb/indi/AYB045/licenceRecord,,,Rep,2019-08-01,2019-11-08
+"Chen, Fei (SFC:AYB045) 陳飛",None,sfclicrec.asp?p=132605,AYB045,http://www.sfc.hk/publicregWeb/indi/AYB045/licenceRecord,,,RO,2019-11-08,
+"Huang, Yuhong 黃宇紅",None,sfclicrec.asp?p=13806378,BMM410,http://www.sfc.hk/publicregWeb/indi/BMM410/licenceRecord,,,Rep,2018-04-13,
+"Kong, Xiangyu 孔祥宇",None,sfclicrec.asp?p=12687397,BLX688,http://www.sfc.hk/publicregWeb/indi/BLX688/licenceRecord,,,Rep,2018-01-15,2018-02-28
+"Li, Guangchen (SFC:BNY840) 李光宸",None,sfclicrec.asp?p=22604455,BNY840,http://www.sfc.hk/publicregWeb/indi/BNY840/licenceRecord,,,Rep,2019-01-03,
+"Liang, Zhipeng 梁志鵬",None,sfclicrec.asp?p=11782172,BKD358,http://www.sfc.hk/publicregWeb/indi/BKD358/licenceRecord,,,Rep,2017-07-27,2018-01-17
+"Liang, Zhipeng 梁志鵬",None,sfclicrec.asp?p=11782172,BKD358,http://www.sfc.hk/publicregWeb/indi/BKD358/licenceRecord,,,Rep,2018-03-12,2018-12-08
+"Liu, Bing (SFC:BKY745) 劉冰",None,sfclicrec.asp?p=12053055,BKY745,http://www.sfc.hk/publicregWeb/indi/BKY745/licenceRecord,,,Rep,2017-09-18,
+"Liu, Na (SFC:BEC575) 劉鈉",None,sfclicrec.asp?p=2315951,BEC575,http://www.sfc.hk/publicregWeb/indi/BEC575/licenceRecord,,,Rep,2017-07-27,2018-04-16
+"Liu, Na (SFC:BEC575) 劉鈉",None,sfclicrec.asp?p=2315951,BEC575,http://www.sfc.hk/publicregWeb/indi/BEC575/licenceRecord,,,RO,2018-04-16,2018-12-31
+"Tam, Sin Bun 譚善斌",None,sfclicrec.asp?p=94965,AOD765,http://www.sfc.hk/publicregWeb/indi/AOD765/licenceRecord,,,RO,2017-06-08,
+"Wang, Zhaoqiang 王兆强",None,sfclicrec.asp?p=22123099,BNM252,http://www.sfc.hk/publicregWeb/indi/BNM252/licenceRecord,,,Rep,2018-09-03,
+"Wen, Fan 溫凡",None,sfclicrec.asp?p=2638842,BIG672,http://www.sfc.hk/publicregWeb/indi/BIG672/licenceRecord,,,Rep,2018-12-24,
+"Xie, Shangyu 謝尚宇",None,sfclicrec.asp?p=15010934,BMW764,http://www.sfc.hk/publicregWeb/indi/BMW764/licenceRecord,,,Rep,2018-05-14,
+"Zhang, Yingyi 張穎藝",None,sfclicrec.asp?p=22715558,BOB980,http://www.sfc.hk/publicregWeb/indi/BOB980/licenceRecord,,,Rep,2019-01-30,2019-10-11

@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chung, Chun Pong (SFC:BAF844) 鍾俊邦",sfclicrec.asp?p=1958056,,,RO,2018-12-05,
-"Lin, Shoukang 林寿康",sfclicrec.asp?p=73420,,,RO,2018-12-05,
-"Tao, Ye (SFC:BBJ229) 陶冶",sfclicrec.asp?p=2078789,,,RO,2018-12-05,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chung, Chun Pong (SFC:BAF844) 鍾俊邦",None,sfclicrec.asp?p=1958056,BAF844,http://www.sfc.hk/publicregWeb/indi/BAF844/licenceRecord,,,RO,2018-12-05,
+"Lin, Shoukang 林寿康",None,sfclicrec.asp?p=73420,AHW168,http://www.sfc.hk/publicregWeb/indi/AHW168/licenceRecord,,,RO,2018-12-05,
+"Tao, Ye (SFC:BBJ229) 陶冶",None,sfclicrec.asp?p=2078789,BBJ229,http://www.sfc.hk/publicregWeb/indi/BBJ229/licenceRecord,,,RO,2018-12-05,

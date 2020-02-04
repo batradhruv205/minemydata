@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ho, Ka Yui 何家銳",sfclicrec.asp?p=11780208,,,Rep,2018-05-24,
-"Ng, Chi Yu 吳知雨",sfclicrec.asp?p=71109,,,RO,2017-06-27,
-"Yeung, Hing Hei 楊慶禧",sfclicrec.asp?p=71213,,,RO,2017-06-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ho, Ka Yui 何家銳",None,sfclicrec.asp?p=11780208,BIW340,http://www.sfc.hk/publicregWeb/indi/BIW340/licenceRecord,,,Rep,2018-05-24,
+"Ng, Chi Yu 吳知雨",None,sfclicrec.asp?p=71109,API279,http://www.sfc.hk/publicregWeb/indi/API279/licenceRecord,,,RO,2017-06-27,
+"Yeung, Hing Hei 楊慶禧",None,sfclicrec.asp?p=71213,AQA986,http://www.sfc.hk/publicregWeb/indi/AQA986/licenceRecord,,,RO,2017-06-26,

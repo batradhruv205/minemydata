@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheng, Kaili 程凱莉",sfclicrec.asp?p=2706202,,,Rep,2019-09-05,
-"Cho, Stephen Yu Kwan 曹如軍",sfclicrec.asp?p=71476,,M,Rep,2019-09-24,
-"He, Nan (SFC:BEM801) 賀楠",sfclicrec.asp?p=2358679,,,RO,2019-07-19,
-"Hon, Chun Jenny 韓臻",sfclicrec.asp?p=22251004,,,Rep,2020-01-20,
-"Ni, Xiang Feng ",sfclicrec.asp?p=94418,,,RO,2019-11-08,
-"Yang, George Yuchuan 楊玉川",sfclicrec.asp?p=91377,57,M,RO,2019-07-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheng, Kaili 程凱莉",None,sfclicrec.asp?p=2706202,BIY481,http://www.sfc.hk/publicregWeb/indi/BIY481/licenceRecord,,,Rep,2019-09-05,
+"Cho, Stephen Yu Kwan 曹如軍",None,sfclicrec.asp?p=71476,ACO193,http://www.sfc.hk/publicregWeb/indi/ACO193/licenceRecord,,M,Rep,2019-09-24,
+"He, Nan (SFC:BEM801) 賀楠",None,sfclicrec.asp?p=2358679,BEM801,http://www.sfc.hk/publicregWeb/indi/BEM801/licenceRecord,,,RO,2019-07-19,
+"Hon, Chun Jenny 韓臻",None,sfclicrec.asp?p=22251004,BJW876,http://www.sfc.hk/publicregWeb/indi/BJW876/licenceRecord,,,Rep,2020-01-20,
+"Ni, Xiang Feng ",None,sfclicrec.asp?p=94418,AFY231,http://www.sfc.hk/publicregWeb/indi/AFY231/licenceRecord,,,RO,2019-11-08,
+"Yang, George Yuchuan 楊玉川",None,sfclicrec.asp?p=91377,AHK019,http://www.sfc.hk/publicregWeb/indi/AHK019/licenceRecord,57.0,M,RO,2019-07-19,

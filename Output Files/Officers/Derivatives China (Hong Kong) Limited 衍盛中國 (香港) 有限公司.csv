@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chang, Ming-Yu 張明瑜",sfclicrec.asp?p=108868,,,RO,2018-08-10,
-"Wang, Chun Chin (SFC:BOC709) 王俊卿",sfclicrec.asp?p=23026134,,,Rep,2019-04-10,
-"Wang, Yueren 王悅人",sfclicrec.asp?p=23281231,,,Rep,2019-06-10,
-"Wu, Yuen Ling 胡婉玲",sfclicrec.asp?p=73506,,,Rep,2019-04-10,
-"Zhang, You 章友",sfclicrec.asp?p=81482,,,RO,2018-08-10,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chang, Ming-Yu 張明瑜",None,sfclicrec.asp?p=108868,AGH213,http://www.sfc.hk/publicregWeb/indi/AGH213/licenceRecord,,,RO,2018-08-10,
+"Wang, Chun Chin (SFC:BOC709) 王俊卿",None,sfclicrec.asp?p=23026134,BOC709,http://www.sfc.hk/publicregWeb/indi/BOC709/licenceRecord,,,Rep,2019-04-10,
+"Wang, Yueren 王悅人",None,sfclicrec.asp?p=23281231,BOJ329,http://www.sfc.hk/publicregWeb/indi/BOJ329/licenceRecord,,,Rep,2019-06-10,
+"Wu, Yuen Ling 胡婉玲",None,sfclicrec.asp?p=73506,AOE790,http://www.sfc.hk/publicregWeb/indi/AOE790/licenceRecord,,,Rep,2019-04-10,
+"Zhang, You 章友",None,sfclicrec.asp?p=81482,AMF141,http://www.sfc.hk/publicregWeb/indi/AMF141/licenceRecord,,,RO,2018-08-10,

@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Tin Yan 陳天恩",sfclicrec.asp?p=2387849,,,Rep,2019-05-23,2019-07-27
-"Hong, Seung Bok 洪承福",sfclicrec.asp?p=103304,,,Rep,2019-09-10,
-"Kang, Phil Goo 姜畢求",sfclicrec.asp?p=23229163,,M,Rep,2019-05-28,
-"Kim, Jong Kuk 金鍾局",sfclicrec.asp?p=88564,,,RO,2019-02-26,
-"Park, Hong Cheol 朴烘徹",sfclicrec.asp?p=2629870,,,Rep,2019-10-11,
-"Waite Iii, Norman ",sfclicrec.asp?p=90790,,M,Rep,2019-10-14,
-"Wong, Eugene (SFC:AMH294) 黃永珍",sfclicrec.asp?p=116463,,M,Rep,2019-10-17,
-"Yoo, Jae Ouk 柳在億",sfclicrec.asp?p=105086,,,Rep,2019-10-15,
-"Yoon, Sung Jin ",sfclicrec.asp?p=129213,,,RO,2019-02-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Tin Yan 陳天恩",None,sfclicrec.asp?p=2387849,BFA431,http://www.sfc.hk/publicregWeb/indi/BFA431/licenceRecord,,,Rep,2019-05-23,2019-07-27
+"Hong, Seung Bok 洪承福",None,sfclicrec.asp?p=103304,ACS880,http://www.sfc.hk/publicregWeb/indi/ACS880/licenceRecord,,,Rep,2019-09-10,
+"Kang, Phil Goo 姜畢求",None,sfclicrec.asp?p=23229163,BOJ199,http://www.sfc.hk/publicregWeb/indi/BOJ199/licenceRecord,,M,Rep,2019-05-28,
+"Kim, Jong Kuk 金鍾局",None,sfclicrec.asp?p=88564,AFC107,http://www.sfc.hk/publicregWeb/indi/AFC107/licenceRecord,,,RO,2019-02-26,
+"Park, Hong Cheol 朴烘徹",None,sfclicrec.asp?p=2629870,BEX842,http://www.sfc.hk/publicregWeb/indi/BEX842/licenceRecord,,,Rep,2019-10-11,
+"Waite Iii, Norman ",None,sfclicrec.asp?p=90790,AEI859,http://www.sfc.hk/publicregWeb/indi/AEI859/licenceRecord,,M,Rep,2019-10-14,
+"Wong, Eugene (SFC:AMH294) 黃永珍",None,sfclicrec.asp?p=116463,AMH294,http://www.sfc.hk/publicregWeb/indi/AMH294/licenceRecord,,M,Rep,2019-10-17,
+"Yoo, Jae Ouk 柳在億",None,sfclicrec.asp?p=105086,AEO161,http://www.sfc.hk/publicregWeb/indi/AEO161/licenceRecord,,,Rep,2019-10-15,
+"Yoon, Sung Jin ",None,sfclicrec.asp?p=129213,AUN972,http://www.sfc.hk/publicregWeb/indi/AUN972/licenceRecord,,,RO,2019-02-26,

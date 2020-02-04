@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Au, Yiu Fai 區耀輝",sfclicrec.asp?p=81743,,,RO,2017-01-03,2018-07-03
-"Ho, Kim Kwong 何劍剛",sfclicrec.asp?p=130527,,,RO,2018-09-19,
-"Hui, Wan Yee 許韻兒",sfclicrec.asp?p=68756,,,Rep,2019-05-15,
-"Kwok, Sze Kong 郭詩江",sfclicrec.asp?p=95501,,,RO,2017-01-03,2018-01-17
-"Tham, Anna Marie 譚妙芳",sfclicrec.asp?p=77137,,F,RO,2018-09-19,
-"Tiu, Chi Shing 刁志誠",sfclicrec.asp?p=98690,,,Rep,2017-01-27,2018-12-31
-"Tsang, Hing Hung (SFC:AFG417) 曾慶洪",sfclicrec.asp?p=2714121,,,Rep,2017-03-16,2018-12-31
-"Tse, Kwun Yip 謝冠業",sfclicrec.asp?p=2537262,45,M,RO,2018-10-12,2019-10-31
-"Wat, Hin Tat 屈顯達",sfclicrec.asp?p=67842,,,Rep,2017-01-27,2018-12-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Au, Yiu Fai 區耀輝",None,sfclicrec.asp?p=81743,AFJ091,http://www.sfc.hk/publicregWeb/indi/AFJ091/licenceRecord,,,RO,2017-01-03,2018-07-03
+"Ho, Kim Kwong 何劍剛",None,sfclicrec.asp?p=130527,AWG904,http://www.sfc.hk/publicregWeb/indi/AWG904/licenceRecord,,,RO,2018-09-19,
+"Hui, Wan Yee 許韻兒",None,sfclicrec.asp?p=68756,AEX961,http://www.sfc.hk/publicregWeb/indi/AEX961/licenceRecord,,,Rep,2019-05-15,
+"Kwok, Sze Kong 郭詩江",None,sfclicrec.asp?p=95501,AJO748,http://www.sfc.hk/publicregWeb/indi/AJO748/licenceRecord,,,RO,2017-01-03,2018-01-17
+"Tham, Anna Marie 譚妙芳",None,sfclicrec.asp?p=77137,ABH098,http://www.sfc.hk/publicregWeb/indi/ABH098/licenceRecord,,F,RO,2018-09-19,
+"Tiu, Chi Shing 刁志誠",None,sfclicrec.asp?p=98690,AQZ645,http://www.sfc.hk/publicregWeb/indi/AQZ645/licenceRecord,,,Rep,2017-01-27,2018-12-31
+"Tsang, Hing Hung (SFC:AFG417) 曾慶洪",None,sfclicrec.asp?p=2714121,AFG417,http://www.sfc.hk/publicregWeb/indi/AFG417/licenceRecord,,,Rep,2017-03-16,2018-12-31
+"Tse, Kwun Yip 謝冠業",None,sfclicrec.asp?p=2537262,AEE301,http://www.sfc.hk/publicregWeb/indi/AEE301/licenceRecord,45.0,M,RO,2018-10-12,2019-10-31
+"Wat, Hin Tat 屈顯達",None,sfclicrec.asp?p=67842,AHJ231,http://www.sfc.hk/publicregWeb/indi/AHJ231/licenceRecord,,,Rep,2017-01-27,2018-12-31

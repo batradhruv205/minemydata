@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Jun Yu 陳晉宇",sfclicrec.asp?p=83993,,,Rep,2017-07-20,
-"Huang, Huihui 黃徽徽",sfclicrec.asp?p=1876871,,,Rep,2015-08-07,
-"Kayama, Hitoshi 香山仁",sfclicrec.asp?p=88519,,,RO,2015-08-26,
-"Kurasako, Hideaki 倉迫英嘉",sfclicrec.asp?p=88520,,,Rep,2014-11-05,2014-12-16
-"Kurasako, Hideaki 倉迫英嘉",sfclicrec.asp?p=88520,,,RO,2014-12-16,2017-04-28
-"Kwok, Tak Wang (SFC:AEB959) 郭德宏",sfclicrec.asp?p=2341732,,,RO,2014-10-15,
-"Li, Zhe (SFC:BEZ814) 李哲",sfclicrec.asp?p=2390980,,,Rep,2015-03-11,2017-05-26
-"Li, Zongjun 李宗軍",sfclicrec.asp?p=2341733,,,RO,2014-10-15,2015-06-01
-"Wu, Jonathan Sheung Kai 伍尚楷",sfclicrec.asp?p=2386526,,M,RO,2015-02-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Jun Yu 陳晉宇",None,sfclicrec.asp?p=83993,ARK106,http://www.sfc.hk/publicregWeb/indi/ARK106/licenceRecord,,,Rep,7/20/2017,
+"Huang, Huihui 黃徽徽",None,sfclicrec.asp?p=1876871,AZH514,http://www.sfc.hk/publicregWeb/indi/AZH514/licenceRecord,,,Rep,8/7/2015,
+"Kayama, Hitoshi 香山仁",None,sfclicrec.asp?p=88519,AHQ974,http://www.sfc.hk/publicregWeb/indi/AHQ974/licenceRecord,,,RO,8/26/2015,
+"Kurasako, Hideaki 倉迫英嘉",None,sfclicrec.asp?p=88520,APN840,http://www.sfc.hk/publicregWeb/indi/APN840/licenceRecord,,,Rep,11/5/2014,12/16/2014
+"Kurasako, Hideaki 倉迫英嘉",None,sfclicrec.asp?p=88520,APN840,http://www.sfc.hk/publicregWeb/indi/APN840/licenceRecord,,,RO,12/16/2014,4/28/2017
+"Kwok, Tak Wang (SFC:AEB959) 郭德宏",None,sfclicrec.asp?p=2341732,AEB959,http://www.sfc.hk/publicregWeb/indi/AEB959/licenceRecord,,,RO,10/15/2014,
+"Li, Zhe (SFC:BEZ814) 李哲",None,sfclicrec.asp?p=2390980,BEZ814,http://www.sfc.hk/publicregWeb/indi/BEZ814/licenceRecord,,,Rep,3/11/2015,5/26/2017
+"Li, Zongjun 李宗軍",None,sfclicrec.asp?p=2341733,BDM071,http://www.sfc.hk/publicregWeb/indi/BDM071/licenceRecord,,,RO,10/15/2014,6/1/2015
+"Wu, Jonathan Sheung Kai 伍尚楷",None,sfclicrec.asp?p=2386526,BEZ383,http://www.sfc.hk/publicregWeb/indi/BEZ383/licenceRecord,,M,RO,2/24/2015,

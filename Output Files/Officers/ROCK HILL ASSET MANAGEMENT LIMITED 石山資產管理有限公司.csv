@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Siu Wai (SFC:AUB313) 陳少威",sfclicrec.asp?p=92406,,,RO,2017-06-21,
-"Chan, Tsang Shing 陳增城",sfclicrec.asp?p=74020,,,RO,2017-06-21,
-"Hong, Shaozhi 洪少秩",sfclicrec.asp?p=23064291,,,Rep,2019-04-18,
-"Lam, Yuen Hei (SFC:AXF651) 林婉琋",sfclicrec.asp?p=81858,,,Rep,2019-04-15,
-"Wu, Yichao (SFC:AVI107) 吳逸超",sfclicrec.asp?p=81882,,,Rep,2019-04-24,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Siu Wai (SFC:AUB313) 陳少威",None,sfclicrec.asp?p=92406,AUB313,http://www.sfc.hk/publicregWeb/indi/AUB313/licenceRecord,,,RO,2017-06-21,
+"Chan, Tsang Shing 陳增城",None,sfclicrec.asp?p=74020,AOT840,http://www.sfc.hk/publicregWeb/indi/AOT840/licenceRecord,,,RO,2017-06-21,
+"Hong, Shaozhi 洪少秩",None,sfclicrec.asp?p=23064291,BOE497,http://www.sfc.hk/publicregWeb/indi/BOE497/licenceRecord,,,Rep,2019-04-18,
+"Lam, Yuen Hei (SFC:AXF651) 林婉琋",None,sfclicrec.asp?p=81858,AXF651,http://www.sfc.hk/publicregWeb/indi/AXF651/licenceRecord,,,Rep,2019-04-15,
+"Wu, Yichao (SFC:AVI107) 吳逸超",None,sfclicrec.asp?p=81882,AVI107,http://www.sfc.hk/publicregWeb/indi/AVI107/licenceRecord,,,Rep,2019-04-24,

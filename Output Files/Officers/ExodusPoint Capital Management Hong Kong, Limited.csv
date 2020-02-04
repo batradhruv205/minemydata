@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Anthony Chun Yue 張振宇",sfclicrec.asp?p=116161,38,M,RO,2019-12-12,
-"Dunand-Chatellet, Clement Pierre ",sfclicrec.asp?p=24018524,,M,RO,2019-12-12,
-"Liu, Xinyu (SFC:BOW987) 劉新禹",sfclicrec.asp?p=24018525,,,RO,2019-12-12,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Anthony Chun Yue 張振宇",None,sfclicrec.asp?p=116161,AMC946,http://www.sfc.hk/publicregWeb/indi/AMC946/licenceRecord,38.0,M,RO,2019-12-12,
+"Dunand-Chatellet, Clement Pierre ",None,sfclicrec.asp?p=24018524,BOW984,http://www.sfc.hk/publicregWeb/indi/BOW984/licenceRecord,,M,RO,2019-12-12,
+"Liu, Xinyu (SFC:BOW987) 劉新禹",None,sfclicrec.asp?p=24018525,BOW987,http://www.sfc.hk/publicregWeb/indi/BOW987/licenceRecord,,,RO,2019-12-12,

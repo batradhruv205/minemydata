@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Huang, Guang (SFC:AVS141) 黃廣",sfclicrec.asp?p=130174,,,RO,2018-06-26,
-"Luo, Xinghua 羅興華",sfclicrec.asp?p=17966276,,,RO,2018-06-26,
-"Wu, Di (SFC:BOG730) 吴迪",sfclicrec.asp?p=23473730,,,RO,2019-07-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Huang, Guang (SFC:AVS141) 黃廣",None,sfclicrec.asp?p=130174,AVS141,http://www.sfc.hk/publicregWeb/indi/AVS141/licenceRecord,,,RO,2018-06-26,
+"Luo, Xinghua 羅興華",None,sfclicrec.asp?p=17966276,BLE053,http://www.sfc.hk/publicregWeb/indi/BLE053/licenceRecord,,,RO,2018-06-26,
+"Wu, Di (SFC:BOG730) 吴迪",None,sfclicrec.asp?p=23473730,BOG730,http://www.sfc.hk/publicregWeb/indi/BOG730/licenceRecord,,,RO,2019-07-26,

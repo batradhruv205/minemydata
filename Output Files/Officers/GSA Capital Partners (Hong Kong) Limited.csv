@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chenevier, Antoine Philippe Jean Marie ",sfclicrec.asp?p=16335445,,M,Rep,2018-06-01,2018-10-02
-"Chenevier, Antoine Philippe Jean Marie ",sfclicrec.asp?p=16335445,,M,RO,2018-10-02,
-"Cheung, Ka Kit (SFC:AOI950) 張家傑",sfclicrec.asp?p=77141,,,RO,2018-05-02,2018-06-05
-"Du, Jinsong (SFC:AMF177) 杜勁松",sfclicrec.asp?p=77278,,,Rep,2018-06-11,2019-10-21
-"Jain, Shubham (SFC:BNM913) ",sfclicrec.asp?p=22123066,,,Rep,2018-09-03,2019-10-21
-"O'Neile, James Finlay ",sfclicrec.asp?p=90663,,M,RO,2018-05-02,2019-10-21
-"Sasaki, Rie ",sfclicrec.asp?p=87109,,,RO,2018-05-02,2019-10-21
-"Sim, Colin Ching Wern ",sfclicrec.asp?p=97108,,M,Rep,2018-11-02,2019-08-16
-"Spence, Kevin (SFC:BOH486) ",sfclicrec.asp?p=23554042,,M,RO,2019-08-15,
-"Zhu, Kangping 諸康平",sfclicrec.asp?p=22495791,,,Rep,2018-11-30,2019-10-21
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chenevier, Antoine Philippe Jean Marie ",None,sfclicrec.asp?p=16335445,BMZ545,http://www.sfc.hk/publicregWeb/indi/BMZ545/licenceRecord,,M,Rep,2018-06-01,2018-10-02
+"Chenevier, Antoine Philippe Jean Marie ",None,sfclicrec.asp?p=16335445,BMZ545,http://www.sfc.hk/publicregWeb/indi/BMZ545/licenceRecord,,M,RO,2018-10-02,
+"Cheung, Ka Kit (SFC:AOI950) 張家傑",None,sfclicrec.asp?p=77141,AOI950,http://www.sfc.hk/publicregWeb/indi/AOI950/licenceRecord,,,RO,2018-05-02,2018-06-05
+"Du, Jinsong (SFC:AMF177) 杜勁松",None,sfclicrec.asp?p=77278,AMF177,http://www.sfc.hk/publicregWeb/indi/AMF177/licenceRecord,,,Rep,2018-06-11,2019-10-21
+"Jain, Shubham (SFC:BNM913) ",None,sfclicrec.asp?p=22123066,BNM913,http://www.sfc.hk/publicregWeb/indi/BNM913/licenceRecord,,,Rep,2018-09-03,2019-10-21
+"O'Neile, James Finlay ",None,sfclicrec.asp?p=90663,ALV097,http://www.sfc.hk/publicregWeb/indi/ALV097/licenceRecord,,M,RO,2018-05-02,2019-10-21
+"Sasaki, Rie ",None,sfclicrec.asp?p=87109,AOY582,http://www.sfc.hk/publicregWeb/indi/AOY582/licenceRecord,,,RO,2018-05-02,2019-10-21
+"Sim, Colin Ching Wern ",None,sfclicrec.asp?p=97108,AGN521,http://www.sfc.hk/publicregWeb/indi/AGN521/licenceRecord,,M,Rep,2018-11-02,2019-08-16
+"Spence, Kevin (SFC:BOH486) ",None,sfclicrec.asp?p=23554042,BOH486,http://www.sfc.hk/publicregWeb/indi/BOH486/licenceRecord,,M,RO,2019-08-15,
+"Zhu, Kangping 諸康平",None,sfclicrec.asp?p=22495791,BNV564,http://www.sfc.hk/publicregWeb/indi/BNV564/licenceRecord,,,Rep,2018-11-30,2019-10-21

@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Huang, Liang (SFC:AXH215) 黃靚",sfclicrec.asp?p=94576,,,RO,2017-04-07,
-"Li, Jinyun (SFC:BEM074) 李今韵",sfclicrec.asp?p=2347907,,,Rep,2017-07-19,
-"Liu, Shijie (SFC:BOE207) 刘诗洁",sfclicrec.asp?p=22972355,,,Rep,2019-03-29,
-"Zeng, Jia (SFC:BMR925) 曾嘉",sfclicrec.asp?p=22674090,,,Rep,2019-01-21,
-"Zhang, Hao (SFC:BHY917) 张浩",sfclicrec.asp?p=7148619,,,RO,2017-04-07,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Huang, Liang (SFC:AXH215) 黃靚",None,sfclicrec.asp?p=94576,AXH215,http://www.sfc.hk/publicregWeb/indi/AXH215/licenceRecord,,,RO,2017-04-07,
+"Li, Jinyun (SFC:BEM074) 李今韵",None,sfclicrec.asp?p=2347907,BEM074,http://www.sfc.hk/publicregWeb/indi/BEM074/licenceRecord,,,Rep,2017-07-19,
+"Liu, Shijie (SFC:BOE207) 刘诗洁",None,sfclicrec.asp?p=22972355,BOE207,http://www.sfc.hk/publicregWeb/indi/BOE207/licenceRecord,,,Rep,2019-03-29,
+"Zeng, Jia (SFC:BMR925) 曾嘉",None,sfclicrec.asp?p=22674090,BMR925,http://www.sfc.hk/publicregWeb/indi/BMR925/licenceRecord,,,Rep,2019-01-21,
+"Zhang, Hao (SFC:BHY917) 张浩",None,sfclicrec.asp?p=7148619,BHY917,http://www.sfc.hk/publicregWeb/indi/BHY917/licenceRecord,,,RO,2017-04-07,

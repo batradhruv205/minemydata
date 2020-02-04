@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Chun Yin (SFC:BAF372) 陳俊賢",sfclicrec.asp?p=1956656,,,RO,2019-03-01,2019-08-27
-"Choy, Christopher Kwong Wa 蔡光華",sfclicrec.asp?p=92940,56,M,RO,2019-03-01,
-"Lee, Tsz Yin Jonathan 李祉賢",sfclicrec.asp?p=12053129,,,Rep,2019-03-18,
-"Leung, Ronald Ho Pong 梁皓邦",sfclicrec.asp?p=109646,,M,RO,2019-03-01,
-"So, Jennifer Lai Shan 蘇勵姍",sfclicrec.asp?p=88498,,F,Rep,2019-03-15,
-"Xie, Mali 謝瑪麗",sfclicrec.asp?p=11574804,,,Rep,2019-08-12,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Chun Yin (SFC:BAF372) 陳俊賢",None,sfclicrec.asp?p=1956656,BAF372,http://www.sfc.hk/publicregWeb/indi/BAF372/licenceRecord,,,RO,2019-03-01,2019-08-27
+"Choy, Christopher Kwong Wa 蔡光華",None,sfclicrec.asp?p=92940,AAK430,http://www.sfc.hk/publicregWeb/indi/AAK430/licenceRecord,56.0,M,RO,2019-03-01,
+"Lee, Tsz Yin Jonathan 李祉賢",None,sfclicrec.asp?p=12053129,BKM304,http://www.sfc.hk/publicregWeb/indi/BKM304/licenceRecord,,,Rep,2019-03-18,
+"Leung, Ronald Ho Pong 梁皓邦",None,sfclicrec.asp?p=109646,AGN975,http://www.sfc.hk/publicregWeb/indi/AGN975/licenceRecord,,M,RO,2019-03-01,
+"So, Jennifer Lai Shan 蘇勵姍",None,sfclicrec.asp?p=88498,AHA295,http://www.sfc.hk/publicregWeb/indi/AHA295/licenceRecord,,F,Rep,2019-03-15,
+"Xie, Mali 謝瑪麗",None,sfclicrec.asp?p=11574804,BJM104,http://www.sfc.hk/publicregWeb/indi/BJM104/licenceRecord,,,Rep,2019-08-12,

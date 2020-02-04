@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Jiaqi (SFC:BEL449) 陳嘉琪",sfclicrec.asp?p=2341174,,,Rep,2018-04-24,
-"Chow, Vanessa Ho Shan 周浩珊",sfclicrec.asp?p=128779,,F,Rep,2018-10-19,
-"Ho, Vincent Ching Wing 何正永",sfclicrec.asp?p=86513,,M,Rep,2018-04-24,
-"Ip, Brian Tze Kai 葉子楷",sfclicrec.asp?p=22327926,,M,Rep,2018-10-19,2019-02-22
-"Li, Yichao 李軼超",sfclicrec.asp?p=2205292,,,Rep,2018-04-24,
-"Peng, Andy Xihui 彭喜輝",sfclicrec.asp?p=100245,,,RO,2018-03-23,
-"Qian, Chengyuan 钱诚源",sfclicrec.asp?p=2554659,,,Rep,2019-10-21,
-"Zhang, Ziquan 張自權",sfclicrec.asp?p=13213867,,,RO,2018-03-23,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Jiaqi (SFC:BEL449) 陳嘉琪",None,sfclicrec.asp?p=2341174,BEL449,http://www.sfc.hk/publicregWeb/indi/BEL449/licenceRecord,,,Rep,2018-04-24,
+"Chow, Vanessa Ho Shan 周浩珊",None,sfclicrec.asp?p=128779,ATY491,http://www.sfc.hk/publicregWeb/indi/ATY491/licenceRecord,,F,Rep,2018-10-19,
+"Ho, Vincent Ching Wing 何正永",None,sfclicrec.asp?p=86513,AGJ430,http://www.sfc.hk/publicregWeb/indi/AGJ430/licenceRecord,,M,Rep,2018-04-24,
+"Ip, Brian Tze Kai 葉子楷",None,sfclicrec.asp?p=22327926,BNR260,http://www.sfc.hk/publicregWeb/indi/BNR260/licenceRecord,,M,Rep,2018-10-19,2019-02-22
+"Li, Yichao 李軼超",None,sfclicrec.asp?p=2205292,BCX226,http://www.sfc.hk/publicregWeb/indi/BCX226/licenceRecord,,,Rep,2018-04-24,
+"Peng, Andy Xihui 彭喜輝",None,sfclicrec.asp?p=100245,ATO643,http://www.sfc.hk/publicregWeb/indi/ATO643/licenceRecord,,,RO,2018-03-23,
+"Qian, Chengyuan 钱诚源",None,sfclicrec.asp?p=2554659,BHF780,http://www.sfc.hk/publicregWeb/indi/BHF780/licenceRecord,,,Rep,2019-10-21,
+"Zhang, Ziquan 張自權",None,sfclicrec.asp?p=13213867,BLP942,http://www.sfc.hk/publicregWeb/indi/BLP942/licenceRecord,,,RO,2018-03-23,

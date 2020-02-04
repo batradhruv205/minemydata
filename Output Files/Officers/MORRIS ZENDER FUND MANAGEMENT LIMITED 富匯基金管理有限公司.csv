@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Fung, Man Chun 馮文俊",sfclicrec.asp?p=51725,,,RO,2004-09-21,2007-07-18
-"Ho, Steven Chi Hang 何智衡",sfclicrec.asp?p=117567,,,Rep,2007-06-01,2011-03-24
-"Leung, Edmund Shiu Lunn 梁兆綸",sfclicrec.asp?p=89924,,M,Rep,2008-09-16,2014-05-02
-"Liu, Shiu Man 廖兆雯",sfclicrec.asp?p=120582,,,Rep,2007-03-06,2008-04-08
-"Ng, Man Kwong (SFC:AKY199) 吳文廣",sfclicrec.asp?p=89922,,,RO,2004-09-21,
-"Poon, Ronald King Tou 潘敬濤",sfclicrec.asp?p=72873,,M,Rep,2007-02-01,2011-02-21
-"Tse, Moon Sim Kuen 謝嬋娟",sfclicrec.asp?p=89923,,,RO,2007-03-21,
-"Tso, Tak Wai Edmund 曹德威",sfclicrec.asp?p=89925,,,Rep,2007-02-07,2012-12-20
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Fung, Man Chun 馮文俊",None,sfclicrec.asp?p=51725,ADC989,http://www.sfc.hk/publicregWeb/indi/ADC989/licenceRecord,,,RO,2004-09-21,2007-07-18
+"Ho, Steven Chi Hang 何智衡",None,sfclicrec.asp?p=117567,AMU900,http://www.sfc.hk/publicregWeb/indi/AMU900/licenceRecord,,,Rep,2007-06-01,2011-03-24
+"Leung, Edmund Shiu Lunn 梁兆綸",None,sfclicrec.asp?p=89924,AOU868,http://www.sfc.hk/publicregWeb/indi/AOU868/licenceRecord,,M,Rep,2008-09-16,2014-05-02
+"Liu, Shiu Man 廖兆雯",None,sfclicrec.asp?p=120582,AOL806,http://www.sfc.hk/publicregWeb/indi/AOL806/licenceRecord,,,Rep,2007-03-06,2008-04-08
+"Ng, Man Kwong (SFC:AKY199) 吳文廣",None,sfclicrec.asp?p=89922,AKY199,http://www.sfc.hk/publicregWeb/indi/AKY199/licenceRecord,,,RO,2004-09-21,
+"Poon, Ronald King Tou 潘敬濤",None,sfclicrec.asp?p=72873,ANH678,http://www.sfc.hk/publicregWeb/indi/ANH678/licenceRecord,,M,Rep,2007-02-01,2011-02-21
+"Tse, Moon Sim Kuen 謝嬋娟",None,sfclicrec.asp?p=89923,AKY538,http://www.sfc.hk/publicregWeb/indi/AKY538/licenceRecord,,,RO,2007-03-21,
+"Tso, Tak Wai Edmund 曹德威",None,sfclicrec.asp?p=89925,AMS554,http://www.sfc.hk/publicregWeb/indi/AMS554/licenceRecord,,,Rep,2007-02-07,2012-12-20

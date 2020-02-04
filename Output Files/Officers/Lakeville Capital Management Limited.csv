@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Michelle Shun Nga 陳淳雅",sfclicrec.asp?p=24139164,,F,Rep,2020-01-20,
-"Chan, Wei-Jin Christopher 陳偉仁",sfclicrec.asp?p=14425558,,,Rep,2018-04-26,2018-05-21
-"Chan, Wei-Jin Christopher 陳偉仁",sfclicrec.asp?p=14425558,,,RO,2018-05-21,2019-11-30
-"Hui, Jonathan Kim Pong 許建邦",sfclicrec.asp?p=94020,,M,Rep,2016-09-23,2016-09-30
-"Lee, Shu Nung 李樹能",sfclicrec.asp?p=2630436,,,RO,2016-09-07,2018-03-31
-"Man, Kong Sing 文港昇",sfclicrec.asp?p=2107776,,,Rep,2016-12-30,2018-03-23
-"Man, Kong Sing 文港昇",sfclicrec.asp?p=2107776,,,RO,2018-03-23,
-"Woo, Stephen Heng Che 吳恒澤",sfclicrec.asp?p=102553,,M,RO,2016-09-07,
-"Zhou, Henry ",sfclicrec.asp?p=2521659,,M,Rep,2020-01-16,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Michelle Shun Nga 陳淳雅",None,sfclicrec.asp?p=24139164,BPC743,http://www.sfc.hk/publicregWeb/indi/BPC743/licenceRecord,,F,Rep,2020-01-20,
+"Chan, Wei-Jin Christopher 陳偉仁",None,sfclicrec.asp?p=14425558,AMA925,http://www.sfc.hk/publicregWeb/indi/AMA925/licenceRecord,,,Rep,2018-04-26,2018-05-21
+"Chan, Wei-Jin Christopher 陳偉仁",None,sfclicrec.asp?p=14425558,AMA925,http://www.sfc.hk/publicregWeb/indi/AMA925/licenceRecord,,,RO,2018-05-21,2019-11-30
+"Hui, Jonathan Kim Pong 許建邦",None,sfclicrec.asp?p=94020,AJF934,http://www.sfc.hk/publicregWeb/indi/AJF934/licenceRecord,,M,Rep,2016-09-23,2016-09-30
+"Lee, Shu Nung 李樹能",None,sfclicrec.asp?p=2630436,BHO663,http://www.sfc.hk/publicregWeb/indi/BHO663/licenceRecord,,,RO,2016-09-07,2018-03-31
+"Man, Kong Sing 文港昇",None,sfclicrec.asp?p=2107776,BBQ351,http://www.sfc.hk/publicregWeb/indi/BBQ351/licenceRecord,,,Rep,2016-12-30,2018-03-23
+"Man, Kong Sing 文港昇",None,sfclicrec.asp?p=2107776,BBQ351,http://www.sfc.hk/publicregWeb/indi/BBQ351/licenceRecord,,,RO,2018-03-23,
+"Woo, Stephen Heng Che 吳恒澤",None,sfclicrec.asp?p=102553,ACA876,http://www.sfc.hk/publicregWeb/indi/ACA876/licenceRecord,,M,RO,2016-09-07,
+"Zhou, Henry ",None,sfclicrec.asp?p=2521659,BGT159,http://www.sfc.hk/publicregWeb/indi/BGT159/licenceRecord,,M,Rep,2020-01-16,

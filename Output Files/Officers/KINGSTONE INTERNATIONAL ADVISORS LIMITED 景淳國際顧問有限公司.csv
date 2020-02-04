@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Fung, Sabina Nga Chung 馮雅頌",sfclicrec.asp?p=22665957,,,Rep,2019-01-18,
-"Heddad, Moncef ",sfclicrec.asp?p=2315955,,,Rep,2019-05-15,2019-09-17
-"Poon, Alex Kwok Tung 潘國東",sfclicrec.asp?p=100449,,M,RO,2015-08-21,
-"Shum, Connie Shan Mui 沈珊梅",sfclicrec.asp?p=82029,,F,RO,2015-08-21,
-"Tam, Ho Yin (SFC:BNP538) 譚浩然",sfclicrec.asp?p=22466099,,,Rep,2018-11-22,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Fung, Sabina Nga Chung 馮雅頌",None,sfclicrec.asp?p=22665957,ADI123,http://www.sfc.hk/publicregWeb/indi/ADI123/licenceRecord,,,Rep,2019-01-18,
+"Heddad, Moncef ",None,sfclicrec.asp?p=2315955,BEC605,http://www.sfc.hk/publicregWeb/indi/BEC605/licenceRecord,,,Rep,2019-05-15,2019-09-17
+"Poon, Alex Kwok Tung 潘國東",None,sfclicrec.asp?p=100449,AGN696,http://www.sfc.hk/publicregWeb/indi/AGN696/licenceRecord,,M,RO,2015-08-21,
+"Shum, Connie Shan Mui 沈珊梅",None,sfclicrec.asp?p=82029,AIL393,http://www.sfc.hk/publicregWeb/indi/AIL393/licenceRecord,,F,RO,2015-08-21,
+"Tam, Ho Yin (SFC:BNP538) 譚浩然",None,sfclicrec.asp?p=22466099,BNP538,http://www.sfc.hk/publicregWeb/indi/BNP538/licenceRecord,,,Rep,2018-11-22,

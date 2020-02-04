@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chow, Wai Man (SFC:ALV215) 周慧敏",sfclicrec.asp?p=68878,,,RO,2009-11-12,2013-12-09
-"Lau, Chun Yu (SFC:AYJ055) 劉俊瑜",sfclicrec.asp?p=134701,,,RO,2013-10-11,
-"Lee, Kwong Wang 李光宏",sfclicrec.asp?p=83710,,,RO,2009-05-04,
-"Li, Siu Leung (SFC:AIU434) 李少良",sfclicrec.asp?p=112496,,,RO,2003-12-24,2009-05-01
-"Lin, Tak Leung 練德良",sfclicrec.asp?p=112492,,,RO,2006-03-10,2009-11-13
-"Ng, Chi Wing (SFC:AAA271) 吳志榮",sfclicrec.asp?p=100522,,,Rep,2004-06-15,2004-07-15
-"Wong, Man Ning 黃萬寧",sfclicrec.asp?p=101875,,,RO,2003-12-24,2005-09-30
-"Yip, James 葉強華",sfclicrec.asp?p=16730,67,M,RO,2005-06-07,2006-03-14
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chow, Wai Man (SFC:ALV215) 周慧敏",None,sfclicrec.asp?p=68878,ALV215,http://www.sfc.hk/publicregWeb/indi/ALV215/licenceRecord,,,RO,2009-11-12,2013-12-09
+"Lau, Chun Yu (SFC:AYJ055) 劉俊瑜",None,sfclicrec.asp?p=134701,AYJ055,http://www.sfc.hk/publicregWeb/indi/AYJ055/licenceRecord,,,RO,2013-10-11,
+"Lee, Kwong Wang 李光宏",None,sfclicrec.asp?p=83710,APJ676,http://www.sfc.hk/publicregWeb/indi/APJ676/licenceRecord,,,RO,2009-05-04,
+"Li, Siu Leung (SFC:AIU434) 李少良",None,sfclicrec.asp?p=112496,AIU434,http://www.sfc.hk/publicregWeb/indi/AIU434/licenceRecord,,,RO,2003-12-24,2009-05-01
+"Lin, Tak Leung 練德良",None,sfclicrec.asp?p=112492,AIU424,http://www.sfc.hk/publicregWeb/indi/AIU424/licenceRecord,,,RO,2006-03-10,2009-11-13
+"Ng, Chi Wing (SFC:AAA271) 吳志榮",None,sfclicrec.asp?p=100522,AAA271,http://www.sfc.hk/publicregWeb/indi/AAA271/licenceRecord,,,Rep,2004-06-15,2004-07-15
+"Wong, Man Ning 黃萬寧",None,sfclicrec.asp?p=101875,ABD513,http://www.sfc.hk/publicregWeb/indi/ABD513/licenceRecord,,,RO,2003-12-24,2005-09-30
+"Yip, James 葉強華",None,sfclicrec.asp?p=16730,ADY915,http://www.sfc.hk/publicregWeb/indi/ADY915/licenceRecord,67.0,M,RO,2005-06-07,2006-03-14

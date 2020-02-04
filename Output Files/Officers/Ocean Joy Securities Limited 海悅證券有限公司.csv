@@ -1,9 +1,9 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Jiehan 陳劼晗",sfclicrec.asp?p=135606,,,Rep,2019-07-24,2019-11-22
-"Chow, Chui In 周翠研",sfclicrec.asp?p=12755769,,,Rep,2019-03-21,2019-04-01
-"Chow, Chui In 周翠研",sfclicrec.asp?p=12755769,,,Rep,2019-04-15,
-"Lam, Ka Kin 林嘉健",sfclicrec.asp?p=72508,,,Rep,2018-10-10,2019-10-09
-"Lam, Ka Kin 林嘉健",sfclicrec.asp?p=72508,,,RO,2019-10-09,
-"Lui, Shiu Hong 雷兆康",sfclicrec.asp?p=94952,,,RO,2018-07-11,
-"Ma, Ka Chuen 馬家銓",sfclicrec.asp?p=96294,,,Rep,2018-11-02,
-"Ma, Martini Tsang Kit 馬增傑",sfclicrec.asp?p=96025,,,RO,2018-07-11,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Jiehan 陳劼晗",None,sfclicrec.asp?p=135606,AYS572,http://www.sfc.hk/publicregWeb/indi/AYS572/licenceRecord,,,Rep,2019-07-24,2019-11-22
+"Chow, Chui In 周翠研",None,sfclicrec.asp?p=12755769,BLW080,http://www.sfc.hk/publicregWeb/indi/BLW080/licenceRecord,,,Rep,2019-03-21,2019-04-01
+"Chow, Chui In 周翠研",None,sfclicrec.asp?p=12755769,BLW080,http://www.sfc.hk/publicregWeb/indi/BLW080/licenceRecord,,,Rep,2019-04-15,
+"Lam, Ka Kin 林嘉健",None,sfclicrec.asp?p=72508,AWY522,http://www.sfc.hk/publicregWeb/indi/AWY522/licenceRecord,,,Rep,2018-10-10,2019-10-09
+"Lam, Ka Kin 林嘉健",None,sfclicrec.asp?p=72508,AWY522,http://www.sfc.hk/publicregWeb/indi/AWY522/licenceRecord,,,RO,2019-10-09,
+"Lui, Shiu Hong 雷兆康",None,sfclicrec.asp?p=94952,ALY654,http://www.sfc.hk/publicregWeb/indi/ALY654/licenceRecord,,,RO,2018-07-11,
+"Ma, Ka Chuen 馬家銓",None,sfclicrec.asp?p=96294,ACN826,http://www.sfc.hk/publicregWeb/indi/ACN826/licenceRecord,,,Rep,2018-11-02,
+"Ma, Martini Tsang Kit 馬增傑",None,sfclicrec.asp?p=96025,ADZ865,http://www.sfc.hk/publicregWeb/indi/ADZ865/licenceRecord,,,RO,2018-07-11,

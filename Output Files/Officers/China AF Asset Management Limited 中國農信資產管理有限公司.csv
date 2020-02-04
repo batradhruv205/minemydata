@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Kon Kai 陳幹佳",sfclicrec.asp?p=88746,,,Rep,2018-09-06,2018-09-24
-"Chan, Kon Kai 陳幹佳",sfclicrec.asp?p=88746,,,RO,2018-09-24,
-"Ho, Wing Hong (SFC:BOS863) 何永康",sfclicrec.asp?p=23776836,,,Rep,2019-10-11,2019-12-20
-"Kwok, Felix Man Chun 郭文駿",sfclicrec.asp?p=96711,,M,Rep,2018-05-02,2018-07-03
-"Kwok, Felix Man Chun 郭文駿",sfclicrec.asp?p=96711,,M,RO,2018-07-03,2018-09-03
-"Shum, Daniel Kei Yiu 沈其耀",sfclicrec.asp?p=90718,,M,RO,2017-08-17,2018-11-16
-"Siu, Wing Man 蕭永文",sfclicrec.asp?p=1981931,,,Rep,2018-11-19,2018-12-12
-"Siu, Wing Man 蕭永文",sfclicrec.asp?p=1981931,,,RO,2018-12-12,
-"Yang, Fang (SFC:BOF933) 楊芳",sfclicrec.asp?p=22945484,,,Rep,2019-03-22,
-"Zhang, Tingfei 張婷菲",sfclicrec.asp?p=78361,,,RO,2017-08-17,2018-07-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Kon Kai 陳幹佳",None,sfclicrec.asp?p=88746,ADW708,http://www.sfc.hk/publicregWeb/indi/ADW708/licenceRecord,,,Rep,2018-09-06,2018-09-24
+"Chan, Kon Kai 陳幹佳",None,sfclicrec.asp?p=88746,ADW708,http://www.sfc.hk/publicregWeb/indi/ADW708/licenceRecord,,,RO,2018-09-24,
+"Ho, Wing Hong (SFC:BOS863) 何永康",None,sfclicrec.asp?p=23776836,BOS863,http://www.sfc.hk/publicregWeb/indi/BOS863/licenceRecord,,,Rep,2019-10-11,2019-12-20
+"Kwok, Felix Man Chun 郭文駿",None,sfclicrec.asp?p=96711,AWS974,http://www.sfc.hk/publicregWeb/indi/AWS974/licenceRecord,,M,Rep,2018-05-02,2018-07-03
+"Kwok, Felix Man Chun 郭文駿",None,sfclicrec.asp?p=96711,AWS974,http://www.sfc.hk/publicregWeb/indi/AWS974/licenceRecord,,M,RO,2018-07-03,2018-09-03
+"Shum, Daniel Kei Yiu 沈其耀",None,sfclicrec.asp?p=90718,ALY610,http://www.sfc.hk/publicregWeb/indi/ALY610/licenceRecord,,M,RO,2017-08-17,2018-11-16
+"Siu, Wing Man 蕭永文",None,sfclicrec.asp?p=1981931,BAJ174,http://www.sfc.hk/publicregWeb/indi/BAJ174/licenceRecord,,,Rep,2018-11-19,2018-12-12
+"Siu, Wing Man 蕭永文",None,sfclicrec.asp?p=1981931,BAJ174,http://www.sfc.hk/publicregWeb/indi/BAJ174/licenceRecord,,,RO,2018-12-12,
+"Yang, Fang (SFC:BOF933) 楊芳",None,sfclicrec.asp?p=22945484,BOF933,http://www.sfc.hk/publicregWeb/indi/BOF933/licenceRecord,,,Rep,2019-03-22,
+"Zhang, Tingfei 張婷菲",None,sfclicrec.asp?p=78361,AUA545,http://www.sfc.hk/publicregWeb/indi/AUA545/licenceRecord,,,RO,2017-08-17,2018-07-30

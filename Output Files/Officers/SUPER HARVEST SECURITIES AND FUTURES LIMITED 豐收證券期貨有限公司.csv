@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Ka Ho (SFC:AWF460) 陳家豪",sfclicrec.asp?p=80265,,,RO,2018-12-07,2019-06-08
-"Cheng, Wai Leung (SFC:ABH991) 鄭偉良",sfclicrec.asp?p=74168,,,RO,2018-12-07,
-"Lam, Chun Yuk 林俊旭",sfclicrec.asp?p=91183,,,Rep,2019-02-27,2019-04-23
-"Lam, Chun Yuk 林俊旭",sfclicrec.asp?p=91183,,,RO,2019-04-23,2019-05-31
-"Lee, Wah Kin 李華健",sfclicrec.asp?p=74040,,M,RO,2018-12-07,
-"Luk, Wai Tat 陸偉達",sfclicrec.asp?p=74058,,,Rep,2019-04-17,2020-01-15
-"Wong, Philip Chi Wah 黃智華",sfclicrec.asp?p=70130,,M,Rep,2019-10-24,2019-12-20
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Ka Ho (SFC:AWF460) 陳家豪",None,sfclicrec.asp?p=80265,AWF460,http://www.sfc.hk/publicregWeb/indi/AWF460/licenceRecord,,,RO,2018-12-07,2019-06-08
+"Cheng, Wai Leung (SFC:ABH991) 鄭偉良",None,sfclicrec.asp?p=74168,ABH991,http://www.sfc.hk/publicregWeb/indi/ABH991/licenceRecord,,,RO,2018-12-07,
+"Lam, Chun Yuk 林俊旭",None,sfclicrec.asp?p=91183,ARR348,http://www.sfc.hk/publicregWeb/indi/ARR348/licenceRecord,,,Rep,2019-02-27,2019-04-23
+"Lam, Chun Yuk 林俊旭",None,sfclicrec.asp?p=91183,ARR348,http://www.sfc.hk/publicregWeb/indi/ARR348/licenceRecord,,,RO,2019-04-23,2019-05-31
+"Lee, Wah Kin 李華健",None,sfclicrec.asp?p=74040,AAI124,http://www.sfc.hk/publicregWeb/indi/AAI124/licenceRecord,,M,RO,2018-12-07,
+"Luk, Wai Tat 陸偉達",None,sfclicrec.asp?p=74058,AUP822,http://www.sfc.hk/publicregWeb/indi/AUP822/licenceRecord,,,Rep,2019-04-17,2020-01-15
+"Wong, Philip Chi Wah 黃智華",None,sfclicrec.asp?p=70130,ABV200,http://www.sfc.hk/publicregWeb/indi/ABV200/licenceRecord,,M,Rep,2019-10-24,2019-12-20

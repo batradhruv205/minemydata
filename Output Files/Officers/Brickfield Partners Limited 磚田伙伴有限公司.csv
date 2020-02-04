@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chadha, Prashant ",sfclicrec.asp?p=2510228,,M,Rep,2019-04-04,
-"Cheung, Victor Chun Ying 張俊英",sfclicrec.asp?p=15336,46,M,RO,2019-01-30,
-"Ko, Wing Leong Algie 高永亮",sfclicrec.asp?p=22863002,,,Rep,2019-03-06,
-"Li, Ronald Wing Chung 李穎中",sfclicrec.asp?p=98586,,M,RO,2019-01-30,
-"Yuen, Curtis Chun Yiu 袁焌耀",sfclicrec.asp?p=70305,,M,Rep,2019-11-19,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chadha, Prashant ",None,sfclicrec.asp?p=2510228,BGQ083,http://www.sfc.hk/publicregWeb/indi/BGQ083/licenceRecord,,M,Rep,2019-04-04,
+"Cheung, Victor Chun Ying 張俊英",None,sfclicrec.asp?p=15336,ADS697,http://www.sfc.hk/publicregWeb/indi/ADS697/licenceRecord,46.0,M,RO,2019-01-30,
+"Ko, Wing Leong Algie 高永亮",None,sfclicrec.asp?p=22863002,BOD857,http://www.sfc.hk/publicregWeb/indi/BOD857/licenceRecord,,,Rep,2019-03-06,
+"Li, Ronald Wing Chung 李穎中",None,sfclicrec.asp?p=98586,ASU509,http://www.sfc.hk/publicregWeb/indi/ASU509/licenceRecord,,M,RO,2019-01-30,
+"Yuen, Curtis Chun Yiu 袁焌耀",None,sfclicrec.asp?p=70305,AXH949,http://www.sfc.hk/publicregWeb/indi/AXH949/licenceRecord,,M,Rep,2019-11-19,

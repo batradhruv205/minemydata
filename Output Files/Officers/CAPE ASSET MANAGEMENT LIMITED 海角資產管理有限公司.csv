@@ -1,16 +1,16 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Lap Kwan (SFC:AGK699) 陳立群",sfclicrec.asp?p=99841,,,Rep,2005-07-11,2008-04-25
-"Chan, Sai Ching 陳世清",sfclicrec.asp?p=98675,,,Rep,2005-07-11,
-"Chan, Tze Man 陳子敏",sfclicrec.asp?p=127147,,,Rep,2009-02-05,2010-07-27
-"Fujiwara, Shinya 藤原伸哉",sfclicrec.asp?p=112437,,,RO,2005-06-01,2009-08-31
-"Fukunaga, Masato 福永真人",sfclicrec.asp?p=98671,,,RO,2005-06-01,2016-12-28
-"Kam, Franklin Pak Wah 金百華",sfclicrec.asp?p=98676,,M,Rep,2011-07-18,2016-12-23
-"Kam, Franklin Pak Wah 金百華",sfclicrec.asp?p=98676,,M,RO,2016-12-23,
-"Kay, Fara Yuen Ling 紀婉玲",sfclicrec.asp?p=99606,,,Rep,2008-02-18,2011-05-13
-"Leung, Man Wai 梁文偉",sfclicrec.asp?p=105444,,,Rep,2005-09-22,2011-05-24
-"Li, Yan (SFC:ARW637) 李燕",sfclicrec.asp?p=98677,,,Rep,2008-12-18,2016-02-19
-"Lo, Pui Leung (SFC:AAD940) 羅霈良",sfclicrec.asp?p=98673,,,Rep,2005-12-09,2006-02-23
-"Lo, Pui Leung (SFC:AAD940) 羅霈良",sfclicrec.asp?p=98673,,,RO,2006-02-23,
-"Ogyu, Kenju (SFC:ADQ016) 荻生謙樹",sfclicrec.asp?p=100137,,,RO,2007-12-12,2008-04-30
-"Tong, King Hang 湯景恆",sfclicrec.asp?p=91345,,,RO,2005-06-01,2005-07-11
-"Yamamoto, Masahiko ",sfclicrec.asp?p=98674,,,RO,,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Lap Kwan (SFC:AGK699) 陳立群",None,sfclicrec.asp?p=99841,AGK699,http://www.sfc.hk/publicregWeb/indi/AGK699/licenceRecord,,,Rep,2005-07-11,2008-04-25
+"Chan, Sai Ching 陳世清",None,sfclicrec.asp?p=98675,AIO003,http://www.sfc.hk/publicregWeb/indi/AIO003/licenceRecord,,,Rep,2005-07-11,
+"Chan, Tze Man 陳子敏",None,sfclicrec.asp?p=127147,ARW650,http://www.sfc.hk/publicregWeb/indi/ARW650/licenceRecord,,,Rep,2009-02-05,2010-07-27
+"Fujiwara, Shinya 藤原伸哉",None,sfclicrec.asp?p=112437,AIS240,http://www.sfc.hk/publicregWeb/indi/AIS240/licenceRecord,,,RO,2005-06-01,2009-08-31
+"Fukunaga, Masato 福永真人",None,sfclicrec.asp?p=98671,AAZ157,http://www.sfc.hk/publicregWeb/indi/AAZ157/licenceRecord,,,RO,2005-06-01,2016-12-28
+"Kam, Franklin Pak Wah 金百華",None,sfclicrec.asp?p=98676,AAD811,http://www.sfc.hk/publicregWeb/indi/AAD811/licenceRecord,,M,Rep,2011-07-18,2016-12-23
+"Kam, Franklin Pak Wah 金百華",None,sfclicrec.asp?p=98676,AAD811,http://www.sfc.hk/publicregWeb/indi/AAD811/licenceRecord,,M,RO,2016-12-23,
+"Kay, Fara Yuen Ling 紀婉玲",None,sfclicrec.asp?p=99606,AQJ213,http://www.sfc.hk/publicregWeb/indi/AQJ213/licenceRecord,,,Rep,2008-02-18,2011-05-13
+"Leung, Man Wai 梁文偉",None,sfclicrec.asp?p=105444,AEU886,http://www.sfc.hk/publicregWeb/indi/AEU886/licenceRecord,,,Rep,2005-09-22,2011-05-24
+"Li, Yan (SFC:ARW637) 李燕",None,sfclicrec.asp?p=98677,ARW637,http://www.sfc.hk/publicregWeb/indi/ARW637/licenceRecord,,,Rep,2008-12-18,2016-02-19
+"Lo, Pui Leung (SFC:AAD940) 羅霈良",None,sfclicrec.asp?p=98673,AAD940,http://www.sfc.hk/publicregWeb/indi/AAD940/licenceRecord,,,Rep,2005-12-09,2006-02-23
+"Lo, Pui Leung (SFC:AAD940) 羅霈良",None,sfclicrec.asp?p=98673,AAD940,http://www.sfc.hk/publicregWeb/indi/AAD940/licenceRecord,,,RO,2006-02-23,
+"Ogyu, Kenju (SFC:ADQ016) 荻生謙樹",None,sfclicrec.asp?p=100137,ADQ016,http://www.sfc.hk/publicregWeb/indi/ADQ016/licenceRecord,,,RO,2007-12-12,2008-04-30
+"Tong, King Hang 湯景恆",None,sfclicrec.asp?p=91345,AKX333,http://www.sfc.hk/publicregWeb/indi/AKX333/licenceRecord,,,RO,2005-06-01,2005-07-11
+"Yamamoto, Masahiko ",None,sfclicrec.asp?p=98674,ABG936,http://www.sfc.hk/publicregWeb/indi/ABG936/licenceRecord,,,RO,,

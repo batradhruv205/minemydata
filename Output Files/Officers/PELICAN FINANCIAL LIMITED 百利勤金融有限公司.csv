@@ -1,11 +1,11 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Cheung, Mandy (SFC:BGN430) 張雯寧",sfclicrec.asp?p=2521660,,F,Rep,2019-02-25,
-"Jiang, Yuanzhen 蔣园禎",sfclicrec.asp?p=12606930,,,Rep,2020-01-14,
-"Lai, Joseph Hing Kwong 黎慶光",sfclicrec.asp?p=12630144,63,M,RO,2018-11-30,
-"Lee, Jeng Toa 李政韜",sfclicrec.asp?p=112696,,,RO,2018-04-13,
-"Leung, Fai Yee 梁輝兒",sfclicrec.asp?p=1969526,,,Rep,2018-04-24,
-"Leung, Frederick Chi Ching 梁子正",sfclicrec.asp?p=17335,62,M,Rep,2018-11-23,2019-02-11
-"Leung, Frederick Chi Ching 梁子正",sfclicrec.asp?p=17335,62,M,RO,2019-02-11,
-"Li, Charles Tak Kwong 李德光",sfclicrec.asp?p=55341,,M,RO,2018-04-13,
-"Tam, Soi Man 譚瑞雯",sfclicrec.asp?p=23135407,,,Rep,2019-05-06,2019-09-01
-"Tsang, Chun Lam 曾振霖",sfclicrec.asp?p=2587569,,,Rep,2018-04-24,2019-03-13
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Cheung, Mandy (SFC:BGN430) 張雯寧",None,sfclicrec.asp?p=2521660,BGN430,http://www.sfc.hk/publicregWeb/indi/BGN430/licenceRecord,,F,Rep,2019-02-25,
+"Jiang, Yuanzhen 蔣园禎",None,sfclicrec.asp?p=12606930,BLO468,http://www.sfc.hk/publicregWeb/indi/BLO468/licenceRecord,,,Rep,2020-01-14,
+"Lai, Joseph Hing Kwong 黎慶光",None,sfclicrec.asp?p=12630144,ADJ211,http://www.sfc.hk/publicregWeb/indi/ADJ211/licenceRecord,63.0,M,RO,2018-11-30,
+"Lee, Jeng Toa 李政韜",None,sfclicrec.asp?p=112696,AJA232,http://www.sfc.hk/publicregWeb/indi/AJA232/licenceRecord,,,RO,2018-04-13,
+"Leung, Fai Yee 梁輝兒",None,sfclicrec.asp?p=1969526,BAI189,http://www.sfc.hk/publicregWeb/indi/BAI189/licenceRecord,,,Rep,2018-04-24,
+"Leung, Frederick Chi Ching 梁子正",None,sfclicrec.asp?p=17335,AGN758,http://www.sfc.hk/publicregWeb/indi/AGN758/licenceRecord,62.0,M,Rep,2018-11-23,2019-02-11
+"Leung, Frederick Chi Ching 梁子正",None,sfclicrec.asp?p=17335,AGN758,http://www.sfc.hk/publicregWeb/indi/AGN758/licenceRecord,62.0,M,RO,2019-02-11,
+"Li, Charles Tak Kwong 李德光",None,sfclicrec.asp?p=55341,AFU611,http://www.sfc.hk/publicregWeb/indi/AFU611/licenceRecord,,M,RO,2018-04-13,
+"Tam, Soi Man 譚瑞雯",None,sfclicrec.asp?p=23135407,BOG761,http://www.sfc.hk/publicregWeb/indi/BOG761/licenceRecord,,,Rep,2019-05-06,2019-09-01
+"Tsang, Chun Lam 曾振霖",None,sfclicrec.asp?p=2587569,BHJ641,http://www.sfc.hk/publicregWeb/indi/BHJ641/licenceRecord,,,Rep,2018-04-24,2019-03-13

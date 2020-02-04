@@ -1,10 +1,10 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Siu 陳瀟",sfclicrec.asp?p=71747,,,Rep,2012-04-17,2012-05-14
-"Chan, Siu 陳瀟",sfclicrec.asp?p=71747,,,RO,2012-05-14,2019-04-23
-"Lam, Chi Keung (SFC:AQX036) 林智強",sfclicrec.asp?p=125132,,,Rep,2019-11-25,
-"Shi, Shaoqiang 施少強",sfclicrec.asp?p=98192,,,Rep,2019-02-15,2019-04-17
-"Shi, Shaoqiang 施少強",sfclicrec.asp?p=98192,,,RO,2019-04-17,
-"Wong, Stephen (SFC:APJ599) 黃新君",sfclicrec.asp?p=122424,,M,RO,2011-12-13,2012-09-13
-"Wong, Stephen (SFC:APJ599) 黃新君",sfclicrec.asp?p=122424,,M,Rep,2012-09-13,2013-02-08
-"Wong, Stephen (SFC:APJ599) 黃新君",sfclicrec.asp?p=122424,,M,RO,2013-02-08,
-"Zhang, Ning (SFC:AGD246) 張宁",sfclicrec.asp?p=60534,52,M,RO,2011-12-13,2013-03-15
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Siu 陳瀟",None,sfclicrec.asp?p=71747,ALP818,http://www.sfc.hk/publicregWeb/indi/ALP818/licenceRecord,,,Rep,2012-04-17,2012-05-14
+"Chan, Siu 陳瀟",None,sfclicrec.asp?p=71747,ALP818,http://www.sfc.hk/publicregWeb/indi/ALP818/licenceRecord,,,RO,2012-05-14,2019-04-23
+"Lam, Chi Keung (SFC:AQX036) 林智強",None,sfclicrec.asp?p=125132,AQX036,http://www.sfc.hk/publicregWeb/indi/AQX036/licenceRecord,,,Rep,2019-11-25,
+"Shi, Shaoqiang 施少強",None,sfclicrec.asp?p=98192,AHE750,http://www.sfc.hk/publicregWeb/indi/AHE750/licenceRecord,,,Rep,2019-02-15,2019-04-17
+"Shi, Shaoqiang 施少強",None,sfclicrec.asp?p=98192,AHE750,http://www.sfc.hk/publicregWeb/indi/AHE750/licenceRecord,,,RO,2019-04-17,
+"Wong, Stephen (SFC:APJ599) 黃新君",None,sfclicrec.asp?p=122424,APJ599,http://www.sfc.hk/publicregWeb/indi/APJ599/licenceRecord,,M,RO,2011-12-13,2012-09-13
+"Wong, Stephen (SFC:APJ599) 黃新君",None,sfclicrec.asp?p=122424,APJ599,http://www.sfc.hk/publicregWeb/indi/APJ599/licenceRecord,,M,Rep,2012-09-13,2013-02-08
+"Wong, Stephen (SFC:APJ599) 黃新君",None,sfclicrec.asp?p=122424,APJ599,http://www.sfc.hk/publicregWeb/indi/APJ599/licenceRecord,,M,RO,2013-02-08,
+"Zhang, Ning (SFC:AGD246) 張宁",None,sfclicrec.asp?p=60534,AGD246,http://www.sfc.hk/publicregWeb/indi/AGD246/licenceRecord,52.0,M,RO,2011-12-13,2013-03-15

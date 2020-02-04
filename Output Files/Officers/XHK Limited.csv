@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Bradshaw, Andrew Peter ",sfclicrec.asp?p=2365142,,M,RO,2019-01-29,2019-06-24
-"Chen, Xiaohua (SFC:BAM436) 陳晓樺",sfclicrec.asp?p=1982008,,,Rep,2019-03-14,
-"Fang, Vincent Pei Wei 方培偉",sfclicrec.asp?p=100421,,M,RO,2019-07-09,
-"Ko, Philip 高冠恆",sfclicrec.asp?p=102288,,M,RO,2019-01-29,
-"Ling, Colin Celan 凌思綸",sfclicrec.asp?p=90141,,M,RO,2019-01-29,2019-08-30
-"Tsui, Wai Lun 徐偉倫",sfclicrec.asp?p=2588871,,,RO,2019-09-05,
-"Yeo, Daniel Seng Cheng 楊聖淨",sfclicrec.asp?p=119746,,M,RO,2019-01-29,2019-11-30
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Bradshaw, Andrew Peter ",None,sfclicrec.asp?p=2365142,BEN891,http://www.sfc.hk/publicregWeb/indi/BEN891/licenceRecord,,M,RO,2019-01-29,2019-06-24
+"Chen, Xiaohua (SFC:BAM436) 陳晓樺",None,sfclicrec.asp?p=1982008,BAM436,http://www.sfc.hk/publicregWeb/indi/BAM436/licenceRecord,,,Rep,2019-03-14,
+"Fang, Vincent Pei Wei 方培偉",None,sfclicrec.asp?p=100421,AGB884,http://www.sfc.hk/publicregWeb/indi/AGB884/licenceRecord,,M,RO,2019-07-09,
+"Ko, Philip 高冠恆",None,sfclicrec.asp?p=102288,ABS536,http://www.sfc.hk/publicregWeb/indi/ABS536/licenceRecord,,M,RO,2019-01-29,
+"Ling, Colin Celan 凌思綸",None,sfclicrec.asp?p=90141,ABU679,http://www.sfc.hk/publicregWeb/indi/ABU679/licenceRecord,,M,RO,2019-01-29,2019-08-30
+"Tsui, Wai Lun 徐偉倫",None,sfclicrec.asp?p=2588871,BHO716,http://www.sfc.hk/publicregWeb/indi/BHO716/licenceRecord,,,RO,2019-09-05,
+"Yeo, Daniel Seng Cheng 楊聖淨",None,sfclicrec.asp?p=119746,ANZ956,http://www.sfc.hk/publicregWeb/indi/ANZ956/licenceRecord,,M,RO,2019-01-29,2019-11-30

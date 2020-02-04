@@ -1,6 +1,6 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Jin, Ziyin 金子寅",sfclicrec.asp?p=89088,,,RO,2018-05-03,
-"Liu, Xu (SFC:BNX596) 劉徐",sfclicrec.asp?p=22704609,,,Rep,2019-01-28,
-"Zhu, Yuan (SFC:BEJ395) 朱遠",sfclicrec.asp?p=2334314,,,RO,2018-05-03,2018-05-03
-"Zhu, Yuan (SFC:BEJ395) 朱遠",sfclicrec.asp?p=2334314,,,Rep,2018-06-11,2018-06-22
-"Zhu, Yuan (SFC:BEJ395) 朱遠",sfclicrec.asp?p=2334314,,,RO,2018-06-22,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Jin, Ziyin 金子寅",None,sfclicrec.asp?p=89088,AWQ069,http://www.sfc.hk/publicregWeb/indi/AWQ069/licenceRecord,,,RO,2018-05-03,
+"Liu, Xu (SFC:BNX596) 劉徐",None,sfclicrec.asp?p=22704609,BNX596,http://www.sfc.hk/publicregWeb/indi/BNX596/licenceRecord,,,Rep,2019-01-28,
+"Zhu, Yuan (SFC:BEJ395) 朱遠",None,sfclicrec.asp?p=2334314,BEJ395,http://www.sfc.hk/publicregWeb/indi/BEJ395/licenceRecord,,,RO,2018-05-03,2018-05-03
+"Zhu, Yuan (SFC:BEJ395) 朱遠",None,sfclicrec.asp?p=2334314,BEJ395,http://www.sfc.hk/publicregWeb/indi/BEJ395/licenceRecord,,,Rep,2018-06-11,2018-06-22
+"Zhu, Yuan (SFC:BEJ395) 朱遠",None,sfclicrec.asp?p=2334314,BEJ395,http://www.sfc.hk/publicregWeb/indi/BEJ395/licenceRecord,,,RO,2018-06-22,

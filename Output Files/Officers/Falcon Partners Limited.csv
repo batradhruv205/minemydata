@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Lam, Von Villy Mendoza 林威利",sfclicrec.asp?p=1979856,,,RO,2016-08-31,
-"Lee, Voon Siang 李文祥",sfclicrec.asp?p=113307,,,RO,2018-06-05,
-"Zovak, Skye Collier ",sfclicrec.asp?p=2627443,,,RO,2016-08-31,2018-01-31
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Lam, Von Villy Mendoza 林威利",None,sfclicrec.asp?p=1979856,BAL419,http://www.sfc.hk/publicregWeb/indi/BAL419/licenceRecord,,,RO,2016-08-31,
+"Lee, Voon Siang 李文祥",None,sfclicrec.asp?p=113307,AJI419,http://www.sfc.hk/publicregWeb/indi/AJI419/licenceRecord,,,RO,2018-06-05,
+"Zovak, Skye Collier ",None,sfclicrec.asp?p=2627443,BHN959,http://www.sfc.hk/publicregWeb/indi/BHN959/licenceRecord,,,RO,2016-08-31,2018-01-31

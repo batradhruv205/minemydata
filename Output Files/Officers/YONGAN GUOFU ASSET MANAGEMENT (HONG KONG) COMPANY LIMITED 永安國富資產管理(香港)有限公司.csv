@@ -1,8 +1,8 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chen, Zheng (SFC:BMY098) 陳崢",sfclicrec.asp?p=22442722,,,RO,2018-11-15,
-"Li, Zimu 李子木",sfclicrec.asp?p=118936,,,Rep,2019-01-24,2019-10-16
-"Li, Zimu 李子木",sfclicrec.asp?p=118936,,,RO,2019-10-16,
-"Lin, Jiaxin (SFC:BPB690) 林嘉欣",sfclicrec.asp?p=23875991,,,Rep,2019-11-06,
-"Mok, Chue Man 莫鑄文",sfclicrec.asp?p=1892108,,,Rep,2019-06-17,
-"Zhang, Lin (SFC:BMY101) 張琳",sfclicrec.asp?p=22442723,,,RO,2018-11-15,
-"Zuo, Wei (SFC:ALH756) 左為",sfclicrec.asp?p=81637,,,RO,2018-11-15,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chen, Zheng (SFC:BMY098) 陳崢",None,sfclicrec.asp?p=22442722,BMY098,http://www.sfc.hk/publicregWeb/indi/BMY098/licenceRecord,,,RO,2018-11-15,
+"Li, Zimu 李子木",None,sfclicrec.asp?p=118936,ANP911,http://www.sfc.hk/publicregWeb/indi/ANP911/licenceRecord,,,Rep,2019-01-24,2019-10-16
+"Li, Zimu 李子木",None,sfclicrec.asp?p=118936,ANP911,http://www.sfc.hk/publicregWeb/indi/ANP911/licenceRecord,,,RO,2019-10-16,
+"Lin, Jiaxin (SFC:BPB690) 林嘉欣",None,sfclicrec.asp?p=23875991,BPB690,http://www.sfc.hk/publicregWeb/indi/BPB690/licenceRecord,,,Rep,2019-11-06,
+"Mok, Chue Man 莫鑄文",None,sfclicrec.asp?p=1892108,AZL410,http://www.sfc.hk/publicregWeb/indi/AZL410/licenceRecord,,,Rep,2019-06-17,
+"Zhang, Lin (SFC:BMY101) 張琳",None,sfclicrec.asp?p=22442723,BMY101,http://www.sfc.hk/publicregWeb/indi/BMY101/licenceRecord,,,RO,2018-11-15,
+"Zuo, Wei (SFC:ALH756) 左為",None,sfclicrec.asp?p=81637,ALH756,http://www.sfc.hk/publicregWeb/indi/ALH756/licenceRecord,,,RO,2018-11-15,

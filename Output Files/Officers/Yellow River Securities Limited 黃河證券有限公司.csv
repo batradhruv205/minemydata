@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Li, Linyi 李林依",sfclicrec.asp?p=12633230,,,Rep,2017-12-11,
-"Ng, Chun Ho 吳俊豪",sfclicrec.asp?p=2316464,,,Rep,2018-01-29,2019-11-15
-"Suen, Ho Yi 孫可兒",sfclicrec.asp?p=2031699,,,RO,2017-06-01,
-"Tsoi, Andes Fai Tin 蔡揮田",sfclicrec.asp?p=99552,,,RO,2017-06-01,
-"Wong, Ka Yi (SFC:BGM619) 黃嘉怡",sfclicrec.asp?p=12850984,,,Rep,2018-03-14,2018-04-25
-"Xie, Fan (SFC:BLU352) 謝凡",sfclicrec.asp?p=20880953,,,Rep,2018-07-26,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Li, Linyi 李林依",None,sfclicrec.asp?p=12633230,BLE825,http://www.sfc.hk/publicregWeb/indi/BLE825/licenceRecord,,,Rep,2017-12-11,
+"Ng, Chun Ho 吳俊豪",None,sfclicrec.asp?p=2316464,AXR024,http://www.sfc.hk/publicregWeb/indi/AXR024/licenceRecord,,,Rep,2018-01-29,2019-11-15
+"Suen, Ho Yi 孫可兒",None,sfclicrec.asp?p=2031699,BAZ565,http://www.sfc.hk/publicregWeb/indi/BAZ565/licenceRecord,,,RO,2017-06-01,
+"Tsoi, Andes Fai Tin 蔡揮田",None,sfclicrec.asp?p=99552,ABN399,http://www.sfc.hk/publicregWeb/indi/ABN399/licenceRecord,,,RO,2017-06-01,
+"Wong, Ka Yi (SFC:BGM619) 黃嘉怡",None,sfclicrec.asp?p=12850984,BGM619,http://www.sfc.hk/publicregWeb/indi/BGM619/licenceRecord,,,Rep,2018-03-14,2018-04-25
+"Xie, Fan (SFC:BLU352) 謝凡",None,sfclicrec.asp?p=20880953,BLU352,http://www.sfc.hk/publicregWeb/indi/BLU352/licenceRecord,,,Rep,2018-07-26,

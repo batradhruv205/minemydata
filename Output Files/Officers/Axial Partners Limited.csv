@@ -1,7 +1,7 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Chan, Wei-Jin Christopher 陳偉仁",sfclicrec.asp?p=14425558,,,RO,2019-12-05,
-"Chang, Carmen 張嘉雯",sfclicrec.asp?p=1979188,,F,Rep,2017-12-12,
-"Harper, Anthony Joseph ",sfclicrec.asp?p=2219280,,M,RO,2017-11-07,2019-04-30
-"Hopkins, Paul Stephen ",sfclicrec.asp?p=12492545,,M,RO,2017-11-07,2019-12-06
-"Lindsay, James Stuart ",sfclicrec.asp?p=23397626,,M,Rep,2019-07-08,
-"Uding, Gerardus Henricus Paulus ",sfclicrec.asp?p=83870,,M,RO,2017-11-07,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Chan, Wei-Jin Christopher 陳偉仁",None,sfclicrec.asp?p=14425558,AMA925,http://www.sfc.hk/publicregWeb/indi/AMA925/licenceRecord,,,RO,2019-12-05,
+"Chang, Carmen 張嘉雯",None,sfclicrec.asp?p=1979188,AVS344,http://www.sfc.hk/publicregWeb/indi/AVS344/licenceRecord,,F,Rep,2017-12-12,
+"Harper, Anthony Joseph ",None,sfclicrec.asp?p=2219280,BAQ704,http://www.sfc.hk/publicregWeb/indi/BAQ704/licenceRecord,,M,RO,2017-11-07,2019-04-30
+"Hopkins, Paul Stephen ",None,sfclicrec.asp?p=12492545,BJB374,http://www.sfc.hk/publicregWeb/indi/BJB374/licenceRecord,,M,RO,2017-11-07,2019-12-06
+"Lindsay, James Stuart ",None,sfclicrec.asp?p=23397626,BOL436,http://www.sfc.hk/publicregWeb/indi/BOL436/licenceRecord,,M,Rep,2019-07-08,
+"Uding, Gerardus Henricus Paulus ",None,sfclicrec.asp?p=83870,AUZ982,http://www.sfc.hk/publicregWeb/indi/AUZ982/licenceRecord,,M,RO,2017-11-07,

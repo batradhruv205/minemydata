@@ -1,4 +1,4 @@
-Name,URL,Age in 2020,Gender,Role,From,Until
-"Ho, Linwen 何宁溫",sfclicrec.asp?p=1968833,,,RO,2014-11-28,
-"Li, Bei (SFC:BED056) 李蓓",sfclicrec.asp?p=2352267,,,RO,2014-11-28,2017-12-01
-"Liang, Wentao 梁文濤",sfclicrec.asp?p=2352268,,,RO,2014-11-28,
+Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
+"Ho, Linwen 何宁溫",None,sfclicrec.asp?p=1968833,AZS335,http://www.sfc.hk/publicregWeb/indi/AZS335/licenceRecord,,,RO,2014-11-28,
+"Li, Bei (SFC:BED056) 李蓓",None,sfclicrec.asp?p=2352267,BED056,http://www.sfc.hk/publicregWeb/indi/BED056/licenceRecord,,,RO,2014-11-28,2017-12-01
+"Liang, Wentao 梁文濤",None,sfclicrec.asp?p=2352268,AWR545,http://www.sfc.hk/publicregWeb/indi/AWR545/licenceRecord,,,RO,2014-11-28,
