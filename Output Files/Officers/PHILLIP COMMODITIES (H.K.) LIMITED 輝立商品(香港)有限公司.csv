@@ -837,7 +837,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Lo, Jun Hao (SFC:AOJ326) 勞俊皓",None,sfclicrec.asp?p=120431,AOJ326,http://www.sfc.hk/publicregWeb/indi/AOJ326/licenceRecord,,,Rep,2007-01-09,2007-02-10
 "Lo, Ka Tat 羅家達",None,sfclicrec.asp?p=76929,AOG707,http://www.sfc.hk/publicregWeb/indi/AOG707/licenceRecord,,,Rep,2007-02-05,2009-12-11
 "Lo, Kai Cho 盧繼藻",None,sfclicrec.asp?p=91761,ALY307,http://www.sfc.hk/publicregWeb/indi/ALY307/licenceRecord,,,Rep,2007-01-17,2012-03-10
-"Lo, Katherina Ka Shun 盧嘉舜",,sfclicrec.asp?p=93052,AEE887,http://www.sfc.hk/publicregWeb/indi/AEE887/licenceRecord,,,Rep,2009-09-08,2010-06-02
+"Lo, Katherina Ka Shun 盧嘉舜",nan,sfclicrec.asp?p=93052,AEE887,http://www.sfc.hk/publicregWeb/indi/AEE887/licenceRecord,,,Rep,2009-09-08,2010-06-02
 "Lo, Kin 羅堅",None,sfclicrec.asp?p=91762,ALU976,http://www.sfc.hk/publicregWeb/indi/ALU976/licenceRecord,,,Rep,2005-03-24,
 "Lo, Kwok Leung 盧國樑",None,sfclicrec.asp?p=113641,AJV325,http://www.sfc.hk/publicregWeb/indi/AJV325/licenceRecord,,,Rep,2008-02-11,2008-08-06
 "Lo, Kwok Man 盧國文",None,sfclicrec.asp?p=106267,AFK166,http://www.sfc.hk/publicregWeb/indi/AFK166/licenceRecord,,,Rep,2004-07-28,2005-04-20
@@ -988,7 +988,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Poon, Chin Ho 潘展豪",None,sfclicrec.asp?p=2114375,BBS607,http://www.sfc.hk/publicregWeb/indi/BBS607/licenceRecord,,,Rep,2013-08-09,2015-11-16
 "Poon, Chin Keung 潘展強",None,sfclicrec.asp?p=94958,AWS704,http://www.sfc.hk/publicregWeb/indi/AWS704/licenceRecord,,,Rep,2012-05-03,2018-08-09
 "Poon, Chun Pang 潘振鵬",None,sfclicrec.asp?p=126259,ARK367,http://www.sfc.hk/publicregWeb/indi/ARK367/licenceRecord,,,Rep,2008-07-29,2009-03-07
-"Poon, Kin Lung 潘健龍",,sfclicrec.asp?p=1958764,BAF832,http://www.sfc.hk/publicregWeb/indi/BAF832/licenceRecord,,M,Rep,2012-09-25,2014-06-28
+"Poon, Kin Lung 潘健龍",nan,sfclicrec.asp?p=1958764,BAF832,http://www.sfc.hk/publicregWeb/indi/BAF832/licenceRecord,,M,Rep,2012-09-25,2014-06-28
 "Poon, Kwai Kwong 潘桂光",None,sfclicrec.asp?p=134483,AYO538,http://www.sfc.hk/publicregWeb/indi/AYO538/licenceRecord,,,Rep,2014-08-22,2016-10-21
 "Poon, Man Kit (SFC:BDY012) 潘文傑",None,sfclicrec.asp?p=2304570,BDY012,http://www.sfc.hk/publicregWeb/indi/BDY012/licenceRecord,,,Rep,2014-08-07,
 "Poon, Pak Kei 潘柏基",None,sfclicrec.asp?p=108661,AGE687,http://www.sfc.hk/publicregWeb/indi/AGE687/licenceRecord,,,Rep,2004-06-11,2005-04-26
@@ -1186,7 +1186,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Wong, Chor Kwan (SFC:ABH986) 黃楚崑",None,sfclicrec.asp?p=91862,ABH986,http://www.sfc.hk/publicregWeb/indi/ABH986/licenceRecord,,,Rep,2005-07-19,
 "Wong, Chow Wah 黃秋華",None,sfclicrec.asp?p=102199,ABP448,http://www.sfc.hk/publicregWeb/indi/ABP448/licenceRecord,,,Rep,2003-06-17,2004-06-25
 "Wong, Chow Wah 黃秋華",None,sfclicrec.asp?p=102199,ABP448,http://www.sfc.hk/publicregWeb/indi/ABP448/licenceRecord,,,Rep,2005-12-08,2006-08-30
-"Wong, Chun (SFC:ANL995) 黃俊",,sfclicrec.asp?p=83388,ANL995,http://www.sfc.hk/publicregWeb/indi/ANL995/licenceRecord,,M,Rep,2006-06-02,2007-11-01
+"Wong, Chun (SFC:ANL995) 黃俊",nan,sfclicrec.asp?p=83388,ANL995,http://www.sfc.hk/publicregWeb/indi/ANL995/licenceRecord,,M,Rep,2006-06-02,2007-11-01
 "Wong, Chun Kong (SFC:ATM806) 黃振江",None,sfclicrec.asp?p=73215,ATM806,http://www.sfc.hk/publicregWeb/indi/ATM806/licenceRecord,,,Rep,2009-08-04,2010-08-19
 "Wong, Chun Sing (SFC:AQR069) 王晋聲",None,sfclicrec.asp?p=78630,AQR069,http://www.sfc.hk/publicregWeb/indi/AQR069/licenceRecord,,,Rep,2008-03-17,2011-04-25
 "Wong, Chun Wa (SFC:APR390) 王俊華",None,sfclicrec.asp?p=123004,APR390,http://www.sfc.hk/publicregWeb/indi/APR390/licenceRecord,,,Rep,2007-09-25,2009-11-11

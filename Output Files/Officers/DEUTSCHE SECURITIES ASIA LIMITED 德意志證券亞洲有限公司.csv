@@ -1062,8 +1062,8 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Ma, Adrian Hin Chun 馬顯俊",None,sfclicrec.asp?p=94174,AOT355,http://www.sfc.hk/publicregWeb/indi/AOT355/licenceRecord,,M,Rep,2007-06-14,2009-04-15
 "Ma, Jianwei (SFC:BDO483) 馬建偉",None,sfclicrec.asp?p=2281234,BDO483,http://www.sfc.hk/publicregWeb/indi/BDO483/licenceRecord,,,Rep,2014-06-13,2015-07-21
 "Ma, Jun (SFC:AZS737) 馬駿",None,sfclicrec.asp?p=1913752,AZS737,http://www.sfc.hk/publicregWeb/indi/AZS737/licenceRecord,,,Rep,2012-06-20,2015-06-15
-"Ma, Sin Chi 馬善智",,sfclicrec.asp?p=78390,AFQ486,http://www.sfc.hk/publicregWeb/indi/AFQ486/licenceRecord,46.0,M,Rep,2004-08-09,2010-04-20
-"Ma, Sin Chi 馬善智",,sfclicrec.asp?p=78390,AFQ486,http://www.sfc.hk/publicregWeb/indi/AFQ486/licenceRecord,46.0,M,RO,2010-04-20,2012-01-06
+"Ma, Sin Chi 馬善智",nan,sfclicrec.asp?p=78390,AFQ486,http://www.sfc.hk/publicregWeb/indi/AFQ486/licenceRecord,46.0,M,Rep,2004-08-09,2010-04-20
+"Ma, Sin Chi 馬善智",nan,sfclicrec.asp?p=78390,AFQ486,http://www.sfc.hk/publicregWeb/indi/AFQ486/licenceRecord,46.0,M,RO,2010-04-20,2012-01-06
 "Ma, Weiji 馬維驥",None,sfclicrec.asp?p=1861289,AYR066,http://www.sfc.hk/publicregWeb/indi/AYR066/licenceRecord,,,Rep,2012-03-05,2014-06-18
 "MacCarthy, Denis ",None,sfclicrec.asp?p=109210,AGK114,http://www.sfc.hk/publicregWeb/indi/AGK114/licenceRecord,,,Rep,2003-06-09,2004-01-08
 "MacCarthy, Denis ",None,sfclicrec.asp?p=109210,AGK114,http://www.sfc.hk/publicregWeb/indi/AGK114/licenceRecord,,,RO,2004-01-08,2009-12-11
@@ -1236,7 +1236,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "O'Sullivan, Ryan Charles ",None,sfclicrec.asp?p=22814350,BOD139,http://www.sfc.hk/publicregWeb/indi/BOD139/licenceRecord,,M,Rep,2019-02-22,2019-03-02
 "Oberhansberg, Utz Richard ",None,sfclicrec.asp?p=117247,AMQ369,http://www.sfc.hk/publicregWeb/indi/AMQ369/licenceRecord,,M,Rep,2005-10-31,2009-04-15
 "Oh, Yeny ",None,sfclicrec.asp?p=9408617,BJL951,http://www.sfc.hk/publicregWeb/indi/BJL951/licenceRecord,,,Rep,2017-05-02,2017-05-11
-"Ong, Derek ",,sfclicrec.asp?p=116202,AME256,http://www.sfc.hk/publicregWeb/indi/AME256/licenceRecord,,M,Rep,2005-06-22,2011-08-23
+"Ong, Derek ",nan,sfclicrec.asp?p=116202,AME256,http://www.sfc.hk/publicregWeb/indi/AME256/licenceRecord,,M,Rep,2005-06-22,2011-08-23
 "Ong, Jun You ",None,sfclicrec.asp?p=22674032,BOA770,http://www.sfc.hk/publicregWeb/indi/BOA770/licenceRecord,,,Rep,2019-01-21,2019-06-06
 "Ong, Kho Jie ",None,sfclicrec.asp?p=123087,APS178,http://www.sfc.hk/publicregWeb/indi/APS178/licenceRecord,,,Rep,2007-09-28,2008-02-01
 "Ong, Payton Pei-de ",None,sfclicrec.asp?p=89461,ARA392,http://www.sfc.hk/publicregWeb/indi/ARA392/licenceRecord,,,Rep,2013-08-21,2017-02-07

@@ -46,7 +46,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Chan, Xonex Yau Chuen 陳佑全",None,sfclicrec.asp?p=125771,ARF536,http://www.sfc.hk/publicregWeb/indi/ARF536/licenceRecord,,,Rep,2009-12-30,2010-05-01
 "Chan, Yiu Lun (SFC:AEU161) 陳耀麟",None,sfclicrec.asp?p=76856,AEU161,http://www.sfc.hk/publicregWeb/indi/AEU161/licenceRecord,,,Rep,,
 "Chan, Yu Yin 陳宇賢",None,sfclicrec.asp?p=76857,AFL233,http://www.sfc.hk/publicregWeb/indi/AFL233/licenceRecord,,,Rep,2010-02-08,2014-02-19
-"Chang, Chyi 張奇",,sfclicrec.asp?p=76858,AEP935,http://www.sfc.hk/publicregWeb/indi/AEP935/licenceRecord,,M,Rep,,
+"Chang, Chyi 張奇",nan,sfclicrec.asp?p=76858,AEP935,http://www.sfc.hk/publicregWeb/indi/AEP935/licenceRecord,,M,Rep,,
 "Chang, Ying (SFC:AGM442) 張瀛",None,sfclicrec.asp?p=76859,AGM442,http://www.sfc.hk/publicregWeb/indi/AGM442/licenceRecord,,,Rep,,2004-05-31
 "Chang, Ying (SFC:AGM442) 張瀛",None,sfclicrec.asp?p=76859,AGM442,http://www.sfc.hk/publicregWeb/indi/AGM442/licenceRecord,,,RO,2004-05-31,2009-03-01
 "Chang, Ying (SFC:AGM442) 張瀛",None,sfclicrec.asp?p=76859,AGM442,http://www.sfc.hk/publicregWeb/indi/AGM442/licenceRecord,,,Rep,2009-04-02,
@@ -275,8 +275,8 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Liu, Wai Ping (SFC:APO411) 廖偉平",None,sfclicrec.asp?p=85107,APO411,http://www.sfc.hk/publicregWeb/indi/APO411/licenceRecord,,,Rep,2008-05-21,2008-10-07
 "Lo, Chau Wai 盧秋維",None,sfclicrec.asp?p=1970936,ASJ879,http://www.sfc.hk/publicregWeb/indi/ASJ879/licenceRecord,,,Rep,2012-10-25,2012-11-09
 "Lo, Chiu Wai (SFC:AFT576) 羅昭維",None,sfclicrec.asp?p=73635,AFT576,http://www.sfc.hk/publicregWeb/indi/AFT576/licenceRecord,,,Rep,,2003-05-14
-"Lo, Chris Tsz On 盧子安",,sfclicrec.asp?p=76840,ABM814,http://www.sfc.hk/publicregWeb/indi/ABM814/licenceRecord,,M,Rep,,2004-08-12
-"Lo, Chris Tsz On 盧子安",,sfclicrec.asp?p=76840,ABM814,http://www.sfc.hk/publicregWeb/indi/ABM814/licenceRecord,,M,RO,2004-08-12,2014-01-23
+"Lo, Chris Tsz On 盧子安",nan,sfclicrec.asp?p=76840,ABM814,http://www.sfc.hk/publicregWeb/indi/ABM814/licenceRecord,,M,Rep,,2004-08-12
+"Lo, Chris Tsz On 盧子安",nan,sfclicrec.asp?p=76840,ABM814,http://www.sfc.hk/publicregWeb/indi/ABM814/licenceRecord,,M,RO,2004-08-12,2014-01-23
 "Lo, Joey Wai Hon 羅偉漢",None,sfclicrec.asp?p=76930,AFP517,http://www.sfc.hk/publicregWeb/indi/AFP517/licenceRecord,,,Rep,2005-04-04,2018-06-25
 "Lo, Ka Tat 羅家達",None,sfclicrec.asp?p=76929,AOG707,http://www.sfc.hk/publicregWeb/indi/AOG707/licenceRecord,,,Rep,2009-12-18,
 "Lo, Kai Chung (SFC:AJN343) 魯啟宗",None,sfclicrec.asp?p=82269,AJN343,http://www.sfc.hk/publicregWeb/indi/AJN343/licenceRecord,,,Rep,2014-05-09,2016-07-20
@@ -401,7 +401,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Wong, Sheh Yung 王錫勇",None,sfclicrec.asp?p=76959,ALZ810,http://www.sfc.hk/publicregWeb/indi/ALZ810/licenceRecord,,,Rep,2009-05-13,2013-08-09
 "Wong, Sze Long 黃偲朗",None,sfclicrec.asp?p=74370,AEL451,http://www.sfc.hk/publicregWeb/indi/AEL451/licenceRecord,,,Rep,,2005-04-19
 "Wong, Sze Man (SFC:AEF861) 黃詩敏",None,sfclicrec.asp?p=97602,AEF861,http://www.sfc.hk/publicregWeb/indi/AEF861/licenceRecord,,,Rep,,2003-10-18
-"Wong, Sze Yiu 王思堯",,sfclicrec.asp?p=101827,ABA302,http://www.sfc.hk/publicregWeb/indi/ABA302/licenceRecord,,,Rep,2011-10-12,2014-09-29
+"Wong, Sze Yiu 王思堯",nan,sfclicrec.asp?p=101827,ABA302,http://www.sfc.hk/publicregWeb/indi/ABA302/licenceRecord,,,Rep,2011-10-12,2014-09-29
 "Wong, Tsang Yin 黃增賢",None,sfclicrec.asp?p=76960,ACA835,http://www.sfc.hk/publicregWeb/indi/ACA835/licenceRecord,,,Rep,,2017-01-23
 "Wong, Tsang Yin 黃增賢",None,sfclicrec.asp?p=76960,ACA835,http://www.sfc.hk/publicregWeb/indi/ACA835/licenceRecord,,,RO,2017-01-23,
 "Wong, Wai Yan (SFC:ADM442) 王惠恩",None,sfclicrec.asp?p=76961,ADM442,http://www.sfc.hk/publicregWeb/indi/ADM442/licenceRecord,,,Rep,,

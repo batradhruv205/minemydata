@@ -730,7 +730,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Huen, Kit Ying 禤潔瑩",None,sfclicrec.asp?p=2449698,BFW361,http://www.sfc.hk/publicregWeb/indi/BFW361/licenceRecord,,,Rep,2015-07-16,2016-11-01
 "Hui, Benjamin Kam Wing 許鑑榮",None,sfclicrec.asp?p=94590,ACB593,http://www.sfc.hk/publicregWeb/indi/ACB593/licenceRecord,,M,Rep,2011-01-28,
 "Hui, Chi Ho (SFC:AFW552) 許志豪",None,sfclicrec.asp?p=107919,AFW552,http://www.sfc.hk/publicregWeb/indi/AFW552/licenceRecord,,,Rep,2005-08-31,2006-02-01
-"Hui, David Lam Chiu 許林釗",,sfclicrec.asp?p=67588,ADF453,http://www.sfc.hk/publicregWeb/indi/ADF453/licenceRecord,,,Rep,,2003-06-12
+"Hui, David Lam Chiu 許林釗",nan,sfclicrec.asp?p=67588,ADF453,http://www.sfc.hk/publicregWeb/indi/ADF453/licenceRecord,,,Rep,,2003-06-12
 "Hui, Ho Hang Terry 許灝衡",None,sfclicrec.asp?p=17969664,BND362,http://www.sfc.hk/publicregWeb/indi/BND362/licenceRecord,,,Rep,2018-06-27,
 "Hui, Ka Hei 許嘉熙",None,sfclicrec.asp?p=92760,AMU686,http://www.sfc.hk/publicregWeb/indi/AMU686/licenceRecord,,,Rep,2006-10-03,2009-06-04
 "Hui, Ka Lok Carl 許嘉諾",None,sfclicrec.asp?p=2443179,BFS741,http://www.sfc.hk/publicregWeb/indi/BFS741/licenceRecord,,M,Rep,2016-05-31,2018-02-18
@@ -1486,7 +1486,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Ma, Wing Sun 馬永燊",None,sfclicrec.asp?p=113101,AJE888,http://www.sfc.hk/publicregWeb/indi/AJE888/licenceRecord,,,Rep,2003-10-24,2003-12-11
 "Ma, Yan Ying 馬銦楹",None,sfclicrec.asp?p=1863586,AZD329,http://www.sfc.hk/publicregWeb/indi/AZD329/licenceRecord,,,Rep,2012-03-09,2012-05-05
 "Ma, Yin Pong 馬彥邦",None,sfclicrec.asp?p=80373,AMU193,http://www.sfc.hk/publicregWeb/indi/AMU193/licenceRecord,,,Rep,2005-12-05,2006-08-02
-"Ma, Yu Lung 馬如龍",,sfclicrec.asp?p=95599,ABF975,http://www.sfc.hk/publicregWeb/indi/ABF975/licenceRecord,,M,Rep,,2013-06-24
+"Ma, Yu Lung 馬如龍",nan,sfclicrec.asp?p=95599,ABF975,http://www.sfc.hk/publicregWeb/indi/ABF975/licenceRecord,,M,Rep,,2013-06-24
 "Mak, Chi Ho (SFC:ATN700) 麥志豪",None,sfclicrec.asp?p=128396,ATN700,http://www.sfc.hk/publicregWeb/indi/ATN700/licenceRecord,,,Rep,2012-03-20,2012-06-30
 "Mak, Hoi Ning 麥凱甯",None,sfclicrec.asp?p=95813,AVA406,http://www.sfc.hk/publicregWeb/indi/AVA406/licenceRecord,,,Rep,2010-05-20,
 "Mak, Johnny Kin Wah 麥建華",None,sfclicrec.asp?p=73201,ABE419,http://www.sfc.hk/publicregWeb/indi/ABE419/licenceRecord,,M,Rep,2017-11-20,
@@ -1589,7 +1589,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Ng, Ting Yan 吳庭欣",None,sfclicrec.asp?p=114322,ALB899,http://www.sfc.hk/publicregWeb/indi/ALB899/licenceRecord,,,Rep,2004-08-24,2004-11-17
 "Ng, Tsz Chung (SFC:BNI417) 吳子聰",None,sfclicrec.asp?p=22104520,BNI417,http://www.sfc.hk/publicregWeb/indi/BNI417/licenceRecord,,,Rep,2020-01-06,
 "Ng, Tsz Ming (SFC:ALZ922) 吳子明",None,sfclicrec.asp?p=90255,ALZ922,http://www.sfc.hk/publicregWeb/indi/ALZ922/licenceRecord,,,Rep,2013-02-26,
-"Ng, Vincent Lok Kan 伍樂勤",,sfclicrec.asp?p=2218669,BDA486,http://www.sfc.hk/publicregWeb/indi/BDA486/licenceRecord,,M,Rep,2014-03-06,2015-10-11
+"Ng, Vincent Lok Kan 伍樂勤",nan,sfclicrec.asp?p=2218669,BDA486,http://www.sfc.hk/publicregWeb/indi/BDA486/licenceRecord,,M,Rep,2014-03-06,2015-10-11
 "Ng, Wa Kai (SFC:AMJ558) 吳華佳",None,sfclicrec.asp?p=116644,AMJ558,http://www.sfc.hk/publicregWeb/indi/AMJ558/licenceRecord,,,Rep,2005-09-30,2006-05-27
 "Ng, Wah Keung Henry 吳華強",None,sfclicrec.asp?p=2683244,BIW611,http://www.sfc.hk/publicregWeb/indi/BIW611/licenceRecord,,,Rep,2017-01-06,
 "Ng, Wai Kit (SFC:AZD315) 吳偉杰",None,sfclicrec.asp?p=1864106,AZD315,http://www.sfc.hk/publicregWeb/indi/AZD315/licenceRecord,,,Rep,2012-03-12,2012-08-31
@@ -2120,7 +2120,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Wu, Cliffina Kwan Ho 胡群好",None,sfclicrec.asp?p=71706,ABG480,http://www.sfc.hk/publicregWeb/indi/ABG480/licenceRecord,,,Rep,2006-02-03,2008-07-01
 "Wu, Flora Fong Wah 胡芳華",None,sfclicrec.asp?p=118978,ANQ252,http://www.sfc.hk/publicregWeb/indi/ANQ252/licenceRecord,,F,Rep,2006-07-06,2011-04-23
 "Wu, Haoyuan 伍浩元",None,sfclicrec.asp?p=1939284,BAB128,http://www.sfc.hk/publicregWeb/indi/BAB128/licenceRecord,,,Rep,2014-01-15,2015-05-23
-"Wu, Hon Cheung 胡漢璋",,sfclicrec.asp?p=153544,AYV619,http://www.sfc.hk/publicregWeb/indi/AYV619/licenceRecord,,M,Rep,2012-01-18,2015-01-16
+"Wu, Hon Cheung 胡漢璋",nan,sfclicrec.asp?p=153544,AYV619,http://www.sfc.hk/publicregWeb/indi/AYV619/licenceRecord,,M,Rep,2012-01-18,2015-01-16
 "Wu, Hon Yuen 胡漢源",None,sfclicrec.asp?p=2068812,BBH435,http://www.sfc.hk/publicregWeb/indi/BBH435/licenceRecord,,,Rep,2013-05-15,2014-08-06
 "Wu, Jennifer Hu Man 胡曉敏",None,sfclicrec.asp?p=133739,AYK688,http://www.sfc.hk/publicregWeb/indi/AYK688/licenceRecord,,F,Rep,2011-11-15,2012-06-27
 "Wu, Kwok Ho 胡國豪",None,sfclicrec.asp?p=110849,AGW747,http://www.sfc.hk/publicregWeb/indi/AGW747/licenceRecord,,,Rep,2003-10-21,2008-07-01

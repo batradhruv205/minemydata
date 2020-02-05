@@ -267,8 +267,8 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Lam, Yuk Ming (SFC:AOE457) 林鈺明",None,sfclicrec.asp?p=95527,AOE457,http://www.sfc.hk/publicregWeb/indi/AOE457/licenceRecord,,,Rep,2017-12-27,
 "Lau, Bernard Chi Wai (SFC:AIY886) 劉志偉",None,sfclicrec.asp?p=73183,AIY886,http://www.sfc.hk/publicregWeb/indi/AIY886/licenceRecord,,M,Rep,2004-06-10,2012-02-10
 "Lau, Chi Wai (SFC:AFA763) 劉志偉",None,sfclicrec.asp?p=85038,AFA763,http://www.sfc.hk/publicregWeb/indi/AFA763/licenceRecord,,,Rep,,2008-05-31
-"Lau, Eddy Ka Yip 劉家業",,sfclicrec.asp?p=35255,ACD286,http://www.sfc.hk/publicregWeb/indi/ACD286/licenceRecord,,M,Rep,2007-01-15,2007-07-05
-"Lau, Eddy Ka Yip 劉家業",,sfclicrec.asp?p=35255,ACD286,http://www.sfc.hk/publicregWeb/indi/ACD286/licenceRecord,,M,RO,2007-07-05,2011-05-03
+"Lau, Eddy Ka Yip 劉家業",nan,sfclicrec.asp?p=35255,ACD286,http://www.sfc.hk/publicregWeb/indi/ACD286/licenceRecord,,M,Rep,2007-01-15,2007-07-05
+"Lau, Eddy Ka Yip 劉家業",nan,sfclicrec.asp?p=35255,ACD286,http://www.sfc.hk/publicregWeb/indi/ACD286/licenceRecord,,M,RO,2007-07-05,2011-05-03
 "Lau, Kam Ho 劉錦豪",None,sfclicrec.asp?p=94633,AHC323,http://www.sfc.hk/publicregWeb/indi/AHC323/licenceRecord,,,Rep,2017-09-04,
 "Lau, King Yan 劉璟欣",None,sfclicrec.asp?p=23219610,BOI954,http://www.sfc.hk/publicregWeb/indi/BOI954/licenceRecord,,,Rep,2019-05-24,
 "Lau, Sin Yu 劉善渝",None,sfclicrec.asp?p=1954811,BAF288,http://www.sfc.hk/publicregWeb/indi/BAF288/licenceRecord,,,Rep,2012-09-17,2017-08-23
@@ -353,7 +353,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Lo, Fanny Ngar Yee 盧雅儀",None,sfclicrec.asp?p=73195,AEA182,http://www.sfc.hk/publicregWeb/indi/AEA182/licenceRecord,,F,Rep,,2017-08-10
 "Lo, Hi Fan 盧起帆",None,sfclicrec.asp?p=118179,ANF286,http://www.sfc.hk/publicregWeb/indi/ANF286/licenceRecord,,,Rep,2011-04-14,2011-07-18
 "Lo, Julie Po Wah 盧寶華",None,sfclicrec.asp?p=95589,ACH542,http://www.sfc.hk/publicregWeb/indi/ACH542/licenceRecord,,F,Rep,2018-05-18,
-"Lo, Katherina Ka Shun 盧嘉舜",,sfclicrec.asp?p=93052,AEE887,http://www.sfc.hk/publicregWeb/indi/AEE887/licenceRecord,,,Rep,2006-09-04,2007-08-31
+"Lo, Katherina Ka Shun 盧嘉舜",nan,sfclicrec.asp?p=93052,AEE887,http://www.sfc.hk/publicregWeb/indi/AEE887/licenceRecord,,,Rep,2006-09-04,2007-08-31
 "Lo, Kwok Sun (SFC:AEB071) 盧國燊",None,sfclicrec.asp?p=104537,AEB071,http://www.sfc.hk/publicregWeb/indi/AEB071/licenceRecord,,M,Rep,,2003-07-16
 "Lo, Tai Wah 盧大華",None,sfclicrec.asp?p=25388,AAD054,http://www.sfc.hk/publicregWeb/indi/AAD054/licenceRecord,,M,Rep,2007-02-12,
 "Lo, Tin Wai 盧天偉",None,sfclicrec.asp?p=95590,AGN787,http://www.sfc.hk/publicregWeb/indi/AGN787/licenceRecord,,,Rep,2018-05-30,

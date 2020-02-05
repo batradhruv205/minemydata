@@ -51,11 +51,9 @@ for filename in os.listdir("Output Files/Officers/Leftovers/"):
 newdriver = webdriver.Firefox(executable_path = "..\..\..\Downloads\geckodriver-v0.26.0-win64\geckodriver.exe")
 
 # Loop 1 to go through each file
-for filename in os.listdir("Output Files/Officers/Done"):
+for filename in os.listdir("Output Files/Officers/"):
     print(filename)
-    if filename == "Checked":
-        continue
-    path = "Output Files/Officers/Done/" + filename
+    path = "Output Files/Officers/" + filename
     officers = pd.read_csv(path)
     
     # Loop 2 to go through each licensee

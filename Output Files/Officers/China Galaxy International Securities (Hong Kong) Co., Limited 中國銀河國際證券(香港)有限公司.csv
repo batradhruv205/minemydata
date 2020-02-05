@@ -210,7 +210,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Leung, Man Kit (SFC:ANW505) 梁文傑",None,sfclicrec.asp?p=119525,ANW505,http://www.sfc.hk/publicregWeb/indi/ANW505/licenceRecord,,,Rep,2015-12-28,2019-01-24
 "Leung, Patrick Ping Yan 梁秉仁",None,sfclicrec.asp?p=2259571,BDD660,http://www.sfc.hk/publicregWeb/indi/BDD660/licenceRecord,,M,Rep,2014-12-15,
 "Leung, Peter Ping Tak 梁秉德",None,sfclicrec.asp?p=75849,AOU405,http://www.sfc.hk/publicregWeb/indi/AOU405/licenceRecord,,M,Rep,2013-10-21,
-"Leung, Philip Ming Yin 梁銘賢",,sfclicrec.asp?p=92499,ASO240,http://www.sfc.hk/publicregWeb/indi/ASO240/licenceRecord,,M,Rep,2012-01-30,2014-08-01
+"Leung, Philip Ming Yin 梁銘賢",nan,sfclicrec.asp?p=92499,ASO240,http://www.sfc.hk/publicregWeb/indi/ASO240/licenceRecord,,M,Rep,2012-01-30,2014-08-01
 "Li, Chit Hon 李哲瀚",None,sfclicrec.asp?p=22118081,BNL479,http://www.sfc.hk/publicregWeb/indi/BNL479/licenceRecord,,,Rep,2018-08-31,
 "Li, Chiu Yee 李昭儀",None,sfclicrec.asp?p=98375,AJY016,http://www.sfc.hk/publicregWeb/indi/AJY016/licenceRecord,,,Rep,2013-03-15,2014-05-03
 "Li, Chun Wai (SFC:APF581) 李鎮偉",None,sfclicrec.asp?p=81691,APF581,http://www.sfc.hk/publicregWeb/indi/APF581/licenceRecord,,,Rep,2014-09-12,
@@ -323,7 +323,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Wan, Chun Man 尹俊文",None,sfclicrec.asp?p=95672,ATY752,http://www.sfc.hk/publicregWeb/indi/ATY752/licenceRecord,,,Rep,2018-01-31,2019-04-30
 "Wan, Henry Chi Hin 溫子軒",None,sfclicrec.asp?p=135396,AYP092,http://www.sfc.hk/publicregWeb/indi/AYP092/licenceRecord,,M,Rep,2014-06-18,
 "Wan, Shirley Man Yee 溫敏儀",None,sfclicrec.asp?p=2205634,BCW904,http://www.sfc.hk/publicregWeb/indi/BCW904/licenceRecord,,,Rep,2014-02-13,2015-01-30
-"Wang, Can (SFC:BAZ743) 王燦",,sfclicrec.asp?p=2048313,BAZ743,http://www.sfc.hk/publicregWeb/indi/BAZ743/licenceRecord,,,Rep,2013-04-09,2016-02-06
+"Wang, Can (SFC:BAZ743) 王燦",nan,sfclicrec.asp?p=2048313,BAZ743,http://www.sfc.hk/publicregWeb/indi/BAZ743/licenceRecord,,,Rep,2013-04-09,2016-02-06
 "Wang, Juan (SFC:BAP017) 王娟",None,sfclicrec.asp?p=1993265,BAP017,http://www.sfc.hk/publicregWeb/indi/BAP017/licenceRecord,,,Rep,2012-12-11,
 "Wang, Kenan 王克楠",None,sfclicrec.asp?p=73124,AVD957,http://www.sfc.hk/publicregWeb/indi/AVD957/licenceRecord,,,Rep,2012-10-26,2014-04-11
 "Wang, Lu (SFC:BID335) 王璐",None,sfclicrec.asp?p=2634716,BID335,http://www.sfc.hk/publicregWeb/indi/BID335/licenceRecord,,,Rep,2016-11-18,2017-08-30
@@ -392,5 +392,5 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Zhang, Min (SFC:BKJ272) 章敏",None,sfclicrec.asp?p=11786000,BKJ272,http://www.sfc.hk/publicregWeb/indi/BKJ272/licenceRecord,,,Rep,2017-08-07,
 "Zhao, Shuang (SFC:BEU062) 趙爽",None,sfclicrec.asp?p=2382680,BEU062,http://www.sfc.hk/publicregWeb/indi/BEU062/licenceRecord,,,Rep,2015-02-10,2018-05-18
 "Zhao, Wantong 趙婉彤",None,sfclicrec.asp?p=2349842,BEM634,http://www.sfc.hk/publicregWeb/indi/BEM634/licenceRecord,,,Rep,2015-11-10,
-"Zheng, Kai (SFC:BBP110) 鄭凱",,sfclicrec.asp?p=2110610,BBP110,http://www.sfc.hk/publicregWeb/indi/BBP110/licenceRecord,,M,Rep,2013-08-02,2013-10-25
+"Zheng, Kai (SFC:BBP110) 鄭凱",nan,sfclicrec.asp?p=2110610,BBP110,http://www.sfc.hk/publicregWeb/indi/BBP110/licenceRecord,,M,Rep,2013-08-02,2013-10-25
 "Zou, Min (SFC:BCQ983) 邹敏",None,sfclicrec.asp?p=2193844,BCQ983,http://www.sfc.hk/publicregWeb/indi/BCQ983/licenceRecord,,,Rep,2017-02-16,

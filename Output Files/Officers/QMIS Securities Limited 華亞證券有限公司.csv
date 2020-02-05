@@ -13,7 +13,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Ho, Ting Kay 何定錤",None,sfclicrec.asp?p=104760,AEH400,http://www.sfc.hk/publicregWeb/indi/AEH400/licenceRecord,,,RO,2015-06-02,2015-12-22
 "Hsiao, Tung Jen 蕭棟仁",None,sfclicrec.asp?p=135072,AYQ115,http://www.sfc.hk/publicregWeb/indi/AYQ115/licenceRecord,,,Rep,2011-12-16,2014-06-20
 "Huang, Chien Jui 黃謙叡",None,sfclicrec.asp?p=129656,AVA600,http://www.sfc.hk/publicregWeb/indi/AVA600/licenceRecord,,,Rep,2010-04-16,2010-12-04
-"Huang, Kuang Cheng 黃光正",,sfclicrec.asp?p=100322,ATY329,http://www.sfc.hk/publicregWeb/indi/ATY329/licenceRecord,,M,RO,2009-11-25,2015-02-06
+"Huang, Kuang Cheng 黃光正",nan,sfclicrec.asp?p=100322,ATY329,http://www.sfc.hk/publicregWeb/indi/ATY329/licenceRecord,,M,RO,2009-11-25,2015-02-06
 "Huang, Yen Chung (SFC:AVU824) 黃彥中",None,sfclicrec.asp?p=100325,AVU824,http://www.sfc.hk/publicregWeb/indi/AVU824/licenceRecord,,,Rep,2010-08-30,2015-06-12
 "Hui, George Kwok Tim 許國添",None,sfclicrec.asp?p=91632,AKV066,http://www.sfc.hk/publicregWeb/indi/AKV066/licenceRecord,,M,Rep,2016-03-14,2016-03-24
 "Hui, George Kwok Tim 許國添",None,sfclicrec.asp?p=91632,AKV066,http://www.sfc.hk/publicregWeb/indi/AKV066/licenceRecord,,M,RO,2016-03-24,2018-08-11
@@ -38,5 +38,5 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Wu, Shun Hsuan 吳順玄",None,sfclicrec.asp?p=127585,ASL406,http://www.sfc.hk/publicregWeb/indi/ASL406/licenceRecord,,,RO,2009-07-24,2010-04-26
 "Xu, Tiantian (SFC:BJR785) 徐天添",None,sfclicrec.asp?p=12933848,BJR785,http://www.sfc.hk/publicregWeb/indi/BJR785/licenceRecord,,,Rep,2018-10-29,2019-04-30
 "Xu, Xi (SFC:BHK043) 徐浠",None,sfclicrec.asp?p=2582663,BHK043,http://www.sfc.hk/publicregWeb/indi/BHK043/licenceRecord,,,Rep,2016-08-03,2017-01-23
-"Yu, Chun Chieh 余俊杰",,sfclicrec.asp?p=2049347,BBD317,http://www.sfc.hk/publicregWeb/indi/BBD317/licenceRecord,,M,Rep,2013-04-11,2014-01-03
+"Yu, Chun Chieh 余俊杰",nan,sfclicrec.asp?p=2049347,BBD317,http://www.sfc.hk/publicregWeb/indi/BBD317/licenceRecord,,M,Rep,2013-04-11,2014-01-03
 "Zuo, Yichao 左一超",None,sfclicrec.asp?p=11794950,BKO558,http://www.sfc.hk/publicregWeb/indi/BKO558/licenceRecord,,,Rep,2019-05-02,2019-08-16

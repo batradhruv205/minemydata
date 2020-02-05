@@ -19,7 +19,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Chan, Sheung Chi (SFC:AXN142) 陳上智",None,sfclicrec.asp?p=131378,AXN142,http://www.sfc.hk/publicregWeb/indi/AXN142/licenceRecord,,,Rep,2011-06-28,2011-07-09
 "Chan, Sze Man (SFC:AIC279) 陳詩敏",None,sfclicrec.asp?p=98359,AIC279,http://www.sfc.hk/publicregWeb/indi/AIC279/licenceRecord,,,Rep,,2003-07-04
 "Chan, Wai Kei (SFC:ALW372) 陳煒基",None,sfclicrec.asp?p=115674,ALW372,http://www.sfc.hk/publicregWeb/indi/ALW372/licenceRecord,,,Rep,2005-04-13,2005-07-19
-"Chan, Wai Ling (SFC:AFV365) 陳煒鈴",,sfclicrec.asp?p=85574,AFV365,http://www.sfc.hk/publicregWeb/indi/AFV365/licenceRecord,,,Rep,,2015-06-30
+"Chan, Wai Ling (SFC:AFV365) 陳煒鈴",nan,sfclicrec.asp?p=85574,AFV365,http://www.sfc.hk/publicregWeb/indi/AFV365/licenceRecord,,,Rep,,2015-06-30
 "Chan, Wai Sum (SFC:AYI664) 陳惠森",None,sfclicrec.asp?p=134083,AYI664,http://www.sfc.hk/publicregWeb/indi/AYI664/licenceRecord,,,Rep,2011-11-28,2013-07-31
 "Chan, Wai Tak (SFC:AMX749) 陳偉德",None,sfclicrec.asp?p=85575,AMX749,http://www.sfc.hk/publicregWeb/indi/AMX749/licenceRecord,,,Rep,2009-04-15,2012-04-17
 "Chan, Wan (SFC:BFS535) 陳雲",None,sfclicrec.asp?p=2440571,BFS535,http://www.sfc.hk/publicregWeb/indi/BFS535/licenceRecord,,,Rep,2016-03-17,
@@ -366,7 +366,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Yeung, Sau Man 楊秀文",None,sfclicrec.asp?p=113732,AKJ040,http://www.sfc.hk/publicregWeb/indi/AKJ040/licenceRecord,,,Rep,2004-04-30,2005-06-17
 "Yick, Wang Fung 易宏峰",None,sfclicrec.asp?p=117335,AMR755,http://www.sfc.hk/publicregWeb/indi/AMR755/licenceRecord,,,Rep,2005-12-07,2007-01-22
 "Yim, Alice Wai Ling 嚴惠玲",None,sfclicrec.asp?p=121110,AOU048,http://www.sfc.hk/publicregWeb/indi/AOU048/licenceRecord,,F,Rep,2007-04-04,2007-09-29
-"Yin, Richard Yingneng 尹應能",,sfclicrec.asp?p=11846,AEF534,http://www.sfc.hk/publicregWeb/indi/AEF534/licenceRecord,68.0,M,RO,,2003-06-06
+"Yin, Richard Yingneng 尹應能",nan,sfclicrec.asp?p=11846,AEF534,http://www.sfc.hk/publicregWeb/indi/AEF534/licenceRecord,68.0,M,RO,,2003-06-06
 "Yip, Cheuk Fai 葉焯輝",None,sfclicrec.asp?p=120747,AOO702,http://www.sfc.hk/publicregWeb/indi/AOO702/licenceRecord,,,Rep,2007-02-16,2007-05-01
 "Yip, Ho Yin (SFC:AOW964) 葉浩然",None,sfclicrec.asp?p=92356,AOW964,http://www.sfc.hk/publicregWeb/indi/AOW964/licenceRecord,,,Rep,2011-10-04,2012-03-08
 "Yip, Shing Lam 葉盛霖",None,sfclicrec.asp?p=2452310,BFR732,http://www.sfc.hk/publicregWeb/indi/BFR732/licenceRecord,,,Rep,2018-03-16,2018-04-06

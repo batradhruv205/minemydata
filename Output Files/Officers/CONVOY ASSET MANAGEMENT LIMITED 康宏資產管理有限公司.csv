@@ -154,7 +154,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Chan, Ho Ming (SFC:ASK133) 陳浩銘",None,sfclicrec.asp?p=68887,ASK133,http://www.sfc.hk/publicregWeb/indi/ASK133/licenceRecord,,,Rep,2009-03-09,2010-11-08
 "Chan, Ho Tung (SFC:BDH691) 陳浩彤",None,sfclicrec.asp?p=2268406,BDH691,http://www.sfc.hk/publicregWeb/indi/BDH691/licenceRecord,,,Rep,2014-05-14,2014-11-14
 "Chan, Hoi Chun (SFC:ARP732) 陳海俊",None,sfclicrec.asp?p=126722,ARP732,http://www.sfc.hk/publicregWeb/indi/ARP732/licenceRecord,,,Rep,2008-09-16,2010-10-04
-"Chan, Hoi Fung (SFC:BFA182) 陳海峰",,sfclicrec.asp?p=2401237,BFA182,http://www.sfc.hk/publicregWeb/indi/BFA182/licenceRecord,,,Rep,2015-04-01,
+"Chan, Hoi Fung (SFC:BFA182) 陳海峰",nan,sfclicrec.asp?p=2401237,BFA182,http://www.sfc.hk/publicregWeb/indi/BFA182/licenceRecord,,,Rep,2015-04-01,
 "Chan, Hoi Lee (SFC:APR264) 陳愷莉",None,sfclicrec.asp?p=122994,APR264,http://www.sfc.hk/publicregWeb/indi/APR264/licenceRecord,,,Rep,2007-09-20,2009-01-22
 "Chan, Hoi Leung 陳城曉",None,sfclicrec.asp?p=75958,ATX909,http://www.sfc.hk/publicregWeb/indi/ATX909/licenceRecord,,,Rep,2009-11-11,2010-05-11
 "Chan, Hoi Leung 陳城曉",None,sfclicrec.asp?p=75958,ATX909,http://www.sfc.hk/publicregWeb/indi/ATX909/licenceRecord,,,Rep,2010-07-23,2011-12-16
@@ -1682,7 +1682,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Lam, Tik Fai 林的徽",None,sfclicrec.asp?p=1970203,BAE815,http://www.sfc.hk/publicregWeb/indi/BAE815/licenceRecord,,,Rep,2012-10-24,2015-06-03
 "Lam, Tsz Wai (SFC:BBN707) 林梓惠",None,sfclicrec.asp?p=2097129,BBN707,http://www.sfc.hk/publicregWeb/indi/BBN707/licenceRecord,,,Rep,2013-07-09,2014-05-16
 "Lam, Tsz Yeung (SFC:AQX177) 林子洋",None,sfclicrec.asp?p=125147,AQX177,http://www.sfc.hk/publicregWeb/indi/AQX177/licenceRecord,,,Rep,2008-04-23,2008-07-03
-"Lam, Tsz Yeung 林子陽",,sfclicrec.asp?p=2563426,BHE224,http://www.sfc.hk/publicregWeb/indi/BHE224/licenceRecord,,,Rep,2016-04-18,
+"Lam, Tsz Yeung 林子陽",nan,sfclicrec.asp?p=2563426,BHE224,http://www.sfc.hk/publicregWeb/indi/BHE224/licenceRecord,,,Rep,2016-04-18,
 "Lam, Tsz Ying (SFC:BEF698) 林紫瑩",None,sfclicrec.asp?p=2329703,BEF698,http://www.sfc.hk/publicregWeb/indi/BEF698/licenceRecord,,,Rep,2014-10-08,2017-06-23
 "Lam, Wah Sho 林華疏",None,sfclicrec.asp?p=128917,AUC829,http://www.sfc.hk/publicregWeb/indi/AUC829/licenceRecord,,,Rep,2009-12-15,2010-05-10
 "Lam, Wai (SFC:ASP034) 林煒",None,sfclicrec.asp?p=76304,ASP034,http://www.sfc.hk/publicregWeb/indi/ASP034/licenceRecord,,,Rep,2009-03-20,2014-07-10
@@ -2568,7 +2568,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Mao, Xinyu (SFC:BAM355) 毛新宇",None,sfclicrec.asp?p=1982012,BAM355,http://www.sfc.hk/publicregWeb/indi/BAM355/licenceRecord,,,Rep,2012-11-19,2015-09-30
 "Mao, Yuan 毛渊",None,sfclicrec.asp?p=2388783,BEX461,http://www.sfc.hk/publicregWeb/indi/BEX461/licenceRecord,,,Rep,2015-03-05,2016-11-14
 "Mau, Ho Bun 繆灝斌",None,sfclicrec.asp?p=2222426,BDC651,http://www.sfc.hk/publicregWeb/indi/BDC651/licenceRecord,,,Rep,2014-03-12,2015-06-12
-"Mehta, Prachi Kanjibhai ",,sfclicrec.asp?p=2563429,BHE227,http://www.sfc.hk/publicregWeb/indi/BHE227/licenceRecord,,,Rep,2016-04-18,
+"Mehta, Prachi Kanjibhai ",nan,sfclicrec.asp?p=2563429,BHE227,http://www.sfc.hk/publicregWeb/indi/BHE227/licenceRecord,,,Rep,2016-04-18,
 "Meng, Xuancheng 孟宣成",None,sfclicrec.asp?p=2510213,BGM015,http://www.sfc.hk/publicregWeb/indi/BGM015/licenceRecord,,,Rep,2015-12-07,
 "Miao, Danchun 繆丹純",None,sfclicrec.asp?p=134361,AYJ689,http://www.sfc.hk/publicregWeb/indi/AYJ689/licenceRecord,,,Rep,2011-12-02,2012-10-16
 "Michalowski, Benjamin ",None,sfclicrec.asp?p=2416721,BFE171,http://www.sfc.hk/publicregWeb/indi/BFE171/licenceRecord,,M,Rep,2015-05-06,2016-03-03

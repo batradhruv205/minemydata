@@ -119,7 +119,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Leung, Ka Ho (SFC:BET102) 梁家豪",None,sfclicrec.asp?p=2367558,BET102,http://www.sfc.hk/publicregWeb/indi/BET102/licenceRecord,,,Rep,2016-01-29,2019-04-01
 "Leung, Ka Wai (SFC:AXX693) 梁嘉慧",None,sfclicrec.asp?p=92497,AXX693,http://www.sfc.hk/publicregWeb/indi/AXX693/licenceRecord,,,Rep,2014-05-07,
 "Leung, Man Kit (SFC:ANW505) 梁文傑",None,sfclicrec.asp?p=119525,ANW505,http://www.sfc.hk/publicregWeb/indi/ANW505/licenceRecord,,,Rep,2015-12-28,2019-01-24
-"Leung, Philip Ming Yin 梁銘賢",,sfclicrec.asp?p=92499,ASO240,http://www.sfc.hk/publicregWeb/indi/ASO240/licenceRecord,,M,Rep,2012-10-03,2014-08-01
+"Leung, Philip Ming Yin 梁銘賢",nan,sfclicrec.asp?p=92499,ASO240,http://www.sfc.hk/publicregWeb/indi/ASO240/licenceRecord,,M,Rep,2012-10-03,2014-08-01
 "Li, Chun Wai (SFC:APF581) 李鎮偉",None,sfclicrec.asp?p=81691,APF581,http://www.sfc.hk/publicregWeb/indi/APF581/licenceRecord,,,Rep,2014-09-12,
 "Li, Hai (SFC:AQU876) 李海",None,sfclicrec.asp?p=125031,AQU876,http://www.sfc.hk/publicregWeb/indi/AQU876/licenceRecord,,,Rep,2013-10-10,
 "Li, Sean Chok Sun 李濯新",None,sfclicrec.asp?p=15870,AAE952,http://www.sfc.hk/publicregWeb/indi/AAE952/licenceRecord,58.0,M,Rep,2012-10-10,2014-01-31
@@ -210,4 +210,4 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Zhang, Jiaqi (SFC:BGA517) 張家齊",None,sfclicrec.asp?p=2472235,BGA517,http://www.sfc.hk/publicregWeb/indi/BGA517/licenceRecord,,,Rep,2015-11-26,
 "Zhang, Min (SFC:BKJ272) 章敏",None,sfclicrec.asp?p=11786000,BKJ272,http://www.sfc.hk/publicregWeb/indi/BKJ272/licenceRecord,,,Rep,2017-08-07,
 "Zhao, Shuang (SFC:BEU062) 趙爽",None,sfclicrec.asp?p=2382680,BEU062,http://www.sfc.hk/publicregWeb/indi/BEU062/licenceRecord,,,Rep,2015-02-10,2018-05-18
-"Zheng, Kai (SFC:BBP110) 鄭凱",,sfclicrec.asp?p=2110610,BBP110,http://www.sfc.hk/publicregWeb/indi/BBP110/licenceRecord,,M,Rep,2013-09-16,2013-10-25
+"Zheng, Kai (SFC:BBP110) 鄭凱",nan,sfclicrec.asp?p=2110610,BBP110,http://www.sfc.hk/publicregWeb/indi/BBP110/licenceRecord,,M,Rep,2013-09-16,2013-10-25

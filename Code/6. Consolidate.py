@@ -15,3 +15,5 @@ for filename in os.listdir("Output Files/Officers/"):
             penalized = penalized.append(officers.loc[licensee], ignore_index=True)
             penalized['Company'][k] = filename[0:-4]
             k = k + 1
+        
+penalized.to_csv("Output Files/Penalized.csv", index = None)

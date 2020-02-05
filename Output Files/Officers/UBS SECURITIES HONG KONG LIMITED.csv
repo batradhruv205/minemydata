@@ -77,9 +77,9 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Cao, Patrick Minh ",None,sfclicrec.asp?p=131454,AXV968,http://www.sfc.hk/publicregWeb/indi/AXV968/licenceRecord,,M,Rep,2013-01-07,2015-03-19
 "Carroll, Shane ",None,sfclicrec.asp?p=2308984,BEA790,http://www.sfc.hk/publicregWeb/indi/BEA790/licenceRecord,,M,Rep,2018-04-24,
 "Casati, Andrea (SFC:AMW488) ",None,sfclicrec.asp?p=84192,AMW488,http://www.sfc.hk/publicregWeb/indi/AMW488/licenceRecord,,F,Rep,2017-05-16,2019-12-03
-"Cen, Tian 岑天",,sfclicrec.asp?p=105875,AFC965,http://www.sfc.hk/publicregWeb/indi/AFC965/licenceRecord,,,RO,2012-06-07,2015-07-03
-"Cen, Tian 岑天",,sfclicrec.asp?p=105875,AFC965,http://www.sfc.hk/publicregWeb/indi/AFC965/licenceRecord,,,Rep,2015-07-03,2016-12-18
-"Cen, Tian 岑天",,sfclicrec.asp?p=105875,AFC965,http://www.sfc.hk/publicregWeb/indi/AFC965/licenceRecord,,,Rep,2016-12-19,
+"Cen, Tian 岑天",nan,sfclicrec.asp?p=105875,AFC965,http://www.sfc.hk/publicregWeb/indi/AFC965/licenceRecord,,,RO,2012-06-07,2015-07-03
+"Cen, Tian 岑天",nan,sfclicrec.asp?p=105875,AFC965,http://www.sfc.hk/publicregWeb/indi/AFC965/licenceRecord,,,Rep,2015-07-03,2016-12-18
+"Cen, Tian 岑天",nan,sfclicrec.asp?p=105875,AFC965,http://www.sfc.hk/publicregWeb/indi/AFC965/licenceRecord,,,Rep,2016-12-19,
 "Chan, Andrea Wai Ming 陳慧明",None,sfclicrec.asp?p=86229,ALB904,http://www.sfc.hk/publicregWeb/indi/ALB904/licenceRecord,,F,Rep,2006-12-14,2007-04-14
 "Chan, Andy Kok Heng ",None,sfclicrec.asp?p=105871,AFC953,http://www.sfc.hk/publicregWeb/indi/AFC953/licenceRecord,,,RO,2005-12-29,2011-02-16
 "Chan, Brian Hon Kei 陳漢基",None,sfclicrec.asp?p=77204,AKI936,http://www.sfc.hk/publicregWeb/indi/AKI936/licenceRecord,,M,Rep,2004-04-15,2009-04-22
@@ -1074,10 +1074,10 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Viswanath, Ramesh ",None,sfclicrec.asp?p=90787,AUZ373,http://www.sfc.hk/publicregWeb/indi/AUZ373/licenceRecord,,M,Rep,2016-12-19,
 "Wai, Danny Shiu Kwan 韋少琨",None,sfclicrec.asp?p=1907506,ACI963,http://www.sfc.hk/publicregWeb/indi/ACI963/licenceRecord,57.0,M,Rep,2012-06-07,2015-10-13
 "Wai, Danny Shiu Kwan 韋少琨",None,sfclicrec.asp?p=1907506,ACI963,http://www.sfc.hk/publicregWeb/indi/ACI963/licenceRecord,57.0,M,Rep,2018-07-18,
-"Walters, Andrew James ",,sfclicrec.asp?p=70576,AOT505,http://www.sfc.hk/publicregWeb/indi/AOT505/licenceRecord,,M,Rep,2018-05-08,
+"Walters, Andrew James ",nan,sfclicrec.asp?p=70576,AOT505,http://www.sfc.hk/publicregWeb/indi/AOT505/licenceRecord,,M,Rep,2018-05-08,
 "Wan, Ting Chau 溫定宙",None,sfclicrec.asp?p=2158803,BCF606,http://www.sfc.hk/publicregWeb/indi/BCF606/licenceRecord,,,Rep,2013-11-06,2015-10-17
-"Wan, Xing 万星",,sfclicrec.asp?p=97174,AXQ294,http://www.sfc.hk/publicregWeb/indi/AXQ294/licenceRecord,,,Rep,2011-08-03,2016-12-18
-"Wan, Xing 万星",,sfclicrec.asp?p=97174,AXQ294,http://www.sfc.hk/publicregWeb/indi/AXQ294/licenceRecord,,,Rep,2016-12-19,
+"Wan, Xing 万星",nan,sfclicrec.asp?p=97174,AXQ294,http://www.sfc.hk/publicregWeb/indi/AXQ294/licenceRecord,,,Rep,2011-08-03,2016-12-18
+"Wan, Xing 万星",nan,sfclicrec.asp?p=97174,AXQ294,http://www.sfc.hk/publicregWeb/indi/AXQ294/licenceRecord,,,Rep,2016-12-19,
 "Wan, Yew Chye 范有財",None,sfclicrec.asp?p=96678,ADF140,http://www.sfc.hk/publicregWeb/indi/ADF140/licenceRecord,,,Rep,2006-10-02,2012-02-06
 "Wang, Binzhou 王彬舟",None,sfclicrec.asp?p=2642590,BII942,http://www.sfc.hk/publicregWeb/indi/BII942/licenceRecord,,,Rep,2018-01-08,
 "Wang, Cheng (SFC:APD923) 王程",None,sfclicrec.asp?p=121955,APD923,http://www.sfc.hk/publicregWeb/indi/APD923/licenceRecord,,,Rep,2012-06-07,2016-12-18

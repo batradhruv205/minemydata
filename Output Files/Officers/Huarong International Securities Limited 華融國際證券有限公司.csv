@@ -158,8 +158,8 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Lai, Ying Shuet 黎映雪",None,sfclicrec.asp?p=2300841,BDO733,http://www.sfc.hk/publicregWeb/indi/BDO733/licenceRecord,,,Rep,2014-08-01,
 "Lam, Che Chuen 林志全",None,sfclicrec.asp?p=75001,AGJ652,http://www.sfc.hk/publicregWeb/indi/AGJ652/licenceRecord,,,Rep,2012-01-16,2012-03-01
 "Lam, Che Chuen 林志全",None,sfclicrec.asp?p=75001,AGJ652,http://www.sfc.hk/publicregWeb/indi/AGJ652/licenceRecord,,,RO,2012-03-01,2012-09-27
-"Lam, Chun Yin (SFC:AMS710) 林進賢",,sfclicrec.asp?p=67179,AMS710,http://www.sfc.hk/publicregWeb/indi/AMS710/licenceRecord,37.0,M,Rep,2010-04-21,2011-04-04
-"Lam, Chun Yin (SFC:AMS710) 林進賢",,sfclicrec.asp?p=67179,AMS710,http://www.sfc.hk/publicregWeb/indi/AMS710/licenceRecord,37.0,M,RO,2011-04-04,2014-04-25
+"Lam, Chun Yin (SFC:AMS710) 林進賢",nan,sfclicrec.asp?p=67179,AMS710,http://www.sfc.hk/publicregWeb/indi/AMS710/licenceRecord,37.0,M,Rep,2010-04-21,2011-04-04
+"Lam, Chun Yin (SFC:AMS710) 林進賢",nan,sfclicrec.asp?p=67179,AMS710,http://www.sfc.hk/publicregWeb/indi/AMS710/licenceRecord,37.0,M,RO,2011-04-04,2014-04-25
 "Lam, Frankie Ho Yin 林浩賢",None,sfclicrec.asp?p=97308,AJE935,http://www.sfc.hk/publicregWeb/indi/AJE935/licenceRecord,,M,Rep,2009-12-14,2012-11-09
 "Lam, Janice Wing Man 林詠雯",None,sfclicrec.asp?p=126094,ARI755,http://www.sfc.hk/publicregWeb/indi/ARI755/licenceRecord,,,Rep,2008-10-22,2008-10-31
 "Lam, Kin Ying 林建英",None,sfclicrec.asp?p=116434,AMG971,http://www.sfc.hk/publicregWeb/indi/AMG971/licenceRecord,,,Rep,2009-01-22,2010-07-16
@@ -300,7 +300,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Sit, Kenneth Kar Kin 薛家鍵",None,sfclicrec.asp?p=71404,ADR744,http://www.sfc.hk/publicregWeb/indi/ADR744/licenceRecord,,M,RO,2017-05-15,2018-10-31
 "Siu, Yue 蕭宇",None,sfclicrec.asp?p=97342,AMQ902,http://www.sfc.hk/publicregWeb/indi/AMQ902/licenceRecord,,,Rep,2009-12-28,2012-05-30
 "Song, Minmin 宋旻旻",None,sfclicrec.asp?p=2259557,BDF036,http://www.sfc.hk/publicregWeb/indi/BDF036/licenceRecord,,,Rep,2017-06-05,2017-08-02
-"Song, Peng (SFC:APP441) 宋鵬",,sfclicrec.asp?p=85191,APP441,http://www.sfc.hk/publicregWeb/indi/APP441/licenceRecord,,M,Rep,2014-04-30,2015-01-06
+"Song, Peng (SFC:APP441) 宋鵬",nan,sfclicrec.asp?p=85191,APP441,http://www.sfc.hk/publicregWeb/indi/APP441/licenceRecord,,M,Rep,2014-04-30,2015-01-06
 "Suen, Hon Bun 孫瀚斌",None,sfclicrec.asp?p=97343,AFJ454,http://www.sfc.hk/publicregWeb/indi/AFJ454/licenceRecord,,,Rep,2010-05-11,2014-03-21
 "Sun, Wai Na 孫蕙娜",None,sfclicrec.asp?p=2534461,BGY650,http://www.sfc.hk/publicregWeb/indi/BGY650/licenceRecord,,,Rep,2016-02-02,2016-11-02
 "Sun, Yan (SFC:BIC310) 孫岩",None,sfclicrec.asp?p=2628240,BIC310,http://www.sfc.hk/publicregWeb/indi/BIC310/licenceRecord,,,Rep,2016-09-02,2017-04-20
@@ -387,7 +387,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Yee, Laurie Chat Hoong ",None,sfclicrec.asp?p=80088,AEN389,http://www.sfc.hk/publicregWeb/indi/AEN389/licenceRecord,,,Rep,2009-11-16,2010-02-06
 "Yeung, Chi Wai (SFC:ABT728) 楊志偉",None,sfclicrec.asp?p=82379,ABT728,http://www.sfc.hk/publicregWeb/indi/ABT728/licenceRecord,,,Rep,2014-07-23,
 "Yeung, Ching (SFC:ALW845) 楊靜",None,sfclicrec.asp?p=96044,ALW845,http://www.sfc.hk/publicregWeb/indi/ALW845/licenceRecord,,,Rep,2014-08-08,2015-01-30
-"Yeung, Chok Cheong 楊作暢",,sfclicrec.asp?p=1947538,BAD302,http://www.sfc.hk/publicregWeb/indi/BAD302/licenceRecord,,,Rep,2012-08-31,2014-04-30
+"Yeung, Chok Cheong 楊作暢",nan,sfclicrec.asp?p=1947538,BAD302,http://www.sfc.hk/publicregWeb/indi/BAD302/licenceRecord,,,Rep,2012-08-31,2014-04-30
 "Yeung, Chung Lung (SFC:AQX406) 楊仲龍",None,sfclicrec.asp?p=97360,AQX406,http://www.sfc.hk/publicregWeb/indi/AQX406/licenceRecord,,,Rep,2010-09-17,2012-09-15
 "Yeung, Kwok Kei 楊國基",None,sfclicrec.asp?p=2044301,BBB086,http://www.sfc.hk/publicregWeb/indi/BBB086/licenceRecord,,,Rep,2013-04-02,2013-12-31
 "Yeung, On Lit 楊安烈",None,sfclicrec.asp?p=83392,AQE939,http://www.sfc.hk/publicregWeb/indi/AQE939/licenceRecord,,,Rep,2009-12-18,2010-11-25

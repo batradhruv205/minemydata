@@ -10,8 +10,8 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Lam, Kevin Ka Nok 林嘉諾",None,sfclicrec.asp?p=116845,AML396,http://www.sfc.hk/publicregWeb/indi/AML396/licenceRecord,,M,Rep,2005-09-13,2005-10-14
 "Lam, Kwan Chor 林坤初",None,sfclicrec.asp?p=23515566,BOL501,http://www.sfc.hk/publicregWeb/indi/BOL501/licenceRecord,,,Rep,2019-08-06,
 "Lee, Karen Kit Ying 李潔英",None,sfclicrec.asp?p=55755,AMX584,http://www.sfc.hk/publicregWeb/indi/AMX584/licenceRecord,72.0,F,Rep,2006-01-13,2008-07-30
-"Lee, Kenny Yiu Sun 李耀新",,sfclicrec.asp?p=1908,AAJ472,http://www.sfc.hk/publicregWeb/indi/AAJ472/licenceRecord,62.0,M,RO,,2015-12-16
-"Lee, Kenny Yiu Sun 李耀新",,sfclicrec.asp?p=1908,AAJ472,http://www.sfc.hk/publicregWeb/indi/AAJ472/licenceRecord,62.0,M,Rep,2015-12-16,
+"Lee, Kenny Yiu Sun 李耀新",nan,sfclicrec.asp?p=1908,AAJ472,http://www.sfc.hk/publicregWeb/indi/AAJ472/licenceRecord,62.0,M,RO,,2015-12-16
+"Lee, Kenny Yiu Sun 李耀新",nan,sfclicrec.asp?p=1908,AAJ472,http://www.sfc.hk/publicregWeb/indi/AAJ472/licenceRecord,62.0,M,Rep,2015-12-16,
 "Lee, Wing Yu 李穎妤",None,sfclicrec.asp?p=134467,AYK447,http://www.sfc.hk/publicregWeb/indi/AYK447/licenceRecord,,,Rep,2012-03-21,2016-02-15
 "Lee, Wing Yu 李穎妤",None,sfclicrec.asp?p=134467,AYK447,http://www.sfc.hk/publicregWeb/indi/AYK447/licenceRecord,,,RO,2016-02-15,2017-07-31
 "Lin, Hsiu Mei 林秀梅",None,sfclicrec.asp?p=81623,AFQ674,http://www.sfc.hk/publicregWeb/indi/AFQ674/licenceRecord,,,RO,2010-03-15,2011-02-28
@@ -28,4 +28,4 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Wong, Siu Kin (SFC:AML390) 黃紹乾",None,sfclicrec.asp?p=116844,AML390,http://www.sfc.hk/publicregWeb/indi/AML390/licenceRecord,,,Rep,2005-09-13,2007-07-12
 "Xue, Jing (SFC:ANU814) 薛靜",None,sfclicrec.asp?p=119419,ANU814,http://www.sfc.hk/publicregWeb/indi/ANU814/licenceRecord,,,Rep,2006-08-18,2007-07-12
 "Yee, Hoi Yan 余海恩",None,sfclicrec.asp?p=112444,AIS618,http://www.sfc.hk/publicregWeb/indi/AIS618/licenceRecord,,,Rep,2007-04-19,2007-07-17
-"Yin, Richard Yingneng 尹應能",,sfclicrec.asp?p=11846,AEF534,http://www.sfc.hk/publicregWeb/indi/AEF534/licenceRecord,68.0,M,RO,2005-05-20,2008-07-11
+"Yin, Richard Yingneng 尹應能",nan,sfclicrec.asp?p=11846,AEF534,http://www.sfc.hk/publicregWeb/indi/AEF534/licenceRecord,68.0,M,RO,2005-05-20,2008-07-11

@@ -8,7 +8,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Au, Shui Leung 區瑞良",None,sfclicrec.asp?p=96084,AUI431,http://www.sfc.hk/publicregWeb/indi/AUI431/licenceRecord,,,Rep,2010-11-08,2012-04-24
 "Bob, Hang Wai 卜鏗瑋",None,sfclicrec.asp?p=2708724,BJB655,http://www.sfc.hk/publicregWeb/indi/BJB655/licenceRecord,,,Rep,2017-03-09,2017-08-31
 "Chak, Hong Wah 翟康華",None,sfclicrec.asp?p=78825,AOV133,http://www.sfc.hk/publicregWeb/indi/AOV133/licenceRecord,,,Rep,2007-04-18,2008-04-01
-"Cham, Nga Yin 湛雅妍",,sfclicrec.asp?p=96053,AMI615,http://www.sfc.hk/publicregWeb/indi/AMI615/licenceRecord,,F,Rep,2006-05-25,2014-09-30
+"Cham, Nga Yin 湛雅妍",nan,sfclicrec.asp?p=96053,AMI615,http://www.sfc.hk/publicregWeb/indi/AMI615/licenceRecord,,F,Rep,2006-05-25,2014-09-30
 "Chan, Carolina Lai Ping 陳麗萍",None,sfclicrec.asp?p=117888,ANA832,http://www.sfc.hk/publicregWeb/indi/ANA832/licenceRecord,,F,Rep,2013-10-18,2014-06-06
 "Chan, Cheung Kin 陳章健",None,sfclicrec.asp?p=130899,AWX844,http://www.sfc.hk/publicregWeb/indi/AWX844/licenceRecord,,,Rep,2011-03-04,2011-09-10
 "Chan, Chi Hang (SFC:AMI009) 陳智恆",None,sfclicrec.asp?p=116497,AMI009,http://www.sfc.hk/publicregWeb/indi/AMI009/licenceRecord,,,Rep,2005-08-03,2005-09-22
@@ -361,7 +361,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Shek, Eric Cheuk Fai 石卓輝",None,sfclicrec.asp?p=87282,AOU783,http://www.sfc.hk/publicregWeb/indi/AOU783/licenceRecord,,M,Rep,2013-02-01,
 "Shek, Helen Man Ying 石文英",None,sfclicrec.asp?p=2055086,BBA734,http://www.sfc.hk/publicregWeb/indi/BBA734/licenceRecord,,F,Rep,2013-04-19,2017-12-21
 "Shi, Haiqing 施海清",None,sfclicrec.asp?p=1894229,AZL707,http://www.sfc.hk/publicregWeb/indi/AZL707/licenceRecord,,,Rep,2012-08-10,2018-09-18
-"Shiu, Yau Wah 蕭猷華",,sfclicrec.asp?p=91237,AFP821,http://www.sfc.hk/publicregWeb/indi/AFP821/licenceRecord,,M,Rep,2007-12-06,2009-02-01
+"Shiu, Yau Wah 蕭猷華",nan,sfclicrec.asp?p=91237,AFP821,http://www.sfc.hk/publicregWeb/indi/AFP821/licenceRecord,,M,Rep,2007-12-06,2009-02-01
 "Shung, Kwok Yin 宋國彥",None,sfclicrec.asp?p=75812,AFF211,http://www.sfc.hk/publicregWeb/indi/AFF211/licenceRecord,,,Rep,,2003-12-04
 "Siu, Helfen Hi Kin 蕭起健",None,sfclicrec.asp?p=96113,ABR636,http://www.sfc.hk/publicregWeb/indi/ABR636/licenceRecord,,,Rep,2003-10-16,2008-02-20
 "Siu, Helfen Hi Kin 蕭起健",None,sfclicrec.asp?p=96113,ABR636,http://www.sfc.hk/publicregWeb/indi/ABR636/licenceRecord,,,Rep,2009-04-27,2017-07-22
@@ -464,7 +464,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Wong, Tat Wai 黃達威",None,sfclicrec.asp?p=115767,ALW924,http://www.sfc.hk/publicregWeb/indi/ALW924/licenceRecord,,,Rep,2006-01-18,2006-02-08
 "Wong, Tsun Hei 黃俊熹",None,sfclicrec.asp?p=127775,ASP993,http://www.sfc.hk/publicregWeb/indi/ASP993/licenceRecord,,,Rep,2009-03-26,2009-09-09
 "Wong, Wai Fun (SFC:APK768) 黃慧芬",None,sfclicrec.asp?p=96118,APK768,http://www.sfc.hk/publicregWeb/indi/APK768/licenceRecord,,,Rep,2008-04-24,2017-08-31
-"Wong, Wai Hong (SFC:ANG976) 黃偉康",,sfclicrec.asp?p=118298,ANG976,http://www.sfc.hk/publicregWeb/indi/ANG976/licenceRecord,,,Rep,2009-04-29,2009-12-21
+"Wong, Wai Hong (SFC:ANG976) 黃偉康",nan,sfclicrec.asp?p=118298,ANG976,http://www.sfc.hk/publicregWeb/indi/ANG976/licenceRecord,,,Rep,2009-04-29,2009-12-21
 "Wong, Wai Yip 黃偉業",None,sfclicrec.asp?p=122397,APJ410,http://www.sfc.hk/publicregWeb/indi/APJ410/licenceRecord,,,Rep,2007-08-08,2008-05-01
 "Wong, Wan Kin 黃雲鍵",None,sfclicrec.asp?p=95698,AVM904,http://www.sfc.hk/publicregWeb/indi/AVM904/licenceRecord,,,Rep,2010-07-21,2010-07-21
 "Wong, Wang Fung 黃宏鋒",None,sfclicrec.asp?p=93894,ALC009,http://www.sfc.hk/publicregWeb/indi/ALC009/licenceRecord,,,Rep,2012-04-10,2012-05-21

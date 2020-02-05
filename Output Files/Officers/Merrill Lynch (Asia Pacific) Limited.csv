@@ -368,7 +368,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Chan, Ting Ting 陳婷婷",None,sfclicrec.asp?p=118345,ANH143,http://www.sfc.hk/publicregWeb/indi/ANH143/licenceRecord,,,Rep,2006-04-18,2006-06-14
 "Chan, Trudy Hong Li 陳匡俐",None,sfclicrec.asp?p=120122,AOE439,http://www.sfc.hk/publicregWeb/indi/AOE439/licenceRecord,,,Rep,2006-11-20,2010-05-31
 "Chan, Wai Ching (SFC:AVF224) 陳慧菁",None,sfclicrec.asp?p=2312925,AVF224,http://www.sfc.hk/publicregWeb/indi/AVF224/licenceRecord,,,Rep,2014-08-26,2016-08-31
-"Chan, Wai Nun 陳威能",,sfclicrec.asp?p=111334,AHN460,http://www.sfc.hk/publicregWeb/indi/AHN460/licenceRecord,,,Rep,2007-08-10,2007-09-07
+"Chan, Wai Nun 陳威能",nan,sfclicrec.asp?p=111334,AHN460,http://www.sfc.hk/publicregWeb/indi/AHN460/licenceRecord,,,Rep,2007-08-10,2007-09-07
 "Chan, Wai Sin 陳為善",None,sfclicrec.asp?p=119584,ANX804,http://www.sfc.hk/publicregWeb/indi/ANX804/licenceRecord,,,Rep,2006-09-11,2010-10-01
 "Chan, Wan Chi (SFC:AOY511) 陳韻芝",None,sfclicrec.asp?p=87437,AOY511,http://www.sfc.hk/publicregWeb/indi/AOY511/licenceRecord,,,Rep,2007-05-25,2013-07-06
 "Chan, Wei Hsien ",None,sfclicrec.asp?p=96792,AND584,http://www.sfc.hk/publicregWeb/indi/AND584/licenceRecord,,,Rep,2006-03-01,2010-11-01
@@ -1248,7 +1248,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Goma, Joseph Auger ",None,sfclicrec.asp?p=22242773,BKC778,http://www.sfc.hk/publicregWeb/indi/BKC778/licenceRecord,,M,Rep,2019-07-22,
 "Gong, Aling 龔阿玲",None,sfclicrec.asp?p=115129,ALP702,http://www.sfc.hk/publicregWeb/indi/ALP702/licenceRecord,,,Rep,2005-01-06,2006-01-05
 "Gong, Chenyu 宫晨瑜",None,sfclicrec.asp?p=21578795,BMX082,http://www.sfc.hk/publicregWeb/indi/BMX082/licenceRecord,,,Rep,2018-08-06,2019-10-02
-"Gong, Yueyue 龔悅悅",,sfclicrec.asp?p=84353,AVK929,http://www.sfc.hk/publicregWeb/indi/AVK929/licenceRecord,41.0,M,Rep,2010-07-02,2010-10-14
+"Gong, Yueyue 龔悅悅",nan,sfclicrec.asp?p=84353,AVK929,http://www.sfc.hk/publicregWeb/indi/AVK929/licenceRecord,41.0,M,Rep,2010-07-02,2010-10-14
 "Gonzales, Emeterio Iii David ",None,sfclicrec.asp?p=2346704,AAI265,http://www.sfc.hk/publicregWeb/indi/AAI265/licenceRecord,,M,Rep,2014-11-17,2014-11-21
 "Gonzales, Emeterio Iii David ",None,sfclicrec.asp?p=2346704,AAI265,http://www.sfc.hk/publicregWeb/indi/AAI265/licenceRecord,,M,Rep,2015-06-23,2015-06-24
 "Gonzales, Emeterio Iii David ",None,sfclicrec.asp?p=2346704,AAI265,http://www.sfc.hk/publicregWeb/indi/AAI265/licenceRecord,,M,Rep,2015-10-27,2015-10-29
@@ -1828,7 +1828,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Khosla, Navjeewan Jatinder ",None,sfclicrec.asp?p=96930,AMC956,http://www.sfc.hk/publicregWeb/indi/AMC956/licenceRecord,,,Rep,2015-12-07,2018-02-23
 "Kiang, Chin Yu 江經宇",None,sfclicrec.asp?p=89936,AGR151,http://www.sfc.hk/publicregWeb/indi/AGR151/licenceRecord,,,Rep,2006-11-30,2008-07-17
 "Kiang, Juliana Chih Pine 江治平",None,sfclicrec.asp?p=87672,AEW976,http://www.sfc.hk/publicregWeb/indi/AEW976/licenceRecord,,,Rep,,2013-09-07
-"Kiang, Laura Mang Yi 江曼怡",,sfclicrec.asp?p=133017,AYH971,http://www.sfc.hk/publicregWeb/indi/AYH971/licenceRecord,,F,Rep,2011-10-25,2013-07-13
+"Kiang, Laura Mang Yi 江曼怡",nan,sfclicrec.asp?p=133017,AYH971,http://www.sfc.hk/publicregWeb/indi/AYH971/licenceRecord,,F,Rep,2011-10-25,2013-07-13
 "Kiang, Lillian Shin Ping 江馨平",None,sfclicrec.asp?p=111308,AHM828,http://www.sfc.hk/publicregWeb/indi/AHM828/licenceRecord,,F,Rep,,2005-09-07
 "Kido, Tadashi 城戶証",None,sfclicrec.asp?p=70530,ASZ388,http://www.sfc.hk/publicregWeb/indi/ASZ388/licenceRecord,,,Rep,2016-03-01,2018-08-22
 "Kikko, John ",None,sfclicrec.asp?p=2437156,BFP833,http://www.sfc.hk/publicregWeb/indi/BFP833/licenceRecord,,M,Rep,2015-06-18,2017-10-03
@@ -4470,7 +4470,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Yazhari, Hootan ",None,sfclicrec.asp?p=12685604,BLV945,http://www.sfc.hk/publicregWeb/indi/BLV945/licenceRecord,,,Rep,2018-01-12,2018-01-15
 "Yazhari, Hootan ",None,sfclicrec.asp?p=12685604,BLV945,http://www.sfc.hk/publicregWeb/indi/BLV945/licenceRecord,,,Rep,2018-10-26,2018-11-02
 "Ye, Aijia 葉藹嘉",None,sfclicrec.asp?p=118831,ANN498,http://www.sfc.hk/publicregWeb/indi/ANN498/licenceRecord,,,Rep,2006-06-20,2006-08-20
-"Ye, Feng (SFC:ATO412) 叶鋒",,sfclicrec.asp?p=88147,ATO412,http://www.sfc.hk/publicregWeb/indi/ATO412/licenceRecord,,M,Rep,2010-10-11,2012-01-03
+"Ye, Feng (SFC:ATO412) 叶鋒",nan,sfclicrec.asp?p=88147,ATO412,http://www.sfc.hk/publicregWeb/indi/ATO412/licenceRecord,,M,Rep,2010-10-11,2012-01-03
 "Ye, Hanying 叶含英",None,sfclicrec.asp?p=71208,ASK326,http://www.sfc.hk/publicregWeb/indi/ASK326/licenceRecord,,,Rep,2009-02-05,2009-06-26
 "Ye, Lingyun 叶凌云",None,sfclicrec.asp?p=113371,AJK453,http://www.sfc.hk/publicregWeb/indi/AJK453/licenceRecord,,,Rep,2004-11-16,2010-08-19
 "Ye, Nayun 叶拏云",None,sfclicrec.asp?p=88148,AWG076,http://www.sfc.hk/publicregWeb/indi/AWG076/licenceRecord,,,Rep,2010-11-15,2012-11-07

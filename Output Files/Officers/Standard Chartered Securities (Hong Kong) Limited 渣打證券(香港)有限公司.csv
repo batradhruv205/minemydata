@@ -163,8 +163,8 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Hong, Kwang Pyo ",None,sfclicrec.asp?p=128315,ATL729,http://www.sfc.hk/publicregWeb/indi/ATL729/licenceRecord,,,Rep,2009-08-10,2010-03-22
 "Hsieh, Ching-An 謝景安",None,sfclicrec.asp?p=2546736,BHC630,http://www.sfc.hk/publicregWeb/indi/BHC630/licenceRecord,,,Rep,2016-03-14,2016-06-01
 "Hsu, Duff Karman 徐嘉文",None,sfclicrec.asp?p=67745,ACJ278,http://www.sfc.hk/publicregWeb/indi/ACJ278/licenceRecord,,M,RO,,2009-06-30
-"Hsu, Joseph Kar Hing 許家興",,sfclicrec.asp?p=41922,AKP772,http://www.sfc.hk/publicregWeb/indi/AKP772/licenceRecord,56.0,M,Rep,2006-05-08,2007-02-05
-"Hsu, Joseph Kar Hing 許家興",,sfclicrec.asp?p=41922,AKP772,http://www.sfc.hk/publicregWeb/indi/AKP772/licenceRecord,56.0,M,RO,2007-02-05,2010-09-10
+"Hsu, Joseph Kar Hing 許家興",nan,sfclicrec.asp?p=41922,AKP772,http://www.sfc.hk/publicregWeb/indi/AKP772/licenceRecord,56.0,M,Rep,2006-05-08,2007-02-05
+"Hsu, Joseph Kar Hing 許家興",nan,sfclicrec.asp?p=41922,AKP772,http://www.sfc.hk/publicregWeb/indi/AKP772/licenceRecord,56.0,M,RO,2007-02-05,2010-09-10
 "Hsu, Philip Kar Yeung 許家揚",None,sfclicrec.asp?p=102314,ABT051,http://www.sfc.hk/publicregWeb/indi/ABT051/licenceRecord,,M,Rep,,2010-06-10
 "Hu, Shuxin 胡愫心",None,sfclicrec.asp?p=95102,ACT509,http://www.sfc.hk/publicregWeb/indi/ACT509/licenceRecord,,,Rep,2011-06-27,2012-08-22
 "Hua, Cheng ",None,sfclicrec.asp?p=2140179,BBZ389,http://www.sfc.hk/publicregWeb/indi/BBZ389/licenceRecord,,,Rep,2013-10-02,2014-09-09
@@ -289,7 +289,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Ng, Fanny Ho Man 吳皓敏",None,sfclicrec.asp?p=72295,AKU292,http://www.sfc.hk/publicregWeb/indi/AKU292/licenceRecord,,F,Rep,2007-05-21,2009-11-01
 "Ng, Rowena See Wai 吳思煒",None,sfclicrec.asp?p=8584,ACH919,http://www.sfc.hk/publicregWeb/indi/ACH919/licenceRecord,58.0,F,Rep,2004-05-14,2004-06-02
 "Ng, Rowena See Wai 吳思煒",None,sfclicrec.asp?p=8584,ACH919,http://www.sfc.hk/publicregWeb/indi/ACH919/licenceRecord,58.0,F,RO,2004-06-02,2006-12-20
-"Ng, Stephen Wing Leung 吳永亮",,sfclicrec.asp?p=107181,AFQ411,http://www.sfc.hk/publicregWeb/indi/AFQ411/licenceRecord,,M,Rep,,2006-05-20
+"Ng, Stephen Wing Leung 吳永亮",nan,sfclicrec.asp?p=107181,AFQ411,http://www.sfc.hk/publicregWeb/indi/AFQ411/licenceRecord,,M,Rep,,2006-05-20
 "Ngai, Michael Ming Tak 魏明德",None,sfclicrec.asp?p=32703,ACS157,http://www.sfc.hk/publicregWeb/indi/ACS157/licenceRecord,54.0,M,Rep,,2004-10-06
 "Ngai, Michael Ming Tak 魏明德",None,sfclicrec.asp?p=32703,ACS157,http://www.sfc.hk/publicregWeb/indi/ACS157/licenceRecord,54.0,M,RO,2004-10-06,2006-04-17
 "Ni, Yixiong 倪一雄",None,sfclicrec.asp?p=2646039,BIK126,http://www.sfc.hk/publicregWeb/indi/BIK126/licenceRecord,,,Rep,2016-10-20,2017-01-31

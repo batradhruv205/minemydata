@@ -23,7 +23,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Hung, Chiu Kan 洪僑根",None,sfclicrec.asp?p=99223,AAB115,http://www.sfc.hk/publicregWeb/indi/AAB115/licenceRecord,,,Rep,2008-06-10,
 "Ip, Yu Pang 葉如鵬",None,sfclicrec.asp?p=73618,ACH676,http://www.sfc.hk/publicregWeb/indi/ACH676/licenceRecord,,,Rep,2019-01-22,2019-04-25
 "Kong, Tao 江濤",None,sfclicrec.asp?p=115910,ALZ425,http://www.sfc.hk/publicregWeb/indi/ALZ425/licenceRecord,,,Rep,2005-11-03,2006-03-12
-"Ku, Yuen Leung 古苑良",,sfclicrec.asp?p=71527,AEE533,http://www.sfc.hk/publicregWeb/indi/AEE533/licenceRecord,,,Rep,2019-05-03,
+"Ku, Yuen Leung 古苑良",nan,sfclicrec.asp?p=71527,AEE533,http://www.sfc.hk/publicregWeb/indi/AEE533/licenceRecord,,,Rep,2019-05-03,
 "Kwong, Yiu Pui 鄺耀培",None,sfclicrec.asp?p=99224,ACM350,http://www.sfc.hk/publicregWeb/indi/ACM350/licenceRecord,,,Rep,,
 "Lai, Edward Shing Tung 黎盛東",None,sfclicrec.asp?p=99225,AAJ178,http://www.sfc.hk/publicregWeb/indi/AAJ178/licenceRecord,,M,Rep,,
 "Lai, Ming Hoi 賴明海",None,sfclicrec.asp?p=79219,AAE840,http://www.sfc.hk/publicregWeb/indi/AAE840/licenceRecord,,,Rep,2005-11-05,2007-08-18
@@ -59,8 +59,8 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Or, Johnny Wai Sheun 柯為湘",None,sfclicrec.asp?p=11253,AAA279,http://www.sfc.hk/publicregWeb/indi/AAA279/licenceRecord,69.0,M,RO,,2005-08-16
 "Palmer, Marie Ann 馬楚瑩",None,sfclicrec.asp?p=91234,AQU968,http://www.sfc.hk/publicregWeb/indi/AQU968/licenceRecord,,F,Rep,2008-05-21,2009-09-11
 "Poon, Che Ho 潘志豪",None,sfclicrec.asp?p=71126,AEH550,http://www.sfc.hk/publicregWeb/indi/AEH550/licenceRecord,,,Rep,2018-10-29,
-"Shiu, Sammy Kin Keung 蕭健強",,sfclicrec.asp?p=100555,AAA540,http://www.sfc.hk/publicregWeb/indi/AAA540/licenceRecord,,M,Rep,2006-01-04,2006-02-21
-"Shiu, Sammy Kin Keung 蕭健強",,sfclicrec.asp?p=100555,AAA540,http://www.sfc.hk/publicregWeb/indi/AAA540/licenceRecord,,M,RO,2006-02-21,2007-09-01
+"Shiu, Sammy Kin Keung 蕭健強",nan,sfclicrec.asp?p=100555,AAA540,http://www.sfc.hk/publicregWeb/indi/AAA540/licenceRecord,,M,Rep,2006-01-04,2006-02-21
+"Shiu, Sammy Kin Keung 蕭健強",nan,sfclicrec.asp?p=100555,AAA540,http://www.sfc.hk/publicregWeb/indi/AAA540/licenceRecord,,M,RO,2006-02-21,2007-09-01
 "So, Fuk Lam 蘇福林",None,sfclicrec.asp?p=101058,AAE856,http://www.sfc.hk/publicregWeb/indi/AAE856/licenceRecord,,,Rep,2005-10-13,2006-01-17
 "So, Fuk Lam 蘇福林",None,sfclicrec.asp?p=101058,AAE856,http://www.sfc.hk/publicregWeb/indi/AAE856/licenceRecord,,,RO,2006-01-17,2007-08-18
 "Tam, Henry Kin Kee 譚健基",None,sfclicrec.asp?p=99235,AAC284,http://www.sfc.hk/publicregWeb/indi/AAC284/licenceRecord,,M,Rep,2007-11-02,

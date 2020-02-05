@@ -67,7 +67,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Chan, Wai Hung (SFC:AFA262) 陳偉鴻",None,sfclicrec.asp?p=94906,AFA262,http://www.sfc.hk/publicregWeb/indi/AFA262/licenceRecord,,,Rep,,
 "Chan, Wai Man (SFC:APY926) 陳慧敏",None,sfclicrec.asp?p=94907,APY926,http://www.sfc.hk/publicregWeb/indi/APY926/licenceRecord,,,Rep,2007-12-11,2014-12-30
 "Chan, Wai Ming (SFC:AFG741) 陳偉明",None,sfclicrec.asp?p=94908,AFG741,http://www.sfc.hk/publicregWeb/indi/AFG741/licenceRecord,,,Rep,,2019-07-31
-"Chan, Wai Nun 陳威能",,sfclicrec.asp?p=111334,AHN460,http://www.sfc.hk/publicregWeb/indi/AHN460/licenceRecord,,,Rep,,2005-01-27
+"Chan, Wai Nun 陳威能",nan,sfclicrec.asp?p=111334,AHN460,http://www.sfc.hk/publicregWeb/indi/AHN460/licenceRecord,,,Rep,,2005-01-27
 "Chan, Wai Tak (SFC:AHJ324) 陳偉德",None,sfclicrec.asp?p=94994,AHJ324,http://www.sfc.hk/publicregWeb/indi/AHJ324/licenceRecord,,,Rep,2008-02-15,2012-07-18
 "Chan, Wai Tak (SFC:AHJ324) 陳偉德",None,sfclicrec.asp?p=94994,AHJ324,http://www.sfc.hk/publicregWeb/indi/AHJ324/licenceRecord,,,Rep,2012-09-28,2017-09-07
 "Chan, Yick Keung 陳奕強",None,sfclicrec.asp?p=2153465,BBX848,http://www.sfc.hk/publicregWeb/indi/BBX848/licenceRecord,,,Rep,2018-01-18,2018-03-29
@@ -447,7 +447,7 @@ Name,DiscAct,URL,SFC ID,SFC Link,Age in 2020,Gender,Role,From,Until
 "Tsang, Simon Siu Hung 曾少雄",None,sfclicrec.asp?p=91200,AAJ982,http://www.sfc.hk/publicregWeb/indi/AAJ982/licenceRecord,,M,Rep,2011-10-07,2011-12-01
 "Tsang, Simon Siu Hung 曾少雄",None,sfclicrec.asp?p=91200,AAJ982,http://www.sfc.hk/publicregWeb/indi/AAJ982/licenceRecord,,M,RO,2011-12-01,2016-10-31
 "Tsang, Terence Kwong Man 曾廣民",None,sfclicrec.asp?p=95012,AEV711,http://www.sfc.hk/publicregWeb/indi/AEV711/licenceRecord,,M,Rep,2010-08-12,
-"Tsap, Tommy Wai Ping 翟偉平",,sfclicrec.asp?p=100477,AAI545,http://www.sfc.hk/publicregWeb/indi/AAI545/licenceRecord,,M,Rep,2010-05-26,2011-01-01
+"Tsap, Tommy Wai Ping 翟偉平",nan,sfclicrec.asp?p=100477,AAI545,http://www.sfc.hk/publicregWeb/indi/AAI545/licenceRecord,,M,Rep,2010-05-26,2011-01-01
 "Tse, Chau Ming 謝秋銘",None,sfclicrec.asp?p=94967,AVR835,http://www.sfc.hk/publicregWeb/indi/AVR835/licenceRecord,,,Rep,2010-08-13,2016-05-08
 "Tse, Chi Ho (SFC:APB691) 謝志豪",None,sfclicrec.asp?p=72989,APB691,http://www.sfc.hk/publicregWeb/indi/APB691/licenceRecord,,,Rep,2012-10-24,2014-07-14
 "Tse, Po Wing 謝寶榮",None,sfclicrec.asp?p=127298,ASD891,http://www.sfc.hk/publicregWeb/indi/ASD891/licenceRecord,,,Rep,2018-11-23,
