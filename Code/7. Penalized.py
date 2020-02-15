@@ -46,4 +46,9 @@ for licensee in range(232, len(penalized)):
 DiscAct.columns = ['Company', 'Name', 'SFC Link', 'Date', 'Action', 'Lang', 'Eng Release', 'Ch Release']
 DiscAct = DiscAct.drop(columns = 'Lang')
 DiscAct = DiscAct.reset_index(drop = True)
+DiscAct.insert(7, 'Temp', "")
+for i in range(0, len(DiscAct)):
+    DiscAct.at[i,'Temp'] = DiscAct['Name'][i] + DiscAct['Action'][i]
+DiscAct = DiscAct.drop_duplicates(subset = 'Temp')
+DiscAct = DiscAct.drop(columns = 'Temp')
 DiscAct.to_csv("Output Files/DiscAct.csv", index = None)

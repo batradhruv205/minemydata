@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['Code\\1. WhosWho.py', 'Code\\2. Licensees.py', 'Code\\3.OfficerInfo.py', 'Code\\4. DiscAct.py', 'Code\\5. Find Incomplete.py', 'Code\\6. Consolidate.py', 'Readme.md']
+recent_files = ['Code\\1. WhosWho.py', 'Code\\2. Licensees.py', 'Code\\3.OfficerInfo.py', 'Code\\4. DiscAct.py', 'Code\\5. Find Incomplete.py', 'Code\\6. Consolidate.py', 'Code\\7. Penalized.py', 'Code\\8. Releases.py']
 
